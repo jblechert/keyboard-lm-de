@@ -1,0 +1,7 @@
+data/
+.venv/
+.venv_ml/
+__pycache__/
+*.pyc
+*.pyo
+.claude/
