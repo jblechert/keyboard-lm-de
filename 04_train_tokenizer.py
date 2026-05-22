@@ -60,8 +60,7 @@ def main():
         byte_fallback=True,          # unbekannte Bytes als <0xNN>-Token
         add_dummy_prefix=False,      # kein Dummy-Leerzeichen am Satzanfang
 
-        # Trainingseffizienz
-        input_sentence_size=5_000_000,   # max. 5M Sätze für Training
+        # Alle Sätze verwenden
         shuffle_input_sentence=True,
 
         # Reservierte Plätze für unsere Special Tokens
