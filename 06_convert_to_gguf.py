@@ -134,7 +134,7 @@ def main():
     writer = GGUFWriter(str(out_path), arch="llama")
 
     # Modell-Metadaten
-    writer.add_name("FUTO Keyboard DE")
+    writer.add_name("mjb-de-0.1")
     writer.add_description("German keyboard language model for FUTO Keyboard")
     writer.add_languages(["de"])
 

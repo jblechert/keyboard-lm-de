@@ -208,7 +208,7 @@ def main():
 
         # Reproduzierbarkeit
         seed=42,
-        dataloader_num_workers=4,
+        dataloader_num_workers=0,  # IterableDataset verträgt kein Multiprocessing-Pickling
 
         report_to="none",
     )
