@@ -19,12 +19,8 @@ import sys
 import time
 from pathlib import Path
 
-try:
-    from openai import OpenAI
-except ImportError:
-    print("Fehler: openai-Paket fehlt. Installieren mit:", file=sys.stderr)
-    print("  .venv_ml/bin/pip install openai", file=sys.stderr)
-    sys.exit(1)
+import json
+import urllib.request
 
 OUT = Path("data/synthetic_de.txt")
 
@@ -60,23 +56,54 @@ STYLES = [
 SYSTEM_PROMPT = """Du generierst deutsche Sätze so wie echte Menschen sie auf dem Smartphone tippen.
 
 Wichtige Regeln:
-- Natürlich und gesprochen, KEIN Bürokratendeutsch, kein Wikipedia-Stil
-- Kurz: meist 4–12 Wörter, gelegentlich kürzer oder etwas länger
-- Korrekte Rechtschreibung und Grammatik (Tippfehler weglassen)
+- Längenmix: etwa die Hälfte 3–7 Wörter, der Rest 8–15 Wörter, kein Satz über 15 Wörter
+- Natürlich und gesprochen, KEIN Schachtelsatz mit Nebensätzen, kein Wikipedia-Stil
+- Korrekte Rechtschreibung und Grammatik
 - Keine Anführungszeichen, keine Nummerierung, kein Kommentar
 - Genau eine Zeile pro Satz, keine Leerzeilen zwischen Sätzen
-- Abwechslungsreich: kein Satz darf dem vorherigen ähneln"""
+- Abwechslungsreich: kein Satz darf dem vorherigen ähneln
+
+Gute Beispiele – mix aus kurz und mittel:
+Ok, bis dann!
+Ich bin gleich fertig.
+Hast du schon gegessen?
+Wann kommst du eigentlich an?
+Ich schaff das heute nicht mehr, sorry.
+Kannst du kurz vorbeikommen, ich bräuchte deine Hilfe.
+Das klingt gut, machen wir so.
+Ich bin in 10 Minuten am Bahnhof.
+Was soll ich mitbringen?
+Wir treffen uns dann um halb acht vor dem Kino."""
 
 
 def build_user_prompt(topic: str, situation: str, style: str, n: int) -> str:
-    # /no_think muss bei Qwen3 am Anfang der User-Message stehen
     return (
-        f"/no_think\n"
         f"Thema: {topic}\n"
         f"Situation: {situation}\n"
         f"Stil: {style}\n\n"
         f"Schreib genau {n} solche Sätze, einen pro Zeile."
     )
+
+
+def ollama_chat(host: str, model: str, system: str, user: str, max_tokens: int) -> str:
+    payload = json.dumps({
+        "model": model,
+        "think": False,
+        "stream": False,
+        "options": {"num_predict": max_tokens},
+        "messages": [
+            {"role": "system", "content": system},
+            {"role": "user",   "content": user},
+        ],
+    }).encode()
+    req = urllib.request.Request(
+        f"{host}/api/chat",
+        data=payload,
+        headers={"Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        result = json.loads(resp.read())
+    return result["message"]["content"]
 
 
 def parse_sentences(raw: str) -> list[str]:
@@ -103,17 +130,15 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--target", type=int, default=2000,
                         help="Anzahl Sätze (default: 2000)")
-    parser.add_argument("--model", default="qwen3:27b",
+    parser.add_argument("--model", default="qwen3.6:27b",
                         help="Ollama-Modellname (default: qwen3:27b)")
-    parser.add_argument("--host", default="http://localhost:11434/v1",
-                        help="Ollama API base URL")
+    parser.add_argument("--host", default="http://localhost:11434",
+                        help="Ollama base URL (default: http://localhost:11434)")
     parser.add_argument("--batch", type=int, default=20,
                         help="Sätze pro API-Aufruf (default: 20)")
     parser.add_argument("--append", action="store_true",
                         help="An bestehende Datei anhängen statt überschreiben")
     args = parser.parse_args()
-
-    client = OpenAI(base_url=args.host, api_key="ollama")
 
     mode = "a" if args.append else "w"
     existing = 0
@@ -141,16 +166,13 @@ def main():
             user_msg = build_user_prompt(topic, situation, style, n)
 
             try:
-                resp = client.chat.completions.create(
+                raw = ollama_chat(
+                    host=args.host,
                     model=args.model,
-                    messages=[
-                        {"role": "system", "content": SYSTEM_PROMPT},
-                        {"role": "user",   "content": user_msg},
-                    ],
-                    temperature=0.9,
+                    system=SYSTEM_PROMPT,
+                    user=user_msg,
                     max_tokens=n * 30,
                 )
-                raw = resp.choices[0].message.content or ""
                 sentences = parse_sentences(raw)
 
                 if not sentences:
@@ -162,6 +184,7 @@ def main():
 
                 for s in sentences:
                     f.write(s + "\n")
+                f.flush()
                 collected += len(sentences)
 
                 elapsed = time.time() - t_start
