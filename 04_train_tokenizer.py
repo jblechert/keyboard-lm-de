@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Trains a SentencePiece tokenizer on data/tatoeba_de.txt and saves it to
+Trains a SentencePiece tokenizer on all available training data and saves it to
 data/tokenizer/de_keyboard.model + .vocab.
 
 Key settings that match FUTO's format:
@@ -14,7 +14,12 @@ import sys
 from pathlib import Path
 import sentencepiece as spm
 
-TRAIN_TXT   = Path("data/tatoeba_de.txt")
+# All sources — existing files are used automatically
+SOURCES = [
+    Path("data/tatoeba_de.txt"),
+    Path("data/c4_de.txt"),
+    Path("data/synthetic_de.txt"),
+]
 OUT_DIR     = Path("data/tokenizer")
 MODEL_NAME  = "de_keyboard"
 
@@ -30,22 +35,26 @@ FUTO_SPECIAL_TOKENS = [
 
 
 def main():
-    if not TRAIN_TXT.exists():
-        print(f"Fehler: {TRAIN_TXT} nicht gefunden — erst 07_download_tatoeba.py ausführen.", file=sys.stderr)
+    inputs = [p for p in SOURCES if p.exists()]
+    if not inputs:
+        print("Fehler: Keine Trainingsdaten gefunden.", file=sys.stderr)
+        print("  Erst 07_download_tatoeba.py und/oder 09_download_c4_de.py ausführen.", file=sys.stderr)
         sys.exit(1)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     n_special = len(FUTO_SPECIAL_TOKENS)
-    # SentencePiece reserviert immer Plätze für <unk>, <s>, </s> (3 Tokens),
-    # plus wir wollen n_special weitere → diese zieht sp vom lernbaren Pool ab.
-    vocab_for_sp = VOCAB_SIZE - n_special  # ~14979 gelernte Subwörter
+    vocab_for_sp = VOCAB_SIZE - n_special
 
-    print(f"Trainiere SentencePiece-Tokenizer auf {TRAIN_TXT} …")
+    input_str = ",".join(str(p) for p in inputs)
+    total_mb = sum(p.stat().st_size for p in inputs) / 1024 / 1024
+    print(f"Trainiere SentencePiece-Tokenizer auf {len(inputs)} Quelle(n), {total_mb:.0f} MB:")
+    for p in inputs:
+        print(f"  {p}  ({p.stat().st_size/1024/1024:.0f} MB)")
     print(f"  Vokabular: {vocab_for_sp} gelernt + {n_special} Special Tokens = {VOCAB_SIZE} gesamt")
 
     spm.SentencePieceTrainer.train(
-        input=str(TRAIN_TXT),
+        input=input_str,
         model_prefix=str(OUT_DIR / MODEL_NAME),
         vocab_size=vocab_for_sp,
         model_type="bpe",

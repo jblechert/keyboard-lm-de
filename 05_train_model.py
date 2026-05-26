@@ -35,12 +35,18 @@ from datasets import IterableDataset
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
 SP_MODEL       = Path("data/tokenizer/de_keyboard.model")
-TRAIN_TXT      = Path("data/tatoeba_de.txt")
-SYNTHETIC_TXT  = Path("data/synthetic_de.txt")   # optional, höher gewichtet
+TATOEBA_TXT    = Path("data/tatoeba_de.txt")
+C4_TXT         = Path("data/c4_de.txt")
+SYNTHETIC_TXT  = Path("data/synthetic_de.txt")
 OUTPUT_DIR     = Path("data/model_hf")
 
-# Wie oft synthetische Daten häufiger gezogen werden als Tatoeba
-SYNTHETIC_WEIGHT = 4
+# Sampling-Gewichte (relativ zueinander)
+# Tatoeba: sauber, alltagsnah            → 3×
+# mC4:     groß, gemischt                → 1×
+# Synthese: keyboard-spezifisch, klein   → 6×
+TATOEBA_WEIGHT   = 3
+C4_WEIGHT        = 1
+SYNTHETIC_WEIGHT = 6
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
@@ -92,20 +98,32 @@ def line_generator(path: Path):
 
 
 def mixed_generator():
-    """Mischt Tatoeba mit synthetischen Daten (falls vorhanden).
-    Synthetische Sätze werden SYNTHETIC_WEIGHT-mal häufiger gezogen."""
-    tatoeba_gen = line_generator(TRAIN_TXT)
+    """Mischt alle verfügbaren Quellen gewichtet."""
+    sources = []
+    if TATOEBA_TXT.exists():
+        sources.append((line_generator(TATOEBA_TXT), TATOEBA_WEIGHT))
+    if C4_TXT.exists():
+        sources.append((line_generator(C4_TXT), C4_WEIGHT))
     if SYNTHETIC_TXT.exists():
-        synth_gen = line_generator(SYNTHETIC_TXT)
-        total = 1 + SYNTHETIC_WEIGHT
-        while True:
-            if random.random() < SYNTHETIC_WEIGHT / total:
-                yield next(synth_gen).strip()
-            else:
-                yield next(tatoeba_gen).strip()
-    else:
-        while True:
-            yield next(tatoeba_gen).strip()
+        sources.append((line_generator(SYNTHETIC_TXT), SYNTHETIC_WEIGHT))
+
+    if not sources:
+        raise FileNotFoundError("Keine Trainingsdaten gefunden.")
+
+    gens, weights = zip(*sources)
+    total = sum(weights)
+    thresholds = []
+    acc = 0
+    for w in weights:
+        acc += w / total
+        thresholds.append(acc)
+
+    while True:
+        r = random.random()
+        for gen, threshold in zip(gens, thresholds):
+            if r < threshold:
+                yield next(gen).strip()
+                break
 
 
 def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int):
@@ -157,10 +175,12 @@ def main():
                         help="Von letztem Checkpoint weitermachen")
     args = parser.parse_args()
 
-    for p, label in [(SP_MODEL, "Tokenizer"), (TRAIN_TXT, "Tatoeba-Corpus")]:
-        if not p.exists():
-            print(f"Fehler: {label} nicht gefunden: {p}")
-            return
+    if not SP_MODEL.exists():
+        print(f"Fehler: Tokenizer nicht gefunden: {SP_MODEL}")
+        return
+    if not any(p.exists() for p in [TATOEBA_TXT, C4_TXT, SYNTHETIC_TXT]):
+        print("Fehler: Keine Trainingsdaten gefunden.")
+        return
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -227,10 +247,11 @@ def main():
     print(f"\nStarte Training für {args.steps:,} Schritte ...")
     print(f"  Effektive Batchgröße: {BATCH_SIZE * GRAD_ACCUM}")
     print(f"  Kontext:              {CONTEXT_LEN} Tokens")
-    if SYNTHETIC_TXT.exists():
-        print(f"  Corpus:               Tatoeba DE + Synthetisch (Gewicht {SYNTHETIC_WEIGHT}×)")
-    else:
-        print(f"  Corpus:               Tatoeba DE (kein synthetischer Datensatz gefunden)")
+    active = []
+    if TATOEBA_TXT.exists():  active.append(f"Tatoeba({TATOEBA_WEIGHT}×)")
+    if C4_TXT.exists():       active.append(f"mC4({C4_WEIGHT}×)")
+    if SYNTHETIC_TXT.exists(): active.append(f"Synthese({SYNTHETIC_WEIGHT}×)")
+    print(f"  Corpus:               {' + '.join(active)}")
 
     resume_from = str(OUTPUT_DIR) if args.resume else None
     trainer.train(resume_from_checkpoint=resume_from)
