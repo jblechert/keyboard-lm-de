@@ -213,8 +213,8 @@ def main():
         max_grad_norm=MAX_GRAD_NORM,
         optim="adamw_torch",
 
-        # VRAM sparen
-        gradient_checkpointing=True,
+        # Gradient Checkpointing deaktiviert (seq_len=256 passt in VRAM, ~30% schneller)
+        gradient_checkpointing=False,
         bf16=True,              # RX 7900 XTX unterstützt BF16
 
         # Logging & Speichern

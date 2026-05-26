@@ -4,4 +4,5 @@ data/
 __pycache__/
 *.pyc
 *.pyo
+*.safetensors
 .claude/
