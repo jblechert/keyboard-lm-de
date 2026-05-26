@@ -1,4 +1,5 @@
-data/
+data/*
+!data/synthetic_de.txt
 .venv/
 .venv_ml/
 __pycache__/

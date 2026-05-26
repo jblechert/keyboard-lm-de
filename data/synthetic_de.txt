@@ -1,0 +1,2000 @@
+Treffen wir uns um sieben.
+Wer holt dich ab?
+Ich bin um acht da.
+Kommst du zur Party?
+Machen wir es um halb neun.
+Ich bringe Wein mit.
+Passiert das bei mir?
+Kannst du pünktlich sein?
+Lass uns ins Restaurant gehen.
+Ich hole dich um fünf ab.
+Wer kocht heute Abend?
+Wir sehen uns auf der Terrasse.
+Bring mir doch Chips mit.
+Klar, ich komme gerne vorbei.
+Triffst du ihn oder mich?
+Ich bin gerade noch im Büro.
+Warte nicht extra auf mich.
+Sag mir, wann du ankommen.
+Wir reservieren den Tisch sofort.
+Kommt euch das Uhrzeitvor?
+Alles klar, bis gleich dann.
+Akku ist wieder bei 2 %.
+Ladegerät bei dir?
+Das WLAN hängt sich dauernd auf.
+Hast du die neue Update schon?
+Mein Handy friert total ein.
+Schick mir den Link mal bitte.
+Die App läuft bei mir nicht.
+Ich habe kein Empfang mehr.
+Wann ist das Streaming frei?
+Speicher ist wieder ganz voll.
+Mach das Bluetooth an bitte.
+Das Passwort war falsch.
+Kannst du das Foto rausschicken?
+Mein Bildschirm hat einen Riss.
+Die Seite lädt ewig lange.
+Hast du meine Nachricht bekommen?
+Ich muss das Gerät restarten.
+Der Ton kommt nur aus links.
+Lass uns das später machen.
+Ich verbinde mich jetzt.
+Klingt super, ich bin drin!
+Ja, das passt perfekt so.
+Leider schaffe ich das heute nicht.
+Alles klar, bis später dann.
+Ich muss leider passen, sorry.
+Super, ich melde mich dann.
+Geht gar nicht, bin schon gebucht.
+Perfekt, wir sehen uns dort.
+Ja, gerne, mach ich!
+Nein, das tut mir leid wirklich.
+Ich bin dabei, count on me.
+Leider fällt es bei mir aus.
+Alles klar, mach ich gleich.
+Klappt nicht, habe was vor.
+Ja, gerne, sag nichts dazu.
+Ich bestätige die Teilnahme.
+Nee, sorry, das geht halt nicht.
+Top, ich freue mich schon.
+Leider kann ich nicht kommen.
+Alles bestens, ich bin startklar.
+Hast du noch Milch?
+Fehlt uns noch Brot!
+Kauf bitte noch Äpfel.
+Wir brauchen dringend Kaffee.
+Hast du Eier mitgebracht?
+Fehlt noch was?
+Bitte nicht vergessen Butter zu kaufen 🧈
+Sind wir noch an Tomaten?
+Kannst du Milch besorgen?
+Ohne Salz geht es nicht!
+Hast du Joghurt gesehen?
+Brauchen wir noch Nudeln?
+Hol bitte auch Obst mit.
+Fehlt noch Fleisch?
+Wir sind ohne Milch 👍
+Kauf noch Getränke!
+Hast du Reis dabei?
+Brauchen wir noch Käse?
+Vergiss die Pasta nicht.
+Hast du schon eingekauft?
+Hey, hast du schon Pläne für das Wochenende?
+Ich wollte am Samstag früh aufstehen.
+Lust auf einen langen Spaziergang am Fluss?
+Wir können auch einfach nur chillen.
+Hast du den neuen Film schon gesehen?
+Das klingt perfekt, ich hole das Popcorn.
+Ich muss dringend meine Beine vertreten.
+Möchtest du mit zum Fußballspielen kommen?
+Das Wetter ist heute echt zum Träumen.
+Ich hab Bock auf was Aktivstes.
+Kommst du am Abend zum Konzert vorbei?
+Die Karten habe ich schon lange gebucht.
+Ich bin nach dem Training super erschöpft.
+Wir sollten morgen früh joggen gehen.
+Das wäre eine super Idee, oder?
+Ich brauche unbedingt frische Luft jetzt.
+Hast du schon Tickets für die Show?
+Lass uns einfach mal loslegen, okay?
+Ich freue mich schon riesig darauf.
+Sag mir, wann es dir passt genau.
+Bis später dann, pass auf dich auf.
+Das ist total überbewertet.
+Ich finde das gar nicht lustig.
+Klingt für mich irgendwie albern.
+Da liegt was dran.
+Finde ich auch irgendwie nervig.
+Kommt mir total künstlich vor.
+Das ist mir zu teuer.
+Eigentlich gar nichts gegen.
+Lässt mich irgendwie kalt.
+Da hab ich was dagegen.
+Sieht mir total falsch aus.
+Ist mir einfach zu kompliziert.
+Kann ich absolut nachvollziehen.
+Das ist doch klar.
+Finde ich ehrlich gesagt blöd.
+Da muss ich widersprechen.
+Kommt mir zu unpraktisch vor.
+Das mag ich nicht leiden.
+Ist mir zu aufwendig.
+Finde ich irgendwie zu laut.
+Bin schon in der Bahn.
+Sitz gerade im Stau,Sorry.
+Komm in 5 Minuten an.
+Laufe grade zum Bahnhof.
+Habe die falsche Linie erwischt.
+Bin bereits am Ziel angekommen.
+Warte schon ewig am Haltepunkt.
+Fahre noch eine Station weiter.
+Mein Zug ist leider abgefahren.
+Bin fast da, schreib sofort.
+Sitz hier im Auto und warte.
+Laufe noch eine Ecke durch.
+Bin grade am U-Bahn-Eingang.
+Fahre jetzt direkt zum Meeting.
+Habe den Weg etwas falsch eingeschlagen.
+Komm gleich an, sei geduldig.
+Bin gerade am Umsteigen.
+Fahre noch fünf Minuten lang.
+Warte auf die nächste Straßenbahn.
+Bin kurz davor anzukommen.
+Wann kommst du ungefähr an?
+Bist du schon in der Bahn?
+Laufst du oder fährst du?
+Sitzt du schon im Zug?
+Wie lange bist du noch unterwegs?
+Hast du schon losgelegt?
+Kommst du über die Autobahn?
+Bist du in Sichtweite?
+Warum bist du so spät dran?
+Soll ich auf dich warten?
+Fährst du mit dem Bus?
+Ist der Verkehr heute schlimm?
+Bist du schon am nächsten Halt?
+Kannst du mich kurz bescheid geben?
+Wo genau bist du jetzt?
+Hast du schon ein Ticket?
+Muss ich dich abholen?
+Bist du noch weit weg?
+Kommst du links oder rechts?
+Bist du schon da?
+Klappt, ich bin dabei.
+Leider schaffe ich es nicht.
+Ja, das passt mir gut.
+Ich muss leider absagen.
+Alles klar, dann mache ich mit.
+Nein, da hab ich keine Zeit.
+Super, das klappt super.
+Ich kann da nicht kommen.
+Perfekt, ich freue mich darauf.
+Sorry, da geht nichts.
+Ja, ich bin dabei.
+Das passt leider nicht.
+Alles in Ordnung so.
+Ich muss absagen, sorry.
+Ja, gerne, mach ich.
+Leider habe ich was vor.
+Das klingt gut, okay.
+Ich kann leider nicht.
+Super, ich bin da.
+Nee, passt nicht heute.
+Alles klar, ich bin auf dem Weg.
+Bin schon da, warte an der Tür.
+Hast du die Mail gelesen?
+Alles super, wir können starten.
+Ich melde mich gleich kurz.
+Sorry, habe gerade kein Netz.
+Die Dateien sind hochgeladen, check mal.
+Kannst du den Termin bestätigen?
+Bin in fünf Minuten bei dir.
+Habe es gerade erledigt, entspann dich.
+Alles gelaufen, keine Panik.
+Wir verschieben den Call auf morgen.
+Passt das heute Abend noch?
+Ich schicke dir gleich die Links.
+Kurz warten, bin in einem Meeting.
+Habe das Paket schon abgeholt.
+Super, dann machen wir das so.
+Kommst du noch zurparty heute?
+Ich hole mir was zu essen.
+Alles verstanden, danke für die Info.
+Mist, wieder Regen! ☔️
+Das Wetter heute ist echt zum Kotzen.
+Ich hasse diesen grauen Himmel.
+Sonnenschein würde jetzt genau passen. ☀️
+Wann wird es endlich wieder warm?
+Der Wind peitscht mir ins Gesicht.
+Könnte jetzt gerne am Strand liegen.
+Ist das normal für diese Jahreszeit?
+Es sieht nach Gewitter aus.
+Zieh besser eine Jacke an.
+Die Sonne scheint wieder, super!
+Mir ist eigentlich viel zu kalt.
+Warum regnet es immer an Feiertagen?
+Ich liebe diese Herbststimmung.
+Vorsicht, die Straße ist glatt.
+Wir sollten den Picknickplan verschieben.
+Der Himmel ist heute so blau.
+Fühlt sich an wie früher.
+Bist du auch schockiert von der Hitze?
+Morgen wird es wohl wieder kälter.
+Genieße die Sonne noch! 🌴
+Hast du Lust auf Pizza?
+Was kochst du heute Abend?
+Hast du schon was gegessen?
+Willst du mit mir essen gehen?
+Magst du auch gerne Sushi?
+Was steht auf deinem Speiseplan?
+Hast du Hunger auf was Warmes?
+Kann ich dir was mitbringen?
+Was hast du zum Frühstück?
+Magst du auch scharf essen?
+Hast du Bock auf Burger?
+Was willst du gerne trinken?
+Brauchst du noch was zum Kochen?
+Hast du schon was Leckeres gefunden?
+Magst du auch gerne Pasta?
+Was isst du gerne als Snack?
+Hast du Bock auf einen Salat?
+Willst du mir was mitbringen?
+Hast du schon was Vorgekauft?
+Magst du auch gerne Fleisch?
+Meeting wird um 10 Uhr versammelt.
+Ich schicke dir die Datei gleich.
+Kannst du den Entwurf prüfen?
+Wir machen heute früh Feierabend.
+Der Termin ist kurzfristig verschoben.
+Ich hole mir noch schnell Kaffee.
+Passt die Uhrzeit bei dir auch?
+Die Zahlen sind jetzt endgültig.
+Schreib mir, wenn du fertig bist.
+Ich muss noch kurz abtelefonieren.
+Hast du das Ergebnis schon?
+Lass uns das morgen weiter besprechen.
+Der Client hat gerade geantwortet.
+Ich gebe dir bis 14 Uhr Rückmeldung.
+Wir brauchen noch eine Entscheidung.
+Kommst du heute noch ins Büro?
+Das Projekt läuft pünktlich voran.
+Ich übersende dir die Unterlagen.
+Wir können das auch schnell klären.
+Danke für die schnelle Bearbeitung.
+Bis morgen früh dann, Tschüss.
+Hast du schon gegessen?
+Wann kommst du nach Hause?
+Wo hast du den Schlüssel gelassen?
+Soll ich das Licht ausmachen?
+Wie lange dauert der Weg noch?
+Kannst du mal kurz anrufen?
+Hast du meine Nachrichten gesehen?
+Was wollen wir heute Abend essen?
+Ist das Angebot noch gültig?
+Kommst du heute zur Party?
+Brauchen wir noch Milch?
+Hast du Zeit für ein Gespräch?
+Wie war dein Tag heute?
+Soll ich die Tickets kaufen?
+Ist der Zug pünktlich angekommen?
+Kannst du mir das Foto schicken?
+Was hast du am Wochenende vor?
+Hast du den Zug verpasst?
+Wie viel kostet das denn genau?
+Melde dich bitte bald zurück!
+Lass uns morgen früh treffen 👋
+Bist du schon online 📱
+Tut mir leid.
+Bin kurz weg.
+Sorry, bin später.
+Hab das vergessen.
+Entschuldige bitte.
+Warte kurz mal.
+Bin in Stress.
+Leider nicht pünktlich.
+Vergess ich immer.
+Sag mir Bescheid.
+Bin noch unterwegs.
+Meld mich gleich.
+Habs übersehen.
+Komme gleich ran.
+Sorry für Chaos.
+Bin fast da.
+Hab Zeit verloren.
+Schreib dir später.
+Bin kurz beschäftigt.
+Tut mir Leid.
+Wo bist du denn?
+Kommst du noch heute?
+Was ist los?
+Soll ich warten?
+Wie spät wird's?
+Hast du Zeit?
+Kannst du kurz?
+Wo treffen wir uns?
+Bist du schon da?
+Ich ruf an.
+Alles klar?
+Darf ich kommen?
+Was machst du?
+Hast du Geld?
+Kommst du später?
+Wo ist der Weg?
+Morgen ist gut.
+Kommst du mit?
+Alles bestellt?
+Passiert was?
+Treffen uns um 8?
+Warte schon auf mich.
+Ich hole dich ab.
+Wo genau treffen wir uns?
+Bringst du was mit?
+Ich bin in 10 min da.
+Kommst du noch heute?
+Mach dir keine Sorgen.
+Wir sehen uns später.
+Hast du Zeit heute?
+Lass uns essen gehen.
+Ich bin kurz weg.
+Warte ich auf dich?
+Okay, dann bis gleich.
+Ich komme etwas später.
+Triff ich allein ein?
+Klingt gut für mich.
+Ich ruf an später.
+Siehst du es?
+Alles klar dann.
+Hast du Lust ins Kino?
+Wir gehen doch am Samstag spazieren.
+Das Konzert wird super, ich hab Tickets.
+Möchtest du morgen mit ins Fitnessstudio?
+Lass uns am Sonntag zusammen kochen.
+Ich hole dich um zehn Uhr ab.
+Der Film startet erst gegen Mittag.
+Wir sollten mal wieder wandern gehen.
+Hast du schon einen Plan für Freitag?
+Ich würde gerne einen Film schauen.
+Kommt dir der Ausflug zu weit vor?
+Wir können auch einfach nur chillen.
+Ich such dir noch Karten fürs Konzert.
+Lass uns später im Park treffen.
+Bist du frei für den Fußballspiel?
+Ich habe keine Lust auf Lärm.
+Treffen wir uns vormittags oder nachmittags?
+Das Wetter sieht doch gut aus.
+Ich bringe den Grill mit, versprochen.
+Sag kurz Bescheid, wenn du kannst.
+Bin schon in der Bahn.
+Sitz gerade in Stock.
+Ich bin noch zwei Stationen entfernt.
+Komm gleich an, halt kurz durch.
+Bin schon da, warte vor der Tür.
+Ich komme um die Ecke gleich.
+Bin im Auto, melde mich gleich.
+Der Zug hat Verspätung, sorry.
+Ich steige gleich aus, bin bald da.
+Komm zu Fuß, bin schon unterwegs.
+Bin im Stau, komme etwas später.
+Habe gerade das Haus verlassen.
+Ich bin schon auf dem Weg zu dir.
+Wo treffen wir uns genau?
+Bin noch nicht da, entspann dich mal.
+Der Bus ist schon lange weg.
+Ich muss noch was erledigen, dann bin ich da.
+Bin schon fast da, siehst mich gleich.
+Komm zu spät, war mehr Los als gedacht.
+Bin gerade ausgestiegen, komme direkt rein.
+Wie hast du das wohl mitbekommen?
+Kannst du mir bitte verzeihen?
+Ist es in Ordnung, dass ich spät komme?
+Habe ich dir was Wichtiges gesagt?
+Darf ich das nochmal machen?
+Wann können wir uns wiedersehen?
+Kommst du auch morgen wieder vorbei?
+Wird das so okay für dich sein?
+Hast du schon was zum Essen?
+Kann ich dir später anrufen?
+Bist du gerade noch am Arbeiten?
+Muss ich noch was mitbringen?
+Ist der Termin noch gültig?
+Kannst du das bitte warten lassen?
+Habe ich dir schon写过信?
+Wann passt es dir am besten?
+Kann ich dich kurz stören?
+Ist das so wirklich okay?
+Habe ich dich unbeabsichtigt gestört?
+Kannst du das kurz erklären?
+Wird das heute noch geklärt?
+Ich hab den ganzen Tag an dich gedacht, Mama.
+Kommst du am Wochenende auch mal nach Hause fahren?
+Die Jungs sind gerade wieder total wild im Garten.
+Wir müssen bald mal die Fotos aus dem Urlaub anschauen.
+Hast du schon mal mit Papa über den Garten gesprochen?
+Ich mach heute Abend mal etwas Leckeres für uns beide.
+Der Kleine hat heute seinen ersten Zahn bekommen, wow.
+Wir sollten uns bald mal Zeit für uns nehmen.
+Kannst du mir mal das Rezept für den Kuchen schicken?
+Ich vermisst eure Geschichten aus der Familie sehr.
+Morgen früh gibt es wieder dein Lieblingsfrühstück bei uns.
+Ich ruf dich in einer halben Stunde wieder an.
+Die Oma schickt uns wieder so viele gute Dinge.
+Wir planen schon lange den nächsten großen Familientreff.
+Hoffentlich geht es dir wieder besser, du musst dich schonen.
+Ich liebe unsere langen Abende auf der Couch gemeinsam.
+Sagt mal, wann wollen wir den nächsten Ausflug machen?
+Du bist echt die Beste, danke für alles immer.
+Ich schick dir gleich ein paar neue Bilder von uns.
+Es wird so schön, wenn ihr alle da seid.
+Ich muss mal kurz zu euch rüberkommen heute.
+Hey, brauchst du auch Milch?
+Ich hab vergessenen Brot zu holen.
+Kannst du bitte mal Käse mitbringen?
+Was steht eigentlich noch auf der Liste?
+Hast du zufällig noch Joghurt da?
+Ich seh gerade, Tomaten sind ausverkauft.
+Wir brauchen dringend Kaffee, merke dir das.
+Soll ich unterwegs noch Eier kaufen?
+Oh, hab die Nudeln total vergessen.
+Brauchst du auch frisches Obst heute?
+Lass uns morgen早上 zusammen einkaufen gehen.
+Ich hol die Getränke, du nimmst die Snacks.
+Fehlt uns noch was für das Abendessen?
+Kannst du kurz in den Supermarkt laufen?
+Ich find keine合适的 Butter mehr.
+Melde dich, wenn du fertig bist.
+Hab extra für dich Schokolade gekauft.
+Bist du schon aus dem Geschäft raus?
+Ich kauf noch schnell Gemüse mit.
+Worauf hast du am meisten Appetit?
+Wie wird das Wetter morgen?
+Ist es heute wirklich so warm?
+Glaubst du, es regnet gleich?
+Soll ich meinen Regenschirm nehmen?
+Wird es den ganzen Tag schön?
+Ist das schon wieder Schnee?
+Bleibt der Himmel heute blau?
+Wann hört der Wind eigentlich auf?
+Hast du die Temperaturen geprüft?
+Kriegen wir heute noch Sonne?
+Ist es draußen wirklich eisig?
+Wird es am Abend kühler?
+Glaubst du, es wird stürmen?
+Haben wir morgen schlechtes Wetter?
+Ist das nur ein Scherz?
+Soll ich die Jacke anziehen?
+Wird es heute wieder nass?
+Hast du das Wetter gesehen?
+Ist es wirklich so kalt?
+Bleibt es heute trocken?
+Hey, wie sieht es morgen aus?
+Hast du Lust auf einen Kaffee?
+Wir könnten auch einfach nur spazieren gehen.
+Treff uns doch bei mir zu Hause.
+Um wie viel Uhr passt es dir?
+Ich schlage 15 Uhr vor, okay?
+Kannst du Sarah auch mit einladen?
+Die ist doch auch in der Stadt.
+Ich hole sie dann gleich ab.
+Schreib mir kurz, wenn du kommst.
+Ich bin schon fast fertig hier.
+Bringst du was zu trinken mit?
+Ich besorge dann die Snacks mal.
+Das klingt doch super eigentlich.
+Wo wollen wir uns denn treffen?
+Vorne beim Eingang ist immer gut.
+Ich warte dann schon mal da.
+Melde dich, wenn du unterwegs bist.
+Ich freu mich schon sehr drauf.
+Pass aber auf, ich bin pünktlich.
+Bis morgen dann, alles Gute!
+Ja, das klappt bei mir.
+Nein, da habe ich leider keine Zeit.
+Ich bin dabei, sag nur wann.
+Kann ich mir leider nicht gönnen.
+Super, das passt gut.
+Bis später dann!
+Ich muss da kurz absagen.
+Alles klar, ich komme.
+Nein danke, ich bleibe zuhause.
+Jawoll, bin schon auf dem Weg.
+Passt nicht ganz in meinen Plan.
+Danke für die Einladung, aber nein.
+Ich bin ganz Ohr.
+Klingt nicht nach meinem Ding.
+Abgemacht!
+Schade, ich bin schon anderweitig gebucht.
+Ja, gerne mach ich das.
+Nein, heute habe ich wirklich Bammel.
+Ich confirmiere das Treffen.
+Lass mich nochmal kurz überlegen.
+Das ist echt gut!
+Ich mag das nicht so.
+Klingt total nach meinem Geschmack.
+So etwas kaufe ich nie wieder.
+Der Film war wirklich schlecht.
+Ich liebe diese Serie einfach 🍿
+Das Essen schmeckt hier super.
+Finde die Farbe irgendwie hässlich.
+Ja, das ist mein Favorit.
+Ich bin da anderer Meinung.
+Das Buch ist total überspannt.
+Eigentlich gar nicht so toll 😕
+Der Preis ist zu hoch.
+Ich würde das sofort nehmen.
+So ein Mist, echt nervig.
+Das Design gefällt mir gar nicht.
+Super, genau das habe ich gesucht!
+Die Musik ist zu laut.
+Ich verstehe den Hype nicht.
+Das war die beste Entscheidung.
+Triffst du mich um sieben vor dem neuen Café?
+Ich hole den Rest, wir müssen uns eh sehen.
+Kommst du allein oder bringen wir jemanden mit?
+Lass uns doch bei Anna treffen, das ist zentral.
+Ich bin pünktlich da, versprochen, hab keinen Stress.
+Schreib mir kurz Bescheid, wenn du schon vor bist.
+Können wir es auf neun Uhr legen statt acht?
+Ich besorge die Getränke, wenn du die Snacks nimmst.
+Wer ist noch dabei, wollen wir den Kreis erweitern?
+Tut mir leid, ich muss eine Stunde später kommen.
+Passt es dir, wenn wir uns beim U-Bahn-Treffen?
+Ich schau mal, ob Jonas auch Lust hat mitzukommen.
+Mach dir keine Gedanken, wir verschieben es einfach mal.
+Lass uns da reinsetzen, wo das gute Eis steht.
+Ich bin noch im Büro, bin in zehn Min da.
+Hast du schon einen Tisch reserviert oder sollen wir vorbeigehen?
+Wir können auch erst essen und dann noch spazieren gehen.
+Sag bescheid, wenn du einen anderen Termin findest.
+Ich melde mich wieder, falls sich was ändert heute.
+Freu mich drauf, wird sicher wieder ein schöner Abend.
+Hast du mein Paket bekommen?
+Kannst du das Bild kurz schicken?
+Warum ist das Internet so langsam?
+Hast du die App schon aktualisiert?
+Wie viel Akku hast du noch übrig?
+Soll ich dir die Datei mailen?
+Läuft das WLAN bei dir stabil?
+Hast du mein Signal gar nicht?
+Welche App nutzt du eigentlich am liebsten?
+Kannst du den Link mal prüfen?
+Ist dein Telefon gerade voll besetzt?
+Brauchst du eine kabellose Ladestation?
+Hast du das Update schon installiert?
+Funktioniert deine Kamera immer noch?
+Soll ich die Verbindung trennen?
+Wo ist der QR Code gespeichert?
+Hast du das Backup gemacht?
+Kannst du den Lautsprecher ausmachen?
+Ist dein Handy schon wieder kaputt?
+Welches Modell kaufst du dir?
+Hast du Milch gekauft
+Ich brauche dringend Brot
+Kannst du bitte Eier mitnehmen
+Vergiss nicht die Bananen
+Was fehlt uns noch zu Hause
+Habe schon alles erledigt
+Frag mal ob sie Quark haben
+Ich hol die Pizza noch mit
+Ohne Ketchup geht es nicht
+Bring doch mal Käse vorbei
+Hast du schon was gesehen 🛒
+Das war alles sehr schnell ⚡
+Ich seh mir den Rest an
+Pass auf die Preise auf
+Soll ich noch Obst holen
+Wir brauchen wirklich mehr Salz
+Mach mal die Liste zu Ende
+Ich komm in fünf Minuten
+Warst du schon beim Bäcker
+Sag Bescheid wenn du fertig bist
+Hey, hast du schon was für Samstag vor?
+Ich wollte eigentlich nur chillen und nichts tun.
+Lass uns doch ins Kino gehen, da läuft ein guter Film.
+Wir können auch einfach spazieren gehen, das Wetter ist super.
+Hast du Tickets für das Konzert im August gekauft?
+Nein, die waren sofort ausverkauft, echt blöd.
+Dann machen wir das halt anders, wie wär's mit Sport?
+Ich hab keine Lust auf Fußball, ist mir zu anstrengend.
+Okay, dann joggen wir vielleicht ein bisschen in der Stadt.
+Bring deine Laufschuhe mit, wir treffen uns um neun.
+Ich muss vorher noch shoppen, hab einen langen Tag.
+Soll ich dir ein Foto vom Plakat schicken?
+Ja gerne, ich will wissen, wer eigentlich auftritt.
+Am Sonntag kann ich länger schlafen, kein Alarm gesetzt.
+Möchtest du Mittagessen gehen oder kochst du lieber?
+Ich koche gerne Pasta, das ist schnell gemacht.
+Perfekt, dann bringe ich den Salat und das Brot mit.
+Wir können danach noch eine Runde spielen, falls Zeit bleibt.
+Ich muss leider um zwei Uhr weg, habe noch Arbeit.
+Schade, aber wir haben ja noch Sonntag zum Feiern 🎉
+Ich bin voll dabei, lass uns was cooles planen 🙌
+Wie geht’s dir eigentlich?
+Hast du schon Zeit?
+Wann kommst du an?
+Kannst du mich kurz anrufen?
+Hast du Hunger bekommen?
+Wo hast du die Tickets hingelegt?
+Soll ich das Essen bestellen?
+Bist du schon auf dem Weg?
+Hast du den Kalender gecheckt?
+Können wir das vielleicht verschieben?
+Was hast du gestern gemacht?
+Hast du die Nachricht gelesen?
+Möchtest du mitkommen?
+Wie viel kostet das Teil?
+Hast du noch Kaffee da?
+Soll ich dir was mitbringen?
+Wo ist der Schlüssel geblieben?
+Hast du schon bezahlt?
+Kann ich dich kurz sehen?
+Was machst du am Wochenende?
+Können wir das Meeting um zehn Minuten verschieben?
+Ich schick dir die Datei gleich per Mail.
+Hast du schon die Zahlen für den Report?
+Lass uns heute früh Feierabend machen, okay?
+Ich muss erst noch die E-Mails checken.
+Wir brauchen dringend ein kurzes Gespräch dazu.
+Bist du schon am Telefon, ich rufe an.
+Das Projekt läuft bisher eigentlich ganz gut voran.
+Kannst du mir kurz den Link zurmappe schicken?
+Ich hole mir jetzt erst einmal einen Kaffee.
+Morgen früh machen wir dann weiter mit der Planung.
+Die Deadline ist wirklich ganz eng dieses Mal.
+Wer übernimmt heute den Kundentermin am Nachmittag?
+Ich habe gerade das Meeting mit dem Chef.
+Schick mir bitte noch einmal die Unterlagen zu Hause.
+Alles klar, dann machen wir das so ab.
+Ich bin jetzt erst mal kurz weg vom Schreibtisch.
+Hast du schon mit dem Designer gesprochen wegen des Logos?
+Wir sollten das vielleicht nochmal in Ruhe besprechen.
+Danke, dass du mir dabei so schnell geholfen hast.
+Bist du schon unterwegs?
+Kommst du zu spät an?
+Sitzt du schon im Zug?
+Wann bist du da?
+Hast du verkehrsprobleme?
+Ist die Bahn pünktlich?
+Fährt dein Auto noch?
+Wie weit bist du schon?
+Sitzt du im Stau?
+Wann siehst du mich?
+Bist du zu Fuß?
+Hast du einen Platz?
+Ist der Platz leer?
+Kommst du um acht?
+Bist du weit weg?
+Wie sieht die Lage aus?
+Hast du Zeit verloren?
+Laufst du schon zurück?
+Bist du fast da?
+Kommst du noch heute?
+Ich hab vergessen die Milch zu kaufen, kannst du welche mitnehmen?
+Fehlt uns eigentlich noch was für das Abendessen heute?
+Bitte denk mal dran Eier und Brot auf dem Weg mitzunehmen.
+Ich schau gleich nochmal in den Kühlschrank was noch fehlt.
+Kannst du bitte auch Sahne kaufen, wir brauchen die für den Kuchen.
+Hast du gesehen ob wir noch Kaffee da haben?
+Ich mach gleich die Liste fertig, schau kurz ob was fehlt.
+Wir brauchen dringend noch frisches Gemüse für die Suppe am Sonntag.
+Vergiss bitte die Butter nicht, die haben wir komplett aufgebraucht.
+Soll ich noch Obst kaufen oder hast du schon was bestellt?
+Ich bin schon am Supermarkt, willst du noch was haben?
+Kannst du kurz gucken ob wir noch Salz und Pfeffer da haben?
+Mir fällt gerade auf dass wir keine Nudeln mehr im Schrank haben.
+Bring doch bitte auch mal Chips mit, die haben alle gerne.
+Ich hab die Liste verschickt, schau mal was noch offen ist.
+Wir brauchen unbedingt noch etwas zum Trinken für den Abend.
+Kannst du auf dem Weg nach Hause noch Milch abholen?
+Ich vergess immer die Zwiebeln, pass mal bitte darauf auf.
+Soll ich noch was für den Kaffee kaufen oder ist genug da?
+Wir sollten mal wieder richtig einkaufen gehen, der Vorrat schwindet.
+Passt das zeitlich für dich?
+Haben wir da noch Kapazitäten?
+Bist du eigentlich noch dabei?
+Soll ich das so bestätigen?
+Klappt es bei dir am Freitag?
+Hast du schon eine Entscheidung getroffen?
+Ist der Termin bei dir eingeplant?
+Sollen wir da wirklich hin gehen?
+Passt dir die Uhrzeit auch?
+Hörst du nichts mehr von dir?
+Geht das noch kurzfristig?
+Ist die Anmeldung schon gesendet?
+Haben wir uns da einig?
+Kommst du dann doch noch?
+Soll ich dir den Link schicken?
+Bist du mit dem Plan zufrieden?
+Gibt es noch Einwände dagegen?
+Soll ich es einfach so machen?
+Hast du noch Fragen dazu?
+Läuft das so in Ordnung?
+Hallo Mama, wie geht’s dir?
+Wir kommen heute Abend vorbei.
+Hast du schon was für den Kaffee gekocht?
+Ich liebe dich einfach sehr.
+Die Kinder waren heute total wild.
+Kommst du Sonntag auch zum Essen?
+Bring bitte keine Süßigkeiten mit.
+Alles Gute zum Geburtstag!
+Ich rufe dich gleich an.
+Wir haben einen neuen Hund bekommen.
+Schick mir bitte das Rezept.
+Pass auf dich auf da draußen.
+Wir vermissen dich sehr hier.
+Alles klar, dann passt das.
+Ich hol die Kinder gleich ab.
+Danke für die Hilfe gestern.
+Wir sehen uns bald wieder.
+Wie ist die Arbeit gelaufen?
+Ich schick dir die Fotos.
+Tschüss und bis bald.
+Kannst du bitte auch noch Milch und Butter mitbringen?
+Ich hab vergessen Brot zu kaufen, kommst du vorbeifahren?
+Wir brauchen dringend Toilettenpapier, hast du noch welches?
+Bring mir am besten auch noch ein paar Bananen mit.
+Hast du zufällig Eier dabei, ich hab nämlich keine mehr?
+Kauf bitte auf dem Rückweg noch frisches Obst mit.
+Ich hab keine Lust mehr shoppen, wir schließen hier ab.
+Fehlt da noch was von der Liste, sag mir kurz Bescheid.
+Kannst du beim Tankstopp bitte noch Kaffeebohnen holen?
+Ich brauche dringend Waschmittel, packst du das auch mit ein?
+Hast du schon gesehen, dass wir noch Kekse brauchen?
+Bring uns doch bitte auch noch etwas Brot aus dem Bäcker.
+Wir haben kein Fleisch mehr, kauf am besten Hühnerbrust mit.
+Kannst du kurz schauen, ob wir noch Salz und Pfeffer haben?
+Ich vergess immer alles, bitte überprüf nochmal unsere Vorräte.
+Hast du Milch gesehen, die ist nämlich komplett leer jetzt.
+Bringing auch noch was zum Anmachen mit, wir haben keine Sekt mehr.
+Kauf bitte auch noch ein paar frische Kräuter auf dem Markt.
+Ich schau nachher noch schnell beim Supermarkt vorbei, okay?
+Was genau soll ich noch mitbringen, die Liste ist etwas chaotisch.
+Ich finde das echt übertrieben, wenn man dafür extra bezahlen muss.
+Mir persönlich ist das egal, solange der Preis stimmt.
+Das ist definitiv nicht mein Fall, ich mag das überhaupt nicht.
+Klar, das verstehe ich total, da hast du absolut recht.
+Ich würde das nie machen, das finde ich irgendwie gruselig.
+Das ist mir zu teuer, da kaufe ich lieber woanders.
+Find ich super, dass es endlich mal so viele Möglichkeiten gibt.
+Ich bin da anderer Meinung, das ist einfach zu kompliziert.
+Das klingt gut, aber ich bin mir da noch nicht sicher.
+Mir reicht das ehrlich gesagt, ich brauche nichts Besseres.
+Das ist doch total normal, da muss man nicht meckern.
+Ich finds lustig, dass alle darüber so aufgeregt sind.
+Da habe ich gar keine Meinung, ist mir einfach egal.
+Das ist doch Quatsch, das wird nie und nimmer funktionieren.
+Ich mag das, aber nur wenn es nicht zu viel kostet.
+Das ist mir zu anstrengend, ich lass das lieber bleiben.
+Find ich cool, dass man das jetzt auch online machen kann.
+Das ist definitiv ein Fehler, so sollte man das nicht machen.
+Ich bin der Meinung, dass das bald besser werden wird.
+Das ist mir zu riskant, da traue ich mich einfach nicht.
+Es regnet schon wieder.
+Mist, vergiss den Regenschirm nicht.
+Wird es heute warm?
+Kalt bis ins Mark.
+Der Himmel wird bedeckt.
+Komm mit, es zieht auf.
+Sonne, das ist doch mal was.
+Habe kein Jackett dabei.
+Der Wind ist heftig.
+Traue dem Wetter nicht.
+Blautag, oder?
+Muss ich einen Dreckswetter-Tag haben.
+Es wird sicher stürmen.
+Endlich mal wieder Sonne.
+Temperatur steigt bis mittag.
+Regen kommt gleich.
+Zieh dir was Warmes an.
+Ist heute extrem windig.
+Böen kommen uns entgegen.
+Hoffe auf klaren Himmel.
+Ich find das echt super.
+Das ist mir irgendwie zu viel.
+Hör auf damit, okay?
+Mir gefällt das überhaupt nicht.
+Lass uns doch einfach mal testen.
+Das ist ja wohl der Hammer.
+Ich bin da anderer Meinung.
+Das klingt total plausibel für mich.
+Ehrlich gesagt, langweile ich mich da.
+Ich hasse diese ganze Hektik.
+Kannst du bitte leiser sprechen?
+Das ist definitiv ein No-Go.
+Mir ist das eigentlich egal.
+Was soll ich dazu sagen?
+Ich find die Idee gar nicht schlecht.
+Lass uns einfach abwarten.
+Das nervt mich total an.
+Bist du dir da wirklich sicher?
+Ich bin total damit einverstanden.
+Das ist einfach nur unglaublich.
+Ich bin in der Bahn.
+Der Zug ist leider Verspätung.
+Bin gleich da, haltet die Türe.
+Sitz noch im Stau, sorry.
+Ich komme zu Fuß rüber.
+Bin am Bahnhof angelangt.
+Lauf gerade Richtung Ausgang.
+Auto ist abgestellt, warte kurz.
+Bin noch zwei Bahnhöfe entfernt.
+Schaff ich sicher noch pünktlich.
+Ich bin schon am Ziel.
+Lauf grade die Straße runter.
+Bin in der letzten S-Bahn.
+Warte noch am Haltepunkt.
+Komm gleich um die Ecke.
+Sitz im Taxi, fahr direkt hin.
+Bin fast da, gleich melden.
+Ich muss noch kurz parken.
+Lauf gerade zum Treffen.
+Bin unterweges, alles fit.
+Kannst du bitte Milch und Brot mitbringen, wenn du einkaufst?
+Ich habe vergessen zu kaufen, ob wir noch Eier da haben.
+Mach bitte auf dem Weg nach Hause noch Käse und Butter.
+Wir haben nur noch wenig Gemüse im Kühlschrank, lass es uns kaufen.
+Kannst du sehen, ob wir noch Kaffee da haben, ich brauche welchen.
+Hol bitte auch gleich ein paar Äpfel und Bananen für uns.
+Ich schreib gerade die Liste auf, was wir noch brauchen könnten.
+Hast du schon gesehen, ob wir noch Nudeln oder Reis da haben?
+Komm vorbei und hol gleich Brot und Obst mit für das Abendessen.
+Ich brauch dringend noch Milch und Butter, kannst du das besorgen?
+Wir haben kein Salz mehr, bitte gleich auf dem Weg nach Hause kaufen.
+Mach auf der Liste drauf, dass wir noch Saft und Jogurt brauchen.
+Ich komm später zum Supermarkt, sag mir was ich mitbringen soll.
+Kannst du checken, ob wir noch Würstchen im Tiefkühlfach haben?
+Wir brauchen dringend noch etwas für die Woche, lass uns einkaufen gehen.
+Hol bitte auf dem Weg nach Hause gleich noch frisches Brot und Marmelade.
+Ich vergess immer alles, schreib mir kurz was wir noch brauchen könnten.
+Kannst du gleich beim Bäcker vorbeischauen und uns ein Laib holen?
+Wir haben keine Milch mehr, bitte gleich auf dem Weg mitnehmen okay?
+Ich brauch noch was Süßes für später, hast du Schokolade daheim?
+Ich hab gerade kein Signal.
+Kannst du mir den Link mal schicken?
+Mein Akku ist gerade ganz leer.
+Die App macht immer wieder Abstürze.
+Ich lade mein Handy grad auf.
+Hast du WLAN oder nutzt du Daten?
+Das Update lädt ewig schon.
+Ich kann dich gleich nicht erreichen.
+Schick mir mal die Datei per WhatsApp.
+Dein Profilbild hat sich verändert.
+Ich hab das Passwort vergessen.
+Kommst du ins Videochat-Gespräch rein?
+Die Seite lädt leider nicht.
+Ich schick dir gerade einen Screenshot.
+Mein Bildschirm ist leider eingegangen.
+Hast du die Benachrichtigung erhalten?
+Ich kann den QR-Code nicht scannen.
+Pass mal auf, die Verbindung bricht weg.
+Ich speichere die Nummer mal ab.
+Wie ist das Passwort für das WLAN?
+Ich schau das gleich auf dem Handy nach.
+Treffst du mich um fünf?
+Hol ich dich ab oder kommst du selbst?
+Sind wir uns einig, dass wir beim Café treﬀen?
+Passen dir 19 Uhr oder lieber später?
+Ich hole dir was zum Trinken mit.
+Kommst du noch oder haben wir abgesagt?
+Lass uns im Restaurant vor der Kirche treﬀen.
+Ich bin um sieben da, pünktlich.
+Bringst du deine Kamera mit auf den Spaziergang?
+Wann passt es dir am besten für den Kaffee?
+Wir gehen ins Kino, die Tickets hab ich schon.
+Kannst du um halb acht vorbeikommen?
+Treffen wir uns am Hauptbahnhof, Zone 3?
+Ich lade die Jungs dazu ein, ok für dich?
+Sag kurz Bescheid, wenn du zu spät wirst.
+Ich mach die Karten für die Show auf.
+Kommst du auch, oder ist das was für mich?
+Wir gehen schwimmen, nimm deine Badehose mit.
+Treffpunkt ist die Treppe vor dem Rathaus.
+Ich warte nicht ewig, also sei pünktlich.
+Alles klar, bis bald dann.
+Hey Mama, wie geht’s dir heute?
+Habt ihr schon was zum Essen gekocht?
+Ich komme heute später nach Hause, sorry.
+Kannst du die Wäsche in den Trockner geben?
+Die Kids fragen, wann Papa wieder da ist.
+Ich hab deine Nachricht gesehen, danke.
+Wir müssen mal wieder Zeit für uns haben.
+Passt es, wenn ich heute nicht kochen kann?
+Habt ihr meine Jacke irgendwo weggeräumt?
+Ich ruf dich später kurz an, okay?
+Die Kinder sind heute echt wild drauf.
+Hast du den Arzttermin für mich besorgt?
+Ich schick dir gleich ein Foto vom Garten.
+Kommst du heute Abend noch zu uns rüber?
+Wir sollten über die Urlaubstage reden, bitte.
+Habt ihr Milch im Kühlschrank oder nicht?
+Ich liebe dich beide so sehr, wisst ihr.
+Passt es, wenn ich morgen früh frühstück?
+Die Rechnungen liegen auf dem Küchentisch.
+Ich hol die Lebensmittel später ab, ja.
+Wir sehen uns dann am Wochenende, ciao.
+Lust auf Kino am Samstag?
+Ich hab Tickets für das Konzert besorgt.
+Wollen wir heute Nachmittag spazieren gehen?
+Mein Kopf ist nach dem Sport ganz weg.
+Das Wetter sieht am Sonntag super aus.
+Kommst du mit ins Fitnessstudio morgen?
+Ich hab keine Lust auf Kino heute.
+Lass uns kurz zum Bäcker gehen.
+Der Film war echt gut, oder?
+Ich brauch Ruhe am Wochenende, sorry.
+Wann geht das Konzert eigentlich los?
+Wir können auch einfach nur chillen.
+Hast du schon einen Plan für Freitag?
+Ich treffe mich mit Freunden heute Abend.
+Laufen macht mir immer so viel Spaß.
+Kannst du meine Tasche kurz halten?
+Das Konzert war leider ziemlich laut.
+Wir sollten mal wieder wandern gehen.
+Ich bin total erschöpft nach dem Sport.
+Bist du morgen Abend schon frei?
+Klappt es bei dir auch?
+Bist du schon fast da?
+Hast du es geschafft?
+Alles klar bei dir?
+Kommst du noch mit?
+Hast du Zeit für mich?
+Geht’s dir gut?
+Kannst du kurz schauen?
+Hast du den Plan?
+Bleibt alles so?
+Wann passt es dir?
+Hast du meine Nachricht?
+Ist das okay so?
+Machst du mit?
+Hast du Lust dazu?
+Bist du bereit?
+Klappt der Termin?
+Hast du Hunger?
+Alles verstanden?
+Warte ich auf dich?
+Kannst du Milch mitbringen?
+Wir brauchen noch Brot.
+Hast du schon eingekauft?
+Fehlt uns noch Fleisch?
+Bring mal Butter mit, bitte.
+Ich habe kein Geld mehr dabei.
+Wirst du noch was kaufen?
+Wir brauchen dringend Spagetti.
+Kaufst du auch Obst mit?
+Was steht noch auf der Liste?
+Hast du Sahne gesehen?
+Wir haben kei Kaffee mehr.
+Bring doch mal Bier mit.
+Fehlt noch was Wichtiges?
+Ich hole die Eier später.
+Kannst du das bitte regeln?
+Wir brauchen noch Waschmittel.
+Hast du die Liste gesehen?
+Kauf mal was Leckeres mit.
+Wir sind fast fertig.
+Hast du das Handy schon neu gestartet?
+Klappt das WLAN bei dir gerade?
+Wie viel Akku ist noch übrig?
+Läuft die App wieder einwandfrei?
+Kannst du mir den Link mal schicken?
+Ist das Internet bei dir langsam?
+Warum ruckelt das Video so stark?
+Hast du schon die neue Version installiert?
+Läuft das Update gerade im Hintergrund?
+Kannst du kurz auf Lautsprecher wechseln?
+Ist die Kamera wieder defekt?
+Hast du das Passwort vergessen?
+Läuft Spotify bei dir nicht mehr?
+Kannst du mal kurz anrufen?
+Ist der Bildschirm zu dunkel?
+Hast du schon auf Speicherpresse geprüft?
+Läuft die Navigation noch richtig?
+Kannst du mir die Datei zusenden?
+Ist das Mic bei dir kaputt?
+Hast du den Flugmodus versehentlich aktiviert?
+Ich hab so einen Hunger.
+Hast du was zu essen?
+Ich mach mir nen Brötchen.
+Was soll ich dir mitbringen?
+Ich hab gerade Pizza gegessen.
+Lass uns heute Currywurst essen.
+Ich koch gleich was Leckeres.
+Hunger auf nen Burger?
+Ich hab noch Salat übrig.
+Essen wir heute Abend aus?
+Ich bräuge dringend nen Keks.
+Was steht heute auf dem Plan?
+Ich hab Spaghetti gekocht.
+Möchtest du was davon probieren?
+Ich bin zu faul zum Kochen.
+Hast du schon zu Abend gegessen?
+Ich schnorre mir nen Bisschen.
+Lass uns Döner essen gehen.
+Ich brauche was Süßes.
+Mach dir selbst was zu essen.
+Kommst du heute wieder spät nach Hause?
+Habt ihr die Milch schon ausgepackt?
+Soll ich etwas für das Essen kaufen?
+Wann kommen die Kinder eigentlich abends zurück?
+Hast du Lust auf eine Pizza?
+Kann ich dich kurz etwas fragen?
+Wann ist wieder dein freier Tag?
+Habt ihr heute schon Zeit gehabt?
+Soll ich die Wäsche aufhängen?
+Was kocht ihr heute Abend?
+Kannst du mir die Schlüssel geben?
+Haben die Kids schon Hausaufgaben gemacht?
+Soll ich den Kuchen backen?
+Wann kommt Oma eigentlich vorbei?
+Hast du meine Socken gesehen?
+Kann ich heute ins Kino gehen?
+Soll ich die Blumen wässern?
+Wann ist wieder Familienabend?
+Habt ihr Hunger auf Nudeln?
+Soll ich den Müll rausbringen?
+Findest du das auch so nervig?
+Ist das nicht vielleicht doch zu laut?
+Hältst du das für eine gute Idee?
+Gefällt dir der neue Film eigentlich?
+Sollten wir nicht doch warten?
+Findet ihr das jetzt fair oder nicht?
+Wärst du nicht auch anders vorgegangen?
+Glaubst du echt, dass das reicht?
+Kommt dir das nicht irgendwie bekannt vor?
+Hältst du das für richtig?
+Findest du das auch zu teuer?
+Ist das jetzt wirklich so schlimm?
+Würdest du da jetzt ja sagen?
+Gefällt dir der Geschmack eigentlich?
+Findest du das auch etwas riskant?
+Hältst du das für notwendig?
+Kommt dir das nicht zu kompliziert vor?
+Würdest du das auch so machen?
+Findest du das jetzt humorvoll?
+Glaubst du, dass das funktioniert?
+Hältst du das für akzeptabel?
+Wetter heute ist echt krass!
+Ich habe die Sonne vermisst.
+Regen hat das ganze Wochenende durchgezogen.
+Endlich mal wieder ein blauer Himmel 🌤️
+Du brauchst heute auf jeden Fall den Regenschirm.
+Der Wind ist einfach nur stark.
+Mir ist eigentlich noch ganz warm.
+Die Temperatur ist gestern stark gesunken.
+Hoffentlich hält der Regen bis abend.
+Sonnig und warm, das liebe ich 🌻
+Wann wird es eigentlich wieder kälter?
+Der Sturm hat echt viele Bäume umgeworfen.
+Ich genieße mal die letzte Wärme.
+Schnee ist ja schon lange vorbei.
+Das Wetter macht mir heute laune.
+Es sieht irgendwie nach Sturm aus.
+Kann man heute noch zum Strande gehen?
+Mir ist schon etwas zu warm.
+Hast du auch so eine Hitze gewitter gefühlt?
+Ich hoffe auf mehr Sonne morgen.
+Alles Gute zum Geburtstag und viele Glück für das kommende Jahr.
+Ich wünsche dir alles Gute zur Prüfung und viel Erfolg beim Bestehen.
+Herzlichen Glückwunsch zur neuen Stelle, du hast es dir verdient.
+Ich freue mich riesig über die Geburt eures kleinen Wunderchens.
+Alles Liebe zum Geburtstag und lass dich heute richtig verwöhnen.
+Drücke dir fest die Daumen für deine wichtige Prüfung morgen.
+Viel Erfolg in deinem neuen Job, du wirst das super schaff.
+Herzlichen Glückwunsch zur Geburt, eure Familie wird größer.
+Ich wünsch dir einen tollen Geburtstag voller Freude und Geschenken.
+Du rockst die Prüfung auf jeden Fall, ich weiß das einfach.
+Gratulation zur neuen Position, dein Einsatz hat sich wirklich gelohnt.
+Alles Gute für das kleine Baby und viel Kraft für euch beide.
+Mach einen großen Tag draus und genieße deinen Geburtstag in vollen Zügen.
+Atme tief durch vor der Prüfung und denk nur ans Positive.
+Das freut mich so sehr für deinen neuen Job, alles Gute!
+Ich bin total begeistert von der Ankündigung zur Geburt, herzlichen Glückwunsch.
+Alles Gute zum Geburtstag, ich hoffe, du wirst verwöhnt wie nie.
+Du kannst die Prüfung ohne Probleme bestehen, vertrau auf dich selbst.
+Super News zur neuen Stelle, ich drücke dir die Daumen für den Start.
+Willkommen auf der Welt, kleines Wesen, ich drücke euch alle fest.
+Bin schon in der Bahn.
+Bin gerade im Stau, sorry.
+Bin in 5 Minuten da.
+Hatte gerade kein Empfang.
+Sitz gerade im Zug.
+Bin auf dem Weg zum Bahnhof.
+Fahr grad nach Hause.
+Bin schon fast da.
+Steh vor der Tür.
+Habe mich verlaufen, komisch.
+Bin am Umladen.
+Fahr grad ins Büro.
+Bin noch in der Arbeit.
+Komme sofort zurück zur Bahn.
+Bin grad beim Tanken.
+Habe mein Handy vergessen.
+Bin schon am Ausgang.
+Sitz im Zug, langweilig.
+Bin gerade an der Kreuzung.
+Melde mich gleich wieder.
+Ich finde den Film war wirklich viel zu lang und langweilig.
+Das neue Restaurant im Zentrum hat leider nur mittelmäßiges Essen.
+Ich mag diese Musik gar nicht, sie ist viel zu laut und nervig.
+Der neue Boss ist nett, aber leider total unfähig in Meetings.
+Ich finde, wir sollten endlich mal wieder richtig in die Berge fahren.
+Dieses Wetter finde ich super, endlich kann man wieder nach draußen gehen.
+Das Handy ist okay, aber der Akku hält einfach nicht lange genug.
+Ich persönlich halte nichts von so viel Social Media im Alltag.
+Die Serie war am Anfang gut, aber die letzte Folge war schwach.
+Ich finde, du solltest dir mal nen neuer Job suchen.
+Das Café hat zwar netten Service, aber der Kaffee ist lauwarm.
+Ich mag dieses Buch nicht, die Figur ist total nervig und dumm.
+Der Weg zur Arbeit ist lang, aber die Strecke ist schön ruhig.
+Ich finde, wir haben zu viel Geld für dieses Geschenk ausgegeben.
+Diese App ist praktisch, doch sie crasht leider immer wieder.
+Ich bin der Meinung, dass wir früher losfahren sollten heute.
+Das Essen schmeckt gut, ist aber leider viel zu teuer geworden.
+Ich finde den Vorschlag gut, wir machen es einfach mal so.
+Der Film war okay, aber ich habe mich nicht so sehr gefreut.
+Ich glaube, wir brauchen bald mal einen echten Urlaub dringend.
+Es tut mir wirklich leid, dass ich so lange auf sich warten ließ.
+Ich habe total vergessen, dir gestern Abend zurückzuschreiben, das war dumm.
+Verzeih mir bitte den Spätdruck, ich war einfach komplett überfordert.
+Sorry, dass ich dein Angebot nicht gleich annehmen konnte, ich war unsicher.
+Ich bin schuld, dass die Dateien nicht rechtzeitig bei dir angekommen sind.
+Entschuldige bitte die Umstände, ich hatte einen kompletten Planwechsel heute.
+Das war gar nicht meine Absicht, ich habe das komplett missverstanden.
+Tut mir leid, dass ich dich zum Warten gebracht habe, ich war festgefahren.
+Ich habe leider deine Nachricht übersehen, das passiert mir immer wieder.
+Sorry für die knappe Antwort, ich war gerade mitten im Meeting.
+Es ist meine Schuld, dass wir uns nicht rechtzeitig abgesprochen haben.
+Verzeih mir bitte, ich habe den Termin einfach im Kalender vergessen.
+Ich hoffe, du ärgerst dich nicht zu sehr über meine Verspätung heute.
+Das war unglaublich peinlich von mir, ich habe das komplett übersehen.
+Tut mir leid für den Stress, ich brauchte mehr Zeit als gedacht.
+Ich habe deine Frage leider überlesen, das ist mir wirklich leid.
+Sorry, dass ich kurzfristig absagen musste, etwas ist dazwischengekommen.
+Ich hoffe, wir können das vergessen, ich war heute einfach schlecht gelaunt.
+Verzeih bitte die kurze Antwort, ich muss jetzt schnell weiterlaufen.
+Ich habe total vergessen, dir das zu sagen, bitte vergib mir.
+Sorry, ich bin gerade etwas länger als gedacht weggeblieben.
+Meine Bahn hat ausgefallen, daher komme ich erst später rein.
+Habe ich dir schon gesagt, dass ich den Termin vergessen habe?
+Ich war total im Stress, deshalb habe ich die Mail übersehen.
+Tut mir leid, dass ich dich warten lassen musste, ich war blockiert.
+Kannst du mir verzeihen, dass ich den Kaffee vergessen habe mitzubringen?
+Ich habe mich verschlafen und komme daher erst jetzt zur Besprechung.
+Sorry, mein Akku ist leer gewesen, deshalb konnte ich nicht melden.
+Habe ich dir versprochen, das Dokument bis heute Mittag zu schicken?
+Ich war beim Arzt und komme erst am Nachmittag wieder zum Projekt.
+Entschuldige bitte, dass ich deine Nachricht erst jetzt sehe, war offline.
+Ich habe den Schlüssel vergessen und muss erst wieder nach Hause gehen.
+Sorry, ich hatte einen dringenden Anruf und musste kurz weggehen.
+Kann ich das bitte morgen nachholen, ich bin heute total überfragt.
+Ich bin im Stau festgefahren und komme erst in zwanzig Minuten an.
+Habe ich den Meeting-Link vergessen? Tut mir leid, mein Fehler heute.
+Ich war mit der Kinderbetreuung beschäftigt und konnte nicht pünktlich sein.
+Sorry, dass ich dich ignoriert habe, mein Handy hat gerade nicht funktioniert.
+Ich habe die Dateien gelöscht und muss sie erst wieder herunterladen.
+Tut mir leid für die Verspätung, die Parkplatzsuche hat ewig gedauert.
+Hey, mein Fehler.
+Tut mir echt leid.
+Bin kurz weg.
+Schuld, war abgelenkt.
+Hab’s total vergessen.
+Komm in zwei min.
+Entschuldige bitte.
+Bin gleich da.
+Mein Kopf war weg.
+Habe es übersehen.
+Sorry, war stressig.
+Bin 5 min drin.
+Konnte nicht schreiben.
+Mein Bad Day sorry.
+War total eingeschlafen.
+Tschuldige die Verzögerung.
+Habe es verpasst.
+Bin kurz am Handy.
+Schuld, hab vergessen.
+Bin auf dem Weg.
+War ich zu laut?
+Habe ich zu lange geschwiegen?
+Könntest du mir einen Moment verzeihen?
+War meine Antwort zu direkt?
+Habe ich dich verletzt?
+Entschuldige, dass ich dich warten ließ.
+Sorry, ich war komplett vergessen.
+Kannst du das überhören?
+Habe ich etwas falsch gemacht?
+War ich ungeduldig gerade?
+Tut mir leid für den Ärger.
+Habe ich zu spät geantwortet?
+War das jetzt unfreundlich von mir?
+Kann ich das wieder gutmachen?
+Sorry für die Verspätung heute.
+Habe ich deine Zeit verschwendet?
+War ich zu aufdringlich?
+Entschuldige meinen Tonfall eben.
+Habe ich zu laut gesprochen?
+Könntest du das vergessen?
+Ich bin schon auf dem Weg.
+Alles erledigt, mach dir keine Sorgen.
+Komm gleich an, halt die Augen offen.
+Hat super geklappt, wie versprochen.
+Bin noch fünf Minuten von zu Hause weg.
+Alles klar, ich melde mich später.
+Stress nicht, ich bin fast da.
+Wurde gerade erledigt, alles im grünen Bereich.
+Bin im Stau, bitte verzeih mir.
+Habe es geschafft, war gar nicht so wild.
+In zwei Minuten bin ich vor der Tür.
+Alles gut, hab es selbst hinbekommen.
+Bin kurz weg, ich schreib gleich.
+Habe das Paket gerade abgeholt.
+Läuft alles wie geplant, kein Drama.
+Bin schon im Auto, siehste.
+War einfacher als gedacht, jetzt kann ich durchatmen.
+Treff mich gleich, ich bin links.
+Habe alles gepackt, komm sofort raus.
+Alles fit, wir können loslegen.
+Bin auf dem Weg, bin gleich da.
+Ich bin etwas spät dran, entschuldige bitte meine Verspätung.
+Tut mir leid, dass ich so lange nicht geschrieben habe.
+Ich habe deine Nachricht völlig übersehen, sorry dafür.
+Kannst du mich kurz entschuldigen? Ich muss gerade ran.
+Ich habe den Termin komplett vergessen, das war nicht absichtlich.
+Entschuldige bitte, ich habe deine E-Mail erst jetzt gefunden.
+Ich komme fünf Minuten zu spät, bin auf dem Weg.
+Tut mir leid, ich habe die Datei nicht angehängt.
+Ich habe mich vertippt, meine Korrektur kommt sofort.
+Sorry, dass ich gestern so früh schlafen gegangen bin.
+Ich konnte dich nicht anrufen, mein Akku war leer.
+Entschuldige bitte die späte Antwort, ich war unterwegs.
+Ich habe die Unterlagen vergessen, bringe sie morgen mit.
+Tut mir leid, ich habe die Zeit falsch verstanden.
+Ich kann heute leider nicht kommen, etwas ist dazwischen gekommen.
+Sorry, ich habe deinen Anruf verpasst, weil ich im Meeting war.
+Entschuldige bitte, ich habe den Termin im Kalender übersehen.
+Ich war heute Mittag sehr gestresst, daher die kurze Antwort.
+Tut mir leid, ich habe die Nachricht erst jetzt gelesen.
+Ich habe deine Frage falsch verstanden, sorry für die Verwirrung.
+Triffst du mich um sieben vor dem Restaurant?
+Ich hole dir was zu trinken, sag einfach Bescheid.
+Lass uns bei Anna treffen, sie hat ein neues Café.
+Kannst du pünktlich sein, sonst bekommen wir keinen Tisch.
+Ich melde mich nochmal, wenn ich unterwegs bin.
+Hast du schon Lust auf Italienisch oder lieber Asiatisch?
+Wir können auch zu dir kommen, wenn es dir проще.
+Sag mir bitte kurz, ob du noch dabei bist.
+Ich suche schon lange nach einem gemütlichen Ort.
+Treffen wir uns stattdessen um acht, ich muss arbeiten.
+Lass uns einfach spontan entscheiden, wenn wir uns sehen.
+Bringst du deine Freunde mit oder sind wir zu zweit?
+Ich bin flexibel, sag einfach, was dir passt.
+Können wir uns am Samstag Abend treffen?
+Ich ruf dich an, wenn ich vor der Tür stehe.
+Hast du einen Vorschlag für den Ort?
+Lass uns das nicht so kompliziert machen, okay?
+Ich werde mich freuen, dich endlich wiederzusehen.
+Schreib mir kurz, bevor du aufbrichst.
+Alles klar, dann bis morgen Abend bei mir.
+Bist du noch wach?
+Wo ist das Handy?
+Hast du meine Nachricht?
+Kommst du noch heute?
+Wer war das eigentlich?
+Läuft der Film schon?
+Gib mal kurz Bescheid.
+Hast du Lust darauf?
+Wann geht die Bahn?
+Ist da noch was?
+Wie war dein Tag?
+Brauchen wir noch was?
+Rufst du mich später?
+Kann ich was fragen?
+Wo hast du das?
+Ist das schon vorbei?
+Melde dich bitte kurz.
+Läuft das alles prima?
+Sollen wir uns sehen?
+Alles klar bei dir?
+Bist du schon da?
+Was hast du heute vor?
+Magst du auch Pizza?
+Wann fängt der Film an?
+Hast du meinen Anruf bekommen?
+Kannst du mir das bitte erklären?
+Wo hast du das denn gekauft?
+Hörst du auch diesen Song?
+Warum bist du heute so ruhig?
+Haben wir wirklich Zeit dafür?
+Kommst du morgen früh vorbei?
+Was soll ich mitbringen?
+Hast du den Schlüssel dabei?
+Ist der Zug schon abgefahren?
+Kannst du das kurz checken?
+Wann schickst du mir das?
+Hast du Hunger oder so?
+Soll ich für dich mitbestellen?
+Wo warst du den ganzen Tag?
+Finden wir uns dann trotzdem?
+Akku ist wieder voll.
+Hast du WLAN an?
+Die App lädt nicht.
+Internet fällt grad raus.
+Schick mir den Link.
+Mein Handy ist tot.
+Ladekabel ist kaputt.
+Hast du das gesehen?
+Bildschirm ist schwarz.
+Netzwerk ist so langsam.
+Speicher ist voll.
+Update läuft gerade.
+Fingerabdruck wird erkannt.
+Klingelton ändern?
+Datenvolumen ist weg.
+VPN aktivieren?
+Screenshot gemacht.
+Benachrichtigung ausschalten?
+Passwort vergessen.
+Kamera ist unscharf.
+Hey hast du schon rausgefunden wann wir uns treffen sollen
+Kannst du mir kurz sagen wo ich das hinlegen soll
+Ich würde wissen ob du heute noch Zeit für einen Kaffee hast
+Weißt du eigentlich ob der Zug heute pünktlich kommt oder nicht
+Sag mal kurz Bescheid wenn du auf dem Weg nach Hause bist
+Hast du den Schlüssel wieder gefunden oder soll ich einen neuen machen
+Kannst du mir kurz deine Adresse schicken damit ich nicht verloren gehe
+Ich möchte nur sicher gehen dass du alles verstanden hast ok
+Soll ich wirklich alles mitbringen oder reicht das was da steht
+Weißt du schon ob wir morgen früh noch schlafen können
+Kannst du kurz checken ob das Licht im Flur noch funktioniert
+Ich brauche kurz deine Meinung dazu bevor ich antworte ok
+Hast du eigentlich schon gesehen was da auf Instagram los ist
+Sag mir bitte wenn du Probleme mit dem WLAN zu Hause hast
+Kannst du mir kurz sagen wie viel Geld du noch brauchst
+Ich würde gerne wissen ob du das Buch schon gelesen hast
+Weißt du noch wie wir den Namen des Restaurants geschrieben haben
+Kannst du mir kurz antworten bevor der Film angeht ok
+Sag mal ob du Lust auf Pizza hast oder was anderes willst
+Ich muss wissen ob du die Tickets schon gebucht hast oder nicht
+Ja, das passt super.
+Klappt bei mir leider nicht.
+Stimmt, machen wir so.
+Leider muss ich absagen.
+Gerne, ich bin dabei.
+Da kann ich nicht kommen.
+Perfekt, danke für die Info.
+Ich melde mich nochmal kurz.
+Das geht leider nichts.
+Alles klar, dann bis später.
+Super, ich habe Notiz gemacht.
+Nein, danke, das reicht.
+Ich schau mal nach Terminen.
+Geht nicht, hab schon Pläne.
+Freu mich schon darauf.
+Ich bin schon drin.
+Sorry, hab mich verschaut.
+Alles bestätigt, merci.
+Nein, danke, passt nicht.
+Ja, klar, gerne.
+Brings mal Brot mit.
+Wir haben keine Milch mehr.
+Kauf bitte auch Käse.
+Fehlt noch was?
+Nimm Äpfel mit, okay?
+Lass das Fleisch liegen.
+Sind Kartoffeln noch da?
+Bring Chips mit, bitte.
+Wir brauchen Zahnpasta dringend.
+Kannst du Wein holen?
+Gib mal Reis dazu.
+Hast du Zucker da?
+Fehlt eigentlich sonst noch was?
+Hol bitte Toilettenpapier mit.
+Wenig Zeit, komm schnell.
+Nimm Eier mit, ja?
+Wir haben Butter vergessen.
+Bring Snacks für die Party.
+Ist das alles, oder was?
+Sag bescheid, wenn fertig.
+Meeting fällt aus.
+Ich schick dir die Daten.
+Bist du schon online?
+Wir haben Zeit bis fünf.
+Lass uns das kurz besprechen.
+Ich bin gleich am Tisch.
+Hast du das gesehen?
+Ich hole gleich Kaffee.
+Das Ticket ist erledigt.
+Wir machen Feierabend?
+Ich rufe dich später an.
+Kannst du kurz schauen?
+Der Server hängt grade.
+Alles klar für morgen?
+Ich bin im Fokus.
+Sag Bescheid wenn klar.
+Meeting ist verschoben worden.
+Ich gebe dir Feedback heute.
+Brauchst du Support gerade?
+Wir sind fertig damit.
+Bis morgen dann!
+Hast du meine Nummer?
+Wann kommst du an?
+Kannst du mich kurz anrufen!
+Hast du Hunger?
+Was machst du heute abend?
+Bringst du mir was mit?
+Wo ist der Schlüssel?
+Hast du schon gegessen?
+Soll ich warten?
+Kommst du noch heute?
+Ich brauche dein Passwort!
+Wer ist eigentlich dein Chef?
+Hast du das Paket gesehen?
+Wann sind wir wieder da?
+Magst du auch Pizza?
+Kannst du die Tür aufmachen?
+Hast du Zeit für mich?
+Wo liegt die Fernbedienung?
+Soll ich zahlen?
+Gib mir kurz Bescheid 👍
+Klingt super, mach ich!
+Ich kann da leider nicht.
+Passt alles perfekt 👌
+Schade, muss ich absagen.
+Bin dabei, bis gleich!
+Geht leider nichts heute.
+Alles klar, ich bin dabei.
+Leider kein Plan davon.
+Joa, passt bei mir 👍
+Ich muss leider passen.
+Super Idee, ich bin drin!
+Hab leider was vor.
+Danke für die Einladung.
+Ich komme definitiv nicht.
+Wäre cool, wenn ich darf!
+Keine Chance für mich heute.
+Ich bestätige kurz mal.
+Leider fällt das weg.
+Alles gut, ich bin frei.
+Juhuu, ich packe mich raus!
+Hast du schon gegessen?
+Wann kommst du eigentlich nach Hause?
+Kannst du bitte die Milch kaufen?
+Hast du die Schlüssel mitgenommen?
+Ruft ihr später noch mal an?
+Wollen wir heute Abend zusammen kochen?
+Hast du meine Nachrichten gelesen?
+Kannst du den Müll rausbringen?
+Bist du schon am Weg hierher?
+Hast du die Rechnung bezahlt?
+Wann sind die Kinder wieder da?
+Kannst du kurz am Telefon sprechen?
+Hast du das Foto geschickt?
+Wollen wir morgen früh frühstücken gehen?
+Hast du meinen Anruf verpasst?
+Kannst du die Fenster schließen?
+Wirst du heute Abend da sein?
+Hast du die Medikamente genommen?
+Kannst du mir ein Signal geben?
+Wann soll ich vorbeikommen?
+Alles Gute zum Geburtstag!
+Ich hoffe, du wirst dich heute richtig freuen.
+Du hast es geschafft, das ist super.
+Klasse, dass du die Prüfung bestanden hast.
+Gratulation zur neuen Stelle, das freut mich.
+Was für eine tolle Nachricht, herzlichen Glückwunsch.
+Ich wünsche dir von ganzem Herzen alles Gute.
+Das Baby ist endlich da, wie wonderful.
+Viel Erfolg in deinem neuen Job, du rockst das.
+Ich bin so stolz auf dich, herzlichen Glückwunsch.
+Lass uns heute richtig feiern, du hast es verdient.
+Ein neuer Anfang steht bevor, alles Gute dabei.
+Ich drücke dir ganz fest die Daumen für morgen.
+Das war harte Arbeit, aber du hast gewonnen.
+Herzlichen Glückwunsch zur Geburt, alles Liebe dazu.
+Genieß den heutigen Tag, du hast ihn verdient.
+Ich freue mich riesig mit dir, das ist großartig.
+Alles Gute für deine Zukunft, ich bin an deiner Seite.
+Du machst das super weiter, ich habe Vertrauen in dich.
+Ein großer Tag, und du stehst ganz oben.
+Mein Akku ist schon wieder komplett leer geworden.
+Kannst du mir mal das Wi-Fi Passwort schicken?
+Diese neue App ist wirklich total nervig und langsam.
+Ich habe gerade vergessen mein Handy mitzunehmen.
+Der Download war leider viel zu langsam heute.
+Hast du schon mal die neue Version installiert?
+Mein Bildschirm ist leider gerade kaputt gegangen.
+Kann ich dir das Dokument kurz per Mail zuschicken?
+Das Internet funktioniert bei mir gar nicht mehr.
+Ich muss mein Passwort dringend ändern, weil es unsicher ist.
+Die Kamera auf meinem Handy ist echt super gut.
+Ich kann den Button auf dem Bildschirm nicht drücken.
+Wir sollten uns vielleicht über Signal oder WhatsApp austauschen.
+Mein Laptop stürzt immer wieder ohne Grund ab.
+Hast du meinen Anruf vorhin gesehen und ignoriert?
+Die Ladekabel liegen irgendwo im Wohnzimmer verstreut rum.
+Ich brauche noch mehr Speicherplatz auf meinem Gerät.
+Kannst du mal schauen ob der Drucker Online ist?
+Die Benutzeroberfläche der Software ist wirklich schlecht gemacht.
+Ich schicke dir gleich den Link zur Datei.
+Alles Gute zum Geburtstag!
+Mega Gratulation zur Prüfung!
+Steh auf zur neuen Job.
+Herzlichen Glückwunsch zur Geburt.
+Bist ein Star geworden!
+Du hast’s geschafft, Prima!
+Neuer Job, neue Chance.
+Genieß den großen Tag!
+Alles Liebe zum Geburtstag.
+Riesen Glückwunsch an dich!
+Wow, du machst das.
+Super neue Stelle, feier!
+Babymama sein, wahnsinnig toll.
+Prüfung abgehakt, Zeit zum Feiern.
+Freue mich so für dich.
+Alles Gute, mein Lieber!
+Steh auf die Karriere!
+Ein Wunder ist da.
+Hochzeit, Prüfung oder was auch.
+Du rockst dein Leben jetzt.
+Bleib gesund und glücklich.
+Treffen wir uns am Samstag?
+Wann passt es dir am besten?
+Hast du Lust auf Kaffee?
+Ich hole dich gegen zehn ab.
+Kommst du heute Abend noch vorbei?
+Lass uns ins neue Restaurant gehen.
+Wo willst du dich eigentlich treffen?
+Ich bin um halb acht da.
+Bringst du die Karten mit?
+Sollen wir bei dir ankommen?
+Ich schick dir den Ort gleich.
+Morgen Mittag ist okay für mich.
+Wir gehen dann zum Kino.
+Kannst du pünktlich sein?
+Ich mache erst später Zeit.
+Treffpunkt ist der Hauptbahnhof.
+Hast du eine andere Idee?
+Ich hole das Essen mit.
+Wir sehen uns dann dort.
+Sag Bescheid, wenn du kommst.
+Alles klar, bis später dann.
+Habe gerade Spaghetti mit Pesto gekocht, schmeckt eigentlich gar nicht schlecht.
+Bin total platt und würde jetzt am liebsten nur noch Pizza essen.
+Kannst du mir sagen, was wir heute Abend essen sollen?
+Das Curry war echt zu scharf für meinen empfindlichen Magen.
+Ich habe Hunger, aber keine Lust, etwas Komplexes zu kochen.
+Wollen wir uns vielleicht eine große Lasagne teilen und einen Wein trinken?
+Der Kuchen ist leider total in den Ofen geschossen, meine Schuld.
+Ich vermisse richtig das Essen von meiner Mama, besonders den Kartoffelsalat.
+Hast du schon gegessen, weil ich würde noch was übrig haben.
+Lass uns morgen früh gemeinsam Bratwürste am Grill machen, okay?
+Ich esse gerade einen riesigen Burger und trinke dazu Cola.
+Mir schmeckt dieses italienische Restaurant echt gut, wir sollten wiederkommen.
+Ich brauche dringend Brot, Butter und Käse für heute Abend.
+Der Reis ist leider total verbrannt, jetzt kochen wir neu.
+Ich habe so viele Kalorien heute schon verbraucht, also esse ich ungeniert.
+Was ist denn dein Lieblingsgericht, wenn du mal frei wählen könntest?
+Ich koche heute Abend Suppe, weil es draußen so kalt ist.
+Mein Magen knurrt schon seit Stunden, hab aber vergessen einzukaufen.
+Das Eis war wirklich lecker, vor allem die Schokoladensorte am Ende.
+Ich würde jetzt nichts mehr essen, weil ich zu früh geschnarcht habe.
+Dein Akku leckt gerade extrem.
+Hast du WLAN oder nur LTE?
+Die App stürzt mir ständig ab.
+Mein Handy ist schon wieder voll.
+Schick mir den Link per WhatsApp.
+Ich hab keine Daten mehr heute.
+Kannst du mal schnell scannen?
+Der Bluetooth ist grad total zickig.
+Mein Bildschirm ist ganz verrauscht.
+Lade das mal schnell hoch, bitte.
+Hast du schon das Update gemacht?
+Das WLAN hier ist lahm wie Sau.
+Mein Signal ist komplett verschwunden.
+Send mir kurz den QR Code.
+Ich such grad mein Ladegerät vergebens.
+Die Navigation will partout nicht laufen.
+Hast du mein Video schon gesehen?
+Ich kann mich nicht einloggen grad.
+Dein Profilbild ist echt cool geworden.
+Mach mal ne Neustart, vielleicht hilft das.
+Ja, das passt.
+Nein, sorry, schaffe ich nicht.
+Super, dann melde ich mich.
+Klingt gut, machen wir so.
+Geht nicht, habe vor.
+Alles klar, bis später.
+Danke, das war's.
+Pünktlich da, keine Sorge.
+Nein danke, pass nicht.
+Ja, gerne, nimm mich.
+Passt auf jeden Fall.
+Sorry, muss absagen.
+Bestätigt für morgen.
+Kannst du bestätigen?
+Alles in Ordnung hier.
+Dann lass es sein.
+Perfekt, freue mich drauf.
+Leider nein heute.
+Ja, komm ich hin.
+Toll, danke dir.
+Hey, hast du heute Abend Zeit?
+Lass uns doch ins neue Café gehen.
+Ich bin gegen sieben da.
+Kommst du dann auch mit?
+Treffen wir uns direkt am Eingang.
+Sag Bescheid, wenn du kannst.
+Ich hab gerade viel zu tun.
+Können wir es auf morgen schieben?
+Vielleicht trifft es dich besser.
+Ich schick dir die Adresse gleich.
+Suchst du schon nach einem Tisch?
+Ich nehme dir gern einen vor.
+Was sollst du trinken?
+Ich trink nur einen Kaffee.
+Möchtest du noch was essen?
+Ich bin noch ganz hungrig.
+Wir können später spazieren gehen.
+Das Wetter sieht ja schön aus.
+Ich hab meine Jacke dabei.
+Frohsinnig, oder? 😄
+Hast du Lust auf Pizza heute Abend?
+Sollen wir zusammen was kochen gehen?
+Hast du schon was gegessen?
+Magst du auch diese neuen Burger?
+Wollen wir morgen zum Italiener gehen?
+Hast du den Rezeptlink gerade gesehen?
+Soll ich Brot für uns kaufen?
+Magst du deine Soße extra scharf?
+Haben wir noch genug Reis da?
+Willst du das Dessert selbst machen?
+Sollen wir uns etwas Warmes holen?
+Hast du Hunger auf Eiscreme?
+Magst du lieber Hähnchen oder Fleisch?
+Soll ich die Kartoffeln schon schälen?
+Hast du Durst auf etwas Kaltes?
+Wollen wir einfach nur Salat essen?
+Magst du auch so scharfe Currywurst?
+Hast du schon dein Mittagessen?
+Sollen wir beim Chinesischen bestellen?
+Magst du deine Suppe mit Kruste?
+Akku ist wieder beim Laden.
+Hast du das Update schon installiert?
+Mein Handy friert total ein.
+Schick mir den Link per WhatsApp.
+Das WLAN ist gerade mega langsam.
+Hörst du den Podcast auch?
+Ich muss mein Telefon sofort laden.
+Die App stürzt ständig ab, nervig.
+Hast du meine Nachricht gesehen?
+Lass uns heute Abend streamen.
+Mein Display hat einen Riss.
+Wie viele GB hast du noch?
+Ich kann die Seite nicht laden.
+Schalte das Bluetooth bitte ein.
+Die Kamera macht super Fotos.
+Ich vergesse immer mein Passwort.
+Kannst du mir das Forwarden?
+Mein Smartphone wird richtig heiß.
+Hast du die neue Feature gesehen?
+Ich trenne mich bald von dem Gerät.
+Ich habe total Hunger.
+Ich mach schnell Nudeln.
+Willst du was essen?
+Ich habe gerade gebacken.
+Mir schmeckt das nicht.
+Komm mal her essen.
+Ich brauche was Warmes.
+Das war super lecker.
+Ich koch heute nichts.
+Wir können Pizza bestellen.
+Hast du schon gegessen?
+Ich habe nichts mehr.
+Ich esse später was.
+Das riecht richtig gut.
+Ich mag keinen Knoblauch.
+Bring was mit Essen.
+Ich krieg Durst jetzt.
+Das wird bald fertig.
+Ich hasse Zwiebeln.
+Lass uns essen gehen.
+Ja, das passt.
+Nein, sorry, kann nicht.
+Alles klar, bis gleich.
+Geht heute nicht mehr.
+Ja, ich bin dabei.
+Nee, ich muss passen.
+Komm, machen wir es.
+Leider nein, habe Bammel.
+Ja, gerne doch.
+Nein, da bleib ich weg.
+Klappt bei mir perfekt.
+Schade, kann nicht kommen.
+Ja, ich bin free.
+Nein, zu spät für mich.
+Gut, dann sieht man sich.
+Ja, absolut korrekt.
+Nein, lieber nicht heute.
+Passt alles super für mich.
+Nein, hab keine Lust.
+Ja, ich bin startklar.
+Ich hab total Hunger!
+Hast du schon was gegessen?
+Ich koche gleich Spaghetti.
+Der Duft ist so intensiv.
+Was willst du denn essen?
+Ich mach mich auf den Weg.
+Das Essen sieht mega lecker aus.
+Hunger ist da, schnell was kochen!
+Ich grills mir ein Stück Fleisch.
+Passt das für dich auch?
+Schnell noch ein Snack holen! 🍕
+Ich bin gleich mit dem Kochen fertig.
+Mein Magen knurrt schon wieder.
+Kannst du mir was mitbringen?
+Das Rezept war echt einfach.
+Ich esse gern Asiatisch heute.
+Hast du Milch für mich?
+Der Kaffee wird gleich fertig.
+Ich probier gleich das neue Gericht.
+Yumyum, das schmeckt super! 😋
+Sorry, ich habe den Alarm nicht gehört und verschlafe leider.
+Verzeih bitte die Verspätung, der Zug war heute extrem voll.
+Ich schreibe erst jetzt, weil ich den ganzen Tag viel zu tun hatte.
+Tut mir leid, ich habe deine Nachricht komplett übersehen, das passiert mal.
+Kann ich dich morgen anrufen, heute ist bei mir einfach zu stressig.
+Ich bin schon unterwegs, aber der Verkehr steht gerade total.
+Sorry, ich war gerade in einem sehr langen Meeting gefangen.
+Hast du noch Zeit, ich laufe nämlich ein bisschen hinterher.
+Mein Akku ist leer, daher antworte ich dir erst später nochmal.
+Ich habe den Termin leider völlig aus dem Kopf verloren, Pech.
+Tut mir leid, ich bin gerade etwas eingeschlafen nach der Arbeit.
+Kannst du auf mich warten, ich suche noch meinen Schlüssel.
+Ich melde mich später wieder, gerade kann ich nicht richtig sprechen.
+Sorry, ich habe deinen Anruf verpasst, mein Telefon war stumm.
+Ich komme in zehn Minuten, versprochen, ich bin echt schnell.
+Verzeih meine Faulheit, ich habe die Einladung einfach übersehen.
+Ich bin schon da, kann mich nur noch nicht melden.
+Tut mir leid, ich habe die Uhrzeit mit der falschen verwechselt.
+Kann ich das nachholen, ich hatte heute echt viel zu tun.
+Ich schaffe es heute nicht, ich bin einfach zu erschöpft.
+Das Wetter ist heute echt grausam.
+Wann wird es endlich wieder warm?
+Ich finde diesen Regen irgendwie cool.
+Pack dich warm ein, es ist kalt.
+Die Sonne scheint wieder, yo.
+Hast du einen Schirm dabei?
+Bei dem Wind bleibt mein Haar nicht.
+Ich hoffe, der Sturm wird bald nachlassen.
+Morgen soll es ja wieder klarer werden.
+Wir können morgen doch nicht wandern.
+Dieser Nebel nervt mich langsam.
+Es sieht ganz nach Sonne aus.
+Zieh besser eine Jacke an.
+Warum muss es immer regnen, wenn ich raus will?
+Das Wetter hier ist wirklich kaputt.
+Endlich mal wieder echtes Sommerwetter.
+Ich hasse diese ewige graue Decke.
+Mach das Fenster zu, es zieht.
+Wie war das Wetter bei dir?
+Wir sollten das Treffen lieber drinnen machen.
+Alles Gute zum Geburtstag! 🎂
+Ich hoffe, du hast eine fantastische Zeit.
+Wow, du hast die Prüfung geschafft!
+Das ist wirklich eine tolle Leistung von dir.
+Herzlichen Glückwunsch zur neuen Stelle!
+Ich bin so stolz auf deinen Erfolg.
+Komm doch mal vorbei, wir feiern dich.
+Alles Liebe zum Geburtstag meiner Lieben.
+Die neue Aufgabe klingt sehr spannend.
+Viel Erfolg bei deinem nächsten Schritt.
+Ich freue mich riesig über die Nachricht.
+Mama, wie schön, dass er gesund ist! 👶
+Wir können nicht glauben, was für ein Glück.
+Alles Gute, dass du durchgekommen bist!
+Das war echt harte Arbeit, aber es hat sich gelohnt.
+Ich wünsche dir nur das Beste.
+Komm vorbei, ich hole dir was zu trinken.
+Herzlichen Glückwunsch, das verdienst du absolut.
+Das Baby ist ja ein Schatz!
+Ich kann es kaum erwarten, ihn zu sehen.
+Alles Gute zum großen Tag!
+Alles Gute zum Geburtstag!
+Herzlichen Glückwunsch zur Prüfung!
+Gratulation zum neuen Job!
+alles Gute für das Baby!
+Feier heute ordentlich!
+Hast du die Prüfung bestanden?
+Kommst du klar mit der neuen Stelle?
+Wie heißt das Kleine?
+Ich drücke dir die Daumen!
+Du hast das total hingelegt!
+Die neue Stelle sieht gut aus.
+Ich freue mich riesig für dich!
+Schreib mir, wie es war!
+Wir müssen bald was trinken.
+Gute Besserung wünsche ich dir.
+Alles Liebe für die Zukunft!
+Du bist einfach super.
+Das war nicht leicht, aber geschafft.
+Ich hole dich später ab.
+Mach dich nicht so verrückt!
+Wie geht es euch allen?
+Ich vermisse euch schon wieder!
+Kocht ihr heute Abend zusammen?
+Habt ihr alles eingepackt?
+Liebt euch beide total!
+Wann kommt ihr eigentlich nach Hause?
+Ich hab euch so sehr vermisst!
+Kümmert ihr um das Essen?
+Die Kinder sind heute ganz müde.
+Ich freue mich riesig auf euch!
+Passt gut aufeinander auf, okay?
+Wir sehen uns am Wochenende wieder.
+Habt ihr schon die Aufgabe erledigt?
+Ich sende euch gleich ein Foto.
+Ist alles beim alten?
+Wir kommen später vorbei!
+Denkt daran, die Tür abzuschließen.
+Ich liebe meine Familie unendlich.
+Schreibt kurz, wenn ihr da seid.
+Alles klar bei euch daheim?
+Bis bald, euch eine Umarmung!
+Akku ist schon wieder leer.
+Ladekabel liegt doch auf dem Tisch.
+Die App stürzt total ab.
+Hast du schon das Update gemacht?
+WLAN ist heute langsam wie die Post.
+Ich kann dich nicht erreichen.
+Sitzplatz suchen kostet doch Geld.
+Mein Handy hängt sich alle zwei Minuten auf.
+Schick mir mal die Datei per WhatsApp.
+Datenlimit ist schon fast aufgebraucht.
+Netflix braucht zu viel Strom.
+Hast du den neuen Filter probiert?
+Tastur reagiert gar nicht mehr.
+Passwort vergessen, total nervig.
+Sitzbank laden funktioniert wieder.
+Foto ist total überbelichtet.
+Stream hakt ständig im Hintergrund.
+Speicherplatz ist komplett voll.
+App läuft viel flüssiger jetzt.
+Internetverbindung ist hier echt schlecht.
+Bist du schon da?
+Hat das geklappt?
+Ist alles in Ordnung?
+Kommst du bald an?
+Habe ich das richtig verstanden?
+Bist du unterwegs?
+Ist alles erledigt?
+Hast du Nachrichten?
+Klappt es bei dir?
+Bist du schon fertig?
+Alles klar bei dir?
+Ist der Weg frei?
+Hast du Zeit?
+Kommst du noch heute?
+Ist alles gut gelaufen?
+Bist du schon da?
+Hat das funktioniert?
+Ist alles ok?
+Kommst du gleich?
+Hast du was mitgebracht?
+Klingt gut, mach dir keine Sorgen.
+Ich schaffe es leider nicht heute.
+Alles klar, bis dann!
+Hast du Lust, morgen zu kommen?
+Ich muss passen, Sorry!
+Wunderbar, ich melde mich wieder.
+Geht das morgen Abend?
+Ich bin dabei, sag Bescheid.
+Leider muss ich absagen.
+Super, dann sehen wir uns dort.
+Kann ich das verschieben?
+Passt gut für mich.
+Ich komme definitiv nicht.
+Alles klar, ich bin dabei.
+Muss ich was mitbringen?
+Ich freue mich darauf!
+Leider geht das nicht.
+Super, dann bin ich ruhig.
+Ich kann nicht kommen.
+Alles klar, danke dir.
+Das Meeting ist um drei.
+Kannst du die Datei mailen?
+Ich bin heute früher weg.
+Hast du den Bericht schon?
+Wir treffen uns im Konferenzraum.
+Das Projekt läuft gut voran.
+Schick mir deine Notizen noch.
+Ich muss kurz zur Post.
+Bist du heute noch online?
+Lass uns morgen früh sprechen.
+Der Termin ist verschoben.
+Danke für deine schnelle Antwort.
+Ich schau mir das nachmittags an.
+Kommst du zum Kaffee vorbei?
+Die Zahlen sehen gut aus.
+Wir haben Zeit bis Freitag.
+Ich ruf dich in zehn Minuten an.
+Alles klar, dann machen wir das.
+Hast du schon Pausen gemacht?
+Ich packe gerade alles ein.
+Bis morgen früh dann!
+Verdammt, ich habe den Wecker übersehen und bin jetzt etwas spät dran.
+Tut mir echt leid, ich musste doch noch kurz im Büro vorbeischauen.
+Ich war total im Stress und habe die Nachricht erst gerade gesehen.
+Sorry dass ich so spät antworte, ich hatte heute einfach viel zu tun.
+Ich habe den Zug verpasst und muss jetzt leider etwas warten.
+Verzeih mir bitte, ich hatte ganz vergessen dass wir uns heute treffen.
+Ich komme in fünf Minuten an, habe mich nur im Garten verlaufen.
+Tut mir leid für die Verzögerung, mein Internet ist gerade komplett ausgefallen.
+Ich habe den Termin leider total aus dem Kopf verloren, mein Fehler.
+Entschuldige bitte, ich muss noch schnell etwas von zu Hause holen.
+Ich bin schon auf dem Weg, hatte aber einen kleinen Pechstreifen.
+Sorry für die späte Nachricht, ich war den ganzen Tag unterwegs.
+Ich habe das Geschenk vergessen, kann es dir morgen vorbeibringen?
+Tut mir wirklich leid, ich bin durch die ganze Arbeit total abgelenkt.
+Kann ich dich kurz warten lassen, ich muss noch kurz duschen.
+Ich habe den Weg verschlafen und stehe jetzt komplett im Berufsverkehr.
+Verzeih mir die Verspätung, es war heute morgen einfach alles sehr chaotisch.
+Ich habe deine Nachricht übersehen, entschuldige bitte meine späte Antwort.
+Tut mir leid, ich habe den Termin nicht richtig im Kalender eingetragen.
+Ich bin gleich da, hatte nur ein kleines Missverständnis mit der Uhrzeit.
+Alles klar, ich bin gleich da.
+Der Upload ist jetzt durch.
+Habe die Datei gerade geschickt.
+Läuft alles wie geplant.
+Bin kurz weg, melde mich.
+Der Termin ist bestätigt.
+Ich hole die Unterlagen ab.
+Alles erledigt, bis später.
+Habe das Passwort geändert.
+Der Kaffee kommt gleich.
+Bin schon am Weg.
+Habe die Rechnung bezahlt.
+Läuft etwas langsamer als sonst.
+Habe die E-Mails gelesen.
+Bin in fünf Minuten da.
+Das Problem ist behoben.
+Habe das Paket erhalten.
+Alles gut, keine Panik.
+Ich bin im Meeting.
+Bin gleich wieder zurück.
+Es tut mir wirklich leid, ich habe den Weg komplett falsch verstanden.
+Sorry für die Verspätung, der Bus ist einfach stundenlang gestreikt.
+Ich habe total vergessen dir zu schreiben, es war ein verrückter Tag.
+Tut mir leid dass ich dich warten ließ, ich war im Stau.
+Verzeih mir bitte, ich habe die Nachricht komplett übersehen.
+Sorry ich bin zu spät dran, mein Wecker ist nicht losgegangen.
+Entschuldige bitte meine späte Antwort, ich hatte keinen Empfang.
+Ich habe die Unterlagen vergessen, ich bringe sie morgen sofort vorbei.
+Sorry für den Chaos, ich hatte heute Morgen einfach Pech.
+Tut mir leid dass ich nicht kommen kann, ich bin krank geworden.
+Ich war total im Stress und habe dein Anruf verpasst.
+Sorry ich habe die Termine verschoben, das war ein Fehler meinerseits.
+Entschuldige bitte die Un, ich wollte dich gar nicht verärgern.
+Ich habe die Schlüssel vergessen, kannst du mal aufschließen?
+Sorry dass ich so laut war, es war nicht böse gemeint.
+Tut mir leid dass ich versage, ich bin einfach überfordert.
+Ich habe das Essen vergessen, ich hole es dir sofort ab.
+Sorry für die nervige Nachricht, aber ich brauche dringend Hilfe.
+Entschuldige bitte meine Sturheit, ich habe es falsch verstanden.
+Ich war im Krankenhaus und konnte nicht kommen, sorry.
+Das Wetter ist heute richtig schön.
+Hast du deinen Regenschirm mitgenommen?
+Es wird bestimmt wieder regnen heute.
+Die Sonne scheint endlich mal wieder.
+Mach doch mal das Fenster auf.
+Ist dir eigentlich auch so kalt?
+Der Wind heult wirklich ganz schön.
+Wir sollten uns drinnen treffen heute.
+Die Temperatur steigt langsam wieder an.
+Ich liebe dieses kühle Herbstwetter.
+Pass auf die rutschige Straße auf.
+Die Wolken ziehen ganz schön schnell.
+Wir gehen doch ins Café draußen.
+Das Thermometer zeigt minus fünf Grad.
+Der Himmel ist grau wie Blei.
+Endlich mal wieder frische Luft draußen.
+Das Wetter ist echt zum Kotzen.
+Hast du gesehen wie stark es weht?
+Wir müssen wegen dem Sturm bleiben.
