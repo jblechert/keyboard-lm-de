@@ -149,8 +149,8 @@ def main():
     writer.add_rope_freq_base(getattr(config, "rope_theta", 10000.0))
     writer.add_file_type(QUANT_MAP[args.quantize])
 
-    # Tokenizer-Metadaten
-    writer.add_tokenizer_model("llama")          # sentencepiece / llama-style
+    # Standard-GGUF-Tokenizer-Metadaten (für llama.cpp-Vokabular-Lookup)
+    writer.add_tokenizer_model("llama")
     writer.add_token_list(tokens)
     writer.add_token_scores(scores)
     writer.add_token_types(types)
@@ -159,14 +159,12 @@ def main():
     writer.add_unk_token_id(0)
     writer.add_pad_token_id(3)
 
-    # Eingebettetes SentencePiece-Protobuf (wie FUTO es erwartet)
-    writer.add_tokenizer_model("llama")
-
-    # FUTO-spezifische Feature-Flags (Keyboard versteht diese Felder)
-    writer.add_uint32("futo.features",
-        0b00000001 |   # FEATURE_AUTOCORRECT
-        0b00000010     # FEATURE_SWIPE_TYPING
-    )
+    # FUTO-spezifische Metadaten (keyboardlm.* Keys — siehe ModelMeta.cpp)
+    writer.add_string("keyboardlm.languages", "de")
+    writer.add_string("keyboardlm.features", "xbu_char_autocorrect_v1 char_embed_mixing_v1")
+    writer.add_string("keyboardlm.ext_tokenizer_type", "sentencepiece")
+    # SentencePiece-Protobuf als UINT8-Array einbetten (LoadFromSerializedProto erwartet das)
+    writer.add_array("keyboardlm.ext_tokenizer_data", sp_bytes)
 
     # Gewichte
     print(f"Konvertiere {len(state)} Tensoren …")
@@ -177,7 +175,11 @@ def main():
             continue
 
         np_tensor = tensor.float().numpy()
-        np_quant, ggml_type = quantize_tensor(np_tensor, args.quantize)
+        # Norm weights must stay F32 regardless of quantization
+        if gguf_name.endswith("_norm.weight"):
+            np_quant, ggml_type = np_tensor.astype(np.float32), GGMLQuantizationType.F32
+        else:
+            np_quant, ggml_type = quantize_tensor(np_tensor, args.quantize)
         writer.add_tensor(gguf_name, np_quant, raw_dtype=ggml_type)
         print(f"  {hf_name} → {gguf_name}  {list(np_tensor.shape)}")
 

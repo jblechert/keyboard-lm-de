@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Trains a SentencePiece tokenizer on data/train.txt and saves it to
+Trains a SentencePiece tokenizer on data/tatoeba_de.txt and saves it to
 data/tokenizer/de_keyboard.model + .vocab.
 
 Key settings that match FUTO's format:
@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 import sentencepiece as spm
 
-TRAIN_TXT   = Path("data/train.txt")
+TRAIN_TXT   = Path("data/tatoeba_de.txt")
 OUT_DIR     = Path("data/tokenizer")
 MODEL_NAME  = "de_keyboard"
 
@@ -31,7 +31,7 @@ FUTO_SPECIAL_TOKENS = [
 
 def main():
     if not TRAIN_TXT.exists():
-        print(f"Fehler: {TRAIN_TXT} nicht gefunden — erst 02_extract.py ausführen.", file=sys.stderr)
+        print(f"Fehler: {TRAIN_TXT} nicht gefunden — erst 07_download_tatoeba.py ausführen.", file=sys.stderr)
         sys.exit(1)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)

@@ -6,8 +6,7 @@ Architecture (~36M Parameter, entspricht FUTO English model):
   8 Layer × 512 Hidden Dims × 8 Attention Heads × 1024 FFN
 
 Input:
-  data/train.txt              Wikipedia (54M Sätze)
-  data/opensubtitles/de_clean.txt  Untertitel (19M Sätze)
+  data/tatoeba_de.txt              Tatoeba German sentences
   data/tokenizer/de_keyboard.model SentencePiece Tokenizer
 
 Output:
@@ -36,8 +35,7 @@ from datasets import IterableDataset
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
 SP_MODEL    = Path("data/tokenizer/de_keyboard.model")
-WIKI_TXT    = Path("data/train.txt")
-SUBS_TXT    = Path("data/opensubtitles/de_clean.txt")
+TRAIN_TXT   = Path("data/tatoeba_de.txt")
 OUTPUT_DIR  = Path("data/model_hf")
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
@@ -64,11 +62,6 @@ MAX_GRAD_NORM      = 1.0
 SAVE_STEPS         = 5_000
 LOGGING_STEPS      = 200
 
-# Corpus-Mischung: 65% Wikipedia, 35% OpenSubtitles
-WIKI_WEIGHT = 0.65
-SUBS_WEIGHT = 0.35
-
-
 # ── Tokenizer ─────────────────────────────────────────────────────────────────
 
 def load_tokenizer() -> LlamaTokenizer:
@@ -94,19 +87,11 @@ def line_generator(path: Path):
         yield from lines
 
 
-def mixed_generator(wiki_weight: float, subs_weight: float):
-    """Mischt Wikipedia und OpenSubtitles gewichtet."""
-    total = wiki_weight + subs_weight
-    wiki_p = wiki_weight / total
-
-    wiki_gen = line_generator(WIKI_TXT)
-    subs_gen = line_generator(SUBS_TXT) if SUBS_TXT.exists() else None
-
+def mixed_generator():
+    """Endloser Generator über Tatoeba-Trainingsdaten."""
+    gen = line_generator(TRAIN_TXT)
     while True:
-        if subs_gen is None or random.random() < wiki_p:
-            yield next(wiki_gen).strip()
-        else:
-            yield next(subs_gen).strip()
+        yield next(gen).strip()
 
 
 def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int):
@@ -120,7 +105,7 @@ def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int):
 
     def gen():
         buf = []
-        for line in mixed_generator(WIKI_WEIGHT, SUBS_WEIGHT):
+        for line in mixed_generator():
             if not line:
                 continue
             ids = tokenizer.encode(line, add_special_tokens=False)
@@ -158,7 +143,7 @@ def main():
                         help="Von letztem Checkpoint weitermachen")
     args = parser.parse_args()
 
-    for p, label in [(SP_MODEL, "Tokenizer"), (WIKI_TXT, "Wikipedia-Corpus")]:
+    for p, label in [(SP_MODEL, "Tokenizer"), (TRAIN_TXT, "Tatoeba-Corpus")]:
         if not p.exists():
             print(f"Fehler: {label} nicht gefunden: {p}")
             return
@@ -228,11 +213,7 @@ def main():
     print(f"\nStarte Training für {args.steps:,} Schritte ...")
     print(f"  Effektive Batchgröße: {BATCH_SIZE * GRAD_ACCUM}")
     print(f"  Kontext:              {CONTEXT_LEN} Tokens")
-    print(f"  Corpus-Mix:           {WIKI_WEIGHT*100:.0f}% Wikipedia / {SUBS_WEIGHT*100:.0f}% OpenSubtitles")
-    if SUBS_TXT.exists():
-        print(f"  OpenSubtitles:        verfügbar ✓")
-    else:
-        print(f"  OpenSubtitles:        nicht gefunden, nur Wikipedia")
+    print(f"  Corpus:               Tatoeba DE ({TRAIN_TXT})")
 
     resume_from = str(OUTPUT_DIR) if args.resume else None
     trainer.train(resume_from_checkpoint=resume_from)
