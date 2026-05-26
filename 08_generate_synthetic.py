@@ -57,8 +57,7 @@ STYLES = [
     "etwas länger (10–15 Wörter), aber immer noch natürlich und flüssig",
 ]
 
-SYSTEM_PROMPT = """/no_think
-Du generierst deutsche Sätze so wie echte Menschen sie auf dem Smartphone tippen.
+SYSTEM_PROMPT = """Du generierst deutsche Sätze so wie echte Menschen sie auf dem Smartphone tippen.
 
 Wichtige Regeln:
 - Natürlich und gesprochen, KEIN Bürokratendeutsch, kein Wikipedia-Stil
@@ -70,7 +69,9 @@ Wichtige Regeln:
 
 
 def build_user_prompt(topic: str, situation: str, style: str, n: int) -> str:
+    # /no_think muss bei Qwen3 am Anfang der User-Message stehen
     return (
+        f"/no_think\n"
         f"Thema: {topic}\n"
         f"Situation: {situation}\n"
         f"Stil: {style}\n\n"
