@@ -34,9 +34,13 @@ from transformers import (
 from datasets import IterableDataset
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
-SP_MODEL    = Path("data/tokenizer/de_keyboard.model")
-TRAIN_TXT   = Path("data/tatoeba_de.txt")
-OUTPUT_DIR  = Path("data/model_hf")
+SP_MODEL       = Path("data/tokenizer/de_keyboard.model")
+TRAIN_TXT      = Path("data/tatoeba_de.txt")
+SYNTHETIC_TXT  = Path("data/synthetic_de.txt")   # optional, höher gewichtet
+OUTPUT_DIR     = Path("data/model_hf")
+
+# Wie oft synthetische Daten häufiger gezogen werden als Tatoeba
+SYNTHETIC_WEIGHT = 4
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
@@ -88,10 +92,20 @@ def line_generator(path: Path):
 
 
 def mixed_generator():
-    """Endloser Generator über Tatoeba-Trainingsdaten."""
-    gen = line_generator(TRAIN_TXT)
-    while True:
-        yield next(gen).strip()
+    """Mischt Tatoeba mit synthetischen Daten (falls vorhanden).
+    Synthetische Sätze werden SYNTHETIC_WEIGHT-mal häufiger gezogen."""
+    tatoeba_gen = line_generator(TRAIN_TXT)
+    if SYNTHETIC_TXT.exists():
+        synth_gen = line_generator(SYNTHETIC_TXT)
+        total = 1 + SYNTHETIC_WEIGHT
+        while True:
+            if random.random() < SYNTHETIC_WEIGHT / total:
+                yield next(synth_gen).strip()
+            else:
+                yield next(tatoeba_gen).strip()
+    else:
+        while True:
+            yield next(tatoeba_gen).strip()
 
 
 def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int):
@@ -213,7 +227,10 @@ def main():
     print(f"\nStarte Training für {args.steps:,} Schritte ...")
     print(f"  Effektive Batchgröße: {BATCH_SIZE * GRAD_ACCUM}")
     print(f"  Kontext:              {CONTEXT_LEN} Tokens")
-    print(f"  Corpus:               Tatoeba DE ({TRAIN_TXT})")
+    if SYNTHETIC_TXT.exists():
+        print(f"  Corpus:               Tatoeba DE + Synthetisch (Gewicht {SYNTHETIC_WEIGHT}×)")
+    else:
+        print(f"  Corpus:               Tatoeba DE (kein synthetischer Datensatz gefunden)")
 
     resume_from = str(OUTPUT_DIR) if args.resume else None
     trainer.train(resume_from_checkpoint=resume_from)
