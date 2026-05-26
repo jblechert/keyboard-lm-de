@@ -136,13 +136,13 @@ def main():
                         help="Ollama base URL (default: http://localhost:11434)")
     parser.add_argument("--batch", type=int, default=20,
                         help="Sätze pro API-Aufruf (default: 20)")
-    parser.add_argument("--append", action="store_true",
-                        help="An bestehende Datei anhängen statt überschreiben")
+    parser.add_argument("--overwrite", action="store_true",
+                        help="Bestehende Datei überschreiben statt anhängen")
     args = parser.parse_args()
 
-    mode = "a" if args.append else "w"
+    mode = "w" if args.overwrite else "a"
     existing = 0
-    if args.append and OUT.exists():
+    if not args.overwrite and OUT.exists():
         existing = sum(1 for _ in OUT.open())
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
