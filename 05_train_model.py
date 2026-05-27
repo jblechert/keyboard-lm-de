@@ -39,6 +39,7 @@ SP_MODEL       = Path("data/tokenizer/de_keyboard.model")
 TATOEBA_TXT    = Path("data/tatoeba_de.txt")
 C4_TXT         = Path("data/c4_de.txt")
 SYNTHETIC_TXT  = Path("data/synthetic_de.txt")
+THEMEN_TXT     = Path("data/synthetic_themen.txt")
 OUTPUT_DIR     = Path("data/model_hf")
 
 # Sampling-Gewichte (relativ zueinander)
@@ -108,6 +109,8 @@ def mixed_generator():
         sources.append((line_generator(C4_TXT), C4_WEIGHT))
     if SYNTHETIC_TXT.exists():
         sources.append((line_generator(SYNTHETIC_TXT), SYNTHETIC_WEIGHT))
+    if THEMEN_TXT.exists():
+        sources.append((line_generator(THEMEN_TXT), SYNTHETIC_WEIGHT))
 
     if not sources:
         raise FileNotFoundError("Keine Trainingsdaten gefunden.")
@@ -204,7 +207,7 @@ def main():
     if not SP_MODEL.exists():
         print(f"Fehler: Tokenizer nicht gefunden: {SP_MODEL}")
         return
-    if not any(p.exists() for p in [TATOEBA_TXT, C4_TXT, SYNTHETIC_TXT]):
+    if not any(p.exists() for p in [TATOEBA_TXT, C4_TXT, SYNTHETIC_TXT, THEMEN_TXT]):
         print("Fehler: Keine Trainingsdaten gefunden.")
         return
 
@@ -280,7 +283,8 @@ def main():
     active = []
     if TATOEBA_TXT.exists():   active.append(f"Tatoeba({TATOEBA_WEIGHT}×)")
     if C4_TXT.exists():        active.append(f"mC4({C4_WEIGHT}×)")
-    if SYNTHETIC_TXT.exists(): active.append(f"Synthese({SYNTHETIC_WEIGHT}×)")
+    if SYNTHETIC_TXT.exists():  active.append(f"Synthese({SYNTHETIC_WEIGHT}×)")
+    if THEMEN_TXT.exists():     active.append(f"Themen({SYNTHETIC_WEIGHT}×)")
     print(f"  Corpus:               {' + '.join(active)}")
     print(f"  Snapshots bei:        {sorted(milestones)}")
 
