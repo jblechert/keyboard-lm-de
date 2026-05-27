@@ -192,9 +192,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--steps",  type=int, default=200_000,
                         help="Trainingsschritte gesamt (default: 200k)")
-    parser.add_argument("--milestones", default="60000,100000,150000,200000",
+    parser.add_argument("--milestones", default=",".join(str(s) for s in range(50_000, 200_001, 10_000)),
                         help="Kommagetrennte Schritte für permanente Snapshots "
-                             "(default: 60000,100000,150000,200000)")
+                             "(default: 50k–200k alle 10k)")
     parser.add_argument("--resume", action="store_true",
                         help="Von letztem Checkpoint weitermachen")
     args = parser.parse_args()
