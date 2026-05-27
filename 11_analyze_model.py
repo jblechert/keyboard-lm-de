@@ -44,7 +44,7 @@ SOURCES = [
 ]
 
 CONTEXT_LEN = 256
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+DEVICE = "cuda" if torch.cuda.is_available() else "cpu"  # überschreibbar via --device
 
 
 def load_model_and_tokenizer():
@@ -290,6 +290,10 @@ def main():
                         help="Top-K Vorhersagen pro Kontext (default: 10)")
     parser.add_argument("--ppl-threshold",type=float, default=200.0,
                         help="Perplexity-Schwelle für Ausreißer (default: 200)")
+    parser.add_argument("--device", default=None,
+                        help="Gerät: cuda, cpu (default: auto)")
+    parser.add_argument("--model-dir", default=str(MODEL_DIR),
+                        help=f"Modellverzeichnis (default: {MODEL_DIR})")
     parser.add_argument("--accuracy-samples", type=int, default=500,
                         help="Sätze für Top-K-Accuracy (default: 500)")
     parser.add_argument("--skip-perplexity",  action="store_true")
@@ -300,6 +304,12 @@ def main():
                              "(kompatibel mit 10_clean_training_data.py --high-ppl)")
     parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
+
+    global DEVICE, MODEL_DIR
+    if args.device:
+        DEVICE = args.device
+    MODEL_DIR = Path(args.model_dir)
+    print(f"Modell: {MODEL_DIR}  |  Gerät: {DEVICE}")
 
     random.seed(args.seed)
 
