@@ -99,14 +99,35 @@ def quantize_tensor(tensor: np.ndarray, quant: str) -> tuple[np.ndarray, GGMLQua
     return tensor.astype(np.float32), GGMLQuantizationType.F32
 
 
+import subprocess
+
+# Quantization levels produced by default after F16 conversion
+DEFAULT_QUANTS = ["Q4_0", "Q6_K", "Q8_0"]
+
+
+def run_quantize(src: Path, dst: Path, quant: str):
+    result = subprocess.run(
+        ["llama-quantize", str(src), str(dst), quant],
+        capture_output=True, text=True
+    )
+    if result.returncode != 0:
+        print(f"  [fehler] llama-quantize: {result.stderr.strip()}", file=sys.stderr)
+        return False
+    for line in result.stdout.splitlines():
+        if "quant size" in line or "total time" in line:
+            print(f"  {line.strip()}")
+    return True
+
+
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--quantize", default="f16", choices=QUANT_MAP.keys(),
-                        help="Weight quantization type (default: f16)")
-    parser.add_argument("--name",     default="mjb-de", help="Model name embedded in GGUF metadata")
+    parser.add_argument("--name",      default="mjb-de", help="Model name embedded in GGUF metadata")
     parser.add_argument("--model-dir", default=str(MODEL_HF_DIR))
     parser.add_argument("--sp-model",  default=str(SP_MODEL))
-    parser.add_argument("--output",    default=str(OUT_GGUF))
+    parser.add_argument("--output",    default=str(OUT_GGUF),
+                        help="Output path for F16 base GGUF (quantized variants derived from name)")
+    parser.add_argument("--no-quantize", action="store_true",
+                        help="Skip llama-quantize step (F16 only)")
     args = parser.parse_args()
 
     model_dir = Path(args.model_dir)
@@ -128,18 +149,16 @@ def main():
     print("Lade SentencePiece-Tokenizer …")
     tokens, scores, types, vocab_size = load_tokenizer_vocab(sp_path)
 
-    sp_bytes = sp_path.read_bytes()   # raw protobuf — wird im GGUF eingebettet
+    sp_bytes = sp_path.read_bytes()
 
-    # ── GGUF schreiben ────────────────────────────────────────────────────────
-    print(f"Schreibe GGUF → {out_path} …")
+    # ── F16 GGUF schreiben ────────────────────────────────────────────────────
+    print(f"Schreibe F16-GGUF → {out_path} …")
     writer = GGUFWriter(str(out_path), arch="llama")
 
-    # Modell-Metadaten
     writer.add_name(args.name)
     writer.add_description("German keyboard language model for FUTO Keyboard")
     writer.add_languages(["de"])
 
-    # Llama-Architektur (muss zu config passen)
     writer.add_context_length(config.max_position_embeddings)
     writer.add_embedding_length(config.hidden_size)
     writer.add_block_count(config.num_hidden_layers)
@@ -148,9 +167,8 @@ def main():
     writer.add_head_count_kv(config.num_key_value_heads)
     writer.add_layer_norm_rms_eps(config.rms_norm_eps)
     writer.add_rope_freq_base(getattr(config, "rope_theta", 10000.0))
-    writer.add_file_type(QUANT_MAP[args.quantize])
+    writer.add_file_type(GGMLQuantizationType.F16)
 
-    # Standard-GGUF-Tokenizer-Metadaten (für llama.cpp-Vokabular-Lookup)
     writer.add_tokenizer_model("llama")
     writer.add_token_list(tokens)
     writer.add_token_scores(scores)
@@ -160,29 +178,22 @@ def main():
     writer.add_unk_token_id(0)
     writer.add_pad_token_id(3)
 
-    # FUTO-spezifische Metadaten (keyboardlm.* Keys — siehe ModelMeta.cpp)
     writer.add_string("keyboardlm.languages", "de")
     writer.add_string("keyboardlm.features", "xbu_char_autocorrect_v1 char_embed_mixing_v1")
     writer.add_string("keyboardlm.ext_tokenizer_type", "sentencepiece")
-    # SentencePiece-Protobuf als UINT8-Array einbetten (LoadFromSerializedProto erwartet das)
     writer.add_array("keyboardlm.ext_tokenizer_data", sp_bytes)
 
-    # Gewichte
     print(f"Konvertiere {len(state)} Tensoren …")
     for hf_name, tensor in state.items():
         gguf_name = HF_TO_GGUF.get(hf_name)
         if gguf_name is None:
-            print(f"  [skip] {hf_name}")
             continue
-
         np_tensor = tensor.float().numpy()
-        # Norm weights must stay F32 regardless of quantization
         if gguf_name.endswith("_norm.weight"):
             np_quant, ggml_type = np_tensor.astype(np.float32), GGMLQuantizationType.F32
         else:
-            np_quant, ggml_type = quantize_tensor(np_tensor, args.quantize)
+            np_quant, ggml_type = np_tensor.astype(np.float16), GGMLQuantizationType.F16
         writer.add_tensor(gguf_name, np_quant, raw_dtype=ggml_type)
-        print(f"  {hf_name} → {gguf_name}  {list(np_tensor.shape)}")
 
     writer.write_header_to_file()
     writer.write_kv_data_to_file()
@@ -190,9 +201,23 @@ def main():
     writer.close()
 
     size_mb = out_path.stat().st_size / 1024 / 1024
-    print(f"\nFertig: {out_path}  ({size_mb:.0f} MB)")
-    print("Tipp: für echte Q4/Q8-Quantisierung anschließend llama.cpp's")
-    print("      quantize-Tool ausführen: ./quantize de_keyboard.gguf q4_0")
+    print(f"  → {out_path}  ({size_mb:.0f} MB)")
+
+    # ── Quantisierte Varianten via llama-quantize ─────────────────────────────
+    if args.no_quantize:
+        return
+
+    stem = out_path.stem  # e.g. "mjb-de-0.2-54k"
+    parent = out_path.parent
+    print(f"\nQuantisiere mit llama-quantize …")
+    for quant in DEFAULT_QUANTS:
+        dst = parent / f"{stem}-{quant}.gguf"
+        print(f"  {quant} → {dst.name}")
+        run_quantize(out_path, dst, quant)
+        size_mb = dst.stat().st_size / 1024 / 1024
+        print(f"  → {size_mb:.0f} MB")
+
+    print("\nFertig.")
 
 
 if __name__ == "__main__":
