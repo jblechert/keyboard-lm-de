@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Modellanalyse: Perplexity und Vorhersagehäufigkeit
+Modellanalyse: Perplexity, Vorhersagehäufigkeit und Top-K-Accuracy
 
 1. Perplexity-Analyse
    Berechnet die Perplexity für eine Stichprobe aus den Trainingsdaten.
@@ -14,8 +14,15 @@ Modellanalyse: Perplexity und Vorhersagehäufigkeit
    häufiger vorhergesagt werden als sie im Korpus vorkommen, sind
    potentielle Überrepräsentierungsprobleme (wie "Mahd").
 
+3. Top-K-Accuracy
+   Misst wie oft das richtige nächste Wort in den Top-1/3/5-Vorschlägen
+   landet — direkte Entsprechung zur gefühlten Qualität auf dem Keyboard.
+   Zusätzlich: Keystroke Savings Rate (KSR), der Industriestandard für
+   Keyboard-LM-Qualität.
+
 Usage:
   .venv_ml/bin/python 11_analyze_model.py [--samples 2000] [--contexts 500]
+  .venv_ml/bin/python 11_analyze_model.py --skip-perplexity --skip-frequency
 """
 
 import argparse
@@ -181,6 +188,96 @@ def run_frequency(model, tok, sentences: list[str], n_contexts: int, top_k: int)
     return prediction_freq, corpus_freq
 
 
+# ── 3. Top-K-Accuracy & Keystroke Savings Rate ───────────────────────────────
+
+def run_accuracy(model, tok, sentences: list[str], n_samples: int):
+    """
+    Berechnet Top-1/3/5-Accuracy und Keystroke Savings Rate (KSR).
+
+    Für jede Position nach einem vollständigen Wort (Token endet mit ▁) wird
+    geprüft, ob das nächste vollständige Wort in den Top-K Vorhersagen landet.
+
+    KSR: Anteil der Tastenanschläge die durch korrekte Top-1-Vorhersage gespart
+    werden. Formel: KSR = Σ(gesparte_zeichen) / Σ(zeichen_ohne_vorhersage)
+    Entspricht dem Industriestandard für Keyboard-LM-Evaluation.
+    """
+    TOP_K_LIST = [1, 3, 5]
+    SCAN = 50   # wie viele Kandidaten-Token pro Position scannen
+
+    hits   = {k: 0 for k in TOP_K_LIST}
+    total  = 0
+    saved_keystrokes   = 0
+    total_keystrokes   = 0
+
+    sample = random.sample(sentences, min(n_samples, len(sentences)))
+
+    print(f"\n── Top-K-Accuracy ({len(sample)} Sätze) ──")
+
+    for idx, sent in enumerate(sample):
+        ids = tok.encode(sent, add_special_tokens=True)
+        if len(ids) < 3:
+            continue
+        ids = ids[:CONTEXT_LEN]
+
+        for pos in range(1, len(ids) - 1):
+            prev_piece = tok.convert_ids_to_tokens(ids[pos - 1]) or ""
+            true_piece = tok.convert_ids_to_tokens(ids[pos]) or ""
+
+            # Nur auswerten wenn vorheriges Token ein vollständiges Wort ist
+            # und das wahre nächste Token ebenfalls ein vollständiges Wort
+            if not prev_piece.endswith("▁") or not true_piece.endswith("▁"):
+                continue
+
+            true_word = true_piece[:-1].lower()
+            if not true_word or not true_word.replace("-", "").isalpha() or len(true_word) < 2:
+                continue
+
+            context_ids = ids[:pos]
+            input_ids   = torch.tensor([context_ids], device=DEVICE)
+            with torch.no_grad():
+                logits = model(input_ids=input_ids).logits[0, -1]
+
+            # Top-5 vollständige Wörter aus den besten SCAN Kandidaten
+            top_ids = torch.topk(logits, SCAN * len(TOP_K_LIST)).indices.tolist()
+            predicted: list[str] = []
+            for tid in top_ids:
+                piece = tok.convert_ids_to_tokens(tid) or ""
+                if piece.endswith("▁"):
+                    w = piece[:-1].lower()
+                    if w and w.replace("-", "").isalpha() and len(w) > 1:
+                        predicted.append(w)
+                if len(predicted) >= max(TOP_K_LIST):
+                    break
+
+            total += 1
+            total_keystrokes += len(true_word)
+            for k in TOP_K_LIST:
+                if true_word in predicted[:k]:
+                    hits[k] += 1
+            if true_word == predicted[0] if predicted else "":
+                saved_keystrokes += len(true_word)
+
+        if (idx + 1) % 100 == 0:
+            print(f"  {idx+1}/{len(sample)} Sätze …")
+
+    if total == 0:
+        print("  Keine auswertbaren Positionen gefunden.")
+        return
+
+    print(f"\n  Auswertbare Wortpositionen: {total:,}")
+    print()
+    for k in TOP_K_LIST:
+        acc = hits[k] / total * 100
+        print(f"  Top-{k} Accuracy:  {acc:5.1f}%  ({hits[k]:,}/{total:,})")
+
+    ksr = saved_keystrokes / total_keystrokes * 100 if total_keystrokes else 0
+    avg_word_len = total_keystrokes / total if total else 0
+    print(f"\n  Keystroke Savings Rate (KSR):  {ksr:.1f}%")
+    print(f"  (Ø Wortlänge: {avg_word_len:.1f} Zeichen, Top-1 korrekt → alles gespart)")
+
+    return hits, total, ksr
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -193,8 +290,11 @@ def main():
                         help="Top-K Vorhersagen pro Kontext (default: 10)")
     parser.add_argument("--ppl-threshold",type=float, default=200.0,
                         help="Perplexity-Schwelle für Ausreißer (default: 200)")
+    parser.add_argument("--accuracy-samples", type=int, default=500,
+                        help="Sätze für Top-K-Accuracy (default: 500)")
     parser.add_argument("--skip-perplexity",  action="store_true")
     parser.add_argument("--skip-frequency",   action="store_true")
+    parser.add_argument("--skip-accuracy",    action="store_true")
     parser.add_argument("--export-high-ppl",  metavar="FILE", default=None,
                         help="Sätze über --ppl-threshold in diese Datei schreiben "
                              "(kompatibel mit 10_clean_training_data.py --high-ppl)")
@@ -208,7 +308,7 @@ def main():
         return
 
     model, tok = load_model_and_tokenizer()
-    sentences = load_sentences(max(args.samples, args.contexts * 3))
+    sentences = load_sentences(max(args.samples, args.contexts * 3, args.accuracy_samples))
     print(f"{len(sentences)} Sätze geladen.")
 
     if not args.skip_perplexity:
@@ -217,6 +317,9 @@ def main():
 
     if not args.skip_frequency:
         run_frequency(model, tok, sentences, args.contexts, args.top_k)
+
+    if not args.skip_accuracy:
+        run_accuracy(model, tok, sentences, args.accuracy_samples)
 
 
 if __name__ == "__main__":
