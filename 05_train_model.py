@@ -28,6 +28,7 @@ from transformers import (
     LlamaForCausalLM,
     LlamaTokenizer,
     Trainer,
+    TrainerCallback,
     TrainingArguments,
     DataCollatorForLanguageModeling,
 )
@@ -71,6 +72,7 @@ WEIGHT_DECAY       = 0.1
 MAX_GRAD_NORM      = 1.0
 SAVE_STEPS         = 5_000
 LOGGING_STEPS      = 200
+SNAPSHOT_DIR       = Path("data/snapshots")
 
 # ── Tokenizer ─────────────────────────────────────────────────────────────────
 
@@ -150,6 +152,25 @@ def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int):
     return IterableDataset.from_generator(gen)
 
 
+# ── Milestone-Callback ────────────────────────────────────────────────────────
+
+class MilestoneCallback(TrainerCallback):
+    """Speichert permanente Snapshots bei bestimmten Schritten."""
+
+    def __init__(self, milestones: set[int], snapshot_dir: Path, tokenizer):
+        self.milestones   = milestones
+        self.snapshot_dir = snapshot_dir
+        self.tokenizer    = tokenizer
+
+    def on_step_end(self, args, state, control, model=None, **kwargs):
+        if state.global_step in self.milestones:
+            out = self.snapshot_dir / f"step_{state.global_step:06d}"
+            out.mkdir(parents=True, exist_ok=True)
+            model.save_pretrained(str(out))
+            self.tokenizer.save_pretrained(str(out))
+            print(f"\n[Milestone] → {out}", flush=True)
+
+
 # ── Modell ────────────────────────────────────────────────────────────────────
 
 def build_model(tokenizer: LlamaTokenizer) -> LlamaForCausalLM:
@@ -169,11 +190,16 @@ def build_model(tokenizer: LlamaTokenizer) -> LlamaForCausalLM:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--steps",  type=int, default=100_000,
-                        help="Trainingsschritte gesamt (default: 100k)")
+    parser.add_argument("--steps",  type=int, default=200_000,
+                        help="Trainingsschritte gesamt (default: 200k)")
+    parser.add_argument("--milestones", default="60000,100000,150000,200000",
+                        help="Kommagetrennte Schritte für permanente Snapshots "
+                             "(default: 60000,100000,150000,200000)")
     parser.add_argument("--resume", action="store_true",
                         help="Von letztem Checkpoint weitermachen")
     args = parser.parse_args()
+
+    milestones = {int(s) for s in args.milestones.split(",") if s.strip()}
 
     if not SP_MODEL.exists():
         print(f"Fehler: Tokenizer nicht gefunden: {SP_MODEL}")
@@ -237,21 +263,26 @@ def main():
         mlm=False,   # Causal LM, kein Masked LM
     )
 
+    SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
+    milestone_cb = MilestoneCallback(milestones, SNAPSHOT_DIR, tokenizer)
+
     trainer = Trainer(
         model=model,
         args=training_args,
         train_dataset=dataset,
         data_collator=collator,
+        callbacks=[milestone_cb],
     )
 
     print(f"\nStarte Training für {args.steps:,} Schritte ...")
     print(f"  Effektive Batchgröße: {BATCH_SIZE * GRAD_ACCUM}")
     print(f"  Kontext:              {CONTEXT_LEN} Tokens")
     active = []
-    if TATOEBA_TXT.exists():  active.append(f"Tatoeba({TATOEBA_WEIGHT}×)")
-    if C4_TXT.exists():       active.append(f"mC4({C4_WEIGHT}×)")
+    if TATOEBA_TXT.exists():   active.append(f"Tatoeba({TATOEBA_WEIGHT}×)")
+    if C4_TXT.exists():        active.append(f"mC4({C4_WEIGHT}×)")
     if SYNTHETIC_TXT.exists(): active.append(f"Synthese({SYNTHETIC_WEIGHT}×)")
     print(f"  Corpus:               {' + '.join(active)}")
+    print(f"  Snapshots bei:        {sorted(milestones)}")
 
     resume_from = str(OUTPUT_DIR) if args.resume else None
     trainer.train(resume_from_checkpoint=resume_from)

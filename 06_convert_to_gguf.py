@@ -11,7 +11,9 @@ Output:
   data/de_keyboard.gguf
 
 Usage:
-  .venv_ml/bin/python 06_convert_to_gguf.py [--quantize q8_0]
+  .venv_ml/bin/python 06_convert_to_gguf.py
+  .venv_ml/bin/python 06_convert_to_gguf.py --all-snapshots   # konvertiert data/snapshots/step_*/
+  .venv_ml/bin/python 06_convert_to_gguf.py --no-quantize     # nur F16
 """
 
 import argparse
@@ -119,27 +121,15 @@ def run_quantize(src: Path, dst: Path, quant: str):
     return True
 
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--name",      default="mjb-de", help="Model name embedded in GGUF metadata")
-    parser.add_argument("--model-dir", default=str(MODEL_HF_DIR))
-    parser.add_argument("--sp-model",  default=str(SP_MODEL))
-    parser.add_argument("--output",    default=str(OUT_GGUF),
-                        help="Output path for F16 base GGUF (quantized variants derived from name)")
-    parser.add_argument("--no-quantize", action="store_true",
-                        help="Skip llama-quantize step (F16 only)")
-    args = parser.parse_args()
+SNAPSHOT_DIR = Path("data/snapshots")
 
-    model_dir = Path(args.model_dir)
-    sp_path   = Path(args.sp_model)
-    out_path  = Path(args.output)
 
-    for p, label in [(model_dir, "HF-Modell"), (sp_path, "SP-Tokenizer")]:
-        if not p.exists():
-            print(f"Fehler: {label} nicht gefunden: {p}", file=sys.stderr)
-            sys.exit(1)
-
+def convert_one(model_dir: Path, sp_path: Path, out_path: Path,
+                name: str, no_quantize: bool):
+    """Konvertiert ein einzelnes HF-Modell zu GGUF (F16 + optional quantisierte Varianten)."""
     # ── Modell laden ──────────────────────────────────────────────────────────
+    print(f"\n{'─'*60}")
+    print(f"Konvertiere: {model_dir}  →  {out_path}")
     print("Lade HuggingFace-Modell …")
     config = LlamaConfig.from_pretrained(str(model_dir))
     model  = LlamaForCausalLM.from_pretrained(str(model_dir), torch_dtype=torch.float32)
@@ -148,14 +138,14 @@ def main():
     # ── Tokenizer laden ───────────────────────────────────────────────────────
     print("Lade SentencePiece-Tokenizer …")
     tokens, scores, types, vocab_size = load_tokenizer_vocab(sp_path)
-
     sp_bytes = sp_path.read_bytes()
 
     # ── F16 GGUF schreiben ────────────────────────────────────────────────────
     print(f"Schreibe F16-GGUF → {out_path} …")
+    out_path.parent.mkdir(parents=True, exist_ok=True)
     writer = GGUFWriter(str(out_path), arch="llama")
 
-    writer.add_name(args.name)
+    writer.add_name(name)
     writer.add_description("German keyboard language model for FUTO Keyboard")
     writer.add_languages(["de"])
 
@@ -204,19 +194,61 @@ def main():
     print(f"  → {out_path}  ({size_mb:.0f} MB)")
 
     # ── Quantisierte Varianten via llama-quantize ─────────────────────────────
-    if args.no_quantize:
+    if no_quantize:
         return
 
-    stem = out_path.stem  # e.g. "mjb-de-0.2-54k"
+    stem   = out_path.stem
     parent = out_path.parent
-    print(f"\nQuantisiere mit llama-quantize …")
+    print("Quantisiere mit llama-quantize …")
     for quant in DEFAULT_QUANTS:
         dst = parent / f"{stem}-{quant}.gguf"
         print(f"  {quant} → {dst.name}")
-        run_quantize(out_path, dst, quant)
-        size_mb = dst.stat().st_size / 1024 / 1024
-        print(f"  → {size_mb:.0f} MB")
+        if run_quantize(out_path, dst, quant):
+            size_mb = dst.stat().st_size / 1024 / 1024
+            print(f"  → {size_mb:.0f} MB")
 
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--name",      default="mjb-de", help="Model name embedded in GGUF metadata")
+    parser.add_argument("--model-dir", default=str(MODEL_HF_DIR))
+    parser.add_argument("--sp-model",  default=str(SP_MODEL))
+    parser.add_argument("--output",    default=str(OUT_GGUF),
+                        help="Output path for F16 base GGUF (quantized variants derived from name)")
+    parser.add_argument("--no-quantize", action="store_true",
+                        help="Skip llama-quantize step (F16 only)")
+    parser.add_argument("--all-snapshots", action="store_true",
+                        help=f"Konvertiert alle Snapshots in {SNAPSHOT_DIR}/step_*/")
+    args = parser.parse_args()
+
+    sp_path = Path(args.sp_model)
+    if not sp_path.exists():
+        print(f"Fehler: SP-Tokenizer nicht gefunden: {sp_path}", file=sys.stderr)
+        sys.exit(1)
+
+    if args.all_snapshots:
+        snapshots = sorted(SNAPSHOT_DIR.glob("step_*"))
+        if not snapshots:
+            print(f"Keine Snapshots in {SNAPSHOT_DIR}/", file=sys.stderr)
+            sys.exit(1)
+        print(f"{len(snapshots)} Snapshots gefunden: {[s.name for s in snapshots]}")
+        for snap in snapshots:
+            step_str = snap.name.replace("step_", "").lstrip("0") or "0"
+            step_k   = int(step_str) // 1000
+            name     = f"mjb-de-{step_k}k"
+            out_path = Path("data") / f"{name}.gguf"
+            convert_one(snap, sp_path, out_path, name, args.no_quantize)
+        print("\nAlle Snapshots konvertiert.")
+        return
+
+    model_dir = Path(args.model_dir)
+    out_path  = Path(args.output)
+
+    if not model_dir.exists():
+        print(f"Fehler: HF-Modell nicht gefunden: {model_dir}", file=sys.stderr)
+        sys.exit(1)
+
+    convert_one(model_dir, sp_path, out_path, args.name, args.no_quantize)
     print("\nFertig.")
 
 
