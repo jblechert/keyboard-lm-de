@@ -103,6 +103,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--quantize", default="f16", choices=QUANT_MAP.keys(),
                         help="Weight quantization type (default: f16)")
+    parser.add_argument("--name",     default="mjb-de", help="Model name embedded in GGUF metadata")
     parser.add_argument("--model-dir", default=str(MODEL_HF_DIR))
     parser.add_argument("--sp-model",  default=str(SP_MODEL))
     parser.add_argument("--output",    default=str(OUT_GGUF))
@@ -134,7 +135,7 @@ def main():
     writer = GGUFWriter(str(out_path), arch="llama")
 
     # Modell-Metadaten
-    writer.add_name("mjb-de-0.1")
+    writer.add_name(args.name)
     writer.add_description("German keyboard language model for FUTO Keyboard")
     writer.add_languages(["de"])
 
