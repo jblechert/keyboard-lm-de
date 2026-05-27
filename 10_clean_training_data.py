@@ -14,6 +14,7 @@ Usage:
 """
 
 import argparse
+import os
 import re
 import sys
 from pathlib import Path
@@ -81,46 +82,56 @@ def main():
         if not src.exists():
             continue
 
-        lines = src.read_text(encoding="utf-8").splitlines(keepends=True)
-        kept = []
+        tmp = src.with_suffix(".tmp")
         removed_counts = {desc: 0 for _, desc in BANNED}
         n_ppl_removed = 0
+        n_kept = 0
+        n_total = 0
 
-        for line in lines:
-            stripped = line.strip()
+        with src.open("r", encoding="utf-8") as fin, \
+             (tmp.open("w", encoding="utf-8") if not args.dry_run else open(os.devnull, "w")) as fout:
+            for line in fin:
+                n_total += 1
+                stripped = line.strip()
 
-            # Exact-match gegen high-ppl Liste
-            if stripped in high_ppl_set:
-                n_ppl_removed += 1
-                continue
+                if stripped in high_ppl_set:
+                    n_ppl_removed += 1
+                    continue
 
-            drop = False
-            for pat, desc in patterns:
-                if pat.search(line):
-                    removed_counts[desc] += 1
-                    drop = True
-                    break
-            if not drop:
-                kept.append(line)
+                drop = False
+                for pat, desc in patterns:
+                    if pat.search(line):
+                        removed_counts[desc] += 1
+                        drop = True
+                        break
 
-        n_removed = len(lines) - len(kept)
+                if not drop:
+                    fout.write(line)
+                    n_kept += 1
+
+                if n_total % 5_000_000 == 0:
+                    print(f"  {src.name}: {n_total:,} gelesen …", flush=True)
+
+        n_removed = n_total - n_kept
         total_removed += n_removed
 
         if n_removed == 0:
-            print(f"{src}: keine Treffer")
+            print(f"{src}: keine Treffer ({n_total:,} Sätze)")
+            if not args.dry_run:
+                tmp.unlink()
             continue
 
-        print(f"{src}: {n_removed} Sätze entfernt")
+        print(f"{src}: {n_removed:,} Sätze entfernt (von {n_total:,})")
         if n_ppl_removed:
-            print(f"  {n_ppl_removed:>6}×  hohe Perplexity (--high-ppl)")
+            print(f"  {n_ppl_removed:>8,}×  hohe Perplexity (--high-ppl)")
         for desc, count in removed_counts.items():
             if count:
-                print(f"  {count:>6}×  {desc}")
+                print(f"  {count:>8,}×  {desc}")
 
         if not args.dry_run:
-            src.write_text("".join(kept), encoding="utf-8")
+            tmp.replace(src)
 
-    print(f"\nGesamt entfernt: {total_removed}")
+    print(f"\nGesamt entfernt: {total_removed:,}")
     if args.dry_run:
         print("(Dry-run — keine Datei verändert)")
 
