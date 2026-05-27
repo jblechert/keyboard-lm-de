@@ -291,6 +291,105 @@ def run_accuracy(model, tok, sentences: list[str], n_samples: int):
     return hits, total, ksr
 
 
+# ── 4. Präfix-Accuracy ────────────────────────────────────────────────────────
+
+def build_prefix_index(tok) -> dict[int, dict[str, list[int]]]:
+    """
+    Baut einen Index: prefix_len → {prefix_str → [token_ids]}.
+    Einmalig berechnet, für alle Sätze wiederverwendet.
+    """
+    from collections import defaultdict
+    PREFIX_LENS = [1, 2, 3]
+    index: dict[int, dict[str, list[int]]] = {p: defaultdict(list) for p in PREFIX_LENS}
+
+    all_ids = list(range(tok.vocab_size)) + list(tok.added_tokens_encoder.values())
+    for tid in all_ids:
+        piece = tok.convert_ids_to_tokens(tid) or ""
+        if not piece.endswith("▁"):
+            continue
+        word = piece[:-1].lower()
+        if not word or not word.replace("-", "").isalpha() or len(word) < 2:
+            continue
+        for plen in PREFIX_LENS:
+            if len(word) >= plen:
+                index[plen][word[:plen]].append(tid)
+
+    return index
+
+
+def run_prefix_accuracy(model, tok, sentences: list[str], n_samples: int):
+    """
+    Präfix-Accuracy: simuliert Keyboard-Tipp-Verhalten.
+
+    Für jede Wortposition wird angenommen, der Nutzer hat bereits 1, 2 oder
+    3 Zeichen getippt. Die Vorhersagen werden auf Kandidaten gefiltert die mit
+    diesem Präfix beginnen — so wie das Keyboard es tatsächlich tut.
+    Zeigt deutlich höhere Werte als Cold-Start-Accuracy und ist näher an der
+    echten Nutzererfahrung.
+    """
+    PREFIX_LENS = [1, 2, 3]
+    TOP_K_LIST  = [1, 3, 5]
+
+    print(f"\n── Präfix-Accuracy ({min(n_samples, len(sentences))} Sätze) ──")
+    print("  Baue Vokabular-Index …", flush=True)
+    prefix_index = build_prefix_index(tok)
+
+    hits   = {p: {k: 0 for k in TOP_K_LIST} for p in PREFIX_LENS}
+    totals = {p: 0 for p in PREFIX_LENS}
+
+    sample = random.sample(sentences, min(n_samples, len(sentences)))
+
+    for idx, sent in enumerate(sample):
+        ids = tok.encode(sent, add_special_tokens=True)[:CONTEXT_LEN]
+        if len(ids) < 3:
+            continue
+
+        for pos in range(1, len(ids) - 1):
+            prev_piece = tok.convert_ids_to_tokens(ids[pos - 1]) or ""
+            true_piece = tok.convert_ids_to_tokens(ids[pos]) or ""
+
+            if not prev_piece.endswith("▁") or not true_piece.endswith("▁"):
+                continue
+
+            true_word = true_piece[:-1].lower()
+            if not true_word or not true_word.replace("-", "").isalpha() or len(true_word) < 2:
+                continue
+
+            context_ids = ids[:pos]
+            input_ids   = torch.tensor([context_ids], device=DEVICE)
+            with torch.no_grad():
+                logits = model(input_ids=input_ids).logits[0, -1]
+
+            for plen in PREFIX_LENS:
+                if len(true_word) < plen:
+                    continue
+                prefix = true_word[:plen]
+                candidate_tids = prefix_index[plen].get(prefix, [])
+                if not candidate_tids:
+                    continue
+
+                # Kandidaten nach Logit-Score sortieren
+                ranked = sorted(candidate_tids, key=lambda t: logits[t].item(), reverse=True)
+                ranked_words = [tok.convert_ids_to_tokens(t)[:-1].lower() for t in ranked]
+
+                totals[plen] += 1
+                for k in TOP_K_LIST:
+                    if true_word in ranked_words[:k]:
+                        hits[plen][k] += 1
+
+        if (idx + 1) % 100 == 0:
+            print(f"  {idx+1}/{len(sample)} Sätze …")
+
+    print()
+    for plen in PREFIX_LENS:
+        if totals[plen] == 0:
+            continue
+        parts = [f"Top-{k}: {hits[plen][k]/totals[plen]*100:.1f}%" for k in TOP_K_LIST]
+        print(f"  Nach {plen} Zeichen  ({totals[plen]:>6,} Pos.)  |  {' · '.join(parts)}")
+
+    return hits, totals
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -312,6 +411,7 @@ def main():
     parser.add_argument("--skip-perplexity",  action="store_true")
     parser.add_argument("--skip-frequency",   action="store_true")
     parser.add_argument("--skip-accuracy",    action="store_true")
+    parser.add_argument("--skip-prefix",      action="store_true")
     parser.add_argument("--export-high-ppl",  metavar="FILE", default=None,
                         help="Sätze über --ppl-threshold in diese Datei schreiben "
                              "(kompatibel mit 10_clean_training_data.py --high-ppl)")
@@ -343,6 +443,9 @@ def main():
 
     if not args.skip_accuracy:
         run_accuracy(model, tok, sentences, args.accuracy_samples)
+
+    if not args.skip_prefix:
+        run_prefix_accuracy(model, tok, sentences, args.accuracy_samples)
 
 
 if __name__ == "__main__":
