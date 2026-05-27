@@ -47,25 +47,38 @@ CONTEXT_LEN = 256
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"  # überschreibbar via --device
 
 
-def load_model_and_tokenizer():
+def load_model_and_tokenizer(model_dir: Path = MODEL_DIR):
     print("Lade Tokenizer und Modell …")
     tok = LlamaTokenizer(vocab_file=str(SP_MODEL), legacy=False)
     tok.add_special_tokens({"bos_token": "<s>", "eos_token": "</s>",
                             "unk_token": "<unk>", "pad_token": "<unk>"})
-    model = LlamaForCausalLM.from_pretrained(str(MODEL_DIR), torch_dtype=torch.float32)
+    model = LlamaForCausalLM.from_pretrained(str(model_dir), torch_dtype=torch.float32)
     model.eval()
     model.to(DEVICE)
     return model, tok
 
 
 def load_sentences(n: int) -> list[str]:
-    """Zieht n zufällige Sätze aus allen Quellen (gewichtet nach Dateigröße)."""
-    all_lines = []
+    """Zieht n zufällige Sätze via Reservoir-Sampling — liest nie mehr als nötig."""
+    reservoir: list[str] = []
+    count = 0
     for src in SOURCES:
-        if src.exists():
-            all_lines.extend(src.read_text(encoding="utf-8").splitlines())
-    random.shuffle(all_lines)
-    return [l.strip() for l in all_lines if len(l.strip()) > 20][:n]
+        if not src.exists():
+            continue
+        with src.open("r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if len(line) <= 20:
+                    continue
+                count += 1
+                if len(reservoir) < n:
+                    reservoir.append(line)
+                else:
+                    j = random.randrange(count)
+                    if j < n:
+                        reservoir[j] = line
+    random.shuffle(reservoir)
+    return reservoir
 
 
 # ── 1. Perplexity ─────────────────────────────────────────────────────────────
@@ -305,19 +318,19 @@ def main():
     parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
 
-    global DEVICE, MODEL_DIR
+    global DEVICE
     if args.device:
         DEVICE = args.device
-    MODEL_DIR = Path(args.model_dir)
-    print(f"Modell: {MODEL_DIR}  |  Gerät: {DEVICE}")
+    model_dir = Path(args.model_dir)
+    print(f"Modell: {model_dir}  |  Gerät: {DEVICE}")
 
     random.seed(args.seed)
 
-    if not MODEL_DIR.exists():
-        print(f"Fehler: Kein Modell in {MODEL_DIR}", flush=True)
+    if not model_dir.exists():
+        print(f"Fehler: Kein Modell in {model_dir}", flush=True)
         return
 
-    model, tok = load_model_and_tokenizer()
+    model, tok = load_model_and_tokenizer(model_dir)
     sentences = load_sentences(max(args.samples, args.contexts * 3, args.accuracy_samples))
     print(f"{len(sentences)} Sätze geladen.")
 
