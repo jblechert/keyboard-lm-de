@@ -23,7 +23,7 @@ import time
 import urllib.request
 from pathlib import Path
 
-OUT = Path("data/synthetic_themen.txt")
+DATA_DIR = Path("data")
 
 # ── Themen mit spezifischen Prompts ──────────────────────────────────────────
 # Jedes Thema: name, beschreibung, system_zusatz, beispiele
@@ -283,8 +283,9 @@ def main():
                         help="Kommagetrennte Themen-Keys (z.B. mittelalter,medizin)")
     parser.add_argument("--list-topics", action="store_true",
                         help="Verfügbare Themen auflisten und beenden")
-    parser.add_argument("--output", default=str(OUT),
-                        help=f"Ausgabedatei (default: {OUT})")
+    parser.add_argument("--output-dir", default=str(DATA_DIR),
+                        help=f"Ausgabeverzeichnis (default: {DATA_DIR}); "
+                             "je Thema eine Datei: synthetic_<key>.txt")
     args = parser.parse_args()
 
     if args.list_topics:
@@ -293,7 +294,7 @@ def main():
             print(f"  {key:<20} — {t['name']}")
         return
 
-    out_path = Path(args.output)
+    out_dir = Path(args.output_dir)
 
     # Themen auswählen
     if args.topics:
@@ -309,18 +310,19 @@ def main():
 
     total_target = len(selected) * args.per_topic
     print(f"Themen: {len(selected)}  ×  {args.per_topic} Sätze = ~{total_target} Sätze")
-    print(f"Modell: {args.model}  →  {out_path}\n")
+    print(f"Modell: {args.model}  →  {out_dir}/synthetic_<thema>.txt\n")
 
-    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_dir.mkdir(parents=True, exist_ok=True)
     total_collected = 0
     t_start = time.time()
 
-    with out_path.open("a", encoding="utf-8") as f:
-        for i, (key, topic) in enumerate(selected.items()):
-            collected = 0
-            errors = 0
-            print(f"[{i+1}/{len(selected)}] {topic['name']} …")
+    for i, (key, topic) in enumerate(selected.items()):
+        out_path = out_dir / f"synthetic_{key}.txt"
+        collected = 0
+        errors = 0
+        print(f"[{i+1}/{len(selected)}] {topic['name']}  →  {out_path.name}")
 
+        with out_path.open("a", encoding="utf-8") as f:
             while collected < args.per_topic:
                 n = min(args.batch, args.per_topic - collected)
                 try:
@@ -352,7 +354,7 @@ def main():
                     time.sleep(2)
 
     elapsed = time.time() - t_start
-    print(f"\nFertig: {total_collected} Sätze in {elapsed/60:.1f} min → {out_path}")
+    print(f"\nFertig: {total_collected} Sätze in {elapsed/60:.1f} min")
 
 
 if __name__ == "__main__":

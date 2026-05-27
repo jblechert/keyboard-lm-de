@@ -33,8 +33,7 @@ SP_MODEL   = Path("data/tokenizer/de_keyboard.model")
 SOURCES = [
     Path("data/tatoeba_de.txt"),
     Path("data/c4_de.txt"),
-    Path("data/synthetic_de.txt"),
-    Path("data/synthetic_themen.txt"),
+    *sorted(Path("data").glob("synthetic_*.txt")),
 ]
 
 CONTEXT_LEN = 256

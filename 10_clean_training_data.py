@@ -51,8 +51,7 @@ BANNED = [
 SOURCES = [
     Path("data/tatoeba_de.txt"),
     Path("data/c4_de.txt"),
-    Path("data/synthetic_de.txt"),
-    Path("data/synthetic_themen.txt"),
+    *sorted(Path("data").glob("synthetic_*.txt")),
 ]
 
 
