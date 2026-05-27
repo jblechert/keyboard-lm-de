@@ -74,7 +74,8 @@ def sentence_perplexity(model, tok, sentence: str) -> float:
     return math.exp(loss.item())
 
 
-def run_perplexity(model, tok, sentences: list[str], high_threshold: float):
+def run_perplexity(model, tok, sentences: list[str], high_threshold: float,
+                   export_file: str | None = None):
     print(f"\n── Perplexity-Analyse ({len(sentences)} Sätze) ──")
     results = []
     for i, s in enumerate(sentences):
@@ -87,13 +88,18 @@ def run_perplexity(model, tok, sentences: list[str], high_threshold: float):
     finite = [(p, s) for p, s in results if math.isfinite(p)]
 
     avg_ppl = sum(p for p, _ in finite) / len(finite) if finite else 0
+    high = [(p, s) for p, s in finite if p > high_threshold]
     print(f"\nDurchschnittliche Perplexity: {avg_ppl:.1f}")
-    print(f"Sätze über {high_threshold:.0f} (Kandidaten zum Entfernen): "
-          f"{sum(1 for p, _ in finite if p > high_threshold)}")
+    print(f"Sätze über {high_threshold:.0f} (Kandidaten zum Entfernen): {len(high)}")
 
     print(f"\nTop-30 Sätze mit höchster Perplexity:")
     for ppl, s in finite[:30]:
         print(f"  {ppl:8.1f}  {s[:100]}")
+
+    if export_file:
+        out = Path(export_file)
+        out.write_text("\n".join(s for _, s in high) + "\n", encoding="utf-8")
+        print(f"\n{len(high)} Sätze → {out}")
 
     return avg_ppl, finite
 
@@ -101,7 +107,12 @@ def run_perplexity(model, tok, sentences: list[str], high_threshold: float):
 # ── 2. Vorhersagehäufigkeit ───────────────────────────────────────────────────
 
 def get_top_predictions(model, tok, context: str, top_k: int = 10) -> list[str]:
-    """Gibt die top_k vorhergesagten nächsten Wörter für einen Kontext zurück."""
+    """Gibt die top_k vorhergesagten nächsten vollständigen Wörter zurück.
+
+    Im Suffix-Space-Tokenizer enden vollständige Wörter mit ▁ (U+2581).
+    Nur solche Token werden gezählt — Subword-Fragmente wie 'st', 'en', 'ge'
+    werden ignoriert.
+    """
     prompt = context.strip() + " "
     ids = tok.encode(prompt, add_special_tokens=True)[-CONTEXT_LEN:]
     input_ids = torch.tensor([ids], device=DEVICE)
@@ -109,15 +120,15 @@ def get_top_predictions(model, tok, context: str, top_k: int = 10) -> list[str]:
     with torch.no_grad():
         logits = model(input_ids=input_ids).logits[0, -1]
 
-    top_ids = torch.topk(logits, top_k * 3).indices.tolist()
+    top_ids = torch.topk(logits, top_k * 10).indices.tolist()
     words = []
     for tid in top_ids:
         piece = tok.convert_ids_to_tokens(tid) or ""
-        # Nur Token die ein Wort beginnen (suffix-space-Tokenizer: Wortende hat ▁)
-        # Ein neues Wort beginnt wenn das vorherige Token mit ▁ endet
-        word = piece.replace("▁", "").strip()
-        if word and word.isalpha() and len(word) > 1:
-            words.append(word)
+        # Vollständiges Wort = Token endet mit ▁ (Suffix-Space-Konvention)
+        if piece.endswith("▁"):
+            word = piece[:-1]  # ▁ entfernen
+            if word and word.replace("-", "").isalpha() and len(word) > 1:
+                words.append(word)
         if len(words) >= top_k:
             break
     return words
@@ -184,6 +195,9 @@ def main():
                         help="Perplexity-Schwelle für Ausreißer (default: 200)")
     parser.add_argument("--skip-perplexity",  action="store_true")
     parser.add_argument("--skip-frequency",   action="store_true")
+    parser.add_argument("--export-high-ppl",  metavar="FILE", default=None,
+                        help="Sätze über --ppl-threshold in diese Datei schreiben "
+                             "(kompatibel mit 10_clean_training_data.py --high-ppl)")
     parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
 
@@ -198,7 +212,8 @@ def main():
     print(f"{len(sentences)} Sätze geladen.")
 
     if not args.skip_perplexity:
-        run_perplexity(model, tok, sentences[:args.samples], args.ppl_threshold)
+        run_perplexity(model, tok, sentences[:args.samples], args.ppl_threshold,
+                       export_file=args.export_high_ppl)
 
     if not args.skip_frequency:
         run_frequency(model, tok, sentences, args.contexts, args.top_k)
