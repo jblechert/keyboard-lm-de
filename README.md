@@ -65,13 +65,28 @@ Special autocorrect tokens: `<XBU>`, `<CHAR_A>`…`<CHAR_Z>`, `<XBC>`, `<XEC>`
 ## Requirements
 
 - Python 3.10+
-- PyTorch with ROCm (tested: ROCm 7.2, RX 7900 XTX) or CUDA
+- PyTorch with CUDA (any NVIDIA GPU) or ROCm (AMD, Linux only)
 - `sentencepiece`, `transformers>=4.49,<5`, `tokenizers==0.21.*`, `gguf`, `datasets`
 
 ```bash
 python -m venv --system-site-packages .venv_ml
 .venv_ml/bin/pip install "tokenizers==0.21.0" "transformers>=4.49,<5" datasets gguf sentencepiece
 ```
+
+### Hardware
+
+The 36M-parameter model is small — it uses **~1–2 GB VRAM** even at full batch size.
+Any discrete GPU with 4 GB+ VRAM can train it; the bottleneck is speed, not memory.
+
+| GPU | VRAM | 50k steps | 100k steps |
+|-----|------|-----------|------------|
+| RX 7900 XTX / RTX 4090 | 24 GB | ~14 h | ~28 h |
+| RTX 3080 / RTX 4070 (10–12 GB) | 10–12 GB | ~18 h | ~36 h |
+| RTX 3060 12 GB | 12 GB | ~38 h | ~75 h |
+| GTX 1080 Ti | 11 GB | ~30 h | ~60 h |
+
+> **bf16**: The training script uses `bf16=True`, which requires NVIDIA Ampere (RTX 30xx+) or AMD ROCm.
+> For older NVIDIA cards (GTX 10xx/20xx), change `bf16=True` → `fp16=True` in `05_train_model.py`.
 
 ## Status
 
