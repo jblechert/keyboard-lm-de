@@ -95,6 +95,12 @@ BANNED = [
     # Bracket-Navigation-Tags: [Top], [Kategorie], [Inhalt] etc.
     (r"\[[A-ZÄÖÜ][a-zA-ZÄÖÜäöüß]{1,20}\]",
      "Bracket-Tag ([Top], [Kategorie] ...) -- Navigation/Template-Artefakt"),
+
+    # Adresszeilen: Komma vor PLZ oder Strassenname + Hausnummer
+    (r",\s*\d{5}\b",
+     "Adresse (Komma vor Postleitzahl)"),
+    (r"\b(?:Stra\xdfe|Gasse|Weg|Allee|Platz|Ring|Damm|Chaussee)\s+\d+\b",
+     "Adresse (Strassenname + Hausnummer)"),
 ]
 
 # ── Ersetzungen ───────────────────────────────────────────────────────────────
