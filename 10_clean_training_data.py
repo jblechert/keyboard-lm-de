@@ -14,6 +14,7 @@ Usage:
 """
 
 import argparse
+import hashlib
 import os
 import re
 import sys
@@ -72,6 +73,11 @@ BANNED = [
      "Numerisches Datum (dd.mm.yyyy)"),
     (r"\b\d{1,2}\.\s*(?:Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)\s+\d{4}\b",
      "Ausgeschriebenes Datum (dd. Monat yyyy)"),
+    # Hashtag-Ansammlungen -> Social-Media-Metadaten
+    (r"(?:.*#){3}",          ">=3 Hashtags (Social-Media-Tag-Spam)"),
+
+    # Breadcrumb-Navigation -> Website-Navigationspfade
+    (r"(?:[^>]*>){3}",       ">=3 > (Breadcrumb-Navigation)"),
 ]
 
 # ── Ersetzungen ───────────────────────────────────────────────────────────────
@@ -83,6 +89,22 @@ def _build_replacements():
         # Schweizer Schreibweise ohne ß → Standard-Deutsch
         (r"\bgrosse(n|r|s|m)?\b", lambda m: "große" + (m.group(1) or ""),          "grosse→große"),
         (r"\bGrosse(n|r|s|m)?\b", lambda m: "Große" + (m.group(1) or ""),          "Grosse→Große"),
+        # Mojibake: doppelt falsch dekodierte Umlaute reparieren
+        ("Ã¤", "ä", "Mojibake Ã¤ -> ä"),
+        ("Ã¶", "ö", "Mojibake Ã¶ -> ö"),
+        ("Ã¼", "ü", "Mojibake Ã¼ -> ü"),
+        ("Ã", "Ä", "Mojibake Ã -> Ä"),
+        ("Ã", "Ö", "Mojibake Ã -> Ö"),
+        ("Ã", "Ü", "Mojibake Ã -> Ü"),
+        ("Ã", "ß", "Mojibake Ã -> ß"),
+        # C1-Steuerzeichen (U+0080-U+009F): Windows-1252-Artefakte
+        ("[\x80-\x9f]", "", "C1-Steuerzeichen entfernen (Windows-1252-Artefakte)"),
+        # Mojibake Typ 2: UTF-8-Bytes als Windows-1252 gelesen (ae-Euro-Sequenzen)
+        ("â€ž", "",  "Mojibake ae-Euro-z -> Anf.-Zeichen (wird gestrichen)"),
+        ("â€œ", "",  "Mojibake ae-Euro-oe -> Anf.-Zeichen (wird gestrichen)"),
+        ("â€“", "-",  "Mojibake ae-Euro-lq -> Gedankenstrich"),
+        ("â€’", "'", "Mojibake ae-Euro-rq -> Apostroph"),
+        ("â€™", "",  "Mojibake ae-Euro-tm -> Anf.-Zeichen (wird gestrichen)"),
         # Anführungszeichen aller Art entfernen
         (r'["“”„«»]', "",  'Anführungszeichen entfernen ("„"»«)'),
     ]
@@ -103,6 +125,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true",
                         help="Nur zählen, nichts schreiben")
+    parser.add_argument("--dedup", action="store_true",
+                        help="Duplikate entfernen (hash-basiert, ueber alle Quelldateien)")
     parser.add_argument("--high-ppl", metavar="FILE",
                         help="Datei mit Sätzen hoher Perplexity (eine pro Zeile); "
                              "exakte Übereinstimmungen werden entfernt")
@@ -120,6 +144,7 @@ def main():
         high_ppl_set = {l.strip() for l in ppl_path.read_text(encoding="utf-8").splitlines() if l.strip()}
         print(f"{len(high_ppl_set)} Sätze aus {ppl_path} geladen (hohe Perplexity).")
 
+    seen_hashes: set[int] = set()
     total_removed = 0
 
     for src in SOURCES:
@@ -131,6 +156,7 @@ def main():
         n_ppl_removed = 0
         n_kept = 0
         n_total = 0
+        n_dedup_removed = 0
         replacement_counts = {desc: 0 for _, _, desc in REPLACEMENTS}
 
         with src.open("r", encoding="utf-8") as fin, \
@@ -142,6 +168,13 @@ def main():
                 if stripped in high_ppl_set:
                     n_ppl_removed += 1
                     continue
+
+                if args.dedup:
+                    h = int.from_bytes(hashlib.md5(stripped.encode()).digest()[:8], "little")
+                    if h in seen_hashes:
+                        n_dedup_removed += 1
+                        continue
+                    seen_hashes.add(h)
 
                 drop = False
                 for pat, desc in patterns:
@@ -174,6 +207,8 @@ def main():
         print(f"{src}: {n_removed:,} Sätze entfernt (von {n_total:,})")
         if n_ppl_removed:
             print(f"  {n_ppl_removed:>8,}×  hohe Perplexity (--high-ppl)")
+        if n_dedup_removed:
+            print(f"  {n_dedup_removed:>8,}×  Duplikat (--dedup)")
         for desc, count in removed_counts.items():
             if count:
                 print(f"  {count:>8,}×  {desc}")
