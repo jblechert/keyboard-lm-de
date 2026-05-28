@@ -76,11 +76,11 @@ BANNED = [
      "Ausgeschriebenes Datum (dd. Monat yyyy)"),
     # Falsche Grossbuchstaben nach Umlaut (SEO-Spam): "SorgfäLtig", "FußBall"
     (r"[äöüß][A-ZÄÖÜ]",
-     "Umlaut gefolgt von Grossbuchstabe (SEO-Spam)"),
+     "Umlaut gefolgt von Grossbuchstabe (SEO-Spam)", 0),
 
     # CamelCase-Zusammenschreibungen: "SätzeDieNurAusSoEtwasBestanden"
     (r"(?:[a-zäöüß][A-ZÄÖÜ]){3,}",
-     "CamelCase-Run-on (3+ Uebergaenge, zusammengeschriebene Woerter)"),
+     "CamelCase-Run-on (3+ Uebergaenge, zusammengeschriebene Woerter)", 0),
 
     # Hashtag-Ansammlungen -> Social-Media-Metadaten
     (r"(?:.*#){3}",          ">=3 Hashtags (Social-Media-Tag-Spam)"),
@@ -182,7 +182,11 @@ def main():
                              "exakte Übereinstimmungen werden entfernt")
     args = parser.parse_args()
 
-    patterns = [(re.compile(p, re.IGNORECASE), desc) for p, desc in BANNED]
+    patterns = []
+    for entry in BANNED:
+        p, desc = entry[0], entry[1]
+        flags = entry[2] if len(entry) > 2 else re.IGNORECASE
+        patterns.append((re.compile(p, flags), desc))
 
     # Optionale Menge von Sätzen aus --high-ppl
     high_ppl_set: set[str] = set()
@@ -203,7 +207,7 @@ def main():
             continue
 
         tmp = src.with_suffix(".tmp")
-        removed_counts = {desc: 0 for _, desc in BANNED}
+        removed_counts = {entry[1]: 0 for entry in BANNED}
         n_ppl_removed = 0
         n_kept = 0
         n_total = 0
