@@ -87,6 +87,10 @@ BANNED = [
 
     # Breadcrumb-Navigation -> Website-Navigationspfade
     (r"(?:[^>]*>){3}",       ">=3 > (Breadcrumb-Navigation)"),
+
+    # Bildunterschriften und Fotokredite -> redaktionelle Metadaten
+    (r"^\s*Bild\w*\s*\w*:",    "Bildunterschrift (Bild oben:, Bild links: ...)"),
+    (r"FOTOS?:",                  "Fotokredit (FOTO:, FOTOS: ...)"),
 ]
 
 # ── Ersetzungen ───────────────────────────────────────────────────────────────
