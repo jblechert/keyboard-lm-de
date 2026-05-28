@@ -50,7 +50,7 @@ OUTPUT_DIR     = Path("data/model_hf")
 TATOEBA_WEIGHT   = 3
 C4_WEIGHT        = 1
 SYNTHETIC_WEIGHT = 3
-PRIVATE_WEIGHT   = 6
+PRIVATE_WEIGHT   = 2
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
@@ -134,7 +134,7 @@ def mixed_generator(no_synthetic: bool = False):
                 break
 
 
-def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int):
+def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int, no_synthetic: bool = False):
     """
     Gibt einen IterableDataset zurück der tokenisierte Chunks der Länge
     context_len liefert. Sätze werden zu langen Sequenzen verkettet
@@ -145,7 +145,7 @@ def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int):
 
     def gen():
         buf = []
-        for line in mixed_generator(no_synthetic=args.no_synthetic):
+        for line in mixed_generator(no_synthetic=no_synthetic):
             if not line:
                 continue
             ids = tokenizer.encode(line, add_special_tokens=False)
@@ -230,7 +230,7 @@ def main():
         model = build_model(tokenizer)
 
     print("Erstelle Dataset ...")
-    dataset = tokenize_and_chunk(tokenizer, CONTEXT_LEN)
+    dataset = tokenize_and_chunk(tokenizer, CONTEXT_LEN, no_synthetic=args.no_synthetic)
 
     training_args = TrainingArguments(
         output_dir=str(OUTPUT_DIR),
