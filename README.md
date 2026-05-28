@@ -119,9 +119,30 @@ Q4_K_M is the recommended default for most devices.
 ### Device benchmarks
 
 Benchmarks are measured with `17_benchmark_device.py` via ADB.
-Reference device: **Motorola Edge 40 Pro** (benchmark score to be confirmed on device).
+Reference device: **Motorola Edge 40 Pro** (Snapdragon 8 Gen 2, Android 16).
 
 > Results will be published with the v0.3 release.
+
+### SVE/SVE2 — the hidden 20–30 % headroom
+
+The Snapdragon 8 Gen 2 (Cortex-X3 / A715) physically supports **SVE2 at 128-bit vectors**,
+which would accelerate llama.cpp's matrix operations by roughly 20–30 % over NEON alone.
+
+**Why it's disabled:** Android manufacturers ship kernels without `CONFIG_ARM64_SVE=y`.
+Google's CDD does not require SVE support, and enabling it requires the kernel to save and
+restore SVE register state on every context switch — extra complexity that OEMs skip.
+FUTO Keyboard's llama.cpp build therefore runs **NEON-only**, as does our benchmark binary.
+
+**Can you unlock it?** Theoretically yes — rebuild the device kernel with `CONFIG_ARM64_SVE=y`
+and a matching llama.cpp compiled without `-DGGML_SVE=OFF`. In practice this is non-trivial:
+
+- Qualcomm's CAF kernel fork is not always publicly available for newer SoCs
+- The Qualcomm scheduler must correctly migrate SVE register state across big/LITTLE clusters
+  (on SD8 Gen 2 all clusters are 128-bit, which helps, but OEM patches may actively suppress it)
+- Even with LineageOS, kernel changes at this level are device-specific and may destabilize the scheduler
+
+If a future Android release or a device ships with SVE enabled in the kernel, the same GGUF
+model files will automatically benefit — no retraining required, just a recompiled llama.cpp.
 
 ## Status
 
