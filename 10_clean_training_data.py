@@ -42,9 +42,53 @@ BANNED = [
     # Spam-Muster: viele Pipe- oder Tabulator-getrennten Felder → Datentabellen
     (r"(?:\||\t){3,}",      "Tabellenzeile (≥3 Pipes/Tabs) — kein Fließtext"),
 
+    # Strukturierte Produktdaten / Key-Value-Spam (Hotel, Shop, Immobilien …)
+    (r"(?:[^:]*:){3}",      "≥3 Doppelpunkte (Produkt-/Listing-Spam)"),
+
     # Sehr viele aufeinanderfolgende Sonderzeichen → Listenspam
     (r"[*•·]{4,}",          "Bullet-Spam (≥4 Sonderzeichen in Folge)"),
+
+    # Schlechte Satzenden
+    (r"\.{2,}\s*$",         "Satzende mit .. oder ... (unvollständig/abgebrochen)"),
+    (r"[!?]{2,}\s*$",       "Satzende mit !! oder ?? (Ausrufe-Spam)"),
+
+    # Zeilen die mit [Tag] beginnen → Blog-Kategorien, Subreddit-Flair, Bildunterschriften
+    (r"^\[",                 "Zeile beginnt mit [ (Blog-Tag, Kategorie-Header)"),
+
+    # Alphanumerische Codes → Produkt-SKUs, Hashes, Referenznummern
+    (r"\b[a-zA-Z0-9]*\d{3,}[a-zA-Z][a-zA-Z0-9-]*\b",
+     "Alphanumerischer Code (SKU, Hash, Referenznummer)"),
+
+    # PDF-Hinweise und Autoren-Katalogeinträge → Buchdatenbank-Spam
+    (r"\bPDF\b",             "PDF-Verweis (Buchdatenbank, Downloadseite)"),
+    (r"\bBy author\b",       "Englischer Autorenhinweis (Katalog-Eintrag)"),
+
+    # Text-Emojis / Emoticons → informeller Forenstil
+    (r"(?:[:;=]-?[)D(\|PpOo\/\\]|\^\^+|[xX][Dd](?!\w)|<3)",
+     "Text-Emoji / Emoticon (:D, ^^, xD, <3 …)"),
+
+    # Konkrete Datumsangaben → Event-Ankündigungen, Kalendereinträge
+    (r"\b\d{1,2}\.\d{1,2}\.\d{4}\b",
+     "Numerisches Datum (dd.mm.yyyy)"),
+    (r"\b\d{1,2}\.\s*(?:Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)\s+\d{4}\b",
+     "Ausgeschriebenes Datum (dd. Monat yyyy)"),
 ]
+
+# ── Ersetzungen ───────────────────────────────────────────────────────────────
+# Jeder Eintrag: (compiled_pattern, replacement, beschreibung)
+# Werden auf jede behaltene Zeile angewendet (in Reihenfolge).
+
+def _build_replacements():
+    pairs = [
+        # Schweizer Schreibweise ohne ß → Standard-Deutsch
+        (r"\bgrosse(n|r|s|m)?\b", lambda m: "große" + (m.group(1) or ""),          "grosse→große"),
+        (r"\bGrosse(n|r|s|m)?\b", lambda m: "Große" + (m.group(1) or ""),          "Grosse→Große"),
+        # Anführungszeichen aller Art entfernen
+        (r'["“”„«»]', "",  'Anführungszeichen entfernen ("„"»«)'),
+    ]
+    return [(re.compile(p), repl, desc) for p, repl, desc in pairs]
+
+REPLACEMENTS = _build_replacements()
 
 # ── Quelldateien ──────────────────────────────────────────────────────────────
 
@@ -87,6 +131,7 @@ def main():
         n_ppl_removed = 0
         n_kept = 0
         n_total = 0
+        replacement_counts = {desc: 0 for _, _, desc in REPLACEMENTS}
 
         with src.open("r", encoding="utf-8") as fin, \
              (tmp.open("w", encoding="utf-8") if not args.dry_run else open(os.devnull, "w")) as fout:
@@ -106,6 +151,11 @@ def main():
                         break
 
                 if not drop:
+                    for pat, repl, desc in REPLACEMENTS:
+                        new_line, n = pat.subn(repl, line)
+                        if n:
+                            replacement_counts[desc] += n
+                            line = new_line
                     fout.write(line)
                     n_kept += 1
 
@@ -125,6 +175,10 @@ def main():
         if n_ppl_removed:
             print(f"  {n_ppl_removed:>8,}×  hohe Perplexity (--high-ppl)")
         for desc, count in removed_counts.items():
+            if count:
+                print(f"  {count:>8,}×  {desc}")
+
+        for desc, count in replacement_counts.items():
             if count:
                 print(f"  {count:>8,}×  {desc}")
 

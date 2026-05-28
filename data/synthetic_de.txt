@@ -398,7 +398,6 @@ Bist du gerade noch am Arbeiten?
 Muss ich noch was mitbringen?
 Ist der Termin noch gültig?
 Kannst du das bitte warten lassen?
-Habe ich dir schon写过信?
 Wann passt es dir am besten?
 Kann ich dich kurz stören?
 Ist das so wirklich okay?
@@ -436,11 +435,9 @@ Wir brauchen dringend Kaffee, merke dir das.
 Soll ich unterwegs noch Eier kaufen?
 Oh, hab die Nudeln total vergessen.
 Brauchst du auch frisches Obst heute?
-Lass uns morgen早上 zusammen einkaufen gehen.
 Ich hol die Getränke, du nimmst die Snacks.
 Fehlt uns noch was für das Abendessen?
 Kannst du kurz in den Supermarkt laufen?
-Ich find keine合适的 Butter mehr.
 Melde dich, wenn du fertig bist.
 Hab extra für dich Schokolade gekauft.
 Bist du schon aus dem Geschäft raus?
@@ -1259,7 +1256,6 @@ Lass uns bei Anna treffen, sie hat ein neues Café.
 Kannst du pünktlich sein, sonst bekommen wir keinen Tisch.
 Ich melde mich nochmal, wenn ich unterwegs bin.
 Hast du schon Lust auf Italienisch oder lieber Asiatisch?
-Wir können auch zu dir kommen, wenn es dir проще.
 Sag mir bitte kurz, ob du noch dabei bist.
 Ich suche schon lange nach einem gemütlichen Ort.
 Treffen wir uns stattdessen um acht, ich muss arbeiten.
