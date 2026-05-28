@@ -103,6 +103,12 @@ BANNED = [
      "Adresse (Komma vor Postleitzahl)"),
     (r"\b(?:Stra\xdfe|Gasse|Weg|Allee|Platz|Ring|Damm|Chaussee)\s+\d+\b",
      "Adresse (Strassenname + Hausnummer)"),
+
+    # E-Commerce-Spam: Shop-Seiten, Produktlistings
+    (r"\bVersandkosten\b",  "Versandkosten (Shop-Listing)"),
+    (r"\bMwSt\.?\b",        "MwSt (Shop-Listing)"),
+    (r"\bWarenkorb\b",      "Warenkorb (Shop-Listing)"),
+    (r"\bzzgl\.\b",         "zzgl. (Preis-Listing)"),
 ]
 
 # ── Ersetzungen ───────────────────────────────────────────────────────────────
