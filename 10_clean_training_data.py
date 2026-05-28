@@ -73,6 +73,14 @@ BANNED = [
      "Numerisches Datum (dd.mm.yyyy)"),
     (r"\b\d{1,2}\.\s*(?:Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)\s+\d{4}\b",
      "Ausgeschriebenes Datum (dd. Monat yyyy)"),
+    # Falsche Grossbuchstaben nach Umlaut (SEO-Spam): "SorgfäLtig", "FußBall"
+    (r"[äöüß][A-ZÄÖÜ]",
+     "Umlaut gefolgt von Grossbuchstabe (SEO-Spam)"),
+
+    # CamelCase-Zusammenschreibungen: "SätzeDieNurAusSoEtwasBestanden"
+    (r"(?:[a-zäöüß][A-ZÄÖÜ]){3,}",
+     "CamelCase-Run-on (3+ Uebergaenge, zusammengeschriebene Woerter)"),
+
     # Hashtag-Ansammlungen -> Social-Media-Metadaten
     (r"(?:.*#){3}",          ">=3 Hashtags (Social-Media-Tag-Spam)"),
 
@@ -127,6 +135,8 @@ def main():
                         help="Nur zählen, nichts schreiben")
     parser.add_argument("--dedup", action="store_true",
                         help="Duplikate entfernen (hash-basiert, ueber alle Quelldateien)")
+    parser.add_argument("files", nargs="*", metavar="FILE",
+                        help="Zu verarbeitende Dateien (Standard: alle SOURCES)")
     parser.add_argument("--high-ppl", metavar="FILE",
                         help="Datei mit Sätzen hoher Perplexity (eine pro Zeile); "
                              "exakte Übereinstimmungen werden entfernt")
@@ -144,10 +154,11 @@ def main():
         high_ppl_set = {l.strip() for l in ppl_path.read_text(encoding="utf-8").splitlines() if l.strip()}
         print(f"{len(high_ppl_set)} Sätze aus {ppl_path} geladen (hohe Perplexity).")
 
+    sources = [Path(f) for f in args.files] if args.files else SOURCES
     seen_hashes: set[int] = set()
     total_removed = 0
 
-    for src in SOURCES:
+    for src in sources:
         if not src.exists():
             continue
 
