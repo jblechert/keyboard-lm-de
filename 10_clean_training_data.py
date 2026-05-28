@@ -158,6 +158,8 @@ def _build_replacements():
 
 REPLACEMENTS = _build_replacements()
 
+MIN_WORDS = 4   # Zeilen mit weniger Woertern nach allen Replacements verwerfen
+
 # ── Quelldateien ──────────────────────────────────────────────────────────────
 
 SOURCES = [
@@ -206,6 +208,7 @@ def main():
         n_kept = 0
         n_total = 0
         n_dedup_removed = 0
+        n_short_removed = 0
         replacement_counts = {desc: 0 for _, _, desc in REPLACEMENTS}
 
         with src.open("r", encoding="utf-8") as fin, \
@@ -238,8 +241,11 @@ def main():
                         if n:
                             replacement_counts[desc] += n
                             line = new_line
-                    fout.write(line)
-                    n_kept += 1
+                    if len(line.split()) < MIN_WORDS:
+                        n_short_removed += 1
+                    else:
+                        fout.write(line)
+                        n_kept += 1
 
                 if n_total % 5_000_000 == 0:
                     print(f"  {src.name}: {n_total:,} gelesen …", flush=True)
@@ -254,6 +260,8 @@ def main():
             continue
 
         print(f"{src}: {n_removed:,} Sätze entfernt (von {n_total:,})")
+        if n_short_removed:
+            print(f"  {n_short_removed:>8,}×  zu kurz (< {MIN_WORDS} Woerter nach Cleaning)")
         if n_ppl_removed:
             print(f"  {n_ppl_removed:>8,}×  hohe Perplexity (--high-ppl)")
         if n_dedup_removed:
