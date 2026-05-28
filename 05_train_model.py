@@ -39,15 +39,18 @@ SP_MODEL       = Path("data/tokenizer/de_keyboard.model")
 TATOEBA_TXT    = Path("data/tatoeba_de.txt")
 C4_TXT         = Path("data/c4_de.txt")
 SYNTHETIC_GLOB = "data/synthetic_*.txt"   # alle synthetic_*.txt werden eingebunden
+PRIVATE_TXT    = Path("data/private_de.txt")
 OUTPUT_DIR     = Path("data/model_hf")
 
 # Sampling-Gewichte (relativ zueinander)
 # Tatoeba: sauber, alltagsnah            → 3×
 # mC4:     groß, gemischt                → 1×
 # Synthese: keyboard-spezifisch, klein   → 6×
+# Privat:  echter Schreibstil, sehr klein → 6×
 TATOEBA_WEIGHT   = 3
 C4_WEIGHT        = 1
 SYNTHETIC_WEIGHT = 6
+PRIVATE_WEIGHT   = 6
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
@@ -108,6 +111,8 @@ def mixed_generator():
         sources.append((line_generator(C4_TXT), C4_WEIGHT))
     for syn in sorted(Path(".").glob(SYNTHETIC_GLOB)):
         sources.append((line_generator(syn), SYNTHETIC_WEIGHT))
+    if PRIVATE_TXT.exists():
+        sources.append((line_generator(PRIVATE_TXT), PRIVATE_WEIGHT))
 
     if not sources:
         raise FileNotFoundError("Keine Trainingsdaten gefunden.")
@@ -283,6 +288,7 @@ def main():
     if C4_TXT.exists():        active.append(f"mC4({C4_WEIGHT}×)")
     for syn in syn_files:
         active.append(f"{syn.stem}({SYNTHETIC_WEIGHT}×)")
+    if PRIVATE_TXT.exists():   active.append(f"privat({PRIVATE_WEIGHT}×)")
     print(f"  Corpus:               {' + '.join(active)}")
     print(f"  Snapshots bei:        {sorted(milestones)}")
 
