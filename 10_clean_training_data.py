@@ -141,6 +141,8 @@ def _build_replacements():
         ("â€™", "",  "Mojibake ae-Euro-tm -> Anf.-Zeichen (wird gestrichen)"),
         # Anführungszeichen aller Art entfernen
         (r'["“”„«»]', "",  'Anführungszeichen entfernen ("„"»«)'),
+        # Zitatmarker und Pfeilzeichen entfernen: > Zitat, <Verweis>
+        (r'[<>]', '', 'Spitze Klammern (Zitatmarker, Pfeil)'),
         # Fehlende Leerzeichen nach Satzzeichen reparieren
         # Punkt: Prof.Dr. -> Prof. Dr., e.V. -> e. V., Satz.Satz -> Satz. Satz
         (r'([a-zäöüß])\.([A-ZÄÖÜ])', r'\1. \2',
