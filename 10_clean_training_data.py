@@ -15,6 +15,7 @@ Usage:
 
 import argparse
 import hashlib
+import html
 import os
 import re
 import sys
