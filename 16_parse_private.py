@@ -43,8 +43,9 @@ MIN_LEN = 8
 MAX_LEN = 500
 
 QUALITY_SKIP = [
-    re.compile(r"^https?://\S+$"),
-    re.compile(r"^[%\\\/\w]+\\"),
+    re.compile(r"https?://\S+"),                       # URLs (auch mitten im Satz)
+    re.compile(r"\bwww\.\S+\.\w{2,}"),                # www. URLs
+    re.compile(r"^[%\\\/\w]+\\"),                      # Windows-Pfade
     re.compile(r"^\W+$"),                              # nur Sonderzeichen / Emojis
 ]
 
