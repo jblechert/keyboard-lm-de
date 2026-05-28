@@ -49,7 +49,7 @@ OUTPUT_DIR     = Path("data/model_hf")
 # Privat:  echter Schreibstil, sehr klein → 6×
 TATOEBA_WEIGHT   = 3
 C4_WEIGHT        = 1
-SYNTHETIC_WEIGHT = 6
+SYNTHETIC_WEIGHT = 3
 PRIVATE_WEIGHT   = 6
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
@@ -102,15 +102,16 @@ def line_generator(path: Path):
         yield from lines
 
 
-def mixed_generator():
+def mixed_generator(no_synthetic: bool = False):
     """Mischt alle verfügbaren Quellen gewichtet."""
     sources = []
     if TATOEBA_TXT.exists():
         sources.append((line_generator(TATOEBA_TXT), TATOEBA_WEIGHT))
     if C4_TXT.exists():
         sources.append((line_generator(C4_TXT), C4_WEIGHT))
-    for syn in sorted(Path(".").glob(SYNTHETIC_GLOB)):
-        sources.append((line_generator(syn), SYNTHETIC_WEIGHT))
+    if not no_synthetic:
+        for syn in sorted(Path(".").glob(SYNTHETIC_GLOB)):
+            sources.append((line_generator(syn), SYNTHETIC_WEIGHT))
     if PRIVATE_TXT.exists():
         sources.append((line_generator(PRIVATE_TXT), PRIVATE_WEIGHT))
 
@@ -144,7 +145,7 @@ def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int):
 
     def gen():
         buf = []
-        for line in mixed_generator():
+        for line in mixed_generator(no_synthetic=args.no_synthetic):
             if not line:
                 continue
             ids = tokenizer.encode(line, add_special_tokens=False)
@@ -195,6 +196,8 @@ def build_model(tokenizer: LlamaTokenizer) -> LlamaForCausalLM:
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument("--no-synthetic", action="store_true",
+                        help="Synthetic-Daten weglassen (Phase 1 Base-Training)")
     parser.add_argument("--steps",  type=int, default=200_000,
                         help="Trainingsschritte gesamt (default: 200k)")
     parser.add_argument("--milestones", default=",".join(str(s) for s in range(50_000, 200_001, 10_000)),
