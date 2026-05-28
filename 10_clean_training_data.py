@@ -92,9 +92,11 @@ BANNED = [
     (r"^\s*Bild\w*\s*\w*:",    "Bildunterschrift (Bild oben:, Bild links: ...)"),
     (r"FOTOS?:",                  "Fotokredit (FOTO:, FOTOS: ...)"),
 
-    # Bracket-Navigation-Tags: [Top], [Kategorie], [Inhalt] etc.
+    # Bracket-Navigation-Tags: [Top], [Kategorie], [ Bearbeiten ] etc.
     (r"\[[A-ZÄÖÜ][a-zA-ZÄÖÜäöüß]{1,20}\]",
      "Bracket-Tag ([Top], [Kategorie] ...) -- Navigation/Template-Artefakt"),
+    (r"\[\s+[A-ZÄÖÜ][a-zA-ZÄÖÜäöüß]+\s+\]",
+     "Bracket-Tag mit Leerzeichen ([ Bearbeiten ]) -- Wikipedia-Edit-Link"),
 
     # Adresszeilen: Komma vor PLZ oder Strassenname + Hausnummer
     (r",\s*\d{5}\b",
