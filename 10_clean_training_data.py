@@ -132,6 +132,16 @@ def _build_replacements():
         ("â€™", "",  "Mojibake ae-Euro-tm -> Anf.-Zeichen (wird gestrichen)"),
         # Anführungszeichen aller Art entfernen
         (r'["“”„«»]', "",  'Anführungszeichen entfernen ("„"»«)'),
+        # Fehlende Leerzeichen nach Satzzeichen reparieren
+        # Punkt: Prof.Dr. -> Prof. Dr., e.V. -> e. V., Satz.Satz -> Satz. Satz
+        (r'([a-zäöüß])\.([A-ZÄÖÜ])', r'\1. \2',
+         'Fehlender Abstand nach Punkt (Prof.Dr. -> Prof. Dr.)'),
+        # Ausrufe-/Fragezeichen: Toll!Super -> Toll! Super
+        (r'([a-zäöüß])([!?])([A-ZÄÖÜ])', r'\1\2 \3',
+         'Fehlender Abstand nach ! oder ? (Toll!Super -> Toll! Super)'),
+        # Semikolon: wort;Wort -> wort; Wort
+        (r'([a-zäöüß]);([A-Za-zÄÖÜäöü])', r'\1; \2',
+         'Fehlender Abstand nach Semikolon'),
     ]
     return [(re.compile(p), repl, desc) for p, repl, desc in pairs]
 
