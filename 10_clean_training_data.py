@@ -109,6 +109,9 @@ BANNED = [
     (r"\bMwSt\.?\b",        "MwSt (Shop-Listing)"),
     (r"\bWarenkorb\b",      "Warenkorb (Shop-Listing)"),
     (r"\bzzgl\.\b",         "zzgl. (Preis-Listing)"),
+
+    # Haekchen-Symbole: Feature-Listen, Buchungsbestaetigungen, Produktbeschreibungen
+    (r"[\u2713\u2714\u2611\u2705]", "Haekchen-Symbol (\u2713\u2714\u2611\u2705)"),
 ]
 
 # ── Ersetzungen ───────────────────────────────────────────────────────────────
