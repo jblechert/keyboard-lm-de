@@ -88,6 +88,41 @@ Any discrete GPU with 4 GB+ VRAM can train it; the bottleneck is speed, not memo
 > **bf16**: The training script uses `bf16=True`, which requires NVIDIA Ampere (RTX 30xx+) or AMD ROCm.
 > For older NVIDIA cards (GTX 10xx/20xx), change `bf16=True` → `fp16=True` in `05_train_model.py`.
 
+## On-device performance
+
+### Model size vs. training steps — two independent dimensions
+
+These are often confused:
+
+| Dimension | What it affects | What it does NOT affect |
+|-----------|----------------|------------------------|
+| **Parameters** (36M / 55M / 72M) | Inference speed and RAM on device | Prediction quality |
+| **Training steps** (54k / 100k / 200k) | Prediction quality | Inference speed or RAM |
+
+In practice: a 36M model trained for 200k steps runs **identically fast** on your phone as the same 36M model at 54k steps — it just predicts better. A 72M model at 54k steps would be ~2× slower than a 36M model at 200k steps, regardless of training time.
+
+### Quantization tiers
+
+GGUF supports multiple quantization levels that trade file size / RAM against precision.
+For v0.3 we plan to ship five tiers (sizes for the 36M model):
+
+| Tier | Quantization | File size | Quality loss | Target devices |
+|------|-------------|-----------|-------------|----------------|
+| **ultra-low** | Q2_K | ~11 MB | noticeable | very old / low-RAM phones |
+| **low** | Q4_K_S | ~18 MB | minimal | mid-range |
+| **medium** | Q4_K_M | ~20 MB | minimal | mid-range |
+| **high** | Q6_K | ~24 MB | near-zero | flagship |
+| **ultra-high** | Q8_0 | ~36 MB | effectively none | flagship, confirmed working on Moto Edge 40 Pro |
+
+Q4_K_M is the recommended default for most devices.
+
+### Device benchmarks
+
+Benchmarks are measured with `17_benchmark_device.py` via ADB.
+Reference device: **Motorola Edge 40 Pro** (benchmark score to be confirmed on device).
+
+> Results will be published with the v0.3 release.
+
 ## Status
 
 - [x] Training data pipeline (Tatoeba + mC4 + synthetic)
