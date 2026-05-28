@@ -82,6 +82,21 @@ python -m venv --system-site-packages .venv_ml
 - [x] On-device testing with FUTO Keyboard (next-word prediction working)
 - [ ] XBU/CHAR autocorrect fine-tuning
 
+## License
+
+**Code** (this repository): [MIT License](LICENSE)
+
+**Pretrained model weights**: [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+Free to use, share and adapt for non-commercial purposes with attribution.
+
+### Training data sources
+
+| Source | License |
+|---|---|
+| [Tatoeba DE](https://tatoeba.org) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| [mC4 DE](https://huggingface.co/datasets/allenai/c4) (Common Crawl) | [ODC-By](https://opendatacommons.org/licenses/by/) |
+| Synthetic sentences (generated via [Qwen3](https://huggingface.co/Qwen)) | [Qwen License](https://huggingface.co/Qwen/Qwen3-72B/blob/main/LICENSE) (non-commercial) |
+
 ## References
 
 - [FUTO Keyboard source](https://github.com/futo-org/android-keyboard)
