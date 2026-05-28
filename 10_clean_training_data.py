@@ -79,8 +79,8 @@ BANNED = [
      "Umlaut gefolgt von Grossbuchstabe (SEO-Spam)", 0),
 
     # CamelCase-Zusammenschreibungen: "SätzeDieNurAusSoEtwasBestanden"
-    (r"(?:[a-zäöüß][A-ZÄÖÜ]){3,}",
-     "CamelCase-Run-on (3+ Uebergaenge, zusammengeschriebene Woerter)", 0),
+    (r"\S*[a-zäöüß][A-ZÄÖÜ]\S+[a-zäöüß][A-ZÄÖÜ]\S*",
+     "CamelCase-Run-on (2+ Uebergaenge in einem Token)", 0),
 
     # Hashtag-Ansammlungen -> Social-Media-Metadaten
     (r"(?:.*#){3}",          ">=3 Hashtags (Social-Media-Tag-Spam)"),
@@ -109,6 +109,19 @@ BANNED = [
     (r"\bMwSt\.?\b",        "MwSt (Shop-Listing)"),
     (r"\bWarenkorb\b",      "Warenkorb (Shop-Listing)"),
     (r"\bzzgl\.\b",         "zzgl. (Preis-Listing)"),
+
+    # Amazon / Buchhandel-Spam
+    (r"\bGebundene Ausgabe\b",  "Amazon-Format (Gebundene Ausgabe)"),
+    (r"\bBestseller-Rang\b",    "Amazon-Rang (Bestseller-Rang)"),
+    (r"\bFremdsprachige Bücher\b", "Amazon-Kategorie (Fremdsprachige Bücher)"),
+    (r"\bSiehe Top 100\b",      "Amazon-Rang-Link (Siehe Top 100)"),
+    (r"\bEUR\s+\d",            "Preis-Listing (EUR 12,34)"),
+    (r"Zurück\s*Weiter",      "Amazon-Navigation (ZurückWeiter)"),
+    (r"\bAngebote\s+ab\b",     "Amazon-Preis (Angebote ab EUR)"),
+
+    # Blog-Metadaten: Autorenzeilen, Kommentar-Zaehler
+    (r"keine Kommentare",    "Blog-Metadaten (noch keine Kommentare)"),
+    (r"geschrieben von\b",  "Blog-Autorenzeile (geschrieben von ...)"),
 
     # Haekchen-Symbole: Feature-Listen, Buchungsbestaetigungen, Produktbeschreibungen
     (r"[\u2713\u2714\u2611\u2705]", "Haekchen-Symbol (\u2713\u2714\u2611\u2705)"),
