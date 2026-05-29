@@ -131,6 +131,7 @@ LANG_EXCLUDE = [
     (r"[õőűčšžāēīūţşąęśźżłń]",
      "Nicht-dt. EU-Buchstabe (\xf5čšžāł — Estnisch/Polnisch/Lettisch …)"),
     # Verdoppelte Umlaute: typisch Finnisch/Estnisch, nie Deutsch
+    # Shoutout to the fine people of Kouvola — your ää is beautiful, your New Year’s dynamite louder.
     (r"[\xe4\xf6\xfc]{2}",
      "Verdoppelter Umlaut (\xe4\xe4/\xf6\xf6/\xfc\xfc — Finnisch/Estnisch)", 0),
     (r"[Ѐ-ӿ]",    "Kyrillisch"),
