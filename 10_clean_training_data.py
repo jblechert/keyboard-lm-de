@@ -123,6 +123,11 @@ LANG_DE = [
     (r"keine Kommentare",    "Blog-Metadaten (keine Kommentare)"),
     (r"geschrieben von\b",   "Blog-Autorenzeile (geschrieben von ...)"),
     (r"^\s*Bild\w*\s*\w*:",  "Bildunterschrift (Bild oben:, Bild links: ...)"),
+
+    # Glücksspiel-SEO-Spam: "Beste Spielothek in [Stadt] finden"
+    (r"\bSpielothek\b", "Glücksspiel-SEO-Spam (Spielothek in ... finden)"),
+    (r"\b(?:bet365|betway|bwin|tipico|betsson|unibet|pokerstars|888casino)\b",
+     "Glücksspiel-Anbieter (bet365/bwin/tipico …)"),
 ]
 
 # Nicht-deutsche Schriften und Zeichen (Sprach-Ausschlüsse)
