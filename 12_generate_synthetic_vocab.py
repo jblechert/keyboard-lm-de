@@ -192,6 +192,24 @@ TOPICS = {
             "Das Kölsch zum Schnitzel war perfekt.",
         ],
     },
+    "medien": {
+        "name": "Bücher, Musik & Film",
+        "beschreibung": (
+            "Sätze über Bücher, CDs, DVDs, Blu-rays, Hörbücher, Podcasts, Streaming — "
+            "wie man im Alltag darüber spricht: Empfehlungen, Erlebnisse, Meinungen, "
+            "Kauf- und Leihentscheidungen. Natürlicher Umgang mit Medien, kein Katalogstil."
+        ),
+        "beispiele": [
+            "Ich hab das Buch letzte Woche ausgelesen, war wirklich gut.",
+            "Hast du das schon als Hörbuch gehört? Ich find das praktischer.",
+            "Die CD liegt bei mir noch irgendwo rum, hör ich kaum noch.",
+            "Ich kaufe kaum noch DVDs, aber für alte Filme lohnt es sich.",
+            "Das Buch hat mir jemand empfohlen, liegt jetzt seit Monaten ungelesen da.",
+            "Die Blu-ray-Qualität ist bei dem Film wirklich beeindruckend.",
+            "Ich höre lieber Podcasts als Musik beim Kochen.",
+            "Das war das beste Buch, das ich seit Jahren gelesen habe.",
+        ],
+    },
     "reise": {
         "name": "Reisen & Urlaub",
         "beschreibung": (
