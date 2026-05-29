@@ -31,6 +31,12 @@ BANNED = [
     (r"\bmahd\b",       "Mahd (fälschlicherweise häufig vorhergesagt)"),
 
     # Nicht-lateinische Schriftsysteme (eindeutig nicht Deutsch)
+    # Nicht-deutsche europaeische Sonderzeichen: Estnisch/Finnisch/Polnisch etc.
+    (r"[õőűčšžāēīūţşąęśźżłń]",
+     "Nicht-dt. EU-Buchstabe (õčšžāł — Estnisch/Polnisch/Lett. …)"),
+    # Verdoppelte Umlaute: typisch Finnisch/Estnisch, nie Deutsch
+    (r"[äöü]{2}",
+     "Verdoppelter Umlaut (ää/öö/üü — Finnisch/Estnisch)", 0),
     (r"[Ѐ-ӿ]",    "Kyrillisch"),
     (r"[؀-ۿ]",    "Arabisch"),
     (r"[一-鿿]",    "CJK-Zeichen (Chinesisch/Japanisch)"),
@@ -68,6 +74,10 @@ BANNED = [
     # Text-Emojis / Emoticons → informeller Forenstil
     (r"(?:[:;=]-?[)D(\|PpOo\/\\]|\^\^+|[xX][Dd](?!\w)|<3)",
      "Text-Emoji / Emoticon (:D, ^^, xD, <3 …)"),
+
+    # Unicode-Emoji: 🙂🎉♥ etc. (informeller Stil, Social-Media)
+    ("[🌀-🫿☀-➿⌀-⏿]",
+     "Unicode-Emoji (🙂🎉♥ …)"),
 
     # Konkrete Datumsangaben → Event-Ankündigungen, Kalendereinträge
     (r"\b\d{1,2}\.\d{1,2}\.\d{4}\b",
