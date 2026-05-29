@@ -89,7 +89,7 @@ BANNED = [
      "Umlaut gefolgt von Grossbuchstabe (SEO-Spam)", 0),
 
     # CamelCase-Zusammenschreibungen: "SätzeDieNurAusSoEtwasBestanden"
-    (r"\S*[a-zäöüß][A-ZÄÖÜ]\S+[a-zäöüß][A-ZÄÖÜ]\S*",
+    (r"\S*[a-zäöüß][A-ZÄÖÜ]\S*[a-zäöüß][A-ZÄÖÜ]\S*",
      "CamelCase-Run-on (2+ Uebergaenge in einem Token)", 0),
 
     # Hashtag-Ansammlungen -> Social-Media-Metadaten
