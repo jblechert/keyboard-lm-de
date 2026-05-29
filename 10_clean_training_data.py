@@ -33,7 +33,7 @@ WEB_ARTIFACTS = [
     (r"[*•\xb7]{4,}",  "Bullet-Spam (≥4 Sonderzeichen in Folge)"),
 
     # Schlechte Satzenden
-    (r"\.{2,}\s*$",         "Satzende mit .. oder ... (unvollst\xe4ndig/abgebrochen)"),
+    (r"(?:\.{2,}|\u2026)\s*$", "Satzende mit .. / ... / … (unvollständig/abgebrochen)"),
     (r"[!?]{2,}\s*$",       "Satzende mit !! oder ?? (Ausrufe-Spam)"),
 
     # Strukturelle Artefakte
@@ -135,6 +135,13 @@ LANG_DE = [
     (r"\bSpielothek\b", "Glücksspiel-SEO-Spam (Spielothek in ... finden)"),
     (r"\b(?:bet365|betway|bwin|tipico|betsson|unibet|pokerstars|888casino)\b",
      "Glücksspiel-Anbieter (bet365/bwin/tipico …)"),
+
+    # Kommentarbox-UI
+    (r"\d+\s*Zeichen\s*(?:übrig|verbleibend)", "Zeichenzähler (Web-Kommentarbox-UI)"),
+    (r"\bSchreiben Sie.*Kommentar\b", "Kommentarbox-Aufforderung"),
+
+    # E-Commerce-Header
+    (r"\bBestellen oder Ausleihen\b", "E-Commerce-Header (Kaufen, Bestellen oder Ausleihen)"),
 ]
 
 # Nicht-deutsche Schriften und Zeichen (Sprach-Ausschlüsse)
@@ -146,6 +153,8 @@ LANG_EXCLUDE = [
     # Shoutout to the fine people of Kouvola — your ää is beautiful, your New Year’s dynamite louder.
     (r"[\xe4\xf6\xfc]{2}",
      "Verdoppelter Umlaut (\xe4\xe4/\xf6\xf6/\xfc\xfc — Finnisch/Estnisch)", 0),
+    # Transliteriertes Russisch in lateinischer Schrift
+    (r"\b\w*(?:owaja|tscheski|owskij|owuju)\b", "Transliteriertes Russisch (owaja/tscheski/owskij)"),
     (r"[Ѐ-ӿ]",    "Kyrillisch"),
     (r"[؀-ۿ]",    "Arabisch"),
     (r"[一-鿿]",    "CJK-Zeichen (Chinesisch/Japanisch)"),
