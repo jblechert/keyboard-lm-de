@@ -210,6 +210,114 @@ TOPICS = {
             "Das war das beste Buch, das ich seit Jahren gelesen habe.",
         ],
     },
+    "haushalt": {
+        "name": "Heimwerken & Haushalt",
+        "beschreibung": (
+            "Sätze rund ums Heimwerken, Reparieren und Einrichten — "
+            "wie man im Alltag darüber spricht: Materialkauf, Werkzeug, "
+            "Do-it-yourself-Projekte, Nachbarschaftshilfe, Tipps."
+        ),
+        "beispiele": [
+            "Hast du noch Nägel da? Ich will das Bild aufhängen.",
+            "Ich brauch längere Schrauben, die passen nicht.",
+            "Der Dübel ist zu groß für das Loch.",
+            "Kannst du mir kurz die Bohrmaschine leihen?",
+            "Der Akkuschrauber von Bosch ist echt sein Geld wert.",
+            "Ich muss noch das Regal an die Wand dübeln.",
+            "Die Wasserleitung tropft, ich ruf morgen den Klempner.",
+            "Weißt du ob M6 oder M8 Schrauben besser sind?",
+        ],
+    },
+    "bad": {
+        "name": "Badezimmer & Sanitär",
+        "beschreibung": (
+            "Sätze rund ums Badezimmer — Renovierung, Pflege, Einrichtung. "
+            "Wie man über Badplanung, Reparaturen und Badprodukte im Alltag "
+            "spricht: Gespräche mit Familie, Handwerkern, Freunden."
+        ),
+        "beispiele": [
+            "Die Badewanne ist so alt, die muss irgendwann raus.",
+            "Wir überlegen eine ebenerdige Dusche einzubauen.",
+            "Die Silikonfugen in der Dusche sind leider schimmelig.",
+            "Der Wasserhahn tropft schon seit Wochen.",
+            "Neue Fliesen würden dem Bad wirklich gut tun.",
+            "Wir wollen das Bad komplett renovieren lassen.",
+            "Der Sanitär hat gesagt drei Wochen Wartezeit.",
+            "Die Duschkabine ist wirklich mühsam zu reinigen.",
+        ],
+    },
+    "wohnen": {
+        "name": "Wohnen & Möbel",
+        "beschreibung": (
+            "Sätze rund um Einrichten, Möbel, Umzug und Wohngestaltung — "
+            "Alltags-Gespräche über neue Möbel, Renovierung, Umzugsstress, "
+            "IKEA-Abenteuer, Bodenbelag, Farben und Raumgefühl."
+        ),
+        "beispiele": [
+            "Wir brauchen noch einen Kleiderschrank für das Schlafzimmer.",
+            "Ich baue gerade eine IKEA-Kommode zusammen, nie wieder.",
+            "Der Umzug war eine Katastrophe, drei Kartons kaputtgegangen.",
+            "Hast du einen guten Tipp für günstigen Laminat?",
+            "Das Sideboard passt perfekt an die Wand im Flur.",
+            "Wir überlegen das Wohnzimmer neu zu streichen.",
+            "Die Couch ist schon so durchgesessen, die muss weg.",
+            "Das Regal aus massivem Holz sieht wirklich schön aus.",
+        ],
+    },
+    "einkaufen": {
+        "name": "Einkaufen & Supermarkt",
+        "beschreibung": (
+            "Sätze rund ums Einkaufen — Supermarkt, Wochenmarkt, Lebensmittel, "
+            "Preise, Angebote. Wie man über den Alltags-Einkauf spricht: "
+            "Einkaufslisten, Kassengespräche, Preisvergleiche, Marken."
+        ),
+        "beispiele": [
+            "Ich muss noch schnell zum Supermarkt, hast du eine Liste?",
+            "Die Einkaufsliste hab ich mal wieder vergessen.",
+            "Hast du noch Milch geholt oder soll ich?",
+            "Beim Wochenmarkt ist das Gemüse viel frischer.",
+            "Die Schlangen an der Kasse samstags sind schrecklich.",
+            "Ich versuche weniger Plastikverpackungen zu kaufen.",
+            "Der Discounter ist günstiger aber das Bio-Gemüse fehlt.",
+            "Wir kaufen seit kurzem öfter beim lokalen Bäcker statt im Supermarkt.",
+        ],
+    },
+    "auto": {
+        "name": "Auto & Werkstatt",
+        "beschreibung": (
+            "Sätze rund ums Auto — Werkstatt, TÜV, Reifenwechsel, Pannen, "
+            "Kraftstoff, Pflege. Wie Autofahrer im Alltag über ihr Fahrzeug "
+            "sprechen: Reparaturen, Kosten, Tipps, Ärger mit der Werkstatt."
+        ),
+        "beispiele": [
+            "Mein Auto muss dringend zum TÜV, schon überfällig.",
+            "Die Bremsscheiben müssen bald gewechselt werden.",
+            "Der Winterreifen-Wechsel ist bei meiner Werkstatt schon gebucht.",
+            "Die Werkstatt hat mal wieder viel zu viel verlangt.",
+            "Kilometerstand über 200.000, aber läuft noch super.",
+            "Hast du das Motoröl schon nachgefüllt?",
+            "Die Klimaanlage macht komische Geräusche seit letztem Sommer.",
+            "Ich wechsle die Felgen immer selbst, ist nicht schwer.",
+        ],
+    },
+    "kleidung": {
+        "name": "Kleidung & Mode",
+        "beschreibung": (
+            "Sätze rund um Kleidung, Mode und Shopping — Alltagsgespräche "
+            "über Kauf, Passform, Qualität, Größen, Marken, Waschen und Stil. "
+            "Kein Produktlisting-Stil, echter Austausch unter Menschen."
+        ),
+        "beispiele": [
+            "Ich brauch noch eine Jacke für den Winter.",
+            "Die Hose passt leider nicht mehr nach dem Urlaub.",
+            "Welche Größe nimmst du normalerweise?",
+            "Das T-Shirt ist nach dem ersten Waschen eingegangen.",
+            "Ich kaufe Kleidung lieber in echt als online.",
+            "Der Reisverschluss geht kaputt, typisch billige Qualität.",
+            "Herbst ist meine liebste Jahreszeit wegen der Mode.",
+            "Die Stiefel sind reduziert, ich überleg noch.",
+        ],
+    },
     "reise": {
         "name": "Reisen & Urlaub",
         "beschreibung": (

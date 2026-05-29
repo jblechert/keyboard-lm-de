@@ -138,6 +138,18 @@ LANG_DE = [
     (r"^\s*Flüge\s+von\s+\w+\s+nach\s+\w+",
      "Reise-Suchergebnis (Flüge von X nach Y)"),
 
+    # Produktkategorien: synthetisch abgedeckt, in c4 überwiegend E-Commerce-Spam
+    (r"\b(?:Nagel|Nägel|Schraube|Schrauben|Dübel|Akkuschrauber|Bohrmaschine|Sägeblatt|Winkelschleifer|Unterlegscheibe)\b",
+     "Heimwerker-Produkt (Nägel/Schrauben/Dübel — synthetisch abgedeckt)"),
+    (r"\b(?:Badewanne|Duschkabine|Waschtisch|Sanitär|Duschwanne|Badmöbel|Badarmatur)\b",
+     "Bad-Produkt (Badewanne/Duschkabine — synthetisch abgedeckt)"),
+    (r"\b(?:Sideboard|Schrankwand|Wohnwand|Polsterecke|Kommode|Nachttisch|Kleiderschrank|Wohnzimmerschrank)\b",
+     "Möbel-Produkt (Sideboard/Kommode — synthetisch abgedeckt)"),
+    (r"\b(?:Felge|Felgen|Stoßstange|Motoröl|Bremsscheibe|Spoiler|Auspuff|Tuning|Kotflügel)\b",
+     "Auto-Zubehör (Felgen/Bremsscheibe — synthetisch abgedeckt)"),
+    (r"\b(?:Damenjacke|Herrenhose|Damenbluse|Herrenhemd|Übergröße|Konfektionsgröße|Damenmantel|Herrenjacke)\b",
+     "Kleidungs-Listing (Damenjacke/Herrenhose — synthetisch abgedeckt)"),
+
     # Glücksspiel-SEO-Spam: "Beste Spielothek in [Stadt] finden"
     (r"\bSpielothek\b", "Glücksspiel-SEO-Spam (Spielothek in ... finden)"),
     (r"\b(?:bet365|betway|bwin|tipico|betsson|unibet|pokerstars|888casino)\b",
