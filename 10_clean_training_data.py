@@ -68,6 +68,13 @@ WEB_ARTIFACTS = [
     # Datum: numerisch (dd.mm.yyyy) — sprachübergreifend
     (r"\b\d{1,2}\.\d{1,2}\.\d{4}\b",
      "Numerisches Datum (dd.mm.yyyy)"),
+
+    # Keyword-Spam: Wortwiederholung
+    # Fängt "Zierschotter Zierschotter" (direkt) und "esszimmer - esszimmer" (mit Trennzeichen)
+    (r"\b(\w{4,})\s+\1\b",
+     "Direktes Doppelwort (Keyword-Spam: Zierschotter Zierschotter)"),
+    (r"\b(\w{7,})\b\W{1,5}\b\1\b",
+     "Nahes Doppelwort mit Trennzeichen (Keyword-Spam: esszimmer - esszimmer)"),
 ]
 
 # Deutsch-spezifische Filter: falsche Schreibweisen, DE-E-Commerce, DE-Adressen
