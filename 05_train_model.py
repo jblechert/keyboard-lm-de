@@ -36,10 +36,12 @@ from datasets import IterableDataset
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
 SP_MODEL       = Path("data/tokenizer/de_keyboard.model")
-TATOEBA_TXT    = Path("data/tatoeba_de.txt")
-C4_TXT         = Path("data/c4_de.txt")
-SYNTHETIC_GLOB = "data/synthetic_*.txt"   # alle synthetic_*.txt werden eingebunden
-PRIVATE_TXT    = Path("data/private_de.txt")
+TATOEBA_TXT         = Path("data/tatoeba_de.txt")
+C4_TXT              = Path("data/c4_de.txt")
+SYNTHETIC_GLOB      = "data/synthetic_*.txt"   # alle synthetic_*.txt werden eingebunden
+PRIVATE_TXT         = Path("data/private_de.txt")
+PARLAMENTSREVUE_TXT = Path("data/parlamentsrevue_de.txt")  # CC BY-SA 4.0
+LNP_TXT             = Path("data/lnp_de.txt")              # CC BY-NC-SA 3.0 DE
 OUTPUT_DIR     = Path("data/model_hf")
 
 # Sampling-Gewichte (relativ zueinander)
@@ -47,10 +49,12 @@ OUTPUT_DIR     = Path("data/model_hf")
 # mC4:     groß, gemischt                → 1×
 # Synthese: keyboard-spezifisch, klein   → 6×
 # Privat:  echter Schreibstil, sehr klein → 6×
-TATOEBA_WEIGHT   = 3
-C4_WEIGHT        = 1
-SYNTHETIC_WEIGHT = 3
-PRIVATE_WEIGHT   = 2
+TATOEBA_WEIGHT        = 3
+C4_WEIGHT             = 1
+SYNTHETIC_WEIGHT      = 3
+PRIVATE_WEIGHT        = 2
+PARLAMENTSREVUE_WEIGHT = 2  # gesprochenes Hochdeutsch, Whisper-Transkript
+LNP_WEIGHT            = 2  # gesprochenes Hochdeutsch, Whisper-Transkript
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
@@ -114,6 +118,10 @@ def mixed_generator(no_synthetic: bool = False):
             sources.append((line_generator(syn), SYNTHETIC_WEIGHT))
     if PRIVATE_TXT.exists():
         sources.append((line_generator(PRIVATE_TXT), PRIVATE_WEIGHT))
+    if PARLAMENTSREVUE_TXT.exists():
+        sources.append((line_generator(PARLAMENTSREVUE_TXT), PARLAMENTSREVUE_WEIGHT))
+    if LNP_TXT.exists():
+        sources.append((line_generator(LNP_TXT), LNP_WEIGHT))
 
     if not sources:
         raise FileNotFoundError("Keine Trainingsdaten gefunden.")
