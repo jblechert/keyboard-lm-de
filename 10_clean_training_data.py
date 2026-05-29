@@ -135,6 +135,10 @@ BANNED = [
     (r"\b(?:Doppel|Triple|Single|Einzel)-?(?:CD|DVD|LP)\b",
      "Medien-Produktformat (Doppel-CD etc.)"),
 
+    # Hotel-/Reisedatenbank-Spam: englische Hausnummern, abgeschnittene Sätze
+    (r"\bNo:\s*\d",  "Englische Hausnummer (No:9 — Hotel-/Adress-Listing)"),
+    (r"\bun\s*$",     "Abgeschnittenes Präfix am Zeilenende (un — Truncation)", 0),
+
     # Blog-Metadaten: Autorenzeilen, Kommentar-Zaehler
     (r"keine Kommentare",    "Blog-Metadaten (noch keine Kommentare)"),
     (r"geschrieben von\b",  "Blog-Autorenzeile (geschrieben von ...)"),
