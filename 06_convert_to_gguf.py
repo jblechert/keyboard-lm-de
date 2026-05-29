@@ -221,7 +221,7 @@ def main():
     parser.add_argument("--no-quantize", action="store_true",
                         help="Skip llama-quantize step (F16 only)")
     parser.add_argument("--all-snapshots", action="store_true",
-                        help=f"Konvertiert alle Snapshots in {SNAPSHOT_DIR}/step_*/")
+                        help="Konvertiert alle Snapshots in data/snapshots/<version>/step_*/")
     args = parser.parse_args()
 
     sp_path = Path(args.sp_model)
@@ -230,9 +230,10 @@ def main():
         sys.exit(1)
 
     if args.all_snapshots:
-        snapshots = sorted(SNAPSHOT_DIR.glob("step_*"))
+        snap_dir = Path("data/snapshots") / args.version
+        snapshots = sorted(snap_dir.glob("step_*"))
         if not snapshots:
-            print(f"Keine Snapshots in {SNAPSHOT_DIR}/", file=sys.stderr)
+            print(f"Keine Snapshots in {snap_dir}/", file=sys.stderr)
             sys.exit(1)
         print(f"{len(snapshots)} Snapshots gefunden: {[s.name for s in snapshots]}")
         for snap in snapshots:

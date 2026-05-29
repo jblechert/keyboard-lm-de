@@ -55,9 +55,9 @@ PRIVATE_WEIGHT   = 2
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
     hidden_size=512,
-    num_hidden_layers=8,
+    num_hidden_layers=10,
     num_attention_heads=8,
-    intermediate_size=1024,
+    intermediate_size=2048,
     max_position_embeddings=256,   # Keyboard-LM braucht keinen langen Kontext
     rms_norm_eps=1e-5,
     rope_theta=10000.0,
@@ -75,7 +75,7 @@ WEIGHT_DECAY       = 0.1
 MAX_GRAD_NORM      = 1.0
 SAVE_STEPS         = 5_000
 LOGGING_STEPS      = 200
-SNAPSHOT_DIR       = Path("data/snapshots")
+SNAPSHOT_DIR       = Path("data/snapshots")  # overridden by --version at runtime
 
 # ── Tokenizer ─────────────────────────────────────────────────────────────────
 
@@ -203,11 +203,16 @@ def main():
     parser.add_argument("--milestones", default=",".join(str(s) for s in range(50_000, 200_001, 10_000)),
                         help="Kommagetrennte Schritte für permanente Snapshots "
                              "(default: 50k–200k alle 10k)")
+    parser.add_argument("--version", default="v0.4",
+                        help="Versionsstring fuer Snapshot-Verzeichnis (default: v0.4)")
     parser.add_argument("--resume", action="store_true",
                         help="Von letztem Checkpoint weitermachen")
     args = parser.parse_args()
 
     milestones = {int(s) for s in args.milestones.split(",") if s.strip()}
+
+    # Versionsbasiertes Snapshot-Verzeichnis — verhindert Ueberschreiben
+    snapshot_dir = Path("data/snapshots") / args.version
 
     if not SP_MODEL.exists():
         print(f"Fehler: Tokenizer nicht gefunden: {SP_MODEL}")
@@ -272,8 +277,8 @@ def main():
         mlm=False,   # Causal LM, kein Masked LM
     )
 
-    SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
-    milestone_cb = MilestoneCallback(milestones, SNAPSHOT_DIR, tokenizer)
+    snapshot_dir.mkdir(parents=True, exist_ok=True)
+    milestone_cb = MilestoneCallback(milestones, snapshot_dir, tokenizer)
 
     trainer = Trainer(
         model=model,
