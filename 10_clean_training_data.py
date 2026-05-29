@@ -116,8 +116,8 @@ LANG_DE = [
     (r"\bAngebote\s+ab\b",      "Amazon-Preis (Angebote ab EUR)"),
 
     # Medien-Produktlistings
-    (r"\((?:CD|DVD|Blu-?[Rr]ay|Buch|H\xf6rbuch|H\xf6rbuch MP3|MP3|EP|LP|VHS|Vinyl)\)\s*$",
-     "Medien-Produktlisting (Buch/CD/DVD am Zeilenende)"),
+    (r"\((?:CD|DVD|Blu-?[Rr]ay|Buch|H\xf6rbuch|H\xf6rbuch MP3|MP3|EP|LP|VHS|Vinyl|Book|Film|Movie|Album|Novel|Series|Comic)\)\s*$",
+     "Medien-Produktlisting (Buch/CD/DVD/Book/Film am Zeilenende)"),
     (r"\b(?:Doppel|Triple|Single|Einzel)-?(?:CD|DVD|LP)\b",
      "Medien-Produktformat (Doppel-CD etc.)"),
 
@@ -129,6 +129,8 @@ LANG_DE = [
     # Blog-Metadaten
     (r"keine Kommentare",    "Blog-Metadaten (keine Kommentare)"),
     (r"geschrieben von\b",   "Blog-Autorenzeile (geschrieben von ...)"),
+    (r"\bklicken?\s+(?:Sie\s+)?(?:hier|auf|bitte)\b|\bhier\s+klicken\b",
+     "Navigations-CTA (klicken Sie hier, hier klicken, klick auf …)"),
     (r"^\s*Bild\w*\s*\w*:",  "Bildunterschrift (Bild oben:, Bild links: ...)"),
     (r"^\s*Tags?\s*(?:für\s+diesen\s+Artikel\s*)?:", "Blog-Tags (Tags: keyword, keyword …)"),
     (r"^\s*(?:Regie|Drehbuch|Darsteller|Produktion|Kamera|Schnitt|Musik)\s*:",
