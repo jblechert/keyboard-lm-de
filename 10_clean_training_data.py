@@ -130,6 +130,11 @@ LANG_DE = [
     (r"keine Kommentare",    "Blog-Metadaten (keine Kommentare)"),
     (r"geschrieben von\b",   "Blog-Autorenzeile (geschrieben von ...)"),
     (r"^\s*Bild\w*\s*\w*:",  "Bildunterschrift (Bild oben:, Bild links: ...)"),
+    (r"^\s*Tags?\s*(?:für\s+diesen\s+Artikel\s*)?:", "Blog-Tags (Tags: keyword, keyword …)"),
+    (r"^\s*(?:Regie|Drehbuch|Darsteller|Produktion|Kamera|Schnitt|Musik)\s*:",
+     "Film-/TV-Credits (Regie:, Darsteller:, Drehbuch: …)"),
+    (r"^\s*Flüge\s+von\s+\w+\s+nach\s+\w+",
+     "Reise-Suchergebnis (Flüge von X nach Y)"),
 
     # Glücksspiel-SEO-Spam: "Beste Spielothek in [Stadt] finden"
     (r"\bSpielothek\b", "Glücksspiel-SEO-Spam (Spielothek in ... finden)"),
