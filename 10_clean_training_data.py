@@ -129,6 +129,12 @@ BANNED = [
     (r"Zurück\s*Weiter",      "Amazon-Navigation (ZurückWeiter)"),
     (r"\bAngebote\s+ab\b",     "Amazon-Preis (Angebote ab EUR)"),
 
+    # Medien-Produktlistings: Name – Titel (CD/DVD/Buch) am Zeilenende
+    (r"\((?:CD|DVD|Blu-?[Rr]ay|Buch|Hörbuch|Hörbuch MP3|MP3|EP|LP|VHS|Vinyl)\)\s*$",
+     "Medien-Produktlisting (Buch/CD/DVD am Zeilenende)"),
+    (r"\b(?:Doppel|Triple|Single|Einzel)-?(?:CD|DVD|LP)\b",
+     "Medien-Produktformat (Doppel-CD etc.)"),
+
     # Blog-Metadaten: Autorenzeilen, Kommentar-Zaehler
     (r"keine Kommentare",    "Blog-Metadaten (noch keine Kommentare)"),
     (r"geschrieben von\b",  "Blog-Autorenzeile (geschrieben von ...)"),
@@ -167,6 +173,8 @@ def _build_replacements():
         # Zitatmarker und Pfeilzeichen entfernen: > Zitat, <Verweis>
         (r'[<>]', '', 'Spitze Klammern (Zitatmarker, Pfeil)'),
         # Fehlende Leerzeichen nach Satzzeichen reparieren
+        # Weiches Trennzeichen (U+00AD): Formatierungsartefakt aus Web-Quellen
+        ("\xad", "", "Weiches Trennzeichen (U+00AD) entfernen"),
         # Punkt: Prof.Dr. -> Prof. Dr., e.V. -> e. V., Satz.Satz -> Satz. Satz
         (r'([a-zäöüß])\.([A-ZÄÖÜ])', r'\1. \2',
          'Fehlender Abstand nach Punkt (Prof.Dr. -> Prof. Dr.)'),
