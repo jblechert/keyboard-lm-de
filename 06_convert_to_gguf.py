@@ -197,7 +197,7 @@ def convert_one(model_dir: Path, sp_path: Path, out_path: Path,
     if no_quantize:
         return
 
-    stem   = out_path.stem
+    stem   = out_path.stem.removesuffix("-f16").removesuffix("-F16")
     parent = out_path.parent
     print("Quantisiere mit llama-quantize …")
     for quant in DEFAULT_QUANTS:
@@ -210,7 +210,10 @@ def convert_one(model_dir: Path, sp_path: Path, out_path: Path,
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--name",      default="mjb-de", help="Model name embedded in GGUF metadata")
+    parser.add_argument("--name",      default=None,
+                        help="Model name embedded in GGUF (overrides auto-generated name)")
+    parser.add_argument("--version",   default="v0.4",
+                        help="Model version string (default: v0.4)")
     parser.add_argument("--model-dir", default=str(MODEL_HF_DIR))
     parser.add_argument("--sp-model",  default=str(SP_MODEL))
     parser.add_argument("--output",    default=str(OUT_GGUF),
@@ -235,7 +238,7 @@ def main():
         for snap in snapshots:
             step_str = snap.name.replace("step_", "").lstrip("0") or "0"
             step_k   = int(step_str) // 1000
-            name     = f"mjb-de-{step_k}k"
+            name     = f"mjb-de-{args.version}-{step_k}k"
             out_path = Path("data") / f"{name}.gguf"
             convert_one(snap, sp_path, out_path, name, args.no_quantize)
         print("\nAlle Snapshots konvertiert.")
@@ -248,7 +251,8 @@ def main():
         print(f"Fehler: HF-Modell nicht gefunden: {model_dir}", file=sys.stderr)
         sys.exit(1)
 
-    convert_one(model_dir, sp_path, out_path, args.name, args.no_quantize)
+    name = args.name or f"mjb-de-{args.version}"
+    convert_one(model_dir, sp_path, out_path, name, args.no_quantize)
     print("\nFertig.")
 
 
