@@ -58,6 +58,7 @@ def gpu_stats() -> str:
 SP_MODEL            = Path("data/tokenizer/de_keyboard.model")
 TATOEBA_TXT         = Path("data/tatoeba_de.txt")
 C4_TXT              = Path("data/c4_de.txt")
+FINEWEB2_TXT        = Path("data/fineweb2_de.txt")
 SYNTHETIC_GLOB      = "data/synthetic_*.txt"
 PRIVATE_TXT         = Path("data/private_de.txt")
 PARLAMENTSREVUE_TXT = Path("data/parlamentsrevue_de.txt")  # CC BY-SA 4.0
@@ -67,14 +68,13 @@ RAUMZEIT_TXT        = Path("data/raumzeit_de.txt")          # CC BY-NC-SA 3.0 DE
 FORSCHERGEIST_TXT   = Path("data/forschergeist_de.txt")     # CC BY-NC-SA 3.0 DE
 CRE_TXT             = Path("data/cre_de.txt")               # CC BY-NC-SA 3.0 DE
 CCC_CONGRESS_TXT    = Path("data/ccc_congress_de.txt")      # CC BY 3.0
-WIKIPEDIA_TXT       = Path("data/wikipedia_de.txt")          # CC BY-SA 4.0
 OUTPUT_DIR          = Path("models/de_keyboard")
 
 # ── Sampling-Gewichte ─────────────────────────────────────────────────────────
-BASE_WEIGHT           = 1   # mC4 und Wikipedia gleichwertig (50:50 großer Hintergrundcorpus)
+BASE_WEIGHT           = 1   # c4 und FineWeb2 gleichwertig (großer Hintergrundcorpus)
 TATOEBA_WEIGHT        = 3   # sauber, alltagsnah
 C4_WEIGHT             = BASE_WEIGHT
-WIKIPEDIA_WEIGHT      = BASE_WEIGHT
+FINEWEB2_WEIGHT       = BASE_WEIGHT
 SYNTHETIC_WEIGHT      = 3   # keyboard-spezifisch
 PRIVATE_WEIGHT        = 2   # echter Schreibstil
 PARLAMENTSREVUE_WEIGHT = 2  # gesprochenes Hochdeutsch
@@ -159,14 +159,14 @@ def mixed_generator(no_synthetic: bool = False):
         sources.append((line_generator(TATOEBA_TXT), TATOEBA_WEIGHT))
     if _has_content(C4_TXT):
         sources.append((line_generator(C4_TXT), C4_WEIGHT))
+    if _has_content(FINEWEB2_TXT):
+        sources.append((line_generator(FINEWEB2_TXT), FINEWEB2_WEIGHT))
     if not no_synthetic:
         for syn in sorted(Path(".").glob(SYNTHETIC_GLOB)):
             if _has_content(syn):
                 sources.append((line_generator(syn), SYNTHETIC_WEIGHT))
     if _has_content(PRIVATE_TXT):
         sources.append((line_generator(PRIVATE_TXT), PRIVATE_WEIGHT))
-    if _has_content(WIKIPEDIA_TXT):
-        sources.append((line_generator(WIKIPEDIA_TXT), WIKIPEDIA_WEIGHT))
     if _has_content(PARLAMENTSREVUE_TXT):
         sources.append((line_generator(PARLAMENTSREVUE_TXT), PARLAMENTSREVUE_WEIGHT))
 
