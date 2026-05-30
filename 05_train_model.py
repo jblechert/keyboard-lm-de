@@ -122,33 +122,57 @@ def load_tokenizer() -> LlamaTokenizer:
 
 # ── Dataset ───────────────────────────────────────────────────────────────────
 
-def line_generator(path: Path):
+def _has_content(path: Path) -> bool:
+    """True, wenn die Datei existiert und nicht leer ist."""
+    try:
+        return path.exists() and path.stat().st_size > 0
+    except OSError:
+        return False
+
+
+def line_generator(path: Path, shuffle_buffer: int = 50_000):
+    """Streaming-Generator mit Shuffle-Buffer — liest nie mehr als noetig."""
     while True:
+        produced = False
+        buf = []
         with path.open("r", encoding="utf-8") as f:
-            lines = f.readlines()
-        random.shuffle(lines)
-        yield from lines
+            for line in f:
+                buf.append(line)
+                if len(buf) >= shuffle_buffer:
+                    random.shuffle(buf)
+                    produced = True
+                    yield from buf
+                    buf = []
+        if buf:
+            random.shuffle(buf)
+            produced = True
+            yield from buf
+        if not produced:
+            # Leere Datei → sonst würde diese while-True-Schleife für immer
+            # drehen, ohne je etwas zu liefern (Trainings-Hang).
+            return
 
 
 def mixed_generator(no_synthetic: bool = False):
     sources = []
-    if TATOEBA_TXT.exists():
+    if _has_content(TATOEBA_TXT):
         sources.append((line_generator(TATOEBA_TXT), TATOEBA_WEIGHT))
-    if C4_TXT.exists():
+    if _has_content(C4_TXT):
         sources.append((line_generator(C4_TXT), C4_WEIGHT))
     if not no_synthetic:
         for syn in sorted(Path(".").glob(SYNTHETIC_GLOB)):
-            sources.append((line_generator(syn), SYNTHETIC_WEIGHT))
-    if PRIVATE_TXT.exists():
+            if _has_content(syn):
+                sources.append((line_generator(syn), SYNTHETIC_WEIGHT))
+    if _has_content(PRIVATE_TXT):
         sources.append((line_generator(PRIVATE_TXT), PRIVATE_WEIGHT))
-    if WIKIPEDIA_TXT.exists():
+    if _has_content(WIKIPEDIA_TXT):
         sources.append((line_generator(WIKIPEDIA_TXT), WIKIPEDIA_WEIGHT))
-    if PARLAMENTSREVUE_TXT.exists():
+    if _has_content(PARLAMENTSREVUE_TXT):
         sources.append((line_generator(PARLAMENTSREVUE_TXT), PARLAMENTSREVUE_WEIGHT))
 
     for podcast in [LNP_TXT, MINKORREKT_TXT, RAUMZEIT_TXT,
                     FORSCHERGEIST_TXT, CRE_TXT, CCC_CONGRESS_TXT]:
-        if podcast.exists():
+        if _has_content(podcast):
             sources.append((line_generator(podcast), PODCAST_WEIGHT))
 
     if not sources:
@@ -296,7 +320,6 @@ def main():
         seed=42,
         dataloader_num_workers=0,
         report_to="none",
-        torch_compile=True,  # GPU-Transfer zuerst, dann compile
     )
 
     collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
