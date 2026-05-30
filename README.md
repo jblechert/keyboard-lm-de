@@ -3,170 +3,165 @@
 Scripts to train a German-language transformer model for [FUTO Keyboard](https://keyboard.futo.org).
 FUTO Keyboard ships an English-only next-word-prediction / autocorrect model; this project builds the German equivalent.
 
-**Pretrained model:** [Releases](https://github.com/jblechert/keyboard-lm-de/releases) — drop the `.gguf` into FUTO Keyboard settings → Language Models.
+**Pretrained models:** [Releases](https://github.com/jblechert/keyboard-lm-de/releases) — drop the `.gguf` into FUTO Keyboard → Settings → Language Models.
+
+---
+
+## Current version: v0.5 (in training)
+
+57M parameter Llama model, significantly expanded training corpus with spoken German from podcasts.
+First release expected once training completes at 150k steps.
+
+### v0.4 — Legacy
+
+v0.4 (50k and 80k checkpoints) is available in the [releases](https://github.com/jblechert/keyboard-lm-de/releases).
+It was trained on Tatoeba + mC4 + synthetic data only.
+**Note:** v0.4 shows a clear plateau between 65k–80k steps; v0.5 addresses this with a larger and more diverse corpus.
+
+---
 
 ## Architecture
-
-Matches FUTO's English model:
 
 | Parameter | Value |
 |---|---|
 | Architecture | Llama (GGUF via llama.cpp) |
-| Parameters | ~36M |
-| Layers | 8 × 512 hidden dims, 8 attention heads, 1024 FFN |
+| Parameters | **57M** |
+| Layers | 10 × 512 hidden dims, 8 attention heads, 2048 FFN |
 | Context | 256 tokens |
-| Vocabulary | ~15k tokens |
 | Tokenizer | SentencePiece BPE, `treat_whitespace_as_suffix=true` |
 
 Special autocorrect tokens: `<XBU>`, `<CHAR_A>`…`<CHAR_Z>`, `<XBC>`, `<XEC>`
 
-## Training data
+---
 
-| Source | Sentences | Weight | Notes |
+## Training data — v0.5
+
+| Source | Sentences | Weight | License |
 |---|---|---|---|
-| [Tatoeba DE](https://tatoeba.org) | 770k | 3× | Clean everyday German |
-| [mC4 DE](https://huggingface.co/datasets/allenai/c4) (allenai/c4) | 5M | 1× | Web text, filtered, ODC-BY |
-| Synthetic (Qwen3.6:27b via Ollama) | 2k | 6× | Keyboard-style sentences |
+| [Tatoeba DE](https://tatoeba.org) | 770k | 3× | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| [mC4 DE](https://huggingface.co/datasets/allenai/c4) (allenai/c4) | 80M | 1× | [ODC-By](https://opendatacommons.org/licenses/by/) |
+| Synthetic (Qwen3.6:27b, 27 topics) | ~50k | 3× | generated, non-commercial |
+| [Parlamentsrevue](https://parlamentsrevue.de) — Sabrina Gehder | 34k | 2× | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de) — Tim Pritlove & Linus Neumann | 178k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+| [Methodisch Inkorrekt!](https://minkorrekt.de) — Nicolas Wöhrl & Reinhard Remfort | 42k | 2× | CC BY-NC-SA 3.0 |
+| [Raumzeit](https://raumzeit-podcast.de) — Tim Pritlove | 28k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+| [Forschergeist](https://forschergeist.de) — Tim Pritlove | 35k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+| [CRE: Technik, Kultur, Gesellschaft](https://cre.fm) — Tim Pritlove | 12k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+
+All Whisper-transcribed podcast data was cleaned: filler words (ähm/äh) replaced, run-ons > 60 words removed, NOTE-block metadata stripped.
+
+---
 
 ## Pipeline
 
-### 1. Download Tatoeba German sentences → `data/tatoeba_de.txt`
+### 1. Download training data
+
 ```bash
+# Tatoeba
 .venv_ml/bin/python 07_download_tatoeba.py
+
+# mC4 (80M sentences, ~12h)
+.venv_ml/bin/python 09_download_c4_de.py --target 80000000
+
+# Podcasts (all CC BY-NC-SA, Metaebene / Parlamentsrevue)
+.venv_ml/bin/python 15_download_parlamentsrevue.py
+.venv_ml/bin/python 16_download_lnp.py
+.venv_ml/bin/python 17_download_minkorrekt.py
+.venv_ml/bin/python 18_download_raumzeit.py
+.venv_ml/bin/python 19_download_forschergeist.py
+.venv_ml/bin/python 20_download_cre.py
 ```
 
-### 2. Stream mC4 German sentences → `data/c4_de.txt`
+### 2. Clean training data
+
 ```bash
-.venv_ml/bin/python 09_download_c4_de.py --target 5000000
+.venv_ml/bin/python 10_clean_training_data.py
 ```
 
-### 3. Generate synthetic keyboard-style sentences → `data/synthetic_de.txt`
+### 3. Generate synthetic sentences (requires Ollama + qwen3.6:27b)
+
 ```bash
-# Requires Ollama running with qwen3.6:27b
-.venv_ml/bin/python 08_generate_synthetic.py --target 2000
+.venv_ml/bin/python 12_generate_synthetic_vocab.py --per-topic 2000
 ```
 
-### 4. Train SentencePiece tokenizer → `data/tokenizer/de_keyboard.model`
+### 4. Train SentencePiece tokenizer
+
 ```bash
 .venv_ml/bin/python 04_train_tokenizer.py
 ```
 
-### 5. Train the model → `data/model_hf/`
+### 5. Train the model
+
 ```bash
-.venv_ml/bin/python 05_train_model.py --steps 54000
-# ~15 hours on RX 7900 XTX (ROCm)
+.venv_ml/bin/python 05_train_model.py --steps 150000 --version v0.5
+# ~30 hours on RX 7900 XTX (ROCm)
 ```
 
-### 6. Convert to GGUF → `data/de_keyboard.gguf`
+### 6. Convert to GGUF
+
 ```bash
 .venv_ml/bin/python 06_convert_to_gguf.py
 ```
 
-## Requirements
+---
 
-- Python 3.10+
-- PyTorch with CUDA (any NVIDIA GPU) or ROCm (AMD, Linux only)
-- `sentencepiece`, `transformers>=4.49,<5`, `tokenizers==0.21.*`, `gguf`, `datasets`
+## Quality metrics (v0.4 @ 80k steps)
+
+| Metric | Value |
+|---|---|
+| Top-1 Accuracy | 26.8% |
+| Top-3 Accuracy | 41.1% |
+| Top-5 Accuracy | 48.3% |
+| Keystroke Savings Rate (KSR) | 22.3% |
+| Prefix 2 chars → Top-1 | 74.2% |
+| Prefix 3 chars → Top-3 | 97.2% |
+
+v0.5 targets improvement through 4× larger corpus and spoken German from podcasts.
+
+---
+
+## Requirements
 
 ```bash
 python -m venv --system-site-packages .venv_ml
 .venv_ml/bin/pip install "tokenizers==0.21.0" "transformers>=4.49,<5" datasets gguf sentencepiece
 ```
 
+- Python 3.10+
+- PyTorch with CUDA (NVIDIA) or ROCm (AMD, Linux)
+- `bf16=True` requires NVIDIA Ampere (RTX 30xx+) or AMD ROCm — for older cards use `fp16=True`
+
 ### Hardware
 
-The 36M-parameter model is small — it uses **~1–2 GB VRAM** even at full batch size.
-Any discrete GPU with 4 GB+ VRAM can train it; the bottleneck is speed, not memory.
-
-| GPU | VRAM | 50k steps | 100k steps |
+| GPU | VRAM | 80k steps | 150k steps |
 |-----|------|-----------|------------|
-| RX 7900 XTX / RTX 4090 | 24 GB | ~14 h | ~28 h |
-| RTX 3080 / RTX 4070 (10–12 GB) | 10–12 GB | ~18 h | ~36 h |
-| RTX 3060 12 GB | 12 GB | ~38 h | ~75 h |
-| GTX 1080 Ti | 11 GB | ~30 h | ~60 h |
+| RX 7900 XTX / RTX 4090 | 24 GB | ~16 h | ~30 h |
+| RTX 3080 / RTX 4070 | 10–12 GB | ~22 h | ~42 h |
+| RTX 3060 12 GB | 12 GB | ~44 h | ~82 h |
 
-> **bf16**: The training script uses `bf16=True`, which requires NVIDIA Ampere (RTX 30xx+) or AMD ROCm.
-> For older NVIDIA cards (GTX 10xx/20xx), change `bf16=True` → `fp16=True` in `05_train_model.py`.
-
-## On-device performance
-
-### Model size vs. training steps — two independent dimensions
-
-These are often confused:
-
-| Dimension | What it affects | What it does NOT affect |
-|-----------|----------------|------------------------|
-| **Parameters** (36M / 55M / 72M) | Inference speed and RAM on device | Prediction quality |
-| **Training steps** (54k / 100k / 200k) | Prediction quality | Inference speed or RAM |
-
-In practice: a 36M model trained for 200k steps runs **identically fast** on your phone as the same 36M model at 54k steps — it just predicts better. A 72M model at 54k steps would be ~2× slower than a 36M model at 200k steps, regardless of training time.
-
-### Quantization tiers
-
-GGUF supports multiple quantization levels that trade file size / RAM against precision.
-For v0.3 we plan to ship five tiers (sizes for the 36M model):
-
-| Tier | Quantization | File size | Quality loss | Target devices |
-|------|-------------|-----------|-------------|----------------|
-| **ultra-low** | Q2_K | ~11 MB | noticeable | very old / low-RAM phones |
-| **low** | Q4_K_S | ~18 MB | minimal | mid-range |
-| **medium** | Q4_K_M | ~20 MB | minimal | mid-range |
-| **high** | Q6_K | ~24 MB | near-zero | flagship |
-| **ultra-high** | Q8_0 | ~36 MB | effectively none | flagship, confirmed working on Moto Edge 40 Pro |
-
-Q4_K_M is the recommended default for most devices.
-
-### Device benchmarks
-
-Benchmarks are measured with `17_benchmark_device.py` via ADB.
-Reference device: **Motorola Edge 40 Pro** (Snapdragon 8 Gen 2, Android 16).
-
-> Results will be published with the v0.3 release.
-
-### SVE/SVE2 — the hidden 20–30 % headroom
-
-The Snapdragon 8 Gen 2 (Cortex-X3 / A715) physically supports **SVE2 at 128-bit vectors**,
-which would accelerate llama.cpp's matrix operations by roughly 20–30 % over NEON alone.
-
-**Why it's disabled:** Android manufacturers ship kernels without `CONFIG_ARM64_SVE=y`.
-Google's CDD does not require SVE support, and enabling it requires the kernel to save and
-restore SVE register state on every context switch — extra complexity that OEMs skip.
-FUTO Keyboard's llama.cpp build therefore runs **NEON-only**, as does our benchmark binary.
-
-**Can you unlock it?** Theoretically yes — rebuild the device kernel with `CONFIG_ARM64_SVE=y`
-and a matching llama.cpp compiled without `-DGGML_SVE=OFF`. In practice this is non-trivial:
-
-- Qualcomm's CAF kernel fork is not always publicly available for newer SoCs
-- The Qualcomm scheduler must correctly migrate SVE register state across big/LITTLE clusters
-  (on SD8 Gen 2 all clusters are 128-bit, which helps, but OEM patches may actively suppress it)
-- Even with LineageOS, kernel changes at this level are device-specific and may destabilize the scheduler
-
-If a future Android release or a device ships with SVE enabled in the kernel, the same GGUF
-model files will automatically benefit — no retraining required, just a recompiled llama.cpp.
-
-## Status
-
-- [x] Training data pipeline (Tatoeba + mC4 + synthetic)
-- [x] SentencePiece tokenizer training
-- [x] Model training (LlamaForCausalLM, 36M params)
-- [x] GGUF conversion + Q4 quantization
-- [x] On-device testing with FUTO Keyboard (next-word prediction working)
-- [ ] XBU/CHAR autocorrect fine-tuning
+---
 
 ## License
 
-**Code** (this repository): [MIT License](LICENSE)
+**Code:** [MIT License](LICENSE)
 
-**Pretrained model weights**: [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
-Free to use, share and adapt for non-commercial purposes with attribution.
+**Model weights:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — free for non-commercial use with attribution.
 
-### Training data sources
+### Training data attribution
 
-| Source | License |
-|---|---|
-| [Tatoeba DE](https://tatoeba.org) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
-| [mC4 DE](https://huggingface.co/datasets/allenai/c4) (Common Crawl) | [ODC-By](https://opendatacommons.org/licenses/by/) |
-| Synthetic sentences (generated via [Qwen3](https://huggingface.co/Qwen)) | [Qwen License](https://huggingface.co/Qwen/Qwen3-72B/blob/main/LICENSE) (non-commercial) |
+| Source | Authors | License |
+|---|---|---|
+| [Tatoeba DE](https://tatoeba.org) | Tatoeba contributors | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| [mC4 DE](https://huggingface.co/datasets/allenai/c4) | Common Crawl / Allen AI | [ODC-By](https://opendatacommons.org/licenses/by/) |
+| [Parlamentsrevue](https://parlamentsrevue.de) | Sabrina Gehder | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de) | Tim Pritlove & Linus Neumann | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+| [Methodisch Inkorrekt!](https://minkorrekt.de) | Nicolas Wöhrl & Reinhard Remfort | CC BY-NC-SA 3.0 |
+| [Raumzeit](https://raumzeit-podcast.de) | Tim Pritlove | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+| [Forschergeist](https://forschergeist.de) | Tim Pritlove | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+| [CRE: Technik, Kultur, Gesellschaft](https://cre.fm) | Tim Pritlove | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+| Synthetic sentences | generated via [Qwen3](https://huggingface.co/Qwen) (Ollama) | non-commercial |
+
+---
 
 ## References
 
