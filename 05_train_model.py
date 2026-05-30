@@ -53,11 +53,14 @@ RAUMZEIT_TXT        = Path("data/raumzeit_de.txt")          # CC BY-NC-SA 3.0 DE
 FORSCHERGEIST_TXT   = Path("data/forschergeist_de.txt")     # CC BY-NC-SA 3.0 DE
 CRE_TXT             = Path("data/cre_de.txt")               # CC BY-NC-SA 3.0 DE
 CCC_CONGRESS_TXT    = Path("data/ccc_congress_de.txt")      # CC BY 3.0
+WIKIPEDIA_TXT       = Path("data/wikipedia_de.txt")          # CC BY-SA 4.0
 OUTPUT_DIR          = Path("models/de_keyboard")
 
 # ── Sampling-Gewichte ─────────────────────────────────────────────────────────
+BASE_WEIGHT           = 1   # mC4 und Wikipedia gleichwertig (50:50 großer Hintergrundcorpus)
 TATOEBA_WEIGHT        = 3   # sauber, alltagsnah
-C4_WEIGHT             = 1   # groß, gemischt
+C4_WEIGHT             = BASE_WEIGHT
+WIKIPEDIA_WEIGHT      = BASE_WEIGHT
 SYNTHETIC_WEIGHT      = 3   # keyboard-spezifisch
 PRIVATE_WEIGHT        = 2   # echter Schreibstil
 PARLAMENTSREVUE_WEIGHT = 2  # gesprochenes Hochdeutsch
@@ -124,6 +127,8 @@ def mixed_generator(no_synthetic: bool = False):
             sources.append((line_generator(syn), SYNTHETIC_WEIGHT))
     if PRIVATE_TXT.exists():
         sources.append((line_generator(PRIVATE_TXT), PRIVATE_WEIGHT))
+    if WIKIPEDIA_TXT.exists():
+        sources.append((line_generator(WIKIPEDIA_TXT), WIKIPEDIA_WEIGHT))
     if PARLAMENTSREVUE_TXT.exists():
         sources.append((line_generator(PARLAMENTSREVUE_TXT), PARLAMENTSREVUE_WEIGHT))
 
@@ -197,7 +202,7 @@ def build_model(tokenizer: LlamaTokenizer) -> LlamaForCausalLM:
         bos_token_id=tokenizer.bos_token_id,
         eos_token_id=tokenizer.eos_token_id,
     )
-    model = LlamaForCausalLM(config, attn_implementation="sdpa")
+    model = LlamaForCausalLM._from_config(config, attn_implementation="sdpa")
     params = sum(p.numel() for p in model.parameters())
     print(f"Modell: {params/1e6:.1f}M Parameter  |  Attention: SDPA")
     return model
