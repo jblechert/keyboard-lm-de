@@ -342,7 +342,7 @@ def main():
                     if words < MIN_WORDS or words > MAX_WORDS:
                         n_short_removed += 1
                     else:
-                        fout.write(line)
+                        fout.write(line + "\n")
                         n_kept += 1
 
                 if n_total % 5_000_000 == 0:

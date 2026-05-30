@@ -383,6 +383,10 @@ def ollama_chat(host: str, model: str, system: str, user: str, max_tokens: int) 
 
 
 def parse_sentences(raw: str) -> list[str]:
+    # Wenn keine Zeilenumbrüche: auf Satzgrenzen aufsplitten
+    if '\n' not in raw and len(raw) > 200:
+        raw = re.sub(r'([.!?])([A-ZÄÖÜ])', r'\1\n\2', raw)
+
     lines = []
     for line in raw.splitlines():
         line = line.strip()
