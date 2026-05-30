@@ -28,29 +28,32 @@ from pathlib import Path
 # Sprach-unabhängige Web-Artefakte: Spam, Struktur, Format-Müll
 WEB_ARTIFACTS = [
     # Tabellenzeilen, Listings
-    (r"(?:\||\t){3,}",      "Tabellenzeile (≥3 Pipes/Tabs) — kein Flie\xdftext"),
+    (r"(?:[^|\t\n]*(?:\||\t)){2,}",  "Tabellenzeile (≥2 Pipes/Tabs) — kein Flie\xdftext"),
     (r"(?:[^:]*:){3}",      "≥3 Doppelpunkte (Produkt-/Listing-Spam)"),
     (r"[*•\xb7]{4,}",  "Bullet-Spam (≥4 Sonderzeichen in Folge)"),
 
     # Schlechte Satzenden
     (r"(?:\.{2,}|\u2026)\s*$", "Satzende mit .. / ... / … (unvollständig/abgebrochen)"),
+    (r":\s*$",                    "Satzende mit Doppelpunkt (Überschrift/Intro-Fragment)"),
     (r"\[\.\.\.|\[…\]", "Eckige Klammer mit Auslassungspunkten ([...]/[…])"),
     (r"[!?]{2,}\s*$",       "Satzende mit !! oder ?? (Ausrufe-Spam)"),
-    (r"\s(?:Dr|Prof|Hr|Fr|Nr|Col|Gen|Lt|Cpt|St|Tel|Bd|Mio|Mrd|Jh|bzw|ggf|inkl|usw|vgl|vs|Abb|Abs|ca|max|min)\.\s*$",
+    (r"\s(?:Dr|Prof|Hr|Fr|Nr|Col|Gen|Lt|Cpt|St|Tel|Bd|Mio|Mrd|Jh|bzw|ggf|inkl|usw|vgl|vs|Abb|Abs|ca|max|min|Fam|o\.\s*g|o\.\s*[äa]|u\.\s*[äa]|u\.\s*a|z\.\s*B|d\.\s*h|i\.\s*d\.\s*R|gem)\.\s*$",
      "Satzende mit Abkürzung (abgeschnittener Satz)"),
     (r"\s(?:[1-9]|[12]\d|3[01])\.\s*$",
      "Satzende mit Tagesdatum (abgeschnittener Satz: vom 22., bis zum 7.)"),
 
     # Strukturelle Artefakte
     (r"^-\s+\S",            "Zeile beginnt mit Listenpunkt (- item)"),
-    (r"^[•▪▸►]",              "Zeile beginnt mit Aufzählungszeichen (•▪▸►)"),
+    (r"^[•▪▸►*|]",            "Zeile beginnt mit Aufzählungszeichen/Pipe (•▪▸►*|)"),
     (r"^\[",                 "Zeile beginnt mit [ (Blog-Tag, Kategorie-Header)"),
     (r"(?:.*#){3}",          "≥3 Hashtags (Social-Media-Tag-Spam)"),
+    (r":\s*:",               "Doppelter Doppelpunkt (Formular-/Template-Artefakt)"),
+    (r"\bN\xe4chste\s+Seite\b", "Paginierungs-Navigation (Nächste Seite)", 0),
     (r"\?[a-zäöüß]{2}",     "Fragezeichen statt ß (Kodierungsfehler: Bekannterma?en)"),
-    (r"^(?:(?![äöüÄÖÜß]).)*\b(?:the|find|visit|recent|your|with|from|that|this|have|will|are|were|been|their|they|what|which|when|where|how|you|our|more|also|most|some|all|can|not|for|its|but|and|has|was|his|her)\b(?:(?![äöüÄÖÜß]).)*$",
+    (r"^(?:(?![äöüÄÖÜß]).)*\b(?:the|find|visit|recent|your|with|from|that|this|have|will|are|were|been|their|they|what|which|when|where|how|you|our|more|also|most|some|all|can|not|for|its|but|and|has|was|his|her|of)\b(?:(?![äöüÄÖÜß]).)*$",
      "Englischer Satz (keine Umlaute + englische Funktionswörter)", re.IGNORECASE),
     (r"(?:[^>]*>){3}",       "≥3 > (Breadcrumb-Navigation)"),
-    (r"\u2192|\u279c|\u27a1", "HTML-Navigationspfeil (→ ➜ ➡ in Linktext)"),
+    (r"\u2192|\u279c|\u27a1|\u203a|\u2039", "HTML-Navigationspfeil/Breadcrumb (→ ➜ ➡ › ‹ in Linktext)"),
     (r"\[[A-Z\xc4\xd6\xdc][a-zA-Z\xc4\xd6\xdc\xe4\xf6\xfc\xdf]{1,20}\]",
      "Bracket-Tag ([Top], [Kategorie]) — Navigation/Template-Artefakt"),
     (r"\[\s+[A-Z\xc4\xd6\xdc][a-zA-Z\xc4\xd6\xdc\xe4\xf6\xfc\xdf]+\s+\]",
@@ -71,6 +74,10 @@ WEB_ARTIFACTS = [
 
     # Fotokredit (strukturell, nicht sprachspezifisch)
     (r"FOTOS?:",              "Fotokredit (FOTO:, FOTOS: ...)"),
+
+    # All-Caps-Sätze (Forum-Header, Werbebanner, Clickbait-Titel)
+    (r"^[A-Z\xc4\xd6\xdc][A-Z\xc4\xd6\xdc\s\-!?.,:0-9]{15,}$",
+     "All-Caps-Satz (Werbebanner/Forum-Header)", 0),
 
     # CamelCase-Zusammenschreibungen: "SätzeDieNurAusSoEtwasBestanden"
     (r"\S*[a-z\xe4\xf6\xfc\xdf][A-Z\xc4\xd6\xdc]\S*[a-z\xe4\xf6\xfc\xdf][A-Z\xc4\xd6\xdc]\S*",
@@ -123,6 +130,7 @@ LANG_DE = [
     (r"\bFremdsprachige B\xfccher\b", "Amazon-Kategorie (Fremdsprachige B\xfccher)"),
     (r"\bSiehe Top 100\b",      "Amazon-Rang-Link (Siehe Top 100)"),
     (r"\bEUR\s+\d",             "Preis-Listing (EUR 12,34)"),
+    (r"\d+,-\s*€",        "Preis-Listing (149,- € — Komma-Strich-Notation)"),
     (r"Zur\xfcck\s*Weiter",     "Amazon-Navigation (Zur\xfcckWeiter)"),
     (r"\bAngebote\s+ab\b",      "Amazon-Preis (Angebote ab EUR)"),
 
@@ -165,10 +173,24 @@ LANG_DE = [
     (r"\bSpielothek\b", "Glücksspiel-SEO-Spam (Spielothek in ... finden)"),
     (r"\b(?:bet365|betway|bwin|tipico|betsson|unibet|pokerstars|888casino)\b",
      "Glücksspiel-Anbieter (bet365/bwin/tipico …)"),
+    (r"\b(?:online|internet)\s+casinos?\b",
+     "Casino-SEO-Injektion (online/internet casino(s) in normalem Satz)"),
+
+    # Adult-Content-SEO (Escort-Seiten-Spam in FineWeb2)
+    (r"\bsexy\s+frau\b|\bnudisten\b|\bdominante\s+massagen\b"
+     r"|\bFicken\b|\bMilf\b|\bfürsex\b|\bBipaar\b|\bprostituiert\w*\b",
+     "Adult-SEO-Spam (sexy frau / nudisten / Ficken / Milf …)"),
+    (r"porn",                "Pornografische URL/Begriff (porn als Substring)"),
+
+    # E-Mail-Abschlussformel
+    (r"\bMit freundlichen Gr\xfc\xdfen\b",
+     "E-Mail-Abschlussformel (Mit freundlichen Grüßen)"),
 
     # Kommentarbox-UI
     (r"\d+\s*Zeichen\s*(?:übrig|verbleibend)", "Zeichenzähler (Web-Kommentarbox-UI)"),
     (r"\bSchreiben Sie.*Kommentar\b", "Kommentarbox-Aufforderung"),
+    (r"\bmehr\s+lesen\b|\bweiterlesen\b|[.!?]\s+Mehr\s*$",
+     "Web-Artefakt (mehr lesen / weiterlesen / ». Mehr« — Teaserlink)"),
 
     # E-Commerce-Header
     (r"\bBestellen oder Ausleihen\b", "E-Commerce-Header (Kaufen, Bestellen oder Ausleihen)"),
@@ -177,8 +199,8 @@ LANG_DE = [
 # Nicht-deutsche Schriften und Zeichen (Sprach-Ausschlüsse)
 LANG_EXCLUDE = [
     # Nicht-deutsche europäische Sonderzeichen: Estnisch/Finnisch/Polnisch etc.
-    (r"[õőűčšžāēīūţşąęśźżłń]",
-     "Nicht-dt. EU-Buchstabe (\xf5čšžāł — Estnisch/Polnisch/Lettisch …)"),
+    (r"[õőűčšžāēīūţşąęśźżłńçğı]",
+     "Nicht-dt. EU-Buchstabe (\xf5čšžāłçğı — Estnisch/Polnisch/Lettisch/T\xfcrkisch …)", 0),
     # Thorn: nur Isländisch/Altenglisch, nie Deutsch (auch: falsch konvertiertes ß)
     (r"[þÞ]",
      "Thorn (Isländisch/Altenglisch — kein deutsches Zeichen)", 0),
