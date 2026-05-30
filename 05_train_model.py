@@ -2,15 +2,21 @@
 """
 Trains a Llama-based German keyboard language model from scratch.
 
-Architecture (~36M Parameter, entspricht FUTO English model):
-  8 Layer × 512 Hidden Dims × 8 Attention Heads × 1024 FFN
+Architecture (~57M Parameter):
+  10 Layer × 512 Hidden Dims × 8 Attention Heads × 2048 FFN
 
 Input:
   data/tatoeba_de.txt              Tatoeba German sentences
   data/tokenizer/de_keyboard.model SentencePiece Tokenizer
 
 Output:
-  data/model_hf/              HuggingFace Checkpoint
+  models/de_keyboard/              HuggingFace Checkpoint
+
+v0.5-Änderungen:
+  - Flash Attention (SDPA) via attn_implementation="sdpa"
+  - torch.compile() für Kernel-Fusion auf RDNA3
+  - Batch 64 statt 32 (GRAD_ACCUM 4, effektiv 256 gleich)
+  - Neue Quellen: CRE, Raumzeit, Forschergeist, MI, CCC Congress
 
 Usage:
   .venv_ml/bin/python 05_train_model.py [--steps 100000] [--resume]
@@ -35,26 +41,28 @@ from transformers import (
 from datasets import IterableDataset
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
-SP_MODEL       = Path("data/tokenizer/de_keyboard.model")
+SP_MODEL            = Path("data/tokenizer/de_keyboard.model")
 TATOEBA_TXT         = Path("data/tatoeba_de.txt")
 C4_TXT              = Path("data/c4_de.txt")
-SYNTHETIC_GLOB      = "data/synthetic_*.txt"   # alle synthetic_*.txt werden eingebunden
+SYNTHETIC_GLOB      = "data/synthetic_*.txt"
 PRIVATE_TXT         = Path("data/private_de.txt")
 PARLAMENTSREVUE_TXT = Path("data/parlamentsrevue_de.txt")  # CC BY-SA 4.0
 LNP_TXT             = Path("data/lnp_de.txt")              # CC BY-NC-SA 3.0 DE
-OUTPUT_DIR     = Path("data/model_hf")
+MINKORREKT_TXT      = Path("data/minkorrekt_de.txt")        # CC BY-NC-SA 3.0
+RAUMZEIT_TXT        = Path("data/raumzeit_de.txt")          # CC BY-NC-SA 3.0 DE
+FORSCHERGEIST_TXT   = Path("data/forschergeist_de.txt")     # CC BY-NC-SA 3.0 DE
+CRE_TXT             = Path("data/cre_de.txt")               # CC BY-NC-SA 3.0 DE
+CCC_CONGRESS_TXT    = Path("data/ccc_congress_de.txt")      # CC BY 3.0
+OUTPUT_DIR          = Path("models/de_keyboard")
 
-# Sampling-Gewichte (relativ zueinander)
-# Tatoeba: sauber, alltagsnah            → 3×
-# mC4:     groß, gemischt                → 1×
-# Synthese: keyboard-spezifisch, klein   → 6×
-# Privat:  echter Schreibstil, sehr klein → 6×
-TATOEBA_WEIGHT        = 3
-C4_WEIGHT             = 1
-SYNTHETIC_WEIGHT      = 3
-PRIVATE_WEIGHT        = 2
-PARLAMENTSREVUE_WEIGHT = 2  # gesprochenes Hochdeutsch, Whisper-Transkript
-LNP_WEIGHT            = 2  # gesprochenes Hochdeutsch, Whisper-Transkript
+# ── Sampling-Gewichte ─────────────────────────────────────────────────────────
+TATOEBA_WEIGHT        = 3   # sauber, alltagsnah
+C4_WEIGHT             = 1   # groß, gemischt
+SYNTHETIC_WEIGHT      = 3   # keyboard-spezifisch
+PRIVATE_WEIGHT        = 2   # echter Schreibstil
+PARLAMENTSREVUE_WEIGHT = 2  # gesprochenes Hochdeutsch
+LNP_WEIGHT            = 2   # gesprochenes Hochdeutsch
+PODCAST_WEIGHT        = 2   # alle weiteren Podcast-Quellen
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
@@ -62,7 +70,7 @@ MODEL_CONFIG = dict(
     num_hidden_layers=10,
     num_attention_heads=8,
     intermediate_size=2048,
-    max_position_embeddings=256,   # Keyboard-LM braucht keinen langen Kontext
+    max_position_embeddings=256,
     rms_norm_eps=1e-5,
     rope_theta=10000.0,
     attention_bias=False,
@@ -71,15 +79,16 @@ MODEL_CONFIG = dict(
 
 # ── Training-Hyperparameter ───────────────────────────────────────────────────
 CONTEXT_LEN        = 256
-BATCH_SIZE         = 32    # pro GPU
-GRAD_ACCUM         = 8     # effektive Batchgröße = 256
+BATCH_SIZE         = 64    # v0.5: 64 statt 32 — 7900 XTX hat genug VRAM
+GRAD_ACCUM         = 4     # effektive Batchgröße bleibt 256
 LR                 = 3e-4
 LR_WARMUP_STEPS    = 1000
 WEIGHT_DECAY       = 0.1
 MAX_GRAD_NORM      = 1.0
 SAVE_STEPS         = 5_000
 LOGGING_STEPS      = 200
-SNAPSHOT_DIR       = Path("data/snapshots")  # overridden by --version at runtime
+SNAPSHOT_DIR       = Path("data/snapshots")
+
 
 # ── Tokenizer ─────────────────────────────────────────────────────────────────
 
@@ -91,14 +100,12 @@ def load_tokenizer() -> LlamaTokenizer:
         "unk_token": "<unk>",
         "pad_token": "<unk>",
     })
-    # FUTO-Autocorrect-Tokens sind bereits im SP-Modell als user_defined_symbols
     return tok
 
 
 # ── Dataset ───────────────────────────────────────────────────────────────────
 
 def line_generator(path: Path):
-    """Endloser Generator über eine Textdatei (wiederholt sich nach Ende)."""
     while True:
         with path.open("r", encoding="utf-8") as f:
             lines = f.readlines()
@@ -107,7 +114,6 @@ def line_generator(path: Path):
 
 
 def mixed_generator(no_synthetic: bool = False):
-    """Mischt alle verfügbaren Quellen gewichtet."""
     sources = []
     if TATOEBA_TXT.exists():
         sources.append((line_generator(TATOEBA_TXT), TATOEBA_WEIGHT))
@@ -120,8 +126,11 @@ def mixed_generator(no_synthetic: bool = False):
         sources.append((line_generator(PRIVATE_TXT), PRIVATE_WEIGHT))
     if PARLAMENTSREVUE_TXT.exists():
         sources.append((line_generator(PARLAMENTSREVUE_TXT), PARLAMENTSREVUE_WEIGHT))
-    if LNP_TXT.exists():
-        sources.append((line_generator(LNP_TXT), LNP_WEIGHT))
+
+    for podcast in [LNP_TXT, MINKORREKT_TXT, RAUMZEIT_TXT,
+                    FORSCHERGEIST_TXT, CRE_TXT, CCC_CONGRESS_TXT]:
+        if podcast.exists():
+            sources.append((line_generator(podcast), PODCAST_WEIGHT))
 
     if not sources:
         raise FileNotFoundError("Keine Trainingsdaten gefunden.")
@@ -143,11 +152,6 @@ def mixed_generator(no_synthetic: bool = False):
 
 
 def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int, no_synthetic: bool = False):
-    """
-    Gibt einen IterableDataset zurück der tokenisierte Chunks der Länge
-    context_len liefert. Sätze werden zu langen Sequenzen verkettet
-    (mit <s>/</ s> als Trennzeichen) und dann in Chunks geschnitten.
-    """
     bos = tokenizer.bos_token_id
     eos = tokenizer.eos_token_id
 
@@ -169,8 +173,6 @@ def tokenize_and_chunk(tokenizer: LlamaTokenizer, context_len: int, no_synthetic
 # ── Milestone-Callback ────────────────────────────────────────────────────────
 
 class MilestoneCallback(TrainerCallback):
-    """Speichert permanente Snapshots bei bestimmten Schritten."""
-
     def __init__(self, milestones: set[int], snapshot_dir: Path, tokenizer):
         self.milestones   = milestones
         self.snapshot_dir = snapshot_dir
@@ -180,7 +182,8 @@ class MilestoneCallback(TrainerCallback):
         if state.global_step in self.milestones:
             out = self.snapshot_dir / f"step_{state.global_step:06d}"
             out.mkdir(parents=True, exist_ok=True)
-            model.save_pretrained(str(out))
+            unwrapped = model._orig_mod if hasattr(model, "_orig_mod") else model
+            unwrapped.save_pretrained(str(out))
             self.tokenizer.save_pretrained(str(out))
             print(f"\n[Milestone] → {out}", flush=True)
 
@@ -194,9 +197,9 @@ def build_model(tokenizer: LlamaTokenizer) -> LlamaForCausalLM:
         bos_token_id=tokenizer.bos_token_id,
         eos_token_id=tokenizer.eos_token_id,
     )
-    model = LlamaForCausalLM(config)
+    model = LlamaForCausalLM(config, attn_implementation="sdpa")
     params = sum(p.numel() for p in model.parameters())
-    print(f"Modell: {params/1e6:.1f}M Parameter")
+    print(f"Modell: {params/1e6:.1f}M Parameter  |  Attention: SDPA")
     return model
 
 
@@ -204,22 +207,14 @@ def build_model(tokenizer: LlamaTokenizer) -> LlamaForCausalLM:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--no-synthetic", action="store_true",
-                        help="Synthetic-Daten weglassen (Phase 1 Base-Training)")
-    parser.add_argument("--steps",  type=int, default=200_000,
-                        help="Trainingsschritte gesamt (default: 200k)")
-    parser.add_argument("--milestones", default=",".join(str(s) for s in range(50_000, 200_001, 10_000)),
-                        help="Kommagetrennte Schritte für permanente Snapshots "
-                             "(default: 50k–200k alle 10k)")
-    parser.add_argument("--version", default="v0.4",
-                        help="Versionsstring fuer Snapshot-Verzeichnis (default: v0.4)")
-    parser.add_argument("--resume", action="store_true",
-                        help="Von letztem Checkpoint weitermachen")
+    parser.add_argument("--no-synthetic", action="store_true")
+    parser.add_argument("--steps",  type=int, default=200_000)
+    parser.add_argument("--milestones", default=",".join(str(s) for s in range(50_000, 200_001, 10_000)))
+    parser.add_argument("--version", default="v0.5")
+    parser.add_argument("--resume", action="store_true")
     args = parser.parse_args()
 
     milestones = {int(s) for s in args.milestones.split(",") if s.strip()}
-
-    # Versionsbasiertes Snapshot-Verzeichnis — verhindert Ueberschreiben
     snapshot_dir = Path("data/snapshots") / args.version
 
     if not SP_MODEL.exists():
@@ -237,10 +232,16 @@ def main():
 
     print("Baue Modell ...")
     if args.resume and (OUTPUT_DIR / "config.json").exists():
-        model = LlamaForCausalLM.from_pretrained(str(OUTPUT_DIR))
+        model = LlamaForCausalLM.from_pretrained(
+            str(OUTPUT_DIR), attn_implementation="sdpa"
+        )
         print("  → Checkpoint geladen")
     else:
         model = build_model(tokenizer)
+
+    # torch.compile: fusioniert Operationen für RDNA3-Shader (~10-20% schneller)
+    print("Kompiliere Modell (einmalig ~60s) ...")
+    model = torch.compile(model)
 
     print("Erstelle Dataset ...")
     dataset = tokenize_and_chunk(tokenizer, CONTEXT_LEN, no_synthetic=args.no_synthetic)
@@ -249,11 +250,9 @@ def main():
         output_dir=str(OUTPUT_DIR),
         max_steps=args.steps,
 
-        # Batch
         per_device_train_batch_size=BATCH_SIZE,
         gradient_accumulation_steps=GRAD_ACCUM,
 
-        # Optimierer
         learning_rate=LR,
         lr_scheduler_type="cosine",
         warmup_steps=LR_WARMUP_STEPS,
@@ -261,29 +260,20 @@ def main():
         max_grad_norm=MAX_GRAD_NORM,
         optim="adamw_torch",
 
-        # Gradient Checkpointing deaktiviert (seq_len=256 passt in VRAM, ~30% schneller)
         gradient_checkpointing=False,
-        bf16=True,              # RX 7900 XTX unterstützt BF16
+        bf16=True,
 
-        # Logging & Speichern
         logging_steps=LOGGING_STEPS,
         save_steps=SAVE_STEPS,
-        save_total_limit=3,     # max. 3 Checkpoints behalten
+        save_total_limit=3,
 
-        # Kein Eval (kein Validation-Set)
         do_eval=False,
-
-        # Reproduzierbarkeit
         seed=42,
-        dataloader_num_workers=0,  # IterableDataset verträgt kein Multiprocessing-Pickling
-
+        dataloader_num_workers=0,
         report_to="none",
     )
 
-    collator = DataCollatorForLanguageModeling(
-        tokenizer=tokenizer,
-        mlm=False,   # Causal LM, kein Masked LM
-    )
+    collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 
     snapshot_dir.mkdir(parents=True, exist_ok=True)
     milestone_cb = MilestoneCallback(milestones, snapshot_dir, tokenizer)
@@ -296,23 +286,21 @@ def main():
         callbacks=[milestone_cb],
     )
 
-    print(f"\nStarte Training für {args.steps:,} Schritte ...")
-    print(f"  Effektive Batchgröße: {BATCH_SIZE * GRAD_ACCUM}")
+    podcast_sources = [p.stem for p in [LNP_TXT, MINKORREKT_TXT, RAUMZEIT_TXT,
+                       FORSCHERGEIST_TXT, CRE_TXT, CCC_CONGRESS_TXT] if p.exists()]
+
+    print(f"\nStarte Training v0.5 für {args.steps:,} Schritte ...")
+    print(f"  Effektive Batchgröße: {BATCH_SIZE * GRAD_ACCUM}  (batch={BATCH_SIZE}, accum={GRAD_ACCUM})")
     print(f"  Kontext:              {CONTEXT_LEN} Tokens")
-    active = []
-    if TATOEBA_TXT.exists():   active.append(f"Tatoeba({TATOEBA_WEIGHT}×)")
-    if C4_TXT.exists():        active.append(f"mC4({C4_WEIGHT}×)")
-    for syn in syn_files:
-        active.append(f"{syn.stem}({SYNTHETIC_WEIGHT}×)")
-    if PRIVATE_TXT.exists():   active.append(f"privat({PRIVATE_WEIGHT}×)")
-    print(f"  Corpus:               {' + '.join(active)}")
+    print(f"  Podcasts aktiv:       {', '.join(podcast_sources) or 'keine'}")
     print(f"  Snapshots bei:        {sorted(milestones)}")
 
     resume_from = str(OUTPUT_DIR) if args.resume else None
     trainer.train(resume_from_checkpoint=resume_from)
 
     print("\nSpeichere finales Modell ...")
-    trainer.save_model(str(OUTPUT_DIR))
+    unwrapped = model._orig_mod if hasattr(model, "_orig_mod") else model
+    unwrapped.save_pretrained(str(OUTPUT_DIR))
     tokenizer.save_pretrained(str(OUTPUT_DIR))
     print(f"Fertig: {OUTPUT_DIR}")
     print("Nächster Schritt: .venv_ml/bin/python 06_convert_to_gguf.py")

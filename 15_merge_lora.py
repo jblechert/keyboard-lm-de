@@ -22,9 +22,9 @@ from transformers import LlamaForCausalLM, LlamaTokenizer
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
 SP_MODEL    = Path("data/tokenizer/de_keyboard.model")
-BASE_MODEL  = Path("data/model_hf")
+BASE_MODEL  = Path("models/de_keyboard")
 ADAPTER_DIR = Path("data/adapters")
-MERGED_DIR  = Path("data/model_merged")
+MERGED_DIR  = Path("models/de_keyboard_merged")
 
 
 def main():

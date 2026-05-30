@@ -28,7 +28,7 @@ from datasets import IterableDataset
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
 SP_MODEL    = Path("data/tokenizer/de_keyboard.model")
-BASE_MODEL  = Path("data/model_hf")
+BASE_MODEL  = Path("models/de_keyboard")
 ADAPTER_DIR = Path("data/adapters")
 
 # ── LoRA-Konfiguration ────────────────────────────────────────────────────────

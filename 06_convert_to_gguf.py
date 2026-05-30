@@ -4,7 +4,7 @@ Converts a trained HuggingFace Llama model + SentencePiece tokenizer
 into a GGUF file compatible with FUTO Keyboard.
 
 Input:
-  data/model_hf/                     HuggingFace model directory (from 05_train_model.py)
+  models/de_keyboard/                     HuggingFace model directory (from 05_train_model.py)
   data/tokenizer/de_keyboard.model   SentencePiece model (from 04_train_tokenizer.py)
 
 Output:
@@ -26,7 +26,7 @@ import torch
 from transformers import LlamaConfig, LlamaForCausalLM
 from gguf import GGUFWriter, GGMLQuantizationType, TokenType
 
-MODEL_HF_DIR = Path("data/model_hf")
+MODEL_HF_DIR = Path("models/de_keyboard")
 SP_MODEL     = Path("data/tokenizer/de_keyboard.model")
 OUT_GGUF     = Path("data/de_keyboard.gguf")
 

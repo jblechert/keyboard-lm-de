@@ -34,7 +34,7 @@ from pathlib import Path
 import torch
 from transformers import LlamaForCausalLM, LlamaTokenizer
 
-MODEL_DIR  = Path("data/model_hf")
+MODEL_DIR  = Path("models/de_keyboard")
 SP_MODEL   = Path("data/tokenizer/de_keyboard.model")
 
 SOURCES = [
