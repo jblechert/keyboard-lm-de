@@ -40,8 +40,11 @@ WEB_ARTIFACTS = [
      "Satzende mit Abkürzung (abgeschnittener Satz)"),
 
     # Strukturelle Artefakte
+    (r"^-\s+\S",            "Zeile beginnt mit Listenpunkt (- item)"),
     (r"^\[",                 "Zeile beginnt mit [ (Blog-Tag, Kategorie-Header)"),
     (r"(?:.*#){3}",          "≥3 Hashtags (Social-Media-Tag-Spam)"),
+    (r"^(?:(?![äöüÄÖÜß]).)*\b(?:the|find|visit|recent|your|with|from|that|this|have|will|are|were|been|their|they|what|which|when|where|how|you|our|more|also|most|some|all|can|not|for|its|but|and|has|was|his|her)\b(?:(?![äöüÄÖÜß]).)*$",
+     "Englischer Satz (keine Umlaute + englische Funktionswörter)", re.IGNORECASE),
     (r"(?:[^>]*>){3}",       "≥3 > (Breadcrumb-Navigation)"),
     (r"\[[A-Z\xc4\xd6\xdc][a-zA-Z\xc4\xd6\xdc\xe4\xf6\xfc\xdf]{1,20}\]",
      "Bracket-Tag ([Top], [Kategorie]) — Navigation/Template-Artefakt"),
