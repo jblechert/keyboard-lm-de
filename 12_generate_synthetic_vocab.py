@@ -346,7 +346,8 @@ Wichtige Regeln:
 - Korrekte Rechtschreibung und Grammatik
 - Keine Anführungszeichen, keine Nummerierung, kein Kommentar
 - Genau eine Zeile pro Satz, keine Leerzeilen
-- Abwechslungsreich: verschiedene Personen, Kontexte, Tonlagen"""
+- Abwechslungsreich: verschiedene Personen, Kontexte, Tonlagen
+- Jeder Satz beginnt mit einem Großbuchstaben"""
 
 
 def build_prompt(topic: dict, n: int) -> str:
@@ -391,6 +392,8 @@ def parse_sentences(raw: str) -> list[str]:
             continue
         if line.startswith('"') and line.endswith('"'):
             line = line[1:-1].strip()
+        if line:
+            line = line[0].upper() + line[1:]
         lines.append(line)
     return lines
 
@@ -442,42 +445,51 @@ def main():
     total_collected = 0
     t_start = time.time()
 
-    for i, (key, topic) in enumerate(selected.items()):
+    # Zähle bereits vorhandene Sätze pro Topic
+    counts = {}
+    for key in selected:
         out_path = out_dir / f"synthetic_{key}.txt"
-        collected = 0
-        errors = 0
-        print(f"[{i+1}/{len(selected)}] {topic['name']}  →  {out_path.name}")
+        counts[key] = sum(1 for _ in out_path.open(encoding="utf-8")) if out_path.exists() else 0
 
-        with out_path.open("a", encoding="utf-8") as f:
-            while collected < args.per_topic:
-                n = min(args.batch, args.per_topic - collected)
-                try:
-                    raw = ollama_chat(
-                        host=args.host,
-                        model=args.model,
-                        system=SYSTEM_PROMPT,
-                        user=build_prompt(topic, n),
-                        max_tokens=n * 40,
-                    )
-                    sentences = parse_sentences(raw)
+    # Round-Robin: eine Batch pro Topic pro Runde bis alle per_topic erreicht
+    topic_keys = list(selected.keys())
+    errors_per_topic = {k: 0 for k in topic_keys}
 
+    while any(counts[k] < args.per_topic for k in topic_keys):
+        for key in topic_keys:
+            if counts[key] >= args.per_topic:
+                continue
+            topic = selected[key]
+            out_path = out_dir / f"synthetic_{key}.txt"
+            n = min(args.batch, args.per_topic - counts[key])
+            pct = int(counts[key] / args.per_topic * 100)
+            print(f"  [{key}] {counts[key]}/{args.per_topic} ({pct}%)", end=" ", flush=True)
+            try:
+                raw = ollama_chat(
+                    host=args.host,
+                    model=args.model,
+                    system=SYSTEM_PROMPT,
+                    user=build_prompt(topic, n),
+                    max_tokens=n * 40,
+                )
+                sentences = parse_sentences(raw)
+                with out_path.open("a", encoding="utf-8") as f:
                     for s in sentences:
                         f.write(s + "\n")
-                    f.flush()
-                    collected += len(sentences)
-                    total_collected += len(sentences)
-                    print(f"  {collected}/{args.per_topic} Sätze")
-
-                except KeyboardInterrupt:
-                    print(f"\nAbgebrochen. {total_collected} Sätze gespeichert.")
-                    return
-                except Exception as e:
-                    print(f"  Fehler: {e}", file=sys.stderr)
-                    errors += 1
-                    if errors > 3:
-                        print(f"  Zu viele Fehler bei '{key}', überspringe.")
-                        break
-                    time.sleep(2)
+                counts[key] += len(sentences)
+                total_collected += len(sentences)
+                errors_per_topic[key] = 0
+                print(f"+{len(sentences)}")
+            except KeyboardInterrupt:
+                print(f"\nAbgebrochen. {total_collected} Sätze gespeichert.")
+                return
+            except Exception as e:
+                print(f"  Fehler: {e}", file=sys.stderr)
+                errors_per_topic[key] += 1
+                if errors_per_topic[key] > 3:
+                    print(f"  Zu viele Fehler bei '{key}', überspringe.")
+                    break
+                time.sleep(2)
 
     elapsed = time.time() - t_start
     print(f"\nFertig: {total_collected} Sätze in {elapsed/60:.1f} min")
