@@ -49,22 +49,28 @@ def fetch_vtt(n: int) -> str | None:
 
 
 def parse_vtt(vtt: str) -> list[str]:
-    """Extrahiert S\xe4tze aus VTT — merged aufgeteilte Segmente."""
     lines = []
+    in_note = False
     for line in vtt.splitlines():
         line = line.strip()
-        if not line or line.startswith("WEBVTT") or line.startswith("NOTE") or "-->" in line:
+        if not line:
+            in_note = False
+            continue
+        if line.startswith("NOTE"):
+            in_note = True
+            continue
+        if in_note:
+            continue
+        if line.startswith("WEBVTT") or "-->" in line:
             continue
         if re.match(r"^\d+$", line):
             continue
         line = re.sub(r"^<v [^>]+>", "", line)
-        line = re.sub(r"<[^>]+>", "", line)
-        line = line.strip()
+        line = re.sub(r"<[^>]+>", "", line).strip()
         if line:
             lines.append(line)
 
-    merged = []
-    buf = ""
+    merged, buf = [], ""
     for line in lines:
         buf = (buf + " " + line).strip() if buf else line
         if re.search(r"[.!?]\s*$", buf):
@@ -72,7 +78,6 @@ def parse_vtt(vtt: str) -> list[str]:
             buf = ""
     if buf:
         merged.append(buf)
-
     return [s for s in merged if len(s.split()) >= 4]
 
 

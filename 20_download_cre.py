@@ -55,9 +55,18 @@ def parse_rss(feed: str) -> list[tuple[str, str]]:
 
 def parse_vtt(vtt: str) -> list[str]:
     lines = []
+    in_note = False
     for line in vtt.splitlines():
         line = line.strip()
-        if not line or line.startswith("WEBVTT") or line.startswith("NOTE") or "-->" in line:
+        if not line:
+            in_note = False
+            continue
+        if line.startswith("NOTE"):
+            in_note = True
+            continue
+        if in_note:
+            continue
+        if line.startswith("WEBVTT") or "-->" in line:
             continue
         if re.match(r"^\d+$", line):
             continue
