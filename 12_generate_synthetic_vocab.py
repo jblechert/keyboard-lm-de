@@ -337,6 +337,168 @@ TOPICS = {
             "Kannst du das als Expresslieferung aufgeben? Ich brauch das morgen.",
         ],
     },
+    "familie": {
+        "name": "Familie & Kindererziehung",
+        "beschreibung": (
+            "Sätze rund um Familie, Kinder, Erziehung, Elternschaft — "
+            "von der Windel bis zum Teenager. Alltagsgespräche unter Eltern, "
+            "Großeltern, Geschwister, Familienplanung, Scheidung, Patchwork."
+        ),
+        "beispiele": [
+            "Unser Kleiner schläft seit Wochen durch, endlich.",
+            "Meine Mutter passt heute auf die Kinder auf, wir haben mal Abend für uns.",
+            "Wie erkläre ich meinem Sohn warum wir uns getrennt haben?",
+            "Der Kindergarten hat wieder zugemacht, ich bin am Limit.",
+            "Mit Teenagern reden ist manchmal echt schwierig.",
+            "Wir überlegen ob wir noch ein zweites Kind wollen.",
+            "Meine Schwiegermutter mischt sich in die Erziehung ein.",
+            "Das Taschengeld erhöhen oder nicht, darüber streiten wir grade.",
+        ],
+    },
+    "schule": {
+        "name": "Schule & Studium",
+        "beschreibung": (
+            "Sätze über Schule, Uni, Ausbildung, Prüfungen, Hausaufgaben — "
+            "aus Sicht von Schülern, Studenten und Eltern. Noten, Stress, "
+            "Semesterferien, Bafög, Abitur, Master, Dissertation."
+        ),
+        "beispiele": [
+            "Die Matheprüfung war katastrophal, ich glaub ich fall durch.",
+            "Wann ist eigentlich Anmeldeschluss für das Wintersemester?",
+            "Mein Kind hat wieder die Hausaufgaben vergessen.",
+            "Das Bafög reicht hinten und vorne nicht.",
+            "Ich schreibe nächste Woche meine Bachelorarbeit fertig, hoffe ich.",
+            "Die Lehrerin hat angerufen wegen dem Verhalten in der Schule.",
+            "Welches Fach soll ich studieren? Ich bin so unentschlossen.",
+            "Das Abitur war stressiger als ich dachte.",
+        ],
+    },
+    "beziehungen": {
+        "name": "Freundschaft, Beziehungen & Dating",
+        "beschreibung": (
+            "Sätze über Freundschaften, romantische Beziehungen, Dating-Apps, "
+            "Trennung, Eifersucht, Flirten, lange Beziehungen, Vertrauen. "
+            "Wie Menschen im echten Leben darüber reden."
+        ),
+        "beispiele": [
+            "Wir haben uns über Tinder kennengelernt, nach zwei Jahren.",
+            "Meine beste Freundin und ich streiten uns gerade.",
+            "Er hat mich seit drei Tagen nicht mehr geschrieben.",
+            "Wir sind seit zehn Jahren zusammen und überlegen zu heiraten.",
+            "Fernbeziehungen sind echt anstrengend auf Dauer.",
+            "Ich hab Schluss gemacht, es war einfach nicht mehr das Richtige.",
+            "Dating mit Mitte 40 ist total anders als früher.",
+            "Meine Freunde machen sich Sorgen um mich seit der Trennung.",
+        ],
+    },
+    "arbeit": {
+        "name": "Arbeit & Büro",
+        "beschreibung": (
+            "Sätze über den Arbeitsalltag, Büro, Kollegen, Chef, Meetings, "
+            "Homeoffice, Bewerbungen, Kündigung, Überstunden, Gehaltserhöhung. "
+            "So reden Arbeitnehmer und Arbeitgeber im echten Leben."
+        ),
+        "beispiele": [
+            "Das Meeting heute hätte auch eine E-Mail sein können.",
+            "Mein Chef erwartet dass ich am Wochenende erreichbar bin.",
+            "Im Homeoffice bin ich irgendwie produktiver als im Büro.",
+            "Ich bewerbe mich gerade auf eine neue Stelle, bin nervös.",
+            "Die Kollegin nervt mich schon seit Monaten extrem.",
+            "Wir bekommen wieder keine Gehaltserhöhung dieses Jahr.",
+            "Der neue Job zahlt mehr, aber die Fahrt ist viel weiter.",
+            "Ich hab heute meinen letzten Tag, danach bin ich endlich weg.",
+        ],
+    },
+    "finanzen": {
+        "name": "Finanzen & Banking",
+        "beschreibung": (
+            "Sätze über Geld, Bank, Konto, Kredit, Versicherung, Altersvorsorge, "
+            "Steuern, Investieren, Sparen, Schulden — wie Normalverbraucher "
+            "darüber sprechen, kein Finanzjargon."
+        ),
+        "beispiele": [
+            "Der Dispo ist schon wieder am Limit, ich weiß nicht wie das passiert.",
+            "Ich verstehe meine Steuererklärung nicht wirklich.",
+            "Soll ich in ETFs investieren oder lieber auf dem Tagesgeld lassen?",
+            "Die Kreditkarte wurde abgelehnt, peinlich an der Kasse.",
+            "Meine Rentenversicherung reicht hinten und vorne nicht.",
+            "Ich versuche jeden Monat 200 Euro zur Seite zu legen.",
+            "Die Bankgebühren sind gestiegen, ich überleg zu wechseln.",
+            "Wir haben endlich den Kredit für das Haus bekommen.",
+        ],
+    },
+    "haustiere": {
+        "name": "Haustiere",
+        "beschreibung": (
+            "Sätze über Hunde, Katzen, Vögel, Fische und andere Haustiere — "
+            "Pflege, Tierarzt, Futter, Erziehung, Verhalten, Verlust. "
+            "So reden Tierbesitzer im Alltag."
+        ),
+        "beispiele": [
+            "Mein Hund hat schon wieder die Socken zerkaut.",
+            "Die Katze frisst nur das teure Futter, kein anderes.",
+            "Beim Tierarzt war es mal wieder teurer als erwartet.",
+            "Mein alter Hund muss bald eingeschläfert werden, das tut weh.",
+            "Wo darf ich mit dem Hund im Urlaub hin?",
+            "Die Katze und der Hund mögen sich endlich nach einem Jahr.",
+            "Mein Wellensittich lernt gerade sprechen, ist total süß.",
+            "Im Urlaub muss jemand auf die Katze aufpassen.",
+        ],
+    },
+    "wetter": {
+        "name": "Wetter & Jahreszeiten",
+        "beschreibung": (
+            "Sätze über das Wetter, Jahreszeiten, Klimawandel, Unwetter, "
+            "Urlaubswetter, Hitze, Schnee — so wie Deutsche und Österreicher "
+            "täglich über das Wetter reden."
+        ),
+        "beispiele": [
+            "Es wird wieder mal zu heiß für meinen Geschmack.",
+            "Hoffentlich kommt der Sommer dieses Jahr auch mal nach Bayern.",
+            "Der Schnee macht alles so still, ich mag das.",
+            "Laut Wetterapp soll es morgen endlich aufhören zu regnen.",
+            "Solche Unwetter gab es früher nicht so oft.",
+            "Der Herbst ist meine Lieblingszeit im Jahr.",
+            "Dreißig Grad im Schatten und kein Gewitter in Sicht.",
+            "Der Winter in Wien ist grau aber irgendwie gemütlich.",
+        ],
+    },
+    "gaming": {
+        "name": "Videospiele & Gaming",
+        "beschreibung": (
+            "Sätze über Videospiele, Konsolen, PC-Gaming, Mobile Games, "
+            "Streaming, Esports — von Gelegenheitsspielern bis Hardcore-Gamern. "
+            "So reden Spieler wirklich miteinander."
+        ),
+        "beispiele": [
+            "Das neue Update hat alles kaputt gemacht, ich bin so frustriert.",
+            "Ich zock seit Stunden und merk gar nicht wie spät es wird.",
+            "Welche Grafikkarte lohnt sich gerade für den Preis?",
+            "Das Spiel ist schon zwei Jahre alt aber immer noch top.",
+            "Ich hab endlich den letzten Boss besiegt nach zwanzig Versuchen.",
+            "Mobile Games sind meistens Abzocke mit Mikrotransaktionen.",
+            "Meine Eltern verstehen nicht warum ich so viel zocke.",
+            "Der neue Season-Pass kostet wieder mal zu viel.",
+        ],
+    },
+    "hobbys": {
+        "name": "Hobbys & Basteln",
+        "beschreibung": (
+            "Sätze über Hobbys wie Fotografieren, Gärtnern, Stricken, Malen, "
+            "Basteln, Heimwerken, Sammeln, Modellbau, Kochen als Hobby — "
+            "wie Hobbyisten unter sich sprechen."
+        ),
+        "beispiele": [
+            "Ich hab endlich meine erste eigene Tomate geerntet.",
+            "Das Objektiv ist teuer aber für Porträts einfach unschlagbar.",
+            "Ich stricke gerade einen Pullover, der dritte Anlauf klappt besser.",
+            "Die Aquarellfarben laufen immer zu sehr, ich übe noch.",
+            "Mein Modellbau-Projekt nimmt endlich Form an.",
+            "Im Schrebergarten bin ich einfach glücklich.",
+            "Ich hab das alte Rezept meiner Oma endlich perfektioniert.",
+            "Für die Makrofotografie brauche ich unbedingt ein Stativ.",
+        ],
+    },
     "reise": {
         "name": "Reisen & Urlaub",
         "beschreibung": (
