@@ -181,7 +181,14 @@ LANG_EXCLUDE = [
     (r"[ऀ-ॿ]",    "Devanagari"),
 ]
 
-BANNED = WEB_ARTIFACTS + LANG_DE + LANG_EXCLUDE
+# ── Gesprochene Sprache / Transkripte ─────────────────────────────────────────
+# Whisper-spezifische Artefakte aus Podcast-Transkripten
+SPEECH_ARTIFACTS = [
+    (r"\s+(und|oder|aber|denn|sondern)\.?\s*$",     "Satz endet mit Konjunktion"),
+    (r"(\w)\1{3,}",                                   "Stottern/Wiederholung (aaaa)"),
+]
+
+BANNED = WEB_ARTIFACTS + LANG_DE + LANG_EXCLUDE + SPEECH_ARTIFACTS
 
 # ── Ersetzungen ───────────────────────────────────────────────────────────────
 # Jeder Eintrag: (compiled_pattern, replacement, beschreibung)
@@ -224,12 +231,18 @@ def _build_replacements():
         # Semikolon: wort;Wort -> wort; Wort
         (r'([a-z\xe4\xf6\xfc\xdf]);([A-Za-z\xc4\xd6\xdc\xe4\xf6\xfc])', r'\1; \2',
          'Fehlender Abstand nach Semikolon'),
+        # Gesprochene Füllwörter entfernen (Whisper-Artefakte aus Podcasts)
+        (r'\s*\b(?:ähm+|äh|öh|hmm?|mhm|ehm)\b\s*', ' ',
+         'Füllwort ersetzen (ähm/äh → leer)'),
+        (r'  +', ' ', 'Doppeltes Leerzeichen'),
+        (r',\s*,', ',', 'Doppeltes Komma nach Füllwort'),
     ]
-    return [(re.compile(p), repl, desc) for p, repl, desc in pairs]
+    return [(re.compile(p, re.UNICODE), repl, desc) for p, repl, desc in pairs]
 
 REPLACEMENTS = _build_replacements()
 
 MIN_WORDS = 4   # Zeilen mit weniger Woertern nach allen Replacements verwerfen
+MAX_WORDS = 60  # Podcast-Run-ons: Sätze über 60 Wörter raus
 
 # ── Quelldateien ──────────────────────────────────────────────────────────────
 
@@ -237,6 +250,12 @@ SOURCES = [
     Path("data/tatoeba_de.txt"),
     Path("data/c4_de.txt"),
     *sorted(Path("data").glob("synthetic_*.txt")),
+    Path("data/parlamentsrevue_de.txt"),
+    Path("data/lnp_de.txt"),
+    Path("data/minkorrekt_de.txt"),
+    Path("data/raumzeit_de.txt"),
+    Path("data/forschergeist_de.txt"),
+    Path("data/cre_de.txt"),
 ]
 
 
@@ -316,7 +335,8 @@ def main():
                         if n:
                             replacement_counts[desc] += n
                             line = new_line
-                    if len(line.split()) < MIN_WORDS:
+                    words = len(line.split())
+                    if words < MIN_WORDS or words > MAX_WORDS:
                         n_short_removed += 1
                     else:
                         fout.write(line)
