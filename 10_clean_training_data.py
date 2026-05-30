@@ -232,7 +232,7 @@ def _build_replacements():
         (r'([a-z\xe4\xf6\xfc\xdf]);([A-Za-z\xc4\xd6\xdc\xe4\xf6\xfc])', r'\1; \2',
          'Fehlender Abstand nach Semikolon'),
         # Gesprochene Füllwörter entfernen (Whisper-Artefakte aus Podcasts)
-        (r'\s*\b(?:ähm+|äh|öh|hmm?|mhm|ehm)\b\s*', ' ',
+        (r'(?i)\s*\b(?:ähm+|äh|öh|hmm?|mhm|ehm)\b\s*', ' ',
          'Füllwort ersetzen (ähm/äh → leer)'),
         (r'  +', ' ', 'Doppeltes Leerzeichen'),
         (r',\s*,', ',', 'Doppeltes Komma nach Füllwort'),
@@ -335,6 +335,9 @@ def main():
                         if n:
                             replacement_counts[desc] += n
                             line = new_line
+                    line = line.strip()
+                    if line:
+                        line = line[0].upper() + line[1:]
                     words = len(line.split())
                     if words < MIN_WORDS or words > MAX_WORDS:
                         n_short_removed += 1
