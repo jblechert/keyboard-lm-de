@@ -318,6 +318,25 @@ TOPICS = {
             "Die Stiefel sind reduziert, ich überleg noch.",
         ],
     },
+    "logistik": {
+        "name": "Logistik, Pakete & Versand",
+        "beschreibung": (
+            "Sätze rund um Pakete, Briefe, Versand und Lieferung im Alltag — "
+            "aber auch professionelle Logistik: Spedition, Zollverfahren, Lager, "
+            "Lieferketten, Import/Export. So wie echte Menschen darüber sprechen, "
+            "vom Paket das nicht ankommt bis zur Zollanmeldung."
+        ),
+        "beispiele": [
+            "Mein Paket ist schon drei Tage unterwegs, die Sendungsverfolgung hilft nicht.",
+            "Bei DHL muss ich immer zum Paketshop, die liefern nie direkt.",
+            "Was muss ich beim Zoll angeben wenn ich das aus den USA bestelle?",
+            "Die Spedition hat den falschen Liefertermin angegeben, jetzt steht das auf dem Hof.",
+            "Das Zollverfahren bei Importen aus China dauert manchmal ewig.",
+            "Ich hab den Abholschein bekommen, obwohl ich zu Hause war.",
+            "Die Lieferkette war durch den Streik komplett unterbrochen.",
+            "Kannst du das als Expresslieferung aufgeben? Ich brauch das morgen.",
+        ],
+    },
     "reise": {
         "name": "Reisen & Urlaub",
         "beschreibung": (
