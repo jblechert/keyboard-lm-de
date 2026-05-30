@@ -18,6 +18,13 @@ import sentencepiece as spm
 SOURCES = [
     Path("data/tatoeba_de.txt"),
     Path("data/c4_de.txt"),
+    Path("data/fineweb2_de.txt"),
+    Path("data/parlamentsrevue_de.txt"),
+    Path("data/lnp_de.txt"),
+    Path("data/minkorrekt_de.txt"),
+    Path("data/raumzeit_de.txt"),
+    Path("data/forschergeist_de.txt"),
+    Path("data/cre_de.txt"),
     *sorted(Path("data").glob("synthetic_*.txt")),
 ]
 OUT_DIR     = Path("data/tokenizer")
@@ -70,7 +77,7 @@ def main():
         add_dummy_prefix=False,      # kein Dummy-Leerzeichen am Satzanfang
 
         # SP sampelt zufällig — 2M Sätze reichen für gutes Vokabular
-        input_sentence_size=2_000_000,
+        input_sentence_size=0,  # 0 = kein Limit, alle Sätze verwenden
         shuffle_input_sentence=True,
 
         # Reservierte Plätze für unsere Special Tokens
