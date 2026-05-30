@@ -13,7 +13,6 @@ Output:
   models/de_keyboard/              HuggingFace Checkpoint
 
 v0.5-Änderungen:
-  - Flash Attention (SDPA) via attn_implementation="sdpa"
   - torch.compile() für Kernel-Fusion auf RDNA3
   - Batch 64 statt 32 (GRAD_ACCUM 4, effektiv 256 gleich)
   - Neue Quellen: CRE, Raumzeit, Forschergeist, MI, CCC Congress
@@ -28,6 +27,8 @@ import os
 import random
 from pathlib import Path
 
+import threading
+import time
 import torch
 from transformers import (
     LlamaConfig,
@@ -39,6 +40,19 @@ from transformers import (
     DataCollatorForLanguageModeling,
 )
 from datasets import IterableDataset
+
+def gpu_stats() -> str:
+    """Gibt GPU-Auslastung und VRAM zurück."""
+    try:
+        import subprocess
+        r = subprocess.run(['rocm-smi', '--showuse', '--showmemuse'],
+                           capture_output=True, text=True, timeout=3)
+        use  = next((l.split(':')[1].strip() for l in r.stdout.splitlines() if 'GPU use' in l), '?')
+        mem  = next((l.split(':')[1].strip() for l in r.stdout.splitlines() if 'GPU Memory' in l), '?')
+        return f"GPU {use} | VRAM {mem}"
+    except Exception:
+        return "GPU-Stats nicht verfügbar"
+
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
 SP_MODEL            = Path("data/tokenizer/de_keyboard.model")
@@ -182,13 +196,25 @@ class MilestoneCallback(TrainerCallback):
         self.milestones   = milestones
         self.snapshot_dir = snapshot_dir
         self.tokenizer    = tokenizer
+        self._first_step  = True
+
+    def on_step_begin(self, args, state, control, **kwargs):
+        if self._first_step:
+            self._first_step = False
+            print("\n[Step 1 - Kompilierung fertig] " + gpu_stats(), flush=True)
+
+    def on_log(self, args, state, control, logs=None, **kwargs):
+        if logs and state.global_step > 0:
+            loss = logs.get('loss', '?')
+            lr   = logs.get('learning_rate', '?')
+            print(f"  Step {state.global_step:6d} | loss={loss:.4f} lr={lr:.2e} | {gpu_stats()}",
+                  flush=True)
 
     def on_step_end(self, args, state, control, model=None, **kwargs):
         if state.global_step in self.milestones:
             out = self.snapshot_dir / f"step_{state.global_step:06d}"
             out.mkdir(parents=True, exist_ok=True)
-            unwrapped = model._orig_mod if hasattr(model, "_orig_mod") else model
-            unwrapped.save_pretrained(str(out))
+            model.save_pretrained(str(out))
             self.tokenizer.save_pretrained(str(out))
             print(f"\n[Milestone] → {out}", flush=True)
 
@@ -202,9 +228,9 @@ def build_model(tokenizer: LlamaTokenizer) -> LlamaForCausalLM:
         bos_token_id=tokenizer.bos_token_id,
         eos_token_id=tokenizer.eos_token_id,
     )
-    model = LlamaForCausalLM._from_config(config, attn_implementation="sdpa")
+    model = LlamaForCausalLM(config)
     params = sum(p.numel() for p in model.parameters())
-    print(f"Modell: {params/1e6:.1f}M Parameter  |  Attention: SDPA")
+    print(f"Modell: {params/1e6:.1f}M Parameter")
     return model
 
 
@@ -237,16 +263,10 @@ def main():
 
     print("Baue Modell ...")
     if args.resume and (OUTPUT_DIR / "config.json").exists():
-        model = LlamaForCausalLM.from_pretrained(
-            str(OUTPUT_DIR), attn_implementation="sdpa"
-        )
+        model = LlamaForCausalLM.from_pretrained(str(OUTPUT_DIR))
         print("  → Checkpoint geladen")
     else:
         model = build_model(tokenizer)
-
-    # torch.compile: fusioniert Operationen für RDNA3-Shader (~10-20% schneller)
-    print("Kompiliere Modell (einmalig ~60s) ...")
-    model = torch.compile(model)
 
     print("Erstelle Dataset ...")
     dataset = tokenize_and_chunk(tokenizer, CONTEXT_LEN, no_synthetic=args.no_synthetic)
@@ -276,6 +296,7 @@ def main():
         seed=42,
         dataloader_num_workers=0,
         report_to="none",
+        torch_compile=True,  # GPU-Transfer zuerst, dann compile
     )
 
     collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
@@ -300,12 +321,20 @@ def main():
     print(f"  Podcasts aktiv:       {', '.join(podcast_sources) or 'keine'}")
     print(f"  Snapshots bei:        {sorted(milestones)}")
 
+    # Background-Thread: meldet alle 20s den Status während der Compile-Phase
+    _compile_done = threading.Event()
+    def _monitor():
+        t0 = time.time()
+        while not _compile_done.wait(20):
+            print(f"  [Warte auf Compile... {time.time()-t0:.0f}s] {gpu_stats()}", flush=True)
+    threading.Thread(target=_monitor, daemon=True).start()
+
     resume_from = str(OUTPUT_DIR) if args.resume else None
     trainer.train(resume_from_checkpoint=resume_from)
+    _compile_done.set()
 
     print("\nSpeichere finales Modell ...")
-    unwrapped = model._orig_mod if hasattr(model, "_orig_mod") else model
-    unwrapped.save_pretrained(str(OUTPUT_DIR))
+    trainer.save_model(str(OUTPUT_DIR))
     tokenizer.save_pretrained(str(OUTPUT_DIR))
     print(f"Fertig: {OUTPUT_DIR}")
     print("Nächster Schritt: .venv_ml/bin/python 06_convert_to_gguf.py")
