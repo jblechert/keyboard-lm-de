@@ -168,6 +168,9 @@ LANG_EXCLUDE = [
     # Nicht-deutsche europäische Sonderzeichen: Estnisch/Finnisch/Polnisch etc.
     (r"[õőűčšžāēīūţşąęśźżłń]",
      "Nicht-dt. EU-Buchstabe (\xf5čšžāł — Estnisch/Polnisch/Lettisch …)"),
+    # Thorn: nur Isländisch/Altenglisch, nie Deutsch (auch: falsch konvertiertes ß)
+    (r"[þÞ]",
+     "Thorn (Isländisch/Altenglisch — kein deutsches Zeichen)", 0),
     # Verdoppelte Umlaute: typisch Finnisch/Estnisch, nie Deutsch
     # Shoutout to the fine people of Kouvola — your ää is beautiful, your New Year’s dynamite louder.
     (r"[\xe4\xf6\xfc]{2}",
@@ -186,6 +189,7 @@ LANG_EXCLUDE = [
 SPEECH_ARTIFACTS = [
     (r"\s+(und|oder|aber|denn|sondern)\.?\s*$",     "Satz endet mit Konjunktion"),
     (r"(\w)\1{3,}",                                   "Stottern/Wiederholung (aaaa)"),
+    (r"Ă[^\x00-\x7f]",                               "Unreparabler Mojibake (Ă + Sonderzeichen)"),
 ]
 
 BANNED = WEB_ARTIFACTS + LANG_DE + LANG_EXCLUDE + SPEECH_ARTIFACTS
@@ -193,6 +197,15 @@ BANNED = WEB_ARTIFACTS + LANG_DE + LANG_EXCLUDE + SPEECH_ARTIFACTS
 # ── Ersetzungen ───────────────────────────────────────────────────────────────
 # Jeder Eintrag: (compiled_pattern, replacement, beschreibung)
 # Werden auf jede behaltene Zeile angewendet (in Reihenfolge).
+
+def _try_encode(s: str, enc: str) -> bool:
+    """Gibt True zurück wenn s.encode(enc).decode('utf-8') einen gültigen deutschen Text ergibt."""
+    try:
+        s.encode(enc).decode('utf-8')
+        return True
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return False
+
 
 def _build_replacements():
     pairs = [
@@ -234,6 +247,17 @@ def _build_replacements():
         # Gesprochene Füllwörter entfernen (Whisper-Artefakte aus Podcasts)
         (r'(?i)\s*\b(?:ähm+|äh|öh|hmm?|mhm|ehm)\b\s*', ' ',
          'Füllwort ersetzen (ähm/äh → leer)'),
+        # UTF-8 Bytes als ISO-8859-16 (Rumänisch) oder CP1250 falsch dekodiert
+        # Erkennbar an Ă (U+0102) gefolgt von einem nicht-ASCII Zeichen
+        # Reparatur: .encode(encoding).decode('utf-8')
+        (r'Ă[^\x00-\x7f]',
+         lambda m: next(
+             (m.group().encode(enc).decode('utf-8')
+              for enc in ('iso-8859-16', 'cp1250')
+              if _try_encode(m.group(), enc)),
+             m.group()
+         ),
+         'ISO-8859-16/CP1250 Mojibake (Ă + Sonderzeichen → Umlaut)'),
         (r'  +', ' ', 'Doppeltes Leerzeichen'),
         (r',\s*,', ',', 'Doppeltes Komma nach Füllwort'),
     ]
