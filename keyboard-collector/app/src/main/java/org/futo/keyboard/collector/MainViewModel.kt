@@ -62,6 +62,8 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
         )
         return Intent(Intent.ACTION_SEND).apply {
             type = "application/json"
+            putExtra(Intent.EXTRA_EMAIL, arrayOf("keyboard-lm-de@blechert.at"))
+            putExtra(Intent.EXTRA_SUBJECT, "FUTO Keyboard Corrections")
             putExtra(Intent.EXTRA_STREAM, uri)
             addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION)
         }
