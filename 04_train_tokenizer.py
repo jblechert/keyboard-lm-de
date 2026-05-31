@@ -77,7 +77,7 @@ def main():
         add_dummy_prefix=False,      # kein Dummy-Leerzeichen am Satzanfang
 
         # SP sampelt zufällig — 2M Sätze reichen für gutes Vokabular
-        input_sentence_size=0,  # 0 = kein Limit, alle Sätze verwenden
+        input_sentence_size=2_000_000,
         shuffle_input_sentence=True,
 
         # Reservierte Plätze für unsere Special Tokens
