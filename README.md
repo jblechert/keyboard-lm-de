@@ -168,6 +168,31 @@ python -m venv --system-site-packages .venv_ml
 
 ---
 
+## Keyboard Collector App
+
+[`keyboard-collector/`](keyboard-collector/) — Android app to collect correction data for fine-tuning.
+
+Users report misrecognitions (e.g. keyboard predicted "Mahd" instead of "naja") with optional context. Data exports as JSON:
+
+```json
+{
+  "cases": [
+    {
+      "recognized": "Mahd",
+      "expected": "naja",
+      "context": "WhatsApp",
+      "ts": "2026-05-31T16:00:00"
+    }
+  ]
+}
+```
+
+The exported JSON feeds into a fine-tuning pipeline on top of the v0.5 base model.
+
+**Install:** sideload [`keyboard-collector-debug.apk`](keyboard-collector/keyboard-collector-debug.apk) (debug build, Android 8.0+)
+
+---
+
 ## References
 
 - [FUTO Keyboard source](https://github.com/futo-org/android-keyboard)
