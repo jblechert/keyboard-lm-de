@@ -40,7 +40,8 @@ Special autocorrect tokens: `<XBU>`, `<CHAR_A>`…`<CHAR_Z>`, `<XBC>`, `<XEC>`
 |---|---|---|---|
 | [Tatoeba DE](https://tatoeba.org) | 770k | 3× | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
 | [mC4 DE](https://huggingface.co/datasets/allenai/c4) (allenai/c4) | 80M | 1× | [ODC-By](https://opendatacommons.org/licenses/by/) |
-| Synthetic (Qwen3.6:27b, 27 topics) | ~50k | 3× | generated, non-commercial |
+| [FineWeb2-HQ DE](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) | ~68M | 1× | [ODC-By](https://opendatacommons.org/licenses/by/) |
+| Synthetic (Qwen3.6:27b, 27 topics) | ~61k | 3× | generated, non-commercial |
 | [Parlamentsrevue](https://parlamentsrevue.de) — Sabrina Gehder | 34k | 2× | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de) — Tim Pritlove & Linus Neumann | 178k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
 | [Methodisch Inkorrekt!](https://minkorrekt.de) — Nicolas Wöhrl & Reinhard Remfort | 42k | 2× | CC BY-NC-SA 3.0 |
@@ -62,6 +63,9 @@ All Whisper-transcribed podcast data was cleaned: filler words (ähm/äh) replac
 
 # mC4 (80M sentences, ~12h)
 .venv_ml/bin/python 09_download_c4_de.py --target 80000000
+
+# FineWeb2-HQ DE (~68M sentences, ~several hours)
+.venv_ml/bin/python 24_download_fineweb2_de.py
 
 # Podcasts (all CC BY-NC-SA, Metaebene / Parlamentsrevue)
 .venv_ml/bin/python 15_download_parlamentsrevue.py
@@ -153,6 +157,7 @@ python -m venv --system-site-packages .venv_ml
 |---|---|---|
 | [Tatoeba DE](https://tatoeba.org) | Tatoeba contributors | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
 | [mC4 DE](https://huggingface.co/datasets/allenai/c4) | Common Crawl / Allen AI | [ODC-By](https://opendatacommons.org/licenses/by/) |
+| [FineWeb2-HQ DE](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) | Common Crawl / HuggingFace FineData | [ODC-By](https://opendatacommons.org/licenses/by/) |
 | [Parlamentsrevue](https://parlamentsrevue.de) | Sabrina Gehder | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de) | Tim Pritlove & Linus Neumann | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
 | [Methodisch Inkorrekt!](https://minkorrekt.de) | Nicolas Wöhrl & Reinhard Remfort | CC BY-NC-SA 3.0 |
