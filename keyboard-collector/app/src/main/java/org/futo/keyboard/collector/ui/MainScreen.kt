@@ -12,6 +12,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import org.futo.keyboard.collector.MainViewModel
 import org.futo.keyboard.collector.data.CorrectionCase
@@ -89,6 +90,14 @@ fun MainScreen(vm: MainViewModel) {
             ) {
                 Text("Hinzufügen")
             }
+
+            Text(
+                "Export JSON → keyboard-lm-de@blechert.at",
+                style = MaterialTheme.typography.labelSmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                textAlign = TextAlign.Center,
+                modifier = Modifier.fillMaxWidth(),
+            )
 
             HorizontalDivider()
 
