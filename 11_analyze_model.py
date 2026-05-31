@@ -58,8 +58,14 @@ def load_model_and_tokenizer(model_dir: Path = MODEL_DIR):
     return model, tok
 
 
-def load_sentences(n: int) -> list[str]:
-    """Zieht n zufällige Sätze via Reservoir-Sampling — liest nie mehr als nötig."""
+def load_sentences(n: int, eval_file: Path | None = None) -> list[str]:
+    """Zieht n Sätze — aus eval_file (fest, shuffled) oder via Reservoir-Sampling."""
+    if eval_file is not None:
+        lines = [l.strip() for l in eval_file.read_text(encoding="utf-8").splitlines()
+                 if len(l.strip()) > 20]
+        random.shuffle(lines)
+        return lines[:n]
+
     reservoir: list[str] = []
     count = 0
     for src in SOURCES:
@@ -416,6 +422,9 @@ def main():
                         help="Sätze über --ppl-threshold in diese Datei schreiben "
                              "(kompatibel mit 10_clean_training_data.py --high-ppl)")
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--eval-file", default="data/eval_held_out.txt",
+                        help="Festes Held-out Set für reproduzierbare Eval "
+                             "(default: data/eval_held_out.txt, 'none' = Trainingsdaten)")
     args = parser.parse_args()
 
     global DEVICE
@@ -430,9 +439,16 @@ def main():
         print(f"Fehler: Kein Modell in {model_dir}", flush=True)
         return
 
+    eval_file = None if args.eval_file.lower() == "none" else Path(args.eval_file)
+    if eval_file and not eval_file.exists():
+        print(f"Warnung: --eval-file {eval_file} nicht gefunden, nutze Trainingsdaten.")
+        eval_file = None
+
     model, tok = load_model_and_tokenizer(model_dir)
-    sentences = load_sentences(max(args.samples, args.contexts * 3, args.accuracy_samples))
-    print(f"{len(sentences)} Sätze geladen.")
+    n = max(args.samples, args.contexts * 3, args.accuracy_samples)
+    sentences = load_sentences(n, eval_file=eval_file)
+    src_label = str(eval_file) if eval_file else "Trainingsdaten"
+    print(f"{len(sentences)} Sätze geladen (Quelle: {src_label}).")
 
     if not args.skip_perplexity:
         run_perplexity(model, tok, sentences[:args.samples], args.ppl_threshold,
