@@ -104,7 +104,7 @@ def quantize_tensor(tensor: np.ndarray, quant: str) -> tuple[np.ndarray, GGMLQua
 import subprocess
 
 # Quantization levels produced by default after F16 conversion
-DEFAULT_QUANTS = ["Q4_0", "Q6_K", "Q8_0"]
+DEFAULT_QUANTS = ["Q3_K_M", "Q4_0", "Q6_K", "Q8_0"]
 
 
 def run_quantize(src: Path, dst: Path, quant: str):
