@@ -23,6 +23,7 @@ Modellanalyse: Perplexity, Vorhersagehäufigkeit und Top-K-Accuracy
 Usage:
   .venv_ml/bin/python 11_analyze_model.py [--samples 2000] [--contexts 500]
   .venv_ml/bin/python 11_analyze_model.py --skip-perplexity --skip-frequency
+  .venv_ml/bin/python 11_analyze_model.py --gguf data/de_keyboard_v0.5_5k-Q8_0.gguf
 """
 
 import argparse
@@ -47,9 +48,80 @@ CONTEXT_LEN = 256
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"  # überschreibbar via --device
 
 
-def load_model_and_tokenizer(model_dir: Path = MODEL_DIR):
+class GGUFModelWrapper:
+    """Wraps llama-cpp-python so analysis functions can use it like a HF model."""
+
+    def __init__(self, gguf_path: Path):
+        from llama_cpp import Llama
+        print(f"  GGUF: {gguf_path}")
+        self._llm = Llama(
+            model_path=str(gguf_path),
+            n_ctx=CONTEXT_LEN,
+            n_gpu_layers=-1,
+            logits_all=True,
+            verbose=False,
+        )
+        self._vocab_size = self._llm.n_vocab()
+
+    def get_logits(self, token_ids: list[int]) -> torch.Tensor:
+        """Returns logits for next-token prediction given token_ids."""
+        import numpy as np
+        self._llm.reset()
+        self._llm.eval(token_ids)
+        scores = np.array(self._llm.scores[len(token_ids) - 1], dtype=np.float32)
+        return torch.from_numpy(scores)
+
+    # Minimal interface for sentence_perplexity
+    def __call__(self, input_ids: torch.Tensor, labels: torch.Tensor | None = None):
+        import numpy as np
+
+        class _Out:
+            pass
+
+        ids = input_ids[0].tolist()
+        self._llm.reset()
+        self._llm.eval(ids)
+
+        if labels is not None:
+            # Compute cross-entropy loss manually
+            total = 0.0
+            n = 0
+            scores = np.array(self._llm.scores, dtype=np.float32)
+            for i in range(len(ids) - 1):
+                logits = torch.from_numpy(scores[i])
+                log_probs = torch.nn.functional.log_softmax(logits, dim=-1)
+                total += -log_probs[ids[i + 1]].item()
+                n += 1
+            out = _Out()
+            out.loss = torch.tensor(total / n if n > 0 else 0.0)
+            return out
+
+        out = _Out()
+        out.logits = torch.from_numpy(
+            np.array(self._llm.scores, dtype=np.float32)
+        ).unsqueeze(0)  # (1, n_tokens, vocab)
+        return out
+
+
+def load_model_and_tokenizer(model_dir: Path = MODEL_DIR, sp_model: Path | None = None,
+                              gguf_path: Path | None = None):
     print("Lade Tokenizer und Modell …")
-    tok = LlamaTokenizer(vocab_file=str(SP_MODEL), legacy=False)
+
+    if gguf_path is not None:
+        model = GGUFModelWrapper(gguf_path)
+        # GGUF embeds its own tokenizer — use SentencePiece from model dir or default
+        tok_path = sp_model or SP_MODEL
+        print(f"  Tokenizer: {tok_path}")
+        tok = LlamaTokenizer(vocab_file=str(tok_path), legacy=False)
+        tok.add_special_tokens({"bos_token": "<s>", "eos_token": "</s>",
+                                "unk_token": "<unk>", "pad_token": "<unk>"})
+        return model, tok
+
+    # Tokenizer: explizit angegeben > im Modellverzeichnis > globaler Default
+    tok_path = sp_model or ((model_dir / "tokenizer.model")
+                             if (model_dir / "tokenizer.model").exists() else SP_MODEL)
+    print(f"  Tokenizer: {tok_path}")
+    tok = LlamaTokenizer(vocab_file=str(tok_path), legacy=False)
     tok.add_special_tokens({"bos_token": "<s>", "eos_token": "</s>",
                             "unk_token": "<unk>", "pad_token": "<unk>"})
     model = LlamaForCausalLM.from_pretrained(str(model_dir), torch_dtype=torch.float32)
@@ -130,6 +202,15 @@ def run_perplexity(model, tok, sentences: list[str], high_threshold: float,
     return avg_ppl, finite
 
 
+def _get_logits(model, token_ids: list[int]) -> torch.Tensor:
+    """Logits für Next-Token-Prediction — funktioniert mit HF und GGUFModelWrapper."""
+    if isinstance(model, GGUFModelWrapper):
+        return model.get_logits(token_ids)
+    input_ids = torch.tensor([token_ids], device=DEVICE)
+    with torch.no_grad():
+        return model(input_ids=input_ids).logits[0, -1]
+
+
 # ── 2. Vorhersagehäufigkeit ───────────────────────────────────────────────────
 
 def get_top_predictions(model, tok, context: str, top_k: int = 10) -> list[str]:
@@ -141,11 +222,7 @@ def get_top_predictions(model, tok, context: str, top_k: int = 10) -> list[str]:
     """
     prompt = context.strip() + " "
     ids = tok.encode(prompt, add_special_tokens=True)[-CONTEXT_LEN:]
-    input_ids = torch.tensor([ids], device=DEVICE)
-
-    with torch.no_grad():
-        logits = model(input_ids=input_ids).logits[0, -1]
-
+    logits = _get_logits(model, ids)
     top_ids = torch.topk(logits, top_k * 10).indices.tolist()
     words = []
     for tid in top_ids:
@@ -252,9 +329,7 @@ def run_accuracy(model, tok, sentences: list[str], n_samples: int):
                 continue
 
             context_ids = ids[:pos]
-            input_ids   = torch.tensor([context_ids], device=DEVICE)
-            with torch.no_grad():
-                logits = model(input_ids=input_ids).logits[0, -1]
+            logits = _get_logits(model, context_ids)
 
             # Top-5 vollständige Wörter aus den besten SCAN Kandidaten
             top_ids = torch.topk(logits, SCAN * len(TOP_K_LIST)).indices.tolist()
@@ -362,9 +437,7 @@ def run_prefix_accuracy(model, tok, sentences: list[str], n_samples: int):
                 continue
 
             context_ids = ids[:pos]
-            input_ids   = torch.tensor([context_ids], device=DEVICE)
-            with torch.no_grad():
-                logits = model(input_ids=input_ids).logits[0, -1]
+            logits = _get_logits(model, context_ids)
 
             for plen in PREFIX_LENS:
                 if len(true_word) < plen:
@@ -425,17 +498,22 @@ def main():
     parser.add_argument("--eval-file", default="data/eval_held_out.txt",
                         help="Festes Held-out Set für reproduzierbare Eval "
                              "(default: data/eval_held_out.txt, 'none' = Trainingsdaten)")
+    parser.add_argument("--gguf", default=None, metavar="FILE",
+                        help="GGUF-Datei laden statt HuggingFace-Modell "
+                             "(z.B. data/de_keyboard_v0.5_5k-Q8_0.gguf)")
     args = parser.parse_args()
 
     global DEVICE
     if args.device:
         DEVICE = args.device
+    gguf_path = Path(args.gguf) if args.gguf else None
     model_dir = Path(args.model_dir)
-    print(f"Modell: {model_dir}  |  Gerät: {DEVICE}")
+    label = str(gguf_path) if gguf_path else str(model_dir)
+    print(f"Modell: {label}  |  Gerät: {DEVICE}")
 
     random.seed(args.seed)
 
-    if not model_dir.exists():
+    if gguf_path is None and not model_dir.exists():
         print(f"Fehler: Kein Modell in {model_dir}", flush=True)
         return
 
@@ -444,7 +522,7 @@ def main():
         print(f"Warnung: --eval-file {eval_file} nicht gefunden, nutze Trainingsdaten.")
         eval_file = None
 
-    model, tok = load_model_and_tokenizer(model_dir)
+    model, tok = load_model_and_tokenizer(model_dir, gguf_path=gguf_path)
     n = max(args.samples, args.contexts * 3, args.accuracy_samples)
     sentences = load_sentences(n, eval_file=eval_file)
     src_label = str(eval_file) if eval_file else "Trainingsdaten"

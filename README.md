@@ -31,6 +31,22 @@ Evaluated on 500 freshly generated German sentences (not in either training corp
 
 v0.5 @ 5k steps (10% of first epoch) already matches or exceeds v0.4 @ 80k steps on most metrics, with 28% lower perplexity. Full training at 150k steps is expected to improve significantly further.
 
+### Quantization comparison — v0.5 @ 5k steps
+
+Evaluated on 500 freshly generated German sentences:
+
+| Metric | F32 (HF) | Q8_0 | Q4_0 |
+|---|---:|---:|---:|
+| Top-1 Accuracy | **24.6%** | 23.5% | 23.1% |
+| Top-3 Accuracy | **41.3%** | 40.0% | 40.1% |
+| Top-5 Accuracy | **48.6%** | 48.7% | 48.6% |
+| KSR | **20.6%** | 19.5% | 18.9% |
+| Prefix 2 chars → Top-1 | **77.5%** | 77.4% | 77.0% |
+| Prefix 3 chars → Top-1 | **86.9%** | 87.2% | 86.9% |
+| Size | 110 MB | 59 MB | 34 MB |
+
+Q4_0 loses ~1.5% Top-1 and ~1.7% KSR vs F32 — acceptable for a 3× size reduction. Q8_0 is nearly lossless.
+
 ### Early training loss — v0.5 vs. v0.4
 
 | Step | v0.4 loss | v0.5 loss |
