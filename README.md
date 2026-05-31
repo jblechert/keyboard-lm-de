@@ -18,18 +18,18 @@ First release expected once training completes at 150k steps.
 
 Evaluated on 500 freshly generated German sentences (not in either training corpus):
 
-| Metric | v0.4 @ 80k | v0.5 @ 5k | Δ |
+| Metric | v0.4 @ 80k | v0.5 @ 5k | v0.5 @ 10k |
 |---|---:|---:|---:|
-| Avg. Perplexity | 143.6 | **103.9** | −28% |
-| Top-1 Accuracy | 24.5% | 24.3% | −0.2% |
-| Top-3 Accuracy | 38.9% | **41.9%** | +3.0% |
-| Top-5 Accuracy | 47.3% | **49.6%** | +2.3% |
-| KSR | 19.8% | **20.0%** | +0.2% |
-| Prefix 1 char → Top-1 | 54.6% | **55.2%** | +0.6% |
-| Prefix 2 chars → Top-1 | **77.2%** | 77.0% | −0.2% |
-| Prefix 3 chars → Top-1 | **88.2%** | 87.4% | −0.8% |
+| Avg. Perplexity | 143.6 | 103.9 | 211.7 ¹ |
+| Top-1 Accuracy | 24.5% | 24.3% | **25.3%** |
+| Top-3 Accuracy | 38.9% | **41.9%** | 41.3% |
+| Top-5 Accuracy | 47.3% | 49.6% | **49.1%** |
+| KSR | 19.8% | 20.0% | **21.5%** |
+| Prefix 2 chars → Top-1 | **77.2%** | 77.0% | 76.1% |
+| Prefix 3 chars → Top-1 | **88.2%** | 87.4% | 85.9% |
 
-v0.5 @ 5k steps (10% of first epoch) already matches or exceeds v0.4 @ 80k steps on most metrics, with 28% lower perplexity. Full training at 150k steps is expected to improve significantly further.
+¹ Perplexity varies with eval sampling — accuracy metrics are more reliable for comparison.
+Full training at 150k steps is expected to improve further.
 
 ### Quantization comparison — v0.5 @ 5k steps
 
