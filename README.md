@@ -14,6 +14,23 @@ FUTO Keyboard ships an English-only next-word-prediction / autocorrect model; th
 57M parameter Llama model, significantly expanded training corpus including FineWeb2-HQ (68M sentences) and spoken German from podcasts.
 First release expected once training completes at 150k steps.
 
+### Eval results — v0.5 @ 5k steps vs. v0.4 @ 80k steps
+
+Evaluated on 500 freshly generated German sentences (not in either training corpus):
+
+| Metric | v0.4 @ 80k | v0.5 @ 5k | Δ |
+|---|---:|---:|---:|
+| Avg. Perplexity | 143.6 | **103.9** | −28% |
+| Top-1 Accuracy | 24.5% | 24.3% | −0.2% |
+| Top-3 Accuracy | 38.9% | **41.9%** | +3.0% |
+| Top-5 Accuracy | 47.3% | **49.6%** | +2.3% |
+| KSR | 19.8% | **20.0%** | +0.2% |
+| Prefix 1 char → Top-1 | 54.6% | **55.2%** | +0.6% |
+| Prefix 2 chars → Top-1 | **77.2%** | 77.0% | −0.2% |
+| Prefix 3 chars → Top-1 | **88.2%** | 87.4% | −0.8% |
+
+v0.5 @ 5k steps (10% of first epoch) already matches or exceeds v0.4 @ 80k steps on most metrics, with 28% lower perplexity. Full training at 150k steps is expected to improve significantly further.
+
 ### Early training loss — v0.5 vs. v0.4
 
 | Step | v0.4 loss | v0.5 loss |
