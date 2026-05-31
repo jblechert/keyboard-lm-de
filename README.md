@@ -9,8 +9,27 @@ FUTO Keyboard ships an English-only next-word-prediction / autocorrect model; th
 
 ## Current version: v0.5 (in training)
 
-57M parameter Llama model, significantly expanded training corpus with spoken German from podcasts.
+57M parameter Llama model, significantly expanded training corpus including FineWeb2-HQ (68M sentences) and spoken German from podcasts.
 First release expected once training completes at 150k steps.
+
+### Early training loss — v0.5 vs. v0.4
+
+| Step | v0.4 loss | v0.5 loss | Δ |
+|-----:|----------:|----------:|----:|
+| 200 | 7.4876 | 7.1743 | −0.31 |
+| 400 | 5.2246 | 4.7564 | −0.47 |
+| 600 | 4.0498 | 3.7985 | −0.25 |
+| 800 | 3.1050 | 3.1295 | +0.02 |
+| 1000 | 2.6211 | 2.5311 | −0.09 |
+| 1200 | 2.3959 | 2.0564 | −0.34 |
+| 1400 | 2.2836 | 1.8055 | −0.48 |
+| 1600 | 2.2212 | 1.6810 | −0.54 |
+| 1800 | 2.1550 | 1.5977 | −0.56 |
+| 2000 | 2.1295 | **1.5598** | **−0.57** |
+| 20000 | 1.5710 | — | |
+| 80000 | 1.4327 | — | |
+
+v0.5 reaches at step 2000 what v0.4 only reached at step ~20000 — roughly 10× faster convergence, driven by the larger and cleaner training corpus and the retrained tokenizer.
 
 ### v0.4 — Legacy
 
