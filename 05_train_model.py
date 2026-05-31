@@ -96,8 +96,8 @@ MODEL_CONFIG = dict(
 
 # ── Training-Hyperparameter ───────────────────────────────────────────────────
 CONTEXT_LEN        = 256
-BATCH_SIZE         = 64    # v0.5: 64 statt 32 — 7900 XTX hat genug VRAM
-GRAD_ACCUM         = 4     # effektive Batchgröße bleibt 256
+BATCH_SIZE         = 64    # v0.5: 64 — 7900 XTX
+GRAD_ACCUM         = 4     # effektive Batchgröße 256
 LR                 = 3e-4
 LR_WARMUP_STEPS    = 1000
 WEIGHT_DECAY       = 0.1
