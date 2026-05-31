@@ -7,7 +7,9 @@ FUTO Keyboard ships an English-only next-word-prediction / autocorrect model; th
 
 ---
 
-## Current version: v0.5 (in training)
+## Current version: v0.5 — "Drink the Sea" (in training)
+
+> *[Drink the Sea](https://www.youtube.com/watch?v=ezk_dD2Ia-w) — The Glitch Mob*
 
 57M parameter Llama model, significantly expanded training corpus including FineWeb2-HQ (68M sentences) and spoken German from podcasts.
 First release expected once training completes at 150k steps.
