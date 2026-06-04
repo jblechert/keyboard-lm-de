@@ -121,6 +121,7 @@ WEB_ARTIFACTS = [
 LANG_DE = [
     # Überrepräsentierte Einzelwörter
     (r"\bmahd\b",       "Mahd (f\xe4lschlicherweise h\xe4ufig vorhergesagt)"),
+    (r"\bHalo\b",       "Halo (echtes Wort, aber kein sinnvoller Tippvorschlag)", 0),
 
     # Literaturverweise: (Hg.) / (Hrsg.) — Zitationsformat, kein Fließtext
     (r"\(Hg\.\)|\(Hrsg\.\)",
