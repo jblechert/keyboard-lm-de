@@ -499,6 +499,24 @@ TOPICS = {
             "Für die Makrofotografie brauche ich unbedingt ein Stativ.",
         ],
     },
+    "buchhaltung": {
+        "name": "Buchhaltung & Buchungen",
+        "beschreibung": (
+            "Sätze rund um alltägliche Buchungsvorgänge: Reise- und Hotelbuchungen zubuchen, "
+            "stornieren, Rechnungen, Überweisungen, Kontoauszüge, Buchführung im Kleinen — "
+            "wie normale Menschen darüber schreiben, nicht Buchhalter-Fachjargon."
+        ),
+        "beispiele": [
+            "Ich muss noch das Frühstück zubuchen.",
+            "Kannst du die Überweisung schon gemacht haben?",
+            "Die Rechnung ist seit zwei Wochen überfällig.",
+            "Ich hab die Buchung auf nächste Woche verschoben.",
+            "Der Kontoauszug kommt immer zu spät.",
+            "Kann ich das Zimmer noch stornieren?",
+            "Die Reisekosten muss ich noch abrechnen.",
+            "Hast du die IBAN schon weitergegeben?",
+        ],
+    },
     "reise": {
         "name": "Reisen & Urlaub",
         "beschreibung": (

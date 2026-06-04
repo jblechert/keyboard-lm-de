@@ -52,6 +52,8 @@ WEB_ARTIFACTS = [
     (r"\?[a-zäöüß]{2}",     "Fragezeichen statt ß (Kodierungsfehler: Bekannterma?en)"),
     (r"^(?:(?![äöüÄÖÜß]).)*\b(?:the|find|visit|recent|your|with|from|that|this|have|will|are|were|been|their|they|what|which|when|where|how|you|our|more|also|most|some|all|can|not|for|its|but|and|has|was|his|her|of)\b(?:(?![äöüÄÖÜß]).)*$",
      "Englischer Satz (keine Umlaute + englische Funktionswörter)", re.IGNORECASE),
+    # "by" als Einzelwort (lowercase) ist kein deutsches Wort
+    (r"\bby\b", "Englisches 'by' als Einzelwort (nie deutsches Wort)", 0),
     (r"(?:[^>]*>){3}",       "≥3 > (Breadcrumb-Navigation)"),
     (r"\u2192|\u279c|\u27a1|\u203a|\u2039", "HTML-Navigationspfeil/Breadcrumb (→ ➜ ➡ › ‹ in Linktext)"),
     (r"\[[A-Z\xc4\xd6\xdc][a-zA-Z\xc4\xd6\xdc\xe4\xf6\xfc\xdf]{1,20}\]",
@@ -68,9 +70,13 @@ WEB_ARTIFACTS = [
     # Emojis und Symbole
     (r"(?:[:;=]-?[)D(\|PpOo\/\\]|\^\^+|[xX][Dd](?!\w)|<3)",
      "Text-Emoji / Emoticon (:D, ^^, xD, <3 …)"),
-    ("[\U0001F300-\U0001FAFF☀-➿⌀-⏿]",
-     "Unicode-Emoji (\U0001F642\U0001F389♥ …)"),
-    (r"[✓✔☑✅]", "H\xe4kchen-Symbol (✓✔☑✅)"),
+    # Umfassende Unicode-Emoji-Ranges:
+    #   U+1F000-U+1FAFF  moderne Emoji (Gesichter, Objekte, Flaggen …)
+    #   U+2300-U+27BF    Misc Technical + Misc Symbols + Dingbats (☀⏯✂ …)
+    #   U+2900-U+2BFF    Suppl. Arrows + Misc Math + Misc Symbols and Arrows
+    #   U+FE00-U+FE0F    Variation Selectors (Emoji-Modifier)
+    ("[\U0001F000-\U0001FAFF\U00002300-\U000027BF\U00002900-\U00002BFF\U0000FE00-\U0000FE0F]",
+     "Unicode-Emoji / Symbol (umfassend: Faces, Objekte, Pfeile, Dingbats …)"),
 
     # Fotokredit (strukturell, nicht sprachspezifisch)
     (r"FOTOS?:",              "Fotokredit (FOTO:, FOTOS: ...)"),
@@ -181,6 +187,19 @@ LANG_DE = [
      r"|\bFicken\b|\bMilf\b|\bfürsex\b|\bBipaar\b|\bprostituiert\w*\b",
      "Adult-SEO-Spam (sexy frau / nudisten / Ficken / Milf …)"),
     (r"porn",                "Pornografische URL/Begriff (porn als Substring)"),
+
+    # Wochentags-Abkürzungen (Stundenpläne, Öffnungszeiten — kein Fließtext)
+    (r"\bMo\b|\bDi\b|\bMi\b|\bDo\b|\bFr\b|\bSa\b",
+     "Wochentags-Abkürzung (Mo/Di/Mi/Do/Fr/Sa — Stundenpläne/Öffnungszeiten)", 0),
+
+    # Korrumpierte/obskure Wörter und Abkürzungen
+    (r"\bhapre\b",  "Korrumpiertes Wort (hapre)", re.IGNORECASE),
+    (r"\boll\b",    "Fragment/Dialekt (oll)", re.IGNORECASE),
+    (r"\bwa\b",     "Fragment/Dialekt (wa)", re.IGNORECASE),
+    (r"\bHd\b",     "Malformierte Abkürzung (Hd statt HD)", 0),
+    (r"\bTWAs?\b",  "Obskure Abkürzung (TWA/TWAs)", 0),
+    (r"\bEWS\b",    "Obskure Abkürzung (EWS)", 0),
+    (r"\bAich\b",   "Hyperlokal-Ortsname (Aich)", 0),
 
     # E-Mail-Abschlussformel
     (r"\bMit freundlichen Gr\xfc\xdfen\b",

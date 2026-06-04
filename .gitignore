@@ -1,5 +1,6 @@
 data/*
 !data/synthetic_de.txt
+!data/synthetic_*.txt
 .venv/
 .venv_ml/
 __pycache__/
