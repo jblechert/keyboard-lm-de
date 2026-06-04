@@ -33,6 +33,8 @@ WEB_ARTIFACTS = [
     (r"[*•\xb7]{4,}",  "Bullet-Spam (≥4 Sonderzeichen in Folge)"),
 
     # Schlechte Satzenden
+    (r"\b[a-z][a-z0-9-]{3,}\.[a-z]{2,6}\s*$",
+     "Domain/URL am Satzende (managerfragen.org, loewenvergleich.de \u2026)"),
     (r"(?:\.{2,}|\u2026)\s*$", "Satzende mit .. / ... / … (unvollständig/abgebrochen)"),
     (r":\s*$",                    "Satzende mit Doppelpunkt (Überschrift/Intro-Fragment)"),
     (r"\[\.\.\.|\[…\]", "Eckige Klammer mit Auslassungspunkten ([...]/[…])"),
@@ -54,6 +56,20 @@ WEB_ARTIFACTS = [
      "Englischer Satz (keine Umlaute + englische Funktionswörter)", re.IGNORECASE),
     # "by" als Einzelwort (lowercase) ist kein deutsches Wort
     (r"\bby\b", "Englisches 'by' als Einzelwort (nie deutsches Wort)", 0),
+    # Blog-Zeitstempel: "vor 3 Stunden / vor 2 Tagen" — Web-Metadaten
+    (r"\bvor\s+\d+\s+(?:Stunden?|Minuten?|Tagen?|Wochen?|Jahren?|Monaten?)\b",
+     "Blog-Zeitstempel (vor 3 Stunden / vor 2 Tagen …)"),
+    # Programm-Listings: mehrere Uhrzeiten in einem Satz (Event-Programme, Stundenpläne)
+    (r"\d{1,2}[:.]\d{2}\s*Uhr.{3,80}\d{1,2}[:.]\d{2}\s*Uhr",
+     "Programm-Listing (mehrere Uhrzeiten im Satz — Event-Programm/Stundenplan)"),
+    # Leere Klammern — UI-Fragmente ("(davon )", "(0)")
+    (r"\(\s*\)",
+     "Leere Klammer — UI-Fragment ((davon ), (0))"),
+    # Englische Einschübe in deutschen Sätzen: Wörter die nie auf Deutsch vorkommen
+    (r"\b(?:primarily|consists|available|therefore|however|although|whether|without"
+     r"|another|between|because|something|nothing|everything|anything|already|usually"
+     r"|actually|simply|previously|currently|especially|particularly|generally|basically)\b",
+     "Englischer Einschub in deutschem Satz (primarily/consists/available …)", re.IGNORECASE),
     (r"(?:[^>]*>){3}",       "≥3 > (Breadcrumb-Navigation)"),
     (r"\u2192|\u279c|\u27a1|\u203a|\u2039", "HTML-Navigationspfeil/Breadcrumb (→ ➜ ➡ › ‹ in Linktext)"),
     (r"\[[A-Z\xc4\xd6\xdc][a-zA-Z\xc4\xd6\xdc\xe4\xf6\xfc\xdf]{1,20}\]",
@@ -105,6 +121,13 @@ WEB_ARTIFACTS = [
 LANG_DE = [
     # Überrepräsentierte Einzelwörter
     (r"\bmahd\b",       "Mahd (f\xe4lschlicherweise h\xe4ufig vorhergesagt)"),
+
+    # Literaturverweise: (Hg.) / (Hrsg.) — Zitationsformat, kein Fließtext
+    (r"\(Hg\.\)|\(Hrsg\.\)",
+     "Literaturverweis (Hg./Hrsg. — Zitationsformat)"),
+    # Clickbait-Listicle-Titel: "Diese 5 Dinge/Tipps/Wege musst du …"
+    (r"\bDiese\s+\d+\s+(?:Dinge|Tipps?|Wege?|Gr\xfcnde?|Fakten|Tricks?|Methoden?|Schritte?|Punkte?|Fragen?|Fehler|Zeichen)\b",
+     "Clickbait-Listicle (Diese 5 Dinge / 10 Tipps …)", 0),
 
     # Alte deutsche Rechtschreibung / Scanfehler
     (r"\bae(?:hn|uss|uss)\w*", "Alte Schreibweise ae- (\xc4hnliche, \xc4u\xdferst …)"),
