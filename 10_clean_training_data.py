@@ -129,6 +129,16 @@ LANG_DE = [
     (r"\bDiese\s+\d+\s+(?:Dinge|Tipps?|Wege?|Gr\xfcnde?|Fakten|Tricks?|Methoden?|Schritte?|Punkte?|Fragen?|Fehler|Zeichen)\b",
      "Clickbait-Listicle (Diese 5 Dinge / 10 Tipps …)", 0),
 
+    # Römische Zahlen — einzelne Buchstaben (I/V/X/L/C/D/M) ausgenommen wegen
+    # Abkürzungs-Kollision; CD ausgenommen wegen Compact Disc
+    (r"\b(?:"
+     r"M{1,4}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})"  # ≥1000
+     r"|(?:CM|D?C{1,3})(?:XC|XL|L?X{0,3})?(?:IX|IV|V?I{0,3})?"         # 100–899 (ohne CD=400)
+     r"|(?:XC|XL|L?X{1,3})(?:IX|IV|V?I{0,3})?"                          # 10–99
+     r"|IX|IV|VIII|VII|VI|III|II"                                         # 2–9 explizit
+     r")\b",
+     "Römische Zahl (II–MMMCMXCIX — ohne I/V/X/L/CD wegen Abkürzungen)", 0),
+
     # Alte deutsche Rechtschreibung / Scanfehler
     (r"\bae(?:hn|uss|uss)\w*", "Alte Schreibweise ae- (\xc4hnliche, \xc4u\xdferst …)"),
     (r"\bue(?:ber|brig|bel)\w*", "Alte Schreibweise ue- (\xdcber, \xdcbrig …)"),
