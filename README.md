@@ -7,12 +7,40 @@ FUTO Keyboard ships an English-only next-word-prediction / autocorrect model; th
 
 ---
 
-## Current version: v0.5 — "Drink the Sea" (in training)
+## Current version: v0.5.1 — "To the max" (in training)
+
+> *Training in progress — 200k steps, ETA ~55h on RX 7900 XTX*
+
+136M parameter Llama model — 2.4× bigger than v0.5. Larger architecture (768 hidden, 12 layers, 12 heads, 3072 FFN), cleaner training data, new colloquial German topic.
+A Q4 quantization of this model is expected to outperform v0.5 F16.
+
+### What changed vs. v0.5
+
+**Architecture:** 512 → 768 hidden dims, 10 → 12 layers, 8 → 12 attention heads, 2048 → 3072 FFN (~57M → ~136M parameters)
+
+**Data quality:** c4 and FineWeb2 re-cleaned with sharpened filters — 1.74M sentences removed (Weeze, Schwedt, Meckenheim, Fine, Banater, Fünen, MDK, MdL, NDP, LSK, Fibu, SSe, Leu, Chet, j-ja, Fonem, Mediendom, Aalenerin and more)
+
+**Synthetic data:** New topic *Umgangssprache* — colloquial contractions (was'n, geht's, willste, haste, biste, kannste …) that appear on every German keyboard but were underrepresented
+
+**Tokenizer:** Retrained on the full cleaned corpus including FineWeb2 and the new synthetic topic
+
+### Eval results — v0.5 @ 105k vs. v0.5 @ 150k (HF checkpoint, no quantization)
+
+| Metric | v0.5 @ 105k | v0.5 @ 150k |
+|---|---:|---:|
+| Loss | 0.8391 | **0.7900** |
+| Top-1 Accuracy | 67.4% | **67.5%** |
+| Top-3 Accuracy | **82.9%** | 82.8% |
+| Top-5 Accuracy | 89.1% | **89.3%** |
+| KSR | 66.8% | **67.0%** |
+
+v0.5 did not plateau at 105k as initially believed — it continued improving until step 143k (loss minimum 0.790), then slightly rose as the cosine LR schedule ended. The accuracy plateau despite continued loss improvement suggests the model was saturating its capacity — motivation for the larger v0.5.1 architecture.
+
+## Previous version: v0.5 — "Drink the Sea"
 
 > *[Drink the Sea](https://www.youtube.com/watch?v=ezk_dD2Ia-w) — The Glitch Mob*
 
 57M parameter Llama model, significantly expanded training corpus including FineWeb2-HQ (68M sentences) and spoken German from podcasts.
-First release expected once training completes at 150k steps.
 
 ### Eval results — v0.5 @ 5k steps vs. v0.4 @ 80k steps
 
@@ -27,7 +55,7 @@ Evaluated on 500 freshly generated German sentences (not in either training corp
 | Prefix 2 chars → Top-1 | 77.2% | — | **78.7%** |
 | Prefix 3 chars → Top-1 | 88.2% | — | **88.4%** |
 
-v0.5 @ 100k ≈ 2 full epochs. All metrics are new highs. Training continues to 150k steps.
+v0.5 @ 100k ≈ 2 full epochs. Training ran to 150k steps (loss minimum 0.790 @ 143k).
 
 ### Quantization comparison — v0.5 @ 5k steps
 
@@ -106,13 +134,13 @@ It was trained on Tatoeba + mC4 + synthetic data only.
 
 ## Architecture
 
-| Parameter | Value |
-|---|---|
-| Architecture | Llama (GGUF via llama.cpp) |
-| Parameters | **57M** |
-| Layers | 10 × 512 hidden dims, 8 attention heads, 2048 FFN |
-| Context | 256 tokens |
-| Tokenizer | SentencePiece BPE, `treat_whitespace_as_suffix=true` |
+| Parameter | v0.5 | v0.5.1 |
+|---|---|---|
+| Architecture | Llama (GGUF via llama.cpp) | Llama (GGUF via llama.cpp) |
+| Parameters | 57M | **136M** |
+| Layers | 10 × 512 hidden, 8 heads, 2048 FFN | **12 × 768 hidden, 12 heads, 3072 FFN** |
+| Context | 256 tokens | 256 tokens |
+| Tokenizer | SentencePiece BPE, `treat_whitespace_as_suffix=true` | SentencePiece BPE, `treat_whitespace_as_suffix=true` |
 
 Special autocorrect tokens: `<XBU>`, `<CHAR_A>`…`<CHAR_Z>`, `<XBC>`, `<XEC>`
 
@@ -135,20 +163,22 @@ Battery impact is roughly proportional to file size — the keyboard model runs 
 
 ---
 
-## Training data — v0.5
+## Training data — v0.5.1
 
 | Source | Sentences | Weight | License |
 |---|---|---|---|
 | [Tatoeba DE](https://tatoeba.org) | 770k | 3× | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
-| [mC4 DE](https://huggingface.co/datasets/allenai/c4) (allenai/c4) | 80M | 1× | [ODC-By](https://opendatacommons.org/licenses/by/) |
-| [FineWeb2-HQ DE](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) | ~68M | 1× | [ODC-By](https://opendatacommons.org/licenses/by/) |
-| Synthetic (Qwen3.6:27b, 27 topics) | ~61k | 3× | generated, non-commercial |
+| [mC4 DE](https://huggingface.co/datasets/allenai/c4) (allenai/c4) | ~73M ¹ | 1× | [ODC-By](https://opendatacommons.org/licenses/by/) |
+| [FineWeb2-HQ DE](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) | ~67M ¹ | 1× | [ODC-By](https://opendatacommons.org/licenses/by/) |
+| Synthetic (Qwen3.6:27b, 28 topics) | ~66k | 3× | generated, non-commercial |
 | [Parlamentsrevue](https://parlamentsrevue.de) — Sabrina Gehder | 34k | 2× | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de) — Tim Pritlove & Linus Neumann | 178k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
 | [Methodisch Inkorrekt!](https://minkorrekt.de) — Nicolas Wöhrl & Reinhard Remfort | 42k | 2× | CC BY-NC-SA 3.0 |
 | [Raumzeit](https://raumzeit-podcast.de) — Tim Pritlove | 28k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
 | [Forschergeist](https://forschergeist.de) — Tim Pritlove | 35k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
 | [CRE: Technik, Kultur, Gesellschaft](https://cre.fm) — Tim Pritlove | 12k | 2× | [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/) |
+
+¹ After cleaning: 938k removed from c4, 799k removed from FineWeb2 (web spam, broken encoding, foreign language, hyperlocal place names, obscure abbreviations)
 
 All Whisper-transcribed podcast data was cleaned: filler words (ähm/äh) replaced, run-ons > 60 words removed, NOTE-block metadata stripped.
 
@@ -198,8 +228,8 @@ All Whisper-transcribed podcast data was cleaned: filler words (ähm/äh) replac
 ### 5. Train the model
 
 ```bash
-.venv_ml/bin/python 05_train_model.py --steps 150000 --version v0.5
-# ~30 hours on RX 7900 XTX (ROCm)
+.venv_ml/bin/python 05_train_model.py --steps 200000 --version v0.5.1
+# ~55 hours on RX 7900 XTX (ROCm)
 ```
 
 ### 6. Convert to GGUF

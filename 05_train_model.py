@@ -2,8 +2,8 @@
 """
 Trains a Llama-based German keyboard language model from scratch.
 
-Architecture (~57M Parameter):
-  10 Layer × 512 Hidden Dims × 8 Attention Heads × 2048 FFN
+Architecture (~129M Parameter):
+  12 Layer × 768 Hidden Dims × 12 Attention Heads × 3072 FFN
 
 Input:
   data/tatoeba_de.txt              Tatoeba German sentences
@@ -16,6 +16,10 @@ v0.5-Änderungen:
   - torch.compile() für Kernel-Fusion auf RDNA3
   - Batch 64 statt 32 (GRAD_ACCUM 4, effektiv 256 gleich)
   - Neue Quellen: CRE, Raumzeit, Forschergeist, MI, CCC Congress
+
+v0.5.1-Änderungen:
+  - Architektur: 512→768 hidden, 10→12 Layer, 8→12 Heads, 2048→3072 FFN
+  - Sauberere Trainingsdaten (c4+fineweb2 gecleaned, neues Umgangssprache-Topic)
 
 Usage:
   .venv_ml/bin/python 05_train_model.py [--steps 100000] [--resume]
@@ -83,10 +87,10 @@ PODCAST_WEIGHT        = 2   # alle weiteren Podcast-Quellen
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
-    hidden_size=512,
-    num_hidden_layers=10,
-    num_attention_heads=8,
-    intermediate_size=2048,
+    hidden_size=768,
+    num_hidden_layers=12,
+    num_attention_heads=12,
+    intermediate_size=3072,
     max_position_embeddings=256,
     rms_norm_eps=1e-5,
     rope_theta=10000.0,
@@ -265,7 +269,7 @@ def main():
     parser.add_argument("--no-synthetic", action="store_true")
     parser.add_argument("--steps",  type=int, default=200_000)
     parser.add_argument("--milestones", default=",".join(str(s) for s in range(50_000, 200_001, 10_000)))
-    parser.add_argument("--version", default="v0.5")
+    parser.add_argument("--version", default="v0.5.1")
     parser.add_argument("--resume", action="store_true")
     args = parser.parse_args()
 
@@ -338,7 +342,7 @@ def main():
     podcast_sources = [p.stem for p in [LNP_TXT, MINKORREKT_TXT, RAUMZEIT_TXT,
                        FORSCHERGEIST_TXT, CRE_TXT, CCC_CONGRESS_TXT] if p.exists()]
 
-    print(f"\nStarte Training v0.5 für {args.steps:,} Schritte ...")
+    print(f"\nStarte Training {args.version} für {args.steps:,} Schritte ...")
     print(f"  Effektive Batchgröße: {BATCH_SIZE * GRAD_ACCUM}  (batch={BATCH_SIZE}, accum={GRAD_ACCUM})")
     print(f"  Kontext:              {CONTEXT_LEN} Tokens")
     print(f"  Podcasts aktiv:       {', '.join(podcast_sources) or 'keine'}")
