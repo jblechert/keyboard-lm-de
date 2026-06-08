@@ -11,13 +11,18 @@ und entfernt exakt diese Sätze aus den Quelldateien.
 Usage:
   .venv_ml/bin/python 10_clean_training_data.py [--dry-run]
   .venv_ml/bin/python 10_clean_training_data.py --high-ppl data/high_ppl.txt [--dry-run]
+  .venv_ml/bin/python 10_clean_training_data.py --resume
+  .venv_ml/bin/python 10_clean_training_data.py --pause   # aus zweitem Terminal
 """
 
 import argparse
 import hashlib
 import html
+import json
+import multiprocessing as mp
 import os
 import re
+import signal
 import sys
 from pathlib import Path
 
@@ -233,7 +238,25 @@ LANG_DE = [
     (r"\bHd\b",     "Malformierte Abkürzung (Hd statt HD)", 0),
     (r"\bTWAs?\b",  "Obskure Abkürzung (TWA/TWAs)", 0),
     (r"\bEWS\b",    "Obskure Abkürzung (EWS)", 0),
-    (r"\bAich\b",   "Hyperlokal-Ortsname (Aich)", 0),
+    (r"\bLSKen?\b", "Obskure Abkürzung (LSK/LSKen)", 0),
+    (r"\bMDK\b",    "Obskure Abkürzung (MDK)", 0),
+    (r"\bNDP\b",    "Obskure Abkürzung (NDP)", 0),
+    (r"\bMdL\b",    "Parlamentsabkürzung (MdL — Mitglied des Landtags)", 0),
+    (r"\bAich\b",         "Hyperlokal-Ortsname (Aich)", 0),
+    (r"\bWeeze\b",        "Hyperlokal-Ortsname (Weeze)", 0),
+    (r"\bSchwedt\b",      "Hyperlokal-Ortsname (Schwedt)", 0),
+    (r"\bMeckenheims?\b",          "Hyperlokal-Ortsname (Meckenheim/Meckenheims)", 0),
+    (r"\bAalenerInnen?\b",         "Hyperlokal + Genderschreibung (AalenerIn/Innen)", 0),
+    (r"\bAalenerins?\b",           "Hyperlokal-Einwohnerin (Aalenerin)", 0),
+    (r"\bMediendom\b",             "Obskurer Eigenname (Mediendom)", 0),
+    (r"\bBanaters?\b",             "Obskurer Begriff (Banater/Banaters)", 0),
+    (r"\bFonems?\b",               "Obskurer/fehlerhafter Begriff (Fonem statt Phonem)", 0),
+    (r"\bSSe\b",                   "Korrumpierte Abkürzung/Artefakt (SSe)", 0),
+    (r"\bLeu\b",                   "Rumänische Währung (Leu — kein deutsches Wort)", 0),
+    (r"\bChet\b",                  "Fremdsprachiger Eigenname (Chet)", 0),
+    (r"\bj-ja\b",                  "Stotter-Artefakt (j-ja)", 0),
+    (r"\bFibu\b",                  "Obskure Abkürzung (Fibu — Finanzbuchhaltung)", 0),
+    (r"\bFine\b",         "Englisches/ital. Fremdwort (Fine)", 0),
 
     # E-Mail-Abschlussformel
     (r"\bMit freundlichen Gr\xfc\xdfen\b",
@@ -254,6 +277,10 @@ LANG_EXCLUDE = [
     # Nicht-deutsche europäische Sonderzeichen: Estnisch/Finnisch/Polnisch etc.
     (r"[õőűčšžāēīūţşąęśźżłńçğı]",
      "Nicht-dt. EU-Buchstabe (\xf5čšžāłçğı — Estnisch/Polnisch/Lettisch/T\xfcrkisch …)", 0),
+    # Fremdsprachige Ortsnamen/Wörter die nie in deutschen Sätzen vorkommen sollten
+    (r"\bFünens?\b", "Dänischer Ortsname (Fünen/Fünens — dän. Insel Fyn)", 0),
+    (r"\bÖr\b",      "Schwedisch/Dänisch (Ör — kein deutsches Wort)", 0),
+
     # Thorn: nur Isländisch/Altenglisch, nie Deutsch (auch: falsch konvertiertes ß)
     (r"[þÞ]",
      "Thorn (Isländisch/Altenglisch — kein deutsches Zeichen)", 0),
@@ -354,11 +381,75 @@ REPLACEMENTS = _build_replacements()
 MIN_WORDS = 4   # Zeilen mit weniger Woertern nach allen Replacements verwerfen
 MAX_WORDS = 60  # Podcast-Run-ons: Sätze über 60 Wörter raus
 
+CHECKPOINT_FILE = Path(__file__).parent / ".10_clean_checkpoint.json"
+PAUSE_FILE      = Path(__file__).parent / ".10_clean_pause"
+
+CHUNK_SIZE = 200_000  # Zeilen pro Worker-Chunk
+
+# Einmal kompilierte Pattern-Liste — via fork von Worker-Prozessen geerbt
+PATTERNS: list = []
+for _e in BANNED:
+    _flags = _e[2] if len(_e) > 2 else re.IGNORECASE
+    PATTERNS.append((re.compile(_e[0], _flags), _e[1]))
+
+# Worker-State (wird per Pool-Initializer gesetzt)
+_W_HIGH_PPL: frozenset = frozenset()
+
+
+def _worker_init(high_ppl_set: frozenset) -> None:
+    global _W_HIGH_PPL
+    _W_HIGH_PPL = high_ppl_set
+
+
+def _process_chunk(lines: list[str]):
+    kept = []
+    removed: dict[str, int] = {}
+    replaced = {desc: 0 for _, _, desc in REPLACEMENTS}
+    n_ppl = n_short = 0
+    for line in lines:
+        stripped = line.strip()
+        if stripped in _W_HIGH_PPL:
+            n_ppl += 1
+            continue
+        drop = False
+        for pat, desc in PATTERNS:
+            if pat.search(line):
+                removed[desc] = removed.get(desc, 0) + 1
+                drop = True
+                break
+        if not drop:
+            for pat, repl, desc in REPLACEMENTS:
+                new_line, n = pat.subn(repl, line)
+                if n:
+                    replaced[desc] += n
+                    line = new_line
+            line = line.strip()
+            if line:
+                line = line[0].upper() + line[1:]
+            words = len(line.split())
+            if words < MIN_WORDS or words > MAX_WORDS:
+                n_short += 1
+            else:
+                kept.append(line)
+    return kept, removed, replaced, n_ppl, n_short, len(lines)
+
+
+def _read_chunks(fh, size: int):
+    chunk: list[str] = []
+    for line in fh:
+        chunk.append(line)
+        if len(chunk) >= size:
+            yield chunk
+            chunk = []
+    if chunk:
+        yield chunk
+
 # ── Quelldateien ──────────────────────────────────────────────────────────────
 
 SOURCES = [
     Path("data/tatoeba_de.txt"),
     Path("data/c4_de.txt"),
+    Path("data/fineweb2_de.txt"),
     *sorted(Path("data").glob("synthetic_*.txt")),
     Path("data/parlamentsrevue_de.txt"),
     Path("data/lnp_de.txt"),
@@ -380,13 +471,45 @@ def main():
     parser.add_argument("--high-ppl", metavar="FILE",
                         help="Datei mit S\xe4tzen hoher Perplexity (eine pro Zeile); "
                              "exakte \xdcbereinstimmungen werden entfernt")
+    parser.add_argument("--pause", action="store_true",
+                        help="Laufendes Skript nach aktueller Datei anhalten (Pause-Anforderung setzen)")
+    parser.add_argument("--resume", action="store_true",
+                        help="Verarbeitung ab dem letzten Checkpoint fortsetzen")
+    parser.add_argument("--workers", type=int, default=max(1, mp.cpu_count() - 2),
+                        help=f"Parallele Worker (default: CPU-Kerne minus 2 = {max(1, mp.cpu_count() - 2)})")
     args = parser.parse_args()
 
-    patterns = []
-    for entry in BANNED:
-        p, desc = entry[0], entry[1]
-        flags = entry[2] if len(entry) > 2 else re.IGNORECASE
-        patterns.append((re.compile(p, flags), desc))
+    # --pause: Pause-Signal für laufende Instanz setzen, dann beenden
+    if args.pause:
+        PAUSE_FILE.touch()
+        print("Pause-Anforderung gesetzt — das laufende Skript hält nach der aktuellen Datei an.")
+        print(f"Fortsetzen mit: --resume")
+        return
+
+    # --resume: bereits verarbeitete Dateien aus Checkpoint laden
+    done_files: set[str] = set()
+    if args.resume:
+        if CHECKPOINT_FILE.exists():
+            data = json.loads(CHECKPOINT_FILE.read_text(encoding="utf-8"))
+            done_files = set(data.get("done", []))
+            print(f"Fortsetzen: {len(done_files)} Datei(en) bereits verarbeitet — werden übersprungen.")
+        else:
+            print("Kein Checkpoint gefunden — starte von vorne.")
+        PAUSE_FILE.unlink(missing_ok=True)
+
+    # Ctrl+C: beim ersten Mal graceful pause, beim zweiten Mal sofort abbrechen
+    pause_flag = [False]
+
+    def _on_sigint(sig, frame):
+        if pause_flag[0]:
+            print("\nZweites Signal — sofortiger Abbruch.", file=sys.stderr)
+            sys.exit(130)
+        pause_flag[0] = True
+        print("\nCtrl+C: Pause nach aktueller Datei … (nochmals Ctrl+C zum sofortigen Abbruch)",
+              file=sys.stderr)
+
+    signal.signal(signal.SIGINT, _on_sigint)
+    signal.signal(signal.SIGTERM, _on_sigint)
 
     # Optionale Menge von Sätzen aus --high-ppl
     high_ppl_set: set[str] = set()
@@ -401,9 +524,14 @@ def main():
     sources = [Path(f) for f in args.files] if args.files else SOURCES
     seen_hashes: set[int] = set()
     total_removed = 0
+    paused = False
 
     for src in sources:
         if not src.exists():
+            continue
+
+        if str(src) in done_files:
+            print(f"{src}: übersprungen (Checkpoint)")
             continue
 
         tmp = src.with_suffix(".tmp")
@@ -415,48 +543,73 @@ def main():
         n_short_removed = 0
         replacement_counts = {desc: 0 for _, _, desc in REPLACEMENTS}
 
+        n_workers = args.workers
+        if args.dedup and n_workers > 1:
+            print(f"  Hinweis: --dedup erfordert seriellen Modus (--workers 1).")
+            n_workers = 1
+
         with src.open("r", encoding="utf-8") as fin, \
              (tmp.open("w", encoding="utf-8") if not args.dry_run else open(os.devnull, "w")) as fout:
-            for line in fin:
-                n_total += 1
-                stripped = line.strip()
 
-                if stripped in high_ppl_set:
-                    n_ppl_removed += 1
-                    continue
+            if n_workers > 1:
+                with mp.Pool(n_workers, initializer=_worker_init,
+                             initargs=(frozenset(high_ppl_set),)) as pool:
+                    for r_kept, r_removed, r_replaced, r_ppl, r_short, r_n in \
+                            pool.imap(_process_chunk, _read_chunks(fin, CHUNK_SIZE), chunksize=2):
+                        prev = n_total // 5_000_000
+                        n_total += r_n
+                        n_kept += len(r_kept)
+                        n_ppl_removed += r_ppl
+                        n_short_removed += r_short
+                        for desc, count in r_removed.items():
+                            removed_counts[desc] += count
+                        for desc, count in r_replaced.items():
+                            replacement_counts[desc] += count
+                        for line in r_kept:
+                            fout.write(line + "\n")
+                        if n_total // 5_000_000 > prev:
+                            print(f"  {src.name}: {n_total:,} gelesen …", flush=True)
+            else:
+                for line in fin:
+                    n_total += 1
+                    stripped = line.strip()
 
-                if args.dedup:
-                    h = int.from_bytes(hashlib.md5(stripped.encode()).digest()[:8], "little")
-                    if h in seen_hashes:
-                        n_dedup_removed += 1
+                    if stripped in high_ppl_set:
+                        n_ppl_removed += 1
                         continue
-                    seen_hashes.add(h)
 
-                drop = False
-                for pat, desc in patterns:
-                    if pat.search(line):
-                        removed_counts[desc] += 1
-                        drop = True
-                        break
+                    if args.dedup:
+                        h = int.from_bytes(hashlib.md5(stripped.encode()).digest()[:8], "little")
+                        if h in seen_hashes:
+                            n_dedup_removed += 1
+                            continue
+                        seen_hashes.add(h)
 
-                if not drop:
-                    for pat, repl, desc in REPLACEMENTS:
-                        new_line, n = pat.subn(repl, line)
-                        if n:
-                            replacement_counts[desc] += n
-                            line = new_line
-                    line = line.strip()
-                    if line:
-                        line = line[0].upper() + line[1:]
-                    words = len(line.split())
-                    if words < MIN_WORDS or words > MAX_WORDS:
-                        n_short_removed += 1
-                    else:
-                        fout.write(line + "\n")
-                        n_kept += 1
+                    drop = False
+                    for pat, desc in PATTERNS:
+                        if pat.search(line):
+                            removed_counts[desc] += 1
+                            drop = True
+                            break
 
-                if n_total % 5_000_000 == 0:
-                    print(f"  {src.name}: {n_total:,} gelesen …", flush=True)
+                    if not drop:
+                        for pat, repl, desc in REPLACEMENTS:
+                            new_line, n = pat.subn(repl, line)
+                            if n:
+                                replacement_counts[desc] += n
+                                line = new_line
+                        line = line.strip()
+                        if line:
+                            line = line[0].upper() + line[1:]
+                        words = len(line.split())
+                        if words < MIN_WORDS or words > MAX_WORDS:
+                            n_short_removed += 1
+                        else:
+                            fout.write(line + "\n")
+                            n_kept += 1
+
+                    if n_total % 5_000_000 == 0:
+                        print(f"  {src.name}: {n_total:,} gelesen …", flush=True)
 
         n_removed = n_total - n_kept
         total_removed += n_removed
@@ -465,29 +618,45 @@ def main():
             print(f"{src}: keine Treffer ({n_total:,} S\xe4tze)")
             if not args.dry_run:
                 tmp.unlink()
-            continue
+        else:
+            print(f"{src}: {n_removed:,} S\xe4tze entfernt (von {n_total:,})")
+            if n_short_removed:
+                print(f"  {n_short_removed:>8,}\xd7  zu kurz (< {MIN_WORDS} Woerter nach Cleaning)")
+            if n_ppl_removed:
+                print(f"  {n_ppl_removed:>8,}\xd7  hohe Perplexity (--high-ppl)")
+            if n_dedup_removed:
+                print(f"  {n_dedup_removed:>8,}\xd7  Duplikat (--dedup)")
+            for desc, count in removed_counts.items():
+                if count:
+                    print(f"  {count:>8,}\xd7  {desc}")
+            for desc, count in replacement_counts.items():
+                if count:
+                    print(f"  {count:>8,}\xd7  {desc}")
+            if not args.dry_run:
+                tmp.replace(src)
 
-        print(f"{src}: {n_removed:,} S\xe4tze entfernt (von {n_total:,})")
-        if n_short_removed:
-            print(f"  {n_short_removed:>8,}\xd7  zu kurz (< {MIN_WORDS} Woerter nach Cleaning)")
-        if n_ppl_removed:
-            print(f"  {n_ppl_removed:>8,}\xd7  hohe Perplexity (--high-ppl)")
-        if n_dedup_removed:
-            print(f"  {n_dedup_removed:>8,}\xd7  Duplikat (--dedup)")
-        for desc, count in removed_counts.items():
-            if count:
-                print(f"  {count:>8,}\xd7  {desc}")
-
-        for desc, count in replacement_counts.items():
-            if count:
-                print(f"  {count:>8,}\xd7  {desc}")
-
+        # Checkpoint nach jeder Datei aktualisieren (auch bei 0 Treffern)
         if not args.dry_run:
-            tmp.replace(src)
+            done_files.add(str(src))
+            CHECKPOINT_FILE.write_text(
+                json.dumps({"done": sorted(done_files)}, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
+
+        # Pause-Anforderung prüfen (--pause aus zweitem Terminal oder Ctrl+C)
+        if pause_flag[0] or PAUSE_FILE.exists():
+            PAUSE_FILE.unlink(missing_ok=True)
+            paused = True
+            print("\nAngehalten. Fortsetzen mit: --resume")
+            break
 
     print(f"\nGesamt entfernt: {total_removed:,}")
     if args.dry_run:
         print("(Dry-run — keine Datei ver\xe4ndert)")
+    elif not paused and not args.dry_run:
+        # Alles fertig — Checkpoint aufräumen
+        CHECKPOINT_FILE.unlink(missing_ok=True)
+        print("Checkpoint gelöscht (alle Dateien vollständig verarbeitet).")
 
 
 if __name__ == "__main__":

@@ -535,6 +535,32 @@ TOPICS = {
             "Der Museumspass lohnt sich bei einem langen Wochenende.",
         ],
     },
+    "umgangssprache": {
+        "name": "Umgangssprache & Verkürzungen",
+        "beschreibung": (
+            "Sätze mit überregionalen umgangssprachlichen Verschleifungen — "
+            "wie sie in WhatsApp, SMS und normalen Gesprächen vorkommen.\n\n"
+            "Erlaubte -ste-Formen (NUR von Verben auf -st in der 2. Pers. Sg.):\n"
+            "haste, biste, willste, kannste, kennste, machste, kommste, gehste, "
+            "weißte, findste, schaffste, magste, kriegste, denkste, glaubste, "
+            "sagste, fragste, holste, bringste, packste, passte, warste.\n\n"
+            "Erlaubte Enklitika: geht's, macht's, gibt's, hat's, tut's, ist's, "
+            "war's, klappt's, passt's, was'n (= was denn), wie'n, das'n.\n\n"
+            "NICHT ERLAUBT: 'sindste' (erfunden — 'sind' hat keine 2.Sg.-Form), "
+            "'ischste'/'isch' (Frankfurter Dialekt), jede Form die nicht in den "
+            "Listen oben steht. Nur Formen aus den Listen verwenden."
+        ),
+        "beispiele": [
+            "Was'n das für ein Wetter heute?",
+            "Geht's dir eigentlich besser?",
+            "Willste noch was trinken?",
+            "Tut's noch weh?",
+            "Haste schon gegessen?",
+            "Biste heute Abend zu Hause?",
+            "Kennste das Lied, das grade überall läuft?",
+            "Machste das bitte kurz fertig?",
+        ],
+    },
 }
 
 SYSTEM_PROMPT = """Du generierst deutsche Sätze so wie echte Menschen sie auf dem Smartphone tippen.
