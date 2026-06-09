@@ -342,7 +342,8 @@ def _build_replacements():
         ("\xe2\x80\x91", "'", "Mojibake ae-Euro-rq -> Apostroph"),
         ("\xe2\x80\x99", "",  "Mojibake ae-Euro-tm -> Anf.-Zeichen (wird gestrichen)"),
         # Anführungszeichen aller Art entfernen
-        (r'["""„\xab\xbb]', "",  'Anf\xfchrungszeichen entfernen ("„"\xbb\xab)'),
+        # U+0022 gerade, U+00AB/BB Guillemets, U+2018-201F alle typograf. Einzel-/Doppelanführungen
+        (r'["«»‘-‟]', "",  'Anführungszeichen entfernen (", «», ‘-‟)'),
         # Zitatmarker und Pfeilzeichen entfernen: > Zitat, <Verweis>
         (r'[<>]', '', 'Spitze Klammern (Zitatmarker, Pfeil)'),
         # Fehlende Leerzeichen nach Satzzeichen reparieren
