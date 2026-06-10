@@ -5,7 +5,7 @@ FUTO Keyboard ships an English-only model; this project builds the German equiva
 
 **Pretrained models:** [Releases](https://github.com/jblechert/keyboard-lm-de/releases) — drop the `.gguf` into FUTO Keyboard → Settings → Language Models.
 
-> **Important:** Use a **QWERTZ layout without ä, ö, ü** (e.g. "German QWERTZ" without umlaut keys on the main layer). This makes a significant difference in prediction quality — the model is trained for standard QWERTZ input where umlauts are typed via long-press or a separate key, not as direct layout keys.
+> **Important:** Use a **QWERTZ layout without ä, ö, ü** on the main layer. FUTO Keyboard's built-in swipe model works significantly better on standard QWERTZ — umlauts via long-press or a separate key, not as direct layout keys.
 
 ---
 
