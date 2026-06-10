@@ -400,6 +400,11 @@ def _build_replacements():
              m.group()
          ),
          'ISO-8859-16/CP1250 Mojibake (Ă + Sonderzeichen → Umlaut)'),
+        # Auslassungspunkte im Satzinneren (... / …) → Leerzeichen
+        # Satzenden mit ... werden bereits durch BAN_PATTERNS gebannt;
+        # hier werden die mittleren Vorkommen bereinigt damit das Modell
+        # keine Auslassungspunkte als Vorschläge lernt.
+        (r'(?:\.{2,}|…)', ' ', 'Auslassungspunkte im Satz (... / … → Leerzeichen)'),
         (r'  +', ' ', 'Doppeltes Leerzeichen'),
         (r',\s*,', ',', 'Doppeltes Komma nach Füllwort'),
     ]
