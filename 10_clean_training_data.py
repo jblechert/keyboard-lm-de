@@ -52,18 +52,19 @@ WEB_ARTIFACTS = [
     # Strukturelle Artefakte
     (r"^-\s+\S",            "Zeile beginnt mit Listenpunkt (- item)"),
     (r"^[•▪▸►*|]",            "Zeile beginnt mit Aufzählungszeichen/Pipe (•▪▸►*|)"),
-    (r"^[A-Za-z][.)]\s",   "Zeile beginnt mit Listenpräfix (a) item, A. item)"),
+    (r"^[a-z][)]\s",        "Zeile beginnt mit Listenpräfix (a) item, b) item)"),
     (r"^\[",                 "Zeile beginnt mit [ (Blog-Tag, Kategorie-Header)"),
     (r"(?:.*#){3}",          "≥3 Hashtags (Social-Media-Tag-Spam)"),
     (r":\s*:",               "Doppelter Doppelpunkt (Formular-/Template-Artefakt)"),
-    (r"\bN\xe4chste\s+Seite\b", "Paginierungs-Navigation (Nächste Seite)", 0),
+    (r"\bN\xe4chste\s+Seite\b", "Paginierungs-Navigation (Nächste Seite)"),
     (r"\?[a-zäöüß]{2}",     "Fragezeichen statt ß (Kodierungsfehler: Bekannterma?en)"),
     (r"^(?:(?![äöüÄÖÜß]).)*\b(?:the|find|visit|recent|your|with|from|that|this|have|will|are|were|been|their|they|what|which|when|where|how|you|our|more|also|most|some|all|can|not|for|its|but|and|has|was|his|her|of)\b(?:(?![äöüÄÖÜß]).)*$",
      "Englischer Satz (keine Umlaute + englische Funktionswörter)", re.IGNORECASE),
     # "by" als Einzelwort (lowercase) ist kein deutsches Wort
     (r"\bby\b", "Englisches 'by' als Einzelwort (nie deutsches Wort)", 0),
     # Blog-Zeitstempel: "vor 3 Stunden / vor 2 Tagen" — Web-Metadaten
-    (r"\bvor\s+\d+\s+(?:Stunden?|Minuten?|Tagen?|Wochen?|Jahren?|Monaten?)\b",
+    # Nur Stunden/Minuten/Tage — "vor 100 Jahren" ist legitimer Fließtext
+    (r"\bvor\s+\d+\s+(?:Stunden?|Minuten?|Tagen?)\b",
      "Blog-Zeitstempel (vor 3 Stunden / vor 2 Tagen …)"),
     # Programm-Listings: mehrere Uhrzeiten in einem Satz (Event-Programme, Stundenpläne)
     (r"\d{1,2}[:.]\d{2}\s*Uhr.{3,80}\d{1,2}[:.]\d{2}\s*Uhr",
@@ -76,7 +77,7 @@ WEB_ARTIFACTS = [
      r"|another|between|because|something|nothing|everything|anything|already|usually"
      r"|actually|simply|previously|currently|especially|particularly|generally|basically)\b",
      "Englischer Einschub in deutschem Satz (primarily/consists/available …)", re.IGNORECASE),
-    (r"(?:[^>]*>){3}",       "≥3 > (Breadcrumb-Navigation)"),
+    (r"(?:[^>]*>){2,}",      "≥2 > (Breadcrumb-Navigation)"),
     (r"\u2192|\u279c|\u27a1|\u203a|\u2039", "HTML-Navigationspfeil/Breadcrumb (→ ➜ ➡ › ‹ in Linktext)"),
     (r"\[[A-Z\xc4\xd6\xdc][a-zA-Z\xc4\xd6\xdc\xe4\xf6\xfc\xdf]{1,20}\]",
      "Bracket-Tag ([Top], [Kategorie]) — Navigation/Template-Artefakt"),
@@ -136,15 +137,17 @@ LANG_DE = [
     (r"\bDiese\s+\d+\s+(?:Dinge|Tipps?|Wege?|Gr\xfcnde?|Fakten|Tricks?|Methoden?|Schritte?|Punkte?|Fragen?|Fehler|Zeichen)\b",
      "Clickbait-Listicle (Diese 5 Dinge / 10 Tipps …)", 0),
 
-    # Römische Zahlen — einzelne Buchstaben (I/V/X/L/C/D/M) ausgenommen wegen
-    # Abkürzungs-Kollision; CD ausgenommen wegen Compact Disc
+    # Römische Zahlen — Einzelbuchstaben I/V/X/L/C/D/M alle ausgeschlossen
+    # (Kollision mit Abkürzungen, Vitamin C, USB-C, etc.)
+    # CD ausgeschlossen wegen Compact Disc; nur Mehrzeichenkombinationen
     (r"\b(?:"
-     r"M{1,4}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})"  # ≥1000
-     r"|(?:CM|D?C{1,3})(?:XC|XL|L?X{0,3})?(?:IX|IV|V?I{0,3})?"         # 100–899 (ohne CD=400)
-     r"|(?:XC|XL|L?X{1,3})(?:IX|IV|V?I{0,3})?"                          # 10–99
-     r"|IX|IV|VIII|VII|VI|III|II"                                         # 2–9 explizit
+     r"M{2,4}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})"  # ≥2000
+     r"|M(?:CM|CD|D?C{1,3}|(?:XC|XL|L?X{1,3})|IX|IV|VIII|VII|VI|III|II)"  # 1000+Rest (mind. 2 Zeichen)
+     r"|CM|DM|DC{1,3}|C{2,3}M?|C{1,3}(?:XC|XL|L?X{1,3})|C{1,3}(?:IX|IV|VIII|VII|VI|III|II)"  # 100–899 mehrzeichig
+     r"|(?:XC|XL|L?X{1,3})(?:IX|IV|V?I{1,3})|XC|XL|XX{1,2}|LX{0,3}I{1,3}|LX{1,3}"  # 10–99 mehrzeichig
+     r"|IX|IV|VIII|VII|VI|III|II"                                          # 2–9 explizit
      r")\b",
-     "Römische Zahl (II–MMMCMXCIX — ohne I/V/X/L/CD wegen Abkürzungen)", 0),
+     "Römische Zahl (II–MMMCMXCIX — Einzelbuchstaben C/D/M/X/L/V/I alle ausgeschlossen)", 0),
 
     # Alte deutsche Rechtschreibung / Scanfehler
     (r"\bae(?:hn|uss|uss)\w*", "Alte Schreibweise ae- (\xc4hnliche, \xc4u\xdferst …)"),
@@ -326,14 +329,15 @@ def _build_replacements():
         # Schweizer Schreibweise ohne ß → Standard-Deutsch
         (r"\bgrosse(n|r|s|m)?\b", lambda m: "gro\xdfe" + (m.group(1) or ""),          "grosse→gro\xdfe"),
         (r"\bGrosse(n|r|s|m)?\b", lambda m: "Gro\xdfe" + (m.group(1) or ""),          "Grosse→Gro\xdfe"),
-        # Mojibake: doppelt falsch dekodierte Umlaute reparieren
-        ("\xc3\xa4", "\xe4", "Mojibake \xc3\xa4 -> \xe4"),
-        ("\xc3\xb6", "\xf6", "Mojibake \xc3\xb6 -> \xf6"),
-        ("\xc3\xbc", "\xfc", "Mojibake \xc3\xbc -> \xfc"),
-        ("\xc3", "\xc4", "Mojibake \xc3 -> \xc4"),
-        ("\xc3", "\xd6", "Mojibake \xc3 -> \xd6"),
-        ("\xc3", "\xdc", "Mojibake \xc3 -> \xdc"),
-        ("\xc3", "\xdf", "Mojibake \xc3 -> \xdf"),
+        # Mojibake: UTF-8-Bytes als Latin-1 gelesen → Umlaute reparieren
+        # Muster: Ã (U+00C3) + kombinierender Buchstabe statt korrektem Umlaut
+        ("\xc3\xa4", "\xe4", "Mojibake ä (Ã¤ → ä)"),
+        ("\xc3\xb6", "\xf6", "Mojibake ö (Ã¶ → ö)"),
+        ("\xc3\xbc", "\xfc", "Mojibake ü (Ã¼ → ü)"),
+        ("\xc3\x84", "\xc4", "Mojibake Ä (Ã\x84 → Ä)"),
+        ("\xc3\x96", "\xd6", "Mojibake Ö (Ã\x96 → Ö)"),
+        ("\xc3\x9c", "\xdc", "Mojibake Ü (Ã\x9c → Ü)"),
+        ("\xc3\x9f", "\xdf", "Mojibake ß (Ã\x9f → ß)"),
         # C1-Steuerzeichen (U+0080-U+009F): Windows-1252-Artefakte
         ("[\x80-\x9f]", "", "C1-Steuerzeichen entfernen (Windows-1252-Artefakte)"),
         # Mojibake Typ 2: UTF-8-Bytes als Windows-1252 gelesen (ae-Euro-Sequenzen)
