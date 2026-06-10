@@ -77,6 +77,10 @@ WEB_ARTIFACTS = [
      r"|another|between|because|something|nothing|everything|anything|already|usually"
      r"|actually|simply|previously|currently|especially|particularly|generally|basically)\b",
      "Englischer Einschub in deutschem Satz (primarily/consists/available …)", re.IGNORECASE),
+    # Englische Tech-/App-Begriffe die in echtem deutschen Fließtext nicht vorkommen
+    (r"\b(?:request|application|email|login|password|username|submit|button|click|install"
+     r"|download|upload|settings|dashboard|profile|account|logout|signup|signin)\b",
+     "Englischer UI/Tech-Begriff (request/application/email …)", re.IGNORECASE),
     (r"(?:[^>]*>){2,}",      "≥2 > (Breadcrumb-Navigation)"),
     (r"\u2192|\u279c|\u27a1|\u203a|\u2039", "HTML-Navigationspfeil/Breadcrumb (→ ➜ ➡ › ‹ in Linktext)"),
     (r"\[[A-Z\xc4\xd6\xdc][a-zA-Z\xc4\xd6\xdc\xe4\xf6\xfc\xdf]{1,20}\]",
@@ -386,6 +390,10 @@ def _build_replacements():
         # Semikolon: wort;Wort -> wort; Wort
         (r'([a-z\xe4\xf6\xfc\xdf]);([A-Za-z\xc4\xd6\xdc\xe4\xf6\xfc])', r'\1; \2',
          'Fehlender Abstand nach Semikolon'),
+        # Akut-Akzent als Pseudo-Apostroph (U+00B4, z.B. war´s) → Apostroph
+        ("´", "'", "Akut-Akzent als Apostroph (´ → ')"),
+        # Leerzeichen vor Terminal-Punkt (z.B. "gemacht ." oder "! .")
+        (r'\s+\.(\s*$)', r'.\1', 'Leerzeichen vor Terminal-Punkt ( . → .)'),
         # Gesprochene Füllwörter entfernen (Whisper-Artefakte aus Podcasts)
         (r'(?i)\s*\b(?:ähm+|äh|öh|hmm?|mhm|ehm)\b\s*', ' ',
          'Füllwort ersetzen (ähm/äh → leer)'),
