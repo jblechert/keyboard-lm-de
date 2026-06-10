@@ -87,10 +87,10 @@ PODCAST_WEIGHT        = 2   # alle weiteren Podcast-Quellen
 
 # ── Modell-Architektur (FUTO-kompatibel) ──────────────────────────────────────
 MODEL_CONFIG = dict(
-    hidden_size=768,
-    num_hidden_layers=12,
-    num_attention_heads=12,
-    intermediate_size=3072,
+    hidden_size=512,
+    num_hidden_layers=10,
+    num_attention_heads=8,
+    intermediate_size=2048,
     max_position_embeddings=256,
     rms_norm_eps=1e-5,
     rope_theta=10000.0,
