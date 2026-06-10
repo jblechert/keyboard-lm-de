@@ -52,6 +52,7 @@ WEB_ARTIFACTS = [
     # Strukturelle Artefakte
     (r"^-\s+\S",            "Zeile beginnt mit Listenpunkt (- item)"),
     (r"^[•▪▸►*|]",            "Zeile beginnt mit Aufzählungszeichen/Pipe (•▪▸►*|)"),
+    (r"^[A-Za-z][.)]\s",   "Zeile beginnt mit Listenpräfix (a) item, A. item)"),
     (r"^\[",                 "Zeile beginnt mit [ (Blog-Tag, Kategorie-Header)"),
     (r"(?:.*#){3}",          "≥3 Hashtags (Social-Media-Tag-Spam)"),
     (r":\s*:",               "Doppelter Doppelpunkt (Formular-/Template-Artefakt)"),
@@ -349,6 +350,29 @@ def _build_replacements():
         # Fehlende Leerzeichen nach Satzzeichen reparieren
         # Weiches Trennzeichen (U+00AD): Formatierungsartefakt aus Web-Quellen
         ("\xad", "", "Weiches Trennzeichen (U+00AD) entfernen"),
+        # Häufige deutsche Abkürzungen ausschreiben — VOR dem Punkt-Spacing,
+        # damit z.B. nicht zu "z. B." aufgetrennt wird (→ Single-Letter-Tokens)
+        (r'\bz\.B\.', 'zum Beispiel', 'z.B. → zum Beispiel'),
+        (r'\bz\.b\.', 'zum Beispiel', 'z.b. → zum Beispiel'),
+        (r'\bd\.h\.', 'das heißt',    'd.h. → das heißt'),
+        (r'\bu\.a\.', 'unter anderem', 'u.a. → unter anderem'),
+        (r'\bu\.U\.', 'unter Umständen', 'u.U. → unter Umständen'),
+        (r'\bz\.T\.', 'zum Teil',      'z.T. → zum Teil'),
+        (r'\bv\.a\.', 'vor allem',     'v.a. → vor allem'),
+        (r'\bi\.d\.R\.', 'in der Regel', 'i.d.R. → in der Regel'),
+        (r'\bi\.A\.', 'im Auftrag',    'i.A. → im Auftrag'),
+        (r'\bs\.o\.', 'siehe oben',    's.o. → siehe oben'),
+        (r'\bs\.u\.', 'siehe unten',   's.u. → siehe unten'),
+        (r'\ba\.a\.O\.', 'am angeführten Ort', 'a.a.O. → am angeführten Ort'),
+        (r'\bo\.ä\.', 'oder ähnliches', 'o.ä. → oder ähnliches'),
+        (r'\bo\.Ä\.', 'oder Ähnliches', 'o.Ä. → oder Ähnliches'),
+        (r'\bggf\.', 'gegebenenfalls', 'ggf. → gegebenenfalls'),
+        (r'\bbzw\.', 'beziehungsweise', 'bzw. → beziehungsweise'),
+        (r'\busw\.', 'und so weiter',  'usw. → und so weiter'),
+        (r'\binkl\.', 'inklusive',     'inkl. → inklusive'),
+        (r'\bca\.', 'circa',           'ca. → circa'),
+        (r'\bevtl\.', 'eventuell',     'evtl. → eventuell'),
+        (r'\bvgl\.', 'vergleiche',     'vgl. → vergleiche'),
         # Punkt: Prof.Dr. -> Prof. Dr., e.V. -> e. V., Satz.Satz -> Satz. Satz
         (r'([a-z\xe4\xf6\xfc\xdf])\.([A-Z\xc4\xd6\xdc])', r'\1. \2',
          'Fehlender Abstand nach Punkt (Prof.Dr. -> Prof. Dr.)'),
