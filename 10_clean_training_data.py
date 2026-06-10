@@ -48,6 +48,8 @@ WEB_ARTIFACTS = [
     (r"^[A-Z]\.\s", "Satzanfang mit einzelnem Buchstabe+Punkt (A. / B. \u2014 Listenkontext)"),
     (r"(?:\.{2,}|\u2026)\s*$", "Satzende mit .. / ... / … (unvollständig/abgebrochen)"),
     (r":\s*$",                    "Satzende mit Doppelpunkt (Überschrift/Intro-Fragment)"),
+    # Offene Klammer + Zahl am Satzende: "(11." — Truncation aus Aufzählung/Fußnote
+    (r"\(\d+\.\s*$", "Truncation: offene Klammer+Zahl am Satzende ((11.)"),
     (r"\[\.\.\.|\[…\]", "Eckige Klammer mit Auslassungspunkten ([...]/[…])"),
     (r"[!?]{2,}\s*$",       "Satzende mit !! oder ?? (Ausrufe-Spam)"),
     (r"\s(?:Dr|Prof|Hr|Fr|Nr|Col|Gen|Lt|Cpt|St|Tel|Bd|Mio|Mrd|Jh|bzw|ggf|inkl|usw|vgl|vs|Abb|Abs|ca|max|min|Fam|o\.\s*g|o\.\s*[äa]|u\.\s*[äa]|u\.\s*a|z\.\s*B|d\.\s*h|i\.\s*d\.\s*R|gem)\.\s*$",
@@ -207,8 +209,17 @@ LANG_DE = [
     # Blog-Metadaten
     (r"keine Kommentare",    "Blog-Metadaten (keine Kommentare)"),
     (r"geschrieben von\b",   "Blog-Autorenzeile (geschrieben von ...)"),
-    (r"\bklicken?\s+(?:Sie\s+)?(?:hier|auf|bitte)\b|\bhier\s+klicken\b",
-     "Navigations-CTA (klicken Sie hier, hier klicken, klick auf …)"),
+    (r"\bklicken?\s+(?:Sie\s+)?(?:hier|auf|bitte)\b|\bhier\s+klicken\b"
+     r"|\bfinden\s+Sie\s+(?:hier|uns|mehr|alles?)\s*[.!]?\s*$",
+     "Navigations-CTA (klicken Sie hier, finden Sie hier …)"),
+    # Forum-Statistik-Zeilen: "wurde X mal besucht", "hat X Antworten"
+    (r"\b\d+\s*[Mm]al\s+(?:besucht|aufgerufen|gelesen|angesehen|kommentiert)\b"
+     r"|\bhat\s+\d+\s+Antworten?\b",
+     "Forum-Statistik (X mal besucht / hat X Antworten)"),
+    # Pharma-Spam-Injektion: "generika" klein geschrieben (Spam-Injection in Fließtext)
+    # Legitimiertes "Generika" (Großbuchstabe) als deutsches Nomen bleibt erlaubt.
+    (r"\bgenerika\b",
+     "Pharma-Spam-Injektion (generika kleingeschrieben — kein deutsches Nomen)"),
     (r"^\s*Bild\w*\s*\w*:",  "Bildunterschrift (Bild oben:, Bild links: ...)"),
     (r"^\s*Tags?\s*(?:für\s+diesen\s+Artikel\s*)?:", "Blog-Tags (Tags: keyword, keyword …)"),
     (r"^\s*(?:Regie|Drehbuch|Darsteller|Produktion|Kamera|Schnitt|Musik)\s*:",
