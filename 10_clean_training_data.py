@@ -42,6 +42,10 @@ WEB_ARTIFACTS = [
      "Kein Terminal-Satzzeichen (abgebrochener Satz / Überschrift)"),
     (r"\b[a-z][a-z0-9-]{3,}\.[a-z]{2,6}\s*$",
      "Domain/URL am Satzende (managerfragen.org, loewenvergleich.de \u2026)"),
+    (r"\b[a-z][a-z0-9-]{3,}\.[a-z]{2,6}\b",
+     "Domain/URL mitten im Satz"),
+    # Satzanfang mit einzelnem Gro\u00dfbuchstaben + Punkt (A., B., \u2026 \u2014 Listenkontext)
+    (r"^[A-Z]\.\s", "Satzanfang mit einzelnem Buchstabe+Punkt (A. / B. \u2014 Listenkontext)"),
     (r"(?:\.{2,}|\u2026)\s*$", "Satzende mit .. / ... / … (unvollständig/abgebrochen)"),
     (r":\s*$",                    "Satzende mit Doppelpunkt (Überschrift/Intro-Fragment)"),
     (r"\[\.\.\.|\[…\]", "Eckige Klammer mit Auslassungspunkten ([...]/[…])"),
@@ -230,6 +234,10 @@ LANG_DE = [
      "Glücksspiel-Anbieter (bet365/bwin/tipico …)"),
     (r"\b(?:online|internet)\s+casinos?\b",
      "Casino-SEO-Injektion (online/internet casino(s) in normalem Satz)"),
+    (r"\b(?:casino|freispiele?|jackpot|slot(?:s|machine)?|spielautomat\w*"
+     r"|echtgeld|bonusgeld|willkommensbonus|einzahlungsbonus|freiwetten?"
+     r"|wettanbieter|sportwett\w*|glücksspiel\w*)\b",
+     "Glücksspiel-/Wett-SEO (casino/jackpot/freispiele/sportwetten …)", re.IGNORECASE),
 
     # Adult-Content-SEO (Escort-Seiten-Spam in FineWeb2)
     (r"\bsexy\s+frau\b|\bnudisten\b|\bdominante\s+massagen\b"

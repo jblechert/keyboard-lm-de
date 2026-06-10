@@ -535,6 +535,27 @@ TOPICS = {
             "Der Museumspass lohnt sich bei einem langen Wochenende.",
         ],
     },
+    "gluecksspiel": {
+        "name": "Glücksspiel & Wetten",
+        "beschreibung": (
+            "Alltägliche Sätze rund um Glücksspiel, Lotto, Poker, Sportwetten und Casinos — "
+            "so wie Menschen auf dem Smartphone darüber schreiben.\n\n"
+            "Kontext: Lotto spielen, Rubbellose, Poker-Abend mit Freunden, Sporttipp tippen, "
+            "Spielcasino besuchen, Glück haben oder verlieren, Wettschein abgeben.\n\n"
+            "NICHT: Werbetexte, Bonusangebote, SEO-Spam, Freispiele, Jackpot-Promotions. "
+            "Nur natürliche Alltagssätze aus echter Kommunikation."
+        ),
+        "beispiele": [
+            "Ich hab heute Lotto gespielt, mal sehen ob was dabei ist.",
+            "Wir machen morgen Abend einen Pokerabend, kommst du?",
+            "Mein Tipp für das Spiel heute ist Heimsieg.",
+            "Das Rubbellos war leider nichts, wieder mal.",
+            "Ich war am Wochenende im Casino, hat Spaß gemacht.",
+            "Hast du deinen Wettschein schon abgegeben?",
+            "Beim letzten Mal hatte ich echt Glück am Automaten.",
+            "Wir spielen Texas Hold'em, kannst du Poker?",
+        ],
+    },
     "umgangssprache": {
         "name": "Umgangssprache & Verkürzungen",
         "beschreibung": (
