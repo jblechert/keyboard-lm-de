@@ -44,6 +44,9 @@ WEB_ARTIFACTS = [
      "Domain/URL am Satzende (managerfragen.org, loewenvergleich.de \u2026)"),
     (r"\b[a-z][a-z0-9-]{3,}\.[a-z]{2,6}\b",
      "Domain/URL mitten im Satz"),
+    # Domain mit & (z.B. H&m.com.de) — Großbuchstaben-Start wird vom allg. Filter nicht erfasst
+    (r"\b\w+&\w+\.[a-z]{2,6}\b",
+     "Domain mit & (H&m.com.de — Brand-URL mit Ampersand)"),
     # Satzanfang mit einzelnem Gro\u00dfbuchstaben + Punkt (A., B., \u2026 \u2014 Listenkontext)
     (r"^[A-Z]\.\s", "Satzanfang mit einzelnem Buchstabe+Punkt (A. / B. \u2014 Listenkontext)"),
     (r"(?:\.{2,}|\u2026)\s*$", "Satzende mit .. / ... / … (unvollständig/abgebrochen)"),
@@ -52,12 +55,15 @@ WEB_ARTIFACTS = [
     (r"\(\d+\.\s*$", "Truncation: offene Klammer+Zahl am Satzende ((11.)"),
     (r"\[\.\.\.|\[…\]", "Eckige Klammer mit Auslassungspunkten ([...]/[…])"),
     (r"[!?]{2,}\s*$",       "Satzende mit !! oder ?? (Ausrufe-Spam)"),
-    (r"\s(?:Dr|Prof|Hr|Fr|Nr|Col|Gen|Lt|Cpt|St|Tel|Bd|Mio|Mrd|Jh|bzw|ggf|inkl|usw|vgl|vs|Abb|Abs|ca|max|min|Fam|o\.\s*g|o\.\s*[äa]|u\.\s*[äa]|u\.\s*a|z\.\s*B|d\.\s*h|i\.\s*d\.\s*R|gem)\.\s*$",
+    (r"\s(?:Dr|Prof|Hr|Fr|Nr|Col|Gen|Lt|Cpt|St|Tel|Bd|Mio|Mrd|Jh|bzw|ggf|inkl|usw|vgl|vs|Abb|Abs|ca|max|min|Fam|o\.\s*g|o\.\s*[äa]|u\.\s*[äa]|u\.\s*a|u|z\.\s*B|d\.\s*h|i\.\s*d\.\s*R|gem)\.\s*$",
      "Satzende mit Abkürzung (abgeschnittener Satz)"),
     (r"\s(?:[1-9]|[12]\d|3[01])\.\s*$",
      "Satzende mit Tagesdatum (abgeschnittener Satz: vom 22., bis zum 7.)"),
 
     # Strukturelle Artefakte
+    (r"^[a-z\xe4\xf6\xfc\xdf]", "Satzanfang kleingeschrieben (Fragment/Garbled)"),
+    # Sehr langes zusammengeschriebenes Wort (Verb-Concatenation, OCR-Artefakt)
+    (r"\b\w{40,}\b", "Überlange Wortkette (40+ Zeichen — Verb-Concatenation/OCR)"),
     (r"^-\s+\S",            "Zeile beginnt mit Listenpunkt (- item)"),
     (r"^[•▪▸►*|]",            "Zeile beginnt mit Aufzählungszeichen/Pipe (•▪▸►*|)"),
     (r"^[a-z][)]\s",        "Zeile beginnt mit Listenpräfix (a) item, b) item)"),
@@ -241,8 +247,10 @@ LANG_DE = [
 
     # Glücksspiel-SEO-Spam: "Beste Spielothek in [Stadt] finden"
     (r"\bSpielothek\b", "Glücksspiel-SEO-Spam (Spielothek in ... finden)"),
-    (r"\b(?:bet365|betway|bwin|tipico|betsson|unibet|pokerstars|888casino)\b",
-     "Glücksspiel-Anbieter (bet365/bwin/tipico …)"),
+    (r"\b(?:bet365|betway|bwin|tipico|betsson|unibet|pokerstars|888casino"
+     r"|betvictor|sunmaker|leovegas|casumo|interwetten|ladbrokes|williamhill"
+     r"|paddypower|betathome|mr\.?\s*green|novibet|stake\.com|draftkings)\b",
+     "Glücksspiel-Anbieter (bet365/bwin/tipico/betvictor/sunmaker …)", re.IGNORECASE),
     (r"\b(?:online|internet)\s+casinos?\b",
      "Casino-SEO-Injektion (online/internet casino(s) in normalem Satz)"),
     (r"\b(?:casino|freispiele?|jackpot|slot(?:s|machine)?|spielautomat\w*"
