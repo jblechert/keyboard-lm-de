@@ -40,10 +40,10 @@ WEB_ARTIFACTS = [
     # Schlechte Satzenden
     (r"[^.!?]\s*$",
      "Kein Terminal-Satzzeichen (abgebrochener Satz / Überschrift)"),
-    (r"\b[a-z][a-z0-9-]{3,}\.[a-z]{2,6}\s*$",
+    (r"\b[a-zA-Z][a-zA-Z0-9-]{3,}\.[a-z]{2,6}\s*$",
      "Domain/URL am Satzende (managerfragen.org, loewenvergleich.de \u2026)"),
-    (r"\b[a-z][a-z0-9-]{3,}\.[a-z]{2,6}\b",
-     "Domain/URL mitten im Satz"),
+    (r"\b[a-zA-Z][a-zA-Z0-9-]{3,}\.[a-z]{2,6}\b",
+     "Domain/URL mitten im Satz (inkl. Großbuchstaben-Start)"),
     # Domain mit & (z.B. H&m.com.de) — Großbuchstaben-Start wird vom allg. Filter nicht erfasst
     (r"\b\w+&\w+\.[a-z]{2,6}\b",
      "Domain mit & (H&m.com.de — Brand-URL mit Ampersand)"),
