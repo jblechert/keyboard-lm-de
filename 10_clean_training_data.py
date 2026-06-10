@@ -38,6 +38,8 @@ WEB_ARTIFACTS = [
     (r"[*•\xb7]{4,}",  "Bullet-Spam (≥4 Sonderzeichen in Folge)"),
 
     # Schlechte Satzenden
+    (r"[^.!?]\s*$",
+     "Kein Terminal-Satzzeichen (abgebrochener Satz / Überschrift)"),
     (r"\b[a-z][a-z0-9-]{3,}\.[a-z]{2,6}\s*$",
      "Domain/URL am Satzende (managerfragen.org, loewenvergleich.de \u2026)"),
     (r"(?:\.{2,}|\u2026)\s*$", "Satzende mit .. / ... / … (unvollständig/abgebrochen)"),
