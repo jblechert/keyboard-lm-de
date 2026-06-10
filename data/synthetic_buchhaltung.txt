@@ -87,7 +87,6 @@ Hast du die Quittung vom Taxi noch irgendwo
 Ich muss die Reisekosten erst noch abklären
 Warum steht da plötzlich dieser Posten drauf
 Die Abrechnung wird wohl wieder später kommen
-Ich schicke dir gleich die PDF der Rechnung
 Kann ich das Geld vielleicht aufteilen und überweisen
 Die Gutschrift kam leider nicht auf meinem Konto an
 Wir müssen uns um die Rückerstattung kümmern
@@ -342,7 +341,6 @@ Die Rechnung ist höher als ich dachte.
 Hast du die Daten für die Überweisung?
 Ich warte noch auf die Bestätigung der Buchung.
 Der Hotelraum ist deutlich günstiger als erwartet.
-Kannst du mir die PDF der Rechnung mailen?
 Ich habe die Stornogebühr schon bezahlt.
 Die Buchung zeigt leider noch als ausstehend.
 Mein Girokonto war überzogen, deshalb die Fehlermeldung.
@@ -442,7 +440,6 @@ Wir sollten die Reisekosten noch bis Freitag einreichen.
 Hast du das Geld für das Zimmer schon überwiesen?
 Ich hab die Buchung versehentlich doppelt gemacht.
 Die Stornierungsgebühren sind wirklich ganz überteuert.
-Bitte schick mir die Rechnung als PDF zu.
 Kann ich die Anzahlung noch um eine Woche verschieben?
 Das Guthaben auf dem Konto ist merkwürdig niedrig.
 Ich muss noch die Parkgeburt auf der Abrechnung prüfen.
@@ -540,7 +537,6 @@ Kannst du mal schauen ob die Buchung geklappt hat?
 Die Stornogebühr ist mir einfach zu hoch.
 Ich hab die Zahlen schon in die App eingegeben.
 Warum kommt keine Bestätigung für die Überweisung?
-Die Miete wurde heute早上 automatisch abgebucht.
 Ich suche noch nach dem Kontoauszug von letztem Monat.
 Hast du die Belege für die Reisekosten gesammelt?
 Das Geld sollte bis morgen auf dem Konto sein.
@@ -651,7 +647,6 @@ Die Bank hat die Transaktion noch nicht verbucht.
 Ich muss meine Fahrtenliste noch aktualisieren.
 Hast du die Quittung vom Supermarkt noch?
 Die Rückzahlung des Darlehens läuft automatisch ab.
-Ich find meine alte Kassenbelege gar nicht mehr.
 Kann ich die Zahlung auf nächstes Jahr verschieben?
 Die Rechnung vom Handwerker ist endlich angekommen.
 Ich hab meinen Kontostand mal wieder vergessen zu prüfen.
@@ -865,7 +860,6 @@ Kann ich die Zahlung auf nächste Woche schieben?
 Habe gerade den Hotelcheck erhalten.
 Die Reisekosten müssen noch abgerechnet werden.
 Kannst du mal schauen ob die Überweisung ging?
-Ich find den Kontoauszug vom letzten Monat nicht.
 Muss die Rechnung erst nachreichen weil das Datum falsch war.
 Hab vergessen die Flugtickets zu drucken.
 Der Betrag wurde schon gestern gutgeschrieben.
@@ -877,7 +871,6 @@ Habe gerade die Jahressteuererklärung abgeschickt.
 Die Karte war wieder abgelehnt als ich zahlen wollte.
 Muss noch die Hotelrechnung mit dem Chef klären.
 Wo finde ich die alte Überweisungsbestätigung im Konto?
-Hab das Zimmer doch doch nicht gebucht.
 Die Nebenkostenabrechnung kommt bestimmt erst im Mai.
 Kannst du kurz prüfen ob das Konto deckt?
 Ich muss die Gutschrift auf meinem Konto finden.
@@ -1152,7 +1145,6 @@ Die Stornierungsgebühr ist wirklich zu hoch.
 Kann ich das Zimmer auf morgen verschieben?
 Die Überweisung kam gestern Abend an.
 Ich hab die Rechnung versehentlich gelöscht.
-Mein Chef will die Belege bis Freitag.
 Das Hotel hat die Buchung bestätigt.
 Kannst du die Abrechnung nochmal durchgehen?
 Die Gutschrift wurde gestern verbucht.
@@ -1190,7 +1182,6 @@ Ich warte immer noch auf die Überweisung von dir.
 Kannst du den Scheck bitte direkt einlösen lassen.
 Die jährliche Gebühr wird automatisch vom Konto abgebucht.
 Ich muss die Belege für die Versicherung zusammenlegen.
-Hast du die Zahlungsbestätigung schon als PDF gespeichert.
 Die Rückzahlung erfolgt leider erst nächsten Monat.
 Ich habe das Zimmer leider nicht rechtzeitig gebucht.
 Kannst du die Kosten für den Lunch teilen lassen.
@@ -1204,7 +1195,6 @@ Ich brauche die Quittung für die Abgabe beim Finanzamt.
 Die Buchung war leider voll, wir müssen neu suchen.
 Schick mir die Daten für die Lastschrift bitte noch mal.
 Ich hab die falsche IBAN angegeben, blöder Fehler.
-Der Betrag wurde bereits verbucht, also ist alles gut.
 Kannst du prüfen, ob die Rechnung schon bezahlt ist?
 Ich muss morgen die Unterlagen für die Steuer sortieren.
 Die Stornierung ging nicht durch, das ist ärgerlich.
@@ -1250,7 +1240,6 @@ Kannst du kurz die Kontoauszüge durchschauen?
 Hab die Überweisung heute Vormittag erledigt.
 Mein Rechenkonto ist leider schon wieder leer.
 Wir müssen die Reisekosten noch abstimmen.
-Der Buchungsbestätigung fehlt leider immer die PDF.
 Ich hab die Stornierung gerade bestätigt bekommen.
 Kann ich die Zahlung auf nächste Woche schieben?
 Die Ausgaben für das Seminar sind zu hoch.
@@ -1401,7 +1390,6 @@ Hast du schon die Reiseversicherung abgeschlossen?
 Die Überweisung hat drei Tage lang gebraucht.
 Ich muss die Hotelrechnung noch bezahlen.
 Kannst du mal schauen ob die Überweisung ankam?
-Das Kontoauszug PDF will sich nicht öffnen.
 Hast du die Reisekosten schon eingereicht?
 Ich vergesse immer wieder die Quittungen abzugeben.
 Die Buchung für das Meeting war leider falsch.
@@ -1718,7 +1706,6 @@ Ich hab die Kosten nicht richtig verbucht.
 Der Reisekostenantrag muss bis Freitag raus.
 Wo finde ich die alte Bankverbindung?
 Die Reservierung ist bis morgen gültig.
-Ich muss die MwSt noch nachrechnen.
 Hast du die Quittung vom Restaurant?
 Das Guthaben wurde erst heute gutgeschrieben.
 Ich vergaß die Flugbuchung zu stornieren.
@@ -2005,7 +1992,6 @@ Kannst du die E-Mail mit der Rechnung forwarden?
 Mein Geld ist noch auf dem Weg zum Ziel.
 Die Reiseversicherung muss ich noch online bezahlen.
 Wir haben das Zimmer ja schon extra gebucht.
-Kann ich einen zweiten Kontoauszug als PDF haben?
 Die Jahresabrechnung kommt immer viel zu spät dann.
 Ich muss die Ausgaben für den Urlaub sortieren.
 Hast du die Boni alle schon eingescannt gemacht?
@@ -2110,7 +2096,6 @@ Kann ich den Termin auf Freitag ändern?
 Die Auswertung der Ausgaben dauert immer so lange.
 Ich habe versehentlich zweimal bezahlt.
 Die Bestätigungsmail ist im Spam-Ordner gelandet.
-Muss ich noch was zum Konto mitbringen?
 Die Rücklastschrift wurde abgelehnt.
 Ich brauche dringend die Buchungsnummer.
 Das Online-Banking geht heute nicht richtig.
@@ -2296,7 +2281,6 @@ Ich hab die Reiseversicherung vergessen abzuschließen.
 Die Rechnung ist erst nächsten Monat fällig.
 Mein Arbeitgeber zahlt die Reisekosten pünktlich.
 Ich muss die Ausgaben im Ordner sortieren.
-Die Kreditkarte wurde blockiert, was soll ich tun?
 Hast du den Beleg für die Fahrtkosten?
 Die Bank hat meinen Antrag noch nicht bearbeitet.
 Ich muss die Hotelrechnung noch einreichen.
@@ -2405,7 +2389,6 @@ Kannst du bitte den Scheck für die Miete einlösen?
 Ich muss dringend meine Ausgaben für das Monat Ende sortieren.
 Die Überweisung kam leider erst heute Mittag auf meinem Konto an.
 Hast du schon die Quittung vom Supermarkt abgeheftet?
-Mein Bankkonto war gestern komplett blockiert, was nervt total.
 Wir müssen noch die Reiseversicherung für die Kids nachbuchen.
 Die Rechnung vom Handwerker ist noch gar nicht eingegangen.
 Ich hab den Termin für die Steuerberatung erst morgen vormittag.
@@ -3000,7 +2983,6 @@ Hast du schon gesehen dass die Überweisung eingegangen ist?
 Die Rechnung für die Handwerker war gar nicht so schlimm.
 Ich hab versehentlich doppelt gezahlt und muss das rückgängig machen.
 Kann ich die Anmietung für den Pool noch absagen?
-Mein Neffe hat wieder mal was bei mir geliehen.
 Die Nebenkostenabrechnung ist diesmal echt kompliziert geworden.
 Ich such grad meine alten Belege für die Steuer.
 Hast du die PIN für das Onlinebanking noch parat?
@@ -3009,7 +2991,6 @@ Die Gutschrift kam leider erst nach drei Wochen an.
 Ich muss die Ausgaben für den Ausflug noch notieren.
 Hast du die Lastschrift für die Versicherung bestätigt?
 Die Buchhaltung für das Hobby ist mir zu anstrengend.
-Ich hab die Rechnung per PDF zugesendet bekommen.
 Kannst du mir kurz die IBAN von dem Konto geben?
 Kannst du mal gucken wer die Rechnung noch schuldet?
 Ich muss die Zugtickets für die Fahrt nach Berlin buchen.
@@ -3174,7 +3155,6 @@ Die Reisekostenabrechnung mache ich nächste Woche im Büro.
 Hast du die Belege für das Hotel schon fotografiert?
 Die Buchung für den Flieger war total schnell erledigt.
 Ich hab vergessen, die Nebenkosten mit einzuplanen.
-Könntest du den Überweisungsbeleg nochmal als PDF mailen?
 Die Rechnungen stapeln sich langsam auf meinem Schreibtisch.
 Ich brauche die Buchungsbestätigung für die Firma.
 Das Hotel hat uns die Rechnung doppelt geschickt.
@@ -3682,7 +3662,6 @@ Meine Buchung wurde leider storniert ohne Vorwarnung.
 Wir haben das Restaurant erst spontan gebucht.
 Die Rücküberweisung kommt irgendwie nicht an.
 Ich finde meine Unterlagen zur Kostenrechnung nirgends.
-Muss ich beim Hotel noch was hinterlegen?
 Der Abgleich mit dem Girokonto dauert ewig.
 Hast du schon gesehen wie hoch die Nebenkosten sind?
 Ich brauche den Beleg für die steuerliche Absicherung.
@@ -3711,7 +3690,6 @@ Ich hab die Quittung gerade erst gefunden.
 Die Kosten für das Hotel muss ich abrechnen.
 Warum dauert die Überweisung so lange diesmal?
 Hast du die Daten von der neuen IBAN?
-Ich buche mir selbst mal was Gutes.
 Die Rechnung war total durcheinander gestern.
 Kannst du prüfen ob das Geld schon da ist?
 Wir müssen die Reise noch vor Freitag fixen.
@@ -3836,7 +3814,6 @@ Hab die Kosten für den Ausflug eingetragen.
 Ist die Gutschrift schon auf dem Konto?
 Kann ich mal die letzte Quittung sehen?
 Die Jahresabrechnung ist dieses Jahr zu spät.
-Muss da was nachgebucht werden bei mir?
 Hab gerade die Miete überweisen wollen.
 Der Bon fehlt leider noch zur Reisekosten.
 Wann kommt eigentlich der nächste Auszug hin?
@@ -3862,7 +3839,6 @@ Können wir die Buchung stornieren ohne Strafe zu zahlen?
 Der Betrag wurde gestern von meinem Konto abgebucht.
 Ich such immer vergeblich nach der alten Quittung.
 Wir haben das Restaurant für Samstag Abend reserviert.
-Bitte sende mir die PDF Datei mit den Details.
 Die Miete ist diesen Monat leider wieder um drei Tage später überwiesen worden.
 Ich muss mich noch bei der Reiseagentur erkundigen.
 Hat jemand die Gemeinkosten schon im Budget berücksichtigt?
@@ -3928,7 +3904,6 @@ Die Bank hat eine unbekannte Belastung auf meinem Konto vorgenommen.
 Ich muss die Hotelrechnung erst noch prüfen.
 Kannst du mir die Überweisung bitte bestätigen?
 Die Buchung war leider schon voll ausgebucht.
-Ich hab den Kontoauszug per PDF gespeichert.
 Rechnung kommt nächste Woche definitiv bei uns an.
 Wir müssen die Reisekosten noch intern abrechnen.
 Hast du die Stornierungsgebühr schon bezahlt bekommen?
@@ -3942,7 +3917,6 @@ Die Vorlage ist leider nicht mehr gültig.
 Wir haben die Überweisung gestern noch durchgeführt.
 Bitte prüfe, ob der Betrag korrekt eingegangen ist.
 Ich muss die Spesen noch bis Freitag einreichen.
-Das Zimmer war doppelt belegt, was nervt total.
 Hast du die Quittung vom Supermarkt noch?
 Die Buchung wurde automatisch verlängert durch das System.
 Wir warten noch auf die Freigabe der Kosten.
@@ -3994,7 +3968,6 @@ Kann ich das Ticket noch kostenlos stornieren lassen?
 Die Rechnung kam leider erst am letzten Tag an.
 Hast du schon gesehen dass der Überweisungsverlauf aktualisiert wurde?
 Ich frage mich warum die Gebühr so hoch ist.
-Mein Chef will den Beleg bis Freitag auf dem Tisch haben.
 Kannst du mir sagen ob die Lastschrift erfolgreich war?
 Die Buchung scheint irgendwie nicht korrekt hinterlegt zu sein.
 Ich muss noch mein Bargeld in bar einzahlen gehen.
@@ -4048,7 +4021,6 @@ Die Vorauszahlung für den Flug wird sofort verbucht werden.
 Ich muss noch zwei Belege für die Krankenkasse einreichen.
 Kannst du kurz schauen ob die Überweisung durchgegangen ist?
 Die Buchungen im September waren irgendwie total durcheinander geraten.
-Bitte sende mir die PDF-Version der Jahresabschlüsse zu.
 Ich habe vergessen den Salden in der Kladde anzupassen.
 Der Vorlagezeitraum für die Steuererklärung endet bald leider.
 Ich hab die Hotelrechnung gerade bezahlt.
@@ -4356,7 +4328,6 @@ Ich muss die Hotelrechnung erst noch digitalisieren.
 Hast du schon gesehen wie viel Geld auf dem Konto ist?
 Die Überweisung ist leider gestern abends nicht angekommen.
 Kann ich für den Fluggutschein eine neue Nummer bekommen?
-Ich find die alte Quittung irgendwie gar nicht mehr.
 Wir sollten mal alle Ausgaben im Excel auflisten.
 Der Betrag war wohl zu hoch für das Tageslimit.
 Muss ich den Bonuscode nochmal separat eintragen?
@@ -4433,7 +4404,6 @@ Mein Kontoauszug hat heute endlich gepostet.
 Die Pauschalgebühr muss ich noch einzahlen lassen.
 Wir müssen die Reisekostenabrechnung bis Freitag einreichen.
 Hast du den Gutschein schon eingelöst bekommen?
-Die Stornierungsgebühr war wirklich sehr hoch这次.
 Ich brauche die Belege für die Steuererklärung.
 Mein Arbeitgeber überweist mir das Geld nächste Woche.
 Der Wechselkurs war gestern deutlich besser als heute.
@@ -4463,7 +4433,6 @@ Das Konto ist leider überzogen worden gestern Abend.
 Ich such grad nach der letzten Gehaltsabrechnung.
 Kann man diese Forderung eigentlich noch streichen lassen?
 Die Abrechnung kommt immer zu spät ins Postfach.
-Bitte schick mir die PDF per Mail weiter.
 Ich vergass komplett den Termin für die Jahressteuer.
 Das Buchungsjournal sieht dieses Jahr ziemlich chaotisch aus.
 Hast du schon mal mit der Steuerberaterin gesprochen?
@@ -4589,7 +4558,6 @@ Wo ist eigentlich mein letzter Buchungsbetrag?
 Ich habe das Hotel nochmal angerufen wegen der Rechnung.
 Mein Kontoauszug zeigt keine neuen Bewegungen.
 Darfst du die Buchung für den Urlaub vornehmen?
-Die Überweisung kam leider erst nach dem截止datum an.
 Ich muss noch die Mietkaution verbuchen.
 Hast du die Zahlungsbestätigung schon erhalten?
 Das Restaurant war super, aber die Rechnung zu hoch.
@@ -4673,7 +4641,6 @@ Die Kosten für den Anfahrtsweg zählen nicht dazu.
 Mein Partner hat das Ticket schon online bezahlt.
 Wir brauchen einen Nachweis für die steuerliche Absetzbarkeit.
 Hast du gesehen, dass die Abbuchung wieder fehlgeschlagen ist?
-Ich schick dir die PDF der Rechnung gleich mal per WhatsApp.
 Die Gutschrift sollte bis Freitag auf dem Konto sein.
 Meine Frau verwaltet unsere Ausgaben immer in einer Excel-Datei.
 Kannst du prüfen, ob die Zahlung schon angekommen ist?
@@ -4792,7 +4759,6 @@ Wir sollten die Ausgaben für den Urlaub sortieren.
 Kannst du prüfen, ob die Überweisung schon angekommen ist?
 Die Stornierungsgebühr war wirklich viel zu hoch.
 Ich habe vergessen, die Quittung vom Restaurant aufzubewahren.
-Lass uns mal schauen, was wir letzten Monat ausgegeben haben.
 Die Gutschrift sollte eigentlich nächste Woche buchen.
 Kann ich das Essen noch extra dazu buchen?
 Meine Kreditkarte wurde bei dem Online-Shopping blockiert.
@@ -4957,7 +4923,6 @@ Kannst du kurz checken ob das Geld da ist?
 Ich muss noch die Parkgebühren als Betriebsausgabe booken.
 Hast du die IBAN vom neuen Lieferanten gespeichert?
 Die Stornogebühr ist diesmal wirklich überteuert.
-Mein Finanzamt will nochmal die Belege zur Sicherheit sehen.
 Kann ich die Buchung direkt online wieder löschen?
 Ich zähle grad alle Kassenbelege für die Steuer zusammen.
 Das Hotelzimmer wurde schon storniert.
@@ -5120,7 +5085,6 @@ Ich hab die Hotelbuchung erst heute gemacht.
 Wir sollten uns den Kontoauszug mal anschauen.
 Hab ich das Geld schon überwiesen oder nicht?
 Die Stornierungsgebühr finde ich wirklich zu hoch.
-Mein Finanzamt will nochmal alle Belege sehen.
 Kannst du kurz prüfen ob die Buchung klappt?
 Ich hab keine Lust mehr auf diese Rechnerei.
 Das Geld muss bis morgen wieder auf dem Konto sein.
@@ -5137,7 +5101,6 @@ Wir müssen dringend das Budget für das Jahr planen.
 Die letzte Buchung war anscheinend falsch zugeordnet.
 Kann ich meine Gutschrift sofort erhalten?
 Ich traue mich nicht den Zahlen zu vertrauen.
-Mal schauen ob die Bank da was macht.
 Ich muss die Hotelrechnung noch hochladen.
 Die Überweisung ist gestern Mittag unterwegs.
 Hast du den Kontoauszug schon erhalten?
@@ -5320,7 +5283,6 @@ Die Überweisung war wohl schon wieder nicht angekommen.
 Mein Kontoauszug zeigt heute Abend endlich alles.
 Hast du die Reisekosten schon in der App eingetragen?
 Ich hab die Stornierung gerade per Chat bestätigt.
-Bitte sende mir die Rechnung nochmal als PDF zu.
 Der Betrag wurde gestern Mittag von meinem Konto gebucht.
 Kann ich das Zimmer eigentlich noch um zwei Nächte verlängern?
 Ich muss morgen früh beim Bankomat Geld abheben.
@@ -5379,7 +5341,6 @@ Kann ich die Reise noch auf nächste Woche verlegen?
 Die Gutschrift ist leider noch nicht verbucht worden.
 Habe gerade die Abschlagszahlung für den Kredit gemacht.
 Schick mir mal die Bestätigung der Überweisung per Mail.
-Ich hab versehentlich zweimal gezahlt was kann ich tun.
 Der Betrag stimmt mit dem Kontoauszug leider nicht überein.
 Wann kommt eigentlich die Jahressteuererklärung wieder an?
 Habe die Boni von der Geschäftsreise schon einsortiert.
@@ -5432,7 +5393,6 @@ Mein Kontoauszug war wieder voll mit unnötigen Abbuchungen.
 Die Rechnung vom Restaurant liegt mir noch vor.
 Ich brauche die Bestätigungsnummer für die Krankenversicherung.
 Warum wurde das Geld schon wieder von meinem Konto abgezogen?
-Ich habe den Mietzins heute早上 überwiesen.
 Kann ich die Buchung ohne Strafe noch ändern?
 Die Abrechnung der Firma ist ziemlich kompliziert.
 Ich muss meine Ausgaben aus dem Urlaub noch sortieren.
@@ -5480,7 +5440,6 @@ Ich brauche dringend eine Bestätigung für die Buchung.
 Wer hat denn diese unbekannte Lastschrift freigegeben?
 Die Abrechnung der Firma läuft immer etwas hinterher.
 Hoffentlich klappt die Online-Überweisung heute endlich wieder.
-Mein Chef will alle Belege bis Freitag sehen.
 Die Gutschrift ist leider noch nicht verbucht worden.
 Ich muss schnellstens meine Ausgaben im Kalender eintragen.
 Warum wird mein monatlicher Beitrag immer zu früh abgebucht?
@@ -5580,8 +5539,6 @@ Die Gutschrift kommt erst nächste Woche zurück vom Anbieter.
 Ich muss noch die Zahlen für die Steuererklärung zusammenkratzen.
 Falsche IBAN eingegeben und jetzt liegt das Geld fest.
 Kannst du den Link zur Buchung nochmal an mich mailen?
-Das Zimmer war leider doppelt gebucht, was ein Chaos war.
-Mein Chef will die Ausgabenliste bis morgen Mittag haben.
 Die Miete ist wieder pünktlich auf dem Konto erschienen super.
 Ich hab vergessen, das Parkticket für die Abfahrt zu lösen.
 Können wir die Zahlung auf nächste Woche verschieben bitte?
@@ -5748,7 +5705,6 @@ Der Kontoauszug lag heute schon im Posteingang.
 Wir müssen das Mittagessen noch verbuchen.
 Hast du den Betrag schon überwiesen?
 Die Reisekostenabrechnung wird mich ärgern.
-Ich find die Buchhaltung total langweilig.
 Muss ich da nochwas selbst eintragen?
 Die Rechnung kam leider doppelt an.
 Kann ich die Stornogebühr erstattet bekommen?
@@ -6008,7 +5964,6 @@ Warum steht auf der Abrechnung immer falsch drin?
 Kann ich die Gutschrift erst nächsten Monat abbuchen lassen?
 Hab die Überweisung gestern Abend schon geschickt bekommen.
 Die Kosten für das Taxi fehlen mir irgendwie.
-Muss ich da jetzt noch was nachreichen oder reicht das?
 Der Saldenbestand stimmt überhaupt nicht mit meinem Kassenbuch überein.
 Bitte schick mir nochmal die Datei der letzten Buchung zu.
 Ich hab versehentlich doppelt gebucht und muss das korrigieren.
@@ -6024,7 +5979,6 @@ Kann ich die Anzahlung auf mein neues Girokonto überweisen?
 Ich muss die Hotelrechnung noch einreichen.
 Kannst du prüfen ob die Überweisung ankam?
 Die Stornierungsgebühr ist doch wirklich krass.
-Hab gerade den Kontoauszug als PDF gespeichert.
 Wir müssen die Reisekosten noch abstimmen.
 Ist die Buchung für das Seminar schon bestätigt?
 Ich hab vergessen die Rechnung zu bezahlen.
@@ -6058,7 +6012,6 @@ Wo finde ich den aktuellen Kontoauszug wieder?
 Die Überweisung kam gestern endlich auf meinem Konto an.
 Ich muss noch die Nebenkosten abgerechnet kriegen.
 Stornieren wir lieber für den Notfall die Buchung?
-Die MwSt wird automatisch mit ausgewiesen, hoffe ich.
 Kannst du mal prüfen ob die Gutschrift da ist?
 Mein Buchhaltungsprogramm macht gerade Ärger beim Import.
 Wir müssen die Reisekosten bis Freitag einreichen.
@@ -6067,12 +6020,10 @@ Die Kreditkarte wird morgen wieder abgebucht werden.
 Ich finde keine passenden Belege für die Ausgaben.
 Lass uns das Guthaben auf dem Sparkonto prüfen.
 Die Buchung wurde automatisch storniert weil niemand kam.
-Ich muss dem Finanzamt noch was nachreichen.
 Welche Kontonummer soll ich für die Überweisung nehmen?
 Das Restaurant war günstiger als gedacht, nice.
 Hast du den Zahlungsfristversatz schon beantragt?
 Meine Ausgaben dieses Monat waren wirklich im grünen Bereich.
-Hast du schon gesehen was auf dem Konto gelandet ist.
 Die Rechnung vom Restaurant muss ich noch eintragen.
 Ich glaube da stimmt die Summe total nicht.
 Kannst du mir mal den Auszug schicken wenn er da ist.
@@ -6096,7 +6047,6 @@ Warum wird der Betrag auf dem Konto so seltsam angezeigt.
 Kann ich die Reservierung einfach per E-Mail stornieren lassen.
 Das Online Banking hängt seit Stunden total nervig rum.
 Ich vergess immer wieder die festen Kosten einzuplanen beim Budget.
-Bitte schick mir die PDF der letzten zwei Monate nochmal zu.
 Hab gerade die Rechnung für das Hotel bezahlt.
 Die Buchung ist leider schon wieder storniert worden.
 Kannst du mir mal den Kontoauszug zuschicken?
@@ -6242,7 +6192,6 @@ Die Hotelanfrage habe ich gestern abgeschickt.
 Können wir die Kosten noch teilen?
 Ich hab den Überweisungsauftrag vergessen.
 Die Buchhaltungssoftware ist gerade down.
-Mein Chef will die Ausgaben sehen.
 Hast du die Bestätigungsmail erhalten?
 Das Zimmer ist doch wieder freigegeben.
 Wir müssen die Pauschalgebühren bezahlen.
@@ -6287,7 +6236,6 @@ Ich muss die Ausgaben für das Seminar erfassen.
 Hast du die Quittung noch von der Tankstelle?
 Die Buchung scheint geklappt zu haben, prima.
 Warum ist der Betrag nicht angezeigt worden?
-Muss ich da was unterschreiben oder nur digital?
 Der Abgleich mit der Bank dauert immer ewig.
 Ich hab die Reiseversicherung direkt mitgebucht.
 Rechnung liegt jetzt auf meinem Schreibtisch.
@@ -6298,7 +6246,6 @@ Wie viel war nochmal der Zuschlag pro Person?
 Ich mach das später, jetzt hab ich keine Zeit.
 Das System meldet immer einen Fehler beim Ausfüllen.
 Stornogebühr war glücklicherweise nicht zu hoch.
-Schick mir bitte die PDF-Version der Rechnung.
 Ich suche gerade nach der Rechnung für das Hotel.
 Kannst du mir die Überweisungsbestätigung schicken?
 Die Buchung wurde leider automatisch storniert.
@@ -6457,7 +6404,6 @@ Ich muss das Geld auf das Firmenkonto überweisen.
 Der Kontoauszug hat noch nicht mal angekommen.
 Hast du gesehen, dass da zwei Dubletten drauf sind?
 Ich schreib die Ausgaben in der App direkt rein.
-Mein Chef will die Reisekosten bis morgen haben.
 Die Überweisung ging irgendwie ins Leere.
 Kann ich das Ticket noch für den nächsten Tag tauschen?
 Das Zimmer war schon vor drei Tagen gebucht.
@@ -6483,7 +6429,6 @@ Meine Ausgaben im Monat sind diesmal ganz schön hoch.
 Ich muss die Reisekosten noch bei der Arbeit einreichen.
 Das Zimmer wurde schon automatisch storniert, ärgerlich eigentlich.
 Hast du die Gutschrift vom Hotel auch bekommen?
-Die Buchhaltung will die Belege bis Freitag sehen.
 Ich hab versehentlich doppelt auf das gleiche Konto überwiesen.
 Der Urlaub kostet uns doch mehr als gedacht.
 Kann ich die Buchung noch um einen Tag verschieben?
@@ -6510,7 +6455,6 @@ Hast du die Gutschrift auf dem Konto gesehen?
 Ich kann mir das Zimmer nicht leisten.
 Die Überweisung ging gestern Abend noch raus.
 Wann kommt der neue Zettel in den Briefkasten?
-Ich hab vergessen die MwSt auszurechnen.
 Klar, ich schick dir die Unterlagen gleich zu.
 Die Kosten für die Fahrt kommen extra dazu.
 Hast du schon gesehen dass der Betrag fehlt?
@@ -6593,7 +6537,6 @@ Kontoauszug online abgerufen heute morgen.
 Buchhaltung mache ich am Wochenende selbst.
 Wie hoch war die Gesamtsumme eigentlich?
 Ich habe das Restaurant noch nicht bezahlt.
-Bitte Buchungsbestätigung als PDF anhängen.
 Die Nebenkostenrechnung ist jetzt angekommen bei mir.
 Überweisung wurde wegen falscher IBAN abgelehnt.
 Kann man die Buchung doch noch ändern?
@@ -6711,7 +6654,6 @@ Hast du die Quittungen vom Essen schon abfotografiert?
 Die Überweisung dauert bei dieser Bank echt zu lange.
 Kann ich das Zimmer kurzfristig doch wieder nehmen?
 Ich such immer ewig nach der richtigen IBAN.
-Mein Chef will die Ausgaben bis Montag gesehen haben.
 Die Kreditkartengebühren fristen langsam ein Eigenleben.
 Hast du gesehen dass die Lastschrift nicht geklappt hat?
 Ich muss noch den Hoteltransfer separat bezahlen.
@@ -6819,7 +6761,6 @@ Die stornierung ging leider nicht mehr über die app.
 Kann ich den termin für nächste woche verschieben lassen?
 Meine karte wurde an einer fremden tankstelle belastet.
 Ich habe den falschen betrag auf dein konto überwiesen.
-Soll ich die rechnung per mail oder als pdf senden?
 Die guthaben aus der letzten reise liegen noch rum.
 Wir müssen die gemeinsam genutzten kosten nochmal aufteilen.
 Der kassenbon ist bei der steuerabrechnung wichtig zu haben.
@@ -6891,7 +6832,6 @@ Ich tippe gerade die Kontodaten ein.
 Der Zuzahlungsbetrag kommt noch vom Chef.
 Kann ich die Stornogeburt irgendwie umgehen?
 Die Reisekasse ist leider schon leer.
-Hab den Auszug als PDF gesendet.
 Wir müssen das Hotel morgen anrufen wegen der Buchung.
 Deine Rechnung war etwas höher als erwartet.
 Ich habe die Gutschrift endlich erhalten.
@@ -6937,7 +6877,6 @@ Mein Kontoauszug ist wieder komplett chaotisch.
 Wir müssen noch den Mietwagen buchen.
 Hast du schon die Reiseversicherung abgeschlossen?
 Die Gutschrift ist endlich auf dem Weg.
-Ich find meine alte Quittung nicht mehr.
 Sollen wir das Zimmer nochmal verlängern?
 Die Bank hat einen Fehler gemacht glaube ich.
 Kann ich die Buchung noch ändern oder zu spät?
@@ -7011,7 +6950,6 @@ Die Überweisung kam heute Nacht gerade noch an.
 Kannst du bitte den Kontoauszug durchchecken?
 Ich muss noch meine Ausgaben für die Reise eintragen.
 Das Zimmer wurde leider kurzfristig storniert.
-Woher hab ich die genaue Kontonummer her?
 Die Nebenkostenrechnung liegt schon im Briefkasten.
 Hast du den Beleg zur Seite gelegt?
 Ich checke gleich mal mein Girokonto ab.
@@ -7024,13 +6962,11 @@ Fehlt dir noch was für die Auswertungen?
 Die Gutschrift ist endlich im Posteingang gelandet.
 Ich sortiere gerade alle Belege nach Monaten.
 Warum kommt die Lastschrift immer zu früh ab?
-Hast du den Zahlungsziel already beachtet?
 Ich suche grad den richtigen Buchungskreis.
 Die Reisekosten wurden mir noch nicht erstattet.
 Kann ich die Buchung nochmal ändern?
 Der Kontoauszug zeigt heute gar nichts an.
 Ich hab das Geld schon längst überwiesen.
-Pass mal auf, da stimmt was mit dem Saldo nicht.
 Ich hab die Rechnung per Email geschickt.
 Kannst du mal auf das Konto schauen?
 Die Hotelbuchung wurde leider doch abgesagt.
@@ -7216,7 +7152,6 @@ Hast du schon gesehen dass die Überweisung gescheitert ist?
 Ich brauche dringend den Kontoauszug vom letzten Monat.
 Das Zimmer lässt sich leider nicht mehr stornieren.
 Mein Kopf raucht vor all diesen Buchungssätzen heute Abend.
-Schick mir bitte die PDF der letzten Rechnung rüber.
 Die Miete wird pünktlich zum Monatsletzten überwiesen.
 Ich habe versehentlich doppelt für den Flug gezahlt.
 Wann kommt eigentlich das Guthaben vom Urlaubskonto an?
@@ -7229,7 +7164,6 @@ Wir sollten mal unser Girokonto komplett aufräumen zusammen.
 Die Gutschrift kommt vielleicht nächste Woche endlich auf dem Konto an.
 Ich habe keine Lust mehr manuell alles einzubuchen heute.
 Kann ich die Zahlung für die Versicherung kurz verschieben lassen?
-Der Buchhalter hat wohl wieder was falsch gebucht anscheinend.
 Meine Karte wurde bei einer unbekannten Buchung belastet grad erst.
 Wir haben den Termin für die Steuerberatung schon längst gebucht.
 Die Kosten für die Teamfahrt müssen wir noch intern abrechnen.
@@ -7432,7 +7366,6 @@ Mein Konto war kurzfristig wegen Wartung gesperrt.
 Hast du gesehen wie hoch die Gebühren sind?
 Ich muss noch die Reiseversicherung online abschließen.
 Die Rücklastschrift war wohl nicht korrekt abgewickelt.
-Kann ich die Vorlage als PDF einfach anhängen?
 Wir haben zu viel auf die Karte geladen sorry.
 Die Zahlungsaufforderung kam wahrscheinlich per Einschreiben rein.
 Hast du das Bon für den Parkschwein schon eingesammelt?
@@ -7528,7 +7461,6 @@ Die Nebenkostenabrechnung ist dieses Jahr zu hoch.
 Wir müssen das Restaurant für Freitag Abend reservieren.
 Ich habe vergessen, die Internetverbindung abzumelden.
 Kannst du prüfen, ob die Zahlung eingegangen ist?
-Die Buchungsnr steht unten links auf dem PDF.
 Mein Girokonto wurde heute früh belastet.
 Ich brauche einen neuen Auszug für die Steuererklärung.
 Hast du das Zimmer schon gebucht oder nur geprüft?
@@ -7661,7 +7593,6 @@ Ich muss die Ausgaben erstmal aufschreiben.
 Das Zimmer war teurer als gedacht.
 Hast du schon mit der Bank gesprochen?
 Die Unterlagen fehlen leider komplett irgendwo.
-Ich kann heute keine Ueberweisung machen.
 Hab gerade gesehen dass die Gutschrift fehlt.
 Kannst du mal schauen ob die Buchung passt?
 Die Hotelrechnung ist leider falsch berechnet worden.
@@ -7703,7 +7634,6 @@ Ich habe das Hotelzimmer gestern Abend reserviert.
 Kannst du mir kurz den Zugang zum Onlinebanking schicken.
 Der Betrag wird demnächst automatisch abgebucht werden.
 Ich hab leider keine Belege mehr für die Ausgaben.
-Wir müssen die Reisekostenabrechnung bis月底 einreichen.
 Hast du gesehen dass die Nebenkosten erhöht wurden?
 Die Sperrung der Karte war echt zum Kotzen.
 Kann ich die Zahlung auf zwei Monatsraten aufteilen?
@@ -7759,7 +7689,6 @@ Kannst du mir sagen ob die Kosten erstattet werden können?
 Mein Arbeitgeber will noch zusätzliche Belege von mir sehen.
 Ich habe versehentlich doppelt für das Zimmer bezahlt gestern.
 Die neue Software ist leider total unübersichtlich und kompliziert.
-Hast du schon den Screenshot der Buchung gemacht falls was passiert?
 Ich muss die offenen Posten endlich mal abarbeiten diesen Monat.
 Warum steht auf dem Kontoauszug diese unbekannte Lastung?
 Die Pauschalverrechnung finde ich persönlich total doof und ungerecht.
@@ -7770,7 +7699,6 @@ Ich hab die Stornogebühr schon bezahlt.
 Mein Kontoauszug hat gestern endlich gepostet.
 Die Reisekostenrechnung muss ich noch einsenden.
 Hast du die Bestätigungsmail auch erhalten?
-Der Betrag wurde heute早上 gutgeschrieben.
 Wir können die Buchung bis Freitag stornieren.
 Ich such verzweifelt nach der letzten Quittung.
 Die Jahresrechnung ist doch schon fertig, oder?
@@ -7869,7 +7797,6 @@ Muss ich die Stornogebühr extra transferieren?
 Kannst du mal kurz den Kontoauszug prüfen?
 Die Buchung wurde automatisch verlängert, doof.
 Hab grad die Nebenkostenabrechnung bekommen.
-Wo ist nochmal das PDF von der Überweisung?
 Ich schicke dir gleich die Bestätigungsnummer.
 Der Termin war leider doch nicht buchbar.
 Hast du schon die Gutschrift erhalten?
@@ -7937,7 +7864,6 @@ Die Buchhaltung meines Vaters ist ja ein echtes Chaos da.
 Wir sollten mal gemeinsam die Ausgaben des Monats durchgehen.
 Ist die Stornogebühr wirklich so hoch wie auf der Seite steht?
 Ich habe das Geld gestern abend bereits überwiesen an euch.
-Kann ich die Rechnung auch als PDF per Mail bekommen bitte?
 Die Zinsen für den Kredit sind diesmal deutlich gesunken wieder.
 Ich habe den Kontoauszug gerade per Mail erhalten.
 Wir müssen die Reisekosten noch schnell einreichen.
@@ -7952,7 +7878,6 @@ Der Betrag auf der Rechnung stimmt überhaupt nicht.
 Ich suche seit Stunden nach dem richtigen Konto.
 Kann ich das Dinner separat in Rechnung stellen?
 Die Gutschrift wurde leider noch nicht verbucht.
-Mein Chef will die Liste bis heute Mittag haben.
 Hast du schon gesehen, dass die Karte abgelehnt wurde?
 Wir brauchen dringend einen Nachweis für die Steuer.
 Die Buchung war anscheinend versehentlich doppelt erstellt.
@@ -8062,7 +7987,6 @@ Die Buchung war leider schon voll ausgelastet.
 Ich habe die Überweisungsoption im Banking-Menü gefunden.
 Kannst du die Stornierung bis morgen erledigen?
 Die Reisekosten werden direkt vom Unternehmen übernommen.
-Der Kontoauszug liegt jetzt endlich als PDF vor.
 Wir müssen noch die Zwischenrechnung besprechen.
 Ich schicke dir gleich die Daten für die Überweisung.
 Die Gutschrift ist endlich auf dem Konto gelandet.
@@ -8205,7 +8129,6 @@ Die Buchung bestätige ich erst, wenn ich die E-Mail bekomme.
 Mein Girokonto ist leer, ich warte auf das Gehalt.
 Kannst du den Scheck noch mal gegenprüfen? Ich trau dem nicht.
 Wir buchen direkt vor Ort, das geht schneller und einfacher.
-Ich seh mir die Nebenkostenabrechnung an, da stimmt was nicht.
 Hast du die Boni schon einsortiert? Ich brauche sie für die Steuer.
 Die Karte wurde abgelehnt, ich verwende eine andere.
 Kann ich den Betrag auf Raten zahlen? Das wäre einfacher für mich.
@@ -8405,7 +8328,6 @@ Ich schicke dir gleich die Scans per Mail.
 Hast du schon das Geld auf das Konto überwiesen?
 Die Hotelrechnung kommt oft erst nach dem Abflug.
 Wir müssen die Differenz noch mal berechnen.
-Mein Chef will die Ausweise bis Freitag sehen.
 Das System hat meine Buchung falsch angezeigt.
 Ich habe vergessen die Quittung einzureichen.
 Kommst du auch zum gemeinsamen Lunch heute Mittag?
@@ -8455,7 +8377,6 @@ Pass auf das Datum bei der Überweisung genau zu achten.
 Die Rechnung liegt mir jetzt schon seit drei Tagen vor.
 Kann ich die Buchung für morgen nochmal bestätigen lassen?
 Der Betrag stimmt nicht mit dem Angebot überein gehabt.
-Wir sollten mal gemeinsam durchgehen was noch offen ist.
 Hast du die Boni vom Restaurant schon eingescannt und gesendet?
 Die Überweisung hat heute Morgen endlich ihren Weg gefunden.
 Ich vergaß wieder das Passwort für das Onlinebanking einzugeben.
@@ -8480,7 +8401,6 @@ Bitte schick mir mal die Bestätigungsmail von der Buchung
 Die Nebenkostenabrechnung kommt wahrscheinlich erst im Sommer an
 Kann ich das Buchungsdatum auf den 15. verschieben
 Wir haben vergessen die Tankbelege für die Reisekosten zu speichern
-Die Rechnung wurde leider doppelt gebucht was sehr nervig ist
 Ich muss noch klären wer den Restaurantbon überreicht bekommt
 Hat jemand schon die Abschlagzahlung für die Ferienwohnung gemacht
 Der Betrag auf dem Konto stimmt irgendwie nicht mit meiner Übersicht überein
@@ -8604,7 +8524,6 @@ Hast du schon gebucht oder wartest du noch?
 Die Reisekostenabrechnung finde ich total nervig.
 Ich habe das Ticket direkt per App gekauft.
 Kommst du mit den Zahlen überhaupt zurecht?
-Bitte schick mir die Rechnung als PDF zu.
 Das Zimmer war günstiger als erwartet.
 Ich muss erstmal alle Belege sortieren.
 Hast du gesehen wie hoch die Gebühren sind?
@@ -8759,7 +8678,6 @@ Ich habe versehentlich zweimal für den Fluggesucht.
 Kann ich die Gutschrift noch rückgängig machen?
 Die Bankgebühr war wieder viel zu hoch.
 Ich sortiere gerade alle Belege vom letzten Monat.
-Hast du schon gesehen was auf dem Konto fehlt?
 Die Reisekostenmeldung muss bis Freitag fertig sein.
 Ich warte immer noch auf die Bestätigungsmail.
 Der Betrag stimmt mit der Rechnung nicht überein.
@@ -8779,7 +8697,6 @@ Die Überweisung wird voraussichtlich morgen gehen.
 Ich finds total nervig, immer alles manuell einzutragen.
 Können wir die Reservierung nochmal kurz verschieben?
 Mein Geld ist einfach nicht da, wo es sein soll.
-Bitte schick mir den Beleg als PDF rüber.
 Ich hab vergessen, die Parkgebühr zu überweisen.
 Die Kosten für den Ausflug teilen wir uns jetzt.
 Kann ich die Buchung leider doch nicht mehr ändern?
@@ -8803,7 +8720,6 @@ Wir müssen die Reisekosten bis Freitag melden.
 Hast du die Überweisungsbestätigung schon gespeichert?
 Die Rechnung war leider falsch berechnet worden.
 Ich storniere meine Buchung für nächsten Monat.
-Wo finde ich die PDF von der letzten Zahlung?
 Der Betrag kam heute nacht auf meinem Konto an.
 Bitte schick mir nochmal die Rechnungsnummer herüber.
 Ich kann momentan keine weiteren Ausgaben verbuchen.
@@ -8857,7 +8773,6 @@ Der Buchungsbetrag weicht irgendwie vom Angebot ab.
 Wir müssen die Reisekostenabrechnung bis Freitag machen.
 Kommst du ohne Belege zum Finanzamt hin?
 Die Kreditkarte wurde falsch abgebucht das ist blöd.
-Ich schick dir die PDF Datei per Mail.
 Wann kommt eigentlich der nächste Kontoauszug raus?
 Das Hotel hat mir keine Bestätigung geschickt.
 Ich muss noch die Nebenkosten nachzahlen.
@@ -8899,7 +8814,6 @@ Ich muss morgen zum Geldautomaten laufen weil ich keine Karte habe.
 Die Versicherung verlangt einen originalen Kostenvoranschlag bevor sie zahlt.
 Ich muss mir nochmal den Kontoauszug ansehen.
 Die Buchung des Hotels klappte leider nicht auf Anhieb.
-Hast du die Rechnung schon bezahlt oder fehlt da was?
 Mein letzter Kontoauszug ist irgendwie noch nicht angekommen.
 Können wir die Reservierung für morgen bitte verschieben?
 Ich glaube, ich habe bei der Überweisung einen Fehler gemacht.
@@ -8935,7 +8849,6 @@ Die Nebenkostenabrechnung kam erst letzten Freitag.
 Hast du schon gesehen wie hoch der Betrag war?
 Ich muss mir neue Kontoauszüge ausdrucken.
 Leider hat die Onlinebuchung wieder mal nicht funktioniert.
-Schick mir bitte die PDF der Rechnung.
 Ich habe das Geld gestern überweisen lassen.
 Der Saldo auf meinem Sparkonto ist gesunken.
 Wir haben für den Urlaub schon gebucht.
@@ -8953,7 +8866,6 @@ Hast du schon gebucht oder warten wir noch ab?
 Die Stornierung ist leider nicht kostenlos.
 Bitte schick mir die Überweisungstranche per Mail.
 Mein Kontoauszug passt irgendwie gar nicht.
-Ich muss nochmal nachbuchen, weil was fehlt.
 Kann ich das Hotelzimmer heute noch stornieren?
 Die Gutschrift kam endlich auf meinem Konto an.
 Wir haben vergessen die Nebenkosten zu buchen.
@@ -9007,7 +8919,6 @@ Ich muss dringend meine Unterlagen für die Steuer sammeln.
 Hast du die Stornierungsmail auch schon verschickt bekommen?
 Bei der Hotelbuchung war wohl ein Fehler untergelaufen.
 Ich finde die alten Kontoauszüge in der Schublade nicht.
-Mein Chef will die Ausgaben bis morgen nachgewiesen haben.
 Die Gutschrift kam endlich auf meinem Konten an heute.
 Wir müssen noch die Kaution vom Vermieter zurückfordern.
 Ist das Guthaben schon mit dem offenen Posten verrechnet?
@@ -9138,7 +9049,6 @@ Kann ich den Termin auf nächste Woche verschieben?
 Mein Arbeitgeber zahlt die Übernachtung nicht mehr.
 Die Belege liegen noch alle im Briefkasten.
 Hast du die neue IBAN schon aktualisiert?
-Ich muss dem Finanzamt noch was nachweisen.
 Die Karte wurde anscheinend nicht akzeptiert.
 Kannst du mir mal den Scheck unterschreiben?
 Mein Gehalt ist heute wieder pünktlich da.
@@ -9236,7 +9146,6 @@ Mein Kontoauszug ist mir komplett durchgerutscht.
 Wir müssen die Reisekosten bis Freitag melden.
 Das Zimmer war leider schon ausbuchts.
 Hast du die Bestätigungsmail schon bekommen?
-Ich find die Quittung nicht wieder.
 Die Überweisung lief pünktlich am Montag ab.
 Kann ich das Ticket noch umtauschen oder geht das nicht mehr?
 Der Betrag stimmt mit meiner Rechnung nicht überein.
@@ -9287,7 +9196,6 @@ Hast du die Reisekostenabrechnung schon eingereicht?
 Das Restaurant hat eine falsche Summe berechnet.
 Ich muss die Gutschrift nochmal nachfordern.
 Die Buchung für den Mietwagen ist bestätigt.
-Warum steht da auf der Rechnung keine MwSt?
 Hab gerade die monatliche Rate für das Handy gezahlt.
 Kann ich die Ferienwohnung bis Freitag stornieren?
 Der Zahlungsverkehr war diese Woche echt chaotisch.
@@ -9440,14 +9348,12 @@ Wir müssen die Anzahlung für den Urlaub noch überweisen.
 Der Betrag hat leider nicht bei mir eingehen wollen.
 Ich schick dir gleich die Belege per Mail zu.
 Storniere bitte die Reservierung, falls es nicht klappt.
-Auf dem letzten Kontoauszug stand doch was falsches drauf.
 Ich muss die Ausgaben für das Büro noch erfassen.
 Hast du schon gesehen, dass die Überweisung gescheitert ist?
 Die Gutschrift sollte nächste Woche auf dem Konto sein.
 Kann ich die Buchung für morgen noch um zwei Stunden ändern?
 Ich hab alle Rechnungen vom letzten Monat digital gespeichert.
 Das Guthaben reicht nicht mehr für die nächste Lastschrift aus.
-Wir sollten mal gemeinsam durchgehen, was alles offen ist.
 Die Abrechnung kam leider drei Tage zu spät bei mir an.
 Ich brauche nochmal die Kontodaten für die letzte Zahlung.
 Hast du den Bestellschein schon unterschrieben und eingescannt?
@@ -9727,8 +9633,6 @@ Das Restaurant hat leider keine Rechnung ausgestellt bekommen.
 Ich buche die Fahrtkosten mal als Privatlast ein.
 Die Abbuchung war völlig unberechtigt und muss zurück.
 Hast du schon gesehen dass die Buchung bestätigt wurde?
-Alles was ich brauch ist eine einfache Quittung.
-Der Reiseanbieter will erst wieder in drei Wochen antworten.
 Ich muss meine Ausgaben für den Monat noch prüfen.
 Die Gutschrift scheint nicht rechtzeitig bei mir anzukommen.
 Habe gerade die Unterlagen für die Steuer zusammengelegt.
@@ -9809,7 +9713,6 @@ Können wir die Buchung noch einmal ändern?
 Die Abrechnung für das Dienstreisejahr ist lang.
 Wo finde ich den Link zur Onlinebanking-App?
 Der Geldautomat hat mein Geld nicht ausgegeben.
-Muss ich da jetzt noch was unterschreiben?
 Die Preise auf der Website stimmten nicht mehr.
 Kannst du mir die Überweisungsbestätigung schicken?
 Ich hab meine Boni in einer Mappe gesammelt.
@@ -9841,14 +9744,12 @@ Mein Girokonto war gestern mal wieder gesperrt.
 Ich schreib die Ausgabe gleich in mein Kassenbuch rein.
 Ich habe das Hotelzimmer leider nicht sofort stornieren können.
 Mein Kontoauszug ist heute endlich im Posteingang gelandet.
-Bitte schick mir die Rechnung doch als PDF per Mail.
 Die Überweisung wurde gestern Abend schon verbucht.
 Können wir den Termin für die Buchung noch um einen Tag verschieben?
 Ich muss dringend meine Ausgaben aus der letzten Woche erfassen.
 Das Geld war heute Morgen noch gar nicht auf dem Konto.
 Hast du die Gutschrift von der Versicherung schon erhalten?
 Die Nebenkostenabrechnung ist mir diesmal etwas zu viel.
-Ich hab versehentlich doppelt bezahlt, was machen wir jetzt?
 Kann ich die Reisegebühr später auf Rechnung bezahlen?
 Der Scheck liegt noch ungebucht auf dem Schreibtisch rum.
 Wir müssen die gemeinsamen Kosten für das Wochenende noch teilen.
@@ -9911,7 +9812,6 @@ Die Überweisung hat wohl drei Werktage gedauert.
 Kann ich meine Hotelreservierung noch um einen Tag verlängern.
 Der Betrag auf der Rechnung passt überhaupt nicht zusammen.
 Ich habe den Kontoauszug vergessen und jetzt ist es zu spät.
-Mein Chef will alle Belege bis morgen auf dem Tisch sehen.
 Hast du die IBAN vom neuen Lieferanten schon erhalten.
 Die Reise war super, aber die Abrechnung war ein Alptraum.
 Hab die Hotelrechnung gerade bezahlt.
@@ -10075,7 +9975,6 @@ Wir müssen das Bürobudget bis Ende Monat prüfen.
 Die Reisekostenabrechnung lässt sich immer so lange ziehen.
 Kann ich das Online-Ticket noch gegen Bargeld tauschen?
 Meine Kreditkarte wurde in München unbemerkt belastet.
-Ich such immer nach dem richtigen Beleg für die MwSt.
 Hast du die Abschlagzahlung schon an den Vermieter geschickt?
 Die Rechnung ist leider bereits drei Tage überfällig.
 Ich hab vergessen die Parkgebühr in der Liste zu erfassen.
@@ -10228,7 +10127,6 @@ Wir buchen das Zimmer erstmal auf mein Konto.
 Hast du die Stornierungsgebühr schon bezahlt oder nicht?
 Die Reisekostenabrechnung läuft bei mir immer etwas im Argen.
 Kann ich die Buchung einfach online ändern?
-Mein Chef will die Rechnung bis morgen sehen.
 Die Kreditkartengebühren nerven mich langsam wirklich sauer an.
 Ich habe das Geld gestern Abend überwiesen.
 Wann bekomme ich denn eigentlich die Bestätigungsmail?
@@ -10353,7 +10251,6 @@ Hast du den Zahlungseingang bestätigt bekommen?
 Die Buchung für den Flug war glücklicherweise günstig.
 Ich muss nochmal nachfragen ob die Stornierung klappt.
 Fehlende Belege nerven mich bei der Steuererklärung total.
-Bitte sende mir die PDF-Rechnung per Mail zu.
 Die Rückzahlung habe ich auf Freitag verschoben.
 Klar, ich buche dir den Zug für morgen abend.
 Der Betrag wurde offenbar versehentlich doppelt abgebucht.
@@ -10424,7 +10321,6 @@ Die Überweisung ist leider schon unterwegs.
 Kannst du mal den Kontoauszug checken?
 Ich hab die Reisekosten vergessen abzurechnen.
 Mein Handy hat beim Bezahlen nicht funktioniert.
-Die Rechnung war deutlich zu hoch this time.
 Hast du die Daten für die Steuer schon?
 Ich suche gerade nach meiner alten Quittung.
 Der Betrag stimmt auf dem Auszug nicht.
@@ -10456,7 +10352,6 @@ Die Quittung hab ich nur noch als Foto aufm Handy.
 Wir können uns die Pauschale vielleicht sparen wenn wir das richtig machen.
 Der Bankumsatz stimmt nicht mit meiner Liste überein.
 Kann ich die Zahlung aufs nächste Quartal verschieben?
-Ich find die alte Jahresrechnung einfach nicht mehr.
 Die Provision wird nächsten Monat überwiesen werden.
 Ach je ich hab die Frist für die Vorabmeldung verpasst.
 Wir müssen nochmal prüfen ob das steuerlich korrekt ist.
@@ -10573,7 +10468,6 @@ Ich muss nochmal die Flugtickets buchen.
 Die Rechnung ist leider noch nicht eingegangen.
 Kannst du kurz den Kontoauszug prüfen?
 Wir haben das Hotelzimmer gestern gebucht.
-Die Überweisung sollte morgen早上 auf dem Weg sein.
 Ich vergesse immer wieder die Bankverbindung zu notieren.
 Muss ich die Reisekosten nochmal nachreichen?
 Der Buchungsbetrag stimmt irgendwie nicht mit der Rechnung überein.
@@ -10777,9 +10671,7 @@ Kannst du den Stornoantrag heute Nachmittag absenden?
 Die Gutschrift ist leider noch nicht auf dem Konto.
 Hast du schon geprüft ob die Buchung erfolgreich war?
 Meine Reisekostenabrechnung kommt dieses Jahr wohl wieder zu spät.
-Bitte schick mir die Rechnung als PDF per Mail.
 Ich hab versehentlich das falsche Zimmer gebucht und muss wechseln.
-Der Betrag wurde gestern noch nicht gutgeschrieben, was jetzt?
 Kann ich die Überweisung für das Seminar noch rückgängig machen?
 Die Nebenkostenabrechnung ist total unklar, ich frag nochmal nach.
 Wir müssen die Vorläufigen Rechnungen bis Freitag bestätigen.
@@ -11396,10 +11288,8 @@ Ich muss noch die Mietquittung im Ordner ablegen.
 Kann ich die Reiseversicherung später noch dazu buchen?
 Der Überweisungsauftrag ist schon seit gestern unterwegs.
 Wir haben das Zimmer leider doch nicht mehr gebraucht.
-Mein Bruder hat mir die Daten für die Ueberweisung geschickt.
 Die Jahresabrechnung kommt nächste Woche vom Finanzamt rein.
 Ich finde den Beleg fuer das Abendessen irgendwie nicht mehr.
-Sollen wir die Reise ueberhaupt noch antreten oder abbestellen?
 Die Gutschrift sollte innerhalb von drei Werktagen gutgeschrieben sein.
 Meine Kreditkarte wurde gestern an einem Automaten verwendet.
 Kannst du mir mal einen Screenshot vom Kontoauszug schicken?
@@ -11440,7 +11330,6 @@ Meine Kreditkarte wurde ohne mein Zutun belastet.
 Wir brauchen dringend einen neuen Beleg für die Spesen.
 Der Zahlungsverkehr im Unternehmen läuft etwas schleppend.
 Ich habe das Zimmer versehentlich doppelt gebucht.
-Bitte sende mir die PDF der letzten Rechnung zu.
 Die Gutschrift wird in einigen Tagen erscheinen.
 Hast du schon die Reiseversicherung abgeschlossen?
 Mein Konto war überziehbar und das nervt mich.
@@ -11507,7 +11396,6 @@ Das Hotelzimmer muss ich heute noch bestätigen.
 Ich vergesse immer, die Quittungen einscannen.
 Kommst du mir auf das Geld vor?
 Die Reisekostenabrechnung kommt erst nächsten Monat.
-Hast du schon gesehen, was die Buchung kostet?
 Mein Konto ist nach der Stornierung wieder voll.
 Wir müssen noch die Anbindung für das Internet buchen.
 Die Rechnung ist leider bereits bezahlt worden.
@@ -11596,7 +11484,6 @@ Die Kosten für das Taxi muss ich noch anmelden.
 Hast du den Auszug von letztem Monat schon gesehen?
 Ich habe die Zahlungsbestätigung per Mail erhalten heute.
 Mein Konto war zeitweise komplett leer weil der Urlaub kam.
-Bitte schick mir mal die PDF vom letzten Jahr rüber.
 Die Reisekostenabrechnung mach ich erst im nächsten Monat noch.
 Kannst du kurz gucken ob die Gutschrift schon gutgeschrieben ist?
 Ich hab vergessen die Parkgebühren als Auslage anzugeben gestern.
@@ -11621,7 +11508,6 @@ Können wir den Termin für die Überweisung verschieben?
 Die Abrechnung kommt wohl erst im nächsten Monat.
 Ich brauche dringend eine Kopie der Rechnung.
 Leider war das Zimmer schon ausgebucht als ich buchte.
-Muss ich bei dieser Buchung noch was beachten?
 Der Kontostand sieht heute morgen wieder besser aus.
 Ich schick dir gleich die Zahlungsnachricht per Mail.
 Hast du schon mal mit der Bank gesprochen wegen dem Fehler?
@@ -11653,7 +11539,6 @@ Kannst du mal gucken ob alles korrekt ist?
 Die Überweisungsauftrag habe ich gerade erstellt schnell.
 Ich finde den Kontoauszug nicht im Ordner.
 Das Restaurant war günstiger als erwartet echt gut.
-Muss ich noch was zur Reise anmelden online?
 Die Rechnung kommt wahrscheinlich nächste Woche erst an.
 Kannst du die Datei nochmal kurz überprüfen bitte?
 Die Rechnung liegt mir heute auf dem Schreibtisch.
@@ -11666,7 +11551,6 @@ Mir ist beim Ausfüllen der Daten wohl was schiefgelaufen.
 Können wir die Hotelreserve doch noch einmal verschieben?
 Ich brauche die Kopie der Quittung für das Finanzamt.
 Die Gutschrift kam überraschend heute Vormittag bei mir an.
-Schick mir bitte die PDF-Datei per Mail zu.
 Das war wohl eine falsche Eingabe meinerseits.
 Wie hoch waren genau die Nebenkosten im Gesamtpaket?
 Ich warte immer noch auf die Bestätigungsmail vom Anbieter.
@@ -11725,7 +11609,6 @@ Wir müssen das Defizito erstmal ignorieren bis zum Monatsende.
 Kann ich die Buchung noch um einen Tag verschieben?
 Ich habe keinen Beleg mehr für den Tankstopp.
 Die Überweisung dauert immer drei Werktage bei uns.
-Mein Vermieter will eine Kopie des Kontoauszugs sehen.
 Die Selbstkostenberechnung ist mir zu kompliziert geworden.
 Hast du die Spesenliste schon an die Firma geschickt?
 Ich muss noch die Visa-Gebühr einzahlen bevor es flutscht.
@@ -11819,8 +11702,6 @@ Ich hab vergessen die Nebenkosten zurückzuzahlen gestern Abend.
 Mein Bankkonto war wieder gesperrt wegen verdächtiger Aktivitäten.
 Kann ich die Pauschalreise noch bis Freitag stornieren?
 Die Selbstständigkeitsanmeldung habe ich endlich abgeschlossen geschafft.
-Woher kriegst du so schnelle Buchhaltungsprogramme eigentlich her?
-Ich muss dem Finanzamt doch noch was nachreichen.
 Das Frühstück war nicht inklusive also extra zahlen heute.
 Hast du die Kassenbelege schon alphabetisch sortiert gemacht?
 Meine Miete wurde leider auf das falsche Konto überwiesen.
@@ -11858,7 +11739,6 @@ Hast du die Überweisungsträger schon ausgefüllt?
 Meine Ausgaben sind dieses Monat wieder zu hoch.
 Ich vergesse immer, die Belege für die Reisekosten einzureichen.
 Kannst du kurz gucken, ob das Geld schon eingegangen ist?
-Die Hotelrechnung habe ich per E-Mail als PDF geschickt.
 Mir fehlt noch der letzte Kontoauszug vom letzten Quartal.
 Hast du gesehen, dass die Überweisung gestern gescheitert ist?
 Ich muss dringend meine Ausgaben für die Geschäftsreise erfassen.
@@ -11908,7 +11788,6 @@ Das Hotel hat einen Fehler gemacht.
 Ich habe die Daten schon eingegeben.
 Wie hoch war denn die Gebühr?
 Wir müssen die Nebenkosten noch umbuchen.
-Der Hotelier will eine Vorabbuchung haben.
 Kannst du mir die Überweisung bestätigen?
 Ich hab die Rechnung leider übersehen.
 Die Stornierungsgebühr ist wirklich zu hoch.
@@ -11954,7 +11833,6 @@ Der Gutscheincode wollte einfach nicht funktionieren.
 Hast du die Unterlagen schon archiviert?
 Die Abbuchung erfolgte ohne meine Zustimmung gestern.
 Ich muss das Geld noch zurücküberweisen.
-Wo bekomme ich die aktuelle Preisliste her?
 Meine letzte Buchung ist noch offen im System.
 Kannst du mir eine Kopie der Rechnung senden?
 Die Zinsen waren dieses Mal deutlich zu hoch.
@@ -12060,7 +11938,6 @@ Die Buchhaltung im Kleinen macht mir echt Stress.
 Wir müssen noch den Zuschuss für die Fahrt abrechnen.
 Hast du die Rechnung für das Hotel schon bezahlt?
 Ich muss die Reisekosten erst noch im Büro einreichen.
-Kannst du mir den Beleg nochmal als PDF schicken?
 Die Buchung ist leider auf nicht stornierbar eingestellt worden.
 Woran merke ich wenn das Geld wirklich angekommen ist?
 Hab gestern Abend versehentlich doppelt gebucht und schwärme schon wieder.
@@ -12072,7 +11949,6 @@ Hast du schon gesehen dass das Geld nicht reicht?
 Ich muss meine Ausgaben für die Fahrt noch zusammenrechnen.
 Die Stornierungsgebühr ist mir ehrlich gesagt zu hoch geworden.
 Kann ich die Zahlung vielleicht auch in Raten leisten?
-Der Buchungsschein liegt irgendwo im Schubladen rum und ich find ihn nicht.
 Habe die Reise bereits online gebucht und freue mich jetzt schon.
 Passt der Betrag auf dem Konto mit meiner Planung überein?
 Die Rechnung war komplett falsch berechnet und das nervt total.
@@ -12113,7 +11989,6 @@ Wo liegt der Beleg für den Zugtrip hin?
 Hab gerade die Überweisung für das Zimmer getätigt.
 Kannst du prüfen ob die Buchung durchgegangen ist?
 Die Gutschrift kam leider nicht rechtzeitig bei mir an.
-Ich schicke dir die PDF per WhatsApp morgen früh.
 Mein Konto ist im Minus nach dieser Reiseabrechnung.
 Das Restaurant haben wir vergessen auf der Karte zu buchen.
 Storniere bitte den Fluggutschein bis Ende des Tages.
@@ -12125,7 +12000,6 @@ Wir müssen die Reisekostenabrechnung bis Freitag erledigen.
 Hast du schon die Quittung vom Supermarkt fotografiert?
 Die monatliche Abgabe an den Steuerberater ist fällig.
 Ich finde die alte Ordnermappe nicht mehr im Schrank.
-Lass uns mal schauen ob da was verschrieben wurde.
 Die Provision wird leider erst nächsten Monat ausgezahlt.
 Ich hab versehentlich die falsche Kontonummer eingegeben.
 Kannst du mir den Kontoauszug vom März zuschicken?
@@ -12247,7 +12121,6 @@ Mein Konto ist leider noch überzogen.
 Hast du die Quittung schon fotografiert?
 Ich suche nach dem fehlenden Betrag.
 Die Buchung wurde automatisch verlängert.
-Schick mir bitte die PDF-Datei zur Rechnung.
 Alles scheint im Buchhaltungssystem zu passen.
 Kann ich die Zahlung aufs nächste Mal schieben?
 Der Auszug stimmt nicht mit meiner Karte überein.
@@ -12304,20 +12177,17 @@ Der Zins für den Sparplan ist deutlich gestiegen.
 Muss noch die Parkgebühren in die Liste eintragen.
 Hast du die Quittung vom Supermarkt aufgehoben?
 Die Monatsabrechnung stimmt mit meiner Erinnerung nicht überein.
-Rechnung bitte per E-Mail als PDF zuschicken.
 Ich hab das falsche Datum für die Buchung eingetragen.
 Warum wurde ich für den Servicecharge belastet?
 Kontoauszug ist wieder unleserlich gedruckt worden.
 Muss dringend meine Reisekostenabrechnung einreichen.
 Reisebüro hat den Fehler schon korrigiert.
-Ich schick dir die PDF per Mail.
 Wann wird das Geld auf dem Konto sein?
 Die Stornierungsgebühr ist echt happig, find ich.
 Kannst du mal den Umsatz für diese Woche prüfen?
 Hab gerade die Zinsen für das Girokonto bezahlt.
 Das Restaurant hat keine Rechnung ausgestellt, schade.
 Ich muss noch die Hotelkosten bei der Firma einreichen.
-Wo hast du deine Buchhaltungssoftware her?
 Die Gutschrift kam leider erst gestern an.
 Kann ich den Termin nochmal verschieben lassen?
 Mein Handy hatte keine Daten beim Bezahlen.
@@ -12339,21 +12209,17 @@ Ich hab die Rechnung per E-Mail geschickt.
 Kannst du prüfen ob die Buchung geklappt hat?
 Das Hotelzimmer solltet ihr gleich bestaetigen lassen.
 Mein Kontoauszug ist heute morgen angekommen.
-Wir mussen noch ueberweisen fuer die Miete.
 Hast du schon den Gutschein eingelöst?
 Die Stornierung wurde mir leider abgelehnt.
 Ich suche gerade die Quittung im Archiv.
-Der Betrag stimmt mit der Uebersicht nicht uberein.
 Morgen mach ich endlich mal meine Buchungen.
 Die Reisekostenrechnung ist etwas komplizierter als gedacht.
 Hast du schon fuer den Urlaub gebucht?
 Es gab einen Fehler bei der Kreditkarte.
-Ich muss das Geld sofort ueberweisen.
 Die Rechnung kommt erst im naechsten Monat.
 Kann ich die Buchung nochmal veraendern?
 Der Saldo auf dem Konto sieht gut aus.
 Wir haben vergessen die Tickets zu kaufen.
-Die Ueberweisung wurde gestern ausgefuehrt.
 Ich brauche dringend eine neue Quittung.
 Das war echt chaotisch mit den Zahlen.
 Hast du die Daten fuer die Versicherung?
@@ -12631,7 +12497,6 @@ Warum dauert die Gutschrift immer so lange bei euch?
 Hab den Fehler in der Buchung jetzt endlich gefunden.
 Die Selbstständigkeit kostet mich echt viel Papierkram.
 Kann ich die Reservierung auf meinen Namen umschreiben?
-Ich hab keine Lust mehr auf all diese Belege zu sortieren.
 Meine Auslagen vom Geschäftsausflug sind noch offen.
 Hast du schon gezahlt oder warten wir noch ab?
 Die Buchungsbestätigung ist im Spam-Ordner gelandet.
@@ -12643,7 +12508,6 @@ Hast du die Gutschrift für die Stornierung schon erhalten?
 Ich muss dem Vermieter noch die Kaution überweisen.
 Die Reiseversicherung war zum Glück schnell ausgezahlt.
 Kann ich die Buchung nochmal um einen Tag verschieben?
-Das war total unklar was genau jetzt noch zu zahlen ist.
 Mein Partner hat die Hotelanfrage leider zu spät gesendet.
 Ich brauche den Beleg für die Krankenkasse unbedingt zurück.
 Die Überweisung ging gestern Nacht auf einmal doch nicht durch.
@@ -12653,7 +12517,6 @@ Ich seh mir heute Abend mal die Ausgaben im Detail an.
 Kannst du mir den Link zum Ausfüllen nochmal schicken?
 Die Stornierungsgebühr ist mir ehrlich gesagt viel zu hoch.
 Ich hab die Quittung auf der Rückseite vom Kontoauszug gefunden.
-Mein Buchhaltungsprogramm will unbedingt ein Bild vom Parkticket sehen.
 War die Überweisung wirklich bereits eingegangen oder nur angelegt?
 Ich muss dringend meine Reisekosten für das Büro einreichen.
 Hast du gesehen dass der Betrag um zwei Cent daneben lag?
@@ -12769,7 +12632,6 @@ Hast du die Kosten für das Taxi schon erfasst?
 Ich suche schon seit Stunden nach dem Beleg.
 Bitte schick mir die neue Rechnung per Mail.
 Die Gutschrift hat leider noch nicht eingetrudelt.
-Mein Finanzamt will nochmal alle Details sehen.
 Kann ich die Kreditkarte im Portal ändern?
 Die Reisekostenabrechnung steht bis Ende Monat an.
 Ich hab vergessen das Frühstück extra zu buchen.
@@ -12874,7 +12736,6 @@ Hast du gesehen wie viel Geld da drauf ist?
 Die Bank hat meine Karte fälschlicherweise gesperrt gestern.
 Kann ich die Buchung bis morgen Abend noch ändern?
 Mir fehlt noch die Quittung für den Einkauf beim Händler.
-Die Überweisung kam leider nicht及时 genug an heute.
 Ich schau mal ob der Betrag schon gebucht wurde.
 Sollen wir das gemeinsame Essen nochmal aufteilen per App?
 Die Rechnung ist etwas höher als erwartet von diesem Jahr.
@@ -12901,7 +12762,6 @@ Die Abrechnung vom Handwerker kommt leider etwas später.
 Musst du das Girokonto dieses Jahres noch saldieren?
 Ich suche schon ewig nach der richtigen Kontonummer.
 Die Kreditkarte war leider blockiert als ich zahlen wollte.
-Kannst du mir die PDF-Rechnung nochmal per Mail schicken?
 Ich muss die Fahrtkosten aus dem Urlaub noch abziehen.
 Die Überweisung hat drei Werktage gedauert, das ist zu lange.
 Hast du gesehen dass der Kontostand im Minus steht?
@@ -12921,7 +12781,6 @@ Meine Reisekosten liegen noch vor mir zum Abrechnen.
 Ich hab das Zimmer telefonisch storniert und bestätigt bekommen.
 Der Überweisungsträger liegt schon seit Monaten unbenutzt rum.
 Wir sollten mal die Ausgaben aus dem letzten Monat durchgehen.
-Hast du die Belegnummer für die Steuer准备好?
 Die Gutschrift kam leider noch nicht auf meinem Konto an.
 Ich muss nochmal nachrechnen wie viel ich zurückbekomme.
 Kannst du mir kurz deine Bankverbindung mailen zum Überweisen?
@@ -12977,7 +12836,6 @@ Kann ich das Zimmer kurzfristig ändern?
 Die Gutschrift kommt wahrscheinlich nächste Woche.
 Musste gestern drei Rechnungen schnell bearbeiten.
 Hast du die Bestätigungsmail schon bekommen?
-Das Hotel will noch eine Anzahlung haben.
 Ich vergesse immer meine PIN-Nummer beim Automaten.
 Die Buchungslupe zeigt keine aktuellen Preise.
 Kannst du die Datei mal per Mail schicken?
@@ -13128,7 +12986,6 @@ Der Termin im Kalender war falsch eingeplant.
 Muss ich dafür eine extra Quittung behalten?
 Die Kosten teilen wir uns dann einfach hälftig.
 Habe deine Nachricht zur Buchung erst eben gesehen.
-Bitte schick mir die PDF der Rechnung nochmal.
 Das Geld wurde noch nicht vom Konto abgebucht.
 Ich muss das Frühstück am Morgen noch dazubuchen.
 Kommst du ohne mich zum Check-in in Berlin?
@@ -13277,7 +13134,6 @@ Kann ich das Buchungsdatum auf morgen verschieben?
 Die Kosten für den Kunden muss ich noch prüfen.
 Meine Reisekostenabrechnung ist schon drei Tage herfällig.
 Habe die IBAN in der Chatnachricht gefunden.
-Bitte sende mir das PDF der letzten Gutschrift.
 Die Buchung im System hat irgendwie nicht funktioniert.
 Ich zähle gerade alle Quittungen zusammen.
 Kannst du mal schauen ob die Zahlung ankommt?
@@ -13316,7 +13172,6 @@ Hast du schon eine Reiseversicherung abgeschlossen?
 Die Nebenkosten sind dieses Jahr deutlich gestiegen.
 Ich brauche noch einen Beleg für das Finanzamt.
 Alles ist jetzt wieder im grünen Bereich.
-Das Hotel war leider ausgebucht, also mussten wir anderswo schlafen.
 Ich schick dir die Rechnung gleich per E-Mail.
 Hast du schon gesehen, dass die Überweisung eingegangen ist?
 Meine Buchhaltungsapp macht das alles total einfach für mich.
@@ -13402,7 +13257,6 @@ Die Stornierungsgebühr war doch gar nicht so hoch.
 Ich vergaß die Quittung ins Ordner abheften.
 Hast du schon gesehen dass das Geld fehlt?
 Die Nebenkostenabrechnung ist wieder komplett durcheinander.
-Ich schicke dir gleich die PDF per Mail.
 Wo hast du den Bon für die Parkgebühren?
 Wir müssen das Budget noch einmal durchgehen.
 Die Kreditkarte wurde anscheinend nicht belastet.
@@ -13556,7 +13410,6 @@ Hab die Zahlungsbestätigung gerade erhalten.
 Kann ich das Hotelzimmer noch ändern?
 Der Betrag wurde mir gestern gutgeschrieben.
 Ich suche noch den Beleg für die Fahrt.
-Hast du schon gesehen was auf dem Konto stand?
 Die Rechnung ist leider zu hoch ausgefallen.
 Muss ich da noch eine Quittung einreichen?
 Die Buchung für Freitag steht noch nicht fest.
@@ -13662,7 +13515,6 @@ Hast du den Zahlungsplan für die nächste Miete erstellt?
 Die Rechnung vom Fliesenleger ist endlich eingegangen.
 Ich muss mal sehen ob ich das Geld zurück bekomme.
 Kannst du bitte alle Belege aus der letzten Woche sortieren?
-Da stimmt was nicht mit dem Saldo am Ende des Monats.
 Ich hab vergessen die Tankquittung in den Ordner zu stecken.
 Wann genau wird die Gehaltsabrechnung online eingestellt?
 Hast du schon geprüft ob die Überweisung ausgeht?

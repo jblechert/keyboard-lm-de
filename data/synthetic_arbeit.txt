@@ -102,7 +102,6 @@ Der Termin war leider doppelt gebucht worden.
 Ich hab heute wirklich zu viel zu tun.
 Das Onboarding war gestern ganz interessant und hilfreich.
 Kannst du mir mal kurz die Dateien von gestern schicken?
-Wir machen doch gleich Mittagspause, oder habe ich was falsch verstanden?
 Die Deadline war eigentlich gestern, aber ich schaffe es heute abend.
 Mein Schreibtisch sieht aus wie ein Spaghetti-Heap, ich muss aufräumen.
 Hast du zufällig noch einen Kaffee im Automaten gesehen, der geht nicht.
@@ -127,7 +126,6 @@ Mein Chef war heute super nett, hat mir sogar ein Lob geschrieben.
 Die E-Mails häufen sich am Montag immer unheimlich schnell an.
 Ich brauche unbedingt neue Kopfhörer, die alten fallen ständig ab.
 Wer ruft da jetzt um elf Uhr abends noch an?
-Die Kaffeemaschine ist wieder defekt, was sollen wir tun.
 Ich muss dringend den Bericht bis morgen fertig kriegen.
 Mein Chef hat wieder mal alles komplett durcheinandergeworft.
 Das Homeoffice fehlt mir in den ersten Tagen so sehr.
@@ -168,7 +166,6 @@ Heute gibt es wieder kein Mittagessen, wir müssen selbst kochen.
 Der neue Mitarbeiter wirkt auf mich irgendwie sehr unsicher.
 Ich habe meine Bewerbung abgeschickt und hoffe auf eine Antwort.
 Die Telefonkonferenz dauete ewig, ich hatte richtig Kopfschmerzen afterward.
-Meine Chefin will, dass ich an Weihnachten auch da bin.
 Der Drucker ist wieder kaputt, nichts geht einfach ohne Stress.
 Ich bin gestresst, weil ich die Deadline nicht mehr schaffe.
 Komm morgen früh bitte etwas später, ich muss noch was erledigen.
@@ -179,7 +176,6 @@ Ich muss meinen Führerschein mitbringen für die neue Stelle.
 Heute war ich zum Arzt wegen der Bürorückenprobleme.
 Wir brauchen dringend neue Stühle, die alten sind kaputt.
 Der Montag macht mich immer noch so wahnsinnig traurig.
-Wir haben wieder zwei Stunden geredet ohne dass was rauskommt.
 Mein Chef hat mir gesagt dass ich zu oft Pause mache.
 Ich kann heute nicht länger arbeiten mein Kopf ist weg.
 Die Kaffemaschine im Flur ist seit drei Tagen kaputt.
@@ -192,7 +188,6 @@ Der Druck von oben wird langsam einfach zu viel für mich.
 Wir sitzen schon seit einer Stunde auf dieser Videokonferenz.
 Ich überlege ernsthaft ob ich meinen Job kündigen soll.
 Die Büromatratzen sind so bequem dass ich fast einschlafe.
-Mein Teamchef ist heute in Laune was selten ist.
 Die Bewerbungen gehen langsam in den Sand weil keiner antwortet.
 Ich muss noch drei Mails lesen bevor ich gehen darf.
 Die Überstunden werden hier leider gar nicht richtig bezahlt.
@@ -298,7 +293,6 @@ Ich habe heute keine Lust auf die ewigen Statusupdates im Chat.
 Die Bewerberin hat echt tolle Erfahrungen in der Branche gesammelt.
 Unser Büro ist viel zu laut, ich bekomme Kopfschmerzen davon.
 Ich habe die Überstunden mal wieder nicht richtig verrechnet bekommen.
-Der neue Chef will gleich alles anders machen als zuvor.
 Ich hoffe mal dass die Gehaltsverhandlungen morgen positiv verlaufen.
 Mein Platz im Büro ist seit Wochen noch immer unbesetzt.
 Die Pizzaparty am Freitag war wirklich eine tolle Idee vom Team.
@@ -365,7 +359,6 @@ Mein Chef hat heute wieder mal total nervtötend geredet.
 Endlich kann ich nach Hause, der Tag ist vorbei.
 Ich schreibe gerade meine Kündigung und bin schon erleichtert.
 Die Kaffeemaschine im Büro ist wieder einmal kaputt gegangen.
-Ich traue mich gar nicht anzusprechen, dass ich mehr Geld will.
 Mein Kollege ist heute krank und ich muss alles machen.
 Homeoffice ist toll, aber ich vermisse den Kontakt zu euch.
 Die Bewerbung hat nicht geklappt, ich bin richtig sauer.
@@ -387,10 +380,8 @@ Mein Schreibtisch ist ein absolutes Chaos und ich finde nix.
 Ich freue mich schon auf den Feierabend und meine Familie.
 Die Jungs vom Lager machen immer solche Lärmen.
 Ich kann heute nicht früher gehen wegen des Reports.
-Mein Laptop geht schon wieder nicht, was soll das.
 Die Besprechung war komplett Zeitverschwendung ehrlich gesagt.
 Hab heute Abend keine Lust mehr auf Meetings wirklich.
-Der Chef will das Projekt bis morgen fertig haben.
 Ich brauche dringend einen Kaffee sonst falle ich um.
 Das neue Bürostuhl ist viel bequemer als der alte.
 Wir sollten mal über unsere Gehälter sprechen ich finde.
@@ -411,7 +402,6 @@ Mein Platz im Büro ist immer total unordentlich.
 Kann jemand den Raum buchen für das Teammeeting morgen.
 Ich freue mich schon auf den kommenden Urlaub endlich.
 Die Kommunikation im Team läuft irgendwie immer schlechter.
-Der Chef will doch eh nur, dass man da ist.
 Meine Uhrzeit passt einfach nicht mehr zu der von ihm.
 Warum müssen wir wieder ein Standup Meeting haben?
 Ich drucke den Lebenslauf gleich auf dem Farbdrucker aus.
@@ -464,7 +454,6 @@ Ich brauche dringend einen Urlaub, um wieder zu mir zu finden.
 Die Kündigung war die richtige Entscheidung für meine Gesundheit.
 Wir müssen endlich mal über klare Zuständigkeiten sprechen.
 Ich sitz schon wieder zu lange an diesem Bericht.
-Der Chef will den Bericht bis morgen Mittag haben.
 Können wir das Meeting bitte auf nächste Woche verschieben?
 Meine Kollegin ist heute leider krank ausgefallen.
 Im Homeoffice vermisse ich den Kaffeeschluck am Vormittag.
@@ -563,14 +552,13 @@ Die Meeting-Kultur in diesem Unternehmen ist echt schwach.
 Ich hoffe bald auf eine bessere Jobchance.
 Der Drucker streikt schon wieder zum wiederholten Mal.
 Wir müssen das Projekt bis Montag unbedingt fertig kriegen.
-Ich mag es wenn der Chef mal was lobt.
 Die Büropolitik nervt mich langsam schon echt zu sehr.
 Mein neues Arbeitsverhältnis startet nächste Woche offiziell.
 Wir haben morgen wieder ein stehendes Treffen um sieben.
 Ich sitze schon seit zwei Stunden in dem Zoom Meeting.
 Der Chef will meine Berichte bis morgen früh haben.
 Kaffee ist das einzige, was mich heute noch am Leben hält.
-Ich habe heute schon drei E-Mails mit „Dringend“ bekommen.
+Ich habe heute schon drei E-Mails mit Dringend bekommen.
 Mein Bildschirm hat sich im Homeoffice einfach abgeschaltet.
 Wir brauchen dringend einen neuen Drucker im Büro.
 Die Gehaltsgespräche finden erst im nächsten Quartal statt.
@@ -656,20 +644,17 @@ Endlich keine Meetings morgen, ich kann endlich arbeiten.
 Mein Kollege hat die Deadline wieder komplett verpennt.
 Ich kann gar nicht verstehen warum wir das so machen.
 Das Videochat-Dienst hat heute wieder ewig zum Laden gebraucht.
-Ich gebe auf, der Chef will einfach zu viel.
 Wer hat eigentlich das Licht im Flur ausgeschaltet?
 Die Präsentation muss bis zum Mittag fertig sein.
 Ich vermiss die leisen Momente im Büro so sehr.
 Mein Vertrag läuft nächsten Monat aus, keine Verlängerung.
 Hoffentlich bekomme ich endlich mal eine Antwort von dort.
-Die To-Do-Liste wächst schneller als ich sie abhacken kann.
 Ich habe mir einen freien Tag genommen wegen Stress.
 Kann jemand bitte das Fenster im Meetingraum zukunzen?
 Die Gehaltsfortzahlung bei Krankheit ist hier wirklich schlecht geregelt.
 Ich hasse diese ständigen Unterbrechungen während der Arbeit.
 Mein Chef lobt mich selten, das frustriert mich sehr.
 Bis Ende der Woche muss das Projekt definitiv abgeben.
-Die To-Do-Liste wird nie kürzer, egal wie schnell ich arbeite.
 Kannst du mal kurz reinschauen, ob die Rechnung stimmt?
 Ich sitz schon die dritte Stunde im Homeoffice am Bildschirm.
 Das Projekt läuft nicht so, wie wir es uns vorgestellt haben.
@@ -692,17 +677,14 @@ Die neuen Stühle sind zwar bequem, aber viel zu hoch eingestellt.
 Kann mir jemand erklären, wie das neue System genau funktioniert?
 Ich arbeite heute bis spät, damit ich morgen früh frei habe.
 Die Besprechung war wirklich langweilig und hat nichts gebracht.
-Mein Vorgesetzter lobt mich nie, egal was ich mache.
 Ich habe meine Bewerbung gestern Abend endlich abgeschickt.
 Ich sitz schon die dritte Stunde im Meeting und merke nix.
 Der Drucker ist wieder kaputt und keiner weiß warum.
 Kann ich heute früher gehen, ich hab einfach nichts mehr.
-Mein Chef hat wieder mal was vergessen zu sagen.
 Die Kaffeemaschine auf dem Flur schmeckt nach Asche echt.
 Ich muss dringend mal Urlaub machen, bin total fertig.
 Die neue Kollegin ist super nett, aber noch etwas schüchtern.
 Homeoffice ist klasse, solange niemand ständig anruft oder chattet.
-Ich bekomme nie Ruhe, weil alle immer was wollen.
 Die Überstunden werden leider nicht extra bezahlt bei uns.
 Mein Schreibtisch ist ein totaler Wirrwarr aus Papier und Klamotten.
 Ich warte schon seit Wochen auf das Gehalt.
@@ -812,7 +794,6 @@ Das Gehalt reicht hier kaum noch zum Leben.
 Die neuen Kollegen kommen morgen erst rein.
 Ich habe heute einen wichtigen Kundentermin vormittags.
 Die Präsentation ist noch nicht wirklich fertig geworden.
-Mein Chef will partout keine Remote-Arbeit zulassen.
 Die Klimaanlage im Raum macht mich wahnsinnig.
 Ich brauche dringend einen kurzen Spaziergang.
 Die Fortbildung war absolut Zeitverschwendung meinerseits.
@@ -825,7 +806,6 @@ Die Arbeitsbelastung ist in letzter Zeit enorm hoch.
 Der Chef ruft schon wieder mitten im Meeting an.
 Ich hasse diese ewigen Statusupdates am Montagmorgen.
 Mein Notebook stürzt immer genau beim Absenden ab.
-Die Pausenmaschine ist seit Wochen kaputt und niemand macht was.
 Wir müssen doch endlich mal wieder ins Büro kommen.
 Die Gehaltsverhandlung war heute echt nervig und unklar.
 Ich schreibe gerade meine Kündigung und mein Herz klopft.
@@ -834,7 +814,6 @@ Warum muss ich nochmal über die Wochenendstunden reden?
 Das neue Projekt klingt super, aber der Termin ist unrealistisch.
 Mein Kollege isst immer wieder nur Currywurst zur Mittagszeit.
 Die Bewerbung wurde leider abgelehnt, das wehrt mich doch.
-Ich bin heute schon um sieben da, was geht?
 Der Boss redet nur noch von Synergien und Effizienz.
 Kann jemand bitte die Klimaanlage im Konferenzraum abstellen?
 Ich hab heute drei Stunden Überstunden gemacht, ohne Extras.
@@ -920,7 +899,6 @@ Ich brauche dringend einen neuen stuhl fuer den rucken.
 Hat jemand meine tasche gesehen? Ich finde sie nicht.
 Die telefonkonferenz heute war total sinnfrei und lang.
 Ich habe heute glücklicherweise keine überstunden gemacht.
-Mein boss will dass ich bis mittwoch den bericht fertig hab.
 Die kuhle im keller ist leer, wir brauchen snacks.
 Ich bewerbung mich morgen bei der firma um die erstelle.
 Ich sitz schon wieder die ganze Nacht an der Präsentation.
@@ -950,7 +928,6 @@ Mein Chef lobt mich selten, das tut doch weh irgendwie.
 Wir suchen noch jemanden der uns bei der Dokumentation hilft.
 Kann ich heute früher gehen, habe viel erledigt.
 Das neue Projekt ist eigentlich gar nicht so schlimm.
-Wer macht den Kaffee, ich brauche dringend was.
 Mein Vorgesetzter redet nur Bahnhof, verstehe nichts.
 Die Deadline war gestern, aber wir schaffen es wohl.
 Im Homeoffice vergesse ich manchmal zu essen.
@@ -968,7 +945,6 @@ Das Büro ist heute leer, alle sind im Urlaub.
 Ich werde wahrscheinlich nächste Woche kündigen.
 Die Bewertung war ungerecht, ich bin sauer.
 Können wir das Telefonat auf nächste Woche verschieben?
-Mein Laptop geht kaputt, was soll ich nun tun?
 Die Gehaltserhöhung kam endlich, war überfällig.
 Ich habe Angst, dass ich den Job verliere.
 Das Onboarding war irgendwie verwirrend und unklar.
@@ -1025,7 +1001,6 @@ Ich suche mir eine neue Position.
 Der Drucker streikt schon wieder mal.
 Bald ist wieder Wochenende zum Arbeiten.
 Die Besprechung könnte eigentlich eine Mail gewesen sein.
-Mein Chef will dass ich nach Feierabend noch mal antworte.
 Im Homeoffice vergesse ich fast wie laut das Büro ist.
 Ich muss mich heute noch auf die Stelle bewerben.
 Die Neue im Team ist echt nett und hilfsbereit.
@@ -1064,7 +1039,6 @@ Warum gibt es so viele Meetings ohne klare Tagesordnung?
 Meine Kollegin isst immer so laute Nudeln in der Kantine.
 Der neue Laptop ist wirklich langsam, der geht mich an.
 Ich bin noch nicht mal zwei Wochen da und schon Stress.
-Kannst du die Datei bitte nochmal in PDF exportieren?
 Das Gehalt passt hier gar nicht zur Inflation heutzutage.
 Ich muss dringend einen neuen Job suchen, hier ist alles tot.
 Die Bürositz sind einfach zu hart für meinen Rücken.
@@ -1114,7 +1088,6 @@ Ich bewerbe mich heute offiziell, Hoffnungen habe ich eigentlich nicht.
 Die Kaffeemaschine im Flur ist endlich wieder in Betrieb, hurra.
 Jemand hat meinen Schreibtisch wieder vollgemüllt, wer war das denn?
 Ich schreibe gerade meine Kündigung und fühle mich dabei seltsam gelöst.
-Der Projektmanager hat keine Ahnung, was er eigentlich will.
 Wir müssen wieder ein Teambuilding machen, was für eine Folter.
 Mein Gehalt ist viel zu niedrig für die Arbeit, die ich leiste.
 Ich habe mich krankgemeldet, weil die Nervosität einfach zu groß war.
@@ -1182,7 +1155,6 @@ Endlich Wochenende, ich bin total erschöpft heute.
 Ich bin schon seit 30 Minuten im Stehen vor dem Drucker.
 Mein Chef hat mich gerade wieder mal vor allen beschimpft.
 Kannst du bitte das Meeting auf morgen vormittag verschieben?
-Die Kaffeemaschine ist schon wieder kaputt, was soll das.
 Ich schreibe gerade mein Kündigungsschreiben, habe totalen Bammel.
 Warum muss ich eigentlich jeden Freitag bis 18 Uhr bleiben?
 Das Gehalt ist wirklich unterirdisch für die Arbeit die ich mache.
@@ -1239,7 +1211,6 @@ Im Video Call ist das Bild von meiner Kollegin echt hakelig.
 Ich muss dringend mit meinem Boss über mehr Geld reden.
 Die neue Kollegin ist super nett, aber noch etwas schüchtern.
 Endlich mal Freitag, morgen kann ich ganz entspannt schlafen.
-Mein Schreibtisch ist so chaotisch, ich find nix mehr.
 Habe heute eine Stunde zu früh Feierabend gemacht, heimlich.
 Das Projekt läuft einfach nicht, wir brauchen mehr Zeit.
 Bin im Homeoffice totalt isoliert und vermiss das Büro.
@@ -1320,7 +1291,6 @@ Das Gehalt passt doch, warum wollen wir jetzt schon verhandeln?
 Morgen ist der erste Tag in meinem neuen Job, bin aufgeregt.
 Die Drucker im Büro gehen schon wieder nicht, was soll das?
 Ich brauche dringend einen psychischen Ausstieg aus der Firma.
-Der Vorgesetzte ist heute besonders gut gelaunt, was soll das?
 Wir müssen das Budget für das nächste Quartal neu planen.
 Meine Augen tun weh von dem vielen Bildschirmstarren heute.
 Kannst du kurz den Anruf aus der Personalabteilung entgegennehmen?
@@ -1349,13 +1319,10 @@ Das Homeoffice macht mir doch langsam wieder zu sehr zu schaffen.
 Kann jemand mal kurz den Drucker reparieren, das Teil macht nur noch Lärm.
 Wir haben wieder kein Budget für Teamevents dieses Jahr.
 Der Kollege aus der Buchhaltung ruft ständig an, ich gehöre bald zur Geisterbahn.
-Mein Arbeitsplatz ist total chaotisch, ich finde nie was.
 Ich bewerbe mich gerade auf eine bessere Stelle, mal sehen.
 Das Telefon klingelt nicht aufhören, ich will nur noch arbeiten.
-Wir sollten mal wieder gemeinsam Mittag essen, das war lang her.
 Die Luft im Büro ist heute irgendwie sehr schwer.
 Ich habe heute frei genommen, weil ich krank bin.
-Der Vorgesetzte will wieder alles perfekt haben, bis ins letzte Detail.
 Kannst du kurz meinen Post ausgeben, ich komme später nicht mehr ran.
 Das Gehalt reicht gerade so, aber mehr auch nicht.
 Ich würde liebend gerne kündigen, aber die Miete muss bezahlt werden.
@@ -1432,7 +1399,6 @@ Die Gehaltserhöhung ist leider ausgefallen, der Boss war nicht begeistert.
 Wir haben endlich das neue Büromöbel bekommen, sitzfunktion ist okay.
 Ich finde die neue Software echt umständlich, die alte war besser.
 Mein Schreibtischnachbar pfeift ständig, das geht mir langsam auf die Nerven.
-Ich bewerbe mich morgen auf diese Stelle, die klingt nach was.
 Die Kündigung habe ich noch nicht gewagt, ich bin echt unsicher.
 Wir müssen morgen wieder anfangen, obwohl ich eigentlich frei hätte.
 Ich muss heute noch diese Mails abarbeiten.
@@ -1582,7 +1548,6 @@ Wir haben das Ziel für diesen Monat leider nicht geschafft.
 Der Drucker braucht wieder Tinte und ich habe keine.
 Ich muss mich endlich mal um die Krankenversicherung kümmern.
 Das Homeoffice ist halt schon viel ruhiger und entspannter.
-Mein Vorgesetzter will heute Nachmittag noch kurz sprechen.
 Die Jahresfeier findet dieses Jahr wieder im Restaurant statt.
 Ich habe meinen Termin im Kalender leider vergessen einzutragen.
 Wir sollten mal über die Gehaltsanpassung für nächstes Jahr reden.
@@ -1596,7 +1561,6 @@ Der Kaffee in der Küche schmeckt heute einfach nicht.
 Kannst du kurz den Bericht prüfen, ich habe keine Zeit mehr.
 Ich habe heute bis spät abends Überstunden machen müssen.
 Das Homeoffice ist schön, aber man vermischt das soziale.
-Mein Chef will unbedingt jeden Freitag ein Standup machen.
 Die Gehaltsverhandlungen waren gestern ziemlich nervig und lang.
 Ich suche schon seit Monaten nach einem besseren Job.
 Der Drucker im dritten Stock funktioniert einfach nicht wieder.
@@ -1728,7 +1692,6 @@ Warum muss ich immer an Fridays online sein?
 Die Gehaltserhöhung kam leider nicht durch dieses Mal.
 Mein Arbeitsplatz ist total unergonomisch und ungemütlich.
 Ich hab die Unterlagen für die Bewerbung fertig.
-Der Chef will noch schnell einen Termin verschieben.
 Wir sind wieder zu zweit am Wochenende eingeteilt.
 Die neue Software ist irgendwie total unübersichtlich und langsam.
 Ich brauche unbedingt mal ein richtiges Gespräch.
@@ -1743,7 +1706,6 @@ Mein Chef redet immer nur über Produktivitätssteigerungen.
 Wir sollten mal wieder ein Teamevent planen.
 Endlich Feierabend, ich kann den Laptop nicht mehr ansehen.
 Die Besprechung heute war komplett überflüssig, ehrlich gesagt.
-Mein Chef will die E-Mails sofort, auch am Sonntag.
 Ich brauche dringend einen Kaffee, sonst falle ich um.
 Die neue Kollegin kommt morgen, alle sind schon nervös.
 Homeoffice ist toll, aber ich vermisse die Pausengespräche.
@@ -1766,7 +1728,6 @@ Ich finde den neuen Chef viel zu streng und unberechenbar.
 Mein Computer stürzt ab, jedes Mal wenn ich speichern will.
 Die Arbeitszeiten sind viel zu lange für den Lohn.
 Ich habe heute frei, weil ich mir eine Auszeit gönne.
-Endlich Freitag, ich will nur noch nach Hause.
 Warum müssen wir immer noch per Excel arbeiten?
 Der Chef hat heute wieder keinen Plan.
 Ich drücke mich gerade vor dem Teams-Call.
@@ -1868,8 +1829,6 @@ Ich trinke meinen dritten Kaffee, sonst falle ich um.
 Es gibt heute keine Meetings, endlich Ruhe für mich.
 Die Arbeitszeitflexibilisierung klappt hier leider nicht so gut.
 Ich überlege mir gerade einen Jobwechsel, viele Optionen.
-Mein Chef will wieder mal eine Statusaktualisierung per Video.
-Kaffeeautomat ist wieder kaputt, da wird wohl niemand was machen.
 Die Überstunden dieser Woche zahlen sich bei der Prämie aus.
 Ich schicke dir die Datei gleich, bin nur kurz in einem Call.
 Hat jemand die Präsentation von gestern, ich habe sie verpasst.
@@ -1906,7 +1865,6 @@ Kannst du den Drucker bitte reparieren, der macht einfach nicht.
 Ich würde heute schon gerne früher gehen, bin total erledigt.
 Die Zielvereinbarung war irgendwie schon von Anfang an unrealistisch.
 Mein Chef war heute echt in guter Laune, das ist selten.
-Ich hasse es, wenn man am Freitag下午 noch Besprechungen hat.
 Das Homeoffice-Setup muss ich noch optimieren, der Stuhl klemmt.
 Hast du gesehen, wie voll der Tiefkühlfrost im Kühlschrank ist?
 Die Gehaltsabrechnung war dieses Mal wieder unverständlich kompliziert.
@@ -1970,7 +1928,6 @@ Das Gehalt reicht knapp, aber die Vorteile wie Fitnessstudio sind okay.
 Ich habe heute krankgemeldet, weil ich total ausgebrennt bin einfach.
 Wir feiern heute den Geburtstag von Maria mit kleinen Törtchen im Büro.
 Endlich Feierabend, ich hab keine Lust mehr auf Smalltalk.
-Wer hat eigentlich diese unendliche To-Do-Liste erstellt?
 Mein Laptop frisst sich fest, ich muss bald neu kaufen.
 Die Kaffeemaschine ist wieder kaputt, wir sind alle wütend.
 Kannst du bitte kurz mein Deckblatt durchschauen, danke.
@@ -2028,11 +1985,9 @@ Mein Chef ist heute wieder in lauter schlechter Laune.
 Kannst du bitte mal kurz auf meinen Bildschirm gucken.
 Wir müssen heute Abend bleiben, die Deadline ist echt dicht.
 Ich hab keine Lust mehr auf diese ewigen Telefonkonferenzen.
-Die Kaffeemaschine ist wieder kaputt, wer repariert das denn.
 Mein Büro ist komplett unordentlich, ich schaffe das heute nicht.
 Ich bekomme jeden Morgen fünfzig Mails, das ist zu viel.
 Die neue Kollegin ist super nett und arbeitet richtig schnell.
-Ich will unbedingt einen Tag Homeoffice machen, habe Kopfschmerzen.
 Der Anwalt meint die Kündigung muss schriftlich eingehen.
 Ich habe heute drei Stunden Überstunden gemacht, ohne Zuschlag.
 Mein Gehalt ist einfach zu niedrig für diese Arbeit.
@@ -2051,7 +2006,6 @@ Mein Chef hat gesagt, ich soll früher kommen ab morgen.
 Das Projekt läuft gut, aber die Kommunikation ist echt schlecht.
 Die Deadline war heute Mittag, aber ich bin nicht fertig.
 Wir haben wieder drei Stunden geredet ohne Ergebnisse.
-Mein Chef will, dass ich am Freitag noch bleiben muss.
 Ich hasse es, morgens schon um sieben Uhr zu checken.
 Die neue Kaffeemaschine in der Küche funktioniert einfach nicht.
 Hoffentlich bekomme ich endlich diese Gehaltserhöhung im März.
@@ -2117,7 +2071,6 @@ Können wir das Meeting eigentlich auf nächste Woche verschieben?
 Die Pausengespräche sind oft stressiger als die eigentliche Arbeit.
 Ich bekomme nie genug Feedback von meinem Vorgesetzten.
 Der Bürostuhl ist kaputt und der Service kommt nicht.
-Heute ist Freitagnachmittag und ich will nur noch Feierabend.
 Die Gehaltserhöhung kam leider viel zu spät dieses Jahr.
 Ich muss den Bericht bis morgen früh unbedingt einreichen.
 Mein Teamkollege ist heute krank und kann nicht arbeiten.
@@ -2178,7 +2131,6 @@ Die Kündigung war die richtige Entscheidung für mich.
 Am Wochenende will ich komplett abschalten können.
 Der neue Arbeitsplatz ist zwar modern aber kalt.
 Wer hat eigentlich das Licht ausgegangen lassen?
-Der Chef ruft an und will wissen warum ich nicht antworte.
 Ich hasse es Montagmorgens schon vor der Kaffeezeit.
 Endlich mal wieder kein Meeting an diesem Freitagnachmittag.
 Mein Gehalt deckt gerade mal noch die Miete und mehr nicht.
@@ -2203,7 +2155,6 @@ Die IT-Abteilung braucht ewig bis das Passwort zurückgesetzt ist.
 Es ist so schön ruhig wenn alle im Homeoffice sind.
 Ich muss mir dringend neue Bürostühle für das Homeoffice kaufen.
 Die Projektdeadline ist schon längst vorbei, aber es geht noch weiter.
-Der Chef ruft gerade wieder an, was soll das denn bitte.
 Ich muss endlich mal durchatmen, der Stress ist zu viel.
 Kann jemand das Dokument bis Mittag fertig machen, bitte?
 Die Kaffeemaschine ist kaputt, wir haben wieder Pech heute.
@@ -2228,7 +2179,6 @@ Der Kollege ist immer pünktlich, das respektiere ich sehr.
 Wir brauchen dringend einen neuen Schreibtisch, der alte knarzt.
 Die Gehaltsverhandlung war stressig, aber am Ende gut gelaufen.
 Ich mag meine Arbeit, auch wenn es manchmal anstrengend ist.
-Der Chef will heute Mittag unbedingt nochmal kurz was besprechen.
 Ich hasse diese langen Videotelefonate ohne Ende und Kaffeepause.
 Mein Schreibtisch ist ein komplettes Chaos nach der Woche.
 Die Kaffemaschine im zweiten Stock ist wieder einmal kaputt.
@@ -2238,7 +2188,6 @@ Warum müssen wir eigentlich immer am Montagvormittag diese langweiligen Meeting
 Ich brauche dringend ein neues Keyboard, das alte ist total kaputt.
 Die Frau von der Buchhaltung hat mir endlich die Rechnung zugesendet.
 Ich muss dringend mal durchatmen, dieser Stress ist nicht gesund.
-Am Freitag abends will ich wirklich gar nicht mehr an die Arbeit denken.
 Hast du schon gehört, dass die Abteilung neu umstrukturiert werden soll.
 Mein Chef ist heute nochmal extra pünktlich gekommen, das ist selten.
 Ich vermisste eigentlich die leisen Bürozeiten vor der Pandemie sehr.
@@ -2327,7 +2276,6 @@ Wir haben keine Zeit für Smalltalk, wir müssen arbeiten.
 Der neue Computer ist langsam wie Blei, ich hasse ihn.
 Kannst du bitte die Jalousien runterlassen, die Sonne brennt.
 Ich habe gerade die Gehaltsabrechnung bekommen und bin schockiert.
-Das Standup Meeting morgen kann ich leider nicht mehr参加.
 Mein Tisch ist voller Akten, ich finde nie meinen Stempel.
 Die Arbeitsatmosphäre hier ist seit dem Wechsel viel besser.
 Der Chef ruft mitten am Wochenende an, echt nervig.
@@ -2358,7 +2306,6 @@ Ich überlege ob ich wirklich zu einem Konkurrenten wechsele.
 Der Drucker spuckt seit drei Tagen nur noch Mist aus.
 Ich schau gerade mal wieder nach Mails am Wochenende.
 Die Besprechung dauert schon seit einer halben Stunde.
-Mein Chef will unbedingt heute noch eine Antwort.
 Wir müssen das Projekt bis Freitag unbedingt abgeben.
 Das Gehalt ist einfach nicht mehr zeitgemäß heutzutage.
 Ich arbeite heute wieder von zu Hause aus.
@@ -2389,7 +2336,6 @@ Mein Chef hat mir endlich die Gehaltserhöhung genehmigt.
 Ich hasse es, am Freitagabend noch Mails schreiben zu müssen.
 Die Kaffeemaschine im Büro ist mal wieder kaputt gegangen.
 Homeoffice ist super, solange der Internetanschluss nicht streikt.
-Habe heute drei Bewerbungen abgeschickt, mal sehen was passiert.
 Die Kollegin neben mir hämmert die ganze Zeit auf der Tastatur.
 Ich brauche dringend einen neuen Arbeitgeber, der mir Ruhe gibt.
 Überstunden zahlen sich bei uns leider finanziell kaum aus.
@@ -2400,7 +2346,6 @@ Die neue Software ist kompliziert und niemand weiß sie zu bedienen.
 Wir machen heute eine Videokonferenz, wieder kein richtiges Gesicht.
 Das Gehalt passt zwar, aber die Work-Life-Balance fehlt völlig.
 Ich muss meine Unterlagen für die Steuererklärung sortieren.
-Der Drucker im Flur jammernd und will einfach nicht spucken.
 Heute ist Tag Eins im neuen Job, bin etwas aufgeregt.
 Meine Chefin lobt mich selten, das demotiviert ungemein.
 Das Office ist heute leer, alle sind im Urlaub.
@@ -2445,7 +2390,6 @@ Wir haben heute bis 18 Uhr Meeting, bitte nicht stören.
 Ich brauche wirklich dringend eine Gehaltserhöhung in diesem Jahr.
 Meine Tastatur macht komische Geräusche, seitdem ich Kaffee verschüttet habe.
 Ich bewerbe mich heimlich auf eine andere Stelle, weil ich frustriert bin.
-Kannst du kurz den Drucker reparieren, er will partout nicht drucken?
 Ich habe heute Überstunden gemacht und bin total erledigt.
 Die Neue im Büro ist super nett, aber etwas unauffällig.
 Ich hasse Videokonferenzen, wo alle ihre Kameras ausschalten müssen.
@@ -2531,7 +2475,6 @@ Wir feiern heute das Geburtstagsgeschenk für Anna.
 Ich habe das Gefühl, dass ich nichts erreiche.
 Das Gehalt reicht hier gerade so zum Leben.
 Ich versuche heute, alle E-Mails abzuarbeiten.
-Der Boss will die Zahlen bis Mittag sehen.
 Ich brauche dringend einen neuen Jobwechsel.
 Das Büro ist heute zum Glück halb leer.
 Ich habe mich heute total blamiert im Meeting.
@@ -2539,7 +2482,6 @@ Wir planen gerade das Weihnachtsgeschenk für alle.
 Ich freue mich schon auf meinen Urlaub.
 Ich bin so müde, dass ich kaum die Augen offen halte.
 Kannst du kurz den Drucker reparieren, der macht nicht mehr.
-Mein Boss will immer alles bis zum Mittagessen haben.
 Das Telefon klingelt einfach nicht aufhören, ich brauche Ruhe.
 Hast du schon gesehen, wie viele Mails ich heute bekommen habe.
 Ich würde morgen gerne frei nehmen, habe starke Kopfschmerzen.
@@ -2588,7 +2530,6 @@ Ich vermiss die Kollegen doch irgendwie in der Homeoffice Phase.
 Bitte schick mir die Datei bis morgen früh per Mail.
 Das neue Bürokonzept ist viel zu laut für mich.
 Ich habe keine Lust mehr auf diese falschen Versprechen.
-Der Chef will wieder mal alle zum kleinen Gruppenbild
 Mein Laptop streikt gerade zum perfekten Zeitpunkt
 Ich kann heute nicht länger, mein Kopf ist voll
 Die Kaffeemaschine im Büro ist wieder kaputt
@@ -2597,7 +2538,6 @@ Hast du schon die Antwort auf meine Bewerbung bekommen
 Am liebsten würde ich meinen Bildschirm jetzt ausschalten
 Wir brauchen dringend neue Stühle, die alten sind müde
 Die Konferenz dauete ewig und brachte gar nichts
-Ich hab mein Gehalt verhandelt, mal sehen was passiert
 Das Homeoffice fühlt sich irgendwie unangemessener an
 Mein Kollege hat heute wieder sein Handy laut gestellt
 Die Kündigung hab ich endlich auf dem Tisch liegen
@@ -2649,7 +2589,6 @@ Die neue Kollegin ist super nett, aber sie nervt mit ihren Fragen.
 Homeoffice ist halt doch viel entspannter als das tägliche Pendeln.
 Ich werde wohl doch kündigen, die Überstunden waren einfach zu viel.
 Kannst du mal kurz in der Küche nachsehen, ob noch Kaffee da ist?
-Die Bewerberrunde war langweilig, der Typ konnte kaum was zum Thema sagen.
 Mein Bildschirm tut weh, ich brauche dringend mal wieder frische Luft.
 Die Mail vom Finanzamt hat mich gestern Abend wirklich umgehauen.
 Wir sollten eigentlich früher anfangen, aber alle sind immer so langsam.
@@ -2724,7 +2663,6 @@ Ich muss dringend meine Steuererklärung machen, keine Lust darauf.
 Das Gehalt reicht gerade so, mehr Wunschdenken bringt nix.
 Mein Kollege hat sich wieder vertippt, ich muss es korrigieren.
 Homeoffice ist schön, aber man vermischt schnell Privat und Arbeit.
-Der Boss will wissen, warum die Zahlen nicht passen.
 Ich hab heute drei Stunden zu viel gearbeitet, ohne Pausen.
 Die Kündigung liegt auf meinem Tisch, ich warte nur auf die Unterschrift.
 Wir suchen nach einer Lösung, die für alle funktioniert.
@@ -2741,14 +2679,12 @@ Ich hab mir heute die Finger wund gemacht am Computer.
 Das Projekt zieht sich ewig hin, niemand weiß genau was läuft.
 Meine Kollegin hat mir geholfen, obwohl sie selbst gestresst war.
 Ich freu mich schon auf das Wochenende, endgültig abschalten.
-Meine To-Do-Liste wächst schneller als ich sie abhaken kann.
 Wieder mal um acht abends im Homeoffice und noch keine Ruhe.
 Der Chef redet sich immer so warm über Teamgeist.
 Ich drucke den Vertrag aus und zeichne gleich unten rechts.
 Das Mittagessen im Büro ist mir langsam echt zu langweilig.
 Kann bitte mal jemand den Drucker reparieren, das Ding stört.
 Mein Gehalt deckt gerade noch die Miete und die Rechnungen.
-Die Kollegen vom Marketing verstehen einfach nicht, was wir tun.
 Ich muss mich krankmelden, sonst breche ich gleich komplett zusammen.
 Die Vorstellungsgespräch war irgendwie seltsam, ich weiß es nicht.
 Am Montag fängt die neue Stelle an, bin ein bisschen aufgeregt.
@@ -2759,7 +2695,6 @@ Mein Platz am Schreibtisch wird von jemandem anderweitig belegt.
 Die Kündigung habe ich endlich rausgeschmissen, Luft nach oben.
 Im Büro ist es heute wieder unerträglich warm und stickig.
 Ich bekomme ständig Benachrichtigungen, die mich völlig aus der Fassung bringen.
-Der Vorgesetzte will jeden kleinen Fehler sofort gesehen haben.
 Freitag nachmittag ist immer die Zeit für die langen Pausen.
 Die neue Software ist komplizierter als die alte war ehrlich gesagt.
 Ich habe meine Bewerbungsunterlagen schon an drei Firmen geschickt.
@@ -2774,11 +2709,9 @@ Mein Kollege raucht die ganze Pause im Treppenhaus und stinkt.
 Die Gehaltserhöhung kam zwar, reicht aber nicht mal für die Miete.
 Ich habe heute schon drei Stunden übergearbeitet, ohne dass es jemand bemerkt.
 Die neue Software ist ein absoluter Witz, alles hängt dauernd.
-Sie will mich apparently nicht mehr haben, ich krieg sie nie ab.
 Am Freitag abend bin ich einfach früher weg, mir reicht es.
 Der Kaffee in der Küche schmeckt wirklich nach abgelaufenem Wasser.
 Ich muss dringend mal wieder einen Feiertag nehmen, bin komplett fertig.
-Die Bewerberin hat super interviewt, aber sie will zu viel Geld.
 Wir sitzen alle im selben Boot und leiden unter der neuen Führung.
 Mein Bildschirm ist schon kaputt, kann aber keine neuen bestellen.
 Die Unterschrift fehlt noch, bis dahin kann ich nichts machen.
@@ -2797,10 +2730,8 @@ Ich muss dringend das Dokument speichern bevor der Strom weg ist.
 Warum gibt es jeden Dienstag um elf Uhr immer ein Meeting?
 Mein Chef hat mir gerade gesagt ich soll noch bleiben.
 Die Deadline war gestern und ich habe es nicht geschafft.
-Endlich Freitag, ich will nur noch nach Hause gehen.
 Die Gehaltserhöhung war leider nur ein Tropfen auf den heißen Stein.
 Ich schreibe heute morgen noch meine Bewerbung für den neuen Job.
-Kannst du mir kurz helfen, der Drucker macht wieder was falsch.
 Im Homeoffice verlockt mich die Couch immer zum Schlafen.
 Die Überstunden werden leider in diesem Monat nicht bezahlt.
 Ich frage mich ob ich diesen Job wirklich noch leiden muss.
@@ -2809,7 +2740,6 @@ Wir müssen das Projekt bis Ende der Woche fertig stellen.
 Mein Schreibtisch ist ein complete Chaos aus Papieren und Kabeln.
 Ich hoffe dass die Mail von der Personalabteilung bald kommt.
 Das Telefon klingelt ständig und ich kann mich nicht konzentrieren.
-Wir haben endlich Homeoffice, das ist doch mal was Gutes.
 Die Gehaltsverhandlung war schwerer als ich es mir vorgestellt hatte.
 Ich brauche einen neuen Job weil die Arbeit mich stresst.
 Kann jemand den Projektrahmen kurz zusammenfassen für die Besprechung?
@@ -2848,7 +2778,6 @@ Ich schwöre ich habe das Projekt pünktlich eingereicht.
 Mein Schreibtisch sieht aus wie ein Schlachtfeld heute.
 Kannst du mir kurz die Zahlen für den Bericht schicken?
 Ich habe keine Lust mehr auf diese ewigen Präsentationen.
-Die Kaffeemaschine ist wieder kaputt, was sollen wir trinken.
 Endlich Freitag und ich kann den Laptop schließen.
 Die Gehaltsverhandlung hat überhaupt nicht so geklappt wie geplant.
 Ich bin im Homeoffice fast schon vergesslich geworden.
@@ -2898,7 +2827,6 @@ Wir haben ein neues Projekt gestartet, ich bin begeistert.
 Ich muss morgen wieder zu früh aufstehen für diese Dummheit.
 Die Besprechung mit der Marketingabteilung war total langweilig.
 Kann mir bitte jemand die Zahlen von gestern per Mail schicken.
-Mein Chef will unbedingt heute noch das Konzept sehen.
 Endlich ist Freitag und ich kann die Arbeit liegen lassen.
 Ich sitze schon seit drei Stunden vor der gleichen E-Mail.
 Die Neue im Büro bringt jeden Morgen Kuchen mit.
@@ -2956,10 +2884,8 @@ Die neue Software ist total unübersichtlich und langsam.
 Ich gebe die Kündigung nächste Woche ab.
 Überstunden wurden in diesem Monat wieder nicht vergütet.
 Die Gehaltsverhandlung findet morgen bei der Kaffeepause statt.
-Wir müssen dringend die To-Do-Liste aktualisieren.
 Das Büro ist heute verdächtig ruhig und leer.
 Ich habe die Bewerbung noch nicht abgeschickt.
-Der Drucker will partout nicht mehr online gehen.
 Unsere Projektziele sind für dieses Quartal nicht erreichbar.
 Die Pausenhilfe schmeckt heute echt mies.
 Ich muss bis Mitternacht den Report fertig haben.
@@ -3027,7 +2953,6 @@ Das neue Unternehmen klingt vielversprechend und interessant für mich.
 Die Besprechung dauert schon wieder drei Stunden.
 Ich habe genug von den ständigen Telefonanrufen am Freitag.
 Kannst du mir mal die Zahlen vom letzten Quartal schicken?
-Mein Chef findet alles super, bis er was zu kritisieren hat.
 Homeoffice ist toll, aber ich vermisse den Coffee Machine Talk.
 Die Gehaltserhöhung war deutlich weniger als erwartet.
 Ich überlege ernsthaft, die Kündigung auf den Tisch zu klopfen.
@@ -3231,7 +3156,6 @@ Der Drucker streikt wieder mal zum falschen Zeitpunkt.
 Ich vermisse meine Kollegen beim Homeoffice doch sehr.
 Die Gehaltsverhandlungen liefen heute surprisingly gut eigentlich.
 Der Kaffee ist schon weg, ich muss sofort nachfüllen.
-Mein Chef will wieder alles bis morgen Mittag haben.
 Ich sitze schon die ganze Zeit vor dem Laptop.
 Die Besprechung hat einfach viel zu lange gedauert heute.
 Endlich Freitag, ich packe die Tasche und laufe.
@@ -3255,7 +3179,6 @@ Warum muss das Call unbedingt um sechs Uhr morgens sein.
 Ich schreib dem Chef morgen, dass ich mehr brauche.
 Die Kaffeemaschine ist schon wieder kaputt und ich brauch Koffein.
 Mein Kollege tippt so laut, dass ich wahnsinnig werde.
-Endlich kein Homeoffice mehr, ich will echte Menschen sehen.
 Die Überstunden werden hier immer noch nicht extra bezahlt.
 Ich hab die Bewerbung abgeschickt, jetzt die nervenaufreibende Wartezeit.
 Unser Chef redet nur immer von Synergie und soem Zeug.
@@ -3270,10 +3193,8 @@ Ich hasse es, wenn mich um fünf Uhr abends noch jemand anruft.
 Die new Hire ist super nett, aber sie weiß gar nix.
 Wir müssen das Meeting absagen, weil der Kunde krank ist.
 Ich druck mir den Lebenslauf noch einmal aus, der sieht gut aus.
-Mein Schreibtisch ist ein Chaos, ich find nix mehr wieder.
 Die Pause war zu kurz, ich bin total gestresst gerade.
 Ich freue mich auf den Feierabend, die Arbeit war anstrengend.
-Der Chef hat mich gelobt, das war mal was Gutes.
 Ich muss dringend meinen Computer neu starten, der hängt sich auf.
 Die Gehaltserhöhung kam pünktlich zum Monatsbeginn,endlich.
 Kannst du mir mal kurz deine Excel Datei schicken?
@@ -3284,7 +3205,6 @@ Hast du meinen Kaffee schon gemacht oder war das ich?
 Der Chef ist heute in schlechter Laune, besser nichts sagen.
 Ich habe heute frei, weil ich krankgeschrieben bin.
 Können wir das Meeting bitte auf nächste Woche verschieben?
-Mein Laptop ist wieder gestreikt, was soll das denn.
 Ich habe gerade meine Kündigung eingereicht, atme durch.
 Die Pausenregelung hier ist einfach komplett zum Kotzen.
 Kannst du meinen Bericht bis Freitag noch einmal überfliegen?
@@ -3305,7 +3225,6 @@ Können wir uns am besten über Teams austauschen?
 Die Kaffeemaschine ist wieder kaputt und wir sind alle müde.
 Ich muss heute Abend noch schnell das Projekt fertig stellen.
 Warum haben wir jedes Mal ein Meeting am Freitagmittag?
-Mein Vorgesetzter drückt mir echt auf die Nägel in letzter Zeit.
 Ich würde mir endlich mal eine Gehaltserhöhung wünschen.
 Das Homeoffice ist zwar gemütlich, aber ich vermisse die Kollegen.
 Wer hat denn bitte die Druckerpatrone wieder vergessen zu bestellen?
@@ -3330,7 +3249,6 @@ Das neue Softwareupdate macht die Arbeit nur noch komplizierter.
 Ich habe keine Lust mehr, diese E-Mails zu beantworten.
 Kann ich bitte bis Freitag meinen Urlaub nehmen?
 Die Besprechung hat wieder ewig gedauert.
-Mein Chef will das Projekt morgen schon sehen.
 Ich bin heute wirklich keine Lust auf Smalltalk.
 Können wir das Telefonat am Nachmittag verschieben?
 Das Gehalt passt leider gar nicht zum Stress.
@@ -3343,7 +3261,6 @@ Die Kaffee-Maschine ist wieder mal kaputt.
 Ich brauche dringend einen freien Tag zum Durchatmen.
 Das Homeoffice nervt mich nach drei Jahren total.
 Mein Vorgesetzter findet alles immer nur schlecht.
-Wir haben heute Pizzabestellung, wer will mit?
 Die Kündigung war die beste Entscheidung meines Lebens.
 Ich muss noch drei Mails beantworten heute.
 Das Gehalt ist ok aber die Arbeitszeit stimmt nicht.
@@ -3467,7 +3384,6 @@ Ich bin völlig ausgebrannt und brauche dringend Urlaub.
 Die Kaffeemaschine geht seit einer Woche nicht mehr.
 Wir müssen heute Abend noch eine Stunde überbleiben.
 Mein Kollege hat mir gerade seine Arbeit um die Ohren gehauen.
-Ich bewerbe mich auf diese Stelle, mal sehen was passiert.
 Die Homeoffice-Politik unseres Unternehmens ist wirklich lächerlich.
 Kann ich morgen einen halben Tag frei nehmen?
 Das Gehalt stimmt eigentlich auch mit dem Job nicht überein.
@@ -3560,7 +3476,6 @@ Mein neuer Job beginnt erst nächsten Monat, genieße die Pause.
 Die Kantine hier macht mindestens einen richtigen Salat am Tag.
 Am Montag früh macht mich die Bahnfahrt schon richtig fertig.
 Wir müssen morgen doch wieder im Büro anstatt remotely arbeiten.
-Mein Chef hat keine Ahnung was er eigentlich will.
 Die Mittagspause ist die einzige Auszeit den ganzen Tag.
 Ich drücke mich immer vor Videocalls wenn ich kann.
 Das Gehalt deckt gerade mal noch die Grundkosten hier.
@@ -3742,7 +3657,6 @@ Warum müssen wir jeden Morgen diese stundenlangen Statusmeetings haben?
 Meine Kollegin hat mich wieder ohne Absprache als Ansprechpartner genannt.
 Das Gehalt ist ok, aber die Arbeitssituation nervt mich langsam.
 Ich schreib jetzt meine Kündigung auf, hab einfach keine Lust mehr.
-Der Chef will wissen, warum die Zahlen aus der ersten Woche fehlen.
 Homeoffice ist toll, nur fehlt mir der direkte Austausch total.
 Hab heute wieder drei Stunden in einem sinnlosen Slack-Chat verbracht.
 Die Bewerbung ging leider nicht durch, aber ich bleib dran.
@@ -3758,7 +3672,6 @@ Das Onboarding war eine Katastrophe, man wurde einfach ins kalte Wasser geworfen
 Kann bitte jemand meinen Urlaubsantrag genehmigen, ich brauche kurz Luft.
 Die Druckerpatrone ist leer und niemand kümmert sich seit Tagen darum.
 Ich bin so erschöpft nach dieser Schicht, dass ich nur noch schlafen will.
-Das Gehaltsgebot war viel zu niedrig, da muss noch was drin sein.
 Meine Teamkollegen sind super nett, aber bei Deadlines total unorganisiert.
 Ich muss dringend meinen Laptop aktualisieren, er hängt sich ständig auf.
 Schade eigentlich, dass die Stellenbeschreibung so wenig Informationen enthielt.
@@ -3780,7 +3693,6 @@ Ich liebe es im Homeoffice zu arbeiten, keine Fahrzeit.
 Das Gehalt ist okay, aber die Benefits sind echt mies.
 Warum müssen wir um 18 Uhr nochmal besprechen was?
 Ich such gerade nach einem neuen Job mit besserer Work-Life-Balance.
-Die To-Do-Liste wird jeden Tag nur noch länger und dicker.
 Mein Chef ist heute in einer seltsamen Laune, besser ignorieren.
 Wir haben die Deadline glatt nicht geschafft, Mist.
 Der Drucker streikt wieder, mal wieder Pech für mich.
@@ -3807,7 +3719,6 @@ Homeoffice macht süchtig, ich vermisse den Stau auf der Autobahn nicht.
 Mein Chef redet zu laut, das nervt im Video call extrem.
 Ich brauche dringend einen Tag frei zum durchatachen mal.
 Das Gehalt passt so gerade, aber mehr wird es nicht.
-Wir planen gerade die Weihnachtsfeier, was soll man nur tun?
 Meine Kollegin hat mich immer noch nicht in den Kalender eingetragen.
 Ich schick dir mal die Unterlagen für die neue Stelle rüber.
 Der Chef fragt ständig nach dem Status, obwohl alles läuft eigentlich.
@@ -3838,7 +3749,6 @@ Keiner macht die Lampen aus wenn er weggeht.
 Ich schreib dir später nochmal, bin im Gespräch jetzt.
 Der Termin wurde leider doch wieder verschoben morgen.
 Meine Aufgaben haben sich seitdem komplett verändert stark.
-Der Chef will wieder mal kurzfristig ein Meeting fixen.
 Ich muss unbedingt den Bericht bis Freitag fertig bekommen.
 Mein Bildschirm ist immer noch kaputt seit der Umzug.
 Kannst du mal kurz schauen ob das Internet geht?
@@ -3866,7 +3776,6 @@ Das Gehalt ist leider immer noch zu niedrig für diese Stadt.
 Wer hat wieder mal den Drucker blockiert mit falschem Papier?
 Die Besprechung hat ewig gedauert ohne jegliches Ergebnis.
 Ich muss heute bis spät abends wegen dem Projekt bleiben.
-Mein Boss will wieder alles innerhalb von drei Stunden erledigt haben.
 Das Homeoffice ist doch viel entspannter als der tägliche Anfahrtsweg.
 Wer bekommt eigentlich die neue Leiterposition im Marketingbereich?
 Die Gehaltserhöhung ist leider ausgefallen, alle sind sauer.
@@ -3912,7 +3821,6 @@ Urlaubsantrag steht seit zwei Wochen im System unverändert.
 Ich habe keine Lust mehr auf diese ständigen Besprechungen.
 Gehaltsgespräch fällt aus, wegen Terminplan meines Vorgesetzten leider.
 Steuern zahlen tut man auch noch dazu irgendwie.
-Der Drucker wieder mal kaputt, wer kümmert sich denn.
 Freitagabend heißt nur eines: Laptop zu und los gehts.
 Die Zoom Verbindung war wieder mal komplett kaputt heute Morgen.
 Ich sitze schon seit zwei Stunden auf dem Klo um Ruhe zu haben.
@@ -3971,7 +3879,6 @@ Ich muss dringend das Budget für das nächste Quartal prüfen.
 Die Kaffeemaschine in der Pause geht schon wieder nicht.
 Hast du den Link zur Präsentation per Mail geschickt?
 Ich arbeite heute von zu Hause, weil ich erkältet bin.
-Der Chef will das Projekt bis Freitag auf jeden Fall sehen.
 Wir haben gerade die Urlaubsplanung für nächstes Jahr besprochen.
 Mein Laptop friert ständig ein, da muss ich was tun.
 Die neue Kollegin ist eigentlich ganz nett und sehr hilfsbereit.
@@ -3992,7 +3899,6 @@ Kannst du mir kurz den Zugriff auf den Server freigeben?
 Wir haben endlich das lange besprochene Gehaltsgespräch geführt.
 Die Besprechung dauete endlos lange ohne jeglichen Inhalt.
 Kann mal jemand den Kaffee nachfüllen bevor ich einschlafe.
-Mein Chef will das Projekt bis morgen Mittag fertig haben.
 Ich schwöre noch eine Stunde Homeoffice und dann bin ich frei.
 Das Gehalt ist echt zu niedrig für die Arbeit die man leistet.
 Die neue Kollegin im Marketing ist total nett und hilfsbereit.
@@ -4038,7 +3944,6 @@ Mir fehlt es irgendwie an Motivation seit der letzten Umstrukturierung im Team.
 Wir sollten das Budget für Q3 nochmal gemeinsam durchgehen und prüfen.
 Ich habe Angst vor dem Performance Review nächste Woche am Mittwoch.
 Die Internetverbindung im Homeoffice war heute mal wieder total langsam.
-Jeder will was von mir aber keiner hilft bei der Umsetzung wirklich.
 Ich suche mir gerade einen neuen Job weil das Gehalt hier schlecht ist.
 Es ist einfach anstrengend jeden Tag zwei Stunden im Stau zu sitzen.
 Der Boss hat wieder ein unnötiges Meeting für Montag angesetzt.
@@ -4052,13 +3957,11 @@ Das Büro ist heute leer, alle sind krank oder im Urlaub.
 Wir müssen dringend den Drucker reparieren lassen, der geht nicht mehr.
 Hast du schon gehört dass die Firma reorganisiert wird?
 Mein Schreibtisch sieht aus wie ein Sperrmüllberg heute Morgen.
-Ich arbeite seit drei Jahren hier und hab kaum was dazugelernt.
 Die Pause war zu kurz, jetzt brauche ich unbedingt Kaffee.
 Ich bewerbe mich nur auf Stellen mit flexiblen Arbeitszeiten.
 Der neue Mitarbeiter hat den falschen Button gedrückt im System.
 Warum müssen wir eigentlich jeden Morgen um sieben da sein?
 Ich hab heute wieder Überstunden gemacht für dieses dumme Projekt.
-Die Gehaltsverhandlung lief ganz okay, mal sehen was kommt.
 Mein Chef ist heute in keiner guten Laune gewesen.
 Ich würde lieber von zu Hause arbeiten als im Büro.
 Die Teamwork-Übungen am Anfang des Jahres waren echt nervig.
@@ -4077,7 +3980,6 @@ Die Kollegen im Nebenraum sind heute schon wieder super laut.
 Mein Laptop hängt sich beim Zoom-Call total auf.
 Das neue Projekt ist irgendwie viel anstrengender als erwartet.
 Ich habe keine Lust mehr auf diese endlosen Meetings am Freitag.
-Der Chef will wissen, warum die Zahlen noch nicht fertig sind.
 Am liebsten würde ich jetzt sofort nach Hause fahren und entspannen.
 Die Bewerbung war einfacher als ich mir das ursprünglich gedacht hatte.
 Wir müssen heute Abend doch wieder mal kurz drüber bleiben.
@@ -4103,7 +4005,6 @@ Die neue Kollegin ist super nett und integriert sich schnell.
 Mein Schreibtisch ist total chaotisch, ich muss aufräumen.
 Das Gehalt stimmt nicht mit dem Aufwand überein wirklich nicht.
 Kannst du kurz die Dateien für das Projekt auf meinen Rechner spielen?
-Ich habe heute frei genommen, weil ich einfach nur schlafen will.
 Der Drucks vom Management wird langsam zur unerträglichen Routine für mich.
 Wir sollten uns mal über eine flexible Arbeitszeitmodel austauschen.
 Die Bewerbungsschreiben zu formulieren ist echt anstrengend und zeitaufwendig.
@@ -4118,7 +4019,6 @@ Kommst du heute Abend auch zur Firmenfeier oder bleibst du lieber daheim?
 Mein Notebook ist langsam, ich brauche dringend ein neues Gerät.
 Das Remote-Work-Modell hat mir echt gut getan für die Work-Life-Balance.
 Ich muss heute wieder bis neun Uhr abends bleiben.
-Der Chef will partout nicht verstehen was wir brauchen.
 Kannst du mir mal die Datei aus dem Chat schicken?
 Mein Rücken tut weh wegen diesem billigen Bürostuhl.
 Die neue Software ist wirklich total unübersichtlich und langsam.
@@ -4145,7 +4045,6 @@ Schon wieder jemand der im Meeting nur sein Handy anschaut.
 Das Gehalt deckt gerade so meine laufenden Kosten im Monat.
 Die Kaffeemaschine im Büro ist schon wieder kaputt.
 Ich muss heute abends doch noch ein paar Mails checken.
-Mein Chef will unbedingt dass ich das Projekt alleine mache.
 Das stand up meeting war völlig unnötig und hat nichts gebracht.
 Homeoffice ist toll aber ich vermisse die Kollegen irgendwie.
 Die Gehaltsgespräche fangen erst nächsten Monat wieder an.
@@ -4170,7 +4069,6 @@ Ich muss dringend mein Visitenkartenbestellung nachholen weil welche fehlen.
 Der Kollege neben mir kaut ständig laut mit offenem Mund rum.
 Endlich Feierabend geschafft, keine Lust mehr auf Mails lesen.
 Warum müssen wir jeden Montag dieses lästige Standup Meeting haben?
-Mein Boss will die Zahlen bis heute Abend, Stress pur.
 Ich bin im Homeoffice und trage immer noch Pajama.
 Die Kaffee Maschine ist kaputt, jetzt wird es echt kritisch.
 Habe mich gerade für diese neue Stelle beworben, hoffentlich klappts.
@@ -4272,11 +4170,9 @@ Ich habe heute einen wichtigen Termin verpasst, weil das Internet ausgefallen is
 Es nervt total, dass ich ständig meine Kamera einschalten muss.
 Die Besprechung könnte man getrost als E-Mail versendet haben.
 Endlich mal einen freien Nachmittag ohne ständige Slacks-Nachrichten.
-Mein Boss will wieder alle per Handy erreichen, auch abends.
 Im Homeoffice vergesse ich ständig, wie spät es eigentlich ist.
 Diese Kündigung war der beste Schritt für meine mentale Gesundheit.
 Wir müssen heute noch eine Überstunde machen, scheiße eben.
-Die Gehaltsverhandlung lief ganz okay, mal sehen was wird.
 Im Büro ist immer so laut, dass man nicht arbeitet kann.
 Ich bewerber mich morgen wieder, diese Stelle klingt super.
 Mein Kollege nimmt mir jede Idee weg, echt nervig honestly.
@@ -4284,7 +4180,6 @@ Das neue Laptop ist langsam wie ein alter Kühlschrank hier.
 Wir haben heute kein Meeting, endlich mal Luft zum Durchatmen.
 Die Arbeitszeitkontrolle geht mir schon auf die Nerven total.
 Ich habe das Projekt erledigt, obwohl alle gesagt haben unmöglich.
-Der Chef lobt mich nie, nur wenn ich was falsch mache.
 Gestern war so stressig, dass ich direkt ins Homeoffice gewechselt bin.
 Die Gehaltserhöhung kommt bestimmt erst im nächsten Quartal wieder.
 Ich habe meine Kündigung auf den Tisch gelegt, endgültig los jetzt.
@@ -4312,7 +4207,6 @@ Die Jobbörse hat mir drei passende Angebote für heute Morgen geschickt.
 Ich habe das Gefühl dass ich hier keine Zukunft mehr sehe.
 Das Homeoffice ist toll aber manchmal vermisst man doch die Kollegen.
 Kann jemand bitte kurz die Tür zuschließen wenn er rausgeht?
-Mein Chef will wieder alles in letzter Minute wissen, nervt total.
 Die Gehaltsverhandlungen laufen schleppend und ich habe wirklich keinen Bock mehr.
 Am Wochenende schalte ich mein Handy komplett aus für Ruhe.
 Die Teamfahrt war ein kompletter Flop wie so oft letztes Jahr.
@@ -4381,7 +4275,6 @@ Hast du gesehen wie der Chef heute vor Wut gezittert hat?
 Ich arbeite heute von zu Hause weil ich Kopfschmerzen habe.
 Die Druckerpatrone muss dringend wieder gewechselt werden hier im Stockwerk.
 Keine Lust mehr auf diese endlosen Powerpoint Präsentationen am Freitag.
-Wir sollten uns nach der Arbeit mal was trinken gehen.
 Das Gehalt ist okay aber die Arbeitszeit ist wirklich viel zu hoch.
 Ich hab versehentlich das falsche Dokument an alle versendet Oh je.
 Die neue Kollegin aus dem Marketing scheint ganz nett zu sein.
@@ -4407,7 +4300,6 @@ Ich überlege ernsthaft, ob ich morgen krankmelden soll einfach.
 Der Drucker streikt wieder mal so wie immer am Montag.
 Wird es dieses Jahr wirklich keine Bonuszahlung geben bei uns?
 Ich hasse diese täglichen Standup Meetings am frühen Morgen.
-Meine Chefin will dass ich das Projekt bis heute fertig habe.
 Das Büro ist total laut seit die Wände abgebrochen wurden.
 Ich schick dir später noch die Dateien für die Präsentation zu.
 Die Bewerbung war schon vor Wochen eingegangen ohne Rückmeldung.
@@ -4441,7 +4333,6 @@ Die Kaffemaschine im Büro macht totalen Lärm dabei.
 Wir sollten das Projekt nochmal überdenken ehrlich gesagt.
 Ich habe heute extra früher Feierabend gemacht, endlich.
 Der Drucker spuckt nur noch Mist aus heute früh.
-Mein Boss will alles sofort haben, echt stressig.
 Ich suche seit Wochen nach einem neuen Job.
 Die Kaffeemaschine im Flur funktioniert heute wieder nicht.
 Mein Chef hat mich gerade zum nochmaligen Brainstorming geladen.
@@ -4489,7 +4380,6 @@ Wir müssen das Budget bis Freitag definitiv abschließen.
 Hat jemand den Meetingraum schon für drei Uhr frei?
 Ich bin komplett ausgebrannt und brauche dringend Urlaub.
 Das Gehalt reicht gerade so für die Miete hier.
-Mein Vorgesetzter will alle E-Mails innerhalb einer Stunde sehen.
 Die neue Software ist wirklich unübersichtlich und schwer zu bedienen.
 Wir haben heute kein Mittagessen weil der Lieferservice ausfällt.
 Kommst du eigentlich zur Feier am Ende des Monats?
@@ -4543,7 +4433,6 @@ Ich muss dringend noch eine Unterschrift bei der Chefin holen.
 Warum müssen wir immer an einem Montag früh Besprechung haben?
 Das Gehalt reicht gerade so für die Miete hier in Berlin.
 Ich freu mich schon auf den Feierabend wirklich sehr heute.
-Die新人in macht sich super schnell einen Namen im Team.
 Kann mir jemand kurz die Zahlen für das Q2 schicken?
 Das Telefon klingelt nicht aufhören will echt nervig.
 Mein Boss macht immer noch Probleme mit den Deadlines.
@@ -4601,7 +4490,6 @@ Die Überstunden dieser Woche sind mir wirklich zu viel.
 Kannst du kurz gucken ob das Projekt fertig ist.
 Mein Schreibtisch sieht aus wie ein Schlachtfeld heute.
 Ich hasse es wenn der Chef mich überraschend anruft.
-Das Kaffeeautomat ist wieder kaputt,典型的 Bürochaos.
 Wir müssen morgen früh um sieben Uhr im Büro sein.
 Die Gehaltserhöhung bleibt leider auch dieses Jahr aus.
 Hast du schon die Unterlagen für die Bewerbung?
@@ -4609,7 +4497,6 @@ Ich brauche dringend einen Tag frei wegen Stress.
 Das Meeting dauert ewig und bringt überhaupt nichts voran.
 Mein Kollege ist permanent auf dem Handy unterwegs.
 Ich würde liebend gern kündigen, aber die Miete ist hoch.
-Homeoffice ist super, aber ich vermisse den Kleiderschrank.
 Die neue Software macht mir wirklich keinen Spaß.
 Kannst du mal drüber schauen ob da Fehler sind?
 Ich bin heute einfach zu müde für große Leistungen.
@@ -4739,7 +4626,6 @@ Ich hoffe wirklich auf eine Antwort bis nächste Woche.
 Der neue Schreibtisch ist deutlich zu niedrig für mich.
 Wir sollten das Projekt vielleicht nochmal überdenken.
 Die IT Support Tickets werden einfach viel zu lange bearbeitet.
-Mein Chef hat wieder mal was nicht verstanden.
 Ich brauche dringend einen freien Tag zum Auspowern.
 Das Mittagessen im Büro ist heute echt schlecht gewesen.
 Vielleicht sollte ich mir doch einen neuen Job suchen.
@@ -4748,7 +4634,6 @@ Endlich mal keine Meetings am Freitag Nachmittag geplant.
 Ich schick dir die Dateien gleich per Mail rüber.
 Der Drucker ist schon wieder gestreikt heute Morgen.
 Wir müssen das Quartalsziel irgendwie doch noch erreichen.
-Der Chef will wieder dass wir bis sechs bleiben.
 Mein Schreibtisch ist komplett voller unsortierter Akten heute.
 Ich hasse diese täglichen Standup Meetings so sehr.
 Die neue Kollegin aus Marketing macht total alles kaputt.
@@ -4782,7 +4667,6 @@ Die Bewerbung war einfacher als erwartet weil der Prozess klar war.
 Wir hatten heute ein endloses Meeting über nichts Konkretes.
 Ich brauche unbedingt eine Gehaltserhöhung in diesem Monat dringend.
 Das Büro ist heute wieder mal wie ausgestorben irgendwie traurig.
-Mein Chef lobt mich selten was total demotivierend wirkt leider.
 Die neue Kollegin ist super freundlich und sehr hilfsbereit eigentlich.
 Ich muss endlich mal kündigen da die Arbeit zu stressig wird.
 Heute habe ich den ganzen Tag nur Emails geschrieben langweilig halt.
@@ -4840,7 +4724,6 @@ Die Kollegin von nebenan redet wirklich viel zu laut.
 Können wir das Thema morgen nochmal kurz durchgehen?
 Ich brauche dringend einen Urlaub, ganz klar und deutlich.
 Die neue Software ist einfach nur total unübersichtlich für mich.
-Mein Boss will heute Nachmittag unbedingt noch mal sprechen.
 Das Gehalt passt irgendwie nicht mehr zur aktuellen Inflation.
 Ich sitze schon zwei Stunden auf der Warteliste.
 Vielleicht sollte ich mir doch eine Weiterbildung zulegen.
@@ -4880,7 +4763,6 @@ Das Mittagessen mit den Kollegen war wirklich entspannt.
 Endlich mal kein Meeting vormittags, ich bin froh.
 Die Gehaltserhöhung kommt leider erst zum nächsten Jahr.
 Mein Schreibtisch ist so chaotisch wie meine Gedanken.
-Ich habe die Kündigung gestern下午 abgeschickt und warte nun.
 Homeoffice bedeutet für mich nicht automatisch mehr Schlaf.
 Der Praktikant war super fleißig und hat alles schnell gelernt.
 Wir müssen morgen das Projekt nochmal komplett durchgehen.
@@ -4902,7 +4784,6 @@ Ich kann den Stress im Büro einfach nicht mehr abholen.
 Kannst du mir mal kurz die Datei zukommen lassen?
 Das Telefon klingelt schon den ganzen Tag nicht mehr auf.
 Ich muss dringend an dem Projekt arbeiten und keine Pause machen.
-Mein Boss will unbedingt wissen wann wir fertig werden.
 Die Kaffeemaschine im Keller ist leider wieder kaputt gegangen.
 Wir müssen heute Abend doch überstunden wegen dem neuen Kunden.
 Das Videochat-Tool frisst zu viel Speicherplatz auf meinem Laptop.
@@ -4968,7 +4849,6 @@ Der neue Kollege wirkt auf mich irgendwie sehr unsicher und ängstlich.
 Ich muss noch schnell den Bericht abschicken bevor der Chef kommt.
 Homeoffice ist super aber ich vermisse doch die Gespräche zwischendurch.
 Die Konferenzräume sind immer belegt wenn man mal was dringend braucht.
-Ich traue mich nicht so richtig meinem Vorgesetzten was zu sagen.
 Kommst du mit ins Kino nach der Arbeit oder musst du gleich weg?
 Die Überstunden werden leider wieder mal nicht vergütet von der Firma.
 Mein Schreibtisch ist ein wahres Chaos ich finde nix mehr wieder.
@@ -5092,7 +4972,6 @@ Mein Kollege hat mir gerade einen Kaffee gekocht, nett.
 Die Unterlagen für die Bewerbung sind endlich alle da.
 Ich finde das neue Konferenztool total umständlich und nervig.
 Gestern habe ich drei Stunden nur Mails gelesen, nichts getan.
-Der Chef war heute super gut gelaunt, was seltsam ist.
 Wir müssen uns bald einen neuen Drucker kaufen, echt jetzt.
 Die Überstunden werden zwar anerkannt, aber nicht extra bezahlt.
 Ich hoffe, die Präsentation wird dem Kunden morgen gefallen.
@@ -5120,13 +4999,11 @@ Wir müssen das Projekt bis Freitag unbedingt abgeben.
 Die neue Kollegin ist echt nett, aber noch unsicher.
 Ich arbeite heute nur halbtags wegen Termin beim Arzt.
 Das Gehaltsgebot war deutlich höher als erwartet von ihnen.
-Der Chef will immer sofort Antworten, auch am Feierabend.
 Mein Schreibtisch ist chaotischer als der Rest des Raumes.
 Die Team-Building Maßnahme war wirklich komplett überflüssig und langweilig.
 Ich suche eine Stelle mit mehr Sinn und weniger Stress.
 Das Homeoffice Setup muss ich dringend mal aufräumen hier.
 Wir haben wieder keine Zeit für ein richtiges Mittagessen.
-Der Boss will wieder eine Stunde mehr im Meeting sitzen.
 Ich drucke gerade den neuen Vertrag für die Unterschrift aus.
 Endlich hat das IT Team meinen Drucker repariert.
 Die Pausenküche riecht seit Tagen nach altem Kaffee.
@@ -5146,7 +5023,6 @@ Mein Chef hat keine Lust auf meine Vorschläge zur Zeit.
 Die Internetverbindung im Homeoffice war heute zum Mäusemelken.
 Ich muss unbedingt noch den Bericht bis morgen schreiben.
 Es gibt heute wieder diese ewigen Statusupdates in der Gruppe.
-Meine Kollegin hat sich krankgemeldet, also muss ich einspringen.
 Das Gehalt ist okay, aber die Azubi-Zeit war hart.
 Ich traue mich nicht, dem Boss vom Stress zu erzählen.
 Die Konferenzschallanlage knistert wieder und stört total beim Call.
@@ -5177,12 +5053,10 @@ Am Montag fängt wieder ein neuer stressvoller Arbeitswoche für uns alle an.
 Hast du schon mal mit ihm über flexible Arbeitszeiten gesprochen?
 Ich vergesse immer, die Dateien auf dem Server zu speichern am Ende.
 Das Gehalt ist okay, aber die Arbeitsbedingungen sind einfach nicht gut.
-Der Chef will wieder ein stundenlanges Meeting ohne klare Agenda.
 Ich kann heute nicht länger bleiben, muss zum Arzttermin.
 Mein Schreibtisch ist total chaotisch, hab kaum Platz mehr.
 Die neue Software frisst einfach nur Zeit statt sie zu sparen.
 Ich frag mich ernsthaft warum ich überhaupt noch hier arbeite.
-Kaffeeautomat geht wieder mal nicht, was soll das denn nun?
 Hab endlich den Feiertag genommen, freue mich schon riesig.
 Das Gehalt stimmt immer noch nicht mit meiner Arbeit überein.
 Kollege hat mir meine Aufgabe einfach so weitergereicht und ignoriert mich jetzt.
@@ -5193,7 +5067,6 @@ Der Bewerbungsgespräch morgen bringt mich ganz schön ins Grübeln.
 Ich hasse es wenn der Chef letzte Minute Änderungen macht.
 Das Büro ist heute leer, alle sind im Urlaub oder krank.
 Hab den Bonus kassiert aber die Steuerabzug ist krass.
-Mein Job ist langweilig und ich suche bald was Neues.
 Die Kaffeepause ist das Einzige was mich hier am Leben hält.
 Wir bekommen neue Möbel ins Büro, hoffe sie passen endlich.
 Der Kollege raucht wieder in der Küche, das geht gar nicht.
@@ -5249,7 +5122,6 @@ Die Gehaltsgesprächstermine sind alle schon vergeben im Mai.
 Mein Tisch ist wirklich ein komplettes Chaos gerade heute.
 Könntest du mir kurz helfen die Präsentation zu überarbeiten.
 Ich kann einfach nicht mit dem Lärm von nebenan arbeiten.
-Der Chef wollte eigentlich nur mal kurz was fragen.
 Wir sollten vielleicht doch nochmal über die Budgetplanung reden.
 Meine Unterlagen für die Bewerbung sind endlich fertig geworden.
 Ich sehne mich ehrlich gesagt schon nach dem Urlaub jetzt.
@@ -5289,7 +5161,6 @@ Hat schon jemand die Einladung für das nächste Teammeeting gesehen?
 Ich brauche dringend einen Moment zum Durchatmen heute Nachmittag.
 Die neue Kollegin aus dem Marketing ist wirklich toll.
 Wir haben heute keine Zeit für Small Talk, echt sorry.
-Mein Laptop hängt sich ständig auf,技术支持 ist im Urlaub.
 Kannst du die Jalousien zuziehen, die Sonne blendet total.
 Ich hab heute meinen letzten Tag, freue mich schon riesig.
 Die Gehaltsverhandlung war schwieriger als ich gedacht hatte.
@@ -5349,7 +5220,6 @@ Das Büro ist heute leer, weil wir homeoffice machen.
 Mein Vorgesetzter ist eigentlich gar nicht so schlecht drauf.
 Die Überstunden haben sich am Ende doch ausgezahlt.
 Ich habe Angst vor der nächsten Performance Review.
-Das Telefon klingelt不停, ich kann mich nicht konzentrieren.
 Wir brauchen unbedingt ein neues Whiteboard für den Raum.
 Kann jemand den Drucker reparieren, er spuckt nur noch Mist aus.
 Ich freue mich auf das neue Jahr mit dem neuen Job.
@@ -5357,12 +5227,10 @@ Die Gehaltsgespräche in dieser Firma sind immer sehr unbefriedigend.
 Die Besprechung dauert schon wieder drei Stunden.
 Kannst du mir bitte die Zahlen für den Bericht schicken.
 Ich sitze noch bis acht Uhr heute Abend.
-Mein Boss will das Projekt bis morgen Mittag sehen.
 Das Homeoffice ist super, vermisste aber die Kollegen.
 Hast du gesehen dass Sarah jetzt bei der Konkurrenz arbeitet.
 Die Gehaltsgespräche sind immer so nervig und stressig.
 Ich brauche unbedingt eine Pause vom Computerbildschirm.
-Der Drucker macht wieder nicht das was er soll.
 Wir müssen dringend über die neuen Fristen sprechen.
 Hab keine Lust mehr auf diese ständigen Meetings.
 Das Café im Erdgeschoss hat echt guten Kaffee.
@@ -5415,7 +5283,6 @@ Wir haben uns im Meeting nur unnötig gestritten heute.
 Das Gehalt reicht leider kaum für die Miete und Essen.
 Ich bin froh dass wir endlich wieder ins Büro dürfen.
 Meine Bewerbung ist abgelehnt worden, das tut weh.
-Der Chef hat keine Ahnung was im Team wirklich los ist.
 Ich schreibe gerade mein Abschiedsmail an alle Kollegen.
 Die neue Software ist viel zu kompliziert zum Verwenden.
 Wir müssen nächste Woche wieder von zu Hause arbeiten.
@@ -5446,7 +5313,6 @@ Der Arbeitsvertrag sah auf dem Papier viel besser aus.
 Endlich mal ein Tag ohne Stress und dringende E-Mails.
 Die Kündigung muss bis spätestens Freitag auf dem Tisch liegen.
 Ich vermisste die Bürosituation doch mehr als erwartet.
-Das Gehalt ist okay aber die WorkLifeBalance ist schlecht.
 Mein Chef lobt mich nie wenn ich gute Arbeit leiste.
 Wir sollten öfter mal remote arbeiten um Zeit zu sparen.
 Die neue Software im Firmennetzwerk läuft extrem langsam und instabil.
@@ -5506,7 +5372,6 @@ Der Drucker jammt wieder wie immer genau dann wenn es brennt.
 Mein Vorgesetzter redet so viel um den heißen Brei herum heute.
 Das Homeoffice ist toll aber man vermischt halt auch privat und beruflich.
 Ich brauche dringend einen neuen Kalender weil ich alles vergessen habe sonst.
-Die Gehaltverhandlungen werden wohl wieder lange dauern bis es was gibt.
 Das ständige Videomeeting macht mir total den Kopf kaputt.
 Mein Chef ist heute wieder mal in mieser Laune.
 Ich muss dringend meine Steuererklärung schreiben, keine Zeit.
@@ -5591,7 +5456,6 @@ Das Gehalt passt eigentlich okay, reicht für die Miete gerade.
 Am Homeoffice finde ich die ständige Erreichbarkeit total anstrengend.
 Wer hat denn bitte den Kaffee im Flur weggewischt?
 Ich schreibe gerade meine Kündigung, die Hand zittert noch ein bisschen.
-Die neuen Kollegen sind nett, aber man traut sich kaum was zu sagen.
 Heute bleibt der Laptop wieder bis Mitternacht an, Projektdeadline rückt näher.
 Kannst du mal kurz meinen Kaffee machen, ich bin total platt?
 Das Gehaltsgespräch nächste Woche macht mir echt Bauchschmerzen.
@@ -5677,7 +5541,6 @@ Können wir das Gespräch auf nächste Woche verschieben?
 Der Druckschub ist gerade echt unerträglich geworden.
 Ich bewerbe mich mal vorsichtig bei drei anderen Firmen.
 Das Meeting hätte eigentlich eine kurze Nachricht sein können.
-Mein Chef will immer alles sofort, ohne Pufferzeit.
 Wir arbeiten alle an demselben Projekt zusammen.
 Die Büroklimaanlage macht nervig viel Lärm beim Arbeiten.
 Ich versuche heute nach Feierabend früher rauszukommen.
@@ -5687,7 +5550,6 @@ Die Gehaltsgespräche finden erst im nächsten Quartal statt.
 Ich finde es anstrengend, ständig auf der Straße zu stehen.
 Kannst du mal gucken, ob der Drucker wieder geht?
 Das neue Büro ist wirklich viel heller als das Alte.
-Mein Chef hat wieder mal keine Ahnung was er will.
 Die neue Kaffeemaschine im Flur kaputt ist echt nervig.
 Ich kann morgen nicht früher kommen weil ich krank bin.
 Wir haben heute um fünf Uhr Feierabend gemacht, endlich mal.
@@ -5815,7 +5677,6 @@ Wir brauchen dringend einen neuen Planer damit alles reibungslos klappt später.
 Mein Chef lobt mich zwar aber das Gehalt steigt trotzdem nicht.
 Die Unterlagen für die Stelle waren wirklich schwer zu finden online.
 Ich freue mich schon riesig auf meine erste Woche im neuen Amt.
-Die Deadline war eigentlich gestern, aber naja, was solls.
 Mein Chef hat wieder mal Panik geschlagen, weil ein Client sauer ist.
 Ich hasse es wenn das WLAN im Homeoffice ständig ausfällt.
 Kaffeeautomat steht wieder, typischer Montagsmorgens-Stress pur.
@@ -5834,7 +5695,6 @@ Wir müssen wieder umziehen ins neue Büro, echt nervig das ganze Chaos.
 Die Mittagspause war eigentlich nur Zeit zum Luft holen ganz schnell.
 Ich freu mich drauf endlich mal frei zu sein nach der Schicht.
 Der Neuling im Team ist nett aber wirklich langsam bei einfachen Dingen.
-Projektmanagement hier ist ein Witz, wir alle machen was uns passt.
 Gehalt kommt pünktlich an, da bin ich zumindest mal beruhigt heute.
 Meeting war langweilig wie alles andere auch in letzter Zeit echt.
 Ich muss mich umschichten wegen der neuen Stelle im anderen Raum.
@@ -5917,7 +5777,6 @@ Wer hat meinen Stuhl nach der Besprechung schon wieder weggerückt?
 Die Firmenfeier war okay, aber das Essen war wirklich schlecht.
 Ich muss mich entscheiden: Bleibe ich oder bewerbe ich mich woanders?
 Kannst du mal kurz schauen ob das Dokument gespeichert ist?
-Mein Laptop will heute einfach nicht mehr so richtig mitarbeiten.
 Die Kaffemaschine macht schon wieder diesen ominösen quietschgeräusch.
 Ich hab mir heute extra einen Tag frei genommen zum runterkommen.
 Der neue Mitarbeiter kommt morgen an und wir haben keine Zeit ihn zu zeigen.
@@ -5930,7 +5789,6 @@ Wir müssen echt mal über meine Gehaltsanpassung sprechen da bin ich dran.
 Die Präsentation läuft super aber die Technik will partout nicht.
 Ich arbeite lieber im Homeoffice denn hier ist es immer zu laut.
 Kannst du mal den Drucker reparieren der spuckt nur noch Papier aus.
-Meine To-Do-Liste wächst schneller als ich sie abhaken kann heute.
 Der Kollege von nebenan tippt so laut dass ich nicht konzentrieren kann.
 Ich brauch dringend einen Kaffee sonst fall ich gleich in Ohnmacht hier.
 Die Besprechung war völlig unnötig wir hätten das per Mail klären können.
@@ -5938,7 +5796,6 @@ Hab heute Abend noch zwei Mails zu lesen dann bin ich aber fertig.
 Mein Chef lobt mich nie obwohl ich immer überarbeite zum Ärgernis.
 Die neue Software ist wirklich kompliziert und niemand weiß wie sie geht.
 Ich bewerb mich gerade um eine bessere Stelle weil hier nichts passiert.
-Der Kaffee schmeckt heute wieder wie Wasser was ist da los?
 Wir feiern morgen das Geburtstag der Chefin bringt everyone Kuchen mit.
 Ich hab die Kündigung gestern abend geschrieben und heute eingereicht.
 Mein Boss macht mich schon wieder unter Druck wegen der Zahlen.
@@ -5992,13 +5849,11 @@ Mein Chef ist super nett, aber manchmal fehlt ihm der Überblick.
 Wir sollten wirklich mal Team-Event machen, das wäre cool auch.
 Ich muss meine Unterlagen für die Bewerbung nochmal durchgehen.
 Die Konferenz war wieder viel zu lang und völlig nutzlos.
-Mein Chef will dass wir heute alle bis zwanzig Uhr bleiben.
 Ich kann einfach nicht mehr in dem open space sitzen.
 Wir haben morgen Homeoffice, was für eine erfrischende Nachricht.
 Die Gehaltsverhandlung hat leider gar nichts gebracht wie befürchtet.
 Ich schreibe meinen Kündigungsschreiben und werde das Ding los.
 Der neue Kollege ist zwar freundlich aber irgendwie immer da.
-Meine Tastatur geht nicht mehr also muss ich schnell wechseln.
 Wir müssen uns umschulen weil die Software total neu ist.
 Das Mittagessen in der Kantine war heute wirklich wieder eklig.
 Ich hab Pech gehabt denn mein Projekt wurde gerade gestrichen.
@@ -6009,7 +5864,6 @@ Der Drucker macht schon wieder Ärger im dritten Stockwerk.
 Ich möchte eigentlich lieber Remote arbeiten als hier zu sitzen.
 Die Überstundenvergütung wird mir leider nicht mehr ausgezahlt richtig.
 Mein Platz am Schreibtisch ist immer unheimlich unordentlich und chaotisch.
-Wir planen gerade ein Teamevent das niemand wirklich will ehrlich gesagt.
 Das Gehalt reicht kaum noch zum Überleben in dieser Stadt.
 Ich traue mich gar nicht den Vorgesetzten anzusprechen wegen Stress.
 Der neue Job klingt super doch die Probezeit nervt ungemein.
@@ -6069,7 +5923,6 @@ Die Präsentation war gut, aber der Zeitplan wurde überschritten.
 Ich hoffe, dass die Ferien bald endlich wieder losgehen.
 Ich sitz schon seit drei Stunden in Konferenzen.
 Die Pausenmachtnull sind immer so nervig ehrlich gesagt.
-Kann ich heute kurz vor Feierabend gehen muss was erledigen.
 Mein Chef hat wieder mal eine neue Idee ohne Plan.
 Das neue Druckermodell ist komplett kaputt gegangen heute Morgen.
 Ich sehne mich nach echten Kollegen nicht nur Slack Nachrichten.
@@ -6088,7 +5941,6 @@ Ich schreib gerade meine Bewerbung und hoffe auf positive Rückmeldung bald.
 Meeting free Tage sind mein absolutes Lieblingskonzept seit letztem Jahr.
 Der neue Mitarbeiter ist super nett aber total unstrukturiert im Kopf.
 Ich muss dringend mal einen Termin bei der Personalabteilung machen.
-Mein Chef will wieder alles bis morgen Mittag haben.
 Die Besprechung war echt langweilig, hätte ich mir sparen können.
 Ich muss dringend meinen Urlaub beantragen, sonst geht das Jahr rum.
 Kaffee in der Pause ist das Einzige, was mich am Leben hält.
@@ -6139,7 +5991,6 @@ Ich würde am liebsten sofort kündigen und verreisen.
 Die Präsentation war zwar lang aber doch informativ genug.
 Hast du meine Aktenordner schon auf dem Tisch abgelegt?
 Endlich Feierabend nach diesen vielen Überstunden heute.
-Der Chef will wieder alle zum Teambuilding zwingen.
 Kannst du mir kurz die Unterlagen zusenden bitte?
 Ich finde das neue Homeoffice Konzept wirklich gut.
 Die Besprechung dauert schon ewig und bringt nix.
@@ -6186,7 +6037,6 @@ Ich kann nicht verstehen warum wir das so kompliziert machen.
 Homeoffice heißt bei mir oft nur rumhängen und schlafen.
 Die Überstunden zinsen sich hier leider gar nicht aus.
 Ich freu mich total auf die Weihnachtsfeier nächstes Mal.
-Mein Chef hat wieder einmal keine Ahnung was er will.
 Die neue Kollegin ist super freundlich aber total chaotisch.
 Wir sollten mal kurz den Kaffee trinken gehen zusammen.
 Endlich ist das Projekt abgeschlossen und ich kann durchatmen.
@@ -6196,7 +6046,6 @@ Die Kaffemaschine ist total kaputt und keiner kümmert sich drum.
 Ich muss heute Abend noch kurz die Mails vom Morgen beantworten.
 Der neue Kollege wirkt echt sympathisch, vielleicht trinken wir Kaffee.
 Wieder eine Stunde im Meeting über ein Thema geredet das alt ist.
-Kann ich am Freitag homeoffice machen oder ist da was fest?
 Das Gehalt passt irgendwie nie zur Inflation in letzter Zeit.
 Mein Chef hat gesagt er überprüft meine Arbeitsleistung nächstes Quartal.
 Die Kündigung lag heute früh schon auf meinem Schreibtisch bereit.
@@ -6294,7 +6143,6 @@ Bitte vergiss nicht den Bericht bis zur Mittagspause abzugeben.
 Am Montag habe ich gleich drei wichtige Meetings hintereinander.
 Kannst du bitte die Datei bis morgen mittag rausschicken?
 Ich brauche dringend einen Kaffee, sonst schlafe ich ein.
-Mein Chef findet jede Idee genial, egal was es ist.
 Die Druckerpatrone ist wieder leer und niemand hat Ersatz.
 Heute kann ich um vier Uhr schon früher gehen.
 Wir müssen die Quartalszahlen bis Freitag auf dem Tisch haben.
@@ -6342,7 +6190,6 @@ Die Gehaltsverhandlungen ziehen sich schon ewig hin.
 Ich hasse es, wenn Meetings keine klare Agenda haben.
 Meine Kollegin ist die Beste, mit der ich gearbeitet habe.
 Das Homeoffice wird nach dem Sommer wahrscheinlich beendet.
-Die To-Do-Liste wird nie kürzer im Gegenteil.
 Mein Chef hat wieder einen totalen Wutanfall bekommen.
 Kaffee ist die einzige Energiequelle an montags.
 Ich hasse diese täglichen Statusupdates wirklich so sehr.
@@ -6367,7 +6214,6 @@ Das neue Büro hat wenigstens besseres WLAN drin.
 Meine Chefin ist streng aber eigentlich sehr fair.
 Ich schreibe gerade den wöchentlichen Bericht abends noch.
 Der Stuhl im Büro gibt meinem Rücken keine Ruhe.
-Die To-Do-Liste wächst schneller als ich sie abhaken kann.
 Ich hasse diese endlosen Stand-ups am Montagmorgen.
 Kannst du mal kurz gucken was das für ein Fehler ist.
 Mein Arbeitgeber zahlt die Überstunden leider nur mit Freizeit aus.
@@ -6419,7 +6265,6 @@ Ich sehne mich so nach dem Wochenende und Ruhe.
 Die Kollegen sind nett aber das Tempo ist zu hoch.
 Endlich Feierabend und ich gehe sofort ins Bett.
 Wieder mal diese endlosen Meetings ohne jeden Mehrwert.
-Mein Chef will heute Abend noch kurz was besprechen.
 Ich hoffe wirklich dass die Gehaltserhöhung klappt.
 Im Homeoffice vergesse ich manchmal zu Mittag zu essen.
 Die neue Kollegin ist echt super in die Abteilung integriert.
@@ -6469,8 +6314,6 @@ Ich mache heute keine Überstunden, ich habe was vor mit der Familie.
 Die Gehaltsverhandlung war spannend, am Ende haben wir uns geeinigt.
 Ich schreibe gerade meine Lebenszeit für die neue Stelle um.
 Das Telefon klingelt dauernd, ich komme gar nicht zur Ruhe.
-Am Freitag Abend bin ich immer erledigt und will nur noch nach Hause.
-Der Chef hat wieder mal keine Ahnung was er will.
 Ich muss dringend einen Antrag auf bezahlten Urlaub stellen.
 Diese Standup Meetings am Montag sind echt nervig.
 Mein Gehalt steigt nächsten Monat hoffentlich deutlich an.
@@ -6586,7 +6429,6 @@ Mein Laptop stürzt ständig ab, der Support kommt nicht.
 Ich träume schon von den langen Sommerferien im Urlaub.
 Die Gehaltsvorlage war ehrlich gesagt doch etwas zu hoch.
 Kannst du mir schnell mal die Uhrzeit sagen?
-Ich sitze schon seit drei Stunden auf der Wartelistе.
 Der neue Kollege ist wirklich nett, aber noch ungeschickt.
 Wir müssen das Projekt bis morgen Abend fertig stellen.
 Meine Augen brennen vom ständigen Starren in den Bildschirm.
@@ -6601,7 +6443,6 @@ Mein Chef ist heute wieder in einer echt schlechten Laune.
 Kannst du mal kurz prüfen ob die Rechnung schon bezahlt wurde?
 Ich schreibe gleich meine Kündigung, ich kann das nicht mehr.
 Die neue Software im Büro bringt mich wirklich zum Verzweifeln.
-Am Freitagabend will niemand hier noch arbeiten bleiben.
 Wir bekommen nächste Woche endlich Urlaub und ich freue mich.
 Das Gehalt reicht kaum noch für die Miete und Essen.
 Im Homeoffice vergesse ich manchmal zu Mittag essen zu gehen.
@@ -6643,7 +6484,6 @@ Ich muss meine Steuererklärung noch machen, da habe ich total Bock auf.
 Die Pausen wurden kürzer, was echt nervig ist wenn man Hunger hat doch.
 Mein Vorgesetzter drückt mir ständig die Deadline runter obwohl alles passt bereits.
 Wir haben wieder kein Budget für Team Events dieses Jahr bekommen leider.
-Der Kaffee Automat ist kaputt, also gehen wir alle zur Tankstelle heute.
 Ich hasse es Montag Morgen in den Zug zu müssen wirklich absolut total.
 Die E-Mails kommen nach Feierabend immer noch, das finde ich echt anstrengend ehrlich gesagt.
 Die Konferenzschaltung hat wieder ewig gedauert für gar nichts.
@@ -6669,7 +6509,6 @@ Meine Kollegin hat mir gerade ihre Pflanze geschenkt zum Abschied.
 Wir sollten doch einfach mal den Feierabend einhalten ohne schlechtes Gewissen.
 Die neue Software ist komplizierter als ich ursprünglich angenommen habe ehrlich.
 Ich bin froh dass das Projekt endlich abgeschlossen und geliefert wurde.
-Der Boss will wissen warum die Zahlen vom letzten Quartal so schlecht sind.
 Ich habe heute Vormittag nur Pause gemacht und an die Wand gestarrt.
 Bist du auch genervt von diesen ewigen Slack-Nachrichten in der Gruppe?
 Der Chef fragt wieder mal nach dem Status ohne Grund.
@@ -6748,7 +6587,6 @@ Ich suche dringend nach einem Job mit weniger Stress.
 Mein Team führt mich fast täglich zum Verzweifeln.
 Das neue Büro hat super große Fenster zur Straße.
 Die Besprechung könnte echt eine Mail gewesen sein.
-Mein Vorgesetzter will nach Feierabend noch Anrufe entgegennehmen.
 Zuhause am Schreibtisch schaffe ich irgendwie mehr als vor Ort.
 Ich schiebe meinen Lebenslauf für die offene Stelle ein, zittere dabei.
 Diese Arbeitskollegin bringt mich schon seit Ewigkeiten auf die Palme.
@@ -6777,7 +6615,6 @@ Kannst du mir bitte die Unterlagen bis morgen zusenden?
 Ich habe gestern wieder bis zwei Uhr gearbeitet echt beschissene Woche.
 Das Gehalt passt leider überhaupt nicht zu meiner Leistung aktuell.
 Wir sitzen schon wieder in diesem sinnlosen Zoom Meeting fest.
-Mein Chef findet meine Idee gut also machen wir es so.
 Die Kündigung liegt seit drei Wochen auf seinem Tisch ungenutzt.
 Ich brauche dringend ein neues Laptop weil das alte streikt.
 Das Homeoffice ist okay aber ich vermisse den Kaffeeklatsch.
@@ -6810,10 +6647,8 @@ Hab heute Mittag im Büro gemittagst weil ich keine Lust hatte.
 Meine Kollegin hat mir gerade ein super Kompliment gemacht.
 Das Gehalt stimmt einfach nicht mit der Arbeitslast überein.
 Ich schreibe morgen meinen Kündigungsschreiben und bin aufgeregt.
-Der Drucker will partout nicht die Seiten richtig ausgeben.
 Endlich ist Freitag und ich kann bis Montag abschalten.
 Wir sollten das Thema vielleicht in einer kleineren Runde klären.
-Mein Chef lobt mich selten was doch auch motiviert.
 Die Überstunden dieses Monat waren wirklich zu viel des Guten.
 Ich versuche mich immer an die Bürozeiten zu halten.
 Die neue Stelle klingt interessant aber das Gehalt ist niedrig.
@@ -6833,11 +6668,9 @@ Wir müssen dringend ein neues Druckermodell anschaffen.
 Hast du schon die Präsentation für den Kunden fertiggestellt?
 Ich brauche dringend einen Kaffee, sonst fall ich um.
 Die Büroklima ist heute besonders stickig und drückend.
-Mein Chef hat wieder mal was falsch verstanden beim Telefonat.
 Ich bewerbe mich morgen auf diese Position als Designer.
 Das neue Gehaltspaket klingt eigentlich ganz vielversprechend für mich.
 Wir haben heute Mittag gemeinsam im Bistro gegessen und geplaudert.
-Die To-Do-Liste wächst schneller als ich sie erledigen kann.
 Ich finde das Open-Space-Konzept wirklich nervenaufreibend und laut.
 Kannst du mir kurz die Dateien von gestern zusenden?
 Der Urlaub fängt endlich morgen wieder richtig an für mich.
@@ -6864,7 +6697,6 @@ Wir müssen dringend über die Gehaltsskalen für nächstes Jahr sprechen.
 Im Homeoffice vergesse ich öfter mal, dass das Feierabend ist.
 Mein Chef redet nur noch in bunten Floskeln und Buzzwords.
 Ich bin heute krankgemeldet, weil ich massive Migräne habe.
-Die Bewerbungsfrist endet morgen, also muss ich mich beeilen.
 Wir haben zwar flexible Zeiten, aber der Druck bleibt trotzdem hoch.
 Das Büro ist so leer seit dem Umzug ins City Center.
 Kannst du mir kurz helfen, den Drucker wieder zum Laufen zu bringen?
@@ -6898,7 +6730,6 @@ Ich habe Angst vor dem großen Vortrag morgen mittags.
 Die Arbeitsbelastung ist in letzter Zeit einfach zu hoch.
 Mein Vorgesetzter lobt mich selten und das stört mich.
 Ich drücke jetzt den Senden-Knopf und wünsche mir Glück.
-Die To-Do-Liste wird nur noch länger statt kürzer.
 Warum müssen wir immer um sieben Uhr früh sein.
 Ich hoffe mal dass der Chef heute nicht nochmal ansetzt.
 Kaffee ist mein einziger Grund morgens aufzustehen.
@@ -6949,7 +6780,6 @@ Die Bewerbungsunterlagen wurden bereits an die Personalabteilung weitergeleitet.
 Ich muss dringend meine Steuererklärungen für die Selbstständigkeit fertigstellen.
 Das Büro hat nach der Mittagspause irgendwie einen seltsamen Geruch angenommen.
 Die Konferenz heute war wirklich absolute Zeitverschwendung.
-Mein Boss will wieder einen Call am Freitagabend halten.
 Ich hasse es immer wenn die Klimaanlage so laut brummt.
 Endlich mal Homeoffice am Montag, das ist mein Leben.
 Die Bewerbungsfrist ist morgen vorbei, ich drucke sie aus.
@@ -7024,8 +6854,6 @@ Die Pausen sind oft der einzige Lichtblick im ganzen Tag.
 Mein Vorgesetzter redet viel zu schnell und hört nie zu.
 Ich habe mich heute krankgemeldet, weil ich einfach burnout hatte.
 Wer hat den Stuhlkreis im Besprechungsraum so verrückt gestellt?
-Die Zeiterfassung ist wieder mal offline, was sollen wir jetzt tun?
-Ich traue mich gar nicht anzusprechen, dass ich mehr verdienen will.
 Die Jungs vom Vertrieb sind heute wieder spät dran.
 Ich muss unbedingt das Excel-Blatt bis Mittag fertig kriegen.
 Warum müssen wir immer vormittags Meetings planen, die ewig dauern?
@@ -7046,7 +6874,6 @@ Die Toileten im Büro riechen wirklich eklig nach Chemikalien.
 Ich würde gerne kündigen, aber die Wirtschaftslage ist gerade schlecht.
 Mein Kollege kommt immer mit Ausreden, warum er keine Arbeit macht.
 Das neue Laptop ist langsam und hängt sich ständig auf.
-Kannst du mal kurz den Drucker reparieren, der will nicht spucken.
 Die Bürokratie frisst mir hier langsam die Nerven heraus.
 Ich freue mich riesig auf das Wochenende, es war eine harte Woche.
 Hat jemand noch einen Stift übrig, meine Kugelschreiber alle leer.
@@ -7193,7 +7020,6 @@ Heute Abend bleibe ich nochmal länger, um diese dringende E-Mail zu schreiben.
 Die Klimaanlage im Konferenzraum geht seit Wochen nicht richtig hoch.
 Ich habe gestern meine Kündigung eingereicht und fühle mich erleichtert.
 Das Büro ist heute leer, alle sind irgendwo im Urlaub oder krank.
-Wir sollten mal gemeinsam was unternehmen, das Team bonding fehlt uns.
 Der Drucks scanner streikt schon wieder genau dann, wenn ich ihn brauche.
 Ich vermisse die kleinen Kaffee-Pausen mit den Kollegen sehr stark.
 Die Gehaltserhöhung war zwar klein, aber trotzdem noch immer willkommen.
@@ -7220,7 +7046,6 @@ Die Kündigung hat doch tatsächlich geklappt, ich atme auf.
 Im Büro ist es so laut, dass ich nicht konzentrieren kann.
 Könntest du kurz den Kaffee nachfüllen, wir haben keinen mehr?
 Die Deadline ist echt eng, aber wir schaffen das irgendwie.
-Mein Chef lobt mich nie, egal was ich mache, frustrierend.
 Ich arbeite lieber von zu Hause als im dichten Zug.
 Das neue Software Update bringt nur noch mehr Fehler als Features.
 Der Chef fragt dauernd nach Updates die eh nicht dringend sind.
@@ -7239,7 +7064,6 @@ Das neue Bürokonzept mit offenen Flächen bringt mich um den Verstand.
 Bewerbung verschickt und jetzt warte ich zähneknirschend auf Antwort.
 Überstunden zählen sich hier anscheinend nicht mal rum ehrlich gesagt.
 Der Drucker macht schon wieder Probleme obwohl wir neu gekauft haben.
-Ich will einfach nur noch nach Hause und meine Arbeit sein lassen.
 Die Besprechung hat ewig gedauert ohne jeden einzigen Mehrwert wirklich.
 Kollegen flüstern im Flur und ich hab keine Idee worüber.
 Gehaltsscheck kam heute endlich auf dem Konto wohlbemerkt verspätet wie immer.
@@ -7300,7 +7124,6 @@ Am Montag muss ich wieder früh aufstehen, das nervt mich total.
 Wir sitzen schon den ganzen Tag im Conference Room und reden.
 Mein Chef lobt mich nie, nur wenn was falsch läuft ist er da.
 Die Arbeitsaufgabe war viel zu kompliziert für meine jetzigen Kenntnisse.
-Der Chef will wieder mal ein Brainstorming ohne klare Agenda.
 Ich sitz schon seit zwei Stunden vor demselben Dokument fest.
 Können wir das Meeting wirklich noch heute durchführen müssen?
 Mein Arbeitsplatz ist so chaotisch wie mein Kopf gerade.
@@ -7323,7 +7146,6 @@ Der Praktikant hat alles perfekt erledigt ohne dass man ihm half.
 Warum sind die Parkplätze immer leer wenn wir doch alle da sind?
 Ich muss mir noch einen neuen Computer beantragen weil der alt ist.
 Die Kündigung wurde freundlich übermittelt aber das Vertrauen ist weg.
-Heute Abend gibt es mal was Gutes zu Essen zur Belohnung.
 Das Onboarding war viel zu unorganisiert und hat mich verwirrt.
 Kannst du mir kurz die Unterlagen fürs Projekt rausschicken?
 Das ständige Lachen von der Etage darunter treibt mich wahnsinnig.
@@ -7336,8 +7158,6 @@ Kann jemand meinen Bildschirm spiegeln, der geht nicht mehr.
 Wir haben zu viele Meetings und zu wenig eigentliche Arbeit.
 Die Gehaltserhöhung kommt wahrscheinlich erst nächstes Jahr again.
 Ich schreibe heute abend noch schnell die Mail an den Kunden.
-Mein Kollege hat sich wieder mal was mit dem Drucker zugelegt.
-Das Homeoffice war gestern echt entspannt ohne all den Stress.
 Ich überlege ernsthaft, ob ich mir nicht einen neuen Job suche.
 Die Überstunden dieser Woche haben mich richtig fertig gemacht heute.
 Habt ihr schon gehört, dass die Abteilung umziehen soll?
@@ -7373,7 +7193,6 @@ Mein Kollege hat sich heute total blamiert vor dem Kunden.
 Ich freue mich schon auf den Feierabend und meine Freizeit.
 Das Office ist zu laut damit kann ich wirklich nicht arbeiten.
 Wir müssen das Thema Datenschutz nochmal dringend anschauen und regeln.
-Mein Chef lobt mich selten was mich irgendwie doch trift.
 Die Arbeitsatmosphäre im Team hat sich seit Monaten verbessert.
 Ich packe gerade meine Sachen aus weil es vorbei ist.
 Das Meeting könnte wirklich eine Mail sein, ehrlich gesagt.
@@ -7439,7 +7258,6 @@ Hast du schon gehört, dass Sarah gekündigt hat?
 Endlich kann ich endlich mal durchatmen nach der Woche.
 Der Drucker funktioniert schon wieder nicht, wie immer halt.
 Ich brauche dringend einen neuen Bildschirm für den Platz.
-Wir laden uns heute Mittag was vom Lieferdienst holen.
 Die Gehaltsverhandlung morgen wird bestimmt wieder schwierig werden.
 Ich habe keine Lust mehr auf diese endlosen Konferenzen.
 Mein Schreibtisch ist ein riesiges Chaos und ich finde nichts.
@@ -7459,7 +7277,6 @@ Ich muss dringend mal wieder Urlaub machen, bin total fertig.
 Die neuen Kollegen sind eigentlich ganz nett und sehr hilfsbereit.
 Hoffentlich klappt die Gehaltsgespräch nächste Woche besser als letztes Jahr.
 Warum müssen wir um sechs Uhr morgens schon da sein?
-Mein Bildschirm ist so dreckig dass man kaum was sieht.
 Ich habe heute wieder zu viel Kaffee getrunken und zittere jetzt.
 Die Kaffeemaschine im Flur macht echt einen schrecklichen Lärm.
 Kann mir jemand kurz die Unterlagen für den Kunden schicken?
@@ -7478,7 +7295,6 @@ Der Chef steht schon wieder um sieben vor der Tür.
 Ich hasse es wenn die Kaffeemaschine im Büro kaputt ist.
 Kannst du mal kurz reinschauen ich hänge an dieser Excel Tabelle.
 Heute war das Standup Meeting total sinnfrei und langweilig.
-Mir reicht's ich will einfach nur noch nach Hause gehen.
 Die Pausensnacks werden langsam echt kritisch für meine Figur.
 Ich habe heute wieder drei Stunden in Meetings verbracht.
 Schick mir die Datei bis morgen früh bitte nicht vergessen.
@@ -7537,7 +7353,6 @@ Ich bin froh dass ich morgen frei habe nach dieser stressigen Woche.
 Der Neue im Team wirkt irgendwie sehr schüchtern und zurückhaltend.
 Kannst du mal kurz gucken ob der Drucker noch funktioniert heute?
 Mein Vorgesetzter erwartet zu viel von mir an so einem kurzen Tag.
-Die Kaffeemaschine ist wieder kaputt gegangen was uns alle nervt ungemein.
 Ich überlege ernsthaft ob ich kündigen soll bei dieser Arbeitssituation hier.
 Heute muss ich leider wieder bis spät abends dranbleiben für das Projekt.
 Die Besprechung war völlig sinnlos weil gar keine Entscheidungen getroffen wurden.
@@ -7553,7 +7368,6 @@ Die Kündigung ist offiziell eingegangen ab nächstem Monat bin ich dann weg.
 Kannst du mir kurz die Zahlen aus der Tabelle mailen?
 Ich muss dringend ins Homeoffice umsteigen heute.
 Das Wartergebnis ist leider nicht so gut wie erwartet.
-Mein Boss will das Projekt bis morgen Mittag haben.
 Wir sollten mal über eine Gehaltserhöhung sprechen gehen wir?
 Die Kaffeemaschine im Büro geht schon wieder kaputt.
 Ich bin so müde nach diesen ganzen Meetings heute.
@@ -7578,7 +7392,6 @@ Mein Platz im Büro ist total unordentlich geworden lately.
 Ich freue mich schon auf den Urlaub nächsten Monat endlich.
 Die Konferenzraumtür war wieder mal klemm wie immer.
 Kannste mir kurz die Zahlen aus der Tabelle schicken?
-Mein Chef hat heute keine Ahnung was er will.
 Ich setz mich jetzt einfach ans Fenster zum Arbeiten.
 Das Telefon klingelt nonstop, ich kann kaum atmen.
 Wir sollten uns morgen mittag beim Kaffee treffen.
@@ -7623,7 +7436,6 @@ Die Projektdeadline ist morgen und wir haben noch nichts fertig.
 Ich hab heute drei Stunden überarbeitet und bekomme kein Geld dafür.
 Der neue Chef ist echt streng mit den Pausenzeiten jetzt.
 Ich würde gern kündigen aber die Wirtschaftslage ist unsicher gerade.
-Mein Schreibtisch ist ein komplettes Chaos, ich find nix mehr.
 Die Teamteambuilding Maßnahme war eher nervig als lustig ehrlich gesagt.
 Ich habe mich auf diese Stelle beworben und warte jetzt.
 Das Kopieren von Dokumenten dauert ewig weil der Server langsam ist.
@@ -7654,7 +7466,6 @@ Die Kollegen lachen immer über meine schlechten PowerPoint Folien.
 Endlich ist das Projekt abgeschlossen und ich kann durchatmen.
 Ich muss nochmal schnell ins Büro fahren weil ich die Unterlagen vergessen habe.
 Das Daily stand heute wieder zwei Stunden unnecessarily lang.
-Meine Chefin will dass ich das Projekt bis morgen fertigstelle.
 Endlich mal kein Meeting am Freitagabend zum Glück.
 Ich frag mich ob sich die Überstunden überhaupt noch lohnen.
 Der neue Kollege ist ganz nett aber er redet viel zu laut.
@@ -7676,7 +7487,6 @@ Unsere Abteilung wird wohl umstrukturiert, da fliegen bestimmt ein paar Leute.
 Ich kann den neuen Projektmanager überhaupt nicht leiden, der ist zu arrogant.
 Gestern Abend habe ich noch bis Mitternacht am Report gesessen doof.
 Die Gehaltserhöhung kam erst mit zwei Monaten Versatzung bei mir an.
-Wir planen gerade unseren Teamevent im Oktober, soll was Gutes werden.
 Das stand doch schon in der Mail, warum fragen wir nochmal?
 Ich muss heute wieder bis 19 Uhr hier bleiben.
 Mein Chef redet nur rum aber macht gar nichts konkretes.
@@ -7694,7 +7504,6 @@ Ich hoffe der Chef liest meine E-Mails vor dem Urlaub nicht.
 Das Gehalt ist okay aber die Arbeitsbedingungen könnten besser sein.
 Mir fehlt hier einfach ein bisschen mehr Anerkennung von oben.
 Ich bewerbe mich gerade bei einer Firma die remote arbeitet.
-Der Drucker macht wieder mal seinen Mist und will nichts scannen.
 Können wir das Meeting auf morgen verschieben ich habe keine Zeit.
 Ich bin total gestresst weil alle Termine kurzfristig umbuchung wurden.
 Die neue Software ist umständlich aber wir müssen sie wohl lernen.
@@ -7703,11 +7512,9 @@ Ich habe heute meinen letzten Arbeitstag hier, dann geht's los.
 Der Chef ist heute sehr schlecht gelaunt und schreit wieder rum.
 Wir brauchen dringend einen neuen Tischkaffee der aktuelle schmeckt eklig.
 Das Teams Meeting könnte man eigentlich skippen.
-Mein Chef will dass wir heute noch eine Extra Shift machen.
 Ich hab mir gerade nen neuen Job gesucht online.
 Die Kaffeemaschine im Büro macht seit Wochen nur Schlamm.
 Wir müssen endlich mal über Gehalt reden hier.
-Im Homeoffice vergesse ich immer was ich essen soll.
 Könnt ihr bitte leise sein ich muss telefonieren.
 Meine Kollegin ist echt unfassbar langsam bei der Arbeit.
 Ich brauche dringend ein neues Laptop für die Jobs.
@@ -7803,7 +7610,6 @@ Ich bekomme kaum noch Zeit zum Mittessen wegen der vielen E-Mails.
 Mein Vorgesetzter lobt mich zwar selten aber er erkennt meine Arbeit.
 Der Termin heute Nachmittag kann leider nicht stattfinden oder verschoben werden.
 Ich suche aktiv nach einem neuen Job mit besseren Arbeitsbedingungen.
-Der Boss will wieder alle um acht Uhr da haben.
 Endlich Freitag, ich packe gerade meine Sachen zusammen.
 Diese Endlosschleife aus Meetings kann man eigentlich abkürzen.
 Ich muss dringend mal durchatmen und ins Wochenende schauen.
@@ -7942,7 +7748,6 @@ Ich muss dringend noch eine Email vor Feierabend abschicken.
 Warum müssen wir jeden Freitag bis zwei Uhr überlegen.
 Hab heute morgen direkt meinen Kündigungsschreiben geschrieben und abgeschickt.
 Das Homeoffice ist super aber ich vermisse den Kaffee von nebenan.
-Mein Vorgesetzter versteht gar nicht was da eigentlich los ist.
 Kannst du die Präsentation noch mal durchgehen bevor wir starten?
 Die Überstunden zahlen sich hier einfach nur in Stress aus.
 Ich bewarb mich auf drei Stellen und bekam keine Antwort.
@@ -7967,7 +7772,6 @@ Die neuen Kollegen sind wirklich nett und hilfsbereit.
 Ich muss dringend meinen Urlaub beantragen, bin am Ende.
 Das Telefon klingelt die ganze Zeit ohne Unterbruch.
 Mein Boss hat heute wieder Stimmung auf allen Dampfen.
-Endlich ist der Bericht abgeschlossen, was eine Reliefung ist.
 Hast du Lust heute Mittag zusammen essen zu gehen.
 Die Kündigung liegt jetzt schon auf meinem Tisch.
 Ich hoffe wirklich auf diese Beförderung im Herbst.
@@ -7980,7 +7784,6 @@ Kannst du kurz bei mir reinschauen, falls du kannst.
 Ich freue mich schon auf das Wochenende und Ruhe.
 Die Bewerbung war schwerer als ich gedacht hatte.
 Mein Platz im Büro ist wirklich ungemütlich geworden.
-Ich muss morgen wieder um sieben da sein, was nervt mich total.
 Warum haben wir eigentlich dieses stundenlange Meeting veranstaltet?
 Mein Chef findet meine Idee geniale, aber der Rest ist skeptisch.
 Homeoffice ist super, doch ich vermisse den Kaffee mit Kollegen.
@@ -7998,7 +7801,6 @@ Ich kann nicht verstehen, warum wir immer so wenig Feedback bekommen.
 Die Klimaanlage im Büro ist wieder kaputt, es schwitzt hier.
 Ich habe heute Abend keine Lust mehr auf irgendwelche Arbeitssachen.
 Kannst du mir bitte mal kurz deine Meinung dazu sagen?
-Der Chef will wissen, wann der Bericht fertig wird.
 Ich überlege ernsthaft, mich bei einer anderen Firma umzuschauen.
 Es ist unglaublich laut in unserem Open Space Büro heute.
 Die Deadline war gestern, ich hoffe, es geht trotzdem noch.
@@ -8031,7 +7833,6 @@ Das Telefon läutet nur noch ab, ich kann kaum meine Arbeit machen.
 Wir haben heute Feiertag, das Büro bleibt geschlossen für alle Mitarbeiter.
 Die Jobbörse ist voller Fake-Angebote, man muss sich da durchkämpfen.
 Ich freue mich auf den Freitag, endlich mal wieder abschalten.
-Der Chef will wieder mal alles bis morgen haben.
 Endlich Freitag, kann die ganze Woche vergessen.
 Ich muss dringend eine neue Bewerbung schreiben.
 Die Kaffemaschine ist kaputt, alle sind genervt.
@@ -8050,7 +7851,6 @@ Wir brauchen endlich einen neuen Bürostuhl für mich.
 Das Video-Call war heute wieder ruckelig und nervig.
 Ich überlege ob ich doch kündigen sollte bald.
 Die Pause ist vorbei, zurück an den Computer.
-Mein Kollege hat sich wieder mal was dummeres gedacht.
 Ich hoffe das Projekt läuft endlich besser ab jetzt.
 Die Büroheizung heizt wieder nur im Sommer richtig.
 Kann mir jemand die Unterlagen bis 16 Uhr schicken?
@@ -8093,7 +7893,6 @@ Der neue Kollege scheint eigentlich ganz nett und hilfsbereit zu sein.
 Unsere Besprechung könnte man leicht in einer Mail abmachen.
 Ich brauch dringend einen Tag Urlaub, sonst brech ich zusammen.
 Die Überstunden wurden leider gar nicht extra bezahlt dieses Mal.
-Mein Boss will immer alles sofort haben, ohne Pause.
 Wir planen gerade eine Teambuilding-Maßnahme für nächsten Monat.
 Die Bewerbungen dauern so lange, dass man die Lust verliert.
 Ich habe meinen Kündigungsschreiben heute endlich abgeben können.
@@ -8146,7 +7945,6 @@ Mein Schreibtisch ist so chaotisch dass ich gar nichts mehr finde.
 Wir müssen dringend mal einen Feiertag an diesem Montag einplanen.
 Die Kollegin von der Buchhaltung antwortet nie sofort auf Mails.
 Ich bin froh dass ich heute schon um vier abziehen kann.
-Der Boss will wissen warum wir das Projekt wieder verpasst haben.
 Ich habe Angst meine Kündigung muss doch schneller kommen als gedacht.
 Am Montag ist da immer so ein typisches Anfangswochendes Feeling.
 Die neuen Stühle in der Pausecke sind wirklich viel zu hart.
@@ -8184,7 +7982,6 @@ Mein Boss macht keinen Spaß und ist immer in Eile.
 Ich muss dringend meinen Urlaub beantragen, bevor der Sommer kommt.
 Die Konferenz war eine absolute Zeitverschwendung für uns alle.
 Kann ich heute schon früher gehen, ich bin ziemlich krank.
-Der Chef will wissen warum wir die Frist verpasst haben.
 Ich drucke gerade nochmal alle Unterlagen für das Meeting aus.
 Können wir das Gespräch bitte auf morgen verschieben?
 Die Kaffeemaschine im Büro geht schon wieder nicht mehr.
@@ -8209,7 +8006,6 @@ Ich vermisste das Homeoffice schon sehr in den ersten Wochen.
 Das Meeting dauert ewig und bringt überhaupt nichts Neues.
 Ich habe heute frei, weil ich einen Arzttermin habe.
 Wir müssen die Kosten für das nächste Quartal dringend prüfen.
-Mein Chef hat mal wieder kein Plan was er will.
 Ich schick dir die Datei morgen früh wenn ich da bin.
 Die Kantine macht heute leider nur salatteller zum essen.
 Warum müssen wir immer um achtzehn uhr noch besprechen.
@@ -8223,7 +8019,6 @@ Kannst du kurz schauen ob der drucker auch kaputt ist?
 Mein Kollege geht immer früher weg obwohl er nichts macht.
 Die Videokonferenz hat total gehakt und ich wurde nicht gehört.
 Ich überleg mir schon lang meinen nächsten karriereschritt zu gehen.
-Der Kaffeeautomat ist kaputt gegangen was jetzt tun wir?
 Ich muss dringend meine steuererklärung für das jahr abgeben.
 Die Deadline war gestern trotzdem liefert keiner bis heute.
 Ich finde unsere neuen Büroarbeitsplatzregelungen wirklich völlig absurd.
@@ -8260,7 +8055,6 @@ Wir sollten mal gemeinsam über unsere Arbeitsbedingungen reden.
 Meine Arbeitszeiten sind flexibel, aber ich bin meist bis spät dran.
 Die Weiterbildung kostet viel Zeit und bringt am Ende nichts.
 Ich freue mich auf den Feierabend und mein Wochenende.
-Der Chef will wieder ein Meeting um 18 Uhr.
 Ich habe so viel Stress heute im Büro gehabt.
 Mein Kollege bringt immer Kaffee mit zum Team.
 Die Homeoffice Phase war für mich echt schwierig.
@@ -8312,7 +8106,6 @@ Könntest du mir helfen diese Tabelle heute fertig zu machen?
 Ich freue mich schon auf das Wochenende und Ruhe.
 Der Arbeitgeber zahlt leider keine Überstunden aus bisher.
 Endlich mal ein Meeting das auch zum Ziel führt.
-Mein Chef will wieder ein Statusmeeting ohne klare Agenda.
 Im Homeoffice vergesse ich immer die Pause und esse zu spät.
 Die Kündigung liegt schon auf dem Tisch, morgen ist Schluss.
 Ich brauche dringend eine Gehaltserhöhung, die Inflation ist zu hoch.
@@ -8358,7 +8151,6 @@ Der neue Mitarbeiter ist nett, aber er kennt nichts von hier.
 Wir sollten mal über eine flexible Arbeitszeitregelung sprechen.
 Mein Computer hängt sich alle fünf Minuten wieder auf.
 Die Gehaltsverhandlungen endeten leider mit einem klaren Nein heute.
-Ich freue mich schon auf das Wochenende ohne To-Do-Listen.
 Der Drucker ist wieder verstopft und ich habe keine Zeit.
 Kannst du mir sagen wann der neue Projektplan fertig wird?
 Ich bin gestresst weil die Frist für den Bericht kurz ist.
@@ -8382,7 +8174,6 @@ Kannst du kurz nachschauen ob die Rechnung schon bezahlt wurde oder nicht.
 Ich hab mir gerade ein neues Bürostuhl gekauft weil der alte wackelt.
 Das Gehaltsgespräch war angespannt aber er hat versprochen nächstes Jahr mehr zu geben.
 Wir haben wieder mal zu viele Meetings und kaum Zeit für eigentliche Arbeit.
-Mein Chef sagt ich soll flexibler sein aber er ist nie erreichbar wenn ich was brauche.
 Ich suche schon seit Monaten nach einer besseren Stelle mit weniger Stress.
 Die neue Kollegin ist echt süß aber sie redet den ganzen Tag nur Klatsch.
 Ich kann den Druck im Büro gerade gar nicht mehr verkraften ehrlich gesagt.
@@ -8398,7 +8189,6 @@ Ich arbeite gerade von einem Café aus weil es zu laut ist.
 Die neue Kollegin wirkt auf mich sehr unbefangen und sympathisch.
 Überstunden zahlen sich bei uns leider gar nicht richtig aus.
 Ich muss dringend meinen Arbeitsvertrag nochmal genau lesen.
-Das Druckerpapier ist schon wieder leer und keiner macht was draus.
 Mein Boss hat heute wieder einen kompletten Anfall bekommen.
 Ich bewege mich morgen zu einem besseren Unternehmen mit mehr Freizeit.
 Die täglichen Standups sind absolut nervig und bringen nichts.
@@ -8431,7 +8221,6 @@ Wir haben heute keine Zeit für Smalltalk, alles brennt irgendwie.
 Der Drucker hat wieder sein Papiere geagt, nervig ist anders.
 Ich schicke jetzt die Kündigung, das war's endgültig mit mir.
 Die Pause war zu kurz, ich bin immer noch müde.
-Mein Vorgesetzter lobt mich nie, egal was ich mache.
 Das Projekt lief super, endlich mal etwas Positives in der Arbeit.
 Ich muss dringend meine Steuererklärung machen, sonst bekomme ich Ärger.
 Kaffee ist mein Treibstoff, ohne den schaffe ich den Vormittag nicht.
@@ -8460,7 +8249,6 @@ Die Kollegen sind heute alle seltsamerweise sehr leise im Raum.
 Mein Bildschirm hat wieder Streifen und ich brauche Hilfe.
 Die Jahresbonuszahlung kam leider gar nicht erst bei mir an.
 Ich muss noch drei E-Mails beantworten bevor ich gehe.
-Der Boss will wissen warum die Zahlen so schlecht waren.
 Mir ist langweilig weil der Server mal wieder down ist.
 Das Standup Meeting könnte wirklich jeder einsparen.
 Ich hasse es wenn der Chef am Freitag Nachmittag drängelt.
@@ -8485,7 +8273,6 @@ Ich bekomme bald mehr Geld, freue mich richtig darauf.
 Die Arbeitsstelle ist schlecht bezahlt aber wenig Stress.
 Mein Boss versteht einfach nichts von digitaler Arbeit.
 Ich muss dringend an dieser Präsentation für morgen arbeiten.
-Der Drucker im zweiten Stock will partout nicht starten.
 Wir planen gerade das Teamevent, wer hat gute Ideen?
 Nach acht Stunden Meeting Kopfweh ist mein Normalzustand.
 Das war wohl der längste Zoom Call aller Zeiten.
@@ -8516,7 +8303,6 @@ Ich kann das ganze Chaos jetzt wirklich nicht mehr ertragen.
 Vielleicht sollte ich doch bald meine Kündigung schreiben und abgeben.
 Ich muss wieder um drei Uhr abends ein Meeting beenden.
 Die Kaffeemaschine im Büro geht schon wieder nicht.
-Mein Boss will dass ich heute noch die Unterlagen sende.
 Endlich mal wieder frei am Wochenende ohne Handy stress.
 Die Neue von der Personalabteilung ist eigentlich ganz nett.
 Wir haben wieder eine Stunde zu viel über die Zahlen geredet.
@@ -8528,7 +8314,6 @@ Die Parkplatzsituation vor dem Haus wird immer chaotischer.
 Ich überlege ob ich mich woanders bewerben sollte oder nicht.
 Wieder eine E-Mail die eigentlich nur Smalltalk war leider.
 Der Drucker macht schon seit einer Woche seltsame Geräusche.
-Kannst du bitte kurz reinschauen wenn der Anruf kommt denn.
 Ich habe heute meinen letzten Tag und freue mich riesig auf frei.
 Die Überstunden waren dieses Mal doch nicht ganz so schlimm eigentlich.
 Wer war denn das auf dem Bild im Flur wieder.
@@ -8568,7 +8353,6 @@ Die Büroklammern sind leer, wer kann mal welche herbringen?
 Die Konferenz war endlos lang und könnte man sich sparen.
 Ich muss morgen früh um sieben wieder online sein.
 Mein Schreibtisch ist ein absoluter Wirrwarr von Akten und Kabeln.
-Der Chef will heute Abend noch mal kurz mit mir reden.
 Ich habe keine Lust mehr auf diese täglichen Statusupdates.
 Die neue Kollegin ist super nett und hilft sofort weiter.
 Wir diskutieren schon seit einer Stunde über das Logo Design.
@@ -8639,7 +8423,6 @@ Endlich mal Pünktigkeit bei der monatlichen Gehaltszahlung geschafft.
 Mein Schreibtisch ist immer noch völlig chaotisch zugemüllt heute.
 Kann ich morgen mal später kommen wegen dem Zahnarzttermin?
 Das Team hat heute super zusammengearbeitet trotz aller Termine.
-Die To Do Liste wird mir langsam zum Hals rausgewachsen.
 Ich drücke auf Senden und hoffe, dass der Chef es nicht liest.
 Kaffeeautomat ist wieder kaputt, heute gibt es nur trauriges Wasser.
 Endlich Freitag, das Wochenende kann ja auch gar nicht früh genug kommen.
@@ -8680,7 +8463,6 @@ Der neue Praktikant ist super fleißig und auch nett.
 Warum müssen wir jeden Tag um acht Uhr schon da sein?
 Mein Laptop friert ständig ein, das ist so blöd.
 Die Weihnachtsfeier findet dieses Jahr leider gar nicht statt.
-Ich will einfach nur noch nach Hause und schlafen gehen.
 Das Gehalt passt gerade so, mehr wird wohl nicht drin.
 Meine Chefin lobt mich immer, wenn andere zusehen müssen.
 Wir brauchen dringend einen neuen Drucker im Büro hier.
@@ -8739,7 +8521,6 @@ Kann jemand den Meeting Link nochmal in den Chat posten?
 Ich suche nach einem Job mit besserem Work Life Balance.
 Die Bürokratie hier frisst echt jeden Schwung komplett auf.
 Vielleicht melden wir uns morgen mal telefonisch zur Rückmeldung zurück.
-Der Chef will wieder ein Extra Meeting einberufen ohne Agenda.
 Ich sitze schon seit drei Stunden vor dem Laptop und nichts geht voran.
 Endlich Feierabend, morgen fängt die Woche ja komplett neu an.
 Die neue Kollegin ist super nett, aber sie redet einfach zu viel.
@@ -8754,7 +8535,6 @@ Die Pausentasse Kaffee schmeckt immer besser wenn die Stresswelle abebbt.
 Mein Kollege klaut ständig Ideen aus meinen E-Mails um sie weiterzugeben.
 Das Video Call war eine Qual weil das Internet wieder mal gestört hat.
 Ich bekomme nächste Woche endlich meine Bonuszahlung und freue mich sehr.
-Der neue Projektplan ist total verwirrend, niemand versteht was er will.
 Wir haben heute extra früh Feierabend gemacht wegen des Firmenevents morgen.
 Ich sitze im Zug und bearbeite noch schnell die offenen Tickets.
 Die Besprechung war langweilig, ich habe fast eingeschlafen dabei.
@@ -8777,7 +8557,6 @@ Die Überstunden wurden leider nicht bezahlt, wieder mal Ärger gehabt.
 Kannst du mal kurz reinschauen ob das Formular korrekt ist?
 Der neue Kollege scheint echt nett zu sein, sieht gut aus.
 Ich vergesse dauernd Passwörter und muss mich neu registrieren.
-Das Druckerpatrone ist leer und niemand will sie wechseln gehen.
 Wir müssen bis morgen fertig werden, sonst gibt es Sauereien.
 Mein Arbeitsplatz ist ein Albtraum weil die Heizung ständig rauscht.
 Die Bewerbung war schwerer als gedacht, hoffe auf Antwort bald.
@@ -8790,7 +8569,6 @@ Der Drucker streikt wieder mal obwohl wir vor kurzem Geld ausgegeben haben.
 Ich brauche dringend einen Urlaubstage um klar zu kommen nochmal.
 Meine E-Mail Adresse war voll deshalb habe ich sie geleert jetzt.
 Warst du schon beim Arzt weil der Rücken so weh tut?
-Der Chef hat wieder was in der Birne mit den Deadlines.
 Ich muss heute dringend diese E-Mails durchackern bis zum Abend.
 Das Meeting war völlig sinnlos, wir hätten uns auch schreiben können.
 Meine Kollegin sitzt ewig im Homeoffice und macht nichts wirklich.
@@ -8812,7 +8590,6 @@ Der neue Kollege ist nett, doch er redet nur über sich selbst.
 Ich habe heute frei genommen wegen dem Arzttermin am Nachmittag.
 Die Deadline verschiebt sich nochmal um eine Woche nach hinten raus.
 Mein Chef lobt mich nie obwohl ich total viel arbeite jeden Tag.
-Wir teilen uns das Zimmer im Homeoffice was manchmal schwer ist.
 Die Büroklammern gehen immer aus und keiner kauft welche neu nach.
 Ich freue mich schon auf den Freitag weil die Arbeit dann vorbei ist.
 Das Daily Meeting war wirklich völlig unnötig heute.
@@ -8836,7 +8613,6 @@ Kannst du mir mal den Link zur Datei schicken bitte?
 Die Deadline rückt näher und wir haben immer noch nichts fertiges.
 Mein Arbeitsplatz ist chaotisch, das sollte ich mal sortieren.
 Ich diskutiere seit einer Stunde mit dem IT-Support.
-Die Mitarbeiterbewertung steht an, was soll ich denn schreiben?
 Wir brauchen dringend einen neuen Stuhl für den Konferenzraum.
 Das Gehalt reicht gerade so für die Miete und Essen.
 Ich habe mir heute frei genommen um durchzuatmen.
@@ -8871,7 +8647,6 @@ Endlich Feierabend mal so richtig durchatmen.
 Hab schon wieder vergessen den Laptop zu laden.
 Das war wohl eher ein Brainstorming als ein Meeting.
 Kann mir echt keiner erklären warum wir das brauchen.
-Mein Schreibtisch ist total chaotisch, aber ich find mich zurecht.
 Die Kaffeemaschine in der Küche funktioniert heute einfach nicht.
 Hab meine Unterlagen für die Bewerbung endlich fertiggestellt.
 Der Chef hat mal wieder sein Gesicht verfinstert bekommen.
@@ -8917,7 +8692,6 @@ Ich überlege mir ob ich den Job wirklich noch machen will irgendwie.
 Der Drucker macht wieder mal Ärger kurz vor dem Abgabezeitpunkt leider.
 Wir haben endlich einen neuen Chef der nicht so streng ist hoffentlich.
 Die Homeoffice-Regeln sind bei uns immer noch ziemlich unklar und verwirrend.
-Die To-Do-Liste wächst nur, egal wie viel ich abhake.
 Kannst du mir mal kurz die Datei von gestern mailen?
 Ich muss dringend raus von hier, der Kopfschmerz pocht so.
 Wieso müssen wir immer dienstags vormittag Besprechung haben?
@@ -8967,7 +8741,6 @@ Wir warten seit Wochen auf die Gehaltsanpassung vom Management.
 Mein Arbeitsplatz ist total chaotisch, ich muss aufräumen.
 Hast du schon gehört dass wir neue Software bekommen?
 Ich fühle mich im Büro oft wie ein Zahnrad ohne Seele.
-Die To-Do-Liste wächst nur so schnell wie sie abgearbeitet wird.
 Kannst du mir bitte die Datei bis morgen Mittag schicken?
 Ich hasse es wenn der Drucker wieder zu Streiks aufruft.
 Mein Boss hat heute schon drei Meetings angesagt ohne Punkt.
@@ -9107,7 +8880,6 @@ Heute habe ich wieder keine Lust auf das tägliche Meeting.
 Unser Kollege Thomas ist morgen krankgeschrieben und wir haben Stress.
 Ich würde gerne früher Feierabend machen heute aber geht nicht.
 Die Bewerbung war super erfolgreich und ich freu mich riesig.
-Mein Chef will unbedingt dass ich dieses Wochenende noch bleibe.
 Im Büro ist es mir immer so langweilig und kalt eigentlich.
 Wir sollten mal über eine Gehaltserhöhung sprechen in Ruhe.
 Die neuen Aufgaben sind deutlich schwerer als bisher erwartet worden.
@@ -9144,7 +8916,6 @@ Ich hab das Angebot angenommen und fülle nächste Woche an.
 Die Kaffeepause war heute das Highlight meines ganzen Tages.
 Kannst du mal gucken ob mein Mail auch angekommen ist?
 Das Daily Meeting hat mich echt fertig gemacht heute.
-Mein Chef will unbedingt noch eine E-Mail vor Feierabend lesen.
 Ich kann im Homeoffice einfach besser fokussieren als dort unten.
 Die Bewerbung war kompliziert, weil das Portal total langsam lief.
 Überstunden zahlen sich hier finanziell wirklich kaum aus.
@@ -9242,7 +9013,6 @@ Ich bin gestresst weil die Frist heute abläuft.
 Kann ich morgen mal halbtags arbeiten gehen bitte?
 Die Präsentation war deutlich besser als erwartet gestern.
 Mein Kollege hat wieder sein Auto falsch geparkt heute.
-Ich suche mir was Neues weil es hier nervt.
 Das Telefon klingelt einfach nicht mehr aufhörbar im Büro.
 Wir müssen das Budget für dieses Jahr noch prüfen.
 Das ständige Herumgemail an mir macht mich langsam wahnsinnig.
@@ -9270,7 +9040,6 @@ Der neue Mitarbeiter ist eigentlich ganz nett, aber total unerfahren.
 Ich muss diesen Bericht bis morgen fertig haben, sonst schreit der Chef.
 Homeoffice ist super, aber man vergisst schnell mal wieder die Zeit.
 Die Beförderung hat ausgerechnet jemand anderes gekriegt, der es weniger verdient.
-Die Papierei war wieder leer, also musste ich zum Discounter rennen.
 Mein Chef hat sich heute mal wieder seltsam verhalten.
 Ich hasse diese ständigen Besprechungen am frühen Montagmorgen.
 Kannst du kurz meine E-Mails checken? Ich muss dringend weg.
@@ -9318,7 +9087,6 @@ Warum müssen wir eigentlich jeden Morgen um sieben da sein?
 Der Drucker ist schon wieder kaputt, typisch für einen Montag Vormittag.
 Ich suche gerade nach etwas Besserem weil das hier nicht passt.
 Die Feedbackrunde war nett, aber ich merke den Druck doch.
-Mein Chef lobt mich selten, was mich manchmal echt frustriert.
 Wir sollten das Projekt wirklich endlich abschließen, es zieht sich hin.
 Hast du Lust heute mittags mit mir zusammen ins Café zu gehen?
 Wieder mal so ein useless Meeting das hätte kurz mail sein können.
@@ -9369,7 +9137,6 @@ Die Parkplatzsuche am Morgen kostet mich immer viel Zeit und Nerven.
 Ich habe heute leider krank gemeldet weil es mir nicht gut geht.
 Das neue Handy in der Firma ist echt praktisch und schnell auch.
 Kannst du bitte das Licht ausmachen wenn du gehst danke schön dir.
-Mein Arbeitszimmer wird jetzt endlich steuerlich anerkannt was super ist.
 Die Kollegen sind alle sehr hilfsbereit und nett im täglichen Umgang.
 Die Endloskonferenz hätte wirklich nur eine Mail sein müssen.
 Ich sitze schon seit drei Stunden auf dieser Videokonferenz.
@@ -9380,7 +9147,6 @@ Die Bewerbung war raus, jetzt warte ich ganz ungeduldig auf Antwort.
 Wir müssen wieder überstunden, weil der neue Auftrag so drängt.
 Das Gehalt ist okay, aber für den Aufwand viel zu niedrig.
 Ich habe endlich den Mut gefasst und gekündigt.
-Der Drucker streikt schon seit Tagen, keiner kann was machen.
 Im Büro wird heute niemand arbeiten können wegen des Streiks.
 Meine Kollegin hat die Präsentation vergessen, totale Katastrophe.
 Das Lunchmeeting war eigentlich nur ein Vorwand zum Smalltalk.
@@ -9435,13 +9201,11 @@ Morgen früh habe ich ein wichtiges Vorstellungsgespräch beim Konkurrenten.
 Mein Kollege hat seine Kündigung heute bei der Personalabgabe übergeben.
 Überstunden zahlen sich hier leider überhaupt nicht richtig aus finanziell gesehen.
 Im Homeoffice fehlt mir total der soziale Kontakt zu anderen Leuten.
-Der Chef will dass wir alle bis Freitag die Zielerreichung melden.
 Ich suche aktuell einen neuen Job weil das Umfeld so giftig ist.
 Die Bürotemperaturen sind heute wieder einmal unerträglich hoch geworden für uns alle.
 Kann jemand kurz das Fenster öffnen es wird wirklich stickig hier drin.
 Ich habe den ganzen Tag nur Meetings gemacht und gar nichts erledigt.
 Die Gehaltsverhandlung lief schlecht weil der Arbeitgeber so wenig bot.
-Mein Chef lobt mich selten was total deprimierend wirken kann auf Dauer.
 Wir organisieren am Freitag eine kleine Feier für das Teamprojekt Ende.
 Die IT Support Antwort hat drei Tage gedauert total inakzeptabel langsam eigentlich.
 Ich trage immer noch die gleiche Krawatte weil mir keine gefällt.
@@ -9486,7 +9250,6 @@ Ich kann nicht glauben, dass ich wieder keine Erhöhung bekommen habe.
 Das Telefoniert heute Morgen war stressiger als erwartet ehrlich gesagt.
 Endlich mal ein Tag ohne Videokonferenzen, das ist doch pure Freude.
 Die Deadline rückt näher und die Ergebnisse sehen immer noch schlecht aus.
-Ich hab meinem Vorgesetzten gestern direkt gesagt was ich denke.
 Bewerbungsschreiben schreiben ist immer so eine nervige Pflichtübung für mich.
 Im offenen Büro kann ich eigentlich gar nicht richtig konzentriert arbeiten.
 Meine Teamkollegen sind super nett, aber irgendwie auch sehr laut.
@@ -9497,7 +9260,7 @@ Der neue Chef scheint viel strenger zu sein als der alte wirklich.
 Homeoffice bedeutet für mich eigentlich auch mehr Freizeit abends.
 Ich habe keine Lust mehr auf diese ewigen Statusupdates per Chat.
 Die Beförderung hat leider nicht geklappt, das ist echt ärgerlich.
-Morgen früh geht’s wieder los, ich hoffe nur auf weniger Stress.
+Morgen früh gehts wieder los, ich hoffe nur auf weniger Stress.
 Habe schon wieder drei Stunden in sinnlosen Besprechungen verbracht.
 Mein Chef will den Bericht bis morgen Mittag haben, was für Stress.
 Kaffeeautomat im Erdgeschoss ist wieder kaputt, total unglaublich heute.
@@ -9542,7 +9305,6 @@ Kannst du mir bitte noch schnell diese Datei schicken?
 Das Telefon klingelt einfach gar nicht mehr auf der Arbeit.
 Ich hab heute meinen Kündigungsbrief geschrieben und abgeheftet.
 Die Neue im Team ist zwar nett aber völlig überfordert.
-Mein Bildschirm ist kaputt, ich muss was Neues kaufen.
 Wir sitzen schon die zweite Stunde in diesem sinnlosen Meeting.
 Die Gehaltsverhandlung hat doch am Ende doch noch geklappt.
 Ich mag es eigentlich nicht wenn meine Chefin kontrolliert.
@@ -9571,7 +9333,6 @@ Kollegen, die immer pünktlich gehen, geben den Rest auch noch vor.
 Ich habe meine Kündigung eingereicht, bin jetzt viel ruhiger.
 Die Bürokratie in diesem Unternehmen frisst am Ende alle Motivation.
 Arbeiten von zu Hause hat den großen Vorteil keine Anfahrt.
-Mein Chef will immer alles sofort haben, das stresst nur.
 Die Weihnachtsfeier war dieses Jahr wieder eine ziemliche Katastrophe.
 Ich hoffe inständig, dass sich die Arbeitsbedingungen bald verbessern.
 Endlich Freitag, heute schließe ich das Laptop um fünf pünktlich.
@@ -9607,7 +9368,6 @@ Am Montag muss ich wieder früh raus und ich hasse das.
 Die Kaffemaschine im Büro streikt jetzt schon seit drei Tagen.
 Ich drück mich gerade vor dem Videoanruf so gut es geht.
 Hab heute mal wirklich Puncto gearbeitet und nichts weiter gemacht.
-Der Chef ist heute irgendwie in schlechter Laune oder was?
 Mein neues Notebook ist viel zu langsam für meine Arbeit.
 Wir müssen dringend einen Termin für die Projektplanung finden.
 Ich brauch echt eine Pause bevor ich durchdrehen.
@@ -9616,7 +9376,6 @@ Bin froh dass das Meeting endlich zu Ende ist.
 Kannst du mal kurz schauen ob mein Bericht fertig ist?
 Ich verhandele nächste Woche über mein neues Gehalt im neuen Job.
 Homeoffice bedeutet für mich mehr Freiheit aber auch einsamer.
-Die To-Do Liste wächst schneller als ich abhaken kann.
 Hab heute zwei Stunden zu viel gearbeitet ohne dasss jemand merkt.
 Mein Kollege hat mir gerade einen Kaffee gekauf, das war nett.
 Wir planen im Team eine kleine Feier zum Jahreswechsel.
@@ -9653,7 +9412,6 @@ Ich vergesse ständig meine Passwörter für die verschiedenen Plattformen.
 Die Heizung im Büro geht leider immer erst nach Feierabend an.
 Endlich Feierabend, ich sehne mich nach meiner Couch.
 Wieder ein Meeting das eigentlich gar nicht nötig war.
-Der Chef will dass wir heute Abend noch bleiben.
 Ich packe meine Koffer und geh morgen nicht mehr hin.
 Die Bewerbung war raus jetzt warten wir nur noch ab.
 Homeoffice ist doch viel entspannter als das Bürotrubeln.
@@ -9742,7 +9500,6 @@ Wir müssen das Projekt unbedingt bis nächste Woche präsentieren.
 Das Büro ist heute zum Glück etwas leiser als sonst.
 Ich hab gestern wieder viel zu spät auf der Arbeit gesessen.
 Die Bewerbung habe ich gerade an Personal geschickt, hoffentlich klappt es.
-Unser Chef will, dass wir am Samstag noch kommen, das nervt echt.
 Das Teammeeting war heute mindestens eine Stunde zu lang.
 Ich freue mich schon auf den Urlaub im Sommer.
 Die Pausenregelung wird hier leider komplett ignoriert.
@@ -9764,7 +9521,6 @@ Die neue Kollegin kommt immer zu spät was mich total nervt.
 Ich habe heute meinen Kündigungsschreiben geschrieben und warte jetzt auf Antwort.
 Das Standup-Meting hätte wirklich viel kürzer sein können heute morgen.
 Mein Laptop hängt sich ständig auf was den Workflow total stört.
-Wir sollten doch mal wieder ein Teamevent organisieren das ist lange her.
 Ich bekomme meine Gehaltserhöhung erst im nächsten Monat bezahlt leider.
 Der Drucker geht schon wieder nicht obwohl ich alles neu gestartet habe.
 Ich muss mich heute noch bei der Personalabteilung melden wegen Urlaub.
@@ -9872,7 +9628,6 @@ Ich hasse es wenn der Internetverbindung während Calls abbricht.
 Hast du meine E-Mail von gestern Vormittag schon gesehen?
 Wir müssen dringend das Budget für das nächste Quartal planen.
 Mein Platz am Fenster hat gerade jemand besetzt.
-Die Kaffeemaschine ist kaputt und niemand will sie fixen.
 Ich hoffe wirklich auf eine Gehaltserhöhung zum Jahresende.
 Der neue Praktikant ist super nett, aber noch etwas unsicher.
 Können wir das Gespräch auf nächste Woche verschieben?
@@ -9925,7 +9680,6 @@ Das neue Büro sieht super modern aus, nur kalt ist es.
 Wir diskutieren wieder über Themen, die eh nichts ändern.
 Die Kaffeemaschine im Flur schmeckt wirklich besser als diese hier.
 Ich habe einen Termin beim Chef zur Gehaltsverhandlung geplant.
-Es ist so laut auf der开放eten Büroebene, ich kann nicht denken.
 Mein Kollege hat heute wieder mal alles verschoben bis morgen.
 Die Arbeitsatmosphäre im Team ist gerade echt angespannt.
 Ich würde gerne früher gehen, aber die Mail muss raus.
@@ -9964,7 +9718,6 @@ Mein Laptop spinnt seit einer Woche und IT hat keine Zeit.
 Wir müssen das Projekt bis Freitag abgeben, ohne Wochenende.
 Ich hab genug von diesen ewigen Statusmeetings am Montagmorgen.
 Das Gehalt passt eigentlich ganz gut für meine jetzige Rolle.
-Sie will partout nicht auf Homeoffice verzichten, obwohl es stressig ist.
 Hab gestern erst die Kündigung übergeben und bin erleichtert.
 Die neue Kollegin aus dem Marketing ist super nett und hilfsbereit.
 Ich muss morgen früh um sieben da sein wegen der Konferenz.
@@ -9975,7 +9728,7 @@ Ich überleg mir gerade, ob ich mich umschulen soll.
 Das Mittagessen im Büro kostet ja fast mehr als selbst kochen.
 Wir haben endlich den Urlaub frei bekommen für die Ferienzeit.
 Mein Chef lobt meine Arbeit nie öffentlich, das nervt extrem.
-Die Bewerbung war schwerer als gedacht, aber ich hab’s geschafft.
+Die Bewerbung war schwerer als gedacht, aber ich habs geschafft.
 Heute bleibe ich extra früh weg, bevor die Stau kommen.
 Ich vermisst eigentlich gar nicht so sehr das tägliche Meeting.
 Kommst du mit ins Kino nach der Arbeit? Ich brauche Pause.
@@ -10006,7 +9759,6 @@ Das neue Projekt klingt vielversprechend, aber auch stressig.
 Meine Kollegin hat sich heute wieder mal beschwert.
 Die Besprechung könnte man einfach in einer Mail klären.
 Ich überlege ernsthaft, ob ich den Job wechseln soll.
-Der Chef will das Ergebnis bis morgen Mittag haben.
 Der Chef ruft wieder um 19 Uhr an.
 Ich sehne mich nur noch nach dem Wochenende.
 Die Kaffemaschine im Büro ist wieder kaputt.
@@ -10068,14 +9820,12 @@ Wir müssen das Projekt bis Freitag definitiv abschließen.
 Der neue Kollege ist eigentlich ganz nett, aber sehr leise.
 Ich brauche dringend eine Gehaltserhöhung, sonst werde ich kündigen.
 Heute war der Kaffee in der Pause wieder eklig.
-Das Homeoffice ist toll, aber ich vermisse den Kleiderschrank.
 Mein Bildschirm brennt mir förmlich in die Netzhaut rein.
 Die Bewertungsgespräch war nervenaufreibender als erwartet, ehrlich gesagt.
 Ich muss noch drei Berichte bis zur Mittagspause fertigmachen.
 Der Drucker streikt schon wieder und keiner weiß warum.
 Wir sollten das Teams-Meeting abkürzen, alle sind gestresst.
 Die Jobbeschreibung passte überhaupt nicht zur eigentlichen Arbeit.
-Hab heute vergessen meinen Laptop aufzuladen, was soll ich tun?
 Die Überstunden zahlen sich hier finanziell einfach nicht aus.
 Mein Vorgesetzter hört nie zu wenn man ihm Probleme schildert.
 Ich bewerbe mich intern um, weil es dort mehr Spaß macht.
@@ -10085,7 +9835,6 @@ Die Jahresabschlussfeier fällt leider dieses Jahr komplett aus.
 Ich würde sofort kündigen wenn ich keine Kinder hätte.
 Der neue Mitarbeiter scheitert an der täglichen Flut von Mails.
 Das war doch wieder eine absolute Zeitverschwendung im Morgenmeeting.
-Mein Chef will immer alles bis gestern erledigt haben.
 Ich kann nicht mehr nach Hause fahren, der Zug ist kaputt.
 Die Kaffemaschine im dritten Stock macht wieder diesen nervigen Lärm.
 Wir müssen heute noch die Zahlen für das Quartal finalisieren.
@@ -10104,7 +9853,6 @@ Es ist so laut hier dass ich kaum konzentrieren kann.
 Hab heute schon drei mal auf meine Uhr geguckt ungeduldig.
 Das Gehalt ist ok aber die Arbeitsbedingungen lassen zu wünschen übrig.
 Wer von euch hat denn den Termin für Freitag eingeplant?
-Ich suche mir was besseres das ist hier kein Dauerjob.
 Die Druckerpatrone muss wieder gewechselt werden und niemand nimmt sich drum kümmern.
 Endlich Wochenende ich kann heute abend richtig abschalten und entspannen.
 Meine Chefin hat mich gerade noch mal zu einem kurzen Chat gebeten.
@@ -10133,7 +9881,6 @@ Wir haben heute Mittag zusammen gegessen und geredet.
 Die Kündigung kam gestern per Post, war schockierend.
 Ich bewerbe mich auf diese Stelle weil mehr Geld steht.
 Kann jemand kurz den Raum 4 freihalten für das Gespräch?
-Mein Arbeitgeber will dass ich am Samstag komme.
 Das Büro ist heute leer weil alle Homeoffice machen.
 Kannst du mir kurz deine Datei schicken bevor ich gehe?
 Ich muss heute leider noch länger bleiben um den Bericht fertigzustellen.
@@ -10182,7 +9929,6 @@ Das Handy klingelt während des Meetings stört total.
 Wir feiern das Firmenjubiläum nächsten Monat gemeinsam im Lokal.
 Die Gehaltsvorstellungen passen einfach nicht zusammen bei uns.
 Ich hasse es, am Freitag Abend noch Mails zu lesen.
-Der Chef will immer sofort eine Antwort haben.
 Mein Schreibtisch ist ein totaler Chaos-Feld geworden heute.
 Ich muss morgen wieder so früh aufstehen wie der Teufel.
 Der Chef ruft mich sofort zurück nach dem Lunchbreak.
@@ -10210,7 +9956,6 @@ Die neue Mitarbeiterin ist wirklich nettes Kind und kommt super an.
 Mein Rücken macht schon wieder Probleme wegen des schlechten Bürostuhls.
 Ich hoffe mal dass die Kündigung morgen nicht auf meinem Tisch liegt.
 Das Gehalt ist zwar okay aber die Leistungen sind irgendwie wenig.
-Der Chef hat wieder mal was dringendes am Freitagmittag geschickt.
 Ich sitze schon seit zwei Stunden in einem Meeting ohne Ende.
 Mein Schreibtisch ist voll mit alten Akten die ich nicht wegwerfe.
 Die Kaffeküche war heute morgen komplett leer, echt zum Mäusemelken.
@@ -10262,7 +10007,6 @@ Der Drucks ist enorm vor der Jahresabschlusspräsentation nächsten Monat.
 Ich hoffe, dass die Verhandlungen doch noch erfolgreich verlaufen.
 Die Jura-Abteilung hat das neue Arbeitszeiterfassungssystem komplett kaputt gemacht.
 Ich muss morgen wieder bis sechs Uhr bleiben, weil der Kunde es eilig hatte.
-Mein Vorgesetzter versteht nicht, dass ich nicht jeden Tag um sieben da sein will.
 Das Mittagessen im Büro ist immer noch grau und kalt, ehrlich gesagt widerlich.
 Wir sollten mal über eine Gehaltserhöhung reden, die Mieten steigen ja doch.
 Homeoffice heißt bei uns leider nur, dass man schneller erreichbar sein muss.
@@ -10283,7 +10027,6 @@ Die Überstunden werden leider nicht bezahlt, sondern nur mit Freistellung quitt
 Ich bin stolz auf unser Projekt, aber der Druck von oben ist unerträglich.
 Die Kaffeemaschine im Erdgeschoss ist kaputt, alle sind heute schlecht gelaunt.
 Mein Boss lobt mich öffentlich, gibt aber nie konstruktives Feedback unter vier Augen.
-Ich suche jetzt was Neues, weil hier keine Karrierechancen mehr bestehen.
 Die Teamfeier war okay, aber man merkt, dass viele eigentlich lieber Zuhause wären.
 Der Chef hat uns heute wieder alles abgepresst.
 Ich kann nicht mehr, die Deadline steht vor der Tür.
@@ -10350,7 +10093,6 @@ Am Telefon war jemand total unhöflich und aggressiv heute.
 Wir haben jetzt Homeoffice bis Weihnachten, das ist super.
 Die Bewerbung hat leider nichts gebracht, typisch halt echt.
 Mein Arbeitsplatz ist so voll mit Akten ich sehe nichts.
-Kann jemand mal den Drucker reparieren der will nicht mehr.
 Ich bin total gestresst wegen dieser neuen Software eingeführt.
 Der Meetingraum war wieder mal doppelt belegt, nervig wirklich.
 Ich bekomme nie genug Schlaf seitdem ich Vollzeit arbeite.
@@ -10379,7 +10121,6 @@ Die Überstunden werden leider immer noch nicht extra bezahlt.
 Ich würde gerne früher gehen, aber das Projekt muss abgeben sein.
 Der Boss hat keine Ahnung von der täglichen Arbeit hier.
 Im Homeoffice vergesse ich manchmal, dass ich eigentlich arbeiten soll.
-Die Bewerbungsfrist endet morgen, also sollte ich mich beeilen.
 Jemand hat meine Dateien gelöscht, jetzt bin ich sauer.
 Die Mittagspause ist heute viel zu kurz gewesen.
 Ich brauche dringend einen neuen Job mit besserem Klima.
@@ -10411,7 +10152,6 @@ Ich vergesse oft, das Handy auf laut zu stellen.
 Kannst du mir helfen, diese Excel-Tabelle zu sortieren?
 Das Meeting war eine reine Verschwendung von Zeit.
 Ich freue mich schon auf den nächsten Urlaubstage.
-Der Chef will wieder ein Meeting am Freitagabend.
 Mein Schreibtisch ist immer so voll dass ich kaum Platz habe.
 Ich drucke gerade die Unterlagen für den Kunden aus.
 Können wir das Thema bitte mal schnell durchsprechen?
@@ -10440,7 +10180,6 @@ Ich habe heute meinen Geburtstag, aber ich muss arbeiten.
 Wieder mal extra um fünf Uhr ins Büro gerufen worden.
 Das Video-Call heute war einfach nur noch Zeitverschwendung.
 Ich muss endlich mal richtig Urlaub machen, sonst geh ich kaputt.
-Mein Chef hat mir gestern wieder was in die Suppe gespickt.
 Die neue Kollegin ist zwar nett, aber total unorganisiert.
 Kann sein dass ich nächste Woche doch wieder im Homeoffice bin.
 Wir sitzen jetzt schon drei Stunden ohne Pause hier rum.
@@ -10514,7 +10253,6 @@ Ich kann nicht glauben wie viel Papierkram anfällt hier.
 Das Video-Call mit dem Kunden war echt peinlich honestly.
 Wir müssen die Zahlen bis Freitag unbedingt abgeben jetzt.
 Ich muss noch ein paar Überstunden machen damit das Projekt fertig wird.
-Mein Chef war heute wieder in schlechter Laune was mich gestresst hat.
 Die Kaffeemaschine ist kaputt und wir haben keinen Ersatzkaffee mehr.
 Ich finde Homeoffice eigentlich besser weil man keine Anzug braucht.
 Das Meeting hätte wirklich eine E-Mail sein können ehrlich gesagt.
@@ -10543,7 +10281,6 @@ Die Kaffeemaschine ist kaputt und keiner kümmert sich.
 Kannst du mir mal schnell die Datei per Mail schicken?
 Ich sitze schon seit drei Stunden in der Bahn.
 Der Boss hat gerade noch ein extra Meeting eingeplant.
-Meine To Do Liste wird nur noch länger leider.
 Endlich Freitag, heute arbeite ich maximal bis vier Uhr.
 Im Homeoffice vergesse ich manchmal zu mittags essen.
 Die Gehaltsverhandlung ist ganz schön stressig diese Woche.
@@ -10574,13 +10311,11 @@ Hab heute schon wieder drei Mails ignoriert weil mir einfach die Energie fehlt
 Die neue Kollegin ist super nett und kommt gut mit allen klar
 Ich habe mich doch nicht auf diese Stelle bewerben wollen ehrlich gesagt
 Der Drucker im dritten Stock funktioniert schon seit Wochen überhaupt nicht
-Meine Chefin will dass ich bis morgen Abend den Report fertig habe
 Ich kann diesen Tonfall beim Kunden nicht mehr hören wirklich nicht
 Es gibt keine Pause für Kaffee weil das Meeting zu lange gedauert hat
 Die Kündigung muss bis Ende des Monats eingehen sonst wird es kompliziert
 Wir sollten mal darüber reden wie wir die Zusammenarbeit verbessern können
 Der Zug war heute zu und ich bin eine Stunde zu spät im Büro
-Mein Schreibtisch ist komplett chaotisch und ich finde nie was wieder
 Ich freue mich eigentlich schon auf den Feierabend am heutigen Abend
 Das Team Building war wirklich nervig und hat gar keinen Spaß gemacht
 Kannst du bitte die Datei bis zum Mittag schicken damit wir weitermachen
@@ -10626,7 +10361,6 @@ Wir haben heute drei Stunden nur darüber gesprochen, wie wir arbeiten sollen.
 Mein Kollege gibt nie Feedback, das nervt mich irgendwie total.
 Ich würde morgen lieber remote arbeiten, weil ich krank bin.
 Die Bewerbung war eigentlich super gelaufen, dann hörte nichts mehr.
-Warum muss man immer um vier Uhr noch schnell was fixen?
 Der neue Praktikant ist echt nett und lernt auch ziemlich flott dazu.
 Ich drucke gerade den Vertrag aus, damit wir ihn heute noch signieren können.
 Das Team Lunch war dieses Mal wieder total schmackhaft gemacht von Lisa.
@@ -10678,7 +10412,6 @@ Meine Augen brennen schon wieder nach acht Stunden Bildschirmzeit.
 Kannst du mal kurz gucken ob das E-Mail angekommen ist.
 Ich brauche dringend einen Tag frei ich bin komplett durchgebrannt.
 Das Gehalt kommt wieder am letzten des Monats wie immer.
-Der Drucker streikt seit drei Tagen und niemand kann was machen.
 Wir haben heute extra fern gearbeitet um Zeit zu sparen.
 Mein Chef hat mir gerade gesagt dass ich aufpassen soll.
 Die Pausen sind viel zu kurz geworden in letzter Zeit.
@@ -10707,7 +10440,6 @@ Die Gehaltsabrechnung hatte einen Fehler, da muss ich nochmal ran.
 Mein Vorgesetzter drückt mir einfach nur die Schuld zu.
 Endlich Freitag, heute gönne ich mir früh Feierabend.
 Ich verstehe nicht, warum wir für alles eine Genehmigung brauchen.
-Das Telefon klingelt schon wieder, ich will doch nur arbeiten.
 Wir sind immer noch in der gleichen Projektphase gestrandet.
 Die Kündigungsfrist ist zu lang, das nervt mich jetzt tierisch.
 Manchmal frage ich mich, ob meine Arbeit überhaupt einen Sinn hat.
@@ -10751,7 +10483,6 @@ Lass uns doch einfach mal Pause machen und etwas essen gehen.
 Die neue Kollegin scheint ganz nett zu sein, wir kennen uns aber noch nicht so gut.
 Ich hoffe inständig dass ich die Präsentation heute überstehe.
 Warum muss jedes Meeting eigentlich immer doppelt so lange dauern wie geplant.
-Mein Schreibtisch ist ein einziges Chaos, da findet man nie was.
 Ich bekomme von zu Hause aus doch viel mehr erledigt als vor Ort.
 Die Gehaltsgespräche fangen nächste Woche an und ich bin echt gestresst.
 Jemand hat meinen Stuhl verstellt ohne mich vorher zu fragen.
@@ -10765,7 +10496,6 @@ Ich freue mich riesig auf das Wochenende nach dieser stressigen Woche.
 Die Internetverbindung hier zu Hause ist heute Morgen total langsam.
 Hast du schon gesehen wie viele Mails ich über Nacht bekommen habe?
 Ich glaube ich muss bald mal einen neuen Monitor kaufen.
-Das Besprechungszimmer war leider schon belegt, also sind wir im Flur geblieben.
 Wieder mal extra spät bleiben weil der Chef doch noch was brauchte.
 Hoffentlich bekomme ich bald endlich die versprochene Gehaltserhöhung.
 Mein Notebook funktioniert nicht mehr und IT hilft mir nicht weiter.
@@ -10884,7 +10614,6 @@ Wir müssen morgen früh pünktlich da sein wegen des Kundenbesuchs.
 Die neue Software ist umständlich und verlangsamt unsere Arbeit nur.
 Ich brauche dringend einen Feiertag, bin absolut am Ende.
 Mein Boss erwartet wieder mal Ergebnisse ohne klare Vorgaben zu geben.
-Das Gehalt passt nicht mehr zur Inflation, da muss sich was tun.
 Ich hab heute spontan frei genommen, weil ich einfach keine Lust hatte.
 Die Kaffeepause ist der einzige Highlight des ganzen Vormittags.
 Wir planen gerade den Teambuilding-Ausflug und keiner hat wirklich Lust.
@@ -10897,7 +10626,6 @@ Mein Laptop hat sich gerade im Meeting aufgehängt, panisch.
 Die Deadline war gestern, aber die Unterlagen fehlen noch immer.
 Kannst du kurz nachschauen, ob die Rechnung schon bezahlt wurde?
 Im Homeoffice esse ich zu viel und arbeite zu wenig.
-Der Chef will wieder mal eine Brainstorming Sitzung ohne Ziel.
 Ich brauche dringend einen Kaffee, sonst schlafe ich hier ein.
 Die neuen Kollegen sind nett, aber man merkt die Hierarchie sofort.
 Habe endlich meinen Urlaub genehmigt bekommen, das war mühsam.
@@ -10940,7 +10668,6 @@ Die Überstunden werden immer noch nicht bezahlt bei uns.
 Ich freue mich schon auf den Feierabend heute Abend.
 Wir sollten mal über eine Gehaltserhöhung reden eigentlich.
 Die Toilette im dritten Stock ist seit Tagen gesperrt.
-Ich habe keine Ahnung, was mein Chef von mir will.
 Der Drucker hat sich wieder verabschiedet, typischer Montag halt.
 Kannst du bitte den Kaffee nachfüllen, der ist schon leer.
 Wir sind alle völlig überarbeitet in diesem Projekt derzeit.
@@ -10976,11 +10703,9 @@ Das Telefon klingelt nicht aufhören einfach nie mit dem Quatsch.
 Wer nimmt eigentlich morgen das Scrum Meeting wahr?
 Mein Stuhl ist kaputt und IT findet nix lustig.
 Ich brauche dringend eine neue Tastatur die alte kracht.
-Kannst du kurz den Drucker reparieren der will nicht mehr.
 Das Gehalt stimmt einfach nicht mit der Arbeit überein.
 Ich muss morgen wieder früher da sein als alle anderen.
 Warum müssen wir jede Kleinigkeit in einem Ticket festhalten?
-Die Kaffeemaschine ist wieder leer und keiner macht was.
 Ich habe heute drei Stunden für dieses eine Meeting verbraten.
 Meine Stimme tut weh weil ich den ganzen Tag telefoniert hab.
 Kann ich heute mal von zu Hause aus arbeiten bitte?
@@ -11034,7 +10759,6 @@ Ich habe mir für heute nichts richtiges vorgenommen.
 Die Kaffeemaschine ist wieder defekt, mal wieder Pech.
 Kannst du mir bitte die Akte bis Mittag schicken?
 Ich würde lieber remote arbeiten als hier zu sitzen.
-Die Besprechung hat ewig gedauert ohne dass es was gab.
 Ich freu mich schon auf das Wochenende endlich.
 Das Gehaltsgebot ist einfach nicht akzeptabel ehrlich gesagt.
 Mein Platz im Büro sieht aus wie ein Schlachtfeld.
@@ -11049,7 +10773,6 @@ Kaffeeautomat ist wieder kaputt, wir sind alle genervt.
 Morgen muss ich schon wieder um sieben da sein.
 Hast du den Bericht schon an die Chefin geschickt?
 Die Überstunden zahlen sich hier finanziell einfach nicht aus.
-Ich will heute echt nur noch nach Hause gehen.
 Mein Chef redet zu viel und kommt nie zum Punkt.
 Schreib mir bitte kurz, wann du wieder online bist.
 Das Gehalt ist gut, aber der Stress killt mich.
@@ -11070,7 +10793,6 @@ Wir haben endlich einen neuen Drucker im Büro stehen.
 Warum musst du immer so laut am Telefon reden?
 Die Gehaltsverhandlung war heute ziemlich unangenehm für mich persönlich.
 Ich schicke dir die Unterlagen gleich morgen früh rüber.
-Der Boss will wieder Bescheid wissen, obwohl nichts passiert ist.
 Ich muss heute noch zwei Stunden länger bleiben, ärgerlich.
 Die Kaffeemaschine im Büro ist echt kaputt, alle sind genervt.
 Mein Homeoffice Setup sieht eigentlich ganz ordentlich aus.
@@ -11098,7 +10820,6 @@ Ich bewerbe mich jetzt lieber woanders hin, hier läuft nichts mehr.
 Der Kaffeeautomat macht wieder Probleme, typisch Montag morgen im Büro.
 Die Pufferbox läuft schon die ganze Zeit über.
 Warum muss das Meeting immer um elf sein?
-Ich schreibe dir gleich mal was im Chat.
 Hast du den Entwurf für morgen schon fertig?
 Mein Bildschirm ist leider gerade schwarz geblieben.
 Kannst du kurz die Jalousien runterziehen bitte?
@@ -11135,7 +10856,6 @@ Mein Boss ruft mich an weil ich gestern nicht erreichbar war.
 Die Präsentation hat gut funktioniert, alle haben zugestimmt und applaudiert.
 Ich bewerbe mich bei einer Firma in der Nähe wohnen.
 Der Drucker ist wieder kaputt und wir haben kein Ersatzpapier.
-Kannst du kurz meine Pausenhelferin sein? Ich muss was erledigen.
 Die Teamfeier war langweilig, ich bin nach einer Stunde gegangen.
 Wir haben einen neuen Mitarbeiter eingestellt, er kommt morgen vorbei.
 Ich brauche dringend Urlaub, sonst gehe ich durch die Decke.
@@ -11163,7 +10883,6 @@ Die Aufgabenstellung war völlig unklar, ich hab nichts verstanden.
 Mein Vorgesetzter redet zu viel und bringt keinen Punkt ran.
 Die Bewerbung ist raus, jetzt heißt es nur noch abwarten.
 Ich hasse es, wenn mich Leute während der Arbeit stören.
-Wir haben heute Team-Event, muss mich also anstellen.
 Das neue Projekt wird definitiv nicht im Termin fertig werden.
 Ich suche gerade aktiv etwas Neues, hier gehts bergab.
 Die Kaffeemaschine ist wieder kaputt, wir alle sind genervt.
@@ -11228,7 +10947,6 @@ Im Büro ist es heute wirklich viel zu laut drinnen.
 Ich schreib dir die Daten gleich mal per WhatsApp.
 Warum müssen wir jeden Freitag noch ein Standup haben?
 Das Gehalt passt eigentlich gut für diesen Standort hier.
-Mein Schreibtisch ist total chaotisch und ich find nix.
 Die Deadline war gestern und ich hab es trotzdem nicht geschafft.
 Ich muss schnell zum Arzt, entschuldige die späte Antwort.
 Der neue Kollege ist wirklich sympathisch und ganz nett.
@@ -11243,7 +10961,6 @@ Mein Chef lobt mich nie wenn ich gute Arbeit mache.
 Die Bürokleidung ist mir echt zu eng und unbequem.
 Ich hoffe dass die Gehaltserhöhung dieses Jahr doch noch klappt.
 Wer hat denn bitte wieder den Drucker kaputt gemacht?
-Ich arbeite heute von unterwegs weil ich nicht nach Hause will.
 Die Bewerbung ging gestern abend noch raus ins Netz.
 Kannst du mir kurz helfen mit der Excel Tabelle da?
 Könntest du mir kurz zeigen wie das neue System funktioniert?
@@ -11286,7 +11003,6 @@ Ich bewerbe mich gerade auf eine Position bei euch.
 Der Druck im Job wird langsam echt zu viel für mich.
 Kaffee ist mein bester Freund am frühen Morgen hier.
 Die Gehaltsgespräche sind immer so nervenaufreibend und Stress.
-Ich kann nicht mal kurz das Essen essen heute.
 Mein Boss erwartet zu viel von uns im Alltag.
 Die Team-Building-Maßnahme war wirklich zum Erbrechen langweilig.
 Ich suche einen neuen Job weil die Stimmung mies ist.
@@ -11389,7 +11105,6 @@ Die Überstunden kommen leider wieder hinzu, kein Auskommen sonst.
 Meine Kollegin hat einen neuen Job gefunden und scheint happy.
 Das Büromaterial ist alle, wir müssen wieder neu bestellen.
 Heute früh war der Zug voll, deshalb habe ich spät angefangen.
-Der Chef will mehr Ergebnisse sehen, obwohl die Ziele unrealistisch sind.
 Ich probiere gerade verschiedene Stellenanzeigen aus, ohne Erfolg bisher.
 Das Meeting hat ewig gedauert und wenig gebracht, echt ärgerlich.
 Mein neuer Arbeitskollege ist super nett und hilft mir gern.
@@ -11492,7 +11207,6 @@ Warum müssen wir immer so lange für eine einfache Entscheidung diskutieren?
 Die Kaffeemaschine in der Küche geht seit Wochen kaputt.
 Mein Chef findet meine Ideen einfach nicht gut genug.
 Ich brauche dringend einen Urlaub um wieder durchzuatmen.
-Die Bewerbung wurde abgelehnt was mich wirklich traurig macht.
 Können wir das Gespräch auf nächste Woche verschieben?
 Ich hasse es wenn man mich am Wochenende arbeiten lässt.
 Das neue Laptop ist langsam und stürzt ständig ab.
@@ -11561,7 +11275,6 @@ Mir fehlt der Kontakt zu meinen Arbeitskollegen sehr.
 Die Kaffeemaschine macht heute nur noch ein seltsames Geräusch.
 Ich habe heute einfach keine Lust ins Büro zu gehen.
 Die Deadline ist morgen, ich muss durchhalten irgendwie.
-Unser Vorgesetzter hat heute wieder mal was falsch verstanden.
 Die Bürowand ist echt hässlich und grau gestrichen.
 Ich freue mich riesig auf das Wochenende jetzt schon.
 Das Gehaltsgespräch war leider ganz und gar nicht erfolgreich.
@@ -11674,15 +11387,12 @@ Im Büro ist es so laut, dass man kein Wort versteht.
 Ich schreib gerade meinen Lebenslauf um, hoffe auf eine bessere Stelle.
 Meine Chefin macht ständig Mikro-Management, das geht auf die Nerven.
 Das Team-Building am Samstag war die nervigste Stunde meines Lebens.
-Wir haben heute keine Deadline, also machen wir mal locker weiter.
 Der Drucker streikt schon wieder zur Mittagspause.
 Ich muss heute doch nochmal schnell ins Büro kommen.
 Kannst du mir kurz sagen, wie die Zahlen aussahen?
-Mein Boss will das Projekt bis morgen Mittag haben.
 Homeoffice ist super, aber ich vermisse den Kaffee.
 Die Besprechung hat viel zu lange gedauert heute.
 Ich brauche dringend einen freien Tag zum Erholen.
-Schick mir die Datei bitte noch mal als PDF.
 Das Gehalt passt so gar nicht mehr zur Inflation.
 Wer hat denn diese E-Mail an alle verschickt?
 Ich habe keine Lust mehr auf Smalltalk im Treppenhaus.
@@ -11743,11 +11453,9 @@ Ich kann heute nicht so lange bleiben, meine Kinder warten schon daheim.
 Das neue Office Design sieht nett aus aber der Stuhl ist super unbequem.
 Hast du schon gesehen wer den Posten vom Marketingleiter bekommen hat?
 Ich hab gestern Abend bis halb zwei an der Präsentation gesessen.
-Der IT-Support dauert ewig wenn mal was mit dem Laptop nicht stimmt.
 Wir sollten vielleicht überlegen ob wir uns für eine Jobsharing-Modell bewerben.
 Meine Kollegin ist krankgeschrieben, deshalb muss ich ihren Dienst übernehmen.
 Das Gehaltsgespräch findet nächste Woche Dienstag statt, freu mich schon ein bisschen.
-Ich find es nervig dass man am Sonntag schon auf Emails antworten soll.
 Die neue Software ist so umständlich dass ich lieber per Hand rechne.
 Hat jemand den Link zum Videokonferenzraum gesehen, er funktioniert nicht mehr.
 Ich bewarb mich spontan weil die Anzeige gerade erst online gegangen war.
@@ -11845,12 +11553,10 @@ Wir müssen morgen früh das Projekt nochmal durchgehen zusammen.
 Mein Stuhl tut weh, ich brauche einen neuen bald.
 Die Bewerbungsunterlagen sind gesendet, jetzt kann ich nur warten.
 Ich habe heute wieder zu lange überstunden gemacht und bin müde.
-Der Drucker will einfach nicht richtig funktionieren seit gestern.
 Wir planen für nächsten Monat eine Teambuilding Maßnahme im Wald.
 Ich suche mir einen neuen Job weil es hier langweilig ist.
 Die Kaffeeautomat macht immer so viel Lärm früh morgens.
 Mein Platz am Fenster ist leider schon belegt worden heute.
-Wir haben das Budget geschnitten, also keine Ausgaben mehr bitte.
 Ich habe vergesst den Bericht zu speichern, argh was für ein Mist.
 Der Chef hat gesagt ich soll flexibler werden bei der Zeit.
 Kann mir jemand helfen mit dieser Excel Tabelle hier unten?
@@ -11867,7 +11573,6 @@ Ich muss unbedingt meine Unterlagen für die Steuer sortieren.
 Warum muss ich immer den ganzen Papierkram erledigen müssen?
 Die Gehaltsabrechnung kommt nächste Wochehopefully bei mir an.
 Mir ist gerade aufgefallen dass mein Vertrag doch ausläuft.
-Kannst du bitte mal schnell im Archiv nachschauen ob da was ist?
 Ich schicke dir gleich den Link zur Besprechung weiter.
 Heute war wirklich ein durchwachsenes Meeting mit dem Kunden.
 Mein Stuhl fängt an zu knarren und das nervt mich.
@@ -11877,7 +11582,6 @@ Hat schon mal jemand diese neue Software getestet oder nicht?
 Ich brauche dringend einen Kaffee sonst falle ich gleich um.
 Der neue Mitarbeiter scheint super nett und gut einzuordnen.
 Kann ich heute früher gehen wenn ich den Rest nachhole?
-Mein Chef hat wieder was in der Hose von wegen Umsatz.
 Die Büroklimaanlage ist im Sommer einfach nur zum Verhängnis.
 Ich hoffe dass die Gehaltserhöhung dieses Mal doch klappt.
 Endlich Feierabend und keine Mails mehr heute.
@@ -11923,7 +11627,6 @@ Das Video Meeting könnte man wirklich auch als Mail versenden.
 Meine Kollegin hat den ganzen Tag nichts getan außer geredet.
 Bürostuhl kackt schon wieder ab und mein Rücken schmerzt furchtbar.
 Endlich mal Feierabend machen ohne schlechtes Gewissen am Wochenende.
-Der Chef will dass ich den Bericht bis Freitag fertiggewerkt habe.
 Homeoffice ist super aber manchmal vermisse ich doch die Gespräche.
 Ich bewirb mich gerade umgezogen weil der Job zu langweilig wird.
 Keine Ahnung ob ich noch zwei Jahre hier durchhalten kann ehrlich gesagt.
@@ -11933,7 +11636,6 @@ Am Telefon war wieder mal dieser nervige Kunde der nichts verstanden hat.
 Wir haben doch eigentlich schon Feierabend um fünf.
 Kannst du mir bitte die Zahlen für das Quartalsreporting schicken?
 Ich hasse diese langen Konferenzen ohne klare Agenda.
-Der Chef will, dass wir das Projekt bis Freitag fertigstellen.
 Heute ist mal wieder Vollmond im Büro.
 Mein Laptop läuft nur noch wie ein Schneckentempo.
 Hast du schon gesehen, wer die neue Praktikantin ist?
@@ -11994,7 +11696,6 @@ Die neue Kollegin ist super freundlich und hat sich schnell integriert.
 Warum müssen wir jeden Montag diesen Stand-up-Meeting machen?
 Ich brauche dringend einen Tag frei wegen der Zahnarzttermin.
 Das Homeoffice Konzept bei uns funktioniert eigentlich ganz gut.
-Meine Chefin will, dass ich das Projekt bis Donnerstag fertigstelle.
 Ich habe gerade die Kündigung geschickt und fühle mich erleichtert.
 Der Drucker streikt wieder, ich kann keine Dokumente mehr ausgeben.
 Wir planen einen Teamevent im Sommer, vielleicht wandern gehen.
@@ -12022,7 +11723,6 @@ Wir planen gerade den Teamevent und alle wollen ins Kino gehen.
 Der neue Praktikant ist super fleißig, aber irgendwie immer unsicher.
 Ich würde gerne kündigen, habe aber Angst vor dem Jobverlust wirklich.
 Die Videokonferenz hatte heute nur Tonprobleme und war total langweilig.
-Gehaltserhöhung gibt es nur, wenn die业绩 besser werden sagt der Boss.
 Ich arbeite heute von zu Hause aus wegen des schlechten Wetters draußen.
 Die Kollegen lachen immer über meine Witze, finde ich eigentlich nett.
 Bewerbungsgespräch war heute super gelaufen, bin jetzt schon optimistisch mal.
@@ -12090,7 +11790,6 @@ Wir haben das Projekt leider nicht bekommen, echt blöd gelaufen.
 Freitagabend ist einfach der beste Zeitpunkt für die Feier.
 Die Internetverbindung war wieder mal zum Kotzen langsam.
 Hab meine Kündigung bereits eingereicht und jetzt warte ich ab.
-Der Chef will alle Unterlagen bis morgen auf seinem Tisch haben.
 Ich hasse es, wenn man mich kurz vor Schluss stört.
 Wir machen eine Teambuilding-Maßnahme am Wochenende, keine Lust darauf.
 Mein Schreibtisch sieht aus wie ein Schlachtfeld nach drei Monaten.
@@ -12100,9 +11799,7 @@ Kannst du mal kurz die Kaffeemaschine reparieren, sie macht nur noch Lärm.
 Die Bewerbungsschreiben schreiben sind echt eine nervenaufreibende Angelegenheit für mich.
 Wir müssen uns dringend neue Mitarbeiter suchen weil viele weg wollen.
 Ich bin froh dass das Video-Call endlich beendet wurde heute Vormittag.
-Mein Chef redet nur rum ohne dass er was konkret sagt.
 Mein Chef will mal wieder alles für morgen haben.
-Das Daily stand heute aus, was echt gut war.
 Ich muss dringend mein Gehalt mit dem Chef ansprechen.
 Die Kaffeemaschine ist kaputt und keiner repariert sie.
 Wir hatten drei Stunden Meeting ohne jeden richtigen Inhalt.
@@ -12118,7 +11815,6 @@ Die Gehaltserhöhung kam erst mit einem Monat Verspätung.
 Ich kündige nächste Woche, die Luft ist mir raus.
 Das Projekt läuft ins Leere, wir brauchen Hilfe von oben.
 Meine Tastatur macht so ein seltsames Quietschen beim Tippen.
-Wir arbeiten wieder an einem Sonntag, was total ungerecht ist.
 Die Bewerberin war top, aber sie hat sich woanders entschieden.
 Ich sitze schon seit zwei Stunden in dieser Videokonferenz.
 Der Chef hat heute gut gelaunt und hat Kaffee ausgegeben.
@@ -12126,7 +11822,6 @@ Mein Laptop friert immer genau im wichtigen Moment ein.
 Wir bekommen neue Bürostühle, die alten sind richtig unbequem.
 Die Gehaltsabrechnung war diesmal komplett falsch berechnet worden.
 Ich würde gerne früher gehen, muss aber noch diese Mail schreiben.
-Der Chef will unbedingt noch ein kurzes Telefonat heute abend.
 Ich hasse diese endlosen Meetings ohne jede klare Agenda.
 Kann bitte jemand den Drucker reparieren bevor ich umdrehe?
 Meine Überstunden bleiben leider auch diesen Monat komplett unbemerkt.
@@ -12201,7 +11896,6 @@ Der Montag fängt ja immer so schlecht an.
 Kannst du mal kurz den Kaffee für uns holen?
 Ich bin heute Vormittag echt gestresst weil der Server down ist.
 Die neuen Klamotten sind zwar bequem aber sie sehen nicht professionell aus.
-Mein Boss findet meine Idee total genial und will sofort loslegen.
 Wir müssen uns bald wieder um die Weihnachtsfeier kümmern glaube ich.
 Das Druckerpapier ist wieder leer und keiner hat neue Kartons bestellt.
 Ich habe heute Pech gehabt und muss bis acht Uhr bleiben.
@@ -12222,7 +11916,6 @@ Die Präsentation war okay aber die Folien waren viel zu kleingedruckt.
 Ich habe meine Kündigung heute endlich eingereicht und fühle mich frei.
 Kannst du bitte das Fenster aufmachen hier ist es stockdünn drin.
 Am Freitag geht es bei uns immer lockerer zu als am Montag.
-Der Chef will morgen schon um sieben da sein.
 Mein Bildschirm friert immer bei PowerPoint ein.
 Wir haben heute wieder kein Mittagessen gegessen.
 Die neue Kollegin ist ganz nett bisher.
@@ -12280,7 +11973,6 @@ Kannst du mir bitte mal den neuen Vertrag durchschauen?
 Wir haben heute Abend extra überstunden gemacht, war anstrengend.
 Im Homeoffice vergesse ich irgendwie schneller meine Arbeit.
 Die Bewerbungsfrist läuft morgen ab, ich schaffe es kaum.
-Mein Kollege ist gestern krankgeschrieben worden, was nervt.
 Ich brauche dringend ein Gehaltsgespräch mit meiner Chefin.
 Das stündliche Telefonieren hier im Open Space Plan sucks.
 Hast du schon gesehen wer neu im Marketing Team ist?
@@ -12322,7 +12014,6 @@ Wir suchen dringend nach jemandem der Python beherrscht und schnell lernt.
 Mein Chef hat vergessen dass heute Feiertag bei uns ist.
 Ich schreibe gerade an meiner Masterthesis nebenbei im Büro.
 Das Gehalt passt zwar aber die Arbeitszeit ist einfach zu hoch.
-Kommst du morgen zum Mittagessen mit oder hast du was vor?
 Die Kündigung hab ich jetzt offiziell eingereicht und warte ab.
 Das Telefon klingelt einfach nicht aufhören will.
 Wir müssen wieder bis drei Uhr arbeiten heute Abend.
@@ -12380,7 +12071,7 @@ Mein Chef will wieder mal dass ich am Wochenende die Mails überprüfe.
 Das wöchentliche Standup Meeting bringt ehrlich gesagt überhaupt nichts mehr.
 Ich sitz schon den ganzen Vormittag an diesem einen Report fest.
 Kann jemand kurz nachschauen wer für die Kaffeemaschine zuständig ist.
-Wir müssen dringend über eine Gehaltserhöhung sprechen, das war’s.
+Wir müssen dringend über eine Gehaltserhöhung sprechen, das wars.
 Im Homeoffice fehlt mir einfach der Kontakt zu den Kollegen da unten.
 Die neue Software von der IT Abteilung ist wieder mal komplett kaputt.
 Ich hab heute extra früh Feierabend gemacht um den Stress auszumachen.
@@ -12433,7 +12124,6 @@ Das war echt eine harte Verhandlung gestern abend.
 Ich muss unbedingt noch diese Mail absenden heute.
 Der Drucker macht seit drei Tagen wieder nicht mehr mit.
 Wir sollten das Projekt bis Ende Monat abgeschlossen haben.
-Mein Chef hat heute wirklich keinen Plan was er will.
 Ich brauche dringend einen Kaffee sonst schaffe ich nichts.
 Die Bürotemperatur ist im Sommer einfach unerträlich hoch.
 Hast du schon den Termin für morgen bestätigt bekommen?
@@ -12458,7 +12148,6 @@ Ich muss dringend meine Bewerbung für die neue Stelle abschicken.
 Die neuen Kollegen vom Support sind wirklich nett und hilfsbereit.
 Heute hab ich bis zwanzig Uhr überstunden müssen, bin total erledigt.
 Homeoffice hat mir echt gut getan in den letzten Monaten.
-Kann jemand mal schnell den Drucker reparieren? Das Ding will nicht.
 Ich brauche dringend eine Gehaltserhöhung, die Miete steigt ja auch.
 Das Telefon klingelt schon die ganze Zeit, wer ruft mich an?
 Wir haben wieder ein neues Projekt bekommen und keiner weiß wie es funktioniert.
@@ -12509,7 +12198,6 @@ Das war wohl nichts mit der Beförderung diesen Monat.
 Ich habe drei Stunden Überstunden gemacht ohne jede Pause.
 Der Bewerber hat super gescheit im Vorstellungsgespräch agiert.
 Morgen fange ich wieder an wie jedes verdammte Montag.
-Mein Laptop wird immer langsamer, da muss ich was machen.
 Wir sollten mal einen Teamevent planen der nicht gezwungen ist.
 Die Deadline rückt näher und ich hab noch gar nichts gemacht.
 Ich finde die neuen Büromöbel eigentlich viel zu unbequem.
@@ -12523,7 +12211,6 @@ Ich kann nicht arbeiten solange die Baustelle so laut ist.
 Das Gehalt deckt leider nicht mal mehr die Miete heute.
 Wir haben heute Pause vergessen weil alle einfach zu busy waren.
 Der Drucker hat sich wieder aufgehängt zum Unglück für mich.
-Ich brauche unbedingt einen Sabbatical nach all dem Stress hier.
 Die Aufgabenbeschreibung stimmte überhaupt nicht mit der Praxis.
 Der Chef hat mich wieder für das Wochenende gebeten.
 Endlich mal keine Meetings am Vormittag, was für ein Luxus.
@@ -12545,7 +12232,6 @@ Die Gehaltserhöhung kam viel zu spät und war auch winzig.
 Ich hasse es wenn andere meine Arbeit für ihre nehmen.
 Das neue Büro ist schön, aber die Fenster gehen nicht auf.
 Ich hoffe morgen gibt es endlich mal kein Video-Call-Mikrofongerausch.
-Mein Chef ist heute in guter Laune, da kann man was wagen.
 Die Zeiterfassung funktioniert wieder nicht und ich habe keine Nerven.
 Ich lerne gerade Homeoffice-Regeln, damit ich nicht verbrenne.
 Der Kollege neben mir hustet die ganze Zeit, das nervt mich.
@@ -12579,7 +12265,6 @@ Wir sollten mal über die Teamausfahrt im Sommer sprechen.
 Der Chef war wieder mal in mieser Laune heute Morgen.
 Ich muss dringend meinen Rechner reparieren lassen.
 Hast du schon gesehen dass die Küche leer ist?
-Meine To-Do-Liste wird nur noch länger leider.
 Das Video-Call ging gestern total schief wegen WLAN.
 Wir sollten mal über mein Gehalt sprechen endlich.
 Die Präsentation war okay aber etwas zu lang eigentlich.
@@ -12603,7 +12288,6 @@ Ich muss dringend mein Passwort zurücksetzen beim System hier.
 Die Kündigung von Lisa hat alle ziemlich überrascht heute.
 Endlich Wochenende ich kann gar nicht abwarten ehrlich gesagt.
 Wir haben das Meeting verlegt auf morgen Mittag.
-Mein Chef will unbedingt dass ich heute bleibe.
 Die Pause war wieder nur zwanzig Minuten lang.
 Ich finde unsere neue Büroecke einfach super gemütlich.
 Warum müssen wir immer mittags besprechen was am Abend sein soll.
@@ -12678,7 +12362,6 @@ Ich hasse es wenn andere Leute über meinen Schreibtisch lachen.
 Das Telefon klingelt permanent, ich kann nicht mehr denken.
 Vielleicht sollte ich mich umschulen, das hier ist nichts für mich.
 Am Montag frühstücken wir wieder im Standesamt.
-Wer macht heute das Kaffee? Ich brauche echt dringend was Schwarzes.
 Die neue Software ist komplett überflüssig, alles wurde komplizierter.
 Ich muss dringend mit dir reden, bevor der Chef kommt.
 Kannst du meine Aufgaben übernehmen, ich bin abends schon weg.
@@ -12816,7 +12499,7 @@ Ich hab Angst, dass die Stelle doch nicht sicher ist, das Klima ist giftig.
 Kannst du mal schnell diesen Bericht für mich durchschauen, bitte sehr?
 Die Weihnachtsfeier war dieses Jahr wieder eine komplette Katastrophe und langweilig.
 Mein Chef ruft ständig abends an, ich lass mein Handy einfach aus.
-Ich bewerbe mich gerade bei einer anderen Firma, hier wird’s nix mehr.
+Ich bewerbe mich gerade bei einer anderen Firma, hier wirds nix mehr.
 Der Drucker macht wieder Ärger, nichts funktioniert wie es soll in dieser Abteilung.
 Endlich freitag, heute arbeite ich nur noch halbherzig und schau fern.
 Die Überstunden werden leider nicht bezahlt, das ist einfach unfair gegenüber uns.
@@ -12943,7 +12626,6 @@ Die Kaffeemaschine im Erdgeschoss ist wieder kaputt gegangen.
 Ich habe heute Überstunden gemacht und bin völlig erledigt.
 Die Bewerbungsfrist endet morgen, ich muss mich beeilen.
 Unser neuer Büroflücht sieht eigentlich ganz modern aus.
-Der Chef will wissen, warum der Bericht noch nicht da ist.
 Ich drück dich einfach mal kurz auf Mute im Call.
 Das Office hat heute extrem schlecht gerochen nach Schimmel.
 Wir sollten doch mal wieder ein Teamevent planen, das wäre cool.
@@ -13009,7 +12691,6 @@ Die Gehaltsverhandlung war angespannt, aber am Ende waren wir uns einig.
 Die Meeting-Flut von gestern war echt krass.
 Ich schicke dir die Dateien gleich per Mail.
 Kannst du kurz an den Kaffee denken?
-Der Chef will das Projekt bis Montag fertig haben.
 Mein Schreibtisch sieht aus wie nach einem Wirbelsturm.
 Homeoffice ist toll, aber ich vermisse die Gespräche hier.
 Die Deadline war gestern, trotzdem läuft alles noch nicht.
@@ -13019,7 +12700,6 @@ Wir haben heute keine Zeit für lange Besprechungen mehr.
 Mein Kollege hat schon wieder über mich gesprochen.
 Das Gehalt passt nicht zum Aufwand den wir betreiben.
 Ich freue mich auf das Wochenende, endlich mal nichts tun.
-Die Bewerbung wurde abgelehnt, was soll man auch machen.
 Kommst du heute mit zur Mittagspause essen gehen?
 Der Drucker streikt schon die ganze Vormittag hinweg.
 Ich habe zu viel Stress und brauche Urlaub jetzt sofort.
@@ -13054,14 +12734,12 @@ Heute war echt ein harter Tag mit viel Stress und Druck.
 Ich schau mir deine Bewerbung am Wochenende genau an versprochen.
 Die Kaffemaschine macht seit gestern nur noch lautes Geräusch dabei.
 Wir brauchen dringend neue Stifte weil die alle leer sind jetzt.
-Mein Chef hat heute super gelaunt was selten der Fall ist.
 Ich packe gerade meine Sachen für den Umzug ins neue Büro.
 Mein Chef ruft schon wieder mitten im Feierabend an.
 Die Kantine hat heute nur noch kalten Kaffee angeboten.
 Ich drucke das Dokument aus dem Drucker im 3. Stock.
 Wir müssen dringend die Deadline für das Projekt verschieben.
 Das Homeoffice war gestern echt gemütlich mit der Katze.
-Hab endlich die Gehaltserhöhung bekommen,虽小 aber doch.
 Der Kollege redet so viel, dass ich nix höre.
 Ich habe heute krankgemeldet wegen Kopfweh und Magenproblemen.
 Die Besprechung dauert schon seit einer Stunde ohne Ende.
@@ -13099,7 +12777,6 @@ Das new Business Konzept klingt vielversprechend für die Zukunft.
 Ich bin gerade so genervt von diesem endlosen Telefonat heute.
 Die Gehaltserhöhung kam leider nicht wie erhofft dieses Jahr.
 Arbeiten im Homeoffice macht mir mehr Spaß als im Büro.
-Der Chef will dass wir bis acht Uhr da sind immer.
 Ich überlege ob ich den Job aufgeben und studieren soll.
 Das Meeting könnte eigentlich eine kurze E-Mail ersetzen einfach.
 Wir haben heute Mittag zusammen gegessen und geredet viel.
@@ -13204,12 +12881,10 @@ Der Termin morgen früh wird wieder einmal verschoben werden müssen.
 Ich brauche dringend eine Pause von der ganzen Bildschirmarbeit heute.
 Die neuen Richtlinien zur Arbeitszeit sind total unverständlich formuliert.
 Mein Boss lobt mich nie, egal wie gut ich arbeite hier.
-Das Gehalt passt gerade so, mehr will ich gar nicht wissen.
 Ich sitze schon seit drei Stunden in diesem langweiligen Meeting.
 Die Kündigung muss bis Freitag auf dem Tisch liegen leider.
 Wir haben heute Abend mal alle zusammen ins Kino gegangen sind.
 Die Kaffemaschine im Büro ist wieder kaputt gegangen.
-Mein Chef will unbedingt ein langes Meeting einberufen.
 Ich würde am liebsten sofort kündigen und durchstarten.
 Das Gehalt ist echt mies für die Arbeit die ich mache.
 Wir haben heute Abend noch Überstunden zu schieben leider.
@@ -13268,7 +12943,6 @@ Das Gehalt stimmt leider immer noch nicht mit meiner Leistung überein.
 Wer von euch nimmt am Teamevent nächste Woche teil?
 Mein Chef hat gerade wieder einen kompletten Schrei losgelassen.
 Im Homeoffice vergesse ich manchmal zu frühstücken oder zu trinken.
-Die Bewerbung war eigentlich schon abgeschlossen, jetzt kommt wieder was.
 Ich muss dringend mit meinem Vorgesetzten über mehr Freizeit sprechen.
 Warum müssen wir immer mittags drüber reden, wer den Kaffee kauft?
 Der neue Mitarbeiter scheint recht nett zu sein bis jetzt.
@@ -13322,7 +12996,6 @@ Wir haben heute wieder zu spät Feierabend machen müssen doof.
 Das Video hat nicht geklappt und alle hatten Tonprobleme total nervig.
 Mein Vorgesetzter redet nur in Floskeln und sagt nichts konkretes.
 Die Schreibtischordnung ist wieder ganz durcheinander nach dem Umzug.
-Ich sende die Datei gleich noch mal als PDF sicherheitshalber.
 Endlich Urlaub, ich brauch dringend eine Auszeit von allem hier.
 Die Bewerbungsgespräch war super gelaufen, hoffe dass es klappt jetzt.
 Warum ist der Drucker immer kaputt wenn man ihn wirklich braucht?
@@ -13369,7 +13042,6 @@ Der neue Kollege sitzt jetzt schon neben mir am Tisch.
 Wir müssen diese Woche endlos viele Überstunden einplanen.
 Das Gehalt ist leider viel zu niedrig für diese Arbeit.
 Ich bewerbe mich morgen bei einer Firma in München.
-Mein Chef will dass ich heute noch den Report schicke.
 Die Kaffeemaschine im Büro macht seit Wochen nur Lärm.
 Ich hasse es wenn die Meetings um fünf Uhr enden.
 Meine Kollegin hat gerade wieder alles ins Chaos gebracht.
@@ -13389,7 +13061,6 @@ Ich habe gerade meine Referenzen für die Bewerbung aktualisiert.
 Mein Laptop ist wieder abgestürzt während der Präsentation.
 Kannst du kurz den Kaffee für die Meeting-Besprechung holen?
 Ich muss bis Mitternacht diese Datei noch fertig bekommen.
-Der Chef will unbedingt heute noch eine Entscheidung treffen.
 Wir haben uns im Homeoffice total gut organisiert und verstanden.
 Die Neue aus dem Marketing ist wirklich super nett und hilfsbereit.
 Ich hab keine Lust mehr auf diese endlosen Telefonkonferenzen am Tag.
@@ -13449,7 +13120,6 @@ Im Homeoffice vergesse ich manchmal ganz dass ich eigentlich arbeiten soll.
 Die Kollegen sind nett aber mit der Chefin gibt es immer Ärger.
 Ich habe keine Lust mehr auf diese ständigen Teamfindungsseminare am Samstag.
 Mein Laptop macht beim Starten einen komischen Laut, das nervt.
-Die Bewerbung hat funktioniert und jetzt wird bald besprochen was Sache ist.
 Kann ich morgen vormittag bitte etwas später anfangen wegen dem Arzttermin?
 Der Drucks bei der Projektabschlussphase wird langsam nicht mehr erträglich für mich.
 Ich bekomme meine Gehaltsvorstellung nicht mal erst recht keine Gegenwehr dazu.
@@ -13458,7 +13128,6 @@ Wir müssen unbedingt einen Termin für das jährliche Mitarbeitergespräch find
 Es ist unglaublich wie viel Zeit wir nur mit E-Mails verschwenden.
 Ich brauche dringend Urlaub weil ich schon lange nicht mehr weg war.
 Das Gehaltsgespräch ist auf nächste Woche verplagt, bin ziemlich skeptisch da.
-Mein Schreibtisch ist so ein Chaos dass ich nie was finde.
 Die neuen Softwaretools waren eigentlich eine gute Idee aber die Umsetzung scheitert.
 Ich habe heute mein Kündigungsformular unterschrieben und mich sofort besser gefühlt.
 Der Kaffee in der Pausenraum schmeckt wirklich zum Ekel, ich kaufe meinen eigenen.
@@ -13484,21 +13153,16 @@ Kannst du mal kurz den Lichtschalter drücken, bitte?
 Ich hasse es, wenn mich der Chef am Wochenende anmacht.
 Die Kaffeepause ist die beste Stunde des ganzen Tages.
 Wir haben doch gestern schon alles besprochen im Teamcall.
-Mein Monitor geht wieder aus, egal was ich mache.
 Der Aufzug braucht ewig, um ins zweite Stockwerk zu kommen.
-Ich will einfach nur noch arbeiten und in Ruhe gelassen werden.
-Mein Chef hat wieder mal keine Ahnung was er will.
 Ich muss dringend noch drei E-Mails schreiben bevor ich gehe.
 Die Besprechung hätte eigentlich komplett entfallen können ehrlich gesagt.
 Homeoffice ist super aber ich vermisse den Kaffeespruch mittags.
 Wer arbeitet denn hier wirklich Überstunden oder macht nur Theater?
 Ich habe mir endlich die Nerven gestrafft und gekündigt.
-Das Gehalt ist okay aber da fehlt mir echt was.
 Mein Kollege kommt heute wieder mal ohne Vorwarnung zu spät.
 Ich hoffe dass die Bewerbung bei der neuen Firma klappt.
 Der Druck im Team wird langsam echt zum Thema für mich.
 Wir haben wieder nichts erreicht auf der Statuskonferenz heute morgen.
-Mein Boss findet immer alles gut bis er was kritisieren kann.
 Ich brauche wirklich eine Pause zwischen den Terminen heute mittag.
 Die Arbeit von zu Hause ist anfangs schwerer als gedacht.
 Ich frag mich ob ich noch lange hier aushalten kann honestly.
@@ -13542,7 +13206,6 @@ Ich kann gar nicht glauben wie lange dieses Video-Call gedauert hat.
 Der Drucker streikt wieder mal zum fünften Mal diese Woche.
 Ich muss heute leider bis spät abends bleiben wegen dem Projekt.
 Kannst du mir bitte die Unterlagen für das Meeting heraussuchen?
-Mein Chef will, dass wir das Quartalsziel unbedingt erreichen.
 Homeoffice ist super, aber ich vermisse den Kaffeeautomaten im Büro.
 Die Bewerbung war abgeschickt, jetzt warte ich nervös auf Antwort.
 Wir haben zu viele Meetings und keine Zeit für echte Arbeit.
@@ -13552,7 +13215,6 @@ Ich packe gerade meine Sachen aus, das war's hier wirklich.
 Die neue Software ist so kompliziert, dass ich sie hasse.
 Freitagabend im Büro fühlen sich alle einfach nur erledigt an.
 Er erwartet, dass wir am Wochenende noch Mails checken.
-Das Gehalt passt nicht mehr, da muss doch was sein.
 Ich habe den ganzen Vormittag verpasst, weil das Internet ausfiel.
 Mein Vorgesetzter spricht immer so laut im offenen Büro.
 Die Kündigung hab ich endlich geschrieben und abgeschickt.
@@ -13561,11 +13223,9 @@ Homeoffice bedeutet für mich auch weniger Stress auf dem Weg zur Arbeit.
 Das Gehalt bleibt gleich, obwohl die Preise steigen.
 Ich würde gerne kündigen, habe aber Angst vor dem Ausfall.
 Die Pausen sind oft die beste Zeit, um sich auszukennen.
-Mein Chef lobt mich nie, nur wenn was schiefgeht.
 Die Kollegen reden zu viel über ihre privaten Probleme hier.
 Ich muss dringend einen neuen Job finden, dieser stresst mich.
 Am Montag ist wieder Meeting-Marathon geplant, das freut mich nicht.
-Die To-Do-Liste wird nur noch länger und nicht kürzer.
 Ich muss dringend mit dem Boss über mehr Gehalt reden.
 Das Telefon klingelt schon den ganzen Vormittag ohne Pause.
 Mein Kollege isst immer so übel riechendes Curry im Büro.
@@ -13590,7 +13250,6 @@ Die Sekretärin ist heute krank und niemand weiß wie sie tickt.
 Ich trage immer noch den Kaffeebecher von letzter Woche bei mir.
 Die Verhandlungen mit dem Kunden sind endlos und bringen nichts voran.
 Meine Finger tun weh vom ewigen Tippen auf der Tastatur.
-Der Chef will das Projekt bis morgenabend fertig haben.
 Ich kann nicht verstehen warum wir jeden Freitag besprechen müssen was am Montag gemacht wird.
 Mein Monitor geht wieder kaputt weil der IT-Support zu langsam ist.
 Kannst du kurz mein Laptop ansehen er startet einfach nicht mehr.
@@ -13607,7 +13266,6 @@ Die Überstundenvergütung wird uns wieder nicht ausgezahlt das ist einfach unge
 Wer hat denn den Drucker wieder verstopft mit diesen dicken Papieren jetzt erst.
 Ich brauche dringend einen Urlaubstag um meine Seele zu waschen nach dieser Woche.
 Das Gehalt passt irgendwie nicht mehr zur aktuellen Inflation und unseren Leistungen insgesamt.
-Meine Chefin hat heute mal wieder keine Ahnung von dem was sie bestellt.
 Ich würde gerne kündigen aber die Wohnung ist schon bis nächstes Jahr vermietet.
 Die Meeting-Einladung kam erst gestern abend ich hätte eigentlich Feierabend machen wollen.
 Kannst du kurz übernehmen wenn ich zur Arzttermin muss am Dienstagvormittag?
@@ -13648,7 +13306,6 @@ Das homeoffice ist genial aber ich vermisse die kollegen ein bisschen.
 Hab meine stunde heute um zehn beendet und schalte den pc aus.
 Die neue software im büro ist einfach nur ein riesiger frustfaktor.
 Ich frag mich schon länger ob ich hier noch bleiben will ehrlich gesagt.
-Mein kollege hat mir gerade sein kaffee ausgegossen,典型 nervig wie immer.
 Wir müssen morgen früh um sieben starten weil der kund anruft.
 Die gehaltserhöhung ist ausgefallen und das finde ich echt unfair im vergleich.
 Ich schreibe heute meine kündigung auf und übergab sie dann persönlich dem chef.
@@ -13671,7 +13328,6 @@ Wir planen den firmenausflug für nächsten monat und ich hoffe es wird was dabe
 Die Besprechung gestern war absolut Zeitverschwendung.
 Ich kann nicht verstehen warum er mich immer übergeht.
 Endlich wieder frei nach dieser anstrengenden Projektwoche.
-Mein Chef will partout keine Remote-Tage akzeptieren.
 Das Gehalt stimmt einfach nicht mit der Arbeit überein.
 Wir müssen das Konzept bis morgen Mittag fertig haben.
 Die Kaffeemasche ist wieder kaputt und keiner merkt es.
@@ -13708,7 +13364,6 @@ Ich hasse es morgens in den Stau zu kommen.
 Die neue Software ist viel zu kompliziert bedient.
 Wir sollten mal über eine Gehaltserhöhung sprechen.
 Bin heute vormittag schon wieder zweimal angerufen worden.
-Der Boss will, dass ich das bis morgen fertig habe.
 Ich brauche dringend ein neues Schreibtischstuhl Ersatzteil.
 Heute war echt stressig im ganzen Büro.
 Habe meine Kündigung gestern Abend offiziell eingereicht.
@@ -13719,8 +13374,6 @@ Das neue Projekt klingt vielversprechend aber anstrengend.
 Ich arbeite heute bis sechs statt wie üblich fünf.
 Die Konferenz war wieder viel zu lang und absolut unnötig.
 Ich muss dringend meinen Urlaub beantragen bevor die Tage weg sind.
-Mein Boss will das Projekt bis morgen fertig haben ohne Pause.
-Im Homeoffice kann ich endlich mal in Ruhe mein Essen essen.
 Die Gehaltsverhandlung wird wohl nichts weil das Budget feststeht.
 Wir sollen ab nächsten Monat hybrides Arbeiten mit zwei Tagen Büro.
 Die neue Kollegin ist super nett und kommt ganz schnell klar.
@@ -13732,7 +13385,6 @@ Das Büro hat keine Klimaanlage und es ist einfach viel zu heiß.
 Der Chef redet nur Blödsinn und erwartet dass alle alles verstehen.
 Ich habe heute Nachmittag frei bekommen das ist echt ein Geschenk.
 Die Bewerbung war super kompliziert mit allen diesen digitalen Portalen.
-Am Montag muss ich wieder um sieben Uhr da sein was nervt tierisch.
 Wir essen wieder nur noch Pizzen im Büro weil niemand kochen will.
 Die Gehaltserhöhung kam viel zu spät und war auch viel zu klein.
 Ich vermisse meinen alten Job weil die Kollegen da echt gut waren.
@@ -13762,7 +13414,6 @@ Mein neuer Platz am Fenster ist traumhaft mit Blick auf den Park.
 Die Bewerbungssituation dieser Woche war echt eine Qual für mich.
 Wir haben heute mal alle zusammen Mittag gegessen statt einzeln zu essen.
 Ich kann gar nicht glauben dass die Reisekostenpauschale wieder geschnitten wurde.
-Das Meeting dauerte ewig lang und am Ende hat keiner was getan.
 Meine Tastatur ist total dreckig ich muss sie dringend reinigen.
 Ich freue mich schon auf den Urlaub wenn der endlich mal beginnt.
 Der Drucker macht komische Geräusche seit gestern Mittag immer noch.
@@ -13834,7 +13485,6 @@ Die Druckerpatrone ist schon wieder leer verdammt noch mal.
 Meine Kollegen sind ganz nett aber auch sehr oberflächlich.
 Morgen fängt das neue Projekt offiziell erst an.
 Ich vergesse dauernd dass ich heute Homeoffice habe.
-Der Chef will das Report bis Freitagabend auf seinem Tisch haben.
 Endlich mal ein Tag ohne telefonische Absprachen und Stress.
 Ich muss mich noch um die Krankenversicherung kümmern.
 Die Arbeitsatmosphäre im Team hat sich stark verbessert.
@@ -13859,7 +13509,6 @@ Die Bewerbung ist raus, jetzt heißt es nur noch warten.
 Mein Vorgesetzter versteht von modernen Arbeitsweisen überhaupt nichts.
 Das Gehalt passt gerade so, aber mehr habe ich nicht erwartet.
 Ich sitze schon seit zwei Stunden in diesem langweiligen Call.
-Die To-Do-Liste wird heute definitiv nicht mehr geschafft.
 Im Homeoffice vergesse ich manchmal, dass ich eigentlich arbeiten soll.
 Wir haben heute Team-Event gemacht, war okay, aber stressig.
 Die Gehaltserhöhung kommt leider erst nächsten Jahr wieder.
@@ -13877,7 +13526,6 @@ Meine Chefin hat wieder alles bis auf den letzten Drücker verschoben.
 Endlich Wochenende ich gehe heute um fünf direkt nach Hause.
 Hast du schon meinen Bericht gesendet oder warst du zu faul.
 Im Homeoffice vergesse ich manchmal dass ich arbeiten muss.
-Die Kaffeemaschine ist kaputt und keiner will Ersatz kaufen.
 Ich habe das Gefühl dass mich niemand richtig sieht hier.
 Wir brauchen dringend einen neuen Drucker der alter ist langsam.
 Kannst du mir kurz helfen ich hänge gerade in Excel.
@@ -13889,7 +13537,6 @@ Heute ist Feiertag trotzdem muss ich die Mails checken.
 Wir haben gerade eine Gehaltserhöhung bekommen endlich mal was.
 Der neue Manager hat schon wieder alle Pläne verändert komplett.
 Ich schreibe meine Lebensumlauf für diese Stelle morgen früh.
-Es ist so laut in der开放式 Büroflur dass ich kopfschmerzen bekomme.
 Kann bitte jemand den Raum buchen wir brauchen Platz zum Reden.
 Die Arbeitsbelastung ist gerade einfach nicht mehr tragbar für mich.
 Ich freue mich auf meinen ersten Arbeitstag nächste Woche sehr.
@@ -13921,7 +13568,6 @@ Wir diskutieren seit Stunden über dieselben kleinen Punkte.
 Mein Chef hat sich endlich mal bedankt, rare Sichtung.
 Das Druckerpapier ist wieder mal leer, wie immer halt.
 Ich schicke die Datei jetzt einfach per WhatsApp rüber.
-Endlich Freitag und ich will nur noch nach Hause gehen.
 Das Video call heute war echt anstrengend für die Augen.
 Mein Chef hat gesagt dass wir mal wieder überstunden müssen.
 Ich frage mich ob ich wirklich noch hier bleiben soll.
@@ -13936,13 +13582,11 @@ Der neue Kollege ist super nett aber total überfordert.
 Wir haben wieder ein Standup Meeting das hätte kürzer gekonnt.
 Ich brauche dringend einen Tag frei um einfach auszuspannen.
 Die Deadline morgen ist echt stressig und ich habe noch viel offen.
-Mein Boss findet alles gut bis er was zu meckern hat.
 Ich überlege ernsthaft ob sich der Umstieg ins Startup lohnt.
 Die Bürosituation hier wird langsam zum Albtraum für mich.
 Hast du schon gesehen dass die Gehälter angepasst wurden?
 Ich habe heute den ganzen Tag nur E-Mails geschrieben.
 Das Team Dinner nächste Woche klingt eigentlich ganz nice.
-Warum müssen wir immer am Montag frühstehens um八点?
 Ich fühle mich bei der Arbeit oft wie ein Zahnrad.
 Die Weiterbildung war okay aber nichts wirklich Neues gelernt.
 Vielleicht meld ich mich doch mal krank morgen Vormittag.

@@ -218,7 +218,6 @@ Mein Smartphone wird immer schneller beim Scrollen.
 Die Firewall hat mich rausgeworfen kann mich nicht einloggen.
 Ich brauche dringend einen neuen USB Stick.
 Kann man das Spiel auch in 4K spielen?
-Mein Drucker will einfach nicht mehr scannen.
 Die Internetverbindung ist heute echt langsam geworden.
 Ich habe mein Passwort vergessen und kann nicht reinkommen.
 Welches Betriebssystem ist besser für Einsteiger geeignet?
@@ -255,7 +254,6 @@ Ich suche nach einem guten Programm zur Bildbearbeitung.
 Mein Bildschirm flimmert seit dem letzten Update nervig.
 Kann mir jemand einen günstigen Monitor für Homeoffice empfehlen?
 Die Internetverbindung fällt gerade immer wieder komplett aus.
-Ich find die neue TikTok-Sucht echt alarmierend.
 Hat jemand Lust heute Abend gemeinsam an Valorant zu zocken?
 Mein Router muss dringend neu aufgesetzt werden.
 Künstliche Intelligenz wird unsere Jobs nicht ersetzen, sondern verändern.
@@ -304,7 +302,6 @@ Ich kann nie merken, ob der Computer wirklich aus ist.
 Die Stimme in meinem Auto ist so nervig und falsch.
 Mein Monitor macht seit gestern diesen nervigen Piepton.
 Kann mir jemand helfen, mein WLAN wieder schnell zu kriegen?
-Ich find die neuen Samsung-Displays einfach unschlagbar.
 Warum aktualisiert sich Windows immer dann, wenn ich arbeite?
 Hab mir endlich ein NAS gekauft, das ist super praktisch.
 Die Ladezeit meiner SSD ist echt beeindruckend geworden.
@@ -312,7 +309,6 @@ Ich hab Angst, dass KI bald alle unsere Jobs nimmt.
 Dein Mauspad ist ja schon echt arg abgenutzt.
 Wie installiere ich Ubuntu nebenbei ohne alles zu löschen?
 Mein Internet ist heute wieder komplett am Limit.
-Ich kann den Unterschied zwischen 1080p und 4k nicht erkennen.
 Hast du schonmal auf einer mechanical Keyboard getippt?
 Mein Handy speichert nicht mehr, obwohl es neu ist.
 Die neue App ist voll buggy und stürzt ständig ab.
@@ -332,7 +328,6 @@ Hast du schon die neuen AirPods getestet?
 Die Benutzeroberfläche ist wirklich schlecht gestaltet.
 Ich brauche dringend mehr Speicherplatz auf dem Handy.
 Wird Windows 12 bald endlich rauskommen?
-Mein Drucker will einfach gar nicht drucken.
 Das WLAN ist heute Morgen total langsam.
 Kann mir jemand eine günstige Webcam empfehlen?
 Ich hasse es, wenn Updates mitten im Arbeitsgang kommen.
@@ -413,15 +408,12 @@ Mein Handy lädt einfach nicht mehr so schnell wie früher.
 Ich muss endlich mal mein Betriebssystem neu aufsetzen.
 Der Bildschirm ist zwar groß, aber die Auflösung wirkt matschig.
 Kannst du mir kurz helfen, meine Fotos auf die Cloud hochzuladen?
-Ich find das neue MacOS Design irgendwie gar nicht so toll.
 Mein Computer macht seltsame Gerüche, ist das normal?
 Hast du einen Link für das kostenlose Tutorial, das ich suche?
 Die Internetverbindung hier im Keller ist einfach zum Kotzen.
 Ich überlege, ob ich zu einem MacBook wechseln soll.
 Mein Smartwatch-Akku hält kaum noch einen ganzen Tag.
 Kann man diesen Schutz vor Phishing-E-Mails überhaupt vertrauen?
-Der Drucker will wieder nicht, obwohl genug Tinte drin ist.
-Ich hasse es, wenn Windows automatisch Updates installieren will.
 Hast du schon gehört, dass die neue Grafikkarte rauskommt?
 Mein Laptop wird beim Gaming immer viel zu heiß.
 Ich such eine günstige SSD für meinen alten Rechner.
@@ -471,7 +463,6 @@ Wie sichere ich meine Passwörter am besten ab?
 Der Druckertoner ist schon wieder komplett leer.
 Mein Tablet hat nach dem Sturz einen Riss.
 Hast du schon das neue Handymodell gesehen?
-Ich will eigentlich nur einfach online shoppen gehen.
 Die Internetverbindung im Zimmer ist total schwach.
 Kann man da wirklich nichts mehr daran ändern?
 Mein Monitor flimmert schon wieder seit Tagen.
@@ -502,7 +493,6 @@ Kann ich mein Android einfach auf iOS umstellen?
 Die Datei lässt sich leider nicht öffnen.
 Ich finde diese Benutzeroberfläche irgendwie unübersichtlich.
 Hast du schon mal Linux installiert?
-Mein Drucker will immer nur scannen.
 Ich lern gerade Programmieren und es macht Spaß.
 Der VPN Dienst funktioniert bei mir nicht richtig.
 Mein WLAN ist seit heute morgen komplett weg.
@@ -537,7 +527,6 @@ Kann mir jemand erklären wie man ein Backup macht?
 Die neue Software ist deutlich schneller als die Alte.
 Mein Akku hält bei meinem Tablet nicht mal mehr drei Stunden.
 Ich würde gerne meinen PC aufrüsten, aber ich hab keine Ahnung.
-Warum muss Windows eigentlich immer mal updaten wenn ich was tue?
 Das Online-Spiel läuft auf meiner Konsole super flüssig.
 Ich nutze für die Büroarbeit immer noch Excel.
 Kann das neue AI-Tool auch komplexe Grafiken generieren?
@@ -572,7 +561,6 @@ Das WLAN Signal reicht in mein Zimmer nicht.
 Welchen Smartphone Akku hält am längsten?
 Die Datenspeicherung in der Cloud ist sicher.
 Ich habe versehentlich eine wichtige Datei gelöscht.
-Der Drucker will einfach keine Tinte aufnehmen.
 Stromkosten für den PC sind im Winter höher.
 Hast du dein Handy schon auf Android 14 aktualisiert?
 Der Laptop startet nur mit externem Monitor.
@@ -583,15 +571,11 @@ Welches Programm ist besser für Videoschnitt geeignet?
 Mein Router hat den Geist aufgegeben und ich weiß gar nicht, was ich tun soll.
 Kannst du mir kurz helfen, mein Passwort zurückzusetzen?
 Die Batterielaufzeit meines Tablets wird wirklich immer schlechter.
-Ich hab versehentlich den Papierkorb geleert, oje was mach ich jetzt.
-Hast du zufällig ein Ladekabel für USB-C dabei?
 Mein Handy ist schon wieder voll und ich find keine Speicherplatzlöcher.
 Das Update dauert ewig und mein Bildschirm ist ganz schwarz.
-Ich find diese neuen Benachrichtigungen super nervig auf dem PC.
 Warum funktioniert mein WLAN nur noch in einem Zimmer?
 Hast du schon mal von der neuen KI für Textgenerierung gehört?
 Ich muss dringend meine externen Festplatten auf Viren prüfen.
-Der Drucker will einfach nicht mehr scannen, typisch.
 Mein Monitor hat plötzlich einen toten Pixel, ärgerlich.
 Welche Tastatur empfiehlst du für langes Tippen am Tag?
 Ich versuche gerade, meine Fotos in die Cloud hochzuladen.
@@ -706,7 +690,6 @@ Ich würde gerne meinen alten PC als Server nutzen.
 Hast du die neuen AirPods schon in echt gesehen?
 Mein Handy lädt einfach nicht mehr richtig.
 Hast du auch die neue Netflix-App auf dem Tablet?
-Der Drucker will immer nur online sein.
 Kannst du mir mal mein WLAN Passwort schicken?
 Ich hasse es wenn das Handy am Laptop hängt.
 Mein Computer ist wieder so langsam wie eine Schnecke.
@@ -857,7 +840,6 @@ Wie sichere ich meine Fotos am besten ab?
 Ich kann mich gar nicht ohne Smartwatch mehr vorstellen.
 Mein Laptop ruckelt, seitdem ich das Update installiert habe.
 Wissen wir schon, wann der neue Computer erscheint?
-Mein Bildschirm ist total eingefroren, was soll ich tun
 Ich brauch dringend einen Tipp für eine neue Tastatur
 Kann man eigentlich Daten zwischen Android und iOS transferieren
 Die Internetverbindung ist heute wieder mal super langsam
@@ -895,7 +877,6 @@ Welchen Browser nutzt ihr, der nicht so viel Speicher frisst?
 Mein Smartphone läuft nach dem letzten Update nur noch schlecht.
 Ich hab mir ein neues Tastaturset für das Gaming gekauft.
 Kannst du mir erklären, wie man ein Backup auf der Festplatte macht?
-Mein Computer startet nicht mehr, was soll ich jetzt tun?
 Ich finde die neue Software von Adobe viel zu teuer.
 Hast du meinen Link zum Stream sehen können?
 Mein Smartphone ist kaputt und ich brauch dringend ein neues.
@@ -954,7 +935,6 @@ Ich möchte meinen PC aufrüsten aber hab kein Plan.
 Mein Router scheint kaputt zu gehen weil er immer neustartet.
 Ich bin begeistert von der neuen Kamera in meinem Smartphone.
 Kannst du mir erklären wie ich diese Firewall richtig konfiguriere?
-Mein Tablet ist so langsam dass ich fast aufgeben will.
 Ich suche einen günstigen Monitor für mein Homeoffice Setup.
 Die Ladegeschwindigkeit von meinem neuen Kabel ist wirklich beeindruckend.
 Ich hasse es wenn sich meine Apps selbstständig aktualisieren.
@@ -971,7 +951,6 @@ Das Display von meinem Tablet hat eine Risslinie.
 Gaming auf der Konsole macht mir mehr Spaß als am PC.
 Mein Smartphone wird beim Laden immer warm, ist das normal?
 Ich finde die Benutzeroberfläche von Windows 11 viel schöner.
-Wie stell ich mein WLAN wieder her nach dem Stromausfall?
 Die Tastatur von meinem Laptop klemmt bei der Taste F.
 Ich überlege, mir ein zweites Monitor anzuschaffen.
 Datenschutz ist mir bei neuen Apps immer sehr wichtig.
@@ -1031,7 +1010,6 @@ Die Benutzeroberfläche von Windows 11 gefällt mir nicht.
 Ich suche ein günstiges Tablet zum E-Book Lesen.
 Die Firewall blockiert meine Downloads ständig.
 Welches Betriebssystem ist für Anfänger am einfachsten?
-Mein Drucker will irgendwie gar nicht mehr connecten.
 Ich lade gerade Treiber für meine Grafikkarte runter.
 Die Bildschirmzeit-Statistik macht mich echt nervös.
 Kann ich meinen Laptop ohne Stromkabel laden?
@@ -1039,7 +1017,6 @@ Mein Bildschirm ist seit Stunden schwarz.
 Kannst du mir helfen das WLAN einzurichten?
 Diese App frisst einfach nur den Akku ab.
 Ich hasse es wenn man sich wieder anmelden muss.
-Der Drucker will einfach nicht mit mir sprechen.
 Hast du schon mal diese neue KI ausprobiert?
 Meine Tastatur hat wieder mal einen Buchstaben verloren.
 Die Updates kommen immer genau zur falschen Zeit.
@@ -1120,7 +1097,6 @@ Warum funktioniert das Update bei mir nicht?
 Die KI hat mir gerade ein Rezept vorgeschlagen.
 Mein Smartphone wird beim Laden echt warm.
 Ich hasse es wenn man ständig neu registrieren muss.
-Hat jemand eine Ahnung was RAM eigentlich macht?
 Mein Router steht seit drei Jahren in der Ecke.
 Die neue Software sieht deutlich aufgeräumter aus.
 Ich kann meine externe Festplatte einfach nicht finden.
@@ -1139,7 +1115,6 @@ Mein Tablet ist beim Fallen leider zerbrochen, ärgerlich.
 Sollte ich jetzt Windows oder macOS für meinen neuen Rechner nehmen?
 Mein Router war heute Abend wieder mal komplett am Limit.
 Hat schon mal jemand das neue macOS installiert?
-Ich find diese neuen Tastaturen mit mechanischen Tasten einfach zu laut.
 Warum dauert das Herunterladen der Datei immer so lange?
 Kann mir jemand erklären, was genau ein SSD-Speicher ist?
 Mein Smartphone wird beim Zocken echt warm.
@@ -1199,7 +1174,6 @@ Das Update hat meine Einstellungen komplett zerschossen.
 Kann man bei Netflix auch ohne Internet schauen?
 Die Akkulaufzeit bei meinem Laptop wird echt mies.
 Ich finde diese neuen Suchalgorithmen irgendwie ungenau.
-Mein Drucker will partout nicht mehr connecten.
 Wird das neue Betriebssystem auch auf alte Geräte kommen?
 Ich hab versehentlich auf Werbeanzeige geklickt, ärgerlich.
 Die Bildqualität bei YouTube ist heute echt schlecht.
@@ -1216,7 +1190,6 @@ Das Internet bei uns im Keller ist immer schwach.
 Mein WLAN ist heute morgen schon wieder abgeschmiert.
 Kannst du mir mal erklären wie ich das Passwort resete?
 Diese neue Softwareupdate braucht ewig um runterzuladen.
-Ich find das neue Android Design gar nicht so gut.
 Hast du zufällig ein frei Handykabel für mich?
 Der Bildschirm meines Tablets hat sich gerade verabschiedet.
 Ich bin skeptisch ob diese KI wirklich gut ist.
@@ -1232,7 +1205,6 @@ Kannst du mir helfen mein WLAN Passwort zu ändern?
 Ich würde gerne auf einen Mac umsteigen honestly.
 Diese App crasht dauernd wenn ich sie öffne.
 Hast du schon mal von dieser neuen Gaming Maus gehört?
-Ich find es nervig dass immer Updates kommen.
 Mein Internet ist heute wieder extrem langsam.
 Kann ich meinen alten Laptop noch als Server nutzen?
 Ich frag mich ob ich mir ein Tablet zulegen soll.
@@ -1249,7 +1221,6 @@ Kann ich meine Daten einfach auf den neuen Laptop transferieren.
 Die künstliche Intelligenz zeichnet schon echt gute Bilder.
 Mein Internet ist heute wieder mal extrem lahm und nervig.
 Hast du schon mal diese neue Gaming Maus ausprobiert.
-Ich find diese Touchbar am Mac total unpraktisch im Alltag.
 Mein Router muss ich wohl endlich mal austauschen.
 Die Batterie von meinem Tablet geht schon nach einer Stunde.
 Kann man Windows 11 auf so einem alten Rechner installieren.
@@ -1308,7 +1279,6 @@ Das Internet bei der Arbeit ist heute down.
 Kann ich meine Fotos auf einer externen Festplatte speichern?
 Ich finde die neuen AirPods wirklich super komfortabel.
 Mein Laptop wird immer so heiß beim Streaming.
-Was meinst du, ist 5G wirklich besser als 4G?
 Ich habe versehentlich meine wichtige Datei gelöscht.
 Die Ladekabel von meinem alten iPhone sind kaputt.
 Kann man eigentlich Daten von Android auf iPhone übertragen?
@@ -1364,9 +1334,7 @@ Welches VPN nutzt ihr denn eigentlich am häufigsten?
 Ich versuche seit Stunden, den Drucker neu zu konfigurieren.
 Das neue Betriebssystem sieht wirklich gut und modern aus.
 Meine Maus scrollt nicht mehr richtig, ich muss sie tauschen.
-Mein Router will heute gar nicht mehr so recht.
 Hast du auch das Problem mit der Tastenleuchte?
-Ich find die neue Software-Version eigentlich gar nicht so toll.
 Kann mir jemand erklären, was genau ein SSD-RAM ist?
 Mein Smartphone wird einfach zu warm beim Laden.
 Ich muss dringend mal meinen Laptop aufräumen.
@@ -1446,7 +1414,6 @@ Hast du dir schon ein neues Smartphone gekauft?
 Die Akkulaufzeit von meinem Tablet lässt zu wünschen übrig.
 Ich finde die neue iOS-Oberfläche irgendwie ungewohnt.
 Kannst du mir helfen, mein Handy mit dem Router zu verbinden?
-Der Drucker will einfach nicht scannen, nervt mega.
 Ich sollte endlich mal meine Festplatte aufräumen.
 Hast du Netflix für die neue Staffel aktualisiert?
 Mein Laptop fängt an, seltsame Geräusche zu machen.
@@ -1560,7 +1527,6 @@ Kann ich meine Daten einfach zwischen den Geräten syncen?
 Mein Laptop rattert so laut wie ein Flugzeug.
 Ich finde die neuen AirPods Designmäßig richtig gut.
 Hast du auch Probleme mit der neuen App-Version?
-Ich will endlich mein Altes Smartphone entsorgen.
 Die Grafik auf meinem alten Rechner stottert stark.
 Kannst du mir kurz helfen, mein Netzwerk einzurichten?
 Ich glaube, mein Laptop hat einen Virus bekommen.
@@ -1655,7 +1621,6 @@ Das Update dauert schon wieder seit drei Stunden.
 Ich finde die Benutzeroberfläche der App total verwirrend.
 Warum ist mein Internet heute so langsam geworden?
 Ich muss unbedingt meinen Bildschirm säubern das ist eklig.
-Der Drucker will einfach nicht mit dem Laptop verbinden.
 Welchen Streamingdienst nutzt ihr eigentlich am liebsten?
 Ich habe Angst vor neuen Viren und Malware Attacken.
 Mein Tablet Akku hält kaum noch eine halbe Stunde.
@@ -1681,7 +1646,6 @@ Das Update hat mir mein ganzes Desktop durcheinander gebracht.
 Ich kann die Bedienung der neuen Software nicht finden.
 Mein Router ist einfach zu langsam für Video_calls.
 Hast du schon mal VR-Brillen ausprobiert oder nicht?
-Der Drucker will einfach nicht mit dem Handy sprechen.
 Ich muss dringend meine Festplatte aufgeräumt bekommen.
 Dieses Spiel laggt wirklich schlecht auf meinem PC.
 Kann man bei dieser Cloud auch Fotos speichern?
@@ -1712,7 +1676,6 @@ Die Ladezeit der neuen Website ist leider viel zu lang.
 Ich finde Virtual Reality nach wie vor zu schwindelerregend.
 Welches Smartphone hättest du für unter 300 Euro empfohlen?
 Die Bedienung der neuen App ist nicht gerade intuitiv.
-Mein Drucker will einfach nicht mehr scannen, argh.
 Kryptowährungen sind für mich immer noch ein Rätsel.
 Das Online-Spiel ist grafikmäßig echt beeindruckend geworden.
 Ich vergesse ständig meine Passwörter, was nutzt man da?
@@ -1736,7 +1699,6 @@ Ich lern gerade wie man Excel Formeln baut.
 Das Update hat mein System total zum Schweigen gebracht.
 Ich kann meinen Code einfach nicht knacken.
 Die Grafik auf dem neuen Spiel ist bombastisch.
-Mein alter Drucker will einfach nicht mehr.
 Ich speichere alles lieber auf meiner Festplatte.
 Diese Benutzeroberfläche ist total verwirrend designed.
 Hast du schonmal mit einer Raspberry Pi rumgespielt?
@@ -1809,7 +1771,6 @@ Warum ist Internet auf meinem Tablet so langsam?
 Mein Laptop wird beim Spielen viel zu heiß.
 Hast du das neue iPhone schon gesehen?
 Ich kann meine E-Mails nicht mehr synchronisieren.
-Der Drucker will einfach nicht mehr scannen.
 Ich habe meine Daten auf eine externe Festplatte gesichert.
 Welchen Laptop würdest du für Studenten empfehlen?
 Mein Smartphone reagiert kaum noch auf Berührungen.
@@ -1865,7 +1826,6 @@ Kann ich meine alten WhatsApp-Backups auch auf Android importieren?
 Ich finde Virtual Reality immer noch etwas zu aufwändig für mich.
 Die Ladezeit der Webseite ist auf meinem Handy viel schneller geworden.
 Ich hab endlich verstanden, wie das mit den Virtual Machines funktioniert.
-Mein Drucker will einfach nicht, obwohl ich die Tinten gewechselt habe.
 Die Tastatur von der neuen MacBook Air fühlt sich richtig gut an.
 Ich lade mir die Updates lieber immer manuell und nachts.
 Welchen Virenschutz nutzt ihr eigentlich auf euren Heimrechnern?
@@ -1890,7 +1850,6 @@ Mein Tablet ist eigentlich nur zum Fernsehen da.
 Kannst du mir helfen mein Handy mit dem Laptop zu koppeln?
 Ich finde diese neuen Emojis auf WhatsApp gar nicht so toll.
 Mein Laptop läuft seit dem Update deutlich schneller.
-Ich bin skeptisch was die KI-Chatbots angeht.
 Hast du schon den neuen Fernseher ausprobiert?
 Ich kann ohne mein Smartphone überhaupt nicht mehr leben.
 Meine Internetverbindung fällt bei schlechtem Wetter immer aus.
@@ -1993,7 +1952,6 @@ Die Benutzeroberfläche ist viel zu kompliziert für meine Großmutter.
 Mein Tablet stürzt beim Spielen immer wieder komplett ab.
 Soll ich mein Betriebssystem jetzt updaten oder lieber nicht?
 Ich suche nach einer günstigen Webcam für meine Meetings.
-Das Ladekabel ist schon wieder defekt geworden,典型.
 Mein Monitor flackert seit dem Treiberupdate komisch.
 Hast du zufällig ein HDMI-Kabel übrig für mich?
 Die Batterie meines Handys hält leider nicht mehr lange.
@@ -2002,7 +1960,6 @@ Mein Smartphone wird immer langsamer, egal wie oft ich es neu starte.
 Die Akku-Leistung meiner Tablet ist nach drei Jahren wirklich schlecht geworden.
 Ich finde die neue Windows-Update-Politik ziemlich nervig und aufdringlich.
 Kann mir jemand empfehlen, welches VPN sich wirklich lohnt?
-Mein Router hat die WLAN-Verbindung komplett verloren, was nun?
 Ich überlege, auf Linux umzusteigen, aber ich hab große Hemmungen.
 Das Online-Spiel laggt heute Abend extrem, ist das bei euch auch so?
 Meine externe Festplatte wird plötzlich nicht mehr vom Mac erkannt.
@@ -2018,7 +1975,6 @@ Meine Tastatur hat wieder einen Buchstaben verschluckt, typisch Apple.
 Ich vermisste meine alten mechanischen Tasten beim neuen Laptop sehr.
 Die Werbung in den kostenlosen Apps wird mir wirklich zu viel.
 Kann ich meine Daten einfach von Android auf iOS übertragen?
-Ich find die Sprachassistenten im Auto total praktisch und hilfreich.
 Mein Drucker ist wieder offline, obwohl er eingeschaltet ist.
 Ich sollte mir endlich eine bessere Maus für die Arbeit kaufen.
 Die neue Software-Version sieht moderner aus, ist aber umständlicher.
@@ -2042,7 +1998,6 @@ Die Software update sich immer zur falschen Zeit.
 Ich mag die neue Benutzeroberfläche auf meinem Telefon.
 Kannst du mir empfehlen welche Versicherung ich nehmen soll?
 Mein Tablet lädt einfach gar nicht mehr richtig auf.
-Ich will endlich lernen wie man Websites baut.
 Die künstliche Intelligenz wird uns bald ersetzen wollen.
 Meine Maus reagiert nur noch alle paar Sekunden.
 Hast du schonmal einen Raspberry Pi zum laufen gebracht?
@@ -2071,7 +2026,6 @@ Kann ich mein altes iPhone noch als Festplatte nutzen irgendwie?
 Ich bin skeptisch was die Datenschutzrichtlinien der großen Tech Firmen angeht.
 Mein Monitor flimmert komisch seitdem ich ihn neu positioniert habe.
 Wie sicher ist es eigentlich seine Bankdaten auf dem Smartphone zu speichern?
-Ich versuche gerade Linux zu installieren aber es will einfach nicht klappen.
 Welche Tastatur würdest du mir für lange Schreibaufträge empfehlen bitte?
 Das 5G Netz bei uns zu Hause funktioniert immer noch nicht stabil.
 Mein WLAN ist heute morgen komplett ausgefallen.
@@ -2117,7 +2071,6 @@ Meine Tastatur klebt irgendwie, muss sie reinigen.
 Ich brauche endlich mal einen schnelleren Internetanschluss.
 Die Benutzeroberfläche der neuen App ist zu unübersichtlich.
 Kann ich mein altes iPhone noch irgendwie nutzen?
-Der Drucker will partout nicht mehr scannen heute.
 Ich bin skeptisch gegenüber den neuen Datenschutzrichtlinien.
 Welchen Laptop für Studenten würdest du mir empfehlen?
 Mein Smart-TV hängt sich ständig selbst auf.
@@ -2155,7 +2108,6 @@ Hast du schon das neue iOS-Update installiert?
 Die Internetverbindung ist heute echt schwach hier.
 Ich hab versehentlich den Müllkorb auf dem PC gelöscht.
 Welche Antiviren-Software empfiehlst du mir denn?
-Mein Drucker will partout keine Verbindung aufbauen.
 Das neue KI-Tool schreibt richtig gut E-Mails.
 Kann mir jemand helfen, mein Passwort zurückzusetzen?
 Die Grafikeinstellungen in der Konsole sind zu dunkel.
@@ -2210,7 +2162,6 @@ Mein Bildschirm flackert seit dem Update komisch.
 KRIEGST du das Video auf dem Server hochgeladen?
 Ich liebe meine neue mechanische Tastatur einfach.
 Warum ist mein Internet heute wieder so langsam?
-Das neue iPadOS sieht auf dem Display toll aus.
 Ich vermisste meinen alten Laptop total schon.
 Kann man die KI auch für Hausaufgaben verwenden?
 Mein Handy wird beim Laden total heiß.
@@ -2266,7 +2217,6 @@ Kann ich meine Daten noch aus der Cloud retten?
 Die Batterielaufzeit bei neuen Handys ist oft übertrieben beworben.
 Ich hasse es wenn die Software automatisch aktualisiert wird.
 Welche Programmiersprache ist am besten für Anfänger geeignet?
-Mein Drucker will einfach nicht mehr mit mir kooperationieren.
 Die Ladezeit meiner Website ist immer noch viel zu langsam.
 Hast du schon mal diese neue VR Brille ausprobiert?
 Ich traue mich nicht meinen PasswortManager zu ändern.
@@ -2351,7 +2301,6 @@ Brauche ich wirklich ein Abonnement für Office 365?
 Die Erkennung meiner Stimme am Computer funktioniert einfach nicht.
 Ich wollte nur ein Spiel installieren, jetzt ist alles kaputt.
 Kannst du mir sagen, wie ich den Browsercache löschte?
-Mein Router blinkt rot, was bedeutet das eigentlich?
 Ich würde lieber Linux nutzen, aber ich kenn mich nicht aus.
 Die Bildschirmhelligkeit passt sich bei mir nicht automatisch an.
 Mein WLAN ist heute wirklich lahm.
@@ -2420,12 +2369,10 @@ Mein Kollege schwört nur auf Linux Distributionen.
 Kann man mit der neuen KI auch E-Mails schreiben?
 Ich hab vergessen, mein Handy gestern aufzuladen.
 Die Grafiksettings im Spiel sind echt beeindruckend.
-Ich versteh immer noch nicht, was Metaverse ist.
 Mein Monitor hat einen toten Pixel entdeckt.
 Hast du schonmal Discord für Gruppenchats genutzt?
 Die Akkulaufzeit meines Tablets ist echt mies.
 Ich soll mein Google Passwort dringend ändern.
-Mein Drucker will einfach nicht scannen.
 Welches Smartphone ist am besten für Fotografie?
 Ich hab mich versehentlicherweise in den WLAN eingehakt.
 Der Laptop macht komische Geräusche beim Start.
@@ -2447,7 +2394,6 @@ Ich verstehe nicht wie man die Cloud richtig nutzt.
 Mein Grafikkarten Lüfter macht seit gestern seltsame Geräusche.
 Hast du die neue KI App schon getestet?
 Ich sollte mir endlich eine externe SSD zulegen.
-Der Druckertreiber will einfach nicht installiert werden.
 Mein Laptop wird immer heißer wenn ich spiele.
 Welches Betriebssystem ist für Einsteiger am einfachsten?
 Ich finde Touchscreens am Computer total unnötig.
@@ -2459,7 +2405,6 @@ Mein altes Notebook kann keine modernen Spiele mehr.
 Mein WLAN ist heute Morgen wieder mal gestreikt.
 Hast du schon mal mit dem neuen Sprachassistenten gesprochen?
 Ich hab meine alte Festplatte im Schrank gefunden.
-Der Drucker will einfach nicht scannen, nervig!
 Kann mir jemand ein günstiges Tablet für Lesen empfehlen?
 Mein Smartphone wird immer langsamer, soll ich es tauschen?
 Die Batterielaufzeit von MacBooks ist wirklich beeindruckend.
@@ -2518,13 +2463,10 @@ Ich hab mir grade Steam gekauft, das war ein Fehler.
 Die Bildschirmhelligkeit nervt mich am Abend einfach total.
 Meine Maus klemmt seit Tagen, ich muss neue kaufen.
 Kann man den Akku vom iPhone noch tauchen lassen?
-Ich find diese neuen Smartwatches alle gleich langweilig.
-Mein Drucker will gar nicht erst mit dem Laptop sprechen.
 Hast du schon gehört von der neuen Spielekonsole?
 Ich schalte das WLAN immer aus wenn ich schlafengehe.
 Die Software frisst meinen ganzen Arbeitsspeicher auf.
 Mein Tablette bricht den Bildschirm wenn ich es fallen lass.
-Ich kann meinen WLAN-Passwort schon wieder nicht mehr lesen.
 Dieses Browser-Plugin verlangsamt mein Internet echt extrem.
 Mein Laptop ist so laut wie ein Staubsauger.
 Ich hab keine Lust mehr auf diese ganzen Updates.
@@ -2607,7 +2549,6 @@ Der Bildschirm ist wieder voll mit Pixeln.
 Ich kann mich an die alten Handys gar nicht mehr erinnern.
 Warum dauert das Downloaden von Spielen so lange?
 Ich brauche dringend mehr Speicherplatz auf meinem Tablet.
-Mein Drucker will einfach gar nicht mehr drucken.
 Mein Internet ist heute Morgen komplett weggefallen.
 Kann mir jemand erklären, was der Unterschied zwischen RAM und Arbeitsspeicher ist?
 Ich habe gerade meine alte Festplatte entsorgt.
@@ -2679,7 +2620,6 @@ Mein Laptop braucht ewig zum Hochfahren.
 Die Akku-Laufzeit meines iPhones wird immer schlechter.
 Ich probiere gerade Linux aus, ist spannend.
 Warum kann ich nicht einfach alle Apps updaten?
-Mein Drucker will partout keine Tinte mehr nehmen.
 Das neue Smartphone-Design gefällt mir gar nicht.
 Ich habe versehentlich meine wichtige Datei gelöscht.
 Kann ich meinen Router per App steuern?
@@ -2688,7 +2628,6 @@ Hast du schon mal diese neue KI für Texte getestet?
 Ich hasse es, wenn mein Smartwatch Akku schon mittags leer ist.
 Der neue Router scheint doch viel schneller zu sein.
 Kann mir jemand helfen, meine Fotos in die Cloud hochzuladen?
-Ich find diese dunkle Modus Einstellung total augenfreundlich.
 Mein alter Drucker spuckt nur noch schwarze Streifen aus.
 Soll ich jetzt auf Windows 11 upgraden oder nicht?
 Die Ladezeit von dieser Website ist wirklich nervig langsam.
@@ -2728,7 +2667,6 @@ Ich muss dringend mein Backup vom Festplatte überprüfen.
 Die Werbung auf YouTube wird wirklich nervig und nervig.
 Mein Laptop wird beim Spielen immer zu heiß und laut.
 Ich traue mich nicht, diese Software einfach so zu installieren.
-Der Drucker will einfach nicht mit dem Computer sprechen.
 Hast du einen Tipp für gute Sicherheitseinstellungen im Netz?
 Mein Tablet ist vorhin aus der Hand gefallen und kaputt.
 Die Ladekabel sind bei mir immer irgendwo versteckt und verschwunden.
@@ -2932,7 +2870,6 @@ Das Programm stürzt jedes Mal beim Öffnen ab.
 Hast du schon das neue Spiel heruntergeladen?
 Die Fingerabdrucksensoren an meinem Handy funktionieren nicht.
 Ich brauche dringend mehr Speicherplatz auf meinem Handy.
-Der Drucker will einfach nicht mehr drucken.
 Kannst du mir erklären, was ein Virenscanner ist?
 Mein Tablet ist schon wieder aus dem Akku.
 Mein Bildschirm flackert seit dem Update seltsam.
@@ -2941,7 +2878,6 @@ Die neue KI schreibt besser als ich.
 Ich muss dringend mein Backup wiederherstellen.
 Hast du den neuen Prozessor schon im Test gesehen?
 Mein Handy wird immer langsamer mit der Zeit.
-Der Drucker will einfach nicht online gehen.
 Ich vermiss die Tastatur meines alten Laptops.
 Wie sichere ich meine Passwörter am besten ab?
 Das Spiel läuft auf meiner Konsole sehr flüssig.
@@ -3029,7 +2965,6 @@ Hast du schonmal mit einer VR Brille getestet?
 Mein Tablet ist nur noch zum Surfen gut.
 Ich versteh nicht warum ich da registrieren muss.
 Kann man das Foto auch in besserer Qualität laden?
-Mein Drucker will nicht drucken obwohl Tinte da ist.
 Ich hab meine Daten versehentlich vom Cloud Konto gelöscht.
 Wann kommt eigentlich das neue iOS Update raus?
 Mein Laptop wird so heiß dass er abstürzt.
@@ -3115,7 +3050,6 @@ Mein Router macht seit Stunden komische Geräusche.
 Ich muss dringend mein Backup auf die externe Festplatte sichern.
 Warum ist mein WLAN heute Abend so lahm?
 Hast du schon mal diese neue KI-App installiert?
-Der Drucker will einfach nicht mit dem PC kommunizieren.
 Ich finde, Windows 11 läuft auf meinem alten Rechner zu ruckelig.
 Kannst du mir helfen, meinen Bildschirm mit dem Laptop zu koppeln?
 Mein Akku hält heute nur noch zwei Stunden.
@@ -3134,17 +3068,14 @@ Ich brauche dringend einen neuen Monitor, der alte ist kaputt.
 Wie richtest du dein Home-Office-Setup am besten ein?
 Mein Laptop wird immer so heiß, wenn ich Videos bearbeite.
 Hast du eine Empfehlung für eine günstige SSD?
-Ich hab versehentlich einen重要的 Ordner gelöscht, help.
 Die neue iPhone Kamera ist wirklich einUpgrade wert.
 Mein Internet haut hier im Keller immer aus.
 Kannst du mir kurz helfen das WLAN neu zu starten?
 Ich hab mir gerade ein mechanisches Tastatur gekauft.
 Die Akkulaufzeit von meinem Handy wird immer schlechter.
 Hast du schonmal mit der neuen KI gesprochen?
-Mein Computer ist total laут wenn ich zocke.
 Ich finds nervig wenn mich alles mit nem Konto anmeldet.
 Welchen Bildschirm nehmen die meisten für Büroarbeiten?
-Da steht wieder mal was von Windows Updates.
 Meine Maus klemmt an der linken Taste.
 Ich würde lieber ein Macbook kaufen aber es ist zu teuer.
 Der Router muss echt mal wieder ersetzt werden.
@@ -3153,7 +3084,6 @@ Ich verstehe nicht warum die App so langsam ist.
 Hast du schon eine SSD eingebaut in deinen PC?
 Die neue Grafiksoftware friert bei mir permanent ein.
 Ich muss meine alten Fotos endlich auf einen USB Stick schieben.
-Mein Drucker will partout nicht mehr scannen.
 Glaubst du dass diese Cloud wirklich sicher ist?
 Ich lerne gerade wie man Websites mit HTML baut.
 Der Ton aus meinem Laptop kommt nur aus einer Seite.
@@ -3221,11 +3151,9 @@ Ist der neue Mac wirklich besser als mein altes Modell?
 Ich bekomme meine Dateien auf dem neuen PC einfach nicht hin.
 Der Bildschirm meines Laptops hat seltsame Streifen.
 Warum dauert das Herunterladen der Datei so lange?
-Mein Internet ist heute total lahm, was soll das sein.
 Ich überlege ob ich mir ein neues Keyboard kaufe.
 Die Passwörter immer wieder ändern nervt mich total.
 Habt ihr schon die neue App getestet die viral ging?
-Mein Drucker will einfach nicht mehr mit dem WLAN connecten.
 Ich finde die neue Benutzeroberfläche viel zu unübersichtlich.
 Kann ich meine alte Festplatte einfach an den neuen Rechner anschließen?
 Das Handy wird immer heißer wenn ich Spiele starte.
@@ -3252,15 +3180,12 @@ Hast du ein Backup von deinen wichtigen Fotos gemacht?
 Die neue Nvidia Karte ist mir einfach zu teuer.
 Ich kann den Code für mein WiFi nicht finden.
 Mein Tablet hat einen Riss im Display bekommen.
-Ich lerne gerade JavaScript und find es tricky.
 Die Batterielaufzeit meines Handys wird immer schlechter.
 Hast du schonmal mit diesem neuen VR Headset gespielt?
-Mein Drucker will gar nicht mehr online gehen.
 Ich frag mich ob ich auf Windows 11 umsteigen soll.
 Der Internetzugang ist heute Abend total lahm.
 Mein Smartphone stürzt beim Öffnen der Apps ab.
 Kannst du mir bei der Datensicherung helfen?
-Ich find das neue Interface von Spotify super.
 Mein Laptop braucht ewig zum Hochfahren heute.
 Hast du einen Tipp gegen das Handy-Rauschen?
 Mein WLAN hängt seit gestern Vormittag total.
@@ -3307,11 +3232,9 @@ Mein Router muss ich eigentlich mal neustarten.
 Datenschutz bei Apps ist mir einfach zu wichtig.
 Kannst du mir helfen, das Backup einzurichten?
 Die Ladezeit dieser Website ist echt beschleunigt.
-Ich hasse es, wenn Windows automatisch updaten will.
 Smart Home Gerätschaften sind praktisch, aber teuer.
 Mein Monitor hat jetzt schon eine tote Pixel.
 Hörst du auch auf Musik über Spotify Premium?
-Der Drucker will einfach nicht verbinden, nervt total.
 Ich überlege, ob ich mir einen NAS kaufen soll.
 Code debugging macht mich langsam verrückt.
 Mein WLAN hängt seit gestern wieder komplett.
@@ -3415,12 +3338,10 @@ Ich finde Smart Home Geräte total überbewertet ehrlich gesagt.
 Mein VPN funktioniert seit dem Update gar nicht mehr.
 Die Akkulaufzeit von meinem Laptop ist echt schlecht.
 Hast du Ahnung von Server administration und Konfiguration?
-Ich will mal einen eigenen Webserver aufsetzen zu Hause.
 Mein WLAN haut grad seit 10 Uhr wieder aus.
 Hast du schon das neue iPad mit dem M4 Chip?
 Ich hab meine Passwörter endlich mal in Bitwarden gesichert.
 Diese Updates nerven total, wenn ich sie grade brauche.
-Mein Drucker will gar nicht mehr scannen, Hilfe.
 Ich denke drüber, auf einen Chromebook umzusteigen.
 Die Ladezeit der neuen Website ist echt schmerzhaft lang.
 Mein Sohn zockt nur noch Cyberpunk, ist gut gemacht.
@@ -3429,7 +3350,6 @@ Mein iPhone 12 wird langsam echt lahm bei Apps.
 Ich vermisst die alten Tastaturen von Apple total.
 Das Streaming auf Netflix ruckelt bei mir ständig.
 Mein Smartwatch Akku hält nicht mehr den ganzen Tag.
-Ich find diese neuen KI Bilder schon ziemlich unheimlich.
 Hast du auch Probleme mit der neuen Windows 11 Version?
 Mein Router steht immer noch in der Ecke, blöd.
 Ich lern grad ein bisschen JavaScript für die Uni.
@@ -3474,7 +3394,6 @@ Kannst du mir helfen, mein Wi-Fi zu reparieren?
 Das neue Betriebssystem ist doch viel zu langsam geworden.
 Ich trau mich einfach nicht, auf Android umzusteigen.
 Meine Tastatur färbt sich an den Buchstaben ab.
-Der Drucker will trotz vollem Tintenpatrone nicht mehr drucken.
 Hast du eine gute App für die Budgetplanung?
 Das neue MacBook ist mir irgendwie zu teuer geworden.
 Ich hasse es, wenn die Software automatisch aktualisiert wird.
@@ -3518,7 +3437,6 @@ Das Spiel läuft auf der Konsole flüssiger.
 Mein Bluetooth Kopfhörer verbindet sich nicht mehr.
 Mein WLAN bricht immer wieder ab und das nervt total.
 Kann mir jemand eine gute Tastatur für Tipparbeit empfehlen?
-Ich find die neuen KI-Bilder schon ziemlich creepy ehrlich gesagt.
 Hast du auch bemerkt wie langsam mein Handy lately geworden ist?
 Ich hab endlich auf Linux umgestellt, läuft bei mir super stabil.
 Die neue Windows-Update-Zwangsinstallation ist wirklich nervig finde ich.
@@ -3594,7 +3512,6 @@ Mein Internet stickt bei jedem Videocall total stark.
 Mein WLAN hängt seit gestern Abend total durch.
 Hast du schonmal diese neue App ausprobiert?
 Das Update hat meinen Akku irgendwie schneller leer.
-Ich find KI generierte Bilder sind echt krass geworden.
 Kannst du mir helfen meinen Drucker wieder zu vernetzen?
 Die Ladezeit bei dieser Website ist wirklich nervig.
 Mein Handy wird beim Scrollen immer super heiß.
@@ -3603,7 +3520,6 @@ Der Bildschirm meines Monitors hat nun Risse bekommen.
 Welches Tablet würdest du zum Zeichnen empfehlen?
 Ich miss Vertrauense nicht wenn alles online gespeichert wird.
 Das neue iOS kommt mir etwas zu unübersichtlich vor.
-Mein Router leuchtet wieder rot was ist falsch gelaufen.
 Gaming auf dem Laptop macht einfach mehr Spaß als TV.
 Ich versteh den Hype um Metaverse immer noch nicht wirklich.
 Hat jemand eine gute Antivirus Software im Angebot?
@@ -3611,7 +3527,6 @@ Die Tastatur meiner Mechanical Keyboards ist super laut.
 Ständig muss ich irgendwelche Cookies akzeptieren nervig.
 Mein Smartwatch zeigt falsche Schrittzahlen an heute Morgen.
 Kann man überhaupt ohne Smartphone in der Stadt auskommen?
-Das Laden vom PDF dauert ewig warum ist das so.
 Ich hab mein Passwort vergessen und jetzt bin ich raus.
 Die Grafikeinstellungen im Spiel sind total kompliziert zu verstehen.
 Netflix lädt nur im schlechten HD Qualität bei mir.
@@ -3625,7 +3540,6 @@ Mein Notebook lädt nur noch wenn der Stecker direkt dran hängt.
 Hast du schonmal mit der neuen KI-Funktion in Word rumgespielt?
 Das Update für Windows hat meinen Laptop richtig lahm gemacht gestern abend.
 Ich finde es genial wie schnell Cloud-Dokumente sich jetzt synchronisieren.
-Mein Sohn will unbedingt das neueste PlayStation-Game kaufen.
 Warum funktioniert mein USB-Stick auf dem Firmencomputer überhaupt nicht mehr?
 Ich überlege ob ich mir ein echtes Keyboard für den Mac kaufe.
 Die Batterielaufzeit von meinem Tablet reicht maximal noch drei Stunden.
@@ -3677,7 +3591,6 @@ Warum braucht mein Telefon immer mehr Speicherplatz von selbst?
 Ich find die Benutzeroberfläche der neuen App total verwirrend.
 Hast du schon mal mit Linux rumgespielt auf dem PC?
 Mein Monitor macht komische Streifen, wenn ich zocke.
-Die Datenübertragung per USB-C ist endlich wieder flott.
 Kann man alte Smartphones irgendwie noch sinnvoll als NAS nutzen?
 Ich verstehe nicht, wieso mein Router immer abstürzt.
 Das neue Feature bei TikTok nervt mich einfach nur.
@@ -3706,7 +3619,6 @@ Mein Smartwatch hat mir gesagt ich soll endlich aufstehen gehen.
 Hat jemand Erfahrung mit der neuen Samsung Galaxy S24 Ultra?
 Die Akkulaufzeit meines Laptops reicht nur noch für zwei Stunden.
 Ich versuche gerade eine App zu programmieren, krieg das nicht hin.
-Mein Dad will immer noch per Fax arbeiten, wie kann das sein?
 Der Bildschirm meines Monitors zeigt jetzt seltsame Streifen an.
 Hast du meinen WLAN-Passwort gespeichert oder muss ich ihn wieder sagen?
 Ich denke über einen Kauf vom neuen MacBook Pro nach aktuell.
@@ -3724,7 +3636,6 @@ Kann mir jemand ein gutes Programm zum Bildschirmaufzeichnen empfehlen?
 Das Passwort ändern wird mich langsam wirklich nervig finden.
 Meine Tastatur macht dieses seltsame knarrende Geräusch.
 Hast du auch schon das neue Update für Windows installiert?
-Der Drucker will partout nicht mit dem Handy verbinden.
 Ich schaffs einfach nicht, diese Cloud-Dateien zu finden.
 Mein Smartphone wird beim Laden echt warm, ist das normal?
 Die KI kann mir zwar Texte schreiben, aber der Ton stimmt nicht.
@@ -3895,7 +3806,6 @@ Meine Maus klickt seit gestern nicht mehr richtig.
 Das Internet ist heute wieder mal komplett langsamer.
 Mein WLAN hängt seit Stunden wieder komplett.
 Hast du dir schon den neuen MacBook Pro angeguckt?
-Ich hasse es wenn mein Windows einfach neu starten will.
 Die Akku-Leistung bei meinem Handy ist echt schlecht geworden.
 Kann mir jemand nen guten Virenscanner für kostenlos empfehlen?
 Ich hab versehentlich die falsche Datei gelöscht.
@@ -3983,7 +3893,6 @@ Mein Handy Akku hält nicht mal den ganzen Tag.
 Welches Programm ist gut zum Videos schneiden?
 Die Software ist zu teuer für einen Privatanwender.
 Ich habe versehentlich alle Fotos von der Cloud gelöscht.
-Der Drucker will einfach nicht scannen oder drucken.
 Gaming auf dem Smartphone macht mir keinen Spaß mehr.
 Soll ich jetzt auf den neuen Mac umsteigen?
 Mein Internet ist gestern abend komplett weggefallen.
@@ -4043,7 +3952,6 @@ Sollte ich mein Passwort jetzt gleich auf allen Seiten ändern?
 Die Batterie meines Smartphones hält nicht mehr mal drei Stunden.
 Ich finde die neuen Sicherheitsfeatures bei Google echt nervig.
 Kannst du mir erklären wie man diese Datei richtig komprimiert?
-Mein Internetstick will einfach nicht in der Bude funktionieren.
 Mein Router haut schon wieder aus, nervt total.
 Wofür brauche ich eigentlich einen So-Prozessor im Handy?
 Ich find die neuen Apple-Brillen übertrieben teuer.
@@ -4060,7 +3968,6 @@ Smart Homes sind praktisch aber auch unsicher.
 Kann ich mein altes iPhone noch als Server nutzen?
 Die Ladezeiten der Seite sind wirklich nervig.
 Ich überleg mir ob ich zu Windows 11 wechsle.
-Mein Drucker will einfach nicht mehr scannen.
 Cybersecurity ist für kleine Firmen viel zu komplex.
 Hast du das neue Ryzen-Prozessor-Leck gesehen?
 Ich versteh den Hype um NFTs gar nicht.
@@ -4105,7 +4012,6 @@ Ich probier gerade mal Linux auf dem Alt-PC aus.
 Der Akku von meinem Laptop hält kaum noch vier Stunden.
 Kann ich mein altes Handy einfach als Kamera nutzen?
 Die neue macOS Version frisst echt viel Speicherplatz.
-Ich find diese Touchbars an Laptops komplett nutzlos.
 Hast du schon mal mit Docker gearbeitet?
 Mein Bildschirm hat jetzt endlich diesen grünen Rand.
 Ich suche ein günstiges Tablet für das Lesen von Büchern.
@@ -4146,12 +4052,10 @@ Welches Streaming Device ist am besten für den Fernseher geeignet?
 Mein Laptop wird beim Spielen viel zu heiß und loud.
 Mein WLAN ist heute morgen wieder komplett ausgefallen.
 Hast du schon mal die neue Version von Photoshop ausprobiert?
-Ich find diese ganzen Streaming-Dienste einfach nur zu teuer geworden.
 Kann mir jemand erklären warum mein Drucker sich immer verabschiedet?
 Die KI schreibt mittlerweile bessere Texte als ich selbst manchmal.
 Mein Tablet ist kaputt und ich hab kein Ersatzgerät da.
 Welches Linux-Distribution würdest du für Anfänger unbedingt empfehlen?
-Ich bin skeptisch was diese ganzen Fingerabdruck-Sensoren angeht.
 Das Rendering meiner Videos dauert auf meinem Rechen ewig lang.
 Hörst du auch dieses nervige Knistern aus den Kopfhörern?
 Meine SSD füllt sich langsam aber sicher immer mehr zu.
@@ -4170,7 +4074,6 @@ Mein Laptop heizt sich beim Gaming richtig schön auf wie ein Ofen.
 Ich hab vergessen wo ich mein passwort für den Server gespeichert habe.
 Die Sprachassistentin versteht mich leider wirklich gar nicht richtig oft.
 Soll ich mir jetzt schon das nächste Modell vorbestellen oder warten?
-Mein Router will einfach nicht mehr verbinden.
 Warum muss ich eigentlich immer Updates machen?
 Die Tastatur meines neuen Macbooks ist super laut.
 Ich habe mir eine neue Webcam für Calls gekauft.
@@ -4198,7 +4101,6 @@ Ich finde die neuen Emoji auf dem Handy nervig.
 Mein WLAN hängt seit heute Vormittag einfach nur noch.
 Hast du schonmal mit der neuen KI gechattet?
 Ich muss endlich meine alten Fotos in die Cloud packen.
-Das Laptop-Brett wird immer lauter wenn ich streamen will.
 Kann jemand mir helfen das BIOS wieder zu finden?
 Meine Maus geht manchmal sporadisch aus, nervig eigentlich.
 Ich lade gerade das Windows-Update auf meinen Rechner.
@@ -4233,14 +4135,12 @@ Ich überleg mir, ob ich zu Apple wechseln soll.
 Mein Tablet stürzt jedes Mal beim Spielen ab.
 Kannst du mir helfen, mein Passwort zurückzusetzen?
 Die neue KI kann Bilder echt überzeugend generieren.
-Ich finde diese ganzen Accounts越来越难以管理.
 Mein Laptop ist langsam, weil der Arbeitsspeicher voll ist.
 Hast du schon mal von Linux gehört? Ich find das spannend.
 Der Drucker wollte partout nicht mit meinem Computer sprechen.
 Ich muss unbedingt mein Windows neu installieren, es ist buggy.
 Welches Smartphone hat denn den besten Akku zurzeit?
 Mein Internetstick funktioniert im Zug leider überhaupt nicht.
-Ich kann nie einen stabilen Verbindungsaufbau in Call of Duty hinbekommen.
 Die Cloud ist praktisch, aber ich traue großen Tech-Firmen nicht.
 Kann man auf dem Mac auch so gut zocken wie auf PC?
 Mein Smartwatch-Band ist zerbrochen, jetzt suche ich Ersatz.
@@ -4273,7 +4173,6 @@ Ich vermisse eigentlich noch das alte Startmenü.
 Hast du schon gehört von der neuen Gaming-Console?
 Mein Wi-Fi ist heute total langsam, kann nicht mal eine Nachricht laden.
 Hast du dir schon die neue Grafikkarte angeschaut?
-Ich hasse es, wenn Windows wieder automatisch updaten will.
 Die KI zeichnet echt beeindruckende Bilder in Sekunden.
 Kann jemand mir helfen, mein Handy zu reparieren?
 Steam Sale ist da, ich muss unbedingt sparen.
@@ -4310,7 +4209,6 @@ Meine Festplatte hat wahrscheinlich kaum noch Speicherplatz frei.
 Kannst du prüfen, ob der Drucker wieder Online ist?
 Ich habe Angst, dass mein Laptop bald den Geist aufgibt.
 Die Grafikeinstellungen in dem Spiel sind irgendwie nicht intuitiv.
-Hab schon mal überlegt, auf Linux umzusteigen, scheue mich aber.
 Mein Smartwatch-Band macht meine Haut ziemlich juckig und rot.
 Die automatische Bildschirmsperre nervt mich beim Arbeiten total.
 Ich brauche dringend einen neuen kabellosen Maus für mein Setup.
@@ -4340,7 +4238,6 @@ Ich finde diese neuen Passwörter sind viel zu kompliziert zum Merken.
 Kann jemand mein Internetproblem lösen das Ding ist lahm wie nie.
 Mein Laptop ruckelt total wenn ich mehrere Tabs geöffnet habe.
 Ich warte schon ewig auf die Lieferung meiner neuen Tastatur.
-Die Smart Home Steuerung versteht manchmal wirklich nicht was ich meine.
 Sind diese Cloud-Speicher eigentlich sicher oder kann man da reinschauen?
 Meine Maus klickt komisch seitdem sie ein Jahr alt ist.
 Ich probiere gerade Linux aus weil Windows mich nervig findet.
@@ -4413,7 +4310,6 @@ Kann man Windows 10 noch sicher verwenden heute?
 Mein Tablet dient mir eigentlich nur zum Lesen.
 Die Latenz im Online Spiel ist echt nervig jetzt.
 Ich frag mich ob ich neu aufsetzen soll.
-Der neue Laptop hat endlich USB C Anschlüsse.
 Meine Smartwatch zeigt falsche Schrittzahlen an.
 Kann jemand mein Wifi Signal verstärken hier hinten?
 Ich hasse es wenn Software automatisch Updates pusht.
@@ -4459,7 +4355,6 @@ Hab gerade meinen Router neugestartet, geht jetzt wieder.
 Das neue OS sieht schick aus aber ist langsam.
 Mein Smartphone wird bei jeder Nutzung richtig heiß.
 Kann ich die alten Fotos in die Cloud sichern?
-Ich find diese Touchpads auf dem Laptop immer ungenau.
 Der Drucker macht wieder mal keine Verbindung zustande.
 Soll ich mir einen Gaming PC zusammenbauen oder kaufen?
 Die Benutzeroberfläche ist viel zu unübersichtlich geworden.
@@ -4491,7 +4386,6 @@ Kann man das auch mit einer Tastatur machen?
 Ich finde die neue iOS-Version sieht cooler aus.
 Die Ladekabel bei mir halten nicht lange halt.
 Hast du einen Virenscanner auf dem Rechner installiert?
-Mein Drucker will einfach nicht drucken heute.
 Smart Home Geräte sind praktisch aber auch anfällig.
 Wie viel RAM braucht man denn heutzutage eigentlich?
 Ich hasse es, wenn Updates mitten im Film kommen.
@@ -4517,7 +4411,6 @@ Warum muss ich mich bei jeder Website neu anmelden?
 Die Grafikkarte ist vielleicht doch zu schwach für diese Spiel.
 Kann man den Browser auf dem Handy besser sichern?
 Ich habe Angst dass meine Daten in der Cloud landen.
-Der Drucker will einfach nicht mehr mit dem PC sprechen.
 Mein Smartphone Akku hält kaum noch zwei Stunden vor.
 Hast du eine Idee wie ich mein Internet beschleunigen kann?
 Die neue Windows Version macht mir irgendwie schlechte Laune.
@@ -4592,7 +4485,6 @@ Die Tasten meiner mechanischen Tastatur klingen super.
 Ich vermiss echt den Kopfhöreranschloss an neuen Geräten.
 Wie installiere ich Linux ohne mein Windows zu verlieren?
 Mein Tablet ist zum Surfen wirklich perfekt geeignet.
-Die Ladeleistung von USB-C wird immer besser.
 Kann man Steam-Spiele auch auf dem Mac spielen?
 Ich liebe die dunklen Modus bei jeder App.
 Meine Maus hat plötzlich keine Funktion mehr.
@@ -4664,7 +4556,6 @@ Die Software frisst zu viel von meinem Arbeitsspeicher.
 Kannst du mir helfen mein Passwort wiederherzustellen?
 Cloud-Dienste finde ich bequemer als lokale Speichermedien.
 Mein Router leuchtet wieder rot, typisch am Wochenende.
-Ich will endlich mal Linux richtig ausprobieren.
 Der Support von dem Anbieter war leider super schlecht.
 Hast du den neuen Laptop von Apple schon gesehen?
 Meine Maus funktioniert nur noch manchmal richtig.
@@ -4752,7 +4643,6 @@ Die Akkulaufzeit von meinem Tablet wird immer schlechter.
 Hast du schonmal KI für das Schreiben genutzt?
 Mein PC raucht förmlich wenn ich zocke.
 Das neue Windows Update hat alles kaputt gemacht.
-Ich find diese Touchbars einfach nur nervig.
 Warum muss jeder App mein Standort wissen wollen.
 Habt ihr Erfahrungen mit der neuen Grafikkarte?
 Meine Tastatur klebt irgendwie am Bildschirmrand fest.
@@ -4802,7 +4692,6 @@ Ich kann nicht ohne meine Smartwatch auskommen.
 Kannst du mir beim WLAN-Einrichten helfen?
 Das Display von meinem Tablet ist zerkratzt.
 KI hilft mir unglaublich bei meiner Arbeit.
-Der Drucker will einfach nicht mehr spucken.
 Hast du schonmal mit diesem neuen Spiel gespielt?
 Meine Tastatur fühlt sich wirklich genial an.
 Ich vermiss die klassischen CD-Laufwerke total.
@@ -4849,7 +4738,6 @@ Mein WLAN haut seit dem Update ständig raus.
 Kann mir jemand ein gutes Smartwatch-Modell empfehlen?
 Ich hasse es, wenn mein Handy beim Laden warm wird.
 Hast du schon mal mit der neuen KI gechattet?
-Der Drucker will einfach nicht mehr scannen.
 Meine Festplatte ist fast voll, was soll ich löschen?
 Streaming in 4K frisst bei mir immer die Daten.
 Ich frag mich, ob ich auf Android umsteigen soll.
@@ -4878,7 +4766,6 @@ Ich traue mich nicht meine SSD zu wechseln.
 Die Batterie von meinem Handy hält kaum noch einen Tag.
 Woran liegt es dass mein Laptop so laut wird?
 Ich such eine gute Tastatur mit mechanischen Tasten.
-Mein Internetstick will einfach nicht richtig verbinden.
 Wie sichere ich am besten meine Passwörter ab?
 Das Update hat meinen Bildschirm komplett schwarz gemacht.
 Kannst du mir helfen mein WLAN Passwort zurückzusetzen?
@@ -4917,7 +4804,6 @@ Mein Smartwatch hat den Akku wieder einmal ganz schön schnell leer gemacht.
 Hast du Lust heute Abend mit mir online zu zocken und zu quatschen?
 Ich finde dass KI zwar nützlich ist aber auch creepy wirken kann.
 Welche Programmiersprache lernst du gerade am besten für Anfänger?
-Mein Drucker will einfach nicht mehr funktionieren seit dem Neustart gestern.
 Die Bildschirmhelligkeit passt sich nie automatisch an die Umgebungshelligkeit richtig gut an.
 Ich würde gerne wissen ob sich die Grafikkarte jetzt noch lohnt zu kaufen.
 Mein Router hängt seit dem Update komplett durch.
@@ -4986,7 +4872,6 @@ Das Online-Spiel laggt total, ich weiß nicht woran es liegt.
 Ich überlege mir ein Raspberry Pi für den Medienserver zu kaufen.
 Mein Handy ist leider aus einer hohen Höhe gefallen und kaputt.
 Kann man auf dem neuen iPad auch echte Office-Dateien bearbeiten?
-Ich find die neue Touch-ID viel schneller als das Gesichtsscannen.
 Bitte jemandem helft mir meinen alten Laptop richtig zu entsorgen.
 Die Bildschirmauflösung von 4K ist auf diesem kleinen Monitor sinnfrei.
 Ich habe versehentlich ein wichtiges Dokument ohne Speichern geschlossen.
@@ -5005,7 +4890,6 @@ Kann jemand mal kurz mein Wifi Passwort nachschauen?
 Das Update hat meinen Bildschirm komplett zumüllen lassen.
 Mein Smartwatch Akkus hält doch nie über einen Tag.
 Soll ich mir besser eine SSD oder HDD kaufen?
-Der Drucker meldet immer Toner aus obwohl noch was drin ist.
 Ich liebe es, wie schnell meine neue Tastatur antwortet.
 Hast du schonmal mit Voice Typing auf dem Handy probiert?
 Mein Router braucht wieder einen Neustart wie jeden Tag.
@@ -5028,7 +4912,6 @@ Brauche einen Tipp für eine günstige Tastatur mit Backlight.
 Mein Router muss ich wohl wieder neu starten, nervig.
 Hast du schon gehört, dass die Cloud-Speicher teurer werden?
 Ich versuche verzweifelt, meine alten Fotos zu sichern.
-Der Drucker will einfach nicht mehr mit meinem Laptop sprechen.
 Welches Smartphone ist eigentlich am besten für das Fotografieren?
 Mein Monitor macht seit gestern komische Farben.
 Ich finde diese neuen Datenschutzrichtlinien total undurchsichtig.
@@ -5047,9 +4930,7 @@ Ich mag die neuen emojis nicht, die sehen seltsam aus.
 Wie kann ich am besten vor Phishing-E-Mails schützen?
 Mein WLAN ist heute Morgen wieder komplett abgeschmiert.
 Hast du schonmal die neue Version von Photoshop getestet?
-Ich find es krass wie schnell KI Texte generiert.
 Der Laptop wird immer heißer wenn ich viele Tabs offen hab.
-Kann mir jemand einen günstigen Monitor für 1080p empfehlen?
 Mein Handy Speicher ist wieder voll, typisch halt.
 Die Updates bei Windows kommen wirklich zur ungünstigsten Zeit.
 Ich hab versucht Linux zu installieren aber es hat nicht geklappt.
@@ -5060,9 +4941,7 @@ Die neue Funktastatur ist echt komfortabel für die Hände.
 Mein Internetstick hat wieder mal abgeschaltet, total nervig.
 Hast du einen Tipp wie ich Fotos auf der Cloud speichere?
 Das Display vom neuen Laptop ist einfach zu dunkel.
-Ich versteh nicht warum mein Drucker sich nicht verbinden will.
 Die Grafikeinstellungen im Spiel sind viel zu kompliziert erklärt.
-Mein Router leuchtet rot, was ist da nur falsch gelaufen?
 Kann man eigentlich auf dem iPad richtig Programmieren lernen?
 Der neue Browser ist mir irgendwie zu langsam vorgekommen.
 Ich hab versehentlich die falsche Datei überschrieben, oh mann.
@@ -5085,7 +4964,6 @@ Mein alter Laptop kann das nicht mehr schaffen.
 Ich hasse es wenn die Software zwangsupdateet wird.
 Hörst du auch Musik über Spotify oder Apple Music?
 Das Internet bei mir ist heute richtig lahm.
-Ich brauche einen neuen USB-C-Adapter dringend.
 Glaubst du wirklich an diese ganzen NFTs?
 Mein Drucker druckt nur noch in Schwarzweiß.
 Wie installiere ich dieses Programm auf Mac eigentlich?
@@ -5106,7 +4984,6 @@ Mein Mauspad ist völlig kaputt, brauche ein neues.
 Das neue iOS-Update dauert ewig auf meinem Gerät.
 Kannst du mir helfen mein Passwort zurückzusetzen?
 Ich finde Virtual Reality noch immer zu teuer.
-Der Drucker will einfach nicht scannen heute.
 Welche Tastatur ist am besten für Zocker geeignet?
 Mein Router muss ich wieder einmal neu starten.
 Die Software ist auf meiner alten Mac doch langsam.
@@ -5170,7 +5047,6 @@ Mach dir keine Sorgen das Backup hat automatisch geklappt eigentlich.
 Welche Streaming Plattform hast du denn dafür im Angebot gerade?
 Mein Laptop lädt super langsam seit der Woche ehrlich gesagt.
 Kannst du gucken ob bei dir auch alles funktioniert da?
-Ich find die neuen Icons einfach viel zu klein zum Antippen.
 Hast du schonmal gehört von diesem neuen Programm zum Organisieren?
 Das Kabel ist bestimmt abgebrochen deshalb geht nix mehr heute.
 Mein WLAN ist heute Morgen einfach weggebrochen.
@@ -5181,7 +5057,6 @@ Hast du schon mal mit der KI gechattet?
 Mein Router hängt sich alle zwei Tage auf.
 Wir brauchen endlich ein neues Kabelmodem daheim.
 Das Streaming bei Netflix ruckelt seitdem nur noch.
-Ich find den Fingerabdruckscanner an meinem PC super praktisch.
 Warum kostet Software für Macs oft mehr Geld?
 Meine SSD hat gerade ihren Geist aufgegeben.
 Kannst du mir helfen, mein Backup zu erstellen?
@@ -5235,11 +5110,9 @@ Warum funktioniert die Webcam auf meinem Notebook immer so schlecht?
 Hast du eine Empfehlung für ein gutes Antivirenprogramm das nicht nervt?
 Das Internet bei mir zu Hause ist heute wirklich lahm.
 Ich probiere gerade heraus wie gut die Spracherkennung eigentlich funktioniert.
-Meine Tastenklaviatur klebt schon wieder was soll ich da machen?
 Welchen Monitor würdest du für Grafikdesign Arbeit empfehlen?
 Ich kann meine Dateien auf dem NAS einfach nicht finden.
 Die Ladezeit der Webseite ist heute absolut inakzeptabel lang.
-Hast du Erfahrung mit Linux Mint weil ich wechseln will?
 Mein Smartwatch Track war gestern völlig falsch beim Lauf.
 Kannst du mir helfen mein Backup wiederherzustellen bitte?
 Das neue Betriebssystem macht mein altes Tablet irgendwie noch langsamer.
@@ -5310,7 +5183,6 @@ Dieses Update hat mein Android-Handy komplett lahmgelegt wirklich nervig.
 Ich versuche schon seit einer Stunde mein Passwort zurückzusetzen.
 Gibt es gute Alternativen zu Windows die nicht so ressourcenhungrig sind?
 Mein Monitor hat plötzlich einen Streifen in der Mitte bekommen.
-Künstliche Intelligenz wird uns wahrscheinlich bald alle取代en oder überhören.
 Ich habe vor drei Tagen einen neuen Gaming PC zusammengebaut.
 Warum dauert das Herunterladen dieses Films immer so ewig lange?
 Meine Smartwatch zeigt falsche Schritte an seit dem letzten Update.
@@ -5392,7 +5264,6 @@ Die neue Update von macOS nervt mich unglaublich stark.
 Ich brauche dringend mehr Speicherplatz auf meiner Festplatte.
 Hast du einen Link für diese kostenlose Software gefunden?
 Das Virtual Reality Headset ist leider viel zu schwer.
-Mein Drucker will einfach keine Tinte mehr akzeptieren.
 Wie sichere ich meine Passwörter am besten im Browser ab?
 Das neue Smartphone Display ist richtig scharf und hell.
 Ich muss unbedingt mal mein Smart Home System aufbauen.
@@ -5412,14 +5283,12 @@ Kann ich das mit nem Stick sichern?
 Die Tastatur ist total verschmutzt hier.
 Hast du mein Passwort gespeichert oder so?
 Der Drucker meldet wieder zu wenig Tinte.
-Ich find diese Touchpad Geste irgendwie nervig.
 Soll ich mal den Cache leeren probieren?
 Meine Kamera macht seitdem nur noch trübe Bilder.
 Das Internet ist heute echt lahm unterwegs.
 Welchen Router nimmst du eigentlich privat daheim?
 Ich kapier die Benutzeroberfläche immer noch nicht so richtig.
 Gibt es dazu eine gute App zum Herunterladen?
-Der Bildschirm bleibt total schwarz, egal was ich mache.
 Kann man das Teil einfach so upgraden oder so?
 Die Ladekabel sind bei mir total verknotet im Bag.
 Hörst du auch dieses nervige Lüftergeräusch beim Starten?
@@ -5430,11 +5299,9 @@ Die neue KI kann echt gut Bilder generieren.
 Ich hasse es immer wenn sich Windows automatisch updatet.
 Hast du schon gehört vom neuen Mac Book Air?
 Meine Maus hat plötzlich keine Funktion mehr rechts.
-Steam Sale ist wieder da, was soll ich kaufen?
 Das Passwort vergessen ist echt nervig jeden Tag.
 Könntest du mir mal schnell mein WLAN fixen bitte?
 Diese App frisst den ganzen Akku meines Handys.
-Ich find die neue Tastatur von Apple gar nicht gut.
 Mein Router braucht wieder einen Neustart heute morgen.
 Welches Linux Distribution würdest du für Anfänger empfehlen?
 Das Bild auf meinem Monitor ist immer noch flackert.
@@ -5708,7 +5575,6 @@ Wofür brauchst du eigentlich einen so teuren Laptop?
 Mein Handy wird beim Scrollen immer richtig heiß.
 Das WLAN signal ist im Keller einfach viel zu schlecht.
 Hast du schon mal von dieser neuen KI gehört?
-Ich hasse es wenn sich Windows automatisch updaten will.
 Die Akkulaufzeit meines Notebooks geht mir total auf die Nerven.
 Mein Router muss ich echt jeden zweiten Tag neu starten.
 Welches Smartwatch Armband findest du am bequemsten?
@@ -5755,7 +5621,6 @@ Kann mir jemand einen guten Bildschirm für Office empfehlen?
 Die Akkulaufzeit beim neuen MacBook ist ja wahnsinnig.
 Ich hasse es, wenn das Internet zu Hause ausfällt.
 Hast du schon mal mit Docker gearbeitet oder nur gelesen?
-Mein Drucker ist wieder offline und will nicht connecten.
 Künstliche Intelligenz wird uns wahrscheinlich den Job nehmen.
 Warum dauert der Windows-Update-Prozess immer so lang?
 Ich würde gern auf Linux umsteigen, aber die Angst davor.
@@ -5839,7 +5704,6 @@ Der Internetanschluss bei uns ist leider total langsam.
 Ich hab versehentlich den falschen Ordner gelöscht oh je.
 Welches Browserplugin nutzt du zur Werblockung?
 Mein Laptop macht beim Laden seltsame Geräusche.
-KI wird unsere Jobs nicht取代n glaub ich nicht.
 Hab gerade ein neues Tastaturset für die Tastatur bestellt.
 Die Benutzeroberfläche vom neuen iOS ist mir zu voll.
 Ich kann das Passwort von meinem alten Account nicht zurücksetzen.
@@ -5864,7 +5728,6 @@ Mein Tablet hat den Akku doch glatt aufgegeben.
 Die Ladezeit meiner Webseite ist zum Kotzen langsam.
 Welches Linux Distribution empfehlst du für Anfänger eigentlich?
 Ich finde Smart Home Geräte total unnötig kompliziert.
-Der Drucker will einfach nicht mit dem PC kommunizieren.
 Mein Internet ist heute wieder mal lahm wie nix.
 Hast du die neue Firmware schon auf das Auto geflasht?
 Ich verstehe echt nicht, warum Cloud Speicher so teuer ist.
@@ -5889,7 +5752,6 @@ Klingt interessant aber ich bleib bei meiner Festplatte.
 Mein PC friert während des Spiels total ein.
 Habt ihr Erfahrungen mit dem neuen Betriebssystem?
 Das WLAN fällt in meinem Zimmer immer raus.
-Ich find diese Touchbars am MacBook doof.
 Kannste mal kurz meinen Bildschirm sehen lassen?
 Die Softwareupdate hat mein Telefon ganz kaputt gemacht.
 Ich such ein günstiges Headset für Discord.
@@ -5904,7 +5766,6 @@ Das neue Smartphone Design sieht echt schick aus.
 Mein Internet ist grade komplett weg gelaufen.
 Kannst du mir kurz helfen mein WLAN neu einzurichten?
 Die Batterie meines Handys geht immer so schnell leer.
-Ich hasse es wenn der Drucker einfach keinen Tinta mehr will.
 Hast du den neuen Trailer für die Spiel schon gesehen?
 Mein Router braucht dringend ein Firmware Update glaube ich.
 Warum dauert das Herunterladen dieser Datei ewig lang?
@@ -6036,7 +5897,6 @@ Warum funktioniert mein Bluetooth-Maus nicht mehr richtig?
 Die neue Grafikkarte ist leider noch nicht auf Lager.
 Hast du deine Daten schon im Cloud-Speicher gesichert?
 Mein Smartphone wird beim Laden echt heiß und schnell.
-Ich find die neuen KI-Bilder von Midjourney total krass.
 Kannst du mir helfen mein WLAN neu einzurichten bitte?
 Der Bildschirm meines Laptops hat gerade einen Streifen bekommen.
 Ich lade jetzt mal das große Update für iOS herunter.
@@ -6066,7 +5926,6 @@ Brauche ein günstiges Tablet nur fürs Lesen.
 Mein Laptop wird beim Zocken immer viel zu heiß.
 Hast du einen Tipp gegen störende Pop-up-Werbung?
 Die Akkulaufzeit ist nach dem Update echt mies.
-Ich hab keine Lust mehr auf Windows 11.
 Kann ich meine Daten einfach auf ein neues Handy kopieren?
 Das Passwort kam mir wieder mal total komisch vor.
 Meine Smartwatch zeigt falsche Schritte an heute.
@@ -6095,7 +5954,6 @@ Gaming auf dem Smartphone nervt mich irgendwie doch mehr als es Spaß macht.
 Die neue iOS Version friert mein Telefon komplett ein.
 Ich brauche dringend eine externe Festplatte für meine Fotos.
 Kann man mit Python auch Webseiten programmieren oder geht das nur mit Java?
-Mein Drucker will nicht ohne Grund Tinte verbrauchen warum eigentlich?
 Die Grafik in der neuen Spielkonsole sieht echt krass aus.
 Ich lerne gerade wie man sich vor Phishing schützt.
 Das Kabel ist wieder abgeknickt typisch bei mir halt.
@@ -6114,7 +5972,6 @@ Das Update hat meinen Bildschirm schwarz gemacht total blöd.
 Gaming auf dem Handy ist gar nicht soo schlecht.
 Wieso läuft dieses Programm so langsam auf meinem PC?
 Ich hab vergessen mein Passwort für das WLAN.
-Der Drucker will einfach keine Tinte aufnehmen heute.
 Streamen in 4k frisst extrem viel Internetbandbreite.
 Meine Maus reagiert verzögert was ist kaputt?
 Smart Home Geräte sind praktisch aber auch nervig manchmal.
@@ -6126,15 +5983,12 @@ Mein Streamer hat heute total gelagert das war ärgerlich.
 Ich mag die neue Apple Silicon Technik sehr gerne.
 Datenschutz bei kostenlosen Apps ist mir immer suspekt.
 WLAN 6 macht doch wirklich einen spürbaren Unterschied oder?
-Mein Code hat einen Fehler ich find ihn nicht.
 Mein WLAN flackert seit gestern immer mal wieder.
 Kannst du mir helfen mein Passwort zurückzusetzen?
-Ich glaube ich hab wieder was falsch geklickt.
 Die neue Firmware bringt angeblich mehr Akku.
 Warum lädt mein Handy so langsam auf?
 Hast du auch schon den neuesten Patch installiert?
 Meine Festplatte ist komplett voll jetzt.
-Ich find diese Touchbars echt unpraktisch ehrlich gesagt.
 Wie sichere ich meine Daten vor Diebstahl am besten ab?
 Das Internet bei uns zu Hause ist richtig langsam heute.
 Ich probier mal Linux auf ner Virtual Machine aus.
@@ -6165,7 +6019,6 @@ Das virtuelle Meeting war heute technisch ein totaler Reinfall.
 Könntest du mal schauen warum meine Maus nicht funktioniert?
 Der neue Monitor sieht wirklich scharf und farbenfroh aus.
 Ich finde diese neuen Icons auf dem Handy echt unschön.
-Mein Drucker will seit Tagen partout keine Tinte mehr nehmen.
 Hast du schon den letzten Tech-Trend in sozialen Medien gesehen?
 Die Ladekabel bei mir sind immer irgendwo versteckt oder kaputt.
 Ich muss endlich mal wieder mein Laptop gründlich ausmisten.
@@ -6191,7 +6044,6 @@ Hat jemand eine Empfehlung für gutes Noise Cancelling Kopfhörer?
 Die neue Windows Version verbraucht irgendwie immer noch zu viel RAM.
 Ich überlege mir gerade ob ich auf Mac wechseln soll.
 Gaming PCs sind einfach zu teuer für mein kleines Budget.
-Meine Tasten haben sich wieder verklebt,典型 typisch meine Technik.
 Kann man WhatsApp Chats wirklich sicher in die Cloud backupen?
 Ich mag die neuen OLED Bildschirme wegen der Farben total.
 Mein Router leuchtet rot, ist das jetzt ein schlechtes Zeichen?
@@ -6208,7 +6060,6 @@ Kann mir jemand erklären warum das Internet so langsam ist?
 Ich hab grade mein Handy auf die neueste Version updated.
 Die Akku hält bei mir nur noch vier Stunden.
 Wisst ihr ob man das Backup auch in der Cloud machen kann?
-Ich find diese neuen KI Bilder immer noch krass unheimlich.
 Mein PC fliegt hoch wenn ich zu viele Tabs offen hab.
 Welches Tastatur Layout ist denn am besten für Programmieren?
 Ich versuche verzweifelt meinen Drucker wieder zum Laufen zu bringen.
@@ -6268,7 +6119,6 @@ Welche Streaming Plattform schaust du denn gerade?
 Die Akkulaufzeit vom Laptop wird ja immer schlechter.
 Ich kann meine alte Festplatte nicht mehr mounten.
 Passt die Auflösung auf dem 4K Monitor gut?
-Mein Drucker will einfach nicht scannen heute.
 Hast du schonmal Linux Mint installiert gehabt?
 Der Server war grad mal wieder down.
 Ich muss dringend mein Passwörter ändern hier.
@@ -6280,7 +6130,6 @@ Wie installiere ich Treiber ohne dass alles abstürzt.
 Ich traue mich nicht mein Handy zu resetten.
 Mein Router hängt sich nachts immer wieder auf.
 Kann jemand gutem WLAN Mesh System empfehlen?
-Ich hasse es wenn mein Handy nicht mehr laden will.
 Die neue Windows-Update ist total buggy geworden.
 Mein PC bootet gar nicht mehr seit gestern Abend.
 Hast du auch diesen nervigen Pop-up schon gesehen?
@@ -6406,7 +6255,6 @@ Ich such ein gutes Backup Tool für Fotos.
 Die Akkulaufzeit vom Tablet könnte deutlich besser sein.
 Hast du schonmal KI generierte Musik gehört?
 Mein Bildschirm hat einen toten Pixel jetzt.
-Mein Router will heute Morgen einfach nicht verbinden.
 Kann mir jemand ein gutes Linux Mint Tutorial empfehlen?
 Ich hab Angst dass meine Festplatte gleich komplett kaputtgeht.
 Das neue iPhone 15 ist mir doch zu teuer.
@@ -6415,7 +6263,6 @@ Ich lern grad Java für die Schule und find es schwer.
 Hast du schon mal mit dieser neuen KI App gearbeitet?
 Mein Smartphone Akku hält heute nur noch zwei Stunden.
 Ich versteh nicht warum Windows Updates immer mitten in der Nacht sind.
-Der Drucker will sein Toner wieder gar nicht erkennen lassen.
 Gibt es eine kostenlose Alternative zu Photoshop für Mac User?
 Ich frage mich ob man bald noch eigene Daten braucht.
 Mein WLAN Signal ist im Keller absolut miserabel geworden.
@@ -6454,7 +6301,6 @@ Mein Router hat sich selbst neu gestartet und alles ist weg.
 Brauche dringend einen Tipp für gute Noise Cancelling Kopfhörer.
 Die Benutzeroberfläche der App ist einfach nicht intuitiv genug.
 Kann ich meinen alten Laptop noch für Retro-Gaming verwenden?
-Der Drucker will partout nicht mehr mit dem Mac kommunizieren.
 Ich finde, KI ersetzt nicht den menschlichen Kundensupport komplett.
 Mein Smartwatch-Akku hält nicht mehr mal einen ganzen Tag aus.
 Mein Router hängt sich seit Tagen immer wieder auf.
@@ -6537,10 +6383,8 @@ Mein Handy friert immer ein wenn ich TikTok öffne.
 Hast du zufällig ein freies WLAN-Passwort für mich?
 Ich hasse es wenn das Update mitten im Meeting startet.
 Kann mir jemand erklären warum mein Router wieder abstürzt?
-Die neue KI ist echt krass was die alles kann.
 Mein Laptop wird so heiß dass ich ihn kaum anfassen kann.
 Hast du schon mal diesen neuen Code Editor ausprobiert?
-Ich find es nervig dass alle Apps mein Standort wollen.
 Kannst du mir kurz helfen mein Drucker neu einzurichten?
 Das Internet ist heute wieder lahm wie immer.
 Ich hab gerade meine Festplatte komplett gelöscht oh mann.
@@ -6548,7 +6392,6 @@ Welches Smartphone unter 300 Euro kannst du empfehlen?
 Mein Bildschirm hat diesen blöden grünen Pixel seit Wochen.
 Hast du dein Passwort schon mal geändert oder ignorierst du das?
 Die Grafikeinstellungen in diesem Spiel sind zu kompliziert für mich.
-Ich verstehe nicht warum meine Smartwatch keine Benachrichtigungen pushen will.
 Soll ich besser Windows 11 oder bleiben bei 10?
 Mein Tablet ist leider gebrochen nach dem Sturz auf den Boden.
 Kann mir jemand eine gute Firewall empfehlen die nicht nervt?
@@ -6570,7 +6413,6 @@ Kann ich meinen alten Computer noch als NAS verwenden?
 Meine Maus funktioniert nicht mehr richtig seit dem Update.
 Ich finde Apple Silicon echt beeindruckend für so einen kleinen Chip.
 Wie kann ich meine Passwörter sicherer speichern ohne sie zu vergessen?
-Der Stream hat wieder einmal nur in 720p geklappt.
 Ich suche eine gute Alternative zu Photoshop, die günstiger ist.
 Mein Laptop wird beim Spielen einfach viel zu heiß.
 Habt ihr schon mal mit Voice Typing gearbeitet oder nur normal getippt?
@@ -6580,7 +6422,6 @@ Mein Monitor hat ein totes Pixel direkt in der Mitte.
 Kann man eigentlich iCloud Daten komplett löschen ohne den Account zu verlieren?
 Der Bluetooth Kopfhörer verbindet sich ständig nicht mit dem Laptop.
 Ich habe versehentlich wichtige Dateien gelöscht, gibt es Hoffnung?
-Steam Sale ist endlich da, was soll ich mir kaufen?
 Mein Internet flackert wieder, der Techniker kommt aber erst morgen.
 Mein Router streikt schon wieder seit dem letzten Update.
 Kann mir jemand erklären wie man diese verdammte Firewall ausschaltet?
@@ -6616,7 +6457,6 @@ Meine Tastatur ist endlich kaputt geworden.
 Ich überlege mir eine SSD für meinen alten PC zu kaufen.
 Hast du schonmal mit dem neuen KI Tool experimentiert?
 Das Internet zu Hause ist heute wieder extrem langsam.
-Ich find diese dunklen Modi bei Apps super entspannend.
 Mein Handy speichert einfach nicht mehr genug Daten ab.
 Kannst du mal schauen warum mein Drucker nicht connectet?
 Die Akkulaufzeit von meinem Notebook wird immer schlechter.
@@ -6644,7 +6484,6 @@ Hast du schon mal von dem neuen VR Headset gehört?
 Ich vermiss die Kopfhöreranschluss bei den neuen iPhones.
 Warum braucht man für Office so viel Speicherplatz?
 Mein Drucker ist wieder offline, typisch am Montag.
-Ich lerne gerade JavaScript und find das ganz cool.
 Die Bildschirmauflösung auf meinem alten Monitor reicht nicht mehr.
 Kannst du mir mal deine Festplatte zum Daten speichern leihen?
 Ich bin skeptisch gegenüber all diesen Tracking Skripten.
@@ -6687,7 +6526,6 @@ Kann mir jemand nen günstigen Router empfehlen?
 Die Akkulaufzeit von meinem Handy wird immer schlechter.
 Ich hasse es, wenn mein Laptop so laut brummt.
 Habt ihr schonmal mit dem neuen iOS rumgespielt?
-Mein Passwort wurde gehackt, was mach ich jetzt?
 Das Internet bei mir zuhause ist echt langsam heute.
 Ich überleg mir grad nen Desktop zusammenzubauen.
 KI kann zwar Bilder machen, aber die Augen sind oft komisch.
@@ -6776,7 +6614,6 @@ Der Bildschirm hat einen toten Pixel mitten drauf.
 Hast du schon das neue iPad Pro gesehen?
 Mein Internet ist heute morgen komplett ausgefallen.
 Wir müssen den Computer neu starten sagt er immer.
-Ich find diese neue Font in Windows doof.
 Kann mir jemand erklären was genau ein Proxy ist?
 Meine Tastatur klebt irgendwie an manchen Stellen fest.
 Ich lade gerade die Treiber für mein Mikrofon runter.
@@ -6793,7 +6630,6 @@ Das Update hat mein ganzes System lahm gelegt.
 Ich find die neue Benutzeroberfläche viel zu unübersichtlich.
 Warum dauert das Laden der Seite so lange?
 Ich muss endlich meine alten Dateien archivieren.
-Der Drucker will einfach nicht mit dem PC kommunizieren.
 Hast du schonmal AI für deine Arbeitsblätter genutzt?
 Mein Laptop wird immer so heiß beim Rendern.
 Ich kaufe nie mehr ein originales Apple-Ladekabel.
@@ -6843,7 +6679,6 @@ Mein Internet zu Hause ist echt schlecht geworden.
 Wie sichere ich meine Fotos richtig in der Cloud?
 Der Akku meines Tablets hält nicht mehr lange.
 Brauche dringend eine Empfehlung für einen günstigen Monitor.
-Ich find diese neue Browser Erweiterung super praktisch.
 Warum dauert das Laden dieser Website so lange?
 Mein Computer macht komische Geräusche beim Starten.
 Hast du schon die neuesten Treiber installiert?
@@ -6889,7 +6724,6 @@ Kann mir jemand ein günstiges Mikrofon für Podcasts empfehlen?
 Ich hasse es wenn mein Handy vor der Hälfte des Akkus abstürzt.
 Die neue Windows Version frisst echt viel Speicherplatz weg.
 Hat schon jemand die Beta vom neuen Browser getestet?
-Mein Drucker will einfach nicht mit dem WLAN connecten.
 KI Bilder sind jetzt manchmal gar nicht mehr von echten Fotos zu unterscheiden.
 Ich brauche dringend einen Tipp für eine gute VPN App.
 Die Ladekabel bei Apple werden mir langsam wirklich zu teuer.
@@ -6938,7 +6772,6 @@ Die KI schreibt echt gute Texte wenn man sie gut fragt.
 Mein Mauszeiger springt manchmal wild rum ohne Grund.
 Mein Handy lädt total langsam lately.
 Hast du schon mal die neue App gesehen?
-Der Drucker will einfach nicht funktionieren heute.
 Ich hab mein Passwort wieder vergessen leider.
 Die Internetverbindung ist bei uns ganz schwach.
 Welchen Laptop soll ich mir denn kaufen?
@@ -6994,7 +6827,6 @@ Ich hab mir endlich ein Smart Home eingerichtet.
 Kannst du mir den Router mal neu starten?
 Das neue Update hat meine Festplatte vollgemacht.
 Streaming in 4K frisst einfach zu viel Daten.
-Mein Drucker will gar nicht mehr scannen heute.
 Soll ich jetzt auf macOS oder Ubuntu umsteigen?
 Die KI generiert echt beeindruckende Bilder mittlerweile.
 Meine Tastatur reagiert manchmal nur verzögert.
@@ -7011,7 +6843,6 @@ Der Bildschirm meines Tablets hat Risse bekommen.
 Ich versuche gerade, meine Daten auf die Cloud zu sichern.
 Mein Computer bootet nur noch in den sicher Modus.
 Die App stürzt jedes Mal beim Öffnen ab.
-Mein Router will einfach nicht mehr richtig funktionieren.
 Kann mir jemand ein gutes Programm zur Bildbearbeitung empfehlen?
 Die Batterie meines Handys hält heute gar nicht mehr so lange.
 Ich finde es super, dass man jetzt alles per Gesichtsscan entsperren kann.
@@ -7046,7 +6877,6 @@ KI kann mir bei der Arbeit echt viel abnehmen.
 Ich finde diese neuen MacBooks sind zu teuer.
 Warum funktioniert mein WLAN im Keller nie richtig?
 Ich lerne gerade, wie man Websites mit HTML bastelt.
-Der Drucker will einfach nicht scannen, nervig.
 Hörst du auch die Gerüchte um den neuen Chip?
 Ich brauche einen Tipp für eine günstige Grafikkarte.
 Mein Computer friert immer bei großen Dateien ein.
@@ -7140,7 +6970,6 @@ Ich vermisste meine alten Computer-Taschenlampen in der Schule.
 Mein WLAN fällt immer aus wenn ich streamen will.
 Hat jemand nen Tipp für eine günstige SSD?
 Die neue Softwareupdate hat mein Handy nur langsamer gemacht.
-Ich finds krass was KI heute schon alles kann.
 Warum muss man sich da überhaupt noch anmelden?
 Mein Monitor hat nen toten Pixel und nervt mega.
 Soll ich wirklich auf Windows 11 upgraden?
@@ -7202,7 +7031,6 @@ Die Akkulaufzeit ist bei dem Laptop schrecklich.
 Ich habe versehentlich alle meine Daten gelöscht.
 Gib mir einen Tipp für gute Kopfhörer.
 Das Internet zu Hause ist echt lahm heute.
-Ich vermiss die实体 Tasten auf meinem Tablet.
 Wie kann ich meine E-Mails besser organisieren?
 Der Bildschirm meines Smartphones ist eingekrachen leider.
 Brauche Hilfe bei der WLAN-Einrichtung daheim.
@@ -7253,9 +7081,7 @@ Könntest du mir deine Handykiste kurz ausleihen?
 Die Batterie an meinem Laptop hält kaum noch zwei Stunden.
 Ich finde diese Touch-IDs super bequem und sicher.
 Mein Router braucht wohl mal einen Neustart heute.
-Was kostet so ein guter Gaming-Stuhl eigentlich?
 Ich vermiss die Kopfhörerbuchse am neuen Smartphone total.
-Mein Drucker will einfach nicht mehr scannen warum?
 Hast du schonmal mit einem Raspberry Pi experimentiert?
 Die Ladekabel liegen immer irgendwie im Wege bei mir.
 Ich brauch dringend eine Empfehlung für einen neuen Stift.
@@ -7298,7 +7124,6 @@ WLAN funktioniert im Keller einfach gar nicht zuverlässig.
 Soll ich mir Windows oder macOS kaufen, keine Ahnung.
 Das Passwort ist zu kompliziert zum Auswendiglernen.
 Streamen in 4K frisst meine ganze Bandbreite auf.
-Mein Drucker will wieder nicht mehr mit dem PC reden.
 Ich finde diese neuen Browser-Tabs nervig und überflüssig.
 Gibt es eine App gegen Benachrichtigungen nachts?
 Meine Tastatur ist schon ziemlich abgenutzt seitdem ich game.
@@ -7331,7 +7156,6 @@ Ich schau mich gerade nach einer günstigen Grafikkarte für die Ruckelprobleme 
 Kannst du mir helfen meine Fotos in die Cloud hochzuladen?
 Das Interface der neuen App ist irgendwie zu unübersichtlich geworden.
 Mein Tablet braucht ewig bis es endlich hochgebootet hat heute morgen.
-Ich bin skeptisch ob diese kostenlose Antiviren-Software wirklich was taugt.
 Hat jemand Erfahrung mit diesem neuen Linux-Distribution für Einsteiger?
 Die Tastatur meiner Laptop ist seit Wochen schon wieder ganz kaputt gegangen.
 Ich versuche gerade herauszufinden warum mein Internet so lahm ist.
@@ -7348,7 +7172,6 @@ Ich brauche eine externe Festplatte für Backups.
 Dieses Spiel läuft auf meinem PC nicht flüssig.
 Warum dauert das Herunterladen so ewig lange?
 Ich vergesse immer mein Passwort für das Konto.
-Die Tastatur klebt irgendwie von gestern her.
 Kann ich alte Apps einfach löschen ohne Probleme?
 Mein Laptop wird bei Videos echt heiß schnell.
 Ich suche einen günstigen Monitor fürs Büro.
@@ -7431,9 +7254,7 @@ Das Passwort hat sich wieder geändert, ohne dass ich was getan habe.
 Welchen Virenschutz benutzt ihr eigentlich alle privat?
 Meine Maus klickt von selbst auf dem Tisch rum.
 Die Akkulaufzeit von meinem Tablet wird immer kürzer.
-Ich will unbedingt mein altes iPhone weiterverwenden.
 Hast du den Bug im Spiel auch schon bemerkt?
-Der Router leuchtet rot, was bedeutet das genau?
 Kann man wirklich mit der KI Texte schreiben lassen?
 Mein Headset hat kein Signal mehr auf einmal.
 Ich finde diese Benutzeroberfläche absolut unübersichtlich und nervig.
@@ -7484,7 +7305,6 @@ Die Internetverbindung schwankt hier total stark.
 Ich hab meine Daten leider vergessen zu sichern.
 Künstliche Intelligenz wird unser Leben verändern.
 Hast du schon mal Docker im Produktivbetrieb genutzt?
-Mein Drucker will einfach nicht scannen heute.
 Die Grafiksettings sind auf Medium ganz ok.
 Wie bekomme ich die Werbung endlich wieder raus?
 Ich muss unbedingt mein Passwort ändern.
@@ -7562,7 +7382,6 @@ Das neue MacBook ist mir einfach zu teuer aktuell.
 Kann jemand erklären, wie man Daten sicher löscht?
 Ich stream meine alten Konzerte immer über die Cloud.
 Die Ladekabel bei neuen Smartphones werden immer dünner.
-Mein Sohn will unbedingt eine PS5 zum Geburtstag haben.
 Ist es sinnvoll, einen Virenscanner zusätzlich zu verwenden?
 Das neue iOS-Update hat mein Layout komplett verrückt gemacht.
 Ich such nach einer günstigen Alternative zu Adobe Photoshop.
@@ -7581,7 +7400,6 @@ Meine Maus funktioniert seit gestern wieder nicht richtig.
 Hast du den neuen Monitor schon ins Netzwerk eingebunden bekommen?
 Ich finde diese Touchscreens im Auto total gefährlich unterwegs.
 Bitte schick mir nochmal die Downloadlink für das Tool.
-Der Drucker will einfach keinen Papierstau mehr anzeigen lassen.
 Wie installiert man das neue Betriebssystem auf einem Macbook?
 Mein Tablet Akku hält keine drei Stunden mehr durch.
 Das Gaming Keyboard hat super haptische Feedbackmechanismen entwickelt.
@@ -7636,7 +7454,6 @@ Mein Computer macht seltsame Geräusche beim Starten.
 Hast du schon mal mit Docker gearbeitet oder nur gelesen?
 Die Bildschirmschoner bei Windows sind irgendwie immer noch langweilig.
 Kannst du kurz auf meine SSD Daten kopieren?
-Ich vermisste die实体 Tasten bei meinen neuen Kopfhörnern.
 Mein Internet ist grad wieder total lahm geworden.
 Kann mir jemand nen guten Virenscanner empfehlen?
 Ich hab versehentlich die falsche Datei gelöscht.
@@ -7771,19 +7588,16 @@ Warum dauert das Herunterladen von Updates so lange?
 Ich muss unbedingt meine SSD aufräumen, platz fehlt.
 Gibt es eine gute Alternative zu Photoshop für Mac?
 Mein Handy läuft nach dem Update wie der blöde.
-Ich vermiss die实体-Tastatur an meinem alten Laptop.
 Kann ich meinen alten Drucker noch mit Windows 11 nutzen?
 Die Internetverbindung ist heute Abend wieder mal langsam.
 Ich hab mein Passwort vergessen und finde den Reset nicht.
 Welches Betriebssystem ist stabiler für Programmieranfänger?
 Mein Notebook wird beim Spielen viel zu heiß leider.
-Das neue iPadOS sieht wirklich hübsch aus auf Fotos.
 Brauche ich einen neuen Router für meine große Wohnung?
 Kann mir jemand bei der Installation von Linux helfen?
 Ich hasse es wenn mein Computer einfach einfriert so.
 Die Akkulaufzeit meines Tablets wird langsam schlecht wieder.
 Hast du schon die neue Gaming-Console vorbestellt online?
-Mein Smart-TV will sich nicht mehr mit WLAN verbinden.
 Ich such eine gute Antivirensoftware die nicht nervt.
 Kann man Daten von Windows auf Mac einfach migrieren?
 Mein Monitor leuchtet total komisch am Rand.
@@ -7791,12 +7605,10 @@ Hast du schon mal mit dem neuen KI-Tool gearbeitet?
 Ich hasse es wenn mein WLAN mitten im Stream wegbricht.
 Die neue MacBook Version scheint wirklich schneller zu sein.
 Kann mir jemand erklären wie diese Cloud Speicher genau funktionieren?
-Mein Drucker will einfach nicht mehr drucken warum immer er.
 Ich überlege ob ich auf Linux umsteigen soll oder doch bleib.
 Das Smartphone Akku hält bei mir gar nicht mal so lange.
 Welches Gaming Keyboard findest du denn am bequemsten und besten?
 Die Software Update dauert schon ewig bitte beeil dich mal.
-Ich find diese Passwortsicherheitsfragen total nervig und langweilig eigentlich.
 Hast du auch Probleme mit der neuen Browser Version bemerkt?
 Mein PC macht seltsame Geräusche beim Gaming echt befremdlich somehow.
 Soll ich mein altes Tablet jetzt verkaufen oder noch behalten?
@@ -7888,12 +7700,10 @@ Hast du schonmal die neue Apple Intelligence gesehen?
 Ich muss dringend mein RAM in meinem PC aufrüsten.
 Das neue Update hat meine Festplatte vollgemüllt.
 Warum läuft Firefox auf meinem alten Tablet so langsam?
-Ich liebe meine机械键盘 weil das Tippen so klingt.
 Mein Router blinkt rot und das Internet ist weg.
 Kannst du mir empfehlen welche Smartwatch ich nehmen soll?
 Die KI zeichnet wirklich unrealistisch gute Bilder heutzutage.
 Ich hass es wenn mein Mauszecker einfriert mitten im Spiel.
-Soll ich doch lieber zu Android umsteigen was denkst du?
 Mein Monitor hat komische Streifen bekommen seit dem Sturm.
 Wie richte ich den 5G Zugang korrekt ein eigentlich?
 Ich kann meine alten Fotos nicht mehr ohne Cloud finden.
@@ -7907,7 +7717,6 @@ Meine Tastenbelegung stimmt seit dem Update irgendwie nicht mehr.
 Kann man einen Gaming Laptop auch normal zur Schule mitnehmen?
 Die Bildschirmauflösung auf meinem Handy ist einfach zu scharf.
 Ich frag mich ob Smart Homes wirklich sicher vor Hackern sind.
-Mein Drucker will partout keine Tinte aufnehmen obwohl voll.
 Welchen VPN Dienst nutzt du eigentlich für mehr Privatsphäre online?
 Mein Smartphone wird seit dem Update total warm.
 Hast du schonmal die neue KI für Bilder gesehen?
@@ -7936,7 +7745,6 @@ Hast du schonmal mit einem Raspberry Pi gearbeitet?
 Mein WLAN war heute Vormittag total lahm.
 Kann mir jemand eine gute Tastatur empfehlen?
 Die App frisst wirklich zu viel Akku.
-Ich hasse es wenn Windows wieder updaten will.
 Hast du schon mal mit dem neuen Tablet gearbeitet?
 Mein Router braucht dringend einen Neustart.
 KI Tools werden im Büro immer wichtiger.
@@ -7945,7 +7753,6 @@ Ich suche ein günstiges Laptop für die Uni.
 Warum ist mein Internet plötzlich so langsam?
 Die Benutzeroberfläche von Windows 11 finde ich okay.
 Kann ich meine Daten einfach auf den neuen PC migrieren?
-Steam Sale ist los, was soll ich mir holen?
 Mein Smartphone wird beim Laden viel zu warm.
 Ich vermiss die Touch Bar am MacBook leider nicht.
 Der Druckertreiber wollte sich einfach nicht installieren lassen.
@@ -8060,7 +7867,6 @@ Die Streaming-Quality war gestern Abend wirklich mies einfach.
 Mein Laptop Akku hält gar nichts mehr so richtig heute.
 Soll ich vielleicht mal auf Linux umsteigen oder nicht?
 Das Internet zu Hause ist langsam wie die Schnecke echt.
-Mein Router will partout nicht mehr mit dem Internet verbinden.
 Hast du schon mal die neue Apple Vision Pro gesehen?
 Ich hasse es wenn mein Bildschirm schwarz wird.
 Kann mir jemand erklären wie genau KI eigentlich funktioniert?
@@ -8115,7 +7921,6 @@ Kannst du mir helfen mein WLAN neu einzurichten?
 Die Batterielaufzeit bei meinem Handy wird immer schlechter.
 Ich finde diese neue Softwareoberfläche total verwirrend.
 Hat jemand einen Tipp für eine gute Backup-Strategie?
-Mein Drucker will einfach nicht scannen heute Morgen.
 Das Update hat leider meinen ganzen Desktop zerschossen.
 Ich traue mich nicht so richtig mit dem neuen Feature rumzuspielen.
 Gibt es keine einfachere Alternative zu diesem Programm?
@@ -8172,7 +7977,6 @@ Die Grafik bei diesem Spiel sieht einfach fantastisch aus.
 Ich lade gerade das Update herunter und warte jetzt schon ewig.
 Mein MacBook wird immer heißer wenn ich Videos schneide.
 Wofür brauchst du eigentlich so viel Speicherplatz auf dem Rechner?
-Das Passwort war zu kompliziert also habe ich es vergessen.
 Hör doch mal auf mit diesem Spam E-Mail Kram.
 Ich würde gerne Linux testen aber hab keine Lust es zu installieren.
 Die Tastatur auf dem iPad ist irgendwie total ungenau.
@@ -8268,7 +8072,6 @@ Ich find die neue Benutzeroberfläche von Windows 11 einfach unnötig komplex.
 Warum verbraucht mein Laptop so viel Akku wenn ich nur YouTube schaue?
 Das Backup auf der externen Festplatte ist wieder fehlerhaft gelaufen.
 Hast du schonmal mit einer Voice Assistant gesprochen oder immer nur Tastatur?
-Mein Drucker will einfach nicht conectieren obwohl das WLAN stark ist.
 Die KI generierte Bilder sehen zwar gut aus aber die Finger sind oft komisch.
 Ich muss unbedingt mein Handy entsperren da ich das Passwort vergessen habe.
 Welche SSD würdest du für meinen alten PC zum Upgraden kaufen?
@@ -8301,7 +8104,6 @@ Hast du schon mal mit diesem neuen Programm gearbeitet?
 Der Bildschirm ist nachts echt zu hell für die Augen.
 Ich traue mich nicht, das Passwort einfach so zu ändern.
 Mein Tablet wird beim Laden immer wieder heiß, ist das normal?
-Kannst du mir die Datei als PDF schicken statt Word?
 Die Ladeleistung meines Akkus geht langsam runter.
 Ich brauche dringend mehr Speicherplatz auf meinem Cloud-Konto.
 Hat jemand ein Tutorial für diese neue App gesehen?
@@ -8309,7 +8111,6 @@ Mein Laptop brummt wie eine Rakete, wenn ich Stream starte.
 Die Firewall blockiert das Spiel, ich krieg keinen Zugriff.
 Ich vermisste mein altes Handy, dieses neue ist zu groß.
 Warum muss man sich überall erst neu anmelden und bestätigen?
-Der Drucker will einfach nicht scannen, ich geb fast auf.
 Kannst du kurz gucken, ob bei dir auch die Seite hängt?
 Mein Router hängt sich seit gestern wieder ständig auf.
 Hast du das neue iPhone Modell schon gesehen?
@@ -8431,7 +8232,6 @@ Das Smartphone ist nach dem Fall total kaputt gegangen.
 Mein Monitor hat einen defekten Pixel in der Ecke.
 Ich lade gerade die ganze Musikbibliothek in die Cloud.
 Hat jemand eine gute App für Zeitmanagement empfohlen?
-Die Ladegeschwindigkeit des neuen USB Typ C Kabels ist super.
 Ich verstehe nicht warum das Programm so oft abstürzt.
 Kannst du mir zeigen wie man Screenshots macht?
 Mein VPN Verbindung bricht ständig mitten im Stream ab.
@@ -8451,7 +8251,6 @@ Welches Spiel auf Steam würdest du mir als nächstes empfehlen?
 Die neue Grafiktreiber-Aktualisierung hat mein System komplett lahmgelegt.
 Ich nutze die Sprachsteuerung fast nur noch für Musik im Auto.
 Datenschutz bei Social Media ist ein riesiges Thema geworden.
-Mein alter Drucker will einfach nicht mehr richtig scannen.
 Hast du schonmal Cloud-Speicher genutzt oder bist du da skeptisch?
 Die Ladekabel von meinem Handy sind alle kaputtgegangen.
 Ich versuche gerade, mein Homeoffice-Setup ergonomischer zu gestalten.
@@ -8493,7 +8292,6 @@ Welches Smartwatch Modell hast du denn da am Arm?
 Die Tastatur auf dem neuen MacBook finde ich viel besser.
 Hast du schonmal KI zum Bildbearbeiten ausprobiert?
 Mein Router muss wohl gegen ein neueres Modell getauscht werden.
-Ich find die Bedienung der App eigentlich ziemlich unintuitiv.
 Kann ich mein altes Handy noch als Kamera verwenden?
 Die Ladeleistung meiner Powerbank ist echt dürftig geworden.
 Hörst du auch das seltsame Piepen aus dem PC-Tower?
@@ -8504,7 +8302,6 @@ Ich versuche gerade herauszufinden wie ich die Firewall richtig einstelle.
 Das Laden der Seite dauert heute echt ewig lang.
 Hast du eine Empfehlung für günstige und gute Kopfhörer?
 Mein Smartphone wird beim Spielen extrem heiß was mich stört.
-Ich find die neuen Sicherheitsupdates von Microsoft etwas nervig.
 Kannst du mir bei der Einrichtung meines Smart Homes helfen?
 Die Akkulaufzeit meiner Laptop-Batterie geht langsam zu Ende.
 Ich habe versehentlich wichtige Dateien auf dem Desktop gelöscht.
@@ -8520,7 +8317,6 @@ Hast du schon mal mit einer Sprachassistentin gearbeitet?
 Der Bildschirm meines Laptops ist leider eingekracht.
 Ich finde Smart Home Geräte total praktisch.
 Wie viel RAM brauche ich für Videobearbeitung?
-Mein Passwort wurde gehackt, was kann ich tun?
 Die Internetgeschwindigkeit bei mir zu Hause sucks.
 Ich würde gerne auf Linux umsteigen.
 Welchen VPN-Dienst kannst du mir empfehlen?
@@ -8570,7 +8366,6 @@ Warum crasht mein Handy immer beim Videocall?
 Das Internet hier zu Hause ist echt lausig.
 Hast du schon mal mit Stimmsteuerung gearbeitet?
 Mein Laptop wird so heiß dass er abgeht.
-Ich will unbedingt eine SSD eingebaut bekommen.
 Das Passwort vergessen nervt mich tierisch heute.
 Könntest du mir helfen mein Wi-Fi zu reparieren?
 Die KI antwortet manchmal echt seltsam und komisch.
@@ -8603,7 +8398,6 @@ Das neue iOS bringt endlich die lange geforderte Featureliste mit.
 Vergiss nicht dein Passwort für das Konto morgen zu ändern bitte.
 Mein Drucker hat wieder verweigert obwohl Tinte drin sein müsste.
 Wir brauchen dringend einen neuen Router für unsere große Wohnung.
-Gaming auf dem Handy macht mittlerweile echt was her grafisch.
 Ich verstehe den Sinn von virtuellen Assistenten immer noch nicht.
 Die Ladegeschwindigkeit beim kabellosen Laden ist mir einfach zu langsam.
 Meine Smart Home Geräte synchronisieren sich manchmal seltsam untereinander.
@@ -8616,7 +8410,6 @@ Mein WLAN bricht seit gestern ständig ab.
 Kannst du mir helfen mein Handy wieder einzurichten?
 Ich hasse es wenn Updates während der Arbeit kommen.
 Die Akkulaufzeit von meinem Tablet ist echt mies geworden.
-Hast du die neue Grafikkarte schon in den Warenkorb gelegt?
 Mein Router steht einfach im Flur rum und flimmert blau.
 Ich würde lieber eine Festplatte als SSD kaufen wollen.
 Der Drucker findet meinen Rechner im Netzwerk wieder nicht.
@@ -8662,7 +8455,6 @@ Ich warte schon ewig auf den Datenupdate vom Server.
 Welches VPN nutzt du eigentlich für mehr Sicherheit?
 Der Bildschirm des Tablets hat einen toten Pixel.
 Soll ich meine alten Dateien in die Cloud hochladen?
-Mein Router fliegt schon wieder raus, wenn ich streamen will.
 Kann mir jemand einen günstigen PC zum Spielen empfehlen?
 Ich hasse es so sehr, wenn Windows automatisch neu startet.
 Habt ihr auch Probleme mit der neuen Office-Version?
@@ -8690,7 +8482,6 @@ Der Support war leider völlig unnütz bei meinem Problem.
 Mein Router braucht mal wieder ein Neustart nachts um drei.
 Die neue KI schreibt irgendwie viel zu roboterhaft für mich.
 Kannst du mir bitte helfen mein Handy mit dem WLAN zu verbinden.
-Ich find die Tastatur auf dem Surface Pro echt unbequem zum Tippen.
 Warum ist meine Internetverbindung am Abend immer so verdammt langsam.
 Das Update hat meinem Computer endgültig den Garaus gemacht leider.
 Hast du schon mal dieses neue Indie-Spiel mit der Pixelgrafik gesehen.
@@ -8706,7 +8497,6 @@ Das VR-Headset macht mir irgendwie immer noch ein bisschen schwindelig.
 Ich hab vergessen das Passwort für mein Hauptkonto zu speichern.
 Der neue Laptop von Apple sieht richtig schick und leicht aus.
 Kann jemand empfehlen welche SSD sich gut zum Updaten eignet.
-Mein Drucker will einfach nicht scannen obwohl er online ist.
 Die Benutzeroberfläche der neuen App ist total unübersichtlich geworden.
 Ich lern gerade wie man eigene Scripts in Bash schreibt eigentlich.
 Der Bildschirm auf meinem Monitor hat wieder diese hässliche Lücke.
@@ -8737,7 +8527,6 @@ Mein Laptop wird beim Laden unglaublich heiß und laut.
 Ich probiere gerade mal dieses neue Linux Distribution aus.
 Die Cloud ist sicherer als mein alter externer Festplatte.
 Kannst du bitte das Bluetooth wieder aktivieren ich kann nicht verbinden.
-Mein WLAN haut immer raus wenn ich streamen will.
 Kann mir jemand ein gutes Passwortmanager-Tool empfehlen?
 Die Akkulaufzeit meines Handys wird immer kürzer.
 Ich finds nervig dass sich Windows ständig selbst aktualisiert.
@@ -8912,7 +8701,6 @@ Könntest du mir sagen welches VPN am sichersten ist?
 Mein Tablet lädt nur noch extrem langsam auf.
 Die Spracherkennung funktioniert im Auto gar nicht gut.
 Ich überleg mir ob ich auf Linux umsteigen soll.
-Der Drucker will einfach nicht mit dem Laptop sprechen.
 Mein Router bricht die Verbindung immer nachts ab.
 Hast du schonmal auf Android umgestellt?
 Die Tastatur meines Laptops knarzt total nervig.
@@ -8922,9 +8710,7 @@ Meine Festplatte ist leider fast voll belegt.
 Das Handy wird beim Laden echt heiß gestern.
 Ich nutze Firefox, weil Google zu viel trackt.
 Welches Smartphone hast du dir denn jetzt gekauft?
-Der Drucker will einfach nicht scannen heute.
 Ich hasse es wenn ich ein neues Passwort setz.
-Steam Sale ist da, was kaufst du dir?
 Die neue Windows-Update war echt langsam und nervig.
 Könntest du mir kurz mein Laptop reparieren?
 Ich stream mein Spiel gerade auf Twitch live.
@@ -9007,7 +8793,6 @@ Kann mir jemand bei der Einrichtung des VPN helfen?
 Mein Bluetooth-Kopfhörer verbindet sich immer erst nach zwei Versuchen.
 Die Festplatte meines PCs macht seltsame Geräusche beim Start.
 Hast du Erfahrung mit dem Neuen iPhone-Modell im Hinblick auf Kameraqualität?
-Ich will meine alten Dateien auf einem USB-Stick sichern.
 Der Bildschirm meiner Smartwatch ist doch schon wieder gesprungen.
 Kann ich die Benachrichtigungen für bestimmte Apps ausschalten?
 Mein Internet-Provider hat heute mal wieder kurz ausgefallen.
@@ -9035,13 +8820,11 @@ Ich möchte meine Daten lieber lokal speichern.
 Hast du den Code gerade noch mal gesendet?
 Meine Tastatur klemmt seit heute morgen irgendwie.
 Braucht man für diesen Spiel wirklich so viel RAM?
-Der Drucker will einfach nicht mit mir kooperieren.
 Ich mag diese neue Benutzeroberfläche überhaupt nicht wirklich.
 Kannst du mal prüfen ob der Server down ist?
 Mein Router hängt sich dauernd auf, frustrierend.
 Hast du schon mal in der Cloud gearbeitet?
 Der Bildschirm ist bei meinem Handy eingesprungen.
-Künstliche Intelligenz取代t bestimmt bald viele Jobs.
 Ich brauche dringend eine neue SSD für mein PC.
 Die Batterielaufzeit von modernen Laptops ist super.
 Warum funktioniert das WLAN bei uns so schlecht?
@@ -9066,7 +8849,6 @@ Das Internetradio spielt bei mir dauernd nur Static.
 Mein WLAN hängt wieder mal total fest.
 Hast du auch diese nervige Update-Meldung auf dem Handy?
 Ich hab gestern drei Stunden in einem neuen Spiel verbracht.
-Der Drucker will einfach nicht mit dem Laptop kommunizieren.
 Kannst du mir den Code nochmal per WhatsApp schicken?
 Mein Monitor hat plötzlich einen schwarzen Fleck bekommen.
 Ich finde diese neue Software-Oberfläche irgendwie unübersichtlich.
@@ -9131,8 +8913,6 @@ Soll ich mir noch einen NAS-Speicher kaufen für Backups?
 Die Schriftgröße auf dieser Website ist wirklich viel zu klein.
 Ich vermisse das mechanische Feedback meiner alten Tastatur.
 Kann man eigentlich die Werbetexte bei YouTube komplett blocken?
-Mein Router will einfach nicht mit dem neuen Tarif kooperieren.
-Ich find es nervig, dass alles doppelt angemeldet werden muss.
 Der Akku meines Notebooks hält kaum noch zwei Stunden.
 Hast du schon mal diesen neuen Code-Editor ausprobiert?
 Mir fehlt immer der Platz auf dem Desktop für Dateien.
@@ -9169,7 +8949,6 @@ Die Benutzeroberfläche des neuen Betriebssystems finde ich irgendwie ungewohnt.
 Ich hab versehentlich einen wichtigen Ordner gelöscht und kann ihn nicht finden.
 Mein Smartphone wird immer langsamer, vielleicht brauche ich bald ein neues.
 Hast du schon mal mit dieser KI-Grafik-Software gearbeitet?
-Der Drucker will einfach nicht mehr conecten, total nervig eigentlich.
 Ich finde es komisch, dass meine Apps ständig Updates wollen.
 Wir sollten uns einen besseren Router kaufen, das Internet ist zu langsam.
 Mein Bruder hat mir erklärt, wie man Backups richtig erstellt.
@@ -9202,7 +8981,6 @@ Cloudspeicher sind praktisch, aber ich mag keine fremden Server.
 Der Akku meines Tablets hält kaum noch drei Stunden.
 Ich möchte gerne Linux installieren, hab aber Angst vorm Datenverlust.
 Welchen Monitor würdest du für Grafikdesign kaufen?
-Mein Drucker will partout nicht scannen, was soll ich tun?
 Die neuen VR-Brillen sind immer noch zu teuer für mich.
 Kannst du mir helfen mein Passwort zurückzusetzen?
 Ich lern gerade JavaScript, weil es für Webentwicklung wichtig ist.
@@ -9234,7 +9012,6 @@ Der Akku hält bei meinem Tablet nur noch drei Stunden.
 Ich habe versehentlich den Papierkorb auf dem PC geleert.
 Kann man diese App auch ohne Internet nutzen überhaupt?
 Die Verbindung zum Router bricht ständig ab und nervt.
-Mein Drucker will einfach nicht mehr richtig drucken heute.
 Ich lerne grade wie man Webseiten mit HTML baut.
 Das neue Feature ist zwar cool aber sehr unübersichtlich gestaltet.
 Hast du meinen Link zum Video schon mal geklickt?
@@ -9271,22 +9048,20 @@ Die neue App ist wirklich viel benutzerfreundlicher geworden.
 Ich brauche dringend einen neuen Festplattenplatz für meine Fotos.
 Hast du schonmal mit dem Raspberry Pi experimentiert?
 Mein Smartphone wird langsam zu langsam für moderne Spiele.
-Der Druckertreiber will einfach nicht richtig funktionieren heute.
 Künstliche Intelligenz ersetzt bald viele Bürojobs meiner Meinung nach.
 Ich liebe die neuen VR-Brillen zum Eintauchen ins Spiel.
 Passwort vergessen und jetzt komm ich gar nicht mehr rein.
-Die Ladeleistung des neuen USB-C Kabels ist genial schnell.
 Mein Tablet kratzt schon wieder an der Ecke ab.
 Welche Antivirus Software empfiehlst du mir für meinen Mac?
 Das Internet bei uns zu Hause ist leider super träge.
 Ich versuche gerade, meine Dateien auf iCloud hochzuladen.
 Die Grafik im neuen Spiel sieht einfach nur fantastisch aus.
 Warum funktioniert meine Webcam plötzlich überhaupt nicht mehr richtig?
-Smart Home GerÃ¤te sind bequem aber auch ziemlich teuer in Summe.
-Mein Laptop Akku hÃÃlt kaum noch zwei Stunden durch.
+Smart Home Geräte sind bequem aber auch ziemlich teuer in Summe.
+Mein Laptop Akku hÄÄlt kaum noch zwei Stunden durch.
 Hast du schon das neue iOS Update auf deinem Handy?
 Der Router muss dringend neu gestartet werden heute Abend.
-Ich kaufe mir bald ein neueres Modell fÃ¼r mehr Leistung.
+Ich kaufe mir bald ein neueres Modell für mehr Leistung.
 Datenrettung ist oft teuer und nicht immer erfolgreich leider.
 Die Tastatur meines Laptops klebt irgendwie schon wieder an.
 Mein Monitor flackert seit dem letzten Update ständig.
@@ -9300,7 +9075,6 @@ Die KI antwortet manchmal total merkwürdig auf meine Fragen.
 Soll ich mir den Macbook Air oder den Pro zulegen?
 Meine Tastatur hat drei Tasten, die einfach nicht funktionieren wollen.
 Ich verstehe echt nicht, warum Streaming immer mehr Geld kosten soll.
-Hat schon jemand das neue Call of Duty gespielt?
 Mein Router ist wohl kaputt, da geht gar nichts mehr.
 Ich versuche verzweifelt, mein altes Android-System wieder zum Laufen zu bringen.
 Die Auflösung auf meinem neuen Fernseher ist wirklich beeindruckend.
@@ -9326,7 +9100,6 @@ Das Internet bei uns im Keller ist einfach grausam.
 Ich versteh nicht warum alles so teuer in der Cloud ist.
 Meine Maus ist kaputtgegangen weil ich draufgetrampelt bin.
 Kannst du mir den Link zur App nochmal schicken?
-Der Drucker will gar nichts mehr tun seit dem Update.
 Ich spiele eigentlich nur noch auf dem Steam Deck.
 Wie lange dauert es bis das Backup fertig ist?
 Mein Laptop ist wirklich langsam geworden in letzter Zeit.
@@ -9360,7 +9133,6 @@ Kann man aus Windows 10 einfach auf 11 upgraden?
 Meine Tastatur macht wieder diese komischen Klickgeräusche.
 Hast du schon die neue Konsolen-Gen vorbestellt?
 Ich finds nervig, dass alles einen Account verlangt.
-Der Drucker will gar nicht richtig Scannen heute.
 Welches Notebook eignet sich gut für den Studiumsalltag?
 Mein Smartphone friert ständig während des Tippens ein.
 Brauche dringend neuen Speicherplatz für meine Fotos.
@@ -9446,7 +9218,6 @@ Ich finds super, dass man jetzt alles in der Cloud speichert.
 Kann jemand mir erklären wie diese Kryptowährungen wirklich funktionieren?
 Mein Handy wird nach dem Update total langsam.
 Ich würde lieber ein Surface kaufen statt nem MacBook.
-Der Drucker will einfach nicht verbinden, obwohl er an ist.
 Hast du ne gute App für Produktivität im Büro?
 KI-Generatoren sind toll aber ich hab Angst um Jobs.
 Mein Gamer-PC raucht fast wenn ich Cyberpunk spiele.
@@ -9491,7 +9262,6 @@ Die Grafik im Spiel ruckelt total, liegt das am Netz?
 Ich würde lieber ein E-Book Reader als ein iPad haben.
 Mein Router funktioniert seit dem Update total lustig.
 Kannst du mir helfen den Drucker einzurichten?
-Ich hasse es wenn Windows automatisch neu starten will.
 Die Batterielaufzeit von meinem Handy wird immer schlechter.
 Hast du schonmal mit einem KI Generator Bilder gemacht?
 Mein Festplatte hat nur noch 2 GB freien Platz.
@@ -9501,7 +9271,6 @@ Ich würde gerne Linux ausprobieren aber hab keine Lust.
 Die Internetverbindung hier im Café ist echt lausig.
 Meine Maus klickt nicht mehr richtig auf der linken Seite.
 Kann man Fotos auch in der Cloud sicher speichern?
-Ich find die neue iOS Version eigentlich gar nicht so schlecht.
 Mein Laptop wird immer ganz heiß wenn ich Spiele starte.
 Hast du eine Empfehlung für einen günstigen Monitor?
 Das Programm hat sich wieder aufgehängt und nichts gespeichert.
@@ -9523,7 +9292,6 @@ Mein Handy ist langsam wie eine Schnecke.
 Das Display hat nen kleinen Riss jetzt.
 Ich lade alles in die Cloud hoch.
 Kannst du mir das Passwort nochmal schicken?
-Der Drucker will einfach gar nicht drucken.
 Meine Tastatur reagiert irgendwie nicht richtig.
 Welches Betriebssystem läuft flüssiger auf dem Tablet?
 Ich mag die neue Touchbar echt gerne.
@@ -9588,7 +9356,6 @@ Wie oft sollte man den PC defragmentieren?
 Ich mag die neuen Tastaturkurztaste auf dem Mac.
 Das Spiel ist ohne Grafikkarte nicht spielbar.
 Welches Betriebssystem läuft flüssiger auf alten Laptops?
-Mein Router fliegt wieder raus wenn ich streamen will.
 Hast du schon mal in die neue App geschaut?
 Ich hasse es wenn das Update mitten im Meeting kommt.
 Kann mir jemand erklären wofür man eigentlich SSDs braucht?
@@ -9636,7 +9403,6 @@ Wie schütze ich mich am besten vor Phishing Mails?
 Meine Webcam ist wieder einmal schwarz im Zoom Call.
 Ich traue mich nicht mein iOS zu aktualisieren.
 Welche Programmiersprache sollte ich als Anfänger lernen?
-Der Drucker will einfach nicht mit dem Laptop sprechen.
 Ich liebe es wie schnell meine neue SSD ist.
 Mein WLAN haut schon wieder aus nervig.
 Kann mir jemand ein gutes Budget Handy empfehlen?
@@ -9661,7 +9427,6 @@ Der Drucker findet mein Laptop im Netzwerk einfach nicht mehr.
 Ich liebe es neue Gadgets auszupacken und erstmal nur anzusehen.
 Wie verschlüsselt man seine Festplatte am besten für die Sicherheit?
 Mein Headset hat nach dem Regen gar keinen Sound mehr.
-Soll ich das Antivirus Programm kostenlos oder bezahlen, was ist besser?
 Das Update bringt angeblich viel mehr Geschwindigkeit und Stabilität mit sich.
 Ich vermisste meine alten Tastatur shortcuts wirklich sehr häufig jetzt.
 Mein WLAN bricht ständig ab, egal wo ich sitze.
@@ -9714,10 +9479,8 @@ Hast du schon gesehen, wie schnell diese neuen Prozessoren sind?
 Ich kann meine alten Fotos nirgendwo mehr richtig finden und speichern.
 Der Support von diesem Anbieter antwortet einfach gar nicht schnell genug.
 Ich muss dringend meinen Router resetten, sonst geht nichts wieder.
-Mein Handy wird total warm wenn ich Spiele spiele.
 Kannst du mir helfen mein Wifi wieder einzurichten?
 Die neue Software läuft irgendwie echt ruckelig.
-Ich find KI so nervig weil sie oft falsch liegt.
 Wann kommt eigentlich das nächste große Windows Update?
 Meine Maus hat heute wieder keine Verbindung mehr.
 Ich brauche dringend eine externe Festplatte für Backups.
@@ -9772,7 +9535,6 @@ Ich suche einen günstigen Monitor für mein Homeoffice Setup.
 Warum dauert das Update immer so lange beim Handy?
 Meine Maus macht seltsame Geräusche, soll ich sie tauschen?
 Steam Sale ist los, da muss ich unbedingt schauen.
-Das Backup hat wieder nicht geklappt, was ist falsch gelaufen?
 Ich probier gerade mal Android aus nach Jahren iOS.
 Hast du schonmal mit der neuen Voice Assistant gesprochen?
 Mein Laptop wird beim Zocken immer extrem warm und laut.
@@ -9840,7 +9602,6 @@ Mein PC macht seltsame Geräusche, sollte ich ihn reparieren lassen?
 Ich hasse es, wenn sich Apps ständig automatisch aktualisieren.
 Kann man die Werbung in diesen Browsern komplett deaktivieren?
 Die Batterien in meiner Maus sind schon wieder leer.
-Mein Router will heute einfach nicht mehr richtig funktionieren.
 Hast du dir schon die neue Grafikkarte für den PC gekauft?
 Ich finde diese KI-Tools langsam echt beeindruckend nützlich.
 Warum aktualisiert sich mein Handy nie automatisch nachts?
@@ -9899,7 +9660,6 @@ Ich hab versehentlich die falsche Datei gelöscht.
 Smart Home Geräte finde ich doch super praktisch.
 Warum lädt diese Website denn so unglaublich langsam?
 Brauche dringend einen neuen Monitor fürs Homeoffice.
-Meine Maus will einfach nicht mehr connecten.
 Das Update hat meinen Desktop komplett verrückt gemacht.
 Ich überlege, ob ich auf Mac wechseln soll.
 Hast du schon mal mit Kubernetes gearbeitet? Nein?
@@ -9923,7 +9683,6 @@ Die neue Softwareupdate kostet leider ziemlich viel Geld.
 Hast du gesehen wie schnell der Laptop jetzt startet?
 Mein Smartphone wird schon wieder richtig warm beim Spielen.
 Ich kann meine Dateien einfach nirgends finden auf dem PC.
-Der Drucker verstopft immer wenn ich dringend was brauche.
 KI ist mir irgendwie etwas unheimlich ehrlich gesagt.
 Welchen Monitor würdest du für Grafikdesign empfehlen?
 Ich habe gerade versehentlich den Papierkorb geleert oh je.
@@ -9931,7 +9690,6 @@ Die Batterie meines Tablets hält kaum noch drei Stunden.
 Netflix streamt bei mir nur in schlechter Qualität heute.
 Ich vermisse die alten Tastaturen mit mechanischen Switches.
 Kann ich Windows 11 wirklich einfach deinstallieren?
-Mein Router scheint kaputt zu sein oder so was.
 Die Fingerabdrucksicherheit funktioniert auf meinem Handy nicht mehr.
 Ich suche ein gutes Programm zum Bildbearbeiten kostenlos.
 Warum ist die Seite jetzt plötzlich nur noch in Englisch?
@@ -9978,7 +9736,6 @@ Das neue Betriebssystem läuft auf meinem Rechner sehr flüssig.
 Soll ich mein altes iPhone recyceln lassen oder verkaufen?
 Die Ladekabel liegen bei mir immer wieder lose rum.
 Ich finde die Benutzeroberfläche von Windows 11 total verwirrend.
-Mein Drucker will einfach nicht mehr mit dem WLAN verbinden.
 Hast du schon gehört, dass es neue Gaming-Mäuse gibt?
 Ich lade gerade mein Backup auf eine externe Festplatte.
 Die Autokorrektur macht immer wieder falsche Vorschläge bei Namen.
@@ -10041,7 +9798,6 @@ Kann ich alte Fotos noch aus der Cloud wiederherstellen?
 Die Sprachsteuerung erkennt meine Akzente einfach nicht richtig.
 Ich brauche mehr Speicherplatz auf meinem Android Handy dringend.
 Der Bildschirm ist an einer Stelle schon dunkel geworden.
-Was bedeutet eigentlich dieser seltsame Fehlercode E404?
 Ich mag es wenn der Computer automatisch Updates installiert.
 Mein Bildschirm flackert seit gestern total komisch.
 Hast du schon mal auf Android umgestiegen?
@@ -10055,7 +9811,6 @@ Ich vermiss meine alten Fotos auf dem Cloud-Speicher.
 Das neue Gaming-Controller fühlt sich super gut an.
 Warum braucht jedes Programm jetzt einen neuen Account?
 Mein Tablet wird irgendwie immer warmer beim Laden.
-Hast du eine gute App gegen Stress推薦 können?
 Die Datenübertragung dauerte ewig heute morgen einfach nur langweilig.
 Ich muss unbedingt meine Software lizenzieren verlängern lassen.
 Das VR-Headset macht mir schon nach fünf Minuten übel.
@@ -10079,7 +9834,6 @@ Mein Laptop wird beim Streaming immer richtig heiß.
 Ich finde diese Touchscreens auf Bahnhöfen extrem umständlich.
 Welches Kabel brauche ich für mein altes iPad?
 Die Passwörter sind bei mir total im Chaos.
-Mein Drucker will partout nicht mehr scannen.
 Ist 5G jetzt wirklich schneller als 4G?
 Ich hab versehentlich den falschen Ordner gelöscht.
 Das neue Betriebssystem fühlt sich merkwürdig flüssig an.
@@ -10096,7 +9850,6 @@ Soll ich mein Smartphone jetzt endlich updaten?
 Mein Router ist wohl abgeraucht.
 Kann mir jemand ein gutes WLAN-Mesh-System empfehlen?
 Die Akkulaufzeit vom neuen Tablet ist echt mies.
-Ich hasse es wenn der Drucker Tinte will aber noch keine hergibt.
 Meine Maus reagiert ganz seltsam auf der Glasplatte.
 Hast du schonmal mit dieser neuen KI für Texte gearbeitet?
 Das Smartphone Update hat meinen ganzen Bildschirm verschoben.
@@ -10106,7 +9859,6 @@ Der Laptop wird extrem heiß wenn ich Videos schneide.
 Könntest du mir mal helfen mein Passwort zurückzusetzen?
 Ich trau mich nicht das Betriebssystem komplett neu zu installieren.
 Die Lautsprecher im Handy klingen wirklich unterirdisch schlecht.
-Hast du ein passendes Ladekabel für den Typ C Anschluss?
 Meine E-Mails landen immer wieder unerklärlicherweise im Spamordner.
 Gaming auf dem PC macht mir einfach mehr Spaß als Konsole.
 Ich vergesse ständig meine Passwörter für die verschiedenen Accounts.
@@ -10142,7 +9894,6 @@ Welchen Laptop nimmt ihr für Videobearbeitung am häufigsten?
 Ich hasse es, wenn mir der PC immer Windows Updates zwingt.
 Mein Tablet reagiert nur noch träge auf Touch-Befehle.
 Kann man eigentlich die Kamera bei Zoom einfach deaktivieren?
-Das Kabel meiner Kopfhörer ist schon wieder abgebrochen,典型。
 Mein Router muss ich immer neu starten.
 Warum ist meine Internetverbindung heute so langsam?
 Ich hasse es, wenn Windows automatisch updatet.
@@ -10196,7 +9947,6 @@ Der Browser friert bei jeder neuen Registerkarte komplett ein dabei.
 Mein Handy lädt total langsam bei schwachem Empfang.
 Hast du schon mal diese neue KI ausprobieren wollen?
 Ich finde Smart Homes irgendwie unnötig kompliziert.
-Der Drucker will einfach nicht richtig funktionieren heute.
 Kannst du mir empfehlen, welches Tablet sich lohnt?
 Meine Festplatte ist wieder voll mit alten Fotos.
 Das Internet zu Hause ist heute echt lahm.
@@ -10280,7 +10030,6 @@ Wie lösche ich diesen nervigen Banner auf jeder Website?
 Ich vermisste meine mechanische Tastatur mit den Clickys.
 Datenschutz ist mir bei neuen Apps immer wichtig.
 Warum muss Windows ständig im Hintergrund Updates installieren?
-Mein Smartwatch-Band ist wieder abgebrochen was soll ich tun.
 Hast du schon mal mit Home Assistant experimentiert?
 Die Ladekabel in meiner Tasche sind ewig verknotet.
 Ich finde Virtual Reality immer noch ziemlich unpraktisch.
@@ -10322,7 +10071,6 @@ Hast du schon die neuen Updates für deine Spiele installiert?
 Mein Router haut total aus, ich kriege gar kein Signal mehr rein.
 Kann mir jemand nen guten Programmierkurs für Anfänger empfehlen?
 Die Akkulaufzeit bei meinem Handy ist echt miserad geworden.
-Ich find KI-Tools praktisch aber auch irgendwie gruselig manchmal.
 Wieso hängt sich mein PC jedes Mal beim Starten auf?
 Hast du schon mal mit dieser neuen Software gearbeitet?
 Mein Tablet brummt wie ne Rasenmäher, das ist total nervig.
@@ -10355,7 +10103,6 @@ Wie viel RAM brauch man eigentlich für Office-Anwendungen?
 Ich hasse es, wenn Windows automatisch Updates macht.
 Das Internet zu Hause ist echt langsam geworden.
 Kann ich meine alten Fotos einfach in die Cloud laden?
-Der Drucker will partout nicht mit dem PC verbinden.
 Hast du den neuen Mac M3 schon gesehen?
 Ich versuche gerade, mein Netzwerk sicherer zu konfigurieren.
 Warum ist die Benutzeroberfläche so unübersichtlich geworden?
@@ -10413,7 +10160,6 @@ Das neue Feature bei Spotify finde ich gar nicht so toll eigentlich.
 Ich muss dringend mein Passwort ändern weil es zu einfach war.
 Mein Vater hat sich einen Raspberry Pi gekauft, jetzt steht er rum.
 Könntest du bitte auf meinem PC nachschauen ob dort Viren sind?
-Ich liebe es wenn alles auf einmal funktioniert ohne dass ich was mache.
 Hast du schon mal von dieser neuen KI App für Produktivität gehört?
 Mein Router hängt sich schon wieder alle zwei Stunden auf.
 Kann mir jemand nen guten WLAN-Verstärker für die Wohnung empfehlen?
@@ -10430,7 +10176,6 @@ Kann ich meine Fotos auch ohne Cloud-Speicherung sichern?
 Der Akku auf meinem Tablet hält nicht mal mehr zwei Stunden.
 Ich finde die neuen Emoji-Designs bei iOS irgendwie seltsam.
 Hast du schon mal mit Voice-to-Text auf dem Handy gearbeitet?
-Mein Drucker meldet immer, er sei out of Toner.
 Die Grafikeneinstellungen in diesem Spiel sind echt anspruchsvoll.
 Ich habe gerade rausgefunden, wie man Dark Mode aktiviert.
 Meine Smartwatch hat mir wieder den falschen Schlaf gemeldet.
@@ -10490,7 +10235,6 @@ Warum sind Streaming-Abo Preise immer nur im Steig begriffen?
 Mein Laptop überhitzt wenn ich nur zwei Programme gleichzeitig geöffnet habe.
 Kann man eigentlich die Kamera bei Zoom einfach komplett deaktivieren?
 Ich hasse es jedes Mal neue Treiber für meinen Drucker installieren zu müssen.
-Mein WLAN bricht dauernd ab, ich find den Fehler nicht.
 Hast du das neue MacBook schon gesehen?
 Ich brauch Hilfe bei meiner Excel-Datei.
 Das Update kam gestern Nacht automatisch runter.
@@ -10508,7 +10252,6 @@ Die Grafikeinstellungen sind einfach zu komplex für mich.
 Hast du schon mal von Rust gehört?
 Ich kann mein Passwort nicht zurücksetzen, ärgerlich.
 Das Streaming ist ständig ruckelig und nervt total.
-Mein Vater will endlich seine E-Mails entschlacken.
 Welches VPN nutzt ihr eigentlich am meisten?
 Ich habe versehentlich das falsche Konto gelöscht.
 Die Tastenbelegung bei macOS gewöhn ich mir nie dran.
@@ -10557,7 +10300,6 @@ Mein Tablet lädt so langsam, dass es mich echt aufreibt.
 Ich würde gerne eine SSD tauschen aber habe keine Ahnung davon.
 Die neue Gaming-Brille war zwar cool aber nach einer Stunde weh meinen Kopf.
 Hörst du auch Podcasts über Technik trends oder findest das langweilig?
-Mein Drucker will nicht drucken obwohl noch Tinte im Tank ist.
 Welche Tastatur eignet sich am besten für zehnfinger Tipper?
 Ich kann gar nicht mehr ohne meine Smartwatch aus dem Haus gehen.
 Das VPN war gestern down und ich musste meinen Job verschieben.
@@ -10590,11 +10332,9 @@ Mein externer SSD hat leider viele defekte Blöcke entwickelt.
 Kann ich meine alte Festplatte noch als Speicher nutzen?
 Die Ladezeit meiner Apps ist auf einmal viel langsamer.
 Hast du schonmal was von diesem neuen Linux-Distribution gehört?
-Ich will mein Home-Office endlich mal richtig organisieren.
 Mein Router braucht dringend ein Update.
 Kann jemand mir helfen meine Tastatur zu fixen?
 Das neue iPad Pro ist mir zu teuer.
-Ich hasse es wenn die Software immer updaten will.
 Hast du schon mal mit Rust programmiert?
 Mein Notebook wird seit gestern seltsam warm.
 Die KI generiert echt beeindruckende Bilder heutzutage.
@@ -10643,7 +10383,6 @@ Ich muss unbedingt mein Passwort ändern, das ist zu alt.
 Kann man Linux auch ohne Konsole nutzen?
 Mein Smart-TV hängt sich immer bei Netflix auf.
 Brauche ich wirklich einen Gaming-PC für 3000 Euro?
-Mein WLAN bricht jede半小时 mal ab.
 Kann jemand kurz helfen, mein Drucker einzurichten?
 Die neue Windows-Update-Policy nervt mich total.
 Ich hab gerade meine SSD von 256 auf 1 TB erweitert.
@@ -10739,7 +10478,6 @@ Warum dauert der Download mit meinem Provider so lange?
 Ich probiere gerade mal Ubuntu aus auf einer alten SSD.
 Das VR Headset gibt mir immer Kopfschmerzen nach halben Stunden.
 Mein Laptop wird im Akkubetrieb wahnsinnig langsam.
-Kannst du die Datei mal als PDF speichern?
 Die Smart Home Geräte reden nicht mehr miteinander.
 Ich suche eine günstige SSD für mein Hauptsystem.
 Das neue iOS Update hat meinen Speicher komplett zerschießen.
@@ -10763,7 +10501,6 @@ Ich verstehe nicht warum ich immer neue Passwörter setzen muss.
 Die Akkulaufzeit meines Tablets ist deutlich schlechter geworden.
 Hast du einen Tipp gegen die langsamen Internet speeds?
 Meine Maus reagiert manchmal einfach garnicht mehr auf Klicks.
-Ich will endlich meine Dateien in der Cloud sicher ablegen.
 Das Display von meinem Laptop hat jetzt schwarze Punkte.
 Kann man Windows 11 wirklich ohne Touchscreen gut bedienen?
 Mein Tablet lädt nur noch wenn es absolut parallel liegt.
@@ -10780,7 +10517,6 @@ Kann man eigentlich Daten von Android einfach auf iPhone übertragen?
 Die Grafikkarte in meinem PC brennt quasi vor Hitze.
 Ich hab mir gerade ein Headset für Discord gekauft.
 Meine Internetleitung ist heute Mittag komplett weg gewesen.
-Was meinst du, lohnt sich noch der Kauf einer Festplatte?
 Ich hasse es, wenn ich meine Passwörter wieder zurücksetzen muss.
 Der Drucker findet niemals das WLAN zum ersten Mal.
 Kannst du mir helfen, dieses Programm auf meinem Mac zu installieren?
@@ -10830,7 +10566,6 @@ Meine Festplatte ist voll, ich weiß nicht was ich löschen soll.
 KI kann mittlerweile echt gut Bilder generieren.
 Ich verzweifle an diesem neuen Password-Format.
 Hast du den Link zum Video nochmal?
-Der Drucker will einfach nicht mit dem Laptop sprechen.
 Gaming auf der Konsole ist mir lieber als am PC.
 Die Update-Nachricht nervt mich immer wieder total.
 Mein Smartphone wird beim Scrollen extrem warm.
@@ -10942,7 +10677,6 @@ Stromsparmodus am Laptop bringt bei mir fast gar nichts.
 Die Akkulaufzeit dieses Notebooks ist echt beeindruckend.
 Ich überlege, ob ich auf ein Android-Wechseln soll.
 Firewall-Einstellungen sind für Laien meist viel zu kompliziert.
-Mein Drucker will einfach nicht mit dem Wi-Fi connecten.
 Das Spiel läuft auf meiner Konsole ruckelfrei und flüssig.
 Ich vermisse den Kopfhöreranschluss am neuen Computer so sehr.
 Künstliche Intelligenz wird unsere Arbeitswelt definitiv verändern.
@@ -10980,7 +10714,6 @@ Gaming auf dem Tablet ist einfach nicht die Sache.
 Der Drucker druckt immer nur noch Schwarzweiß.
 Mein Internet hängt grade wieder mal komplett.
 Kann mir jemand eine gute Tastatur für Homeoffice empfehlen?
-Ich find diese dunklen Modi bei Apps super entspannend.
 Warum muss man sich da schon wieder neu anmelden?
 Die Akku-Leistung vom Laptop ist echt im Eimer.
 Hast du den neuen Grafik-Chip von Nvidia gesehen?
@@ -11055,12 +10788,10 @@ Hast du schonmal diese neue KI App ausprobiert?
 Meine SSD ist leider voll, was lösche ich jetzt?
 Das Update dauert ewig, ich hab keine Geduld mehr.
 Warum funktioniert mein Bluetooth Kopfhörer nicht mehr?
-Ich will einfach nur Photoshop benutzen ohne Abo.
 Der Strom ist weg und mein PC war noch an.
 Kann man auf Windows 11 die Taskleiste wieder unten haben?
 Mein Tablet wird bei jeder Videocall sehr heiß.
 Hast du einen Tipp gegen das Flackern des Bildschirms?
-Ich find KI Bilder immer noch irgendwie unheimlich ehrlich.
 Welches Handy hat denn den besten Akku im Moment?
 Mein Internet ist heute wieder lahm wie nie zuvor.
 Kann ich meine Fotos sicher in der Cloud speichern?
@@ -11076,7 +10807,6 @@ Soll ich mein altes Handy noch als Navigation nutzen?
 Mein WLAN haut total wieder aus, grml.
 Hast du auch schonmal die neue KI Funktion getestet?
 Ich finds echt lästig, dass sich das Passwort ständig ändert.
-Das Smartphone ist mir zu langsam geworden, brauch was neues.
 Kannst du mal schauen, warum mein Drucker nicht geht?
 Die Grafik auf meinem Bildschirm flackert seit gestern abend.
 Ich traue mich einfach nicht, Windows 11 zu installieren.
@@ -11186,7 +10916,6 @@ Die Batterielaufzeit meines Tablets wird immer kürzer.
 Kannst du sehen ob mein Laptop defragmentiert werden muss?
 Ich lade gerade ein riesiges Backup in die Cloud hoch.
 Das neue Handy von Samsung sieht echt cool aus.
-Mein Drucker will partout keine Farbe mehr aufnehmen.
 Hast du schon gehört dass Windows 12 kommt?
 Ich vermisste meine alte Tastatur mit den mechanischen Tasten.
 Die Lautsprecher sind kaputt ich brauche Kopfhörer.
@@ -11226,7 +10955,6 @@ Ich versteh nicht warum mein Bluetooth so oft trennt.
 Mein WLAN hängt seit gestern morgen einfach.
 Kann mir jemand einen günstigen Monitor empfehlen?
 Die Akkulaufzeit von meinem Handy ist beschissen.
-Ich hasse es wenn sich Windows updaten will.
 Hast du schonmal mit der neuen KI geredet?
 Mein Router muss dringend ersetzt werden glaube ich.
 Wie sichere ich meine Passwörter am besten ab?
@@ -11264,7 +10992,6 @@ Kann ich meinen alten Computer noch als Server nutzen?
 Ich habe versehentlich wichtige Dateien gelöscht und panike jetzt.
 Der Support hat mich stundenlang warten lassen.
 Glaubst du dass Quantencomputing bald alltagstauglich wird?
-Mein Drucker will einfach nicht richtig scannen.
 Ich lade gerade das Betriebssystem neu um Platz zu sparen.
 Welche Tastatur empfindest du als angenehm zum Tippen?
 Die Firewall hat mir gerade einen Download blockiert.
@@ -11462,7 +11189,6 @@ Soll ich mir eine SSD zulegen oder reicht noch HDD?
 Mein Smartphone wird beim Laden total heiß.
 Ich finde KI-Generated-Bilder oft ziemlich gruselig.
 Welches Tastatur-Layout ist denn für Programmieren am besten?
-Der Drucker will einfach nicht mit dem PC kommunizieren.
 Ich mag es gar nicht, wenn ich mich überall neu anmelden muss.
 Hat jemand Erfahrung mit der neuen Windows Version gemacht?
 Mein Monitor hat wieder einen toten Pixel entdeckt.
@@ -11475,7 +11201,6 @@ Ist es sinnvoll, noch einen zweiten Monitor anzuschließen?
 Ich versteh nicht, warum meine Apps so viel Akku fressen.
 Der Router muss wohl mal wieder neu gestartet werden.
 Hast du eine Empfehlung für eine günstige Webcam?
-Mein Laptop ist wirklich langsam geworden, was tun?
 Mein Router streikt schon wieder seit drei Tagen.
 Kannst du mir mal helfen das WLAN einzurichten?
 Ich finde Smartphones machen uns nur launischer.
@@ -11497,7 +11222,6 @@ Meine Maus macht seltsame Klickgeräusche beim Arbeiten.
 Datenschutz bei sozialen Medien ist ein absolutes NoGo.
 Kannst du mir eine gute Webcam für Calls empfehlen?
 Ich vermiss meine alte Tastatur mit den lauten Tasten.
-Der Bildschirm wird immer dunkler egal was ich mach.
 Frisch installierte Apps verbrauchen so viel Strom leider.
 Warum funktioniert mein Bluetooth Kopfhörer nicht mehr richtig?
 Ich brauche dringend einen schnellen USB Stick für Fotos.
@@ -11513,7 +11237,6 @@ Die Ladezeit der Webseite nervt mich total heute.
 Können wir mal ohne Smart Speaker im Haus leben?
 Mein Bildschirm hat einen Totpixel und ärgert mich.
 Der VPN-Dienst hat die Verbindung wieder abgebrochen.
-Ich kann den Unterschied zwischen 1440p und 4k nicht sehen.
 Welche Software nutzt ihr zum Bearbeiten von Audiodateien?
 Meine Tastatur ist irgendwie immer nur zu 50 % funktionsfähig.
 Das Streaming in HD ruckelt heute Abend ständig.
@@ -11557,7 +11280,6 @@ Die App friert seit dem Update ständig ein.
 Ich hasse es wenn der Computer so langsam wird.
 Hast du schonmal mit KI Bilder generiert?
 Meine Festplatte ist leider fast voll belegt.
-Bitte schick mir den Link nochmal kurz her.
 Das neue Tablet hat eine echt gute Kamera.
 Ich muss dringend meine Passwörter ändern.
 Warum läuft mein Laptop so heiß im Moment?
@@ -11597,7 +11319,6 @@ Kann ich meine Daten einfach auf das neue iPhone übertragen?
 Mein Smart-TV zeigt plötzlich nur noch einen schwarzen Bildschirm.
 Ich such eine günstige Lösung für Home Office.
 Der Kopfhörer verbindet sich nicht mit dem Bluetooth.
-Mir fehlt noch ein USB-C Kabel zum Laden.
 Die Softwareaktualisierung dauert schon ewig und eine halbe Stunde.
 Kann jemand erklären was eigentlich Staking bedeutet?
 Mein PC macht seltsame Geräusche beim Gaming.
@@ -11634,7 +11355,6 @@ Die Benutzeroberfläche ist wirklich viel intuitiver geworden.
 Warum muss man eigentlich immer so viele Passwörter merken?
 Mein Handy lädt einfach nicht mehr richtig ran.
 Kannst du mir mal zeigen wie das Backup geht?
-Ich trau mich gar nicht ans Linux Terminal her.
 Das Update hat mein System total zum Absturz gebracht.
 Findest du die KI-Grafiken auch irgendwie unheimlich?
 Ich such dringend eine günstige SSD für meinen PC.
@@ -11648,11 +11368,9 @@ Hast du schon mal versucht Ubuntu auf einem alten Laptop?
 Mein Smartwatch-Band ist total in die Jahre gekommen.
 Das Internet bei der Firma ist langsam wie die Schnecke.
 Kann mir jemand erklären was genau eine Firewall macht?
-Ich wollte eigentlich nur ein Foto bearbeiten und jetzt...
 Der Bildschirm meiner Webcam flimmert immer so stark.
 Brauche ich für diese App wirklich ein Premium-Abo?
 Mein Laptop wird beim Gaming einfach zu heiß zum Anfassen.
-Ich vermiss die实体 Tasten bei der neuen Touchbar.
 Mein Internet ist heute wieder total lahm.
 Hast du schon mal diese neue KI ausprobieren können?
 Ich brauche dringend mehr Speicherplatz auf meinem Handy.
@@ -11680,12 +11398,10 @@ Das Streaming hatte heute Abend total viele Ruckler drin.
 Ich muss unbedingt mal meinen Computer entrümpeln und sortieren.
 Mein Internet ist heute Morgen einfach weg gewesen.
 Kannst du mal gucken ob mein Drucker online ist?
-Ich hasse es wenn Windows wieder neu starten will.
 Die Akkuzeit vom Handy reicht mir nur noch bis Mittag.
 Hast du schonmal mit der neuen KI gesprochen?
 Meine Tastatur klebt irgendwie an den Buchstaben fest.
 Ich würde lieber Linux nutzen aber die Software fehlt da.
-Der Router blinkt rot was kann man jetzt tun?
 Mein Bruder spielt leidenschaftlich gerne Counter Strike global offensive.
 Die Cloud ist praktisch aber ich traue ihr nicht ganz.
 Kann man eigentlich iPhone Apps auch auf Android laufen lassen?
@@ -11693,14 +11409,12 @@ Mein Laptop wird immer heißer wenn ich Videos schneide.
 Ich brauche dringend eine neue Festplatte für mein Backup.
 Das Internet im Zug funktioniert heute total schlecht.
 Welchen Monitor würdest du dir für die Arbeit kaufen?
-Ich find diese dunklen Modis eigentlich gar nicht so gut.
 Mein Smartwatch Akkus sind schon nach einem Tag leer.
 Hast du das neue iPad Modell gesehen da ist der Chip besser.
 Ich versteh nicht warum man noch Festplatten braucht heutzutage.
 Die Softwareupdate meldung nervt mich jedes mal wieder extrem.
 Kann ich mein altes Handy einfach als Webcam benutzen?
 Mein WiFi Signal bricht im Bad immer ab.
-Ich lerne gerade Photoshop weil ich meine Fotos verbessern will.
 Der Kundensupport von Microsoft ist echt schwer zu erreichen.
 Welchen Stick würdest du für den PC Bau empfehlen?
 Mein WLAN ist heute wieder lahm wie die Sau.
@@ -11762,7 +11476,6 @@ Welches Betriebssystem läuft auf deinem Mac eigentlich noch stabil?
 Ich hab meine alten Fotos endlich auf die Festplatte gesichert.
 Das Display von meinem Handy hat einen blauen Fleck bekommen.
 Kannst du mir helfen mein Netzwerk neu einzurichten?
-Die Updates kommen irgendwie jeden Tag, ich find das anstrengend.
 Mein Router muss dringend ersetzt werden, der pingt nur noch.
 Ich probiere grad mal diese neue Code-Syntax in JavaScript aus.
 Hast du einen Tipp gegen das dauerhafte Piepen vom Drucker?
@@ -11774,7 +11487,6 @@ Kann ich meine Daten vom alten Tablet einfach übertragen?
 Die Benutzeroberfläche der neuen Software sieht viel freundlicher aus.
 Mein Laptop ruckelt immer wenn ich zu viele Tabs offen hab.
 Hast du schon die neue Firmware für dein Smartwatch installiert?
-Ich find diese Cloud-Dienste sind mittlerweile fast unverzichtbar geworden.
 Das Kabel von meinen Kopfhörern ist leider wieder kaputt gegangen.
 Welches Antivirenprogramm nutzt ihr denn privat am meisten?
 Der Server hat gerade mal wieder eine 504 Fehlermeldung geschickt.
@@ -11822,7 +11534,6 @@ Soll ich meine alten Dateien auf eine externe Festplatte sichern?
 Das Streaming ist wieder mal eingefroren obwohl mein Internet super schnell ist.
 Ich kann mir nicht vorstellen ohne Cloud Speicher zu arbeiten.
 Hast du die neue Funktionalität von Windows 11 schon getestet?
-Mein Drucker will einfach nicht mit dem Computer kommunizieren.
 Die Benutzeroberfläche der App wirkt auf mich sehr überladen und unübersichtlich.
 Ich suche eine günstige Grafikkarte für mein altes Gaming Setup.
 Warum dauert das Hochladen eines kleinen Videos so lange bei mir?
@@ -11920,7 +11631,6 @@ Mein Tastaturanschlag ist einfach zu laut geworden.
 Die App läuft auf meinem Tablet super flüssig.
 Brauche dringend Tipps für eine neue Webcam.
 Wie sichere ich meine Passwörter am besten ab?
-Der Drucker will heute einfach nicht scannen.
 Ich überlege mir ein neues Smartphone zu kaufen.
 Stimmt dass die Ladeleistung schneller geworden ist?
 Mein Bildschirm hat wieder einen toten Pixel.
@@ -11938,7 +11648,6 @@ Ich überlege mir grad ein neues Tastatur für Gaming.
 Kann ich meine alten Dateien noch auf der SSD speichern?
 Der Akku hält bei meinem Tablet kaum noch den ganzen Tag.
 Ich finde diese neue Softwareoberfläche viel intuitiver als die alte.
-Warum ist mein Router so langsam wenn ich streamen will?
 Hat jemand eine Empfehlung für einen günstigen Monitor?
 Mein Smartwatch verbindet sich nicht mehr mit dem Handynav.
 Ich lade gerade das Betriebssystem auf meinen neuen Rechner.
@@ -11955,7 +11664,6 @@ Ich muss meinen Festplattenplatz endlich aufräumen weil er voll ist.
 Mein Smartphone läuft seit dem Update total langsam.
 Kannst du mir helfen mein WLAN neu einzurichten?
 Ich hasse es wenn ich das Passwort nicht mehr weiß.
-Die neue KI ist echt beeindruckend was sie alles kann.
 Hast du schon mal in Cyberpunk 2077 gespielt?
 Mein Router streikt immer genau wenn ich Video chatte.
 Ich würde gerne meinen alten PC aufrüsten wie geht das?
@@ -12007,8 +11715,6 @@ Kannst du mir kurz helfen beim WLAN einrichten?
 Ich hasse es, wenn mein Bildschirm schwarz wird.
 Hat jemand ne gute App zum Fotos bearbeiten?
 Die Batterie von meinem Tablet hält nur noch fünf Stunden.
-Ich find die neue Windows-Version irgendwie langsam.
-Mein Chef will wieder alle Dateien in der Cloud speichern.
 Warum funktioniert das Touchpad auf meinem Notebook nicht richtig?
 Ich überleg mir, ob ich auf Mac umsteigen soll.
 Das Internet ist heute Morgen total ausgesetzt gewesen.
@@ -12025,7 +11731,6 @@ Das Update hat mein ganzes System zum Stillstand gebracht.
 Hast du ne Empfehlung für ein günstiges Keyboard?
 Meine Smartwatch synchronisiert sich einfach nicht mit dem Handy.
 Ich find diese ganzen Passwörter immer noch zu kompliziert.
-Der Drucker will nur dann funktionieren, wenn ich ihn anschalte.
 Wie installiere ich eigentlich Java auf meinem Linux-Rechner?
 Mein Smartphone Akku ist heute schon wieder komplett leer.
 Hast du den neuen Bildschirm für meinen PC endlich bestellt?
@@ -12044,7 +11749,6 @@ Welchen VPN-Dienst nutzt ihr eigentlich am häufigsten?
 Mein Tablet ist leider zerkratzt, brauche eine Schutzfolie.
 Kann ich die alten Daten einfach auf den neuen PC migrieren?
 Die Grafiksettings in dem Spiel sind zu hoch eingestellt.
-Ich habe einen virus auf meinem Mac entdeckt, was tun?
 Der Drucker druckt seit Tagen nicht mehr richtig.
 Hast du schon den neuesten Browser-Update installiert?
 Mein Smartwatch-Schrittzähler scheint irgendwie kaputt gegangen zu sein.
@@ -12201,7 +11905,6 @@ Mein Tablet friert beim Scrollen manchmal ein.
 Kann man die Werbeanzeigen im Browser komplett blockieren?
 Die neue Firmware bringt eigentlich nur Fehler mit sich.
 Ich muss dringend meine SSD aufräumen.
-Welches Kabel ist besser, USB-C oder Lightning?
 Mein WLAN ist heute morgen komplett abgeraucht.
 Hast du schon mal mit der neuen KI geschrieben?
 Ich kann nie die richtigen Treiber finden.
@@ -12212,10 +11915,9 @@ Kann mir jemand erklären, was ein SSD eigentlich macht?
 Mein Handy wird langsam zu langsam für Instagram.
 Ich traue mich nicht, mein Passwort zu ändern.
 Die Internetverbindung bei uns ist echt mies lately.
-Hat schon jemand den neuen Router von Fritz!Box?
+Hat schon jemand den neuen Router von Fritz! Box?
 Ich vergesse immer wieder meine Passwörter im Browser.
 Gaming auf dem Laptop ist so frustrierend heiß.
-Künstliche Intelligenz取代t bald unsere Jobs, oder?
 Mein Monitor hat einen toten Pixel jetzt.
 Ich möchte gerne mein altes Telefon recyceln lassen.
 Datenschutz ist für mich ein großes Thema geworden.
@@ -12235,8 +11937,6 @@ Kannst du mir helfen, das Passwort zurückzusetzen?
 Die Ladezeit der Seite ist echt nervig lang.
 Mein Router hat sich heute nacht automatisch neu gestartet.
 Welches Tablet eignet sich am besten für Studenten?
-Ich bin skeptisch, was die neuen Datenschutzrichtlinien angeht.
-Der Drucker will einfach nicht mit dem Rechner kommunizieren.
 Hast du deinen PC schon mal aufgeräumt in letzter Zeit?
 Die Künstliche Intelligenz entwickelt sich schneller als erwartet.
 Mein Notebook ist bei der Arbeit einfach zu langsam geworden.
@@ -12270,7 +11970,6 @@ Kann man denn WhatsApp Nachrichten auf dem PC entspannt lesen?
 Mein Router muss ich wieder neu starten sonst geht nichts.
 Das Internet in der Bahn war heute leider komplett weg.
 Ich lerne gerade wie man Fotos mit Lightroom besser bearbeitet.
-Habt ihr das neue Game of Thrones Spiel schon gesehen?
 Mein Mauspad ist so abgegriffen dass ich es austauschen muss.
 Die Bildschirmauflösung auf meinem alten Monitor gefällt mir einfach nicht mehr.
 Ich habe versehentlich meinen Computer komplett heruntergefahren während der Installation.
@@ -12306,8 +12005,6 @@ Mein Router scheint heute schon wieder die Nase voll zu haben.
 Kann mir jemand erklären, wie man seine alten Fotos in die Cloud hochlädt?
 Das neue iPad ist nett, aber der Preis ist wirklich abschreckend.
 Ich hasse es, wenn mein Handy mitten im Spiel abstürzt.
-Habt ihr auch dieses nervige Update-Nachricht bekommen, die partout nicht weggehen will?
-Mein Chef will, dass wir alle auf Linux umsteigen, das kann ich mir kaum vorstellen.
 Die Akkulaufzeit von meinem neuen Laptop ist tatsächlich beeindruckend gut.
 Ich verbringe zu viel Zeit damit, meine Apps neu anzupassen.
 Warum ist der Browser plötzlich so langsam geworden, obwohl ich ihn gerade gestartet habe?
@@ -12318,7 +12015,6 @@ Die Darstellung von Farben auf diesemMonitor ist für mich einfach nicht scharf 
 Kann man wirklich nur mit einer Tastatur ohne Maus effizient arbeiten?
 Ich bin schockiert, wie viele Daten Social Media Apps von mir sammeln.
 Mein Freund schwört darauf, dass Gaming-PCs eigentlich gar nicht so teuer sein müssen.
-Habt ihr schon gesehen, was die neue KI bei der Bildgenerierung zustande bringt?
 Ich vergesse ständig meine Passwörter und muss mich immer wieder neu registrieren.
 Die WiFi-Verbindung in meinem Keller ist praktisch nicht vorhanden.
 Sollte ich mir eine mechanische Tastatur zulegen oder reicht eine normale aus?
@@ -12490,11 +12186,9 @@ Die KI macht manchmal echt seltsame Vorschläge beim Text schreiben.
 Mein Internet ist heute richtig lahm zum Streamen.
 Welches Smartphone würdest du unter fünfhundert Euro empfehlen?
 Ich hab Angst dass meine Dateien in der Cloud verloren gehen.
-Der Drucker will einfach nicht mehr mit dem Computer kommunizieren.
 Hast du schon mal mit Discord für Meetings gearbeitet?
 Meine Maus hat einen Totpunkt und das nervt mich total.
 Ich sollte mir vielleicht eine externe SSD zulegen für Backups.
-Das neue iPadOS ist wirklich übersichtlich geworden muss ich sagen.
 Kannst du mir erklären was genau eine VPN Verbindung macht?
 Mein Laptop läuft im Hintergrund immer so laut wie ein Ventilator.
 Ich finde TikTok Algorithmus total durchschaubar und langweilig eigentlich.
@@ -12575,7 +12269,6 @@ Welches Online-Banking-Programm nutzt ihr denn am liebsten?
 Die Akkulaufzeit meines Laptops wird langsam bedenklich schlecht.
 Habe versehentlich eine wichtige Datei überschrieben, Mist.
 Künstliche Intelligenz schreibt manchmal echt seltsame Texte.
-Ich will mir endlich einen Gaming-PC zulegen, braucht Tipps.
 Das Passwort für mein WLAN habe ich komplett vergessen.
 Mein Internet ist heute wieder mal lahm.
 Hast du schon mal mit der neuen KI geredet?
@@ -12631,7 +12324,6 @@ Mein Smartphone wird immer langsamer seit dem letzten Update.
 Kann mir jemand eine gute VPN-App für Android empfehlen?
 Ich hasse es wenn mein Internet plötzlich wieder ausfällt.
 Hast du schon gehört dass die neue Grafikkarte verfügbar ist?
-Mein Laptop braucht ewig zum Hochfahren was kann ich tun?
 Die Akkuladung reicht bei mir kaum noch bis Abend.
 Kannst du mal gucken warum mein Drucker nicht reagiert?
 Ich überleg mir ein neues Handy zu kaufen aber das Budget ist eng.
@@ -12689,7 +12381,6 @@ Ich find diese KI-Texte manchmal etwas zu künstlich klingend.
 Wir brauchen dringend einen neuen Drucker, der Tinte spart.
 Kann jemand erklären, warum meine SSD so laut vibriert?
 Das neue Betriebssystem ist wirklich übersichtlich und schnell geworden.
-Ich lade gerade alle Fotos in die Google相册 hoch.
 Mein Notebook macht beim Gaming echt seltsame Geräusche jetzt.
 Hast du Erfahrung mit Raspberry Pi für Heimautomatisierung?
 Die Internetverbindung fällt hier im Keller immer wieder raus.
@@ -12706,7 +12397,6 @@ Diese Software hat mich total enttäuscht von der Benutzerfreundlichkeit her.
 Mein Handy Akku hält heute garnicht mehr so lange wie vorher.
 Hast du schon mal diese neue KI App für Fotos gesehen?
 Ich find es super praktisch dass meine Musik sich automatisch syncen lässt.
-Der Drucker will einfach nicht mehr connecten trotz neuem Treiber.
 Kann mir jemand einen günstigen PC für Office Arbeiten empfehlen?
 Meine Internetverbindung ist heute abend wieder mal extrem lahm.
 Ich hasse es wenn Updates genau in Meetings anfangen zu installieren.
@@ -12773,11 +12463,9 @@ Die App fliegt dauernd raus ohne erkennbaren Grund.
 Ich lerne gerade Grundlagen von HTML und CSS.
 Mein Tablet ist als E-Book Reader echt perfekt geeignet.
 Welches Linux Distribution würdest du für Anfänger vorschlagen?
-Der Drucker will einfach nicht mit meinem PC kommunizieren.
 Habe meine Passwort Manager App endlich eingerichtet super sicher.
 Die Ladezeit der Seite war heute wirklich extrem lang.
 Mein Smartphone Akku hält kaum noch den halben Tag.
-Ich bin skeptisch was die neue Datenschutzrichtlinie angeht.
 Das Update hat meiner Meinung nach nur Bugs eingeführt.
 Mein WLAN hängt wieder mal komplett durch.
 Kannst du mir helfen das Passwort zurückzusetzen?
@@ -12793,7 +12481,6 @@ Ich hab versehentlich die falsche App gelöscht.
 Der Tech Support war heute echt unglaublich nervig.
 Welches Tablet ist am besten für Notizen geeignet?
 Meine Tastatur macht seitdem ich getippt habe seltsame Geräusche.
-Ich will endlich meinen Code verstehen ohne Google.
 Das neue Betriebssystem fühlt sich irgendwie hakelig an.
 Wir brauchen dringend mehr RAM in unserem Server.
 Hast du dich schon für das 5G Netz entschieden?
@@ -12804,7 +12491,6 @@ Kann man diese App wirklich ohne Werbung nutzen?
 Mein Kopfhörer verbinden sich nicht mehr mit dem Bluetooth.
 Der Computer läuft seit der Reinigung deutlich leiser im Betrieb.
 Ich suche eine günstige Alternative zu Adobe Photoshop.
-Mein Router will seit dem Update nicht mehr starten.
 Hat jemand Erfahrung mit der neuen Samsung Smart TV Fernbedienung?
 Ich hab mir endlich einen NAS gekauft, fühlt sich gut an.
 Die neue Windows-Version macht meinen Rechner nur langsamer.
@@ -12871,7 +12557,6 @@ Hörst du auch das neue Podcast über Cybersecurity Thema?
 Ich lerne gerade Excel Formeln und finde es anstrengend.
 Das Handy meiner Oma ist zu kompliziert für sie.
 Soll ich auf Android oder iOS umsteigen eigentlich?
-Mein Drucker will einfach keine Verbindung mehr herstellen.
 Hast du schonmal Minecraft gespielt mit Freunden online?
 Ich bekomme immer nervige Popups wenn ich Surfe.
 Welche Tastatur würdest du dir zum Tippen kaufen?
@@ -12953,7 +12638,6 @@ Hast du das neue Feature in Microsoft Office schon gesehen?
 Die Virtual-Reality-Brille macht mir leicht schwindelig.
 Ich kann mein Smartphone nicht mehr entsperren.
 Welcher Streamingdienst hat am besten Filme im Angebot?
-Der Druckertoner ist wieder leer, was jetzt?
 Mein WLAN ist heute Morgen wieder mal langsamer geworden.
 Kann mir jemand erklären warum die Updates so lange dauern?
 Ich brauche dringend eine neue Festplatte für meinen Rechner.
@@ -13057,10 +12741,8 @@ Kann ich mein iPhone Daten auf Android übertragen?
 Mein Internet ist heute langsam wie die Post.
 Kannst du mir helfen das Wi-Fi neu einzurichten?
 Die Batterielebensdauer bei meinem Handy wird immer kürzer.
-Ich find diese neue Tastatur super bequem zu bedienen.
 Warum friert mein Browser dauernd ein wenn ich viele Tabs offen habe?
 Hast du schon gehört dass Apple wieder was Neues rausbringt?
-Mein Router will einfach nicht mehr mit dem Modem reden.
 Ich muss endlich meine alten Fotos auf eine externe Festplatte kopieren.
 Künstliche Intelligenz macht mir manchmal doch etwas gruselig ehrlich gesagt.
 Welches Notebook wäre gut für das Studium in diesem Preisbereich?
@@ -13093,7 +12775,6 @@ Gaming auf dem Handy macht irgendwie doch weniger Spaß.
 Ich kann nie merken ob mein WLAN noch schnell ist.
 Das neue MacBook M3 klingt ja wirklich sehr stark.
 Hörst du auch immer diese nervigen Benachrichtigungstöne?
-Mein Drucker will einfach nicht mehr mit dem PC reden.
 Datenrettung nach einem Festplattencrash ist echt teure Sache.
 Ich liebe es wie Alexa mir den Morgen anzeigt.
 Virtuelle Realität kommt bei mir noch irgendwie nicht wirklich an.
@@ -13171,7 +12852,6 @@ Hast du schon einen Streaming-Abo für Musik?
 Meine Maus ist schon ganz schön kaputt.
 Das Internet zu Hause ist einfach zu langsam.
 Welche Tastatur empfiehlst du mir für Programmieren?
-Ich hab keine Ahnung, was ein Server genau ist.
 Mein Tablet macht mich bei der Arbeit glücklich.
 Die Akkulaufzeit von dem neuen Modell ist super.
 Kannst du mir sagen, wie ich den Virus entferne?
@@ -13295,7 +12975,6 @@ Die Sprachsteuerung versteht mich einfach gar nicht mehr.
 Ich muss endlich mal mein altes Notebook entsorgen.
 Wie sicher ist denn eigentlich dein Cloud-Speicher überhaupt?
 Das Spiel stürzt immer bei der Ladekarte ab.
-Mein Mauszeiger springt wild hin und her rum.
 Kann man das Backup auch automatisch machen lassen?
 Die Akkulaufzeit meines Geräts wird immer schlechter.
 Ich such einen guten Schutz vor Phishing-E-Mails.
@@ -13379,7 +13058,6 @@ Das Streaming ruckelt immer wenn andere da sind.
 Meine Tastatur klebt schon wieder mit Schmutz zu.
 Wie stell ich die Privatsphäre-Einstellungen richtig auf Instagram?
 Der Server ist gerade mal wieder komplett down.
-Mein Router hängt seit早上morgen durch.
 Kann mir jemand eine gute Tastatur empfehlen?
 Ich hasse es wenn Updates am Montag kommen.
 Der neue Mac ist einfach zu teuer für mich.
@@ -13443,7 +13121,6 @@ Ich vermisst meine alte Tastatur mit Mechaniken.
 Die KI zeichnet ja mittlerweile echt realistische Bilder.
 Mein Smartphone wird beim Laden total warm.
 Hast du schon mal diese neue Produktivitäts-App gesehen?
-Der Drucker hat sich wieder verabschiedet,典型isch.
 Ich lade alle Fotos direkt in Google Photos hoch.
 Das Internet ist heute wieder mal lahm wie nie.
 Soll ich mein Laptop aufrüsten oder neu kaufen?
@@ -13517,7 +13194,6 @@ Warum ist meine Internetverbindung so langsam heute morgen?
 Ich habe versehentlich das falsche Passwort eingegeben jetzt bin ich ausgesperrt.
 Gibt es eine App die wirklich gut Musik erkennt?
 Mein Monitor flackert seit gestern Abend komischerweise ohne Grund.
-Ich will endlich von Windows auf Linux umsteigen vielleicht.
 Die Grafik in dem neuen Trailer sieht echt krass aus.
 Kann ich meine alten Fotos einfach in der Cloud speichern?
 Ich hab Angst dass mein Laptop bald die Platte wirft.
@@ -13553,7 +13229,6 @@ Hat jemand einen Tipp gegen Akku-Probleme?
 Ich lade gerade ein riesiges Video herunter.
 Die Software frisst zu viel Arbeitsspeicher bei mir.
 Woran erkenne ich ob mein Computer einen Virus hat?
-Ich will auf Linux umsteigen, aber ich bang.
 Mein Smartwatch-Band ist endlich mal gerissen.
 Kann man diese Spiel-Updates auch abschalten?
 Ich suche eine günstige externe Festplatte dazu.
@@ -13628,7 +13303,6 @@ Das neue Grafikupdate hat meinen FPS komplett zerlegt leider.
 Brauche ich eine externe Festplatte für mein Backup oder reicht die Cloud?
 Warum funktionieren immer alle Updates erst nach zwei Versuchen richtig?
 Mein Laptop macht seltsame Geräusche, sollte ich ihn zurückschicken?
-Ich lerne gerade Java und find es total trocken ehrlich gesagt.
 Kann jemand mir helfen meinen Drucker wieder mit dem Netz zu verbinden?
 Die Sprachsteuerung im Auto versteht mich immer noch nicht richtig wirklich.
 Ich vermiss die großen Touchpads bei den neuen Ultrabooks einfach so sehr.
@@ -13685,7 +13359,6 @@ Ich kann mich seit gestern nicht mehr in mein Google Konto einloggen.
 Mein Router ist wohl wieder abgestürzt.
 Hast du schon die neue Softwareversion installiert?
 Die Akkulaufzeit auf meinem Handy geht echt schnell.
-Ich find diese Touchpads in Laptops so nervig.
 Kann mir jemand eine gute Maus für CAD empfehlen?
 Mein PC macht immer dieses seltsame Klickgeräusch.
 Warum funktioniert mein Bluetooth-Headset einfach nicht?
@@ -13715,7 +13388,6 @@ Hat jemand eine Empfehlung für ein gutes Noise-Cancelling Kopfhörer?
 Mein Passwort vergessen und jetzt krieg ich den Account nicht wieder.
 Das Internet bei mir daheim ist gerade mal wieder lahm.
 Spiel gerade Elden Ring und bin total gefangen in der Geschichte.
-Ich find es komisch dass mein Laptop so laut wird ohne Grund.
 Brauche dringend eine externe Festplatte zum Sichern meiner Fotos.
 Warum kostet das Abonnement für Streamingdienste eigentlich immer mehr?
 Mein Tablet zeigt nur noch einen schwarzen Bildschirmschoner an.
@@ -13732,7 +13404,6 @@ Die Grafik in diesem neuen Spiel sieht fast wie ein Film aus.
 Ich hab meine alten Daten endlich mal auf eine Cloud verschoben.
 Kann man eigentlich einen PC selbst zusammenbauen ohne viel Ahnung?
 Mein Smartwatch zählt die Schritte irgendwie falsch oder zu viel.
-Das Laden über USB-C ist ja zum Glück jetzt überall Standard.
 Mein Router war gestern abend total lahm.
 Hast du schon mal in der Cloud gesichert?
 Das neue Update hat bei mir alles zerschießen wollen.
@@ -13873,7 +13544,6 @@ Hast du eine gute Alternative zu Photoshop gefunden?
 Die Akkulaufzeit meines Tablets ist deutlich gesunken.
 Ich verstehe nicht warum meine Tastatur so laggt.
 Kann ich das Passwort für meinen Account zurücksetzen?
-Das neue Betriebssystem sieht zwar gut aus aber...
 Mein Internetanschluss fiel gerade komplett aus zum Glück.
 Welches Programm nutzt ihr zur Videobearbeitung heutzutage?
 Ich sollte mal meinen Festplattenspeicher aufräumen dringend.
@@ -13905,7 +13575,6 @@ Ich muss dringend mal meine alten Dateien auf die externe HDD verschieben.
 Warum läuft diese App auf meinem Handy immer so ruckelig?
 Die Akkulaufzeit meines Laptops lässt nach zwei Jahren merklich nach.
 Ich vermisste mein altes Windows-Layout bei der Umstellung auf Linux ganz schön.
-Das Smartwatch-Band ist gerissen also muss ich schnell ein neues kaufen.
 Mein Router bricht die Verbindung dauernd ab wenn es regnet wirklich merkwürdig.
 Ich hasse es wenn Treiberupdates mitten im Gaming-Prozess kommen und stören.
 Kannst du mir helfen mein Smartphone mit dem Drucker zu verbinden?
@@ -13918,7 +13587,6 @@ Kannst du mir helfen mein WLAN Router neu zu konfigurieren?
 Das neue MacBook ist zwar schick aber teuer.
 Warum stürzt meine Photoshop Installation immer wieder ab?
 Ich liebe es auf dem PlayStation 5 zu zocken.
-Mein Laptop braucht ewig zum Hochfahren, was tun?
 Hast du dir den neuen Tech Blog Artikel durchgelesen?
 Die Tastatur meines iPhones reagiert heute ganz seltsam.
 Ich verstehe nicht warum mein Drucker offline ist.
@@ -13937,7 +13605,6 @@ Die Lautsprecher an meinem PC sind wirklich schlecht.
 Hast du schon das neue Update für dein Handy gesehen?
 Mein Router streikt wieder seit dem Update.
 Hast du dir schon die neue Grafikkarte gegönnt?
-Ich find KI-Texte oft irgendwie zu seifig.
 Warum dauert der Download von Spielen so lange?
 Mein Handy lädt schon ewig und wird warm.
 Kann mir jemand einen günstigen Monitor empfehlen?
@@ -13968,7 +13635,6 @@ Die Antwort von der KI war total absurd und falsch.
 Hast du schon mal das neue Game von Nintendo probiert?
 Mein Monitor hat ne tote Pixelzone oben links.
 Der Browser friert immer ein wenn ich zu viele Tabs offen hab.
-Ich find die neuen AirPods Pro deutlich besser als die alten.
 Warum ist meine Internetverbindung so langsam heute Abend?
 Kannst du mir helfen mein Handy mit dem Drucker zu koppeln?
 Die Benutzeroberfläche der App ist einfach nur unübersichtlich gestaltet.

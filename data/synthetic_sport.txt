@@ -196,7 +196,6 @@ Das Mannschaftsspiel gestern war wirklich knapp gegange.
 Mein Rücken tut nach dem Gewichtheben immer weh.
 Wir brauchen dringend neue Trikots für die Saison.
 Der Halbmarathon ist dieses Jahr leider abgesagt worden.
-Klettern in der Natur ist einfach was ganz anderes.
 Ich kann gar nicht genug davon krieigen zu schwimmen.
 Das Fußballspiel am Abend war einfach ein Traum.
 Der Regen hat unser Fußballtraining gestern komplett zunichtegemacht.
@@ -409,7 +408,6 @@ Kannst du mir mal deinen Fahrradhelm leihengeben?
 Beim Mountainbike fahren bin ich fast umgekippt.
 Das Fitnessstudio in der Nähe ist total überfüllt.
 Wir sehen uns doch nach dem Tennismatch wieder?
-Meine Knie tun weh, also bleib ich heute zu Hause.
 Der Marathon war anstrengender als erwartet, ehrlich gesagt.
 Ich überlege, ins Badmintontraining zu wechseln.
 Hast du schon einen Platz für den Laufwettkampf?
@@ -428,7 +426,6 @@ Der Basketballkorb auf dem Schulhof ist kaputt.
 Der FC Bayern hat das Spiel wieder dominiert.
 Meine Laufschuhe sind endgültig kaputt, muss neue kaufen.
 Wer macht morgen mit beim Vereinslauf?
-Ich schwimme gerne abends, bringt echt was.
 Das Fitnessstudio ist heuteabend voll wie die Hölle.
 Mein Trainer sagt, ich soll mehr Beine machen.
 Die Kletterhalle hat heute geschlossen, blöd gelaufen.
@@ -933,9 +930,7 @@ Die Liga heute war einfach nur Katastrophale.
 Ich muss dringend meine alten Laufschuhe tauschen.
 Am Wochenende gehen wir wieder zum Wandern raus.
 Kannst du mir mal den neuen Trainingsplan schicken?
-Beim Rudern merkt man erst nach zwei Stunden was.
 Mein Verein sucht noch zwei Leute für die A-Mannschaft.
-Das Wetter war super, also sind wir schwimmen gegangen.
 Ich habe mir beim Boxen das Handgelenk verrenkt.
 Die neue Laufstrecke um den See ist wirklich schön.
 Morgen früh ist wieder Boxtraining um sieben Uhr.
@@ -982,7 +977,6 @@ Die neuen Laufschuhe haben mir echt geholfen, meine Performance zu verbessern.
 Haben wir das Fitnessstudio schon gekündigt?
 Mein Laufschuh ist echt am Ende.
 Das Wochenende wird wieder voll sportlich.
-Wer will heute Abend noch spazieren gehen?
 Ich hasse es, vormittags ins Training zu kommen.
 Die neue Kletterwand im Park sieht geil aus.
 Wir müssen bald wieder Mannschaftssport spielen.
@@ -1060,7 +1054,6 @@ Mein Laufschritt hat sich deutlich verbessert, bin stolz.
 Im Fitnessstudio ist heute voll, typischer Montagabend.
 Wir klettern morgen, hast du schon Seil dabei?
 Das Schwimmbad war leer, perfect für mich.
-Radfahren in den Bergen, was will man mehr.
 Mein Team hat gewonnen, Feierabend ist jetzt.
 Joggen morgens macht mich fit für den Tag.
 Der Marathon war anstrengend, aber es hat gelohnt.
@@ -1116,7 +1109,6 @@ Wir treffen uns immer Donnerstags zum Basketball.
 Die Radtour gestern war richtig anstrengend.
 Ich brauche unbedingt mehr Ausdauer auf dem Rücken.
 Beim Sprint heute bin ich fast gestürzt.
-Der neue Trainer bringt echt was.
 Mein Handgelenk tut nach dem Klettern immer weh.
 Sollten wir morgen nochmal das Fitnessstudio besuchen?
 Die Skiurlaub war zwar kurz aber super.
@@ -1151,7 +1143,6 @@ Das Klettern in der Halle war heute zu einfach.
 Ich schlafe heute nach dem Training super früh ein.
 Fußball mit den Kollegen macht locker, egal das Ergebnis.
 Wir brauchen dringend neue Turnschuhe für die Hallensaison.
-Die Berge waren heute richtig steil, was ne Tour.
 Ich mag diese neuen Leggings total, sind super bequem.
 Wer kommt morgen zum Morgenschwimmen mit uns vorbei?
 Meine Laufschuhe sind komplett abgelaufen, ich muss mir neue holen.
@@ -1239,7 +1230,6 @@ Der neue Trikot ist wirklich super bequem.
 Ich schwimme jeden zweiten Tag in der Halle.
 Das Radfahren in den Bergen war anstrengend.
 Wir haben das Turnier am Wochenende gewonnen.
-Mein Trainer will dass ich mehr gebe.
 Die Marathonzeit war dieses Jahr leider schlechter.
 Kannst du mir ein gutes Fitnessstudio empfehlen?
 Basketball ist meiner Meinung nach unterbewertet.
@@ -1256,7 +1246,6 @@ Radtouren am Wochenende entspannen mich total.
 Der neue Fitnesstrend mit den Kugeln nervt mich.
 Wir sind heute Abend ins Fitnessstudio gegangen.
 Mein Laufplan für die nächste Woche ist schon fertig.
-Der neue Verein sieht nach was ganz gutem aus.
 Schwimmen ist meine liebste Art der Erholung.
 Hast du die Spielanalyse vom Wochenende schon gesehen?
 Ich brauche dringend neue Laufschuhe, die alten sind kaputt.
@@ -1373,14 +1362,12 @@ Wir haben im Pool ganz schön gekämpft.
 Die Kletterhalle in der Nähe ist super ausgestattet.
 Ich würde gerne wieder mit dem Radfahren anfangen.
 Das Training nach der Arbeit macht mir nichts aus.
-Unsere Mannschaft hat heute gewonnen, endlich mal was.
 Ich brauche neue Handschuhe fürs Klettern.
 Das Marathontraining kostet echt viel Zeit.
 Wir gehen am Samstag zum Basketballspiel.
 Meine Beine sind nach dem Bergsteigen wie Blei.
 Der neue Fitnesstrend mit den Reifen ist blöd.
 Fußball ist einfach die beste Methode zum Stress abbauen.
-Ich habe mir beim Spinning echt was gefangen.
 Kommst du morgen wieder zum Laufen mit?
 Mein Verein hat den Aufstieg perfekt hingelegt.
 Schwimmen ist so viel entspannter als das Crosstraining.
@@ -1577,7 +1564,6 @@ Schwimmen ist die beste Ausdauerübung überhaupt.
 Ich liebe das Gefühl nach dem Training.
 Das Mountainbiken war gestern echt anstrengend.
 Wir haben den Titel gewonnen heute.
-Mein Hund will immer mit zum Laufen.
 Die neue Sporttasche sieht wirklich toll aus.
 Kannst du mir beim Gewichtheben helfen?
 Wir treffen uns um sieben zum Morgensport.
@@ -1604,14 +1590,12 @@ Die neue Laufapp hilft mir beim Pacing.
 Klettern an der Wand ist stressfrei und entspannend.
 Wir haben den Pokalwettbewerb knapp gewonnen.
 Radfahren im Sommer ist einfach der Hammer.
-Ich will endlich mal wieder schwimmen gehen.
 Heute habe ich erstmal Pause eingelegt.
 Wir fahren morgen ins Freibad, hast du Lust?
 Mein neues Laufschuh ist echt bequem.
 Im Fitnessstudio war es leider super voll.
 Das Training hat mir richtig gut getan.
 Hast du das Fußballspiel gestern auch gesehen?
-Ich will unbedingt wieder mit dem Rad fahren.
 Klettern macht mir einfach so viel Spaß.
 Die Mannschaft hat heute super zusammengehalten.
 Mein Rücken macht wieder mal Ärger.
@@ -1683,7 +1667,6 @@ Ich brauch mehr Ausdauer für die nächste Saison.
 Ich muss heute wieder ins Studio, keine Ausrede mehr.
 Fußball mit den Jungs war gestern echt anstrengend.
 Mein neuer Laufschuh sitzt irgendwie noch total schlecht.
-Klettern ist mein absolutes Stressabbau-Zeug, find ich klasse.
 Wir haben das letzte Match knapp aber verdient gewonnen.
 Der Pool war heute voll, ich musste warten.
 Ich überlege, ob ich beim nächsten Marathon starte.
@@ -1716,7 +1699,6 @@ Hast du schon mal am Radweg vorbeigeschaut?
 Das Training nach der Arbeit ist immer ganz schön mühsam.
 Mein bester Freund und ich gehen jeden Freitag joggen.
 Die Halbzeitpause ist immer die beste Zeit für Pizza.
-Ich will dieses Jahr endlich mal wieder ins Schwimmbad gehen.
 Der Marathon war anstrengender als ich gedacht hätte.
 Unser neuer Trainer bringt uns wieder in Form, super.
 Ich hasse es, wenn das Fitnessstudio morgens überfüllt ist.
@@ -1752,7 +1734,6 @@ Ich brauche eine Pause vom Fitnessstudio, bin ausgebrannt.
 Die Skiurlaub war super, die Pisten waren perfekt präpariert.
 Wir haben beim Volleyballturnier den zweiten Platz geholt.
 Mein Trainer hat gesagt, ich soll mehr Protein essen.
-Laufen im Regen hat was, wenn man warm angezogen ist.
 Das neue Schwimmbad hat eine richtig coole Rutsche.
 Ich suche jemanden, der mit mir zum Tennis geht.
 Der Kaffee vorm Laufen ist Pflicht für mich.
@@ -1835,7 +1816,7 @@ Wir machen heute Abend doch kurz die Runde.
 Mein rechter Oberschenkel zuckt nach dem Training.
 Endlich habe ich Zeit fürs Fitnessstudio.
 Die neue Laufschuhe sitzen super bequem.
-Morgen früh um sechs geht’s los.
+Morgen früh um sechs gehts los.
 Wer kommt heute zum Fußballturnier?
 Ich schwimme gerne, das entspannt total.
 Das Kletterparcour ist echt krass geworden.
@@ -1863,7 +1844,6 @@ Klettertour am Wochenende, wer hat Lust dazu?
 Die Bahn am Fluss ist zum Radfahren echt toll.
 Schwimmen macht mir viel mehr Spaß als Laufen.
 Unser Verein hat dieses Jahr ganz gut abgeschnitten.
-Ich hab mir bei den Kniebeugen was gedreht.
 Das Marathon-Event in Berlin war riesig organisiert.
 Kommst du morgen vormittag auch zum Morgenlauf?
 Der Torwart war heute richtig stark im Spiel.
@@ -2084,7 +2064,6 @@ Mein Laufschuh ist wirklich kaputt, ich brauch dringend neuen Sohlen.
 Das Turnier war krass, wir haben bis zur letzten Minute gekämpft.
 Yoga hilft mir unglaublich gegen meine Verspannungen im Rücken.
 Radfahren mit der Familie ist immer so eine entspannte Angelegenheit.
-Ich will unbedingt mal den Marathon versuchen, aber langsam starten.
 Die Mannschaft hat gestern wirklich nicht schlecht gespielt, finde ich.
 Klettern macht mich wahnsinnig glücklich, besonders an der Wand drinnen.
 Fitness ist mir wichtig, auch wenn ich manchmal faul bin.
@@ -2206,7 +2185,6 @@ Der neue Verein sieht echt professionell und motiviert aus.
 Ich habe meinen Marathon in unter vier Stunden absolviert.
 Das Radfahren am Wochenende tut der Seele gut.
 Wir brauchen dringend neue Schiedsrichter für die Liga.
-Mein Trainer will, dass ich mehr Krafttraining einbaue.
 Das Finale war ein absoluter Wahnsinn von Anfang an.
 Ich kann nicht klettern, weil mir zu schwindelig wird.
 Hast du schon deine Laufschuhe für die Tour geölt?
@@ -2250,7 +2228,6 @@ Ich versuche jetzt seit zwei Wochen regelmäßig zu joggen.
 Das Kletterparlament in München ist unbedingt einen Besuch wert.
 Fußball am Sonntag ist einfach die beste Abkopplung.
 Ich bin beim Joggen fast gestürzt, war blöd.
-Wer will heute Abend noch ins Fitnessstudio kommen?
 Mein neues Rad fährt sich echt super auf der Straße.
 Die letzte Spieleinsatz war leider nicht mein bester Auftritt.
 Schwimmen macht mir mehr Spaß als jedes andere Training.
@@ -2405,7 +2382,6 @@ Das Fitnessstudio nebenan hat endlich wieder geöffnet.
 Ich schwimme jedes Wochenende eine Runde in der Halle.
 Warst du auch beim Halbmarathon? Die Streckenführung war cool.
 Mein Klettern im Bouldern macht total viel Spaß.
-Wir haben den Pokal gewonnen, endlich mal was gewonnen.
 Ich fahre jeden Abend mit dem Fahrrad zur Arbeit.
 Das Training mit dem Trainer war echt anstrengend.
 Kannst du mich beim Tennis ersetzen, ich habe keine Zeit.
@@ -2504,7 +2480,6 @@ Ich muss echt mal wieder ins Fitnessstudio gehen.
 Mein neuer Laufschuh ist super bequem für lange Distanzen.
 Wir haben endlich einen neuen Platztrainer im Verein.
 Die Kletterhalle hier in der Stadt ist echt gut.
-Hab heute早上 wieder eine Runde Schwimmen geschwommen.
 Fußball am Wochenende ist einfach die beste Entspannung.
 Mein Radweg ist gerade wegen Bauarbeiten gesperrt.
 Die Yoga-Stunde war genau das Richtige nach der Arbeit.
@@ -2577,7 +2552,6 @@ Das Turnier morgen ist leider schon ausgebucht.
 Ich brauche echt eine Pause vom Sport.
 Hast du den neuen Laufschuh schon bekommen?
 Wir haben gestern Abend wieder Basketball gespielt.
-Mein Trainer will, dass ich mehr Beinpresse mache.
 Das Wetter ist perfect zum Radfahren heute.
 Ich habe mir beim Klettern den Finger verletzt.
 Die Mannschaft hat im Finale leider verloren.
@@ -2603,13 +2577,11 @@ Ich muss unbedingt meine Laufform wieder aufbauen.
 Die Laufschuhe sind komplett durch, muss mir welche neue kaufen.
 Am Wochenende machen wir wieder den wöchentlichen Fußballabend.
 Schwimmen tut mir gut, wenn ich mal Stressabbau brauche.
-Mein Kletterpartner ist heute leider krank, also bleib ich zu Hause.
 Im Fitnessstudio war so voll, dass ich kaum Platz fand.
 Wir haben die ganze Mannschaft zum Grillen eingeladen.
 Der Marathonlauf war extrem anstrengend, aber mega schön.
 Kannst du mir empfehlen, welches Rad ich für die Stadt kaufen soll?
 Beim Joggen durch den Park fühlt man sich richtig frei.
-Die neue Turnhalle sieht super aus, endlich mal was Modernes.
 Ich trainiere seit drei Monaten und merke schon den Unterschied.
 Unsere Handballmannschaft hat gestern knapp verloren, pech gehabt.
 Das Klettern im Fels ist viel cooler als in der Halle.
@@ -2857,7 +2829,6 @@ Unser Verein plant nächste Woche ein großes Turnier.
 Die neuen Laufschuhe sitzen einfach perfekt.
 Ich kann gar nicht mehr an den Fitnessstudio denken.
 Das Radfahren in der Stadt ist echt anstrengend.
-Wer will morgen mit uns zum Schwimmen gehen?
 Mein Trainer hat mir heute eine Pause verordnet.
 Die Kletterhalle downtown hat endlich wieder geöffnet.
 Wir waren die ganze Woche im Trainingslager dabei.
@@ -2993,7 +2964,6 @@ Unser Trainer war gestern mega sauer, wir haben die Taktik nicht verstanden.
 Ich brauche dringend einen neuen Trikot, der alte ist schon fleckig.
 Das Handballspiel in der Halle war laut, aber die Stimmung war top.
 Laufen regnet nicht, deshalb bin ich heute ins Studio gegangen statt draußen.
-Mein Nachbar ist每天早上 um sechs Uhr unterwegs, er ist echt diszipliniert.
 Ich würde gerne Tennis lernen, aber ich finde keinen Partner, der Zeit hat.
 Die Olympiaübertragungen schauen wir immer zusammen, die Emotionen sind ansteckend.
 Ich habe beim Crossfit-Workout fast aufgegeben, aber dann hat mich der Coach motiviert.
@@ -3111,7 +3081,6 @@ Das Klettern im Bouldern hat mich heute total gefordert.
 Schwimmen im Freibad ist im Sommer immer noch die beste Idee.
 Wer von euch war schonmal beim Marathon in Berlin dabei?
 Mein Rücken schmerzt nach dem Training, ich muss aufwärmen.
-Die Handball-Playoffs sind endlich zu Ende, was eine Erleichterung.
 Ich such nach einem Yoga-Kurs in meiner Nähe, irgendwelche Tipps?
 Das neue Trikot des Teams sieht wirklich cool und modern aus.
 Laufen regt meinen Appetit richtig an, Hunger pur halt.
@@ -3374,7 +3343,6 @@ Fußball auf dem kleinen Platz ist heute Abend leider abgesagt worden.
 Ich habe mich beim Klettern blöd verlaufen und war verärgert.
 Schwimmen im Freibad ist bei diesem Wetter einfach der Hammer.
 Mein Knie schmerzt noch immer nach dem letzten Wettkampf.
-Wir sollten doch mal zusammen Tennis spielen, wie lange her.
 Der neue Sportplatz sieht wirklich gut aus, finde ich.
 Ich habe meinen ersten Triathlon erfolgreich abgeschlossen, ich bin stolz.
 Wir müssen morgen wieder ins Fitnessstudio.
@@ -3416,13 +3384,11 @@ Ich muss langsam mal wieder zu den Yoga-Einheiten gehen.
 Das Turnfest im Sommer war mal wieder ein riesiges Chaos.
 Meine Schwester trainiert für einen Halbmarathon und wird immer schneller.
 Wir haben uns einen neuen Verein gesucht, da ist die Atmosphäre besser.
-Das Crossfit-Training macht mich richtig fertig, aber es bringt was.
 Ich kann mir gar nicht vorstellen, dass ich noch Fußball spiele.
 Die Skifahrer sind schon früh morgens auf der Piste unterwegs.
 Mein Hund und ich joggen jeden Morgen um den See herum.
 Das Basketballspiel gestern Abend war wirklich spannend bis zur letzten Sekunde.
 Ich hasse es, wenn meine Laufgruppe ausfällt, bin schon froh, wenn ich allein laufe.
-Die neue Turnhalle ist super ausgestattet, da kann man richtig was erreichen.
 Wir haben den Tischtennisabend wieder abgesagt, weil alle krank waren.
 Mein Vater ist ein alter Hase im Boxring, er ist immer noch fit.
 Das Mountainbike-Wochenende war anstrengend, aber die Landschaft hat alles kompensiert.
@@ -3563,7 +3529,6 @@ Unser Trainer war heute echt sauer auf uns.
 Das Turnier endet um vier Uhr nachmittags pünktlich.
 Beim Yoga kriege ich endlich mal meine Rücken weg.
 Fußball schauen am Wochenende ist einfach heilig für mich.
-Mein Hund rennt immer hinter mir beim Joggen her.
 Die Bergsteiger haben den Gipfel heute erreicht geschafft.
 Ich muss dringend meine Ausrüstung für den Marathon kaufen.
 Badminton mit der Kollegenschaft war gestern super lustig.
@@ -3789,7 +3754,6 @@ Fußball mit den Jungs vom Betrieb macht Spaß.
 Wann ist dein nächstes Training wieder?
 Das Gym in der Nähe ist überfüllt.
 Schwimmen tut meinem Rücken einfach nur gut.
-Ich will heuer endlich meine erste Halbmarathon meistern.
 Der Schiedsrichter hatte heute wirklich kein Glück.
 Mein Puls war nach dem Sprint durch die Decke.
 Wir suchen noch jemanden für das Basketballteam.
@@ -4124,7 +4088,6 @@ Hast du den neuesten Spieltag der Bundesliga auch gesehen?
 Klettern im Bouldern macht mir deutlich mehr Spaß als Seilklettern.
 Ich brauche eine Pause vom Sport, bin total erschöpft.
 Das Fußballtor war ein reiner Glücksfall für die gegnerische Mannschaft.
-Laufen im Regen ist irgendwie motivierend wenn man drinbleiben will.
 Unser Verein feiert in diesem Jahr sein fünfzigjähriges Jubiläum.
 Die neue Radroute führt wunderschön durch das gesamte Talgebiet.
 Bin grade erst ins Gym gegangen, war echt voll.
@@ -4426,7 +4389,6 @@ Wir laufen morgen früh um sieben los, kommst du?
 Der neue Basketball ist total griffig und gut verarbeitet.
 Ich probiere jetzt mal wieder regelmäßig Krafttraining aus.
 Die Skipiste war dieses Jahr leider schlecht präpariert.
-Tanzen macht einfach mehr Spaß als单调es Laufen auf dem Band.
 Mein Bruder spielt seit Jahren im Regionalteam Handball.
 Ich muss echt abnehmen vor dem Urlaub.
 Die Jungs sind heute wieder im Hallenbad unterwegs gewesen.
@@ -4582,7 +4544,6 @@ Radfahren mit dem Wind im Gesicht fühlt sich gut an.
 Am Montag geht es wieder ins Studio, ich hoffe auf die Kurzhanteln.
 Wir haben den Verein gewechselt, da war das Personal echt mies.
 Mein neuer Laufschuh ist schon wieder durchgelaufen nach drei Wochen.
-Kannst du mal kurz mein Rucksack halten, ich muss schnell was trinken.
 Die Halbzeitpause war viel zu lang, man verliert komplett die Spannung.
 Ich versuche seit Monaten regelmäßig zu schwimmen, aber es klappt nicht.
 Heute Abend ist Mannschaftstraining, kommst du auch vorbei oder bleibst du da?
@@ -4710,7 +4671,6 @@ Ich schwimme jedes Wochenende in der städtischen Halle
 Das Klettern am Felswand war heute echt anspruchsvoll
 Hab endlich meinen Marathonziel erreicht, bin so stolz
 Das Fußballtraining fiel wegen Starkregen leider komplett aus
-Radfahren im Herbst ist was anderes als im Sommer
 Unser Team hat die Regionalmeisterschaft verdient gewonnen
 Ich brauche neue Handschuhe für das Winterklettern
 Der Triathlon war anstrengend aber super motivierend
@@ -4750,7 +4710,6 @@ Die Olympiaübertragung habe ich bis zur letzten Sekunde verfolgt.
 Meine Turnschuhe sind abgenutzt, ich brauche bald neue Laufschuhe.
 Beim Wandern am Berg war die Luft fantastisch rein und frisch.
 Unser Trainer hat uns heute extra lange dehnen lassen.
-Ich find Judo spannend, aber selbst ausprobieren traue ich mich noch nicht.
 Die Medaillenvergabe bei den Meisterschaften war sehr emotional für alle.
 Wir gehen morgen früh auf einen schnellen Morgenspaziergang durch den Park.
 Fußball mit den Jungs ist immer ein tolles Ritual.
@@ -5007,7 +4966,6 @@ Mein Rücken rennt mir seit dem letzten Krafttraining immer noch an.
 Wir haben das Wochenende zum Radeln genutzt und es war perfekt.
 Schwimmen ist halt doch am besten gegen den Stress.
 Hast du auch schon Tickets für das Derby gekauft?
-Ich will einfach nur fit werden, kein Marathonlauf oder so.
 Die Kletterwand im Studio ist heute voll besetzt gewesen.
 Fußball schauen mit Freunden macht einfach immer Laune.
 Mein Trainingsplan fällt ab Montag komplett flach.
@@ -5024,7 +4982,6 @@ Klettern ohne Seil würde ich mir niemals trauen.
 Unser Trainer ist heute wieder ganz schön streng gewesen.
 Die neue Laufapp zeigt endlich ehrliche Daten an.
 Wir planen für den Sommer eine lange Radtour durch das Land.
-Nach dem Training muss ich unbedingt noch duschen und was essen.
 Das Finale wurde leider durch Regen etwas durcheinander gewirbelt.
 Fußballtraining heute leider abgesagt wegen Regen.
 Ich muss echt mal wieder ins Fitnessstudio gehen.
@@ -5123,7 +5080,6 @@ Ich habe gestern erst mal Pause vom Sport gemacht.
 Das neue Fitnessprogramm im Internet ist ganz nett gestaltet.
 Wir haben beim Fußballturnier leider wieder ausgespielt gekriegt.
 Mein bester Freund läuft schon seit Jahren mit mir.
-Klettern in der Natur ist was anderes als drinnen.
 Schwimmen im See fühlt sich im Sommer einfach an.
 Das nächste Training wird bestimmt sehr intensiv werden.
 Wir treffen uns morgen früh um sieben zum Laufen.
@@ -5262,7 +5218,6 @@ Schwimmen in der offenen See ist irgendwie total befreiend.
 Kannst du mich heute Abend mal zu CrossFit begleiten?
 Die neue Laufschuhkollektion sieht wirklich bequem und modern aus.
 Mein Trainer schimpft immer, wenn ich die Pause nicht halte.
-Wir haben das Derby leider doch verloren, was nervt so.
 Ich überlege mir ernsthaft einen Sprintkurs am Wochenende.
 Das Wettkampfendfeld war diesmal besonders stark besetzt.
 Hast du schon deine Sportkleidung für den Ausflug gepackt?
@@ -5552,13 +5507,11 @@ Hoffentlich regnet es nicht bei unserem Lauftreff heute.
 Fußball mit den Jungs am Samstag ist einfach das Beste.
 Ich habe heute Morgen eine Stunde auf dem Laufband verbracht.
 Mein neues Fahrrad fährt sich viel flotter als das Alte.
-Im Fitnessstudio war es voll, also bin ich nach Hause gelaufen.
 Die Kletterhalle downtown hat jetzt auch Nachtöffnung für Einsteiger.
 Schwimmen ist meiner Meinung nach die schonendste Sportart überhaupt.
 Wir brauchen dringend einen neuen Ball für die Vereinsmeisterschaft.
 Beim Bergrennen gestern haben alle Grenzen überschritten, echt beeindruckend.
 Kann mir jemand einen guten Yogalehrer in der Nähe empfehlen?
-Mein Laufschuh ist kaputt, ich muss mir was Neues holen.
 Das Crossfit-Training war heute besonders intensiv und schweißtreibend.
 Ich freue mich schon auf die nächste Radtour im Frühling.
 Unser Team hat das Spiel knapp aber fair gewonnen.
@@ -5618,7 +5571,6 @@ Beim Radfahren sollte man wirklich immer einen Helm tragen.
 Die Marathonlaufschuhe sitzen leider etwas zu eng.
 Unser Sohn möchte endlich mit dem Schwimmen anfangen.
 Das Crossfit-Training hat mir heute richtig zu gesetzt.
-Wer will denn morgen zum Joggen mitkommen?
 Die neue Turnhalle sieht echt modern und frisch aus.
 Ich habe bei dem Duathlon überraschend einen Platz erreicht.
 Klettern erfordert einfach viel Geduld und Körpergefühl.
@@ -5697,8 +5649,6 @@ Unser Verein feiert in diesem Jahr sein hundertjähriges Jubiläum.
 Laufen im Winter ist zwar blöd, aber man muss dranbleiben.
 Die neue Radroute entlang der Flussufer ist traumhaft schön.
 Ich kann nach dem Training gar nicht mehr ins Bett gehen heute.
-Basketball spielen macht einfach mehr Spaß als只看 TV.
-Meine Kniebander tun weh, also nur leicht joggen heute.
 Der Skiurlaub in den Alpen war dieses Jahr fantastisch.
 Am Wochenende sind wir wieder joggen gegangen.
 Der neue Laufschuh ist wirklich jeden Cent wert.
@@ -5717,7 +5667,6 @@ Ich gönne mir nach dem Training immer eine Massage.
 Das Wettkampf-Ticket war zwar teuer, aber jeden Schweiß wert.
 Beim Yoga fühle ich mich danach total entspannt.
 Wir haben gestern im Regen Fußball gespielt und gelacht.
-Der neue Trainer bringt wirklich was bei, merke ich.
 Ich überlege mir gerade, in einen Boxkurs zu gehen.
 Das Triathlon-Training kostet mich jeden freien Abend.
 Mein Freund ist besessen von seinem Rennrad-Upgrade.
@@ -5875,7 +5824,6 @@ Unser Fußballclub hat dieses Jahr endlich den Aufstieg geschafft.
 Klettern am Fels ist anders als in der Halle finde ich.
 Hast du dich schon für den Halbmarathon angemeldet oder noch nicht?
 Das neue Fitnessgerät im Studio sieht richtig cool aus honestly.
-Ich brauche nach dem Training unbedingt was zu trinken sofort.
 Am Sonntag läuft die ganze Familie den Waldlauf mit.
 Ich schwimme jeden Morgen eine Runde im Freibad.
 Das Klettern macht mir echt Spaß, besonders hoch.
@@ -6006,7 +5954,6 @@ Kannst du mal kurz das Tor hüten, ich muss aufs Klo.
 Mein neuer Laufschuh ist zwar teuer, aber richtig bequem.
 Das Radfahren am Sonntag hat mir mega gutgetan.
 Wir haben beim Vereinsturnier leider ganz schlecht abgeschnitten.
-Ich will unbedingt dieses Jahr endlich schwimmen lernen.
 Die neue Kletterhalle in der Stadt sieht super aus.
 Hast du schon mal CrossFit probiert? Ich finde das zu intensiv.
 Mein Hund rennt morgens immer mit mir durch den Park.
@@ -6175,7 +6122,6 @@ Unser Radweg ist nach dem Regen leider sehr schlammig.
 Wir feiern bald unseren Sieg bei der Stadtmeisterschaft.
 Mein Trainer sagt, ich muss noch mehr dehnen.
 Das Klettern in der Halle ist sicherer als draußen.
-Hast du schon mal im Hochsitz gesessen? Nein warte ich meinte ins Fitnessstudio gegangen! 😅
 Meine Beine sind nach dem Radfahren komplett weggefallen.
 Wir spielen morgen Abend wieder Fußball auf der Wiese.
 Der neue Turnschuh von Nike sitzt echt gut an den Füßen.
@@ -6243,7 +6189,6 @@ Mein Trainer sagt, ich drücke zu wenig Gewicht.
 Die Marathonläufer waren alle erschöpft nach der Ziellinie.
 Ich suche noch jemanden zum Tennis spielen unter der Woche.
 Klettern ohne Sicherung ist für mich tabu.
-Das neue Gym in der Stadt hat alles was man braucht.
 Wir sind letzte Woche fünfzig Kilometer gefahren, krass.
 Meine Tochter macht seit einem Jahr Turnen im Verein.
 Der Halbfinale war wirklich ein Hammermatch gestern Abend.
@@ -6480,7 +6425,6 @@ Mein Team hat gestern leider wieder verloren, das war echt schade.
 Das neue Fitnessstudio hat super Geräte und eine tolle Atmosphäre.
 Wir planen für den Sommer eine längere Radtour durch Bayern.
 Klettern macht mir so viel Spaß, ich liebe die Herausforderung.
-Beim letzten Spiel hab ich drei Tore geschossen, was soll ich sagen.
 Ich muss dringend meine Laufschuhe austauschen, die Sohle ist kaputt.
 Der Schwimmverein in der Nähe hat gerade Plätze für Anfänger frei.
 Mein Trainer fordert mich immer weiter, aber ich mag diesen Druck.
@@ -6504,7 +6448,6 @@ Fußball am Sonntag ist einfach Tradition.
 Meine Beine sind nach dem Radtouren noch ganz schwer.
 Im Fitnessstudio bin ich heute nur joggen gegangen.
 Die Kletterwand im neuen Center sieht mega aus.
-Wer will mit mir zum Schwimmen kommen?
 Das Mannschaftsspiel gestern war irgendwie nicht unser Tag.
 Ich muss unbedingt meine alten Laufschuhe kaufen.
 Beim Yoga fühlt sich der Rücken deutlich besser an.
@@ -6545,7 +6488,6 @@ Mein Puls nach dem Sprint ist wahnsinnig hoch.
 Das Basketballturnier am Samstag wird sicher spannend.
 Ich habe meine Ausrüstung endlich komplett überholt.
 Laufen regt mir echt den Appetit an.
-Der Trainer hat heute wieder was Neues gezeigt.
 Wir müssen unsere Trainingszeit nochmal verschieben.
 Schwimmen ist der beste Ausgleich zum Bürojob.
 Die Kletterwand im Park ist doch ganz gut.
@@ -6642,7 +6584,6 @@ Die neuen Hanteln im Keller sehen schon mal toll aus.
 Ich kann gar nicht erwarten, dass die neue Saison startet.
 Mein Knöchel schmerzt noch immer ein bisschen nach dem Sprung.
 Yoga hilft mir unglaublich dabei, den Stress abzubauen.
-Das Halbfinalspiel war eine absolute Katastrophe vom Spielverlauf her.
 Wir brauchen für das Turnier dringend neue Trikots.
 Schwimmen ist am besten, wenn man richtig ausgebrannt ist.
 Mein Ziel ist es, nächsten Monat einen Zehnkilometerlauf zu schaffen.
@@ -6766,7 +6707,6 @@ Wir haben das Derby gewonnen, was für eine unglaubliche Feier danach!
 Schwimmen ist doch die beste Methode, um gelenkschonend fit zu bleiben.
 Habe endlich meine ersten Bankdrück-Rekord geschafft, bin mega stolz drauf.
 Die Fußballweltmeisterschaft dieses Jahr verspricht wirklich spannende Spiele.
-Laufen im Regen hat irgendwie einen ganz eigenen Charme, find ich.
 Unser Trainer will nächste Woche eine intensive Intervalltrainingseinheit machen.
 Klettern am Fels erfordert nicht nur Kraft, sondern auch viel Geduld.
 Ich könnte morgen früh wieder einmal kurz joggen gehen, wie wärs?
@@ -6814,9 +6754,7 @@ Der neue Trainer fordert unglaublich viel von uns ab.
 Ich muss langsam mal wieder ins Gym gehen.
 Das Marathonlaufziel habe ich dieses Jahr verpasst.
 Fußball mit den Jungs ist immer entspannter als Wettkampffussball.
-Die Kletterwand im Park hat doch echt was.
 Schwimmen gegen den Strom ankommt bei mir gut an.
-Meine Beine brennen noch von der Woche her.
 Das Triathlontraining wird dieses Jahr wirklich intensiv werden.
 Wer braucht schon einen Fitnessplan wenn man Lust hat?
 Das Stadionrumoren war gestern Abend einfach nur grossartig.
@@ -7006,7 +6944,6 @@ Unser Verein hat dieses Jahr richtig gut abgeschnitten.
 Die neuen Laufschuhe fallen irgendwie zu klein aus.
 Wir sollten mal wieder zusammen Tischtennis spielen gehen.
 Das Training war anstrengend, aber es hat super geklappt.
-Mein Sohn will unbedingt im Tor stehen bei der U14.
 Ich kann gar nicht genug von diesem Mountainbike-Trail bekommen.
 Die Dusche nach dem Schwimmen ist meine Lieblingszeit.
 Wer kommt heute Abend noch ins Crossfit?
@@ -7017,7 +6954,6 @@ Ich suche dringend eine neue Laufgruppe in der Nähe.
 Das Radfahren im Wind war gestern echt anstrengend.
 Kannst du mal kurz die Kettlebells für mich holen?
 Der Marathonlauf fordert alles aus mir heraus ab.
-Unser Trainer gibt einfach keine halben Sachen her.
 Ich trage heute noch immer die Muskelkater-Schmerzen.
 Die Schwimmbrille schwimmt immer, wenn ich raussteige.
 Wir brauchen dringend neue Bälle für die Trainingseinheit.
@@ -7134,7 +7070,6 @@ Mein Rad hat wieder mal eine Platte.
 Ich kann gar nicht genug vom Schwimmen bekommen.
 Das Fitnessstudio ist morgens um sieben noch leer.
 Hast du schon Tickets für die Bundesliga?
-Klettern an echten Felsen ist was anderes.
 Ich trainiere lieber zu Hause im Keller.
 Der Marathon war schwerer als erwartet gewesen.
 Unsere Kinder spielen alle im Verein Fussball.
@@ -7157,7 +7092,6 @@ Mein Rücken schmerzt nach dem Krafttraining.
 Hast du schon Tickets für das Derby?
 Das Wetter heute ist perfekt zum Radfahren.
 Wir üben jeden Dienstag Handball im Verein.
-Schwimmen tut der Seele einfach gut, find ich.
 Mein Trainer hat mich heute richtig geplagt.
 Die Kletterhalle in der Stadt ist neu eröffnet.
 Ich bin bei dem letzten Triathlon durchgebrannt.
@@ -7218,7 +7152,6 @@ Die Handballmannschaft hat gestern nochmal knapp verloren.
 Ich brauche unbedingt neue Laufschuhe für den Trailrun.
 Surfen ist wohl nicht meins, die Wellen sind wild.
 Am Sonntag haben wir wieder unser normales Fitnesstraining.
-Der Skiurlaub war erholsam und voller肾上腺素.
 Yoga hilft mir wirklich gut gegen meine Rückenschmerzen.
 Wir gehen heute Abend zusammen zum Boxkampf vorbei.
 Mein Sohn spielt seit drei Jahren im Schachverein.
@@ -7266,7 +7199,6 @@ Laufen regt einfach den Kreislauf richtig gut an.
 Wir treffen uns morgens immer vor dem Workout.
 Mein Trainer sagt ich sollte noch mehr Kraft machen.
 Die neue Strecke im Wald ist richtig schön geworden.
-Endlich hat das Wetter was mit Schwimmen zu tun.
 Das Turnierticket war leider total viel Geld wert.
 Ich liebe das Gefühl nach einem harten Training.
 Beim Sprinten kommt man oft ganz schnell ins Stocken.
@@ -7327,7 +7259,6 @@ Wir planen schon lange unseren nächsten Wanderurlaub zusammen.
 Endlich hab ich meine neuen Laufschuhe probiert.
 Heute Abend geht's ins Fitnessstudio, bis bald!
 Unser Verein hat dieses Jahr super abgeschnitten.
-Ich muss dringend meinen Pull-up计数 verbessern.
 Das Radfahren am Wochenende war richtig erholsam.
 Wer kommt morgen zum Frühtraining mitmachen?
 Mein Fußballknie tut nach dem Spiel immer weh.
@@ -7426,7 +7357,6 @@ Krafttraining macht einen wirklich stark und zäh.
 Habt ihr auch den letzten Bundesliga-Spieltag gesehen?
 Ich muss nach dem Training immer erst duschen, sonst friere ich.
 Unser Verein sucht dringend neue Mitglieder für die Jugendmannschaft.
-Das Intervalltraining im Studio ist zwar anstrengend, aber es bringt was.
 Kannst du mir mal dein Klettergurt ausleihen, meiner ist kaputt.
 Beim Mountainbiken habe ich heute einen schönen neuen Weg entdeckt.
 Die Wettkampfbereitschaft fehlt mir aktuell völlig nach dieser langen Pause.
@@ -7515,7 +7445,6 @@ Das Wetter war perfekt für einen langen Radtour durchs Land.
 Unser Team hat sich dieses Jahr stark verbessert.
 Ich trage immer eine Uhr, um meine Schritte zu zählen.
 Die neue Trainingskleidung sieht echt gut aus auf dem Foto.
-Klettern an echten Felsen ist was ganz anderes als drinnen.
 Wir spielen morgen Abend Fußball in der kleinen Liga.
 Der Schwimmbadbesuch am Samstag war richtig entspannend.
 Ich habe seit drei Monaten nicht mehr im Gym trainiert.
@@ -7561,7 +7490,6 @@ Das Workout am Dienstag war wirklich zu anstrengend heute.
 Wir gehen ins Hallenbad, wenn es draußen zu kalt ist.
 Mein Trainer sagt, ich muss noch mehr Kraft machen.
 Die nächste Triathlon-Station ist nächstes Jahr in Hamburg geplant.
-Ich kann nicht so gut Ballspiele, find's schwierig.
 Am Montag ist wieder mein Turntraining im Verein drin.
 Das neue Sportstudio downtown sieht wirklich modern und toll aus.
 Wir haben den Wandertag hinter uns gebracht, war schön.
@@ -7574,7 +7502,6 @@ Meine Schultern schmerzen immer noch nach dem Bankdrücken heute.
 Wir planen schon seit Monaten unseren Wanderaustausch ins Vinschgau.
 Die Yoga-Stunde am Abend entspannt mich richtig gut wieder.
 Ich hoffe, mein Knie heilt bald für den Fußball.
-Mein Laufschuh ist echt am Ende, muss mir was Neues kaufen.
 Wir gehen morgen früh wieder zum Joggen, kommst du mit?
 Das Klettern im Boulderraum war heute richtig anstrengend.
 Ich liebe es einfach, wenn das Team zusammenhält.
@@ -7712,7 +7639,6 @@ Das Abzeichen im Schwimmen hat mir gut getan.
 Könntest du mal meinen Rucksack für den Mountainbike-Tour halten?
 Die neue Hallenbadöffnung war ein richtiges Fest für uns.
 Mein Trainer sagt, ich muss mehr Kernkraft trainieren.
-Es regnet wie aus Eimern, also werde ich zu Hause trainieren.
 Der Halbmarathon dieses Jahr war eine wahre Herausforderung.
 Wir haben im Garten ein kleines Fußballtor aufgebaut.
 Das Yoga-Flow-Video auf YouTube hat mir heute super geholfen.
@@ -7737,7 +7663,6 @@ Wir haben gestern Abend noch eine Runde Fußball gespielt.
 Schwimmen ist meiner Meinung nach das beste Ganzkörpertraining.
 Die Marathonvorbereitung kostet mich wirklich viel Zeit und Geld.
 Kannst du mir einen Spot am Kabelturm empfehlen?
-Mein Hund will auch mit zum Spazieren gehen.
 Das Training war heute echt anstrengend, ich bin platt.
 Wer nimmt sich das Angebot für die Laufgruppe?
 Ich übe gerade kräftig meine Freiwürfe im Keller.
@@ -7776,7 +7701,6 @@ Radfahren durch den Park bei Sonne ist einfach der pure Luxus.
 Wir haben im Fitnessstudio endlich ein neues Gerät bekommen das cool ist.
 Hast du schon die neue Laufschuhe gekauft?
 Wir machen heute Abend mal wieder Crossfit zusammen.
-Mein Trainer sagt ich müsste mehr的核心kraft trainieren.
 Das Fußballspiel gestern endete doch noch unentschieden.
 Ich kann gar nicht verstehen warum so viele Joggen.
 Beim Klettern in der Halle war die Wand echt schwer.
@@ -7976,7 +7900,6 @@ Tennis spielen im Sommer macht einfach viel Freude.
 Ich muss dringend meine Laufschuhe erneuern lassen.
 Mannschaftssport bringt uns jeden Woche zusammen.
 Ich geh morgen früh wieder joggen, egal ob Regen oder Sonne.
-Der Verein will neu anfangen, wir suchen noch Spieler.
 Mein Trainingsplan für den Oberkörper ist super anspruchsvoll.
 Klettern ist wirklich Stressabbau pur nach einer langen Woche.
 Wir haben das Spiel knapp verloren, aber die Moral war hoch.
@@ -7985,7 +7908,6 @@ Das Schwimmbad war heute voll, keine Bahn frei für mich.
 Fitness macht mir nur Spaß, wenn ich Musik dabei hab.
 Unser Trainer schreit heute wieder wie wild aus demlos.
 Radfahren im Wind ist echt hart, besonders bergauf.
-Ich will endlich meinen ersten Marathon laufen, nervt schon.
 Die Mannschaft trainiert montags immer bis spät in die Nacht.
 Yoga hilft mir total gegen den Rückenstress vom Büroalltag.
 Wir gehen am Wochenende mal klettern, klingt cool oder?
@@ -7996,7 +7918,6 @@ Ich brauche einfach mehr Ausdauer, laufe jetzt jeden Tag.
 Der Wettkampf war super organisiert, alles lief planmäßig ab.
 Wir suchen noch jemanden für die Handballmannschaft im Kreis.
 Meine Beine sind schwer wie Blei nach dem Bergsteigen.
-Schwimmen ist perfekt, wenn man Gelenksprobleme vermeiden will.
 Das Ergebnis war unerwartet, wir alle waren schockiert.
 Ich probier mal Crossfit aus, klingt dynamisch und intensiv.
 Am Sonntag gehts zum Volkslauf, melde mich gleich an.
@@ -8069,7 +7990,6 @@ Wir klettern bald mal einen hohen Berg zusammen.
 Laufen im Regen ist einfach keine gute Idee.
 Unser Trainer ist heute Morgen wieder zu spät gekommen.
 Fußballspielen macht mir mehr Spaß als alles andere.
-Ich will endlich meine erste Triathlon medaille holen.
 Klettern ohne Helm ist absolut tabu, niemals vergessen.
 Schwimmen hilft wirklich gegen meine Rückenschmerzen im Büroalltag.
 Wir machen nächste Woche eine lange Radtour planned out.
@@ -8226,7 +8146,6 @@ Das Radrennen war dieses Jahr besonders anstrengend wegen der Hitze.
 Ich habe mich beim Gewichtheben leider leicht verletzt gestern.
 Fußball mit den Jungs ist immer eine schöne Angelegenheit.
 Ich muss dringend neue Laufschuhe kaufen, die alten sind hinüber.
-Das Fitnessstudio in der Nähe hat endlich MoSaFr geöffnet.
 Wir haben dieses Jahr den Wanderpokal gewonnen, war echt cool.
 Radfahren im Regen macht irgendwie gar keinen Spaß für mich.
 Mein Rücken tut weh nach dem schweren Bankdrücken gestern.
@@ -8264,7 +8183,6 @@ Laufen tut mir einfach am besten bei Stress.
 Der neue Trainer ist total streng und fit.
 Wir haben das Finale leider knapp verloren.
 Meine Schuhe knarzen wieder beim Laufen hier.
-Ich will dieses Jahr unbedingt Kajak fahren lernen.
 Das Fitnessabo lohnt sich echt für die Muskeln.
 Fußballspielen am Wochenende war super entspannend.
 Mein Rücken schmerzt noch von gestern Abend.
@@ -8325,7 +8243,6 @@ Das Mountainbike-Rennen heute war voller dramatischer Ausfälle.
 Ich brauche dringend neue Laufschuhe, die alten sind hinüber.
 Der Vereinsausflug im Sommer war wirklich ein Highlight für alle.
 Endlich mal wieder ins Studio gegangen, fühlt sich gut an.
-Wer will am Wochenende mit mir Rad fahren?
 Mein Verein hat diese Saison leider alles gegeben.
 Das neue Laufschuhmodell ist echt bequem, würde ich empfehlen.
 Immer noch keine Lust auf den Montag-Morgen-Workout.
@@ -8410,7 +8327,6 @@ Die Kletterhalle downtown hat endlich wieder geöffnet, endlich mal Luft.
 Ich suche dringend einen Sparringspartner für den nächsten Samstag.
 Das Trikot von Real Madrid sieht dieses Jahr irgendwie total langweilig aus.
 Hast du schon gesehen, wie schnell er die letzten Kilometer gelaufen ist?
-Mein Laufschuh ist kaputt, ich muss mir was Neues kaufen.
 Fitness macht mir nur Spaß, wenn ich auch richtig schwitze und atme.
 Wir machen nächsten Monat eine kleine Wandertour in den Bergen.
 Der Schiedsrichter hat im letzten Spiel total ungerecht gepfiffen, finde ich.
@@ -8587,7 +8503,6 @@ Mein Knie tut nach dem Training immer noch weh.
 Wir brauchen dringend neue Fußballschuhe für die Liga.
 Im Fitnessstudio war es wieder wahnsinnig voll heute.
 Laufen regt mich am Morgen richtig auf.
-Ich will dieses Jahr meinen ersten Marathon laufen.
 Das Klettergym downtown ist deutlich günstiger als das alte.
 Unser Team hat knapp gewonnen, was für ein Glück.
 Schwimmen ist super fürs Rückengesundheitsproblem, echt wahr.
@@ -8637,7 +8552,6 @@ Das Bergsteigen war anstrengender als gedacht, aber super schön.
 Unser Torwart hat gestern ein unfaires Foul bekommen und gelitten.
 Ich brauche dringend eine Pause vom täglichen Krafttraining.
 Die Marathonstrecke führt dieses Jahr komplett durch den Stadtpark.
-Mein Freund will eigentlich immer nur noch Tennis spielen.
 Der neue Fitnessplan funktioniert irgendwie gar nicht bei mir.
 Wir haben das Spiel knapp mit zwei Toren Unterschied verloren.
 Ich finde Klettern so entspannend, weil man fokussieren muss.
@@ -8671,7 +8585,6 @@ Mein linker Oberschenkel zieht sich immer wieder ein, blöd eigentlich.
 Das Skateboarden sieht so leicht aus, ist aber echt schwer zu lernen.
 Ich freue mich schon riesig auf das nächste Mountainbike-Rennen.
 Unser Verein feiert dieses Jahr sein fünfzigjähriges Bestehen.
-Laufen in der kalten Luft im Winter hat was ganz Eigenes.
 Die Yoga-Stunde am Sonntagmorgen ist mein absolutes Highlight.
 Mein Laufschuh ist endlich angekommen.
 Wir treffen uns um acht in der Turnhalle.
@@ -8781,13 +8694,11 @@ Der neue Fitnesskurs in der Ecke ist total überlaufen.
 Mein Rücken wehrt sich schon nach zehn Minuten Situps.
 Hast du schon gehört, dass wir das Finale gewonnen haben?
 Klettern macht süchtig, hab gestern gleich zweimal trainiert.
-Das Marathontraining fordert wirklich alles ab was man hat.
 Im Verein ist die Stimmung gerade echt angespannt.
 Ich brauche unbedingt neue Trekkingstiefel für den nächsten Hiking-Trip.
 Basketball spielen war meine große Leidenschaft in der Schule.
 Die Ski-Woche in Österreich war zwar teuer aber genial.
 Mein Kumpel hat sich beim Skateboarden ziemlich das Handgelenk gebrochen.
-Joggen am Strand ist einfach was ganz anderes als auf Asphalt.
 Wir suchen noch zwei Leute für unser Fußballturnier nächste Woche.
 Das Crossfit-Training an diesem Montag war wirklich hartes Brot.
 Ich kann gar nicht warten bis die Ski-Saison wieder losgeht.
@@ -8836,7 +8747,6 @@ Wer hat Bock auf Basketball am Samstagvormittag?
 Mein Rücken tut weh nach dem Training gestern.
 Ich habe mir für den Marathon endlich einen Plan gemacht.
 Das Crossfit-Training war heute krasser als gedacht.
-Wir sollten uns einen Tennisplatz reservieren, lange her.
 Die Ski-Saison geht bald los, ich freue mich schon.
 Mein Hund ist mein bester Trainingspartner beim Joggen.
 Der neue Fitnesstrack im Park ist top ausgestattet.
@@ -8954,7 +8864,6 @@ Unser Verein hat dieses Jahr endlich den Aufstieg geschafft.
 Beim Crossfit muss man echt auf seine Technik achten.
 Die Radtour über den Schwarzwald war einfach genial.
 Mein Trainer sagt, ich sollte die Pause zwischen den Sätzen kürzen.
-Wer will heute noch zum Schwimmen gehen?
 Das Klettern im Bogenberg ist für Anfänger eigentlich zu schwer.
 Wir haben die letzte Spielzeit komplett verpasst, schade wirklich.
 Meine neuen Laufschuhe stoßen mich beim Start gleich an.
@@ -8994,7 +8903,6 @@ Das Marathontraining fängt langsam richtig Spaß zu machen.
 Ich hasse es, gegen die Mittagszeit ins Gym zu gehen.
 Die neue Strecke am Flussufer ist super zum Joggen geeignet.
 Hast du den neuesten Spieltag im Handball gesehen? Wahnsinn.
-Mein Knieknorpel ist echt abgenutzt nach all den Jahren.
 Der Aufstieg im Gebirge war härter als wir geglaubt hatten.
 Ich such noch einen Trainingspartner für das Wochenende.
 Das Vereinsfest gestern war richtig schön locker und gemütlich.
@@ -9175,7 +9083,6 @@ Laufen regt mich irgendwie immer mehr auf als entspannt.
 Habe mich beim Spinning heute richtig ins Zeug geworfen.
 Der Vereinsschatzmeier klagt schon wieder über die Kosten.
 Wir planen für nächstes Jahr eine größere Wandertour.
-Die neue Laufschuhe halten echt was aus.
 Im Fitnessstudio ist heute wieder totaler Stau an den Geräten.
 Wir haben das Freundschaftsspiel knapp mit zwei null verloren.
 Klettern im Bogen macht mir immer noch am meisten Spaß.
@@ -9202,7 +9109,6 @@ Die neue Sporttasche ist zwar teurer, aber total praktisch.
 Vergiss nicht deine Trinkflasche mitzunehmen, es wird heiß.
 Bin heute wieder im Fitnessstudio vorbeigekommen.
 Mein Rad muss ich dringend nochmal warten lassen.
-Das Spiel gestern hatte echt was von der Sache.
 Laufen ist mein absolutes Lieblingswetter-Event.
 Wir haben uns einen neuen Verein für Hockey gesucht.
 Klettern macht mir richtig viel Spaß in der Halle.
@@ -9435,7 +9341,6 @@ Die Mannschaft wirkt heute irgendwie unmotiviert auf dem Platz.
 Ich hab mir gestern bei der Mountainbike-Tour das Knöchel verrenkt.
 Yoga hilft mir unglaublich gegen den Stress vom Büroalltag.
 Hast du schon mal an einem Triathlon teilgenommen oder nur geplant?
-Der Schiedsrichter hat gestern wirklich schlecht pfeifen, find ich.
 Mein Bruder spielt seit Jahren Handball im Verein und liebt es.
 Laufen am Strand ist einfach cooler als auf dem Asphaltweg.
 Wir haben für den Hallenfußballturnier ein neues Trikot bestellt.
@@ -9583,7 +9488,6 @@ Ich habe mir beim Gewichtheben irgendwie die Schulter verstaucht ärgerlich.
 Das Mountainbike ist zu schwer für diese steilen Anstiege hier.
 Wir brauchen neue Trikots für das kommende Saisonfinale unbedingt sofort.
 Laufen am Meer gibt total einen Kick am frühen Morgen wirklich.
-Mein Bruder will sich ins Budo Studio anmelden, ich bin neugierig.
 Die Wettkampfsaison endet bald und ich bin schon fast erschöpft davon.
 Tanzen ist doch auch Sport, nur mit mehr Musik und weniger Schweiß eigentlich.
 Ich hasse es, wenn andere Leute meine Hantel wegnehmen während ich warte.
@@ -9817,15 +9721,12 @@ Joggen im Regen ist nichts für mich, ich brauche lieber Sonne.
 Die Wettkampfsaison startet wieder mit dem traditionellen Frühjahrsduathlon im Mai.
 Mein Rücken fühlt sich nach dem Krafttraining deutlich entspannter an als vorher.
 Endlich wieder Laufen gehen können nach der Pause.
-Unser Trainer ist streng, aber es bringt was.
 Am Wochenende geht's ans Schwimmen in der Hallenbadhalle.
 Die neue Laufapp trackt alles super genau.
-Wer will mit zum Mountainbike Ride Samstagmittag?
 Ich kann gar nicht glauben wie schnell die Zeit vergeht.
 Mein Rucksack für das Fitnessstudio ist schon gepackt.
 Das Klettertraining gestern hat richtig Spaß gemacht.
 Wir müssen bald unsere Trikotgrößen fürs Team besprechen.
-Laufen im Regen macht irgendwie auch was her.
 Die Beine sind noch ganz schön schwer vom Bergstieg.
 Ich überlege mir gerade ob ich zum Yoga gehöre.
 Der Marathon war echt anstrengend aber super erlebnisreich.
@@ -10092,7 +9993,6 @@ Ich muss meinen Rucksack für die Wanderung noch packen.
 Das neue Yoga-Studio in der Innenstadt ist richtig entspannend.
 Wer möchte am Samstagabend mit uns ins Fußballstadion gehen?
 Habe gestern bis zum Umfallen auf den Laufband geschuftet.
-Wer will am Samstag mit uns die Runde drehen?
 Mein neues Rad fährt sich deutlich besser als das Alte.
 Das Training nach der Arbeit entspannt mich total.
 Die Mannschaft hat heute leider wieder alles falsch gemacht.
@@ -10330,7 +10230,6 @@ Unser Verein plant ein großes Sommerfest im nächsten Monat.
 Ich überlege ernsthaft, für den lokalen Marathon anzumelden.
 Das Crossfit-Training war heute wieder anstrengender als gedacht.
 Beim Volleyball haben wir gestern knapp verloren, echt ärgerlich.
-Radfahren ist mein perfekter Ausgleich zum lang坐 am Schreibtisch.
 Die neuen Laufschuhe sitzen endlich richtig und schmerzen nicht mehr.
 Ich habe vor, dieses Jahr noch mal zum Klettern zu gehen.
 Der neue Fitnesscoach im Studio gibt richtig motivierende Tipps.
@@ -10339,7 +10238,6 @@ Schwimmen hilft mir unglaublich gut gegen meinen Rückenschmerz nach der Arbeit.
 Die Atmosphäre beim Regionalcup war einfach nur mega, liebe das.
 Ich finde Klettern super, weil man sich wirklich konzentrieren muss.
 Nach dem langen Radweg ins Office komm ich meist schweißgebadet an.
-Unser Trainer will ab Montag intensiver trainieren lassen, hoffen wir mal.
 Am Samstag haben wir wieder Handball gespielt.
 Ich finde Schwimmen macht einfach am meisten Spaß.
 Mein Laufschuh ist völlig abgenutzt, brauche neuen.
@@ -10370,7 +10268,6 @@ Das neue Fitnessstudio hier in der Stadt sieht gut aus.
 Meine Laufschuhe sind total abgefahren, brauch neue.
 Klettern macht so viel Spaß im Boudoir.
 Wir fahren morgen Vormittag Radtour am See.
-Der Trainer hat heute wieder was von Disziplin geredet.
 Schwimmen ist am besten zum Entspannen nach der Arbeit.
 Ich bin gestern beim Triathlon fast umgefallen.
 Die Mannschaft hat dieses Spiel absolut verdient verloren.
@@ -10430,7 +10327,6 @@ Die Halbzeitpause im Spiel war etwas zu lang.
 Ich muss endlich wieder regelmäßig trainieren gehen.
 Das neue Trikot vom Verein gefällt mir nicht so doll.
 Radfahren im Regen ist echt keine Lustsache, ehrlich gesagt.
-Wer will am Wochenende mit uns Volleyball spielen?
 Mein Personal Trainer hat mich heute richtig gebeutelt.
 Die Bergwanderung gestern war anstrengender als erwartet.
 Ich verfolge die Formel 1 nur noch ab und zu.
@@ -10441,7 +10337,6 @@ Mein Rad muss dringend zur Werkstatt gebracht werden.
 Schwimmen im offenen Wasser fühlt sich immer freier an.
 Morgen früh muss ich leider absagen, hab zu wenig Schlaf.
 Unser Verein braucht dringend neue Spieler für die Liga.
-Ich find Schwimmen am besten zum Abschalten nach der Arbeit.
 Die neue Radroute durch den Wald war wirklich top.
 Kann mir wer das Bandage richtig anlegen beim Training?
 Heute wird kein Fußball gespielt, wegen dem starken Regen.
@@ -10540,7 +10435,6 @@ Das Klettern mit Seil hat mich gestern sehr gereizt.
 Unsere Mannschaft hat das Spiel knapp aber verdient gewonnen.
 Laufen bei Regen ist mir wirklich zu anstrengend heute.
 Ich übe mein Freeclimbing gerade für die nächste Saison.
-Schwimmen ist super, wenn man mal wieder Kraft tanken will.
 Die neue Laufapp schreit mich an wenn ich Pause mache.
 Hast du schon mal Crossfit ausprobiert oder ist das zu viel?
 Unser Trainer hat heute wieder extrem ins Detail gegangen.
@@ -10688,7 +10582,6 @@ Die Wettkampfvorbereitung läuft gerade echt stressig.
 Mein Laufpuls war heute wieder viel zu hoch.
 Wir planen für den Sommer eine längere Tour.
 Das Boxtraining ist zwar hart, aber effektiv.
-Ich habe meinen persönlichen рекорd beim Gewichtheben geschlagen.
 Die Stimmung im Stadion war einfach unglaublich.
 Ich muss heute leider im Büro bleiben und kann nicht zum Fußballtraining gehen.
 Mein neues Laufband ist endlich angekommen, morgen test ich es gleich.
@@ -10704,7 +10597,6 @@ Kannst du mir bei den Dehnübungen mal zeigen wie das geht?
 Unser Verein sucht dringende Verstärkung für die zweite Mannschaft.
 Radfahren macht mir viel mehr Spaß als stundenlanges Sitzen im Auto.
 Die Mountainbike-Tour gestern war anstrengender als erwartet.
-Ich habe keine Lust mehr ins Gym zu gehen, find ich langweilig.
 Das Klettern erfordert doch eigentlich auch viel Kraft im Oberkörper.
 Machst du mit beim Volkslauf am nächsten Sonntagmorgen?
 Mein Freund schwört auf Yoga gegen seine Rückenschmerzen.
@@ -10722,7 +10614,6 @@ Wir fahren am Samstag mit dem Rad durch den Wald.
 Die neue Sporttasche sieht wirklich gut aus und passt alles rein.
 Ich schwimme seit einer Woche regelmäßig und fühle mich schon fit.
 Der Fußballabend war leider etwas enttäuschend für unsere Mannschaft.
-Mein Bauchspeck soll unbedingt weg, also fange ich heute an.
 Hast du schon mal versucht, CrossFit zu machen?
 Das Radfahren bei Regen ist doch immer ein riesengroßes Geduldspiel.
 Wir haben gestern den Halbwettkampf im Schwimmen gewonnen, geil!
@@ -10801,7 +10692,6 @@ Unser Verein hat endlich einen neuen Trainer bekommen.
 Radfahren bei Regen bringt überhaupt keinen Spaß mehr.
 Das Turnen an den Ringen wollte einfach nicht gelingen.
 Ich brauche echt eine Pause vom intensiven Krafttraining.
-Die Handballspiel昨晚 war richtig intensiv und spannend.
 Laufen auf dem Sandstrand ist super für die Beine.
 Wir suchen dringend einen neuen Torwart für unser Team.
 Mein Rücken tut nach dem CrossFit immer weh.
@@ -10844,7 +10734,6 @@ Mein Freund hat wieder einen neuen Laufrekord aufgestellt.
 Schwimmen ist einfach die beste Bewegung für den Rücken.
 Die Mannschaft hat das Spiel knapp mit zwei Toren gewonnen.
 Ich suche noch jemanden zum gemeinsamen Mountainbiken am Wochenende.
-Klettern macht mir richtig Angst, aber ich will es trotzdem probieren.
 Das Fitnessbanderl in meinem Arm tut nach dem Training ganz schön weh.
 Wir haben uns einen Platz für den kommenden Stadtlauf gesichert.
 Der Trainer schreit heute Vormittag wieder wie wild auf uns ein.
@@ -10858,7 +10747,6 @@ Ich kann gar nicht genug vom Krafttraining am Wochenende bekommen.
 Die Stimmung in der Halle war gerade richtig ansteckend und laut.
 Wir haben uns einen neuen Verein gesucht, weil der alte zu weit entfernt ist.
 Laufen nach dem Arbeitstag hilft mir unglaublich beim Stressabbau.
-Mein Nachbar trainiert每天早上 schon um sieben Uhr auf der Laufstrecke.
 Das Schwimmbecken war heute leider total überlaufen und vollgepackt.
 Ich habe mich bei dem letzten Basketballspiel leicht verletzt.
 Die Vorbereitung für den Marathon nimmt gerade fast zu viel Zeit ein.
@@ -10925,7 +10813,6 @@ Ich übe täglich Yoga, das hilft meinem Rücken ungemein.
 Radfahren auf dem Weg zur Arbeit spart mir echt viel Zeit.
 Das Triathlon-Training war diesen Sommer anstrengender als erwartet.
 Unser Verein braucht dringend neue Mitglieder für die Jugendmannschaft.
-Skifahren in den Alpen macht einfach unvergessliche Erinnerungen her.
 Der Marathonlauf hat mich körperlich komplett fertig gemacht, aber ich war stolz.
 Ich tanze gerne Salsa, das ist so viel mehr als nur Sport.
 Basketball spielt man am besten mit Freunden auf dem Hof beim Sonnenuntergang.
@@ -10936,7 +10823,6 @@ Wir gehen öfter wandern, weil es uns gut tut rauszukommen.
 Kickboxen hat mir gezeigt, wie wichtig Disziplin im Alltag ist.
 Das Segeln auf dem See war heute wegen des Windes schwierig.
 Tischtennis mit der Familie ist immer ein Highlight am Familientreffen.
-Ich mache Crossfit, weil ich abwechslungsreich und intensiv trainieren will.
 Der Volleyball-Spieler stand uns im Weg, das war echt nervig.
 Fußballtraining fällt heute leider weg wegen Regen.
 Ich muss endlich wieder regelmäßig ins Gym gehen.
@@ -11512,7 +11398,6 @@ Joggen beim Sonnenuntergang gibt mir jede Menge Energie zurück.
 Ich muss morgen definitiv schon aufstehen für den Lauf.
 Die neue Turnhalle ist echt toll eingerichtet.
 Hast du auch die Partie gesehen gestern Abend?
-Mein Pullup计数 wird endlich besser im Training.
 Wir gehen am Wochenende wieder ins Fitnessstudio zusammen.
 Das Radfahren im Winter ist mir zu kalt eigentlich.
 Klettern macht mir mehr Spaß als Laufen irgendwie.
@@ -11741,7 +11626,6 @@ Mein Freund klettert seit drei Jahren und ist schon richtig fit.
 Schwimmen am frühen Morgen gibt mir immer einen guten Start in den Tag.
 Die Mannschaft hat dieses Jahr leider keine Chance auf die Meisterschaft mehr.
 Radfahren an der frischen Luft tut einfach der Seele gut.
-Ich habe mir gestern bei dem Heavy Workout echt was geleistet.
 Das Kletterparadies in den Alpen ist jedes Jahr eine Reise wert.
 Warum trainierst du nicht öfters mit uns im Verein zusammen?
 Der Halbzeitstand sah vielversprechend aus, dann kam das Unglück.
@@ -11762,7 +11646,6 @@ Ich freue mich schon riesig auf das kommende Laufevent im Park.
 Bin heute nur eine Stunde im Kreis gelaufen.
 Der Verein sucht dringend neue Mitglieder für die Halle.
 Ich hasse es, morgens um sieben aufzustehen zum Joggen.
-Unser Trainer hat heute wieder mal überreagiert,典型.
 Kannst du mir dein Rad leihen, bis ich neues kaufe?
 Die Wettkampfsaison fängt im nächsten Monat wieder an.
 Wir haben das Finale knapp mit 2:1 verloren.
@@ -11900,7 +11783,6 @@ Das Crossfit Workout hat mich heute richtig fertig gemacht.
 Handball in der Firma ist immer so ein Chaos.
 Radfahren auf dem Alpenpass war eine wahre Herausforderung.
 Wir gehen nächstes Jahr nochmal zum Berlin Marathon.
-Mein Trainer sagt, ich muss noch mehr的核心 trainieren.
 Volleyball am Strand ist einfach das Beste im Sommer.
 Ich habe mir beim Joggen den Knöchel verdreht.
 Die neue Laufapp zeigt meine Herzfrequenz super genau.
@@ -11933,7 +11815,7 @@ Hast du das neue Fitnessprogramm schon probiert?
 Radtouren am Wochenende sind meine große Liebe.
 Das Stadion war gestern total vollgepackt mit Fans.
 Ich muss mich mal wieder richtig anstrengen.
-Der Verein organisiert nächste Woche ein grosses Event.
+Der Verein organisiert nächste Woche ein großes Event.
 Klettern ohne Sicherung ist mir zu riskant.
 Am Sonntag fahre ich wieder mit dem Radsportverein los.
 Das neue Fitnessgerät sieht richtig krass aus im Studio.
@@ -12113,7 +11995,6 @@ Ich habe mir beim CrossFit heute echt die Knochen brech.
 Fußballsamstag ist wieder mal ausgefallen.
 Laufen regt mich richtig zum Nachdenken an.
 Im Gym hab ich heute die Beine geschlagen.
-Wer will mit ins Hallenbad schwimmen gehen?
 Mein neuer Radweg ist leider voller Schlaglöcher.
 Klettern macht süchtig, egal wie oft man fällt.
 Das Training gestern war echt eine Herausforderung.
@@ -12292,10 +12173,8 @@ Wir haben den Mannschaftsaufbau für die Handballliga endlich abgeschlossen.
 Das Workout im Studio war heute richtig intensiv, meine Arme sind lahm.
 Ich überlege mir gerade, ob ich beim nächsten Marathon mitmache.
 Der neue Fußballschuh sitzt einfach noch nicht so richtig am Fuß.
-Klettern ist super entspannend, wenn man mal den Kopf abschalten will.
 Hast du schon Tickets für das Boxen heute Abend? Ich brauche zwei.
 Mein Rücken macht nach dem Gewichtheben oft wieder zu viel Druck.
-Die neue Laufroute durch den Wald ist wirklich mal was anderes.
 Unser Fußballteam hat endlich den ersten Platz in der Tabelle geholt.
 Ich habe mich beim Tennis heute total blamiert, weil ich nicht warmgelaufen bin.
 Das neue Fitnessgerät im Keller ist eine echte Geldverschwendung geworden.
@@ -12349,7 +12228,6 @@ Wir sollten mal gemeinsam Wandern gehen.
 Fitnessstudios sind oft überlaufen zur Stoßzeit.
 Mein Rad hat gerade einen Platten.
 Schwimmen tut der Seele gut nach der Arbeit.
-Die Handball-DM war wirklich spannend zu sehen.
 Ich trainiere nur noch im Freien.
 Basketball auf dem Hof ist immer lustig.
 Krafttraining erfordert viel Disziplin und Geduld.
@@ -12389,7 +12267,6 @@ Mein Sohn hat beim Schwimmwettbewerb Gold gewonnen.
 Klettern macht unglaublich fit und fordert den Kopf.
 Wir suchen dringend einen neuen Trainer für die Mannschaft.
 Die Marathonlaufstrecke war heuer schwieriger als erwartet.
-Ich schwitze am liebsten auf dem CrossTrainer hin und her.
 Handball ist einfach zu hektisch für meinen Geschmack.
 Habt ihr das Spiel gestern Abend auch verfolgt?
 Meine Hüfte schmerzt wieder seitdem ich mehr gelaufen bin.
@@ -12506,7 +12383,6 @@ Das Radrennen auf der Piste war wahnsinnig schnell.
 Wir haben beim Volleyballspiel im Strand den Ball verloren.
 Tanzen ist eine tolle Alternative zum klassischen Fitnessstudio.
 Der Wettkampf findet nächsten Sonntag im Stadion statt.
-Die Laufschuhe sind echt abgenutzt, muss neue her.
 Hast du schon das Spiel gesehen gestern Abend?
 Im Fitnessstudio war heute richtig voll, Wahnsinn.
 Mein Sohn spielt jetzt endlich in der Jugendmannschaft.
@@ -12627,7 +12503,6 @@ Wir brauchen neue Bälle für das Jugendtraining am Wochenende.
 Schwimmen im Freibad ist im Sommer einfach die beste Erholung.
 Der Wettkampf war unfair, weil der Schiedsrichter blind war.
 Ich überlege ernsthaft, einen Triathlon anzumelden, mal sehen.
-Laufschuhe sind mir zu teuer, aber ich brauche was Neues.
 Das CrossFit-Training gestern hat mich komplett am Limit gebracht.
 Unser Team hat das Turnier gewonnen, wir feiern heute abend.
 Mein Fußballverein hat das letzte Spiel leider wieder verloren.
@@ -12771,7 +12646,6 @@ Können wir das Training auf Donnerstag verlegen?
 Ich versuche gerade, meine Liegestütz-Rekord zu knacken.
 Der Weg zur Halle war nach dem Regen richtig schlammig.
 Schwimmen ist für meine Gelenke einfach die beste Ausdauerübung.
-Wer will mit mir zum Crossfit-Workout kommen?
 Die neue Fußballgruppe im Verein freut sich auf dich.
 Ich habe beim Trailrun fast meinen Rhythmus verloren.
 Fitness macht mir nur dann Spaß, wenn Musik dabei läuft.
@@ -12799,7 +12673,6 @@ Das Fitnessstudio an der Ecke ist abends immer überfüllt.
 Mein Rücken tut weh, seit ich wieder Rad fahre.
 Wir spielen morgen um zehn Uhr Handball im Gemeindehaus.
 Die neue Turnhalle riecht noch ziemlich stark nach Farbe.
-Ich will diesen Sommer unbedingt eine Segelflizenz machen.
 Der Marathon ist zu weit weg, aber der Zehnkiloläufer passt.
 Gestern hatte ich null Bock auf das Crosstraining im Klub.
 Mein Vater war früher auch ein großer Fußballfan in dieser Stadt.
@@ -13038,7 +12911,6 @@ Wir haben im Verein jetzt neuere Trikots bestellt, sieht toll aus.
 Laufen auf Asphalt macht meinem Rücken auf Dauer wirklich nichts.
 Hast du schon mal einen Marathon gelaufen oder nur kürzere Distanzen?
 Die Halle war gestern zu warm für so ein intensives Training.
-Mein Sohn spielt Fußball in der C-Jugend, das ist seine Leidenschaft.
 Ich suche jemanden zum gemeinsamen Joggen am Morgen, hast Zeit?
 Das Yoga-Video von YouTube hat mir heute echt gut getan.
 War die Basketball-WM spannend oder habt ihr den Überblick verloren?
@@ -13062,7 +12934,6 @@ Das Klettern macht mir richtig Spass.
 Schwimmen ist mein absolutes Lieblingsfach.
 Hast du schon am Triathlon teilgenommen?
 Unsere Mannschaft hat das Spiel gewonnen.
-Der Trainer will heute extra hart trainieren.
 Ich habe meine Laufschuhe endlich gewechselt.
 Die Mountainbiketour war echt anstrengend.
 Kannst du mir bei den Kniebeugen helfen?
@@ -13108,7 +12979,6 @@ Ich renne morgen früh wieder, regnerisch oder nicht.
 Unser Verein hat einen neuen Torwart verpflichtet.
 Beim Yoga spüre ich am meisten den Stressabbau.
 Hast du die Ergebnisse vom Marathon gesehen?
-Mein Trainer will, dass ich mehr Gewicht hebe.
 Das Radfahren im Frühling macht einfach Spaß.
 Wir haben im Mannschaftstraining heute besonders hart gearbeitet.
 Ich muss meinen alten Rucksack fürs Laufen kaufen.
@@ -13138,7 +13008,6 @@ Der neue Trainer gibt echt gas, man merkt den Unterschied.
 Ich überlege ernsthaft mir ein Mountainbike zu kaufen.
 Fußball am Wochenende war einfach nur zum Kotzen.
 Mein linker Oberschenkel zieht seit dem Sprint noch an.
-Hast du schon Tickets für die DM bestellt?
 Im Hallenbad ist es immer so muffig und unangenehm warm.
 Ich brauche dringend einen neuen Rucksack fürs Joggen.
 Die Mannschaft hat im letzten Spiel stark aufgeholt.
@@ -13421,7 +13290,6 @@ Ich überlege ernsthaft, wieder mit dem Radfahren anzufangen.
 Das Crossfit-Programm ist anstrengend, aber ich sehe Ergebnisse.
 Hast du Karten für das nächste Derby im Stadion besorgt?
 Meine Beine sind nach dem langen Wanderweg total müde.
-Wir spielen下周 wieder Tennis zusammen, passt das bei dir?
 Die neue Laufapp auf meinem Handy trackt alles perfekt.
 Ich würde gerne mal einen Triathlon ausprobieren, wenn ich Zeit habe.
 Das Fitnessstudio in der Nähe ist morgens immer voll belegt.
@@ -13662,7 +13530,6 @@ Ich kann gar nicht verstehen, warum dir Klettern so viel Spaß macht.
 Unser Team hat das Endspiel leider knapp aber verdient verloren.
 Die neue Turnhalle riecht schon wieder ganz nach altem Schweiß.
 Laufen im Regen ist wirklich nichts für mich persönlich.
-Wir sollten mal zusammen einen großen Waldlauf报名参加 versuchen.
 Dein Muskelaufbauplan sieht auf dem ersten Blick sehr komplex aus.
 Ich habe gestern beim Joggen meine persönliche Bestzeit erreicht.
 Das Bergsteigen erfordert einfach eine andere Art von Ausdauer.
@@ -13717,7 +13584,6 @@ Ich habe mir beim Mountainbikefahren den Ellenbogen verstaucht.
 Die neue Halle sieht modern aus und hat gute Geräte.
 Kannst du mir beim Schiessen helfen, ich bin Anfänger?
 Das Finale gestern Abend war einfach nur spektakulär.
-Ich esse nach dem Training immer direkt was Gesundes.
 Der Berglauf war anstrengender als ich gedacht hatte.
 Mein Verein sucht dringend neue Mitglieder für die Jugendmannschaft.
 Hast du den Wettkampf am Samstag gesehen, er war toll.
@@ -13752,7 +13618,6 @@ Klettern ohne Helm geht bei uns gar nicht erst.
 Wer hat Lust auf eine Joggingtour morgen früh?
 Das Schwimmbecken war leer, konnte schön schwimmen gehen.
 Unsere Fußballmannschaft braucht dringend neue Spieler dafür.
-Hab mir am Knie was zugezogen beim Laufen.
 Heute abend gehen wir wieder ins Fitnessstudio.
 Fußball am Wochenende ist doch der Hammer.
 Ich hasse es, wenn mein Laufschuh drückt.
@@ -13819,7 +13684,6 @@ Ich brauche dringend neue Laufschuhe, die alten sind kaputt.
 Die Bergtour war atemberaubend schön.
 Fitness macht mir eigentlich gar keinen Spaß mehr.
 Wann findet das nächste Hallenturnier statt?
-Mein Sohn will unbedingt Handball spielen.
 Das Yoga-Seminar am Wochenende hat mich gut entspannt.
 Wir üben für das große Turnier im Sommer.
 Radfahren mit dem Hund ist echt cool.
@@ -13827,7 +13691,6 @@ Der Wettkampf war fair und spannend bis zum Schluss.
 Ich vermisste die alten Zeiten auf dem Vereinssportplatz.
 Schwimmen hilft mir, besser zu schlafen.
 Das neue Gym in der Stadt sieht modern aus.
-Laufen im Regen macht irgendwie auch was her.
 Endlich wieder Zeit für eine Runde Fußball am Wochenende.
 Mein Laufschuh ist kaputt, ich muss einkaufen gehen.
 Heute im Studio nur Beine gemacht, weh tut's schon.

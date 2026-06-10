@@ -149,7 +149,6 @@ Ich habe seit der Reise immer noch leichten Durchfall.
 Die Röntgenaufnahme zeigt leider doch einen kleinen Knick.
 Ich muss meine Medikamentendosis langsam wieder reduzieren.
 Kannst du mal gucken, ob ich einen Fieberwert habe?
-Die Wunde am Knie will einfach nicht richtig heilen.
 Ich fühle mich nach der Behandlung schon deutlich besser.
 Mein Hausarzt hat mich zur weiteren Abweisung überwiesen.
 Die Schmerzmittel helfen nur noch kurzzeitig gegen das Ziehen.
@@ -298,7 +297,6 @@ Ich vergaß meine Krankenkassenkarte zu Hause wieder.
 Der Knieknorpel ist leider etwas abgenutzt worden.
 Wir warten schon seit Stunden in der Wartezimmer.
 Die MRT war total laut und unangenehm ehrlich gesagt.
-Ich nehme die Schmerzmittel nur zur Not wirklich.
 Die Diagnose war zum Glück nur eine leichte Verstauchung.
 Hast du Tipps gegen die nächtlichen Kopfschmerzen vielleicht?
 Meine Allergie gegen Pollen wird jedes Jahr schlimmer.
@@ -756,7 +754,7 @@ Der Kardiologe hat ein leichtes Herzrasen festgestellt, aber nichts Akutes.
 Ich esse jetzt glutenfrei, seitdem die Bauchschmerzen weg sind.
 Mein Rücken schmerzt so stark, dass ich kaum sitzen kann.
 Hast du einen Tipp gegen diese lästige Erkältung?
-Die Operation war erfolgreich, jetzt geht’s nur noch um die Rehabilitation.
+Die Operation war erfolgreich, jetzt gehts nur noch um die Rehabilitation.
 Ich sollte weniger Kaffee trinken, sagt mein Arzt immer wieder.
 Der Termin beim Hautarzt war leider schon voll.
 Mein Blutdruck ist heute morgen wieder ganz ok.
@@ -1103,7 +1101,6 @@ Meine Knie knirschen immer lauter beim Gehen.
 Ich brauche dringend ein Attest für die Arbeit.
 Die Wunde schließt sich endlich ganz schön gut ab.
 Hast du ein Hausmittel gegen diese schreckliche Übelkeit?
-Der专科arzt war leider komplett ausgebucht.
 Ich fühle mich nach der Behandlung wieder viel wohler.
 Die Inhalation hilft meiner Atmung nachts ungemein.
 Meine Mutter hat wieder mal ihren Blutdruck gemessen.
@@ -1154,7 +1151,6 @@ Meine Großmutter bekommt jetzt regelmäßig Insulin gespritzt.
 Die Wunde heilt langsam, aber sicher wieder zu.
 Ich brauche dringend ein Attest für mein Arbeitsamt.
 Warum kribbelt es ständig in meinen Zehenspitzen?
-Mein Husten will einfach nicht mehr weggehen.
 Der Kardiologe war sehr zufrieden mit meinen Herzrhythmus.
 Ich vergess manchmal, meine Medikamente morgens einzunehmen.
 Die Operation war glücklicherweise sehr erfolgreich, wie man sieht.
@@ -1207,7 +1203,6 @@ Die Physiotherapie zweimal die Woche scheint wirklich Wunder zu wirken.
 Ich habe mich gestern Abend leicht erkältet, jetzt läuft die Nase.
 Der Notarzt war schnell da, zum Glück gab es keine Verletzungen.
 Ich muss meine Insulinpumpe neu programmieren lassen beim Techniker.
-Die Narbe ist fast weg, man sieht kaum noch was davon.
 Hast du einen Tipp gegen meine ständigen Rückenschmerzen im Büro?
 Der Termin war leider schon wieder ausgebucht.
 Meine Blutwerte sehen diesmal deutlich besser aus.
@@ -1228,9 +1223,7 @@ Hast du schon den Zuzahlungsbetrag gezahlt?
 Mein Rücken schmerzt morgens beim Aufstehen furchtbar.
 Die Allergie gegen Pollen ist dieses Jahr schlimmer.
 Ich habe mir den Arm am Sportplatz gebrochen.
-Der Dermatologe will mal die Pickel ansehen.
 Ich trage seit gestern diese neue Brille.
-Die Wunde muss noch zwei Mal täglich换药 werden.
 Ich bin nervös vor der nächsten CT Untersuchung.
 Meine Mutter nimmt täglich Blutverdünner ein.
 Der Kinderarzt war sehr zufrieden mit dem Wachstum.
@@ -1418,7 +1411,6 @@ Das Röntgenbild soll morgen fertig sein.
 Hast du schon eine Vorsorgeuntersuchung gemacht?
 Die Tabletten machen mich leider so müde.
 Mein Zahnarzt hat mich zum Kieferchirurgen geschickt.
-Ich habe mir beim Joggen was verrenkt.
 Die Wunde heilt überraschend schnell ab.
 Mama hat endlich ihre neuen Brillengläser bekommen.
 Wird die Behandlung von der Kasse übernommen?
@@ -1442,7 +1434,6 @@ Muss ich vor dem Bluttest nüchtern erscheinen?
 Die Apotheke in der Nähe war heute zufällig offen.
 Meine Kopfschmerzen gehen immer weg, wenn ich schlafe.
 Der Zahnarzt wollte doch nur eine kleine Füllung machen.
-Hab keine Ahnung, was diese neue Studie genau besagt.
 Kannst du mir kurz den Link zur Impfseite schicken?
 Ich fühl mich total schwach und bin leicht fiebrig.
 Die Physiotherapeutin hat mir neue Übungen gezeigt.
@@ -1459,7 +1450,6 @@ Die Krankenkasse zahlt nicht für diese spezielle Behandlung.
 Ich bin so erleichtert, dass alles wieder normal ist.
 Der Arzt hat mich wegen des Hustens untersucht.
 Meine Allergie wird im Frühling leider immer schlimmer.
-Hast du Paracetamol zu Hause, ich hab was vergessen.
 Ich versuche jetzt, jeden Tag mindestens zwanzig Minuten zu laufen.
 Der Termin beim Hautarzt ist erst im nächsten Monat.
 Ich habe seit drei Tagen eine schreckliche Halsentzündung.
@@ -1470,7 +1460,6 @@ Der Physio sagt, ich soll mehr Dehnen gegen den Rücken.
 Ich muss morgen früh wieder Blut abgeben für die Kontrolle.
 Das Rezept wurde leider abgelehnt, weil die Kasse zahlt.
 Mein Kopf dreht sich beim Aufstehen, vielleicht zu niedrig.
-Der Hausarzt will eine Ultraschalluntersuchung vom Bauch machen.
 Die Antibiotika haben geholfen, die Halsschmerzen sind weg.
 Ich bekomme immer Übelkeit, wenn ich diese Tabletten nehme.
 Die Wunde heilt langsam, aber ich muss sie weiter verbinden.
@@ -1887,7 +1876,6 @@ Die Nerven sind am Ende nach der langen Operation.
 Ich soll mehr Obst und Gemüse essen laut Arzt.
 Mein Sohn hat sich beim Sport den Arm verstaucht.
 Die Heilung dauert noch ein paar Wochen voraussichtlich.
-Ich hab keine Ahnung was die Diagnose bedeutet.
 Ich bin noch immer so müde nach der OP.
 Der Hausarzt sagt, die Werte sehen gut aus.
 Schmerzmittel helfen mir bei dem Kopfschmerz leider kaum.
@@ -2140,10 +2128,8 @@ Kannst du mir bitte deine Hausarztkarte geben, ich habe meine vergessen.
 Der Hautfleck sieht verdächtig aus, ich lass das mal checken.
 Mein Rücken ist nach dem Sport total verspannt und schmerzt.
 Ich habe starke Schwindelanfälle, wenn ich mich schnell umdrehe.
-Die Apotheke war zu, also muss ich morgen vorbeikommen.
 Er bekommt jetzt Insulin-Injektionen, weil der Zucker zu hoch ist.
 Ich fühle mich total müde, obwohl ich acht Stunden geschlafen habe.
-Mein Baby hat Fieber und will die ganze Zeit schreien.
 Der Chirurg war sehr nett und hat alles genau erklärt.
 Ich muss aufhören zu rauchen, sonst bekomme ich Lungenprobleme.
 Die Allergie wird im Sommer immer schlimmer, ich niese nicht aufhören.
@@ -2324,7 +2310,6 @@ Der Schmerz zieht bis in meinen linken Arm, das ist beängstigend.
 Ich habe meine Versicherung gerade wegen der Kassenwahl angerufen.
 Die Wunde heilt besser, seit ich sie nicht mehr berühre.
 Wir warten schon seit Wochen auf das Biopsieergebnis.
-Das Blutbild war normal, also atme ich erst einmal auf.
 Der Termin beim Hautarzt war echt schwer zu bekommen.
 Ich habe seit zwei Tagen heftige Migränekopfschmerzen.
 Das Blutbild war zum Glück komplett in Ordnung.
@@ -2383,7 +2368,6 @@ Morgen früh muss ich wieder nüchtern zum Blut ablassen fahren.
 Mein Zahnweh ist endlich weg, seitdem ich die neuen Tabletten nehme.
 Die Physiotherapeutin sagt, ich muss noch mindestens sechs Wochen warten.
 Ich habe mir vorhin am Arm echt eine dicke Quetschung zugezogen.
-Die Apotheke hat das Rezept noch nicht online, also muss ich warten.
 Wir haben den Kinderarzt angerufen, weil das Fieber einfach nicht weggeht.
 Mein Vater hat sich gestern die Hüfte operieren lassen, hoffentlich klappt es.
 Der Neurologe meinte, die Migräne würde wahrscheinlich vom Stress kommen.
@@ -2565,7 +2549,6 @@ Ich fühle mich seit der Impfung seltsam müde und abgeschlagen.
 Kannst du kurz die Kinder schauen, ich muss zum Checkup.
 Das MRT war echt laut und unangenehm für meine Ohren.
 Mein Vater hat vor zwei Wochen einen leichten Schlaganfall erlitten.
-Habe keine Ahnung, was mit meinem Knieschmerzen los ist.
 Die Apotheke hat die neuen Tropfen leider nicht vorrätig.
 Ich sollte mal wieder meine Sehfähigkeit beim Augenarzt prüfen lassen.
 Der Blutzuckerspiegel ist bei mir morgens immer zu hoch.
@@ -2718,7 +2701,6 @@ Ich habe seit gestern diese seltsamen Ausschlag an den Armen.
 Der Arzt hat mich zum Hörtest überwiesen, weil ich schlechtere höre.
 Mein Rücken tut so weh, ich kann kaum noch sitzen.
 Wir müssen mal wieder unseren Blutdruck messen, zum Glück ist er normal.
-Ich nehme die Vitamine, weil ich mir im Winter nichts holen will.
 Die Wunde sieht heute schon viel besser aus, fast verheilt.
 Hast du auch das Gefühl, dass du immer so müde bist?
 Mein Hausarzt wollte unbedingt eine Kontrolluntersuchung machen lassen.
@@ -2733,7 +2715,6 @@ Ich fühle mich einfach nur ganz erschöpft und matt.
 Könntest du mal kurz mein Blutdruck messen?
 Die Antibiotika haben gut gegen die Lungenentzündung gewirkt.
 Meine Kopfschmerzen kommen immer nur am Wochenende.
-Ich muss meine Glukosewerte nochmal严格控制 kontrollieren.
 Der Hautarzt hat den Mutterschal genau begutachtet.
 Schmerzmittel helfen leider nur noch sehr wenig dabei.
 Wann wird denn das Ergebnis der Blutuntersuchung fertig sein?
@@ -2822,7 +2803,6 @@ Hast du schon mal was von funktioneller Medizin gehört?
 Die Physio sagt, ich soll mehr Dehnen machen.
 Mein Vater hat vor zwei Wochen den Herzinfarkt bekommen.
 Ich brauche dringend ein Rezept für mein Schlafmittel.
-Die Hauterkrankung will einfach nicht so recht weggehen.
 Ich fühle mich nach der Impfung etwas schlapp.
 Kann ich meine Krankenversicherung für die Reise erweitern?
 Der Neurologe meint, es ist wahrscheinlich nur Stress.
@@ -2946,7 +2926,6 @@ Kommst du mit zur Vorsorgeuntersuchung? Ich mache mir Sorgen.
 Der Husten dauert schon seit zwei Wochen, das ist nervig.
 Ich brauche ein neues Rezept, das alte ist abgelaufen.
 Seit der Antibiotikakur fühle ich mich wieder deutlich besser.
-Hast du eine Vorstellung, was die Ursache der Kopfschmerzen ist?
 Meine Knie schmerzen immer, wenn es wieder kälter wird.
 Die Heilung verzögert sich, weil ich zu viel umherlaufe.
 Ich habe keine Zeit für den Hausarzt, der Wartezimmer ist voll.
@@ -3148,7 +3127,6 @@ Die Physiotherapie tut richtig gut, mein Nacken ist lockerer.
 Ich habe Angst vor dem kleinen chirurgischen Eingriff morgen.
 Mein Hausarzt rät dringend, mit dem Rauchen aufzuhören.
 Die Grippesaison ist heuer besonders hart, alles voll infected.
-Ich vergesse immer meine Medikamente einzunehmen,典型s Vergesslichkeit.
 Der Arzt hat mir einen Krankschreibungschein für zwei Wochen ausgestellt.
 Meine Allergie gegen Pollen ist dieses Jahr total schlimm.
 Wir müssen mal einen Facharzt für Lungenkrankheiten finden.
@@ -3268,7 +3246,6 @@ Meine Freundin hat sich vorhin impfen lassen gegen Grippe.
 Der Arzt meinte, ich solle mehr Bewegung in den Alltag einbauen.
 Habst du zufällig noch Paracetamol zu Hause rumliegen?
 Mein Großvater muss sich wieder auf die Dialyse vorbereiten.
-Die Blutergebnisse sind noch nicht ganz angekommen, also warten wir.
 Ich finde es nervig, immer wieder in langen Wartezimmern zu hocken.
 Der Physio hat gesagt, ich soll erst mal drei Tage pausieren.
 Meine Tante hat vorhin von ihrer erfolgreichen Operation berichtet.
@@ -3328,7 +3305,6 @@ Meine Allergie gegen Pollen wird jedes Jahr schlimmer.
 Ich brauche dringend eine neue Brille.
 Der Kinderarzt war mit dem Wachstum zufrieden.
 Hast du den Arztbrief schon bekommen?
-Meine Hüfte knarzt beim Treppensteigen ganz厉害.
 Ich sollte aufhören so viel Kaffee zu trinken.
 Die Blutentnahme hat heute glatt geklappt.
 Mein Rücken macht mir wieder Sorgen.
@@ -3773,13 +3749,11 @@ Die Diagnose ist leider nicht ganz so rosig wie erwartet.
 Ich brauche dringend mein Inhalationsgerät, hab es vergessen.
 Der Röntgenbild zeigt einen leichten Bruch am Knöchel.
 Kann ich beim Hausarzt einfach vorstürmen bei Fieber?
-Meine Migräne-Anfälle werden durch Stress明显 verstärkt.
 Die Blutabnahme hat heute schneller geklappt als gedacht.
 Hörst du auch auf deine Body-Signals, oder ignorierst sie?
 Der Heilungsvorgang dauert länger als der Arzt versprochen hatte.
 Ich habe mir einen Termin für die Vorsorgeuntersuchung gemacht.
 Die Nebenwirkungen der Tabletten sind wirklich anstrengend.
-Komm mal her, ich zeig dir meinen Ausschlag kurz.
 Mein Vater nimmt jetzt täglich ein Aspirin zum Schutz.
 Die Physio sagt, ich soll noch drei Wochen warten.
 Hast du schon den Impfschutz für Corona aktualisiert?
@@ -3837,7 +3811,6 @@ Ich hoffe, der Schmerz wird bald etwas nachlassen.
 Meine Mutter nimmt jetzt Tabletten gegen die Blase.
 Hast du eigentlich auch solche starken Herzstösse manchmal?
 Ich hab heute morgen immer noch Kopfschmerzen.
-Kannst du mir kurz abholen was vom Rezept?
 Der Hautarzt sagt es ist nur eine kleine Entzündung.
 Meine Augen sind total trocken nach dem Bildschirmarbeitszeit.
 Hast du schon den Termin für die Zahnreinigung gemacht?
@@ -3915,7 +3888,6 @@ Meine Mutter braucht bald ihre Prothese wieder austauschen lassen.
 Ich hab schon wieder diese furchtbaren Migräneanfälle am Montagmorgen.
 Der Hautarzt sagt es ist nur eine harmlose Sonnenallergie.
 Kannst du mal kurz mein Blutdruck messen, er fühlt sich seltsam an.
-Ich muss endlich abnehmen, sonst bekomme ich noch Diabetes Typ 2.
 Die Schmerzmittel tun leider gar nichts gegen diesen Zahnweh mehr.
 Mein Vater hatte gestern einen leichten Herzinfarkt im Schlaf.
 Wir warten immer noch auf die Ergebnisse aus der Blutabnahme.
@@ -3965,7 +3937,6 @@ Der Termin beim Augenarzt war leider wieder weggefallen.
 Ich bekomme seit Tagen diese seltsame Unruhe am ganzen Körper.
 Die Blutabnahme morgen früh hat mich schon genervt.
 Mein Zahnarztkassenzuschuss ist diesmal höher als erwartet.
-Wir sollten mal gemeinsam zum Checkup gehen, find ich gut.
 Das neue Inhalationsmittel verträgt mein Asthma eigentlich ganz gut.
 Kannst du mir deine Adresse vom Hautarzt nochmal schreiben?
 Die Wunde an meinem Fuß heilt gar nicht so schnell.
@@ -4182,7 +4153,6 @@ Kann ich bei dir morgen kurz vorbeischauen, ich bin erkältet.
 Meine Migräneattacken kommen leider öfter im Stress vor.
 Die Impfung war weniger schlimm als alle es beschreiben.
 Ich muss dringend meine Sehhilfen überprüfen lassen.
-Der Schmerzmittel ist mir zu stark, ich nehme was leichteres.
 Endlich wieder gut laufen können ohne jeden Schritt abzuwägen.
 Ich hab wieder Kopfschmerzen und muss Antibiotika nehmen.
 Der Termin beim Dermatologen ist leider schon voll ausgebucht.
@@ -4882,7 +4852,6 @@ Ich muss dringend meine Augenglasstärke überprüfen lassen.
 Diese neue Tabletten haben bei mir leider nichts gebracht.
 Meine Mutter geht jetzt wieder regelmäßig zum Kardiologen.
 Die Röntgenaufnahme hat eine kleine Verletzung gezeigt.
-Kann ich das Attest bitte auch als PDF bekommen?
 Der Impfstoff war echt kalt, aber es ging schnell.
 Ich brauche dringend einen neuen Hörgeräteakustiker in der Stadt.
 Mein Rücken macht mir nachts wirklich zu schaffen.
@@ -5179,7 +5148,6 @@ Meine Mutter hat jetzt einen Stöpsel für die Ohren.
 Kannst du mal kurz mein Fieber messen bitte?
 Ich fühle mich nach der Grippe immer noch schwach.
 Der Kardiologe meint, meine Herzrhythmen sind okay.
-Hast du gegen das Sodbrennen was Neues gefunden?
 Mein Rücken schmerzt schon seit Wochen wieder stark.
 Die Krankenkasse hat die Kosten übernommen, puh.
 Ich trage jetzt Kontaktlinsen statt Brille halt.
@@ -5329,7 +5297,6 @@ Der Therapeut sagt, ich soll tiefer atmen.
 Meine Allergie macht diesen Sommer echt zu schaffen.
 Wir müssen den Termin bei der Hautärztin verschieben.
 Das Rezept ist erst am Montag gültig.
-Hast du eine Ahnung, was die Kosten tragen?
 Ich esse jetzt nur noch salzarm und fettfrei.
 Die Schmerzmittel helfen leider überhaupt nicht mehr.
 Meine Mutter hat gestern wieder Kopfschmerzen gehabt.
@@ -5515,7 +5482,6 @@ Die Wunde muss noch einmal gründlich desinfiziert werden heute.
 Ich warte immer noch auf die Ergebnisse aus dem Labor.
 Mein Vater hatte gestern einen Herzinfarkt und liegt auf der ICU.
 Wir müssen den Termin absagen wegen der plötzlichen Grippe.
-Dieser Schnupfen geht einfach nicht weg, egal was ich mache.
 Ich esse bewusst mehr Gemüse, weil der Cholesterinwert hoch ist.
 Die Physio hat gesagt, ich soll erstmal die Weichteile schonen.
 Hat sich dein Halsweh mit den Lutschtabletten überhaupt gebessert?
@@ -6070,7 +6036,6 @@ Hast du eine Nummer von einem guten Kinderarzt in deiner Gegend?
 Die Kopfschmerzen kommen immer öfter vor, das ist echt belastend.
 Ich muss meine Sehhilfen anpassen lassen, die alten sind zu schwach.
 Der Arzt hat mir geraten, weniger salzhaltige Speisen zu essen.
-Meine Kniescheibe knarzt bei jeder Bewegung, was mache ich da?
 Die Physiotherapie nach dem Unfall hat wirklich wahnsinnig gut funktioniert.
 Ich brauche dringend ein Rezept für mein Asthmaspray, es ist leer.
 Ich warte schon seit drei Wochen auf einen Termin.
@@ -6392,7 +6357,6 @@ Ich vergesse oft, meine Tabletten abends einzunehmen.
 Der Physiotherapeut hat mir Übungen für den Nacken gezeigt.
 Seit der Grippe bin ich einfach total abgeschlagen.
 Hast du schon mal von diesem neuen Heilungsverfahren gehört?
-Mein Hausarzt will mich erst einmal beobachten.
 Die Operation war doch viel komplizierter als gedacht.
 Ich muss meinen Cholesterinspiegel dringend senken.
 Der Schmerz zieht jetzt bis in die Hüfte durch.
@@ -6486,7 +6450,6 @@ Die Physio hat gesagt ich soll noch mehr Dehnen machen.
 Ich hoffe die Wunde heilt schnell ohne Narbe zu hinterlassen.
 Meine Mutter ist morgen wieder zum Rheumatologen unterwegs.
 Hast du schon rausgefunden welche Allergie genau dahinter steckt?
-Das Ultraschallbild sah normal aus, also keine Sorge mehr.
 Ich esse seitdem ich das weiß viel mehr grünen Salat.
 Der Kahlkopf war leider nur vorübergehend dank der Grippewelle.
 Mein Vater braucht jetzt eine neue Brille mit Leseglas.
@@ -6514,7 +6477,6 @@ Das Ergebnis der Biopsie kommt erst nächste Woche an.
 Ich nehme morgens meine Blutdruckmedikamente pünktlich ein.
 Hast du eine Hausmittel Tipp gegen diese schlimme Halsentzündung?
 Die Physiotherapie tut gut, aber es dauert noch lange.
-Meine Mutter hat sich die Hüfte operieren lassen lassen.
 Kann ich den Termin auf morgen Vormittag verschieben lassen?
 Der Neurologe meinte, dass es nur Nervosität sei.
 Ich habe wieder diese lästigen Kopfschmerzen am Kopf.
@@ -6652,7 +6614,6 @@ Die Inhalation hilft bei der Hustenkrise ungemein.
 Wir warten seit drei Stunden auf die Ergebnisse.
 Der Kieferorthopäde zieht morgen an den Drähten.
 Ich habe heute Morgen wieder Kopfschmerzen bekommen.
-Der Zahnarzt will am Freitag die Wurzel behandeln.
 Mein Blutdruck ist seit der Umstellung normaler.
 Kannst du mir bitte einen Termin bei der Praxis machen?
 Die Röntgenaufnahme zeigte nur leichte Arthrose im Knöchel.
@@ -6698,7 +6659,6 @@ Der Zahnweh kommt immer nur nachts richtig hoch.
 Ich sollte wirklich mal wieder meinen Cholesterinspiegel prüfen lassen.
 Die Krankenkasse hat die Rechnung leider nicht übernommen.
 Mein Freund ist mit Fieber ins Krankenhaus eingewiesen worden.
-Hör auf, immer an dem Nägel zu kauen.
 Ich trinke jetzt mehr Wasser statt Limonade.
 Die Blutwerte sind allesamt im grünen Bereich.
 Mal sehen, ob die neue Salbe wirklich hilft.
@@ -6722,7 +6682,6 @@ Meine Füße schmerzen total nach dem langen Spaziergang.
 Die Impfung gegen Grippe war gar nicht so schlimm.
 Ich brauche dringend neue Brillengläser für die Arbeit.
 Der Schmerzmittel bleibt einfach nur auf nüchternen Magen liegen.
-Kann man sich da irgendwie selbst was tun?
 Mein Zahnarzt hat mich zum Oralchirugen überwiesen.
 Die Blutwerte sind diesmal wieder im grünen Bereich.
 Ich muss morgen früh nochmal ins Labor kommen.
@@ -6879,7 +6838,6 @@ Kannst du kurz anrufen und sagen dass ich krank bin?
 Der Hautarzt sagt es ist nur eine normale Allergie.
 Meine Tabletten tun mir leider immer noch auf den Magen.
 Wir müssen echt mal zum Augenarzt gehen, alles wird unscharf.
-Die Blutwerte sind normal, also war die Angst umsonst.
 Hast du schon deinen Zahnarzttermin für die Kontrolle gemacht?
 Ich fühle mich so schwach nach dieser Grippezeit.
 Der Physio hat gesagt ich soll mehr Stretching machen.
@@ -6909,7 +6867,6 @@ Das Röntgenbild zeigt leider einen leichten Bruch.
 Ich vergesse immer wieder meine Tabletten einzunehmen.
 Der Kinderarzt sagte, es ist nur eine Erkältung.
 Hast du schon einmal von diesem neuen Neurologen gehört?
-Die Physiotherapie tut echt weh aber sie bringt was.
 Ich muss dringend meine Sehhilfe austauschen lassen.
 Die Allergie gegen Pollen wird jedes Jahr schlimmer.
 Meine Mutter hat sich vorhin das Handgelenk verstaucht.
@@ -6957,7 +6914,6 @@ Die Ärztin verschrieb mir Salben für diese lästige Dermatitis.
 Mein Vater muss morgen früh zum Nierenschall kommen.
 Ich fühle mich total erschöpft, vielleicht ist es nur Burnout.
 Das Blutbild war allesamt im grünen Bereich, Glück gehabt.
-Ich verziehe den Hals seit der Nacht, was soll ich tun?
 Hat jemand Tipps gegen diese nervige trockene Haut im Winter?
 Der Physiotherapeut übt jetzt mit mir die Rückenmuskulatur auf.
 Ich muss leider meine Antibiotika für zwei weitere Tage nehmen.
@@ -7036,7 +6992,6 @@ Die Röntgenbilder zeigen glücklicherweise keine Knochenbrüche.
 Ich vergesse manchmal meine Tabletten zum Mittagessen zu nehmen.
 Kannst du mir kurz die Spritze für das Insulin reichen?
 Der Kribbeln in meinen Zehen nervt mich schon seit Wochen.
-Wir haben uns alle gegen Grippe impfen lassen lassen.
 Meine Allergie gegen Pollen ist dieses Jahr viel stärker.
 Der Hausarzt hat einen Blutabstrich auf Infektionen gemacht.
 Ich muss die Wunde heute wieder mit Pflaster wechseln.
@@ -7140,14 +7095,12 @@ Mein Rücken schmerzt schon wieder wenn ich zu lange sitze.
 Wir müssen bald zum Facharzt wegen der Sehstärke gehen.
 Die Operation war glatt gelaufen und alles sieht gut aus.
 Ich vergesse manchmal meine Tabletten zur Morgensroutine einzunehmen.
-Der Allergietest hat endlich gezeigt was genau das Problem ist.
 Mir ist ständig schwindelig wenn ich zu schnell aufstehe.
 Die Wunde muss noch eine Weile ruhiggestellt werden.
 Ich fühle mich nach der Impfung richtig schwach und müde.
 Der Zahnarzt zieht mir die weisesten Zähne nächste Woche.
 Hast du ein gutes Hausmittel gegen diesen nervenden Husten?
 Meine Knie knacken schon beim leichten Treppensteigen heute.
-Die Therapie ist anstrengend aber sie bringt wirklich was.
 Ich hoffe der Fieberanstieg sinkt bis zum Abend wieder.
 Ich muss morgen früh zum Zahnarzt hin.
 Der Blutdruck war gestern abend wieder zu hoch.
@@ -7224,7 +7177,6 @@ Wann kommt eigentlich die Ärztin aus dem Labor zurück?
 Ich brauche dringend neue Gläser weil meine alten kaputt sind.
 Die Entgiftungstherapie war echt anstrengend aber es lohnt sich.
 Meine Schwester leidet auch unter diesen ständigen Gelenkbeschwerden.
-Hoffentlich muss ich nicht nochmal operiert werden das will ich nicht.
 Ich hab wieder Kopfschmerzen seit dem Kaffee heute Morgen.
 Der Termin beim Augenarzt war endlich abgeschlossen worden.
 Meine Eisenwerte waren deutlich zu niedrig im Bluttest.
@@ -7386,7 +7338,6 @@ Hat dein Knie nach der Behandlung schon weniger wehgetan?
 Ich fühle mich seit dem Blutverlust immer noch schwach.
 Der Hautfleck hat sich unter der Salbe zurückgebildet.
 Kannst du mir die Telefonnummer von deiner Kinderärztin geben?
-Meine Mutter muss下周 zur Kontrolluntersuchung in die Klinik.
 Die Allergie gegen Pollen wird jedes Jahr wieder schlimmer.
 Ich habe vergessen, meine Tabletten für den Mittag mitzunehmen.
 Das Röntgenbild zeigt leider doch eine kleine Knochenbrüche.
@@ -7767,7 +7718,6 @@ Wir müssen dringend an einer Allergieanalyse arbeiten.
 Der Hausarzt hat mir ein kräftiges Antibiotikum verschrieben.
 Ich fühle mich nach der Behandlung viel besser als vorher.
 Hast du einen Termin für die Vorsorgeuntersuchung bekommen?
-Die Heilung braucht noch etwas Zeit, also keine Panik machen.
 Mein Rücken ist heute wieder verspannt und tut weh.
 Der Spezialist hat eine Operation im November vorgeschlagen.
 Ich trinke viel Wasser, damit der Magen sich beruhigt.
@@ -7898,7 +7848,6 @@ Mein Vater braucht bald neue Lesebrillen.
 Ich habe Angst vor dem Operationssaal.
 Das Blutbild war total im grünen Bereich.
 Hast du eine Versicherungskarte dabei oder muss ich sie suchen?
-Die Nierensteine geben ganz schreckliche Schmerzen her.
 Ich muss meine Insulinpumpe wieder aufladen.
 Der Hautfleck ist tatsächlich harmlos laut Arztbescheid.
 Trink doch mehr Wasser, das hilft gegen den Infekt.
@@ -8081,7 +8030,6 @@ Ich hatte so starke Kopfschmerzen, dass ich ins AK musste.
 Die Blutwerte sehen gut aus, alles im grünen Bereich.
 Meine Tochter hat sich das Handgelenk gebrochen beim Sport.
 Brauche dringend ein Rezept für mein Asthmaspray.
-Der Knieverletzung ist jetzt schon zwei Wochen her.
 Hast du schon mal mit einem Schlaftherapeuten gesprochen?
 Die Schmerzmittel helfen kaum, ich muss wieder hingehen.
 Mein Vater hat sich einen Hüftgelenksschmerz zugezogen.
@@ -8091,7 +8039,6 @@ Gestern Abend hatte ich plötzlich extremen Sauerstoffmangel.
 Der Zahnarzt hat mir gesagt, dass es nur oberflächlich ist.
 Kannst du mir mal deine Hausnummer von der Apotheke schicken?
 Die Physio sagt, ich soll mehr Dehnübungen machen.
-Ich bin total paranoid, was meine Cholesterinwerte angeht.
 Das Röntgenbild war undeutlich, wir müssen neu röntgen.
 Mein Immunsystem ist gerade durch die Grippewelle völlig geschwächt.
 Hast du Erfahrung mit diesem neuen Praxiszentrum in der Stadt?
@@ -8111,7 +8058,6 @@ Ich muss meine Blutzuckerwerte täglich messen und dokumentieren.
 Das Antibiotikum macht mir wirklich zu schaffen, vor allem den Magen.
 Wir warten schon wieder eine halbe Stunde in der Praxis.
 Deine Allergie gegen Nüsse ist ja echt heftig geworden dieses Jahr.
-Ich hab mir bei der Gartenarbeit was ins Bein geschnitten.
 Der Facharzt hat gesagt, wir müssen erstmal abwarten und sehen.
 Kann ich das Rezept direkt am Schalter oder muss ich warten?
 Mein Rücken macht seit gestern Morgen einfach nicht mehr mit.
@@ -8481,7 +8427,6 @@ Mein Blutdruck war im Checkup endlich wieder normal.
 Ich soll noch eine Woche Bettruhe halten nach der Op.
 Weißt du, ob die Krankenkasse die Physio übernimmt?
 Die Allergie gegen Pollen wird dieses Jahr echt schlimm sein.
-Hab mir bei der Gartenarbeit was in den Finger geschnitten.
 Das Röntgenbild hat glücklicherweise keine Brüche erkennen lassen.
 Muss morgen noch mal hin, um die Ergebnisse abzuholen.
 Mein Vater leidet stark unter seiner Parkinson-Erkrankung.
@@ -8634,7 +8579,6 @@ Die Wunde heilt langsam aber immer noch sehr langsam.
 Ich brauch dringend ein Attest für meine Krankmeldung bei der Arbeit.
 Meine Augen brennen ständig seitdem ich die neuen Tropfen nehme.
 Wir müssen morgen früh aufstehen für die Röntgenaufnahme ohne Frühstück.
-Das Blutbild war komplett in Ordnung was mich mal relieved hat.
 Hast du eine Nummer für einen guten Hautarzt in dieser Gegend?
 Mein Rücken zieht sich wieder ganz schön zusammen bei der Kälte.
 Die Antibiotika machen mir echt übel jeden Abend wenn ich sie nehme.
@@ -8659,7 +8603,6 @@ Ich muss dringend meine Sehhilfe aktualisieren lassen.
 Der Schmerzmittelrest reicht vielleicht bis zum Wochenende.
 Wir warten immer ewig auf die Terminbestätigung vom Spezialisten.
 Meine Allergie gegen Pollen ist dieses Jahr besonders stark.
-Kannst du mir bitte kurz abholen, was ich brauchen?
 Das Laborergebnis soll erst nächste Woche endlich da sein.
 Ich trage jetzt diese Orthese bei meinem Knieschaden.
 Die Physioübung tut zwar weh, aber es hilft wirklich.
@@ -8711,12 +8654,10 @@ Ich fühle mich heute wirklich schwach und schlapp.
 Der Hausbesuch der Krankenschwester war sehr freundlich gestern.
 Hast du schon mal vom neuen Blutdruckmessgerät gehört?
 Die Allergie gegen die Blüte ist dieses Jahr echt schlimm.
-Ich muss meine Diabeteswerte nochmal严格控制 kontrollieren.
 Wann kommt denn das Ergebnis vom Ultraschall zurück?
 Mein Rücken macht wieder Ärger nach dem Sport.
 Sie hat mir geraten, mehr Wasser zu trinken.
 Der Fieberzucker war zum Glück nur leicht erhöht.
-Ich verzeih dir nicht, dass du mich angefixt hast. Warte, was meinst du damit? Entschuldigung, ich meinte angesteckt.
 Die Physiotherapeutin sagt, ich soll täglich dehnen.
 Hast du eine private Versicherung für den Zahnarzt?
 Ich habe mir einen neuen Gehstock gekauft.
@@ -8872,7 +8813,6 @@ Der Termin beim Spezialisten ist erst wieder über Weihnachten.
 Ich habe gestern Abend Fieber bis auf 39 Grad bekommen.
 Könntest du kurz die Rezepturen für mich nachfüllen bitte?
 Die Narbe heilt langsam ab und juckt nur noch selten.
-Mein Vater hat Herzprobleme, also muss ich aufpassen.
 Ich vergesse oft meine Medikamente wegen dem stressigen Job.
 Die Röntgenaufnahme zeigt leider doch einen kleinen Bruch.
 Hast du Zeit, mich morgen zum Check-up zu begleiten?
@@ -8915,7 +8855,6 @@ Meine Migräne hält seit drei Tagen ohne Pause an.
 Die Krankschreibung ist bis einschließlich Freitag ausgestellt worden.
 Kommst du mit zur Vorsorgeuntersuchung, ich bin etwas nervös.
 Das fiebrig Gefühl kommt vielleicht vom neuen Impfstoff.
-Mein Zahnfleisch blutet beim Putzen wieder, was soll das?
 Der Physiotherapeut sagt, ich muss noch mindestens vier Wochen warten.
 Ich trinke jetzt viel Tee gegen den Hustenreiz da.
 Die Entlassung aus dem Krankenhaus erfolgt erst nächsten Dienstag.
@@ -8943,7 +8882,6 @@ Ich muss meinen Blutzucker täglich messen und protokollieren.
 Der Nierenstein war zum Glück klein genug zum Selberdrücken.
 Hast du einen Tipp gegen diese lästige Scharlachrote Fieber?
 Meine Allergie auf Nußprodukte zeigt sich erst spät.
-Der Kardiologe will ein Belastungs-EKG machen, um sicher zu sein.
 Ich vergesse immer, wann mein nächste Kontrolltermin ist.
 Die Schmerzmittel helfen kaum mehr gegen das Bandscheibenvorfall.
 Hast du Erfahrung mit dem neuen Hausarzt in der Innenstadt?
@@ -9048,7 +8986,6 @@ Ich muss dringend mal zum Augenarzt gehen.
 Die Physiotherapie macht weh, aber es hilft wirklich.
 Kannst du kurz vorbeikommen und mich abholen?
 Meine Allergie gegen Pollen wird jedes Jahr schlimmer.
-Wir haben keine Ahnung, was das Fieber verursacht.
 Der Arzt hat uns zur Ruhe geraten und wenig Stress.
 Ich trinke viel Wasser, damit es mir besser geht.
 Die Operation ist für nächsten Dienstag angesetzt worden.
@@ -9383,7 +9320,6 @@ Ich fühle mich seit der Impfung leider etwas abgeschlagen.
 Das Blutbild war glücklicherweise komplett unauffällig.
 Hast du schon einen Termin für die Augenkontrolle?
 Die Ärztin meinte, ich soll mehr trinken und schlafen.
-Mein Vater muss下周 eine Herzkatheteruntersuchung machen.
 Die neue Allergie-Tropfen wirken endlich gut gegen die Niesenattacken.
 Ich habe wieder diese schrecklichen Schwindelanfälle bekommen.
 Der Physio sagt, mein Bandscheibenvorfall heilt langsam.
@@ -9464,7 +9400,6 @@ Meine Mutter hat endlich ihre Prothese angepasst bekommen.
 Ich glaube, es ist nur eine Erkältung oder so ähnlich.
 Warst du schon beim Augenarzt? Mir gehts da auch nicht gut.
 Die Wunde heilt ganz langsam aber sicher von innen heraus.
-Wir sollten mal gemeinsam zum Checkup gehen, find ich wichtig.
 Mein Rücken schmerzt heute wirklich nachts am meisten davon.
 Ich habe vor dem Termin immer solche riesigen Angstgefühle.
 Die Physio sagt, ich solle erst noch zwei Wochen warten.
@@ -9532,7 +9467,6 @@ Der Termin beim Augenarzt ist schon morgen früh um acht.
 Mein Hals tut seit zwei Tagen mega weh und schmerzt.
 Ich habe Angst vor Injektionen, das weiß der Arzt noch nicht.
 Die Blutergebnisse sind endlich da und alles sieht gut aus.
-Musst du auch immer morgens nüchtern zum抽血 hingehen?
 Der Neurologe sagte, ich sollte mehr zur Ruhe kommen.
 Meine Allergie gegen Pollen wird jedes Jahr schlimmer und nervt.
 Kannst du mal kurz nachsehen wie deine Wunde heilt?
@@ -9823,7 +9757,6 @@ Kann man bei Zahnweh eigentlich Ibuprofen nehmen oder besser Paracetamol?
 Die Röntgenbilder zeigen leider einen kleinen Bruch im Handgelenk.
 Ich habe große Angst vor Spritzen, aber es muss sein.
 Mein Onkel leidet stark an Gelenkschmerzen durch die Kälte.
-Die Heilung dauert wohl noch zwei Wochen, also Geduld bewahren.
 Ich sollte wirklich mal mit dem Rauchen aufhören, mein Husten.
 Der Kinderarzt meint, das ist normal für ihr Alter im Wachstum.
 Meine Allergie gegen Birkenpollen wird jedes Jahr schlimmer leider.
@@ -10296,7 +10229,6 @@ Der Physiotherapeut hat neue Übungen für mich gezeigt.
 Ich fühle mich total erschöpft, als hätte ich eine Grippe.
 Kannst du kurz schauen, ob das Medikament verfallen ist?
 Die Untersuchung dauerte viel länger als eigentlich geplant.
-Mein Rücken macht seit der搬家 immer Probleme.
 Der Kardiologe war sehr freundlich und hat alles erklärt.
 Ich muss unbedingt meine Sehkraft mal neu prüfen lassen.
 Die Tabletten gegen die Migräne haben diesmal geholfen.
@@ -10501,7 +10433,6 @@ Die Diagnose war zum Glück harmlos.
 Kannst du mir mal deine Salbe leihen?
 Ich habe seit der Geburt Kopfschmerzen.
 Mein Vater nimmt wieder seine Medikamente.
-Die Reha macht echt was mit einem.
 Ich trau mich nicht zur Blutabnahme.
 Ich hab seit drei Tagen richtig heftige Kopfschmerzen.
 Der Termin beim Augenarzt ist erst übernächsten Monat.
@@ -10670,7 +10601,6 @@ Meine Allergie macht mich dieses Jahr wirklich kaputt.
 Er hat mir eine Salve gegen das Ekzem verschrieben.
 Ich fühle mich nach der Impfung irgendwie richtig müde.
 Die Ergebnisse aus dem Labor fehlen immer noch komplett.
-Kannst du mal kurz reinschauen ob da was steht?
 Ich muss morgen früh auf nüchternen Magen Blut abgeben.
 Meine Knieschmerzen kommen wieder wenn es feucht wird.
 Der Facharzt hat leider keine freien Termine mehr.
@@ -10944,7 +10874,6 @@ Ich habe vergessen, meinen Termin vorher zu bestätigen.
 Das neue Blutdruckmessgerät von der Kasse ist super.
 Ich fühle mich total schlapp und unmotiviert heute.
 Der Hausbesuch vom Pflegedienst war sehr freundlich.
-Ich muss morgen früh nüchtern zum抽血 hingehen.
 Die Narbe am Knie tut nach wie vor weh.
 Mein Bruder hatte auch schon diese seltsamen Symptome.
 Kann ich den Arzttermin kurzfristig absagen?
@@ -11094,7 +11023,6 @@ Ich nehme das Medikament immer morgens direkt nach dem Frühstück.
 Die Röntgenaufnahme zeigte leider eine kleine Fraktur im Knöchel.
 Meine Allergie gegen Pollen wird dieses Jahr wohl wieder schlimmer.
 Hast du den Impfbogen für die Reise schon beim Gesundheitsamt ausgefüllt?
-Der Neurologe will eine Magnetresonanztomographie zum sicheren Ausschluss machen.
 Ich fühle mich nach der Chemotherapie einfach total erschöpft und leer.
 Kannst du kurz bei Oma vorbeischauen, damit sie ihre Tablette nimmt?
 Die Entzündung im Ohr ist jetzt endlich fast abgeklungen.
@@ -11411,7 +11339,6 @@ Hast du schon mal gehört, dass Homöopathie unwirksam sein kann?
 Meine Mutter braucht nach der OP noch viel Bettruhe.
 Das Blutbild war komplett im grünen Bereich super.
 Ich vergesse immer meine Tabletten wenn ich nicht achte.
-Kannst du mir bitte kurz abholen was ich vom Apotheker brauche?
 Die Wunde am Finger sieht etwas entzündet aus gerade.
 Mein Hausarzt sagt ich soll weniger Kaffee trinken lassen.
 Der Rückenschmerz strahlt jetzt bis ins Bein durch leider.
@@ -11991,7 +11918,6 @@ Mein Allergietest auf Nüsse ist positiv ausgefallen.
 Wir sollten morgen zum Notaufenthalt wegen des Fiebers fahren.
 Die Physio sagt, ich soll mehr dehnen und weniger sitzen.
 Ich nehme die Schmerzpillen nur im akuten Fall ein.
-Hast du eine Idee, was mit diesem Ausschlag los ist?
 Der Arzt hat mir Cortisoncreme gegen die Ekzeme verordnet.
 Mein Vater hatte letzte Woche einen Herzinfarkt, das war schrecklich.
 Ich vergesse manchmal meine Tabletten, wenn ich gestresst bin.
@@ -12477,7 +12403,6 @@ Meine Migräne kommt wieder, ich brauche sofort meine Medikamente.
 Die Blutergebnisse sind gut, alles liegt im grünen Bereich.
 Ich habe mich bei der Arbeit irgendwie den Arm verstaucht.
 Der Hausarzt meinte ich sollte mal zum Hautarzt gehen.
-Schlaflosigkeit nervt total, vielleicht bringt das neue Kissen was.
 Hast du schon mal von diesem neuen Physiotherapeuten gehört?
 Meine Allergie reagiert extrem stark auf die Nusspollen.
 Die Operationsnarbe ist noch etwas empfindlich bei der Berührung.
@@ -12643,7 +12568,6 @@ Der Spezialist sagte, es sei kein Grund zur Sorge vorhanden.
 Kann man diese Apotheke auch am Sonntag noch besprechen?
 Mein Hals tut seit gestern Abend wirklich sehr weh beim Schlucken.
 Die Blutentnahme war wieder einmal eine echte Qual für mich.
-Hast du schon deine Impfung gegen die季节性 Grippe gemacht?
 Ich verfolge meine Schritte nur mit der neuen Gesundheits-App.
 Die Narbe von der Operation ist kaum noch sichtbar jetzt.
 Es tut mir leid, aber ich kann nicht zum Check-up kommen.
@@ -12656,7 +12580,6 @@ Die Blutabnahme war eigentlich gar nicht so schlimm.
 Mama nimmt täglich ihre Tabletten gegen den Blutdruck.
 Kannst du mir bitte kurz beim Eincremen helfen?
 Der Hausbesuch vom Pflegepersonal ist morgen früh.
-Mein Husten geht einfach nicht weg, was soll ich tun?
 Die Physio hat mir ganz gute Übungen fürs Kreuz gegeben.
 Ich hab keine Lust mehr auf diese Diät zu machen.
 Der Dermatologe findet die Hautrötung etwas unbedenklich.
@@ -12771,7 +12694,6 @@ Die Wunde heilt überraschend schnell ohne Komplikationen zu zeigen.
 Ich muss meine Tabletten eigentlich um sieben Uhr nehmen.
 Der Kinderarzt hat das Fieber schnell wieder gesenkt bekommen.
 Kann man überhaupt etwas gegen diesen chronischen Husten tun?
-Mein Knie knirscht immer wenn ich die Treppen steigen will.
 Ich hatte letzte Nacht wieder starke Migränekopfschmerzen.
 Der Arzt hat mir Kortisonspray für die Nase verschrieben.
 Mein Blutzuckerspiegel war nach dem Essen viel zu hoch.
@@ -13094,7 +13016,6 @@ Die Krankenkasse zahlt für die Sehhilfen nur einen Bruchteil.
 Wir müssen den Blutzuckerspiegel regelmäßig messen und dokumentieren.
 Der Hautarzt hat den verdächtigen Muttermal zur Sicherheit abtragen lassen.
 Ich fühle mich nach dem Impfen noch immer ziemlich erschöpft.
-Komm mal her, ich sehe wirklich schlecht und brauche Hilfe.
 Die Antibiotika-Creme hilft leider gar nicht gegen diese Pickel.
 Mein Rücken schmerzt seit der langen Autofahrt ins Grüne.
 Hast du eine frei Termin am Dienstagvormittag für die Untersuchung?
@@ -13193,7 +13114,6 @@ Der Spezialist hat empfohlen erst mal abzuwarten und zu sehen.
 Ich vergesse immer wieder meine Medikamente am Morgen einzunehmen.
 Die Wunde heilt erstaunlich schnell obwohl sie doch tief war.
 Kann ich meinen Termin vielleicht auf nächste Woche verschieben?
-Mein Vater ist gestern ins Krankenhaus eingeliefert worden worden.
 Ich probiere jetzt Yoga aus um besser einschlafen zu können.
 Die Allergietests haben leider nichts konkretes ergeben bisher.
 Du solltest aufhören zu rauchen damit deine Lunge erholt sich.
@@ -13334,7 +13254,6 @@ Kannst du kurz für mich da sein, ich bin im OP.
 Mein Sohn hat endlich sein Asthma-Spray angepasst bekommen.
 Das Röntgenbild vom Handgelenk war leider nicht eindeutig.
 Ich vergesse immer wieder meine Tabletten am Nachmittag.
-Der Neurologe findet nichts, also ist es vielleicht Stress.
 Schmerzmittel helfen mir irgendwie gar nicht mehr richtig.
 Wir müssen über die Versicherungskürzungen nochmal sprechen.
 Meine Mutter hat sich endlich ihren Hüftprothese gesetzt.
@@ -13367,7 +13286,6 @@ Der Kinderarzt hat sich das Ohr genau angesehen gerade eben.
 Ich habe Angst vor der Narkose während der Behandlung später.
 Die Physiotherapie ist super anstrengend aber es lohnt sich einfach.
 Hast du eine Versicherung die Kinesiologie abdeckt oder nur Krankenkasse?
-Mein Vater bekommt jetzt Insulin spritzen gegen den Diabetes Typ 2.
 Die Röntgenaufnahme war komplett uneingeschränkt und ohne Befunde glücklicherweise.
 Ich brauche dringend ein Attest für das Büro morgen.
 Der Neurologe meinte es sei wahrscheinlich nur Stress bedingt.
@@ -13459,7 +13377,6 @@ Das Rezept für die Tabletten habe ich gefunden.
 Meine Mutter hat gestern ihre OP gut überstanden.
 Schmerzmittel helfen bei dieser Migräne leider nur wenig.
 Wir müssen dringend mal unsere Augen überprüfen lassen.
-Der neue Hausarzt ist super freundlich und耐心ig.
 Ich vermute, ich bin einfach nur leicht grippig.
 Die Physiotherapeutin sagt, ich muss mehr dehnen.
 Mein Knie knarzt bei jedem Schritt richtig stark.
@@ -13474,7 +13391,6 @@ Kann jemand mir kurz erklären, was dieser Laborwert bedeutet?
 Ich habe vergessen, mein Inhalier mit in die Tasche zu packen.
 Mein Rücken schmerzt seitdem ich zu lange am PC saß.
 Die Überweisung zum Spezialisten liegt schon zwei Wochen rum.
-Ich hab mir beim Joggen was an der Achillessehne verzogen.
 Kannst du mal kurz meinen Blutdruck messen bitte?
 Die Antibiotika haben endlich eingesetzt, die Fieberkurve sinkt.
 Mein Zahnarzt hat gesagt ich muss zur Kieferorthopädie.
@@ -13542,7 +13458,6 @@ Mein Rücken schmerzt nach der langen Autofahrt.
 Ich habe vergessen meine Tabletten einzunehmen gestern.
 Das Fieber ist endlich wieder ganz gesunken heute.
 Kann ich kurz anrufen für einen neuen Termin?
-Meine Nägel bröckeln immer wenn ich krank war.
 Die Physiotherapie macht super Spaß und tut gut.
 Ich brauche dringend ein neues Rezept für Asthma.
 Mein Hals ist extrem heiser nach der Party.
@@ -13563,7 +13478,6 @@ Die Physiotherapeutin sagt, ich soll mehr Dehnübungen machen.
 Meine Allergie gegen Pollen wird jedes Jahr schlimmer.
 Ich habe mich gestern nachts stark erkältet.
 Das Rauschen in den Ohren geht mir auf die Nerven.
-Der Chirurge will erst mal abwarten und beobachten.
 Ich vergesse ständig meine Tabletten einzunehmen, doofe Sache.
 Die Infusion hat mir echt wieder Energie zurückgegeben.
 Hast du eine Empfehlung für einen guten Hals-Nasen-Ohren-Arzt?
@@ -13729,7 +13643,7 @@ Ich bekomme immer Schwindel, wenn ich zu schnell aufstehe.
 Der Zahnarzt hat gesagt, dass die Wurzel entzündet ist.
 Hast du schon mal über eine Blutuntersuchung nachgedacht?
 Mein Hals tut seit drei Tagen wirklich sehr weh.
-Die Antibiotika müssen wir unbedingt fertig trinken, sonst wird’s schlecht.
+Die Antibiotika müssen wir unbedingt fertig trinken, sonst wirds schlecht.
 Ich bin allergisch auf Penicillin, das vergisst man leicht im Stress.
 Kannst du mir kurz den Termin für die Vorsorge bestätigen?
 Meine Augen sind total trocken von dem ständigen Bildschirmarbeit.
@@ -13760,7 +13674,6 @@ Ich habe seit drei Tagen Halsschmerzen und ein leichtes Fieber.
 Kannst du mir mal die Hausaufgaben für die Physio zuschicken?
 Mein Vater muss sich nächste Woche operieren lassen, Gott sei Dank.
 Die Allergie gegen Pollen wird jedes Jahr schlimmer bei mir.
-Ich vergesse immer meine Tabletten einzunehmen, obwohl ich es will.
 Der Kardiologe meinte, meine Werte sind für mein Alter gut.
 Muss ich wirklich nüchtern zum Ultraschall kommen oder ist das egal?
 Mein Rücken macht seit dem Umzug wieder Probleme, typisch halt.
@@ -13897,7 +13810,6 @@ Mein Knie schmerzt immer noch nach dem Skiurlaub im Winter.
 Die Chemotherapie hat leider starkes Erbrechen zur Folge gehabt.
 Hast du eine Empfehlung für einen guten Augenarzt in der Nähe?
 Ich hab wieder diese nervige Migräne Attacke.
-Der Zahnarzt muss mir doch mal was bohren.
 Kannst du kurz mit zur Blutabnahme kommen?
 Mein Rücken schmerzt seit der langen Autofahrt.
 Die Antibiotika Kur läuft jetzt schon drei Tage.
@@ -13916,7 +13828,6 @@ Ich muss meine Blutdruck Werte nochmal messen lassen.
 Die Schmerzmittel machen mich echt müde und schwindlig.
 Komm mit ins Krankenhaus zur Geburt meines Kindes.
 Der Physiotherapeut hat mir eine Matte empfohlen zum Trainieren.
-Meine Knieschmerzen kommen wohl vom alten Sportunfall her.
 Ich habe das Rezept für die Augentropfen verloren.
 Der Kardiologe meint mein Herz klingt ganz normal wieder.
 Hast du schon Termin beim Facharzt für Atemwege?
