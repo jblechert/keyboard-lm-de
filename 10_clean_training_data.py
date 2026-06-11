@@ -61,7 +61,6 @@ WEB_ARTIFACTS = [
      "Satzende mit Tagesdatum (abgeschnittener Satz: vom 22., bis zum 7.)"),
 
     # Strukturelle Artefakte
-    (r"^[a-z\xe4\xf6\xfc\xdf]", "Satzanfang kleingeschrieben (Fragment/Garbled)"),
     # Sehr langes zusammengeschriebenes Wort (Verb-Concatenation, OCR-Artefakt)
     (r"\b\w{40,}\b", "Überlange Wortkette (40+ Zeichen — Verb-Concatenation/OCR)"),
     (r"^-\s+\S",            "Zeile beginnt mit Listenpunkt (- item)"),
@@ -531,6 +530,7 @@ SOURCES = [
 ]
 
 
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true",
@@ -658,7 +658,7 @@ def main():
 
                     drop = False
                     for pat, desc in PATTERNS:
-                        if pat.search(line):
+                        if pat.search(stripped):
                             removed_counts[desc] += 1
                             drop = True
                             break
