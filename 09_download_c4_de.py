@@ -23,7 +23,7 @@ except ImportError:
     print("  .venv_ml/bin/pip install datasets", file=sys.stderr)
     sys.exit(1)
 
-OUT = Path("data/c4_de.txt")
+OUT = Path("data/raw/c4_de.txt")
 
 # Split on sentence boundaries AND newlines (c4 docs have mixed line structure)
 _SENT_RE = re.compile(r'(?<=[.!?])\s+(?=[A-ZÄÖÜ])|[\n\r]+')

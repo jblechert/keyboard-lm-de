@@ -21,7 +21,7 @@ import re
 import sys
 from pathlib import Path
 
-OUT_FILE = Path("data/fineweb2_de.txt")
+OUT_FILE = Path("data/raw/fineweb2_de.txt")
 
 SPLIT_PAT = re.compile(r'(?<=[.!?])\s+(?=[A-ZÄÖÜ\"\„\[])')
 MIN_WORDS = 5

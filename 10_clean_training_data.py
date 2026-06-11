@@ -517,16 +517,16 @@ def _read_chunks(fh, size: int):
 # ── Quelldateien ──────────────────────────────────────────────────────────────
 
 SOURCES = [
-    Path("data/tatoeba_de.txt"),
-    Path("data/c4_de.txt"),
-    Path("data/fineweb2_de.txt"),
+    Path("data/raw/tatoeba_de.txt"),
+    Path("data/raw/c4_de.txt"),
+    Path("data/raw/fineweb2_de.txt"),
     *sorted(Path("data").glob("synthetic_*.txt")),
-    Path("data/parlamentsrevue_de.txt"),
-    Path("data/lnp_de.txt"),
-    Path("data/minkorrekt_de.txt"),
-    Path("data/raumzeit_de.txt"),
-    Path("data/forschergeist_de.txt"),
-    Path("data/cre_de.txt"),
+    Path("data/raw/parlamentsrevue_de.txt"),
+    Path("data/raw/lnp_de.txt"),
+    Path("data/raw/minkorrekt_de.txt"),
+    Path("data/raw/raumzeit_de.txt"),
+    Path("data/raw/forschergeist_de.txt"),
+    Path("data/raw/cre_de.txt"),
 ]
 
 

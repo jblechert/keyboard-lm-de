@@ -12,10 +12,10 @@ import urllib.request
 from pathlib import Path
 
 URL = "https://downloads.tatoeba.org/exports/sentences.tar.bz2"
-OUT  = Path("data/tatoeba_de.txt")
+OUT  = Path("data/raw/tatoeba_de.txt")
 
 def main():
-    archive = Path("data/sentences.tar.bz2")
+    archive = Path("data/raw/sentences.tar.bz2")
     if not archive.exists():
         print(f"Lade {URL} …")
         def progress(count, block, total):
