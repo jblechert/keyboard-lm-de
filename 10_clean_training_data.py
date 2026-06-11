@@ -75,6 +75,7 @@ WEB_ARTIFACTS = [
      "Englischer Satz (keine Umlaute + englische Funktionswörter)", re.IGNORECASE),
     # "by" als Einzelwort (lowercase) ist kein deutsches Wort
     (r"\bby\b", "Englisches 'by' als Einzelwort (nie deutsches Wort)", 0),
+    (r"\btravel\w*", "Englisches 'travel/traveling/traveler' (Reise-Spam)", re.IGNORECASE),
     # Blog-Zeitstempel: "vor 3 Stunden / vor 2 Tagen" — Web-Metadaten
     # Nur Stunden/Minuten/Tage — "vor 100 Jahren" ist legitimer Fließtext
     (r"\bvor\s+\d+\s+(?:Stunden?|Minuten?|Tagen?)\b",
@@ -605,7 +606,10 @@ def main():
             print(f"{src}: übersprungen (Checkpoint)")
             continue
 
-        tmp = src.with_suffix(".tmp")
+        # Quellen aus data/raw/ → Output nach data/; sonst in-place (Synthetics etc.)
+        out = Path("data") / src.name if src.parent.name == "raw" else src
+        out.parent.mkdir(parents=True, exist_ok=True)
+        tmp = out.with_suffix(".tmp")
         removed_counts = {entry[1]: 0 for entry in BANNED}
         n_ppl_removed = 0
         n_kept = 0
@@ -686,11 +690,11 @@ def main():
         total_removed += n_removed
 
         if n_removed == 0:
-            print(f"{src}: keine Treffer ({n_total:,} S\xe4tze)")
+            print(f"{src}: keine Treffer ({n_total:,} S\xe4tze) → {out}")
             if not args.dry_run:
                 tmp.unlink()
         else:
-            print(f"{src}: {n_removed:,} S\xe4tze entfernt (von {n_total:,})")
+            print(f"{src}: {n_removed:,} S\xe4tze entfernt (von {n_total:,}) → {out}")
             if n_short_removed:
                 print(f"  {n_short_removed:>8,}\xd7  zu kurz (< {MIN_WORDS} Woerter nach Cleaning)")
             if n_ppl_removed:
@@ -704,7 +708,7 @@ def main():
                 if count:
                     print(f"  {count:>8,}\xd7  {desc}")
             if not args.dry_run:
-                tmp.replace(src)
+                tmp.replace(out)
 
         # Checkpoint nach jeder Datei aktualisieren (auch bei 0 Treffern)
         if not args.dry_run:

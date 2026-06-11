@@ -556,6 +556,28 @@ TOPICS = {
             "Wir spielen Texas Hold'em, kannst du Poker?",
         ],
     },
+    "urlaubsreisen": {
+        "name": "Urlaubsreisen",
+        "beschreibung": (
+            "Sätze rund ums Urlaubfahren — vom Bergurlaub bis ans Meer, "
+            "vom Kulturtrip bis zur Campervan-Reise, von der Städtebesichtigung "
+            "bis zum Strandtag. Wie Menschen auf dem Smartphone über ihren Urlaub schreiben: "
+            "Vorfreude, Planung, Erlebnisse, Empfehlungen, Rückkehr.\n\n"
+            "Kontexte: Sommerurlaub am Meer, Wandern in den Bergen, Städtereise, "
+            "Kulturaustausch im Ausland, Roadtrip mit dem Camper, Museumstag, "
+            "Sehenswürdigkeiten, lokales Essen probieren, Hotel buchen, Reisetipps geben."
+        ),
+        "beispiele": [
+            "Wir fahren dieses Jahr mit dem Camper durch Schottland.",
+            "Am Meer ist es einfach unschlagbar, ich könnte stundenlang ans Wasser schauen.",
+            "Der Aufstieg war anstrengend aber der Ausblick vom Gipfel hat sich gelohnt.",
+            "In Florenz könnte ich Wochen verbringen, so viel Kunst und Geschichte.",
+            "Hast du schon mal einen echten Kulturschock erlebt im Urlaub?",
+            "Das Essen in Portugal ist einfach der Wahnsinn.",
+            "Wir haben spontan einen Campingplatz gebucht, mal schauen.",
+            "Die Besichtigung des Schlosses war überraschend spannend.",
+        ],
+    },
     "umgangssprache": {
         "name": "Umgangssprache & Verkürzungen",
         "beschreibung": (
