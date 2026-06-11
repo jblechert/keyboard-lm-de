@@ -98,8 +98,8 @@ def is_good(sent: str) -> bool:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--target", type=int, default=5_000_000,
-                        help="Anzahl Sätze (default: 5.000.000)")
+    parser.add_argument("--target", type=int, default=75_000_000,
+                        help="Anzahl Sätze (default: 75.000.000)")
     parser.add_argument("--overwrite", action="store_true",
                         help="Bestehende Datei überschreiben")
     args = parser.parse_args()
