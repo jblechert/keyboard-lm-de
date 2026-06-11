@@ -484,7 +484,7 @@ def _process_chunk(lines: list[str]):
             continue
         drop = False
         for pat, desc in PATTERNS:
-            if pat.search(line):
+            if pat.search(stripped):
                 removed[desc] = removed.get(desc, 0) + 1
                 drop = True
                 break
