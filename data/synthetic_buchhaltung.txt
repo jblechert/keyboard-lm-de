@@ -74,31 +74,6 @@ Mein Geld ist noch nicht da und ich brauche es dringend.
 Hast du schon die Nebenkostenabrechnung vom Vormonat?
 Die Reiseversicherung war zum Glück wirklich notwendig.
 Wir sollten bald mal die Finanzen miteinander besprechen.
-Rechnung kam leider nicht im Paket an
-Ich schick dir die Unterlagen per Mail
-Hast du schon gesehen dass die Überweisung hängen geblieben ist
-Morgen schreibe ich den Hotelbesitzer wegen der Stornierung
-Das war echt viel Geld für so kurze Zeit
-Kannst du mir sagen wie viel noch offen ist
-Ich habe die Kosten für das Essen getrennt gebucht
-Bitte überweise den Restbetrag bis Freitagabend
-Der Abgleich mit der Bank dauert immer so lange
-Hast du die Quittung vom Taxi noch irgendwo
-Ich muss die Reisekosten erst noch abklären
-Warum steht da plötzlich dieser Posten drauf
-Die Abrechnung wird wohl wieder später kommen
-Kann ich das Geld vielleicht aufteilen und überweisen
-Die Gutschrift kam leider nicht auf meinem Konto an
-Wir müssen uns um die Rückerstattung kümmern
-Ich habe vergessen die Belege zu sortieren
-Das Portal zum Buchen war komplett lahmgelegt
-Hast du die Daten für die Reise schon eingegeben
-Ich finde den Kontoauszug von letztem Monat nicht mehr
-Lass uns die offenen Posten morgen gemeinsam durchgehen
-Die Gebühr für die Auslandsüberweisung war übel hoch
-Ich muss noch die Versicherung für die Reise buchen
-Kannst du prüfen ob die Zahlung durchgegangen ist
-Die Unterlagen schicke ich dir bis zum Feierabend
 Ich muss die Hotelrechnung noch einscannen.
 Warum ist die Überweisung nicht angekommen?
 Die Stornogebühr ist wirklich viel zu hoch.
@@ -1594,31 +1569,6 @@ Hast du die Kreditkarte schon gebucht?
 Die Überweisung ist unterwegs seit gestern.
 Ich muss die Hotelrechnung noch einscannen.
 Kannst du mir die IBAN nochmal schicken?
-Rechnung kommt erst am Monatsende
-Ich muss die Hotelrechnung noch bezahlen
-Hat die Überweisung schon bei dir eingesehen
-Kontoauszug ist leider noch nicht da
-Ich buche morgen den Rückflug online
-Stornogebühr ist wirklich viel zu hoch
-Rechnung war schon wieder nicht bezahlt
-Ich schicke dir die Unterlagen per Mail
-Überweisungsbestätigung habe ich angehängt
-Warum kommt die Gutschrift immer so spät
-Ich hab das Zimmer online gebucht
-Rechnung stimmt leider nicht ganz überein
-Kannst du kurz die Buchung prüfen
-Mein Konto war gestern kurzfristig gesperrt
-Ich muss die Ausgaben noch erfassen
-Überweisung geht erst am Freitag raus
-Die Pauschalrechnung ist doch inklusive Trinkgeld
-Hast du die Quittung schon gefunden
-Buchung wurde automatisch verlängert
-Rechnung liegt schon lange offen
-Ich überweise das Geld bis morgen
-Kontoauszug kommt nächste Woche an
-Ich hab die Fahrtkosten vergessen
-Stornierung war leider zu spät
-Rechnung ist doch schon bezahlt worden
 Ich vergiss immer die Reisekostenabrechnung zu machen.
 Hast du schon gesehen ob das Geld angekommen ist?
 Die Rechnung vom Hotel war doppelt so hoch wie erwartet.
@@ -1669,32 +1619,6 @@ Der Saldo stimmt am Ende einfach nicht.
 Ich brauche noch die Zugangsdaten.
 Hast du die Unterlagen schon geprüft?
 Die Zahlung ist leider gescheitert.
-Hast du die Rechnung schon bezahlt
-Ich hab das Hotelzimmer leider vergisst zu buchen
-Mein Kontoauszug ist heute endlich angekommen
-Kannst du mir die Überweisung noch einmal bestätigen
-Die Reisekosten muss ich dringend in die Spesen reinbringen
-Ich such immer noch die Quittung vom Taxi
-Wir müssen die Buchung für den Workshop noch abschließen
-Hast du gesehen dass die Zahlung gescheitert ist
-Die Nebenkostenabrechnung hat gestern bei mir gepostet
-Ich kann nicht glauben wie teuer das Upgrade war
-Mach dir keine Sorgen ich buche das nochmal um
-Die Überweisung dauerte diesmal ganze drei Werktage
-Wo finde ich meine alte Steuererklärung eigentlich
-Ich hab versehentlich die falsche IBAN eingetippt
-Könntest du bitte den Kreditkartenumsatz prüfen
-Die Miete wird dieses Mal automatisch abgebucht
-Ich muss noch drei Rechnungen vom Restaurant einreichen
-Hast du das Ticket schon per E-Mail bekommen
-Mein Girokonto war gestern komplett leer
-Die Stornierungsgebühr finde ich einfach zu hoch
-Kann ich die Zahlungstermin noch um zwei Tage verschieben
-Ich vergesse immer die Kontoauszüge zu archivieren
-Die Reiseversicherung war glücklicherweise im Preis inkludiert
-Hast du die Spesenabrechnung schon ans Sekretariat geschickt
-Mein Onlinebanking hängt sich wieder ständig auf
-Wir sollten die Reisekosten noch einmal durchgehen
 Ich muss die Hotelrechnung noch bezahlen.
 Die Buchung wurde leider automatisch storniert.
 Hast du den Beleg schon hochgeladen?
@@ -2036,7 +1960,6 @@ Die Abrechnung der Reisekosten dauert ewig.
 Ich vergaß die Nebenkosten nicht zu buchen.
 Kann ich die Zahlungsrückstand bereinigen?
 Der Betrag wurde fehlerhaft abgebucht.
-Ich schick dir die Rechnung per Email.
 Wir müssen das Budget noch anpassen.
 Die Gutschrift ist endlich auf dem Konto.
 Ich hab die Karte versehentlich abgewiesen.
@@ -3603,7 +3526,6 @@ Ich muss erst warten bis das Gehalt drauf ist.
 Hast du die Steuerbescheinigung schon eingereicht?
 Unsere Buchungen für die Konferenz sind bestätigt.
 Das Bargeld passt nicht genau mit dem Konto überein.
-Kann ich noch eine Stornogebühr vermeiden
 Ich muss gleich meine Hotelbuchung vornehmen.
 Kannst du mal schauen ob das Geld da ist?
 Die Rechnung lag wieder einmal komplett falsch.
@@ -4511,7 +4433,6 @@ Die Überweisung ist heute früh gutgeschrieben worden.
 Ich habe vergessen die Parkgebühr zu buchen.
 Hast du schon mal mit dem Reisebüro telefoniert.
 Der Betrag stimmt leider nicht mit der Rechnung überein.
-Bitte schick mir die Buchungsbestätigung per Email zu.
 Ich muss noch das Abendessen für den Freitag reservieren.
 Die Stornierungsgebühr war doch gar nicht so hoch.
 Hast du deine Karte an der Maschine geprüft.
@@ -5503,7 +5424,6 @@ Kannst du mal schauen ob die Buchung angekommen ist?
 Die Stornierungsgebühren sind dieses Jahr echt überteuert.
 Mein Kontoauszug hat gestern endlich per Post gepostet.
 Wir müssen die Reisekosten nochmal genau durchchecken.
-Hast du schon eine EMail vom Hotel bekommen?
 Ich hab mir den Betrag versehentlich doppelt überweisen lassen.
 Die Rechnung von letztem Monat war gar nicht korrekt.
 Könntest du bitte die Überweisung bis morgen machen?
@@ -5572,7 +5492,6 @@ Ich habe vergessen, die Nebenkosten vorzuzahlen.
 Der Buchhaltungsordner ist total unübersichtlich geworden.
 Kannst du mal kurz die Kontoübersicht checken?
 Kannst du mal den letzten Kontoauszug prüfen?
-Ich muss noch die Hotelrechnung auf dem Dashboard hochladen.
 Die Stornierung hatte leider gar nicht geklappt.
 Wo finde ich eigentlich meine alte Buchungsbestätigung?
 Hab schon drei Mails geschickt, aber keine Antwort bekommen.
@@ -6321,7 +6240,6 @@ Die Banküberweisung dauerte diesmal echt verdammt lange.
 Mein Konto ist am Monatsende immer komplett leer.
 Hast du den Beleg schon digital archiviert oder nicht?
 Die Nebenkostenabrechnung kommt jedes Jahr viel zu spät.
-Ich muss meine Ausgaben nochmal genauer durchrechnen
 Ich muss noch den Hotelbeleg einreichen.
 Kannst du prüfen ob die Buchung klappt.
 Die Rechnung ist leider schon überfällig.
@@ -6867,7 +6785,6 @@ Ich hab die Kreditkartenliste vergessen mitzunehmen.
 Lass mich den Betrag mal kurz überweisen.
 Die Reiseversicherung muss ich noch nachbuchen.
 Hast du die Boni vom Supermarkt gesammelt?
-Der Online-Banking-Login hat wieder nicht funktioniert.
 Wir müssen das Darlehen neu aufsetzen lassen.
 Die Jahreserklärung läuft schon ziemlich gut voran.
 Ich hab gerade die Hotelrechnung bezahlt.
@@ -6967,7 +6884,6 @@ Die Reisekosten wurden mir noch nicht erstattet.
 Kann ich die Buchung nochmal ändern?
 Der Kontoauszug zeigt heute gar nichts an.
 Ich hab das Geld schon längst überwiesen.
-Ich hab die Rechnung per Email geschickt.
 Kannst du mal auf das Konto schauen?
 Die Hotelbuchung wurde leider doch abgesagt.
 Wir müssen noch die Nebenkosten abrechnen.
@@ -8061,7 +7977,6 @@ Ich muss noch den Flug für Montag buchen.
 Die Abrechnung mit dem Vermieter war stressig.
 Wo finde ich die Eingangssteuer im Ausdruck?
 Habe ich die Versicherungsprämie schon bezahlt?
-Der Online Banking Login funktioniert nicht mehr.
 Ich sollte mal meine Reisekosten zusammenfassen.
 Kommst du mit der Gutschrift bis Freitag hin?
 Kannst du kurz schauen ob die Überweisung durch ist?
@@ -8163,7 +8078,6 @@ Ich hab versehentlich den falschen Betrag überwiesen.
 Der Buchungsnachweis fehlt auf dem Kontoauszug komplett.
 Muss ich noch was zur Steuererklärung beilegen?
 Die Provision wird nächsten Monat ausgezahlt werden.
-Kannst du die Rechnung per Email nochmal schicken?
 Ich hab vergessen das Hotelzimmer zu bestätigen.
 Kannst du mal die letzte Quittung einscannen?
 Mein Konto ist noch immer nicht belastet worden.
@@ -8389,30 +8303,6 @@ Die Kosten für den Tager kommen direkt von der Abteilung.
 Hast du gesehen dass die Bankgebühren wieder gestiegen sind heute?
 Ich suche noch den Beleg für die Fahrkarte zur Bahn.
 Kannst du bitte prüfen ob die Zahlung schon eingegangen ist?
-Ich schau mal ob das Geld vom Urlaub da ist
-Kannst du bitte die Hotelrechnung auf mein Konto buchen
-Die Überweisung wurde heute Morgen von der Bank bestätigt
-Mein Kontoauszug hat mir diesmal gar nicht gefallen
-Wir müssen die Mietkosten für den Meetingraum noch teilen
-Hast du schon bezahlt oder sollen wir überweisen
-Das Hotel wollte einen Extraaufwand für das Frühstück verrechnen
-Ich hab die Stornogebühr erst jetzt gesehen und bin sauer
-Bitte schick mir mal die Bestätigungsmail von der Buchung
-Die Nebenkostenabrechnung kommt wahrscheinlich erst im Sommer an
-Kann ich das Buchungsdatum auf den 15. verschieben
-Wir haben vergessen die Tankbelege für die Reisekosten zu speichern
-Ich muss noch klären wer den Restaurantbon überreicht bekommt
-Hat jemand schon die Abschlagzahlung für die Ferienwohnung gemacht
-Der Betrag auf dem Konto stimmt irgendwie nicht mit meiner Übersicht überein
-Kannst du prüfen ob die Überweisung beim Empfänger angekommen ist
-Wir buchen das Essen mal pauschal auf die Kostenstelle um
-Die Rückrechnung für die Reisekosten schick ich dir morgen früh
-Hast du den Beleg für die Parkgebühren noch irgendwo liegen
-Ich brauche die Kopie vom Kontoauszug für mein Jahresgehalt
-Kann man die Buchung wirklich komplett kostenlos stornieren lassen
-Die Überweisungsdaten haben sich vor einer Woche nochmal geändert
-Wir sollten die Ausgaben für das Teamdinner endlich zusammenrechnen
-Hast du gesehen dass die Miete diesen Monat zwei Tage früher fällig ist
 Ich hab den Hotelbeleg gerade erst gefunden.
 Kannst du mal gucken ob die Zahlung ging?
 Die Rechnung vom Restaurant fehlt noch komplett.
@@ -8985,32 +8875,7 @@ Die Abrechnung vom Vermieter war total chaotisch.
 Ich hab gerade den Fehlposten gefunden super.
 Können wir die Buchung erstmal auf Eis legen?
 Das Geld sollte bis morgen da sein versprochen.
-Rechnung ist leider noch nicht eingegangen
-Ich muss die Hotelrechnung noch erstatten lassen
-Kontoauszug zeigt wieder diese seltsamen Abbuchungen
-Hast du die Überweisung für den Urlaub gesendet
-Die Buchung wurde automatisch storniert, nervig
-Kann ich die Kreditkarte für die Reise löschen
-Meine Ausgaben für das Jahr sind schon hoch
-Bitte sende mir die Zugangsdaten fürs Onlinebanking
-Ich vergaß die Gebühr für die Überweisung einzuplanen
-Der Termin bei der Bank ist um drei Uhr
-Wir müssen die gemeinsamen Kosten noch aufteilen
-Die Rechnung vom Vermieter fehlt leider immer noch
 Hast du die Reiseversicherung schon gebucht?
-Mein Girokonto hat gerade eine unerwartete Belastung
-Ich suche den Beleg für die Taxi-Fahrt wieder
-Bitte prüfe ob die Überweisung angekommen ist
-Die Buchung des Zimmers ist jetzt bestätigt
-Kannst du mir helfen die Ausgaben zu sortieren
-Die Jahresrechnung muss bis Freitag fertig werden
-Ich hab das Geld über Western Union geschickt
-Die Kosten für das Seminar tragen wir gemeinsam
-Bitte lösche die alte Karte aus deinem Portemonnaie
-Der Betrag wurde versehentlich doppelt abgebucht
-Ich brauche einen Kontoauszug für die Versicherung
-Hast du die Überweisungsträger schon ausgefüllt
-Mein Budget für diesen Monat ist leider sprunghaft
 Ich hab das Hotelzimmer heute schon gebucht.
 Kannst du mal schauen ob die Rechnung angekommen ist?
 Die Überweisung geht morgen früh raus.
@@ -9439,32 +9304,6 @@ Der Online Banking Zugang funktioniert gar nicht mehr.
 Hast du schon die Steuererklärung fertig gemacht?
 Die Rechnungen stapeln sich langsam auf dem Tisch.
 Ich muss dringend meine Ausgaben überblicken.
-Hast du die Rechnung für das Hotel schon bezahlt
-Ich muss meine Reisekosten nochmal durchgehen
-Die Überweisung ist leider noch nicht angekommen
-Kannst du mir den Kontoauszug von letztem Monat schicken
-Wir haben das Zimmer bis Freitag gebucht
-Ich finde die Belege für die Geschäftsreise nicht mehr
-Die Buchung wurde automatisch storniert, weil ich nichts gesagt habe
-Hast du schon gesehen wie viel Geld wir zurückbekommen
-Mein Girokonto zeigt heute morgen noch einen negativen Saldo
-Ich muss dringend meine Ausgaben im Budget dokumentieren
-Wer hat denn diese unbekannte Abbuchung auf meinem Konto gemacht
-Die Rechnung kommt leider erst Ende des Monats an
-Kann ich die Anreise noch um eine Woche verschieben
-Ich habe die Quittungen alle in der Aktenschublade gelagert
-Die Überweisung dauerte diesmal seltsamerweise drei Tage
-Wir müssen die Nebenkosten noch mit dem Vermieter abklären
-Hast du die Gutschrift bereits auf deinem Konto gesehen
-Ich kann die Buchung nicht ändern, da es zu spät ist
-Meine Ausgaben sind diesen Monat wieder viel zu hoch
-Kannst du prüfen ob die Zahlung vom Kunden eingegangen ist
-Die Rechnungshöhe stimmt leider nicht mit unserer Bestellung überein
-Ich habe das Hotelzimmer vorsorglich nochmal bestätigt bekommen
-Welche Bankverbindung soll ich für die nächste Überweisung nehmen
-Die Buchhaltung braucht noch zwei fehlende Belege von mir
-Hast du die Stornogebühr bereits bezahlt oder wartest du
-Mein Kontoauszug hat heute endlich in meinem Posteingang gelegen
 Ich habe das Hotelzimmer bereits online bezahlt.
 Kannst du mal schauen, ob die Überweisung da ist?
 Die Rechnung vom letzten Monat ist noch offen.
@@ -11269,7 +11108,6 @@ Das Konto war gestern überzogen.
 Welche Bank hast du denn verwendet?
 Der Transfer dauert meistens zwei Tage.
 Hast du die Quittung noch aufbewahrt?
-Es tut mir leid aber ich bezweifle
 Ich schau später nochmal auf den Kontoauszug.
 Die Reisekostenrechnung muss ich noch einreichen.
 Kannst du kurz prüfen ob die Buchung ging?
@@ -11639,31 +11477,6 @@ Auf dem Konto stehen immer seltsame Belastungen.
 Hast du den Zahlungseingang bestätigt bekommen?
 Ich muss dringend mal die Ausgaben sortieren.
 Das Onlineportal ist leider gerade nicht erreichbar.
-Kannst du mal nachschauen ob die Überweisung da ist
-Ich muss erst noch den Hotelbeleg einscannen
-Die Reisekostenabrechnung fällt dieses Jahr besonders hoch aus
-Hast du schon die Quittungen vom letzten Monat gesammelt
-Es gab einen kleinen Fehler bei der Gutschrift
-Bitte schick mir die Rechnung bis morgen Abend zu
-Mein Kontoauszug zeigt immer drei Monate Rückstand
-Wir müssen die Buchung auf April verschieben
-Ich finde den Beleg für das Taxi einfach nicht mehr
-Die Stornogebühr ist wirklich krass ehrlich gesagt
-Kann ich die Zahlung auf zwei Raten aufteilen
-Der Betrag wurde gestern noch nicht gebucht
-Ich habe versehentlich doppelt bezahlt und warte auf Erstattung
-Bitte prüfe ob die Überweisung angekommen ist
-Die Abrechnung der Firmenkosten macht mir jedes Jahr Stress
-Ich hab das Hotelzimmer kurzfristig storniert
-Kannst du mir sagen wann die Gutschrift kommt
-Meine Buchhaltung läuft im Moment total chaotisch
-Der Kontoauszug liegt seit Wochen unvollständig vor
-Ich muss noch den Flugschein für die Versicherung hochladen
-Hast du die neuen Bankdaten schon aktualisiert
-Die Rechnungen stapeln sich wieder auf meinem Schreibtisch
-Kann ich die Buchung kostenlos nochmal ändern
-Es scheint ein Buchungsfehler bei der ersten Zahlung zu sein
-Bitte bestätige dass die Überweisung erfolgreich war
 Kannst du kurz prüfen ob die Buchung durchgegangen ist?
 Ich muss die Hotelrechnung noch auf meinem privaten Konto verbuchen.
 Die Stornierungsgebühr war wirklich deutlich höher als erwartet.
@@ -11886,31 +11699,6 @@ Die Gutschrift läuft automatisch in drei Tagen.
 Kannst du kurz prüfen, ob das Geld da ist?
 Ich muss mein Girokonto nochmal aufräumen heute.
 Hast du die Unterlagen für die Steuer gespeichert?
-Kannst du mal gucken ob die Gutschrift schon da ist
-Ich vergaß wieder den Beleg für das Taxi einzuscannen
-Die Hotelrechnung kam leider ohne Positionsliste an
-Muss ich für die Auslandsüberweisung extra was beachten
-Der Jahresabschluss muss bis Freitag fertig sein
-Hast du schon gesehen dass die Abgabe verspätet ist
-Kann ich diese Ausgabe nochmal korrigieren lassen
-Meine Selbstständigkeit zahlt sich dieses Jahr langsam aus
-Die Kassenboni sind alle im falschen Ordner gelandet
-Ich schick dir die Unterlagen per Mail zur Kontrolle
-Warum steht da wieder eine unbekannte Abbuchung drin
-Wir müssen die Vorsteuerrückzahlung noch einreichen
-Hast du den Lieferschein auch gleich abgeheftet
-Die Miete ist heute wieder automatisch abgebucht worden
-Kann ich das Geld bis morgen Abend überweisen
-Der Buchhalter hat Fragen zu meiner Spesenabrechnung
-Ich hab versehentlich den falschen Betrag eingetippt
-Wir brauchen dringend einen neuen Kassenbonendrucker
-Stimmt die Summe im Auszug überhaupt mit der Überweisung überein
-Kannst du mir mal helfen diese Unkostenliste zu sortieren
-Die Gutschrift vom Händler ist immer noch nicht angekommen
-Ich muss nächste Woche meinen Jahressteuertest machen
-Hast du schon geprüft ob die Versicherung gezahlt hat
-Der letzte Kontoauszug wies eine seltsame Belastung auf
-Kann ich die Rechnung für den Druckauftrag noch stornieren
 Ich muss dringend die Rechnung für das Hotel nachschicken.
 Hast du schon gesehen, ob das Geld angekommen ist?
 Die Buchung wurde leider storniert, weil es voll war.
@@ -12672,7 +12460,6 @@ Bitte überweise den restlichen Betrag bis morgen Abend.
 Die Jahresübersicht im Banking App sieht gut aus.
 Kann ich die Zahlungsdauer für diese Rechnung verlängern?
 Ich hab mich bei der Buchung vertippt und muss korrigieren.
-Wann kommt eigentlich die nächste Auswertung vom Konto
 Ich hab vergessen die Hotelrechnung zu überweisen.
 Kannst du mal schauen ob das Geld schon da ist?
 Die Buchung muss ich leider auf den nächsten Monat schieben.
@@ -12720,7 +12507,6 @@ Hast du gesehen dass eine unbekannte Abbuchung da steht?
 Die Reisekosten haben uns doch schon über den budget hinausgerissen.
 Kann ich das Ticket nochmal gutschreiben lassen oder geht das nicht mehr?
 Meine Ausgaben für Essen waren letztes Monat echt hoch.
-Der Onlinebanking Login funktioniert bei mir seitdem gar nicht mehr.
 Hast du die Selbstständigkeit jetzt auch im Steuerprogramm erfasst?
 Die monatlichen Fixkosten friesen mich regelrecht zusammen jedes Mal.
 Ich suche noch den Kontoauszug vom letzten Monat.
@@ -12922,31 +12708,6 @@ Kannst du mir kurz sagen wo das Geld hingegangen ist?
 Ich habe die Pauschalreise gerade online gebucht und freuen.
 Der Bon vom Supermarkt ist leider zu schief gedruckt.
 Hast du schon gesehen dass die Kosten geändert wurden?
-Rechnung kommt morgen per Post an
-Muss ich für das Hotel noch zahlen
-Überweisung war gestern schon unterwegs
-Kontoauszug fehlt mir seit drei Wochen
-Brauche die Belegnummer für die Abrechnung
-Hast du schon gebucht oder ist alles voll
-Zimmer kann ich leider nicht stornieren
-Reisekosten muss ich dem Chef schicken
-Ist die Überweisung bereits gutgeschrieben
-Frühstück wurde extra berechnet und teurer
-Bitte um Bestätigung der neuen Buchung
-Ich hab den Fehler in der Kasse gefunden
-Kunde hat noch keine Rechnung erhalten
-Buche ich das Taxi für dich online
-Die Gutschrift kommt nächste Woche wieder an
-Muss dringend meine Ausgaben sortieren
-Wo ist der Bon vom Supermarkt geblieben
-Hast du die Kontodaten schon aktualisiert
-Rechnung war falsch berechnet und zu hoch
-Ich überweise dir das Geld bis morgen
-Kann ich die Buchung auf Freitag verschieben
-Mein Konto war gestern komplett leer
-Buchhaltungsapp hat einen kleinen Fehler gemeldet
-Zahle ich bar oder per Karte am Ende
-Brauche den Screenshot der erfolgreichen Zahlung
 Ich muss meine Hotelrechnung noch einreichen.
 Wann kommt die Gutschrift auf dem Konto an?
 Die Reisekostenabrechnung ist mir etwas unklar.
@@ -13741,7 +13502,6 @@ Mein Geld kommt einfach nie rechtzeitig an.
 Die Reiseversicherung wurde vergessen einzubuchen.
 Kannst du die Überweisung noch heute erledigen?
 Ich muss meine Ausgaben für die Firma melden.
-Der Onlinebanking-Login funktioniert irgendwie nicht mehr.
 Hast du schon gesehen wie viel drauf ist?
 Die Rechnung kommt bestimmt erst nächsten Monat an.
 Ich hab die Buchung online selbst storniert.
@@ -13826,3 +13586,2310 @@ Die Gebühr für die Nichtannullierung ist zu hoch.
 Ich hab alle Belege für das Finanzamt gesammelt.
 Der letzte Eintrag auf dem Konto war seltsam.
 Hast du schon bestätigt dass die Buchung klappt?
+Die Gutschrift ist immer noch nicht da.
+Kannst du prüfen ob das Geld ankommt?
+Ich muss die Hotelrechnung erst noch bezahlen.
+Wo hast du die Buchungsbestätigung gespeichert?
+Die Stornierungsgebühr finde ich einfach zu hoch.
+Hast du schon gesehen wie viel drauf war?
+Der Betrag wurde gestern Nacht gebucht.
+Ich kann die Karte nicht mehr verwenden.
+Die Überweisung läuft seit Tagen fest.
+Muss ich dafür eine Quittung anhängen?
+Mein Kontoauszug ist heute endlich da.
+Wir haben das Zimmer um zwei Nächte verlängert.
+Kannst du mir die Lastschrift zurückbuchen lassen?
+Die Reiseversicherung war am Ende doch nötig.
+Ich hab die Daten nochmal Korrektur gelesen.
+Wann wird die Abschlagszahlung wieder abgeführt?
+Das Restaurant hat den falschen Betrag berechnet.
+Hast du die Gutschrift vom letzten Monat gesehen?
+Die Buchung wurde leider nicht bestätigt.
+Ich muss noch die Kassenbelege einsortieren.
+Kannst du kurz schauen ob alles stimmt?
+Die Gebühr für die Auslandsbürgschaft ist fällig.
+Wir müssen das Geld bis Freitag überweisen.
+Die Reisekostenabrechnung wird mir noch fehlen.
+Hast du den Zahlungsauftrag schon eingereicht?
+Ich hab den Gutscheincode falsch eingegeben.
+Wann wird das Geld auf dem Konto sein?
+Kann ich die Hotelbuchung noch verschieben?
+Die Rechnung fehlt mir irgendwie komplett.
+Muss ich die Reisekosten selbst erstatten?
+Der Überweisungsträger liegt schon seit Monaten rum.
+Ich seh nirgends eine Bestätigung der Buchung.
+Hast du den Zahlungsbeleg schon digitalisiert?
+Das Zimmer wurde leider automatisch verlängert.
+Wo finde ich die Übersicht aller Zahlungen?
+Die Bank hat meinen Betrag falsch verbucht.
+Kannst du mir die Kontoauszug per Mail schicken?
+Ich muss noch die Nebenkosten abrechnen.
+Die Stornierungsgebühr ist wirklich zu hoch.
+Hast du schon bezahlt für die Konzerttickets?
+Mein Kontostand sieht heute eher mau aus.
+Das Geld kam heute Mittag endlich an.
+Ich hab versehentlich doppelt überweisen lassen.
+Brauchen wir noch Belege für die Firma?
+Die Buchung wurde kurzfristig wieder gelöscht.
+Kann ich die Rate einfach stornieren?
+Der Überweisungstext war leider zu lang.
+Ich muss die Ausgaben im Heft eintragen.
+Wo ist der Bestätigungscode hingeraten?
+Hast du die Abonnementgebühr schon gezahlt?
+Ich habe die Rechnung per E-Mail geschickt.
+Kannst du prüfen ob die Buchung klappt?
+Die Reisekostenmehrwertsteuer muss ich noch absetzen.
+Mein Kontoauszug ist leider noch nicht da.
+Hast du das Hotel schon bestätigen lassen?
+Die Überweisung ging gestern früh raus.
+Ich muss die Ausgaben für die Fahrt buchen.
+Kann ich die Buchung heute noch ändern?
+Der Betrag stimmt nicht mit der Rechnung überein.
+Habst du die Unterlagen schon digitalisiert?
+Die Gutschrift kommt erst nächsten Monat rein.
+Ich suche gerade nach dem Zahlungsbeleg.
+Warum ist die Überweisung noch nicht eingegangen?
+Muss ich für die Stornierung eine Gebühr zahlen?
+Die Buchung wurde leider abgelehnt wegen Guthaben.
+Kannst du mir die aktuelle IBAN schicken?
+Ich habe die Reisekostenabrechnung fast fertig.
+Das Konto war heute Morgen gesperrt warum auch immer.
+Hast du schon gesehen wie viel das geholfen hat?
+Die Rechnung lag direkt im Posteingarten auf.
+Ich vergaß die Kreditkartendaten einzugeben leider.
+Kannst du kurz checken ob alles stimmt?
+Die Reise wurde komplett erstattet super!
+Ich muss noch den Beleg scannen und abspeichern.
+Wann wird der nächste Kontoauszug versendet eigentlich?
+Ich habe die Hotelrechnung gerade bezahlt.
+Kannst du mal den Kontoauszug checken?
+Die Stornogebühr ist wirklich nicht fair.
+Wir müssen das Frühstück noch abbuchen lassen.
+Hast du die Überweisung schon gesendet?
+Mein Konto war gestern total leer.
+Ich schick dir gleich die Belege per Mail.
+Das Zimmer wurde versehentlich doppelt gebucht.
+Klar, ich buche den Rückflug morgen direkt.
+Die Rechnung hat leider bis zum 15. gezählt.
+Wann kommt das Geld eigentlich auf meinem Konto an?
+Ich hab die Reisekosten erst am Wochenende gemacht.
+Bitte schau mal in deinem Buchhaltungsprogramm nach.
+Die Gutschrift ist noch nicht gutgeschrieben worden.
+Kann ich die Buchung für den Tag verschieben?
+Mein Girokonto wird morgen wieder aufgeladen.
+Hast du die IBAN schon in das System eingetragen?
+Ich suche immer nach den alten Kontoauszügen.
+Die Abrechnung der Reise liegt auf meinem Tisch.
+Wir müssen die Überweisungsträger noch einscannen.
+Das Hotel hat die Rechnung falsch berechnet.
+Kannst du mir sagen, ob das Geld da ist?
+Ich muss meine Ausgaben für diese Woche sortieren.
+Die Stornierung kam leider erst heute Morgen an.
+Hast du schon den Termin für die Buchhaltung gefunden?
+Ich muss die Hotelrechnung noch einreichen.
+Hast du den Beleg für das Taxi behalten?
+Die Überweisung ist heute früh abgegangen.
+Kann ich die Reise noch kurz verschieben?
+Mein Kontoauszug fehlt leider immer wieder.
+Wir müssen noch das Abendessen bezahlen.
+Die Stornierungsfrist ist gestern abgelaufen.
+Ich sende dir gleich die Kopie der Quittung.
+Hast du schon die Kaution zurückbekommen?
+Die Buchung bestätigt sich erst morgen Mittag.
+Ich hab vergessen die Kosten zu tracken.
+Kannst du mal prüfen ob das Geld da war?
+Die Reiseabrechnung dauert ewig bei uns.
+Mein Arbeitgeber braucht alle Originalbelege.
+Hast du den Gutschein schon eingelöst?
+Die Gebühr für die Umbuchung ist hoch.
+Ich mache die Ausgabe gleich im App.
+Wo finde ich meinen letzten Kontostand wieder?
+Die Rechnung kam leider doppelt an.
+Kann ich das Zimmer noch erweitern?
+Ich muss erst mal Kassensturz machen.
+Die Überweisung wurde gestern gutgeschrieben.
+Hast du die Unterlagen schon gesammelt?
+Mir fehlt noch ein Auslandsbeleg.
+Die Buchungsbestätigung ist im Spamfolder.
+Habe gerade die Hotelrechnung bezahlt.
+Wo ist der Beleg für die Fahrtkosten?
+Ich muss mal die Kontoumsätze prüfen.
+Die Überweisung ging leider nicht durch.
+Kannst du den Gutscheincode einlösen?
+Mein Kontoauszug liegt noch im Briefkasten.
+Hast du die Abrechnung für die Reise gemacht?
+Wir müssen die Ausgaben fürs Büro tracken.
+Die Stornogebühr war echt überteuert dieses Mal.
+Ich such schon ewig nach der Quittung.
+Wann kommt das Geld auf dem Konto an?
+Die Buchung im System scheint nicht zu klappen.
+Hast du die Rechnung schon gesendet oder noch nicht?
+Ich muss meine Sparquote mal erhöhen.
+Der Zuzahlungsbetrag für das Zimmer ist drin.
+Kann ich die Zahlung in Raten leisten?
+Meine Unterlagen für die Steuererklärung liegen bereit.
+Habe den Fehler bei der Eingabe korrigiert.
+Die Gutschrift wurde gestern creditiert auf mein Konto.
+Wir müssen nochmal die Preise vergleichen.
+Ist die Überweisung schon unterwegs oder noch nicht?
+Der Saldo sieht momentan ganz okay aus.
+Hast du den Termin für die Zahlung notiert?
+Ich brauche dringend einen Nachweis über die Buchung.
+Die monatlichen Abos haben mich echt belastet.
+Hoffentlich geht die Gutschrift schnell wieder auf mein Konto.
+Wir müssen noch den Hotelurlaub für den Sommer fixieren.
+Die Nebenkostenabrechnung ist mir dieses Mal zu hoch geraten.
+Kannst du kurz schauen, ob die Mahnung schon eingegangen ist?
+Ich hab versehentlich doppelt gebucht und muss das ändern lassen.
+Hast du schon die Quittung vom Supermarkt für die Firma gesammelt?
+Die Stornogebühr bei dem Anbieter finde ich total unfair hoch.
+Ich muss morgen endlich mal meine Buchhaltung ein wenig aufräumen.
+Warte kurz, ich suche noch den Beleg zur Übernachtung raus.
+Die Überweisung kam leider erst am Wochenende bei mir an.
+Kannst du die Reisekosten nochmal genau durchrechnen und prüfen?
+Ich hab das Zimmer online gebucht aber keine Bestätigung bekommen.
+Der Kontoauszug fehlt mir gerade komplett zum Ausfüllen der Steuer.
+Hast du die Rechnung schon bezahlt oder soll ich das übernehmen?
+Es ist immer nervig, wenn die Bank Gebühren unbemerkt abbucht.
+Ich muss noch den Mietvertrag für die Wohnung unterzeichnen.
+Kann ich die Buchung noch bis morgen Abend kostenlos stornieren?
+Die Gutschrift vom letzten Monat ist immer noch nicht bei mir.
+Hast du schon die Zugangsdaten für das Online-Portal weitergegeben?
+Mein Geld wird langsam knapp, weil die Rechnungen so hoch sind.
+Wir sollten mal gemeinsam unsere Ausgaben für den Monat durchgehen.
+Ich hab die Überweisung gestern Mittag gemacht, es dauert wohl.
+Kannst du mir sagen, ob die Stornierung schon angekommen ist?
+Haben wir die Hotelrechnung schon bezahlt?
+Kannst du mal den aktuellen Kontostand prüfen?
+Ich muss morgen wieder mit der Kasse aufräumen.
+Die Überweisung ist leider noch nicht eingegangen.
+Wo hast du die Quittungen vom Wochenende hingelegt?
+Wir sollten die Ausgaben für das Projekt sortieren.
+Das Geld wurde gestern schon auf mein Konto gebucht.
+Ich finde den Beleg für die Tankstrecke nicht mehr.
+Hast du die Gutschrift von der Versicherung erhalten?
+Die Selbstständigkeit macht mit dem Papierkram Stress.
+Kann ich dir meine Steuerdokumente per Mail schicken?
+Der Umsatz des letzten Monats war echt schlecht.
+Ich vergesse immer, die Miete rechtzeitig zu überweisen.
+Wir müssen uns neue Kassenboni für den Laden kaufen.
+Hast du den Fehler in der Spalte bereinigt?
+Die Nebenkostenabrechnung ist jetzt endlich angekommen.
+Ich zähle das Wechselgeld gerade in der Kiste.
+Könntest du mir helfen, die Ausgaben einzutragen?
+Die Kreditkartengebühren fressen mich langsam auf.
+Wir haben im Urlaub vergessen, Geld abzuheben.
+Mein Girokonto sieht am Monatsende immer traurig aus.
+Hast du die Rechnungen schon nach Datum sortiert?
+Ich brauche dringend Belege für das Finanzamt.
+Die Zahlungsausfälle nerven mich zunehmend richtig.
+Kannst du prüfen, ob die Gutschrift da ist?
+Ich muss die Hotelrechnung noch aufmachen.
+Hast du den Gutschein schon eingelöst?
+Die Überweisung ist leider nicht angekommen.
+Kann ich das Ticket heute noch stornieren?
+Mein Kontoauszug hatte mal wieder Löcher.
+Wir haben vergessen die Mahlzeiten zu buchen.
+Der Betrag stimmt mit der Quittung überein.
+Bitte schick mir den Beleg per Mail zu.
+Ich muss dringend meine Ausgaben sortieren.
+Die Stornierungsgebühr war richtig überteuert ehrlich gesagt.
+Hast du schon gezahlt oder steht es noch aus?
+Das Zimmer war leider doppelt belegt gestern Abend.
+Meine Kreditkartendaten sind seit letzter Woche falsch.
+Kannst du prüfen ob die Summe korrekt ist?
+Ich hab versehentlich zweimal bezahlt für das Taxi.
+Die Abrechnung kommt nächste Woche auf mich zu.
+Woher hast du diese IBAN eigentlich bekommen?
+Wir müssen das Geld nochmal zurückschicken wegen des Fehlers.
+Der Reiseleiter hat uns gar nicht abgerechnet bisher.
+Hast du den Scheck schon bei der Bank eingelöst?
+Meine Ausgaben waren diesen Monat höher als erwartet.
+Kann ich die Buchung auf meinen Namen ändern?
+Die Quittung ist leider in der U-Bahn weggekommen.
+Ich brauche den Beleg für die Steuererklärung jetzt.
+Wann wird der Restbetrag endlich vom Konto abgebucht?
+Hast du den Gutscheincode bei der Zahlung eingeben dürfen?
+Ich muss die Hotelrechnung noch prüfen.
+Kannst du die Überweisung bitte bis morgen tätigen?
+Die Buchung für den Flug ist erfolgreich bestätigt.
+Ich finde den Kontoauszug irgendwie nicht online.
+Wir sollten die Reisekosten nochmal genau durchrechnen.
+Hast du die Stornierungsgebühr schon bezahlt oder nicht?
+Das Restaurant hat uns eine falsche Rechnung geschickt.
+Ich lade jetzt gerade den neuen Extrakt herunter.
+Kann ich die Buchung stornieren, ohne Geld zu verlieren?
+Die Gutschrift ist leider noch nicht auf meinem Konto.
+Wir müssen die Übernachtungskosten für die Firma abrechnen.
+Ich habe versehentlich die falsche IBAN eingetragen.
+Der Beleg fehlt mir noch zur vollständigen Abrechnung.
+Kannst du mir sagen, wann die Buchung abgeschlossen ist?
+Ich muss die Kreditkarte wieder von der Seite entfernen.
+Die Rechnung kam schon zwei Wochen zu spät an.
+Hast du den Buchungsbestätigungscode bereits erhalten und gespeichert?
+Ich überweise das Geld gleich, sobald ich heim komme.
+Der Hotelier verlangt noch eine Anzahlung per Überweisung.
+Wir müssen die Reisekostenabrechnung für letzten Monat machen.
+Kannst du prüfen, ob die Buchung noch geändert werden kann?
+Die Gutschrift dauert leider immer sehr lange bei der Bank.
+Ich muss die Quittungen sortieren und fotografieren.
+Hast du schon gesehen, dass die Gebühr gestiegen ist?
+Der Kontoauszug zeigt einige unbekannte Belastungen auf.
+Ich habe das Hotelzimmer gerade bestätigt bekommen.
+Kannst du mir mal deine Bankdaten schicken?
+Die Rechnung liegt noch auf meinem Tisch.
+Wir müssen die Nebenkosten noch abrechnen.
+Hast du die Überweisung gestern schon ausgeführt?
+Mein Kontoauszug ist immer erst am Monatsende da.
+Ich hab den Mietvertrag gerade online unterzeichnet.
+Das Ticket für den Zug habe ich gebucht.
+Warum kommt die Lastschrift nicht vom Konto?
+Ich muss die Reisekosten noch bei der Firma einreichen.
+Kann ich die Buchung bis morgen kostenlos stornieren?
+Die Abrechnung ist mir irgendwie durchgerutscht.
+Hast du den Scheck schon eingelöst oder nicht?
+Wir müssen uns um das Thema Versicherung kümmern.
+Das Geld wurde gestern Mittag bereits überwiesen.
+Ich suche noch die quittung für den Supermarkt.
+Kannst du bitte die Miete auf mein Konto überweisen?
+Die Nebenkostenabrechnung kommt wahrscheinlich im Februar.
+Ich habe vergessen, die Kreditkartendaten einzugeben.
+Warum ist die Buchung auf abgelehnt gestanden?
+Ich brauche eine Bestätigung für das Hotelzimmer.
+Das Porto muss ich noch in der Kasse ausgeben.
+Die Gutschrift wurde mir gestern erst mitgeteilt.
+Ich hab den Hotelzimmerpreis falsch eingegeben.
+Kannst du mal schauen ob die Überweisung raus war?
+Die Rechnung kam leider erst letzte Woche an.
+Ich muss noch die Zugfahrt für dich buchen.
+Warum ist der Kontoauszug immer so unübersichtlich?
+Hast du die Stornierung schon bestätigt bekommen?
+Die Nebenkostenabrechnung ist wieder komplett falsch.
+Ich suche gerade nach meiner alten Kreditkarte.
+Kann ich die Buchung einfach online ändern?
+Der Betrag stimmt mit meinem Geldbeutel nicht überein.
+Ich hab vergessen die Reiseversicherung mitzubuchen.
+Wann genau kommt die nächste Zahlung herein?
+Die Quittung habe ich leider schon weggeworfen.
+Kannst du mir kurz deine IBAN nochmal schicken?
+Ich muss das Geld bis morgen auf dem Konto haben.
+Die Gutschrift ist noch nicht zu sehen.
+Hast du schon gesehen dass der Wechselkurs gesunken ist?
+Ich buche lieber frühzeitig falls es ausgebucht ist.
+Der Onlinebankingzugang funktioniert seit gestern nicht mehr.
+Kann ich die Anzahlung erst später leisten?
+Die Spesenliste muss ich bis Freitag einreichen.
+Warum wird immer zweimal abgebucht?
+Ich hab den Bestätigungscode leider gelöscht.
+Kannst du die Überweisung priorisieren bitte?
+Die Abrechnung kommt wahrscheinlich nächste Woche rein.
+Ich hab die Hotelrechnung per PayPal bezahlt.
+Kannst du mir mal die Überweisungsbestätigung schicken?
+Mein Kontoauszug ist heute wieder im Briefkasten.
+Die Stornierungsgebühr war deutlich zu hoch.
+Wir müssen die Reisekosten bis Freitag abrechnen.
+Hast du schon das Frühstück für morgen gebucht?
+Die Rechnung vom Arzt fehlt noch in der Datei.
+Ich konnte den Termin nicht mehr verschieben.
+Wann genau kommt das Geld auf meinem Konto an?
+Das Zimmer war leider doppelt belegt.
+Bitte sende mir die IBAN für die Mietkaution.
+Die Gutschrift ist endlich auf dem Weg.
+Ich muss noch die Parkgebühren einreichen.
+Warum wird immer alles manuell eingetragen?
+Die Überweisung ist gestern abend nicht angekommen.
+Kann ich den Flug doch noch kostenlos ändern?
+Ich hab die Quittungen im Handy gespeichert.
+Der Saldo stimmt einfach nicht mit der App überein.
+Wir haben den Restaurantbesuch auf nächste Woche gelegt.
+Hast du schon die Anzahlung für das Hostel überwiesen?
+Die Mahnung ist leider wieder angekommen.
+Ich suche die Bestätigung für meine Krankenkasse.
+Kannst du die Buchung noch mal kurz prüfen?
+Das Geld wurde vor drei Tagen abgebucht.
+Wir müssen die Ausgaben für den Umzug klären.
+Die Kreditkartenabrechnung ist heute eingetroffen.
+Ich hab die Hotelrechnung per Mail geschickt.
+Kannst du mal gucken ob das Geld da ist?
+Die Pauschalreise muss ich noch bestätigen.
+Mein Konto war gestern komplett leer.
+Wir müssen die Übernachtungskosten abrechnen.
+Hast du den Auszug schon gespeichert?
+Das Ticket lasse ich mir erst einmal ausstellen.
+Ich hab den Fehler in der Liste korrigiert.
+Die Überweisung läuft aktuell noch durch.
+Kann ich die Stornogebühren nochmal nachrechnen lassen?
+Die Nebenkostenabrechnung ist wieder zu hoch.
+Ich hab vergessen die Karte freizugeben.
+Das Girokonto muss ich dringend überprüfen.
+Hast du die Gutschrift schon bekommen?
+Die Reiseversicherung habe ich separat gebucht.
+Wir müssen noch den Vorraum auf dem Konto prüfen.
+Kannst du mir den Buchungsnachweis nochmal schicken?
+Ich hab die Kosten in Excel eingetragen.
+Das Geld sollte morgen früh da sein.
+Mein Bankkonto wurde unerwartet belastet.
+Die Stornierung war glücklicherweise kostenlos möglich.
+Ich muss noch die Quittungen scannen.
+Hast du die Überweisungsdetails schon kontrolliert?
+Ich hab den Hotelcheck per Mail bestätigt bekommen.
+Die Rechnung von letztem Monat ist noch offen.
+Kannst du mal gucken ob das Geld schon da ist?
+Mein Kontoauszug ist heute wieder pünktlich angekommen.
+Wir müssen die Reisekosten für die Firma melden.
+Das Zimmer war leider schon voll ausgebucht gestern.
+Ich zahl dir den Anteil morgen mit Überweisung zurück.
+Die Stornierungsgebühr war diesmal wirklich übel hoch.
+Hast du die Buchungen im Ordner abgelegt?
+Mein Konto ist momentan noch negativ durch die Miete.
+Die Quittung hab ich per Foto verschickt schon.
+Wir müssen das Budget für dieses Quartal neu prüfen.
+Die Gutschrift kommt wohl erst nächsten Monat drauf.
+Kann ich die Buchung ohne extra Gebühr ändern?
+Der Rechnungsbetrag hat sich leicht nach oben geändert.
+Ich such noch den Beleg für die Fahrkarte.
+Die Überweisung wird wahrscheinlich heute noch abgewickelt.
+Meine Ausgaben waren diesen Monat etwas zu hoch.
+Hast du gesehen dass die Preise gestiegen sind?
+Die Abrechnung vom Restaurant kommt direkt aufs Konto.
+Ich muss noch die Nebenkosten vorab bezahlen dafür.
+Der Kreditrahmen wurde gestern automatisch angepasst von der Bank.
+Kannst du mir sagen wann genau das Geld fließt?
+Die Buchung war schon lange ausverkauft leider total.
+Ich hab den Fehler bei der Summe gefunden jetzt.
+Wann genau wird die neue Rechnung gestellt denn?
+Ich habe die Hotelrechnung erst morgen Zeit.
+Kannst du kurz schauen ob das Geld da ist.
+Die Reisekostenabrechnung frisst mich gerade auf.
+Vergiss nicht den Kontoauszug zu archivieren.
+Ich muss noch die Nebenkosten vorrechnen.
+Warum kommt die Überweisung schon wieder falsch an.
+Hast du den Beleg schon eingescannt oder nicht.
+Ich hab das Zimmer um 14 Uhr bestätigt.
+Die Mahnung war wirklich unnötig und nervig.
+Kann ich die Buchung stornieren ohne Gebühr.
+Mein Girokonto ist gerade komplett überzogen.
+Die Rechnungen liegen schon seit Wochen rum.
+Ich brauche dringend den aktuellen Saldenstand.
+Hast du die Kosten für das Taxi gebucht.
+Das Geld wird erst nächste Woche gutgeschrieben.
+Ich muss die Ausgaben nochmal genau prüfen.
+Kannst du mir die IBAN noch mal schicken.
+Die Stornierungsgebühr finde ich ehrlich gesagt zu hoch.
+Ich habe den Fehler in der Buchhaltung gefunden.
+Wann wird die letzte Rechnung eigentlich beglichen.
+Der Kontoauszug passt diesmal wieder nicht hin.
+Ich muss das Geld für die Miete überweisen.
+Hast du die Reiseversicherung schon abgeschlossen oder nicht.
+Die Gutschrift ist mir leider noch nicht angekommen.
+Ich räume heute endlich alle Quittungen weg.
+Hab gerade die Hotelrechnung bezahlt.
+Ich muss das Essen noch verbuchen.
+Die Stornogebühr war total überteuert.
+Kannst du prüfen, ob die Gutschrift da ist?
+Mein Rechnungsstatus ist irgendwie durcheinander.
+Wir sollten die Ausgaben nochmal durchgehen.
+Die Überweisung kam erst heute an.
+Ich hab den Betrag versehentlich doppelt gebucht.
+Passt der Buchungsbetrag mit deiner Liste überein?
+Das Restaurant hat keine Rechnung ausgestellt.
+Die Gutschrift wurde leider abgelehnt.
+Kann ich die Zahlung noch einmal versuchen?
+Meine Buchhaltung ist dieses Jahr ein Chaos.
+Hast du den Zahlungsfrist vergessen zu verlängern?
+Die Reisekostenabrechnung kommt erst im Juli.
+Ich brauche einen neuen Überweisungsausweis.
+Warum steht dieser Posten auf dem Konto?
+Die Miete war diesen Monat besonders hoch.
+Ich hab den Scheck versehentlich weggeworfen.
+Kannst du die Zahlen nochmal kontrollieren?
+Mein Budget ist schnell am Ende.
+Die Versicherung hat zu spät reagiert.
+Wo liegt der Vertrag vom letzten Jahr?
+Ich muss noch die Nebenkosten abklären.
+Die Rechnung kam leider schon wieder zu spät an.
+Kannst du bitte mal den Kontoauszug prüfen?
+Wir haben das Hotelzimmer gestern früh gebucht.
+Die Überweisung ist heute Mittag rausgegangen.
+Mein Bruder hat die Reisekosten noch offen.
+Ich hab die Buchung vor zwei Stunden geändert.
+Der Betrag stimmt einfach gar nicht mit der Anzeige überein.
+Storniere den Termin bitte bis morgen Abend.
+Hast du die Mahnung bereits bezahlt oder nicht?
+Die Gutschrift wurde erst letzte Woche verbucht.
+Könntest du mir kurz die Bankverbindung schicken?
+Ich muss nächste Woche alle Belege zusammenfassen.
+Das Onlineportal zeigt immer noch alte Werte an.
+Die Pauschalreise war deutlich teurer als erwartet.
+Haben wir das Ticket schon online gelöst?
+Mein Kontostand sieht aktuell leider nicht gut aus.
+Bitte überweise den Restbetrag bis Donnerstagabend.
+Die Abrechnung für das Restaurant ist endlich da.
+Ich vergaß die Quittung ins Buch einzutragen.
+Kann ich die Zahlung auf nächste Woche verschieben?
+Der Fehler war wohl nur ein Tippfehler bei der Eingabe.
+Wir warten immer noch auf die Antwort vom Support.
+Die monatlichen Ausgaben liegen dieses Mal über dem Budget.
+Hast du den Scheck bereits zur Einzahlung gebracht?
+Ich habe die Rechnung bereits bezahlt.
+Kannst du mir die Buchungsbestätigung nochmal schicken?
+Die Stornierung ist leider schon zu spät.
+Mir fehlt noch die Quittung für die Reisekosten.
+Der Betrag wurde gestern gutgeschrieben.
+Ich muss das Guthaben erst umbuchen.
+Hast du schon den Kontoauszug bekommen?
+Die Überweisung hat drei Werktage gedauert.
+Kann ich die Zahlung per Lastschrift einrichten?
+Ich hab den Fehler im Saldo gerade korrigiert.
+Die Nebenkosten sind höher als erwartet.
+Bitte schick mir die Belege per E-Mail.
+Das Geld ist leider noch nicht angekommen.
+Ich habe versehentlich doppelt überwiesen.
+Kannst du die Buchung auf meinen Namen ändern?
+Die Gutschrift wird nächste Woche verbucht.
+Ich muss die Ausgaben für das Büro prüfen.
+Wo finde ich den letzten Auszug online?
+Die Rechnung war falsch ausgestellt worden.
+Ich hab die Kantine mit der Kreditkarte bezahlt.
+Kannst du die Summe nochmal kontrollieren?
+Der Überweisungsträger liegt im Postfach.
+Ich habe die Buchung erst heute morgen gemacht.
+Passen die Zahlen in der Spalte wirklich?
+Die Rückzahlung erfolgt automatisch Ende Monat.
+Hast du schon die Steuererklärung vorbereitet?
+Ich muss die Hotelrechnung erst noch hochladen.
+Die Überweisung ist gestern Abend angekommen.
+Kannst du mal schauen ob der Betrag stimmt?
+Mein Kontoauszug hat sich irgendwie verzögert.
+Ich buche den Rückflug jetzt direkt vor.
+Die Stornierungsgebühr finde ich echt unfair.
+Hast du die Belege schon für das Finanzamt sortiert?
+Wir müssen die Nebenkosten noch abrechnen.
+Das Guthaben ist erst nächste Woche wieder da.
+Vergiss nicht die Quittung in der Mappe abzulegen.
+Ich hab versehentlich das falsche Datum eingegeben.
+Der Zuzahlungsbeitrag kommt direkt von mir.
+Kann ich die Buchung bis morgen nochmal ändern?
+Die Überweisungsgebühren nerven mich immer wieder.
+Mein Bankkonto war gestern kurzfristig gesperrt.
+Ich muss noch die Mietkaution einzahlen lassen.
+Hast du schon gesehen wie hoch die Zinsen sind?
+Die Gutschrift fehlt mir auf dem aktuellen Auszug.
+Ich lege alle Belege für die Versicherung ab.
+Kannst du prüfen ob das Geld wirklich raus war?
+Wir sollten unsere Ausgaben im Auge behalten.
+Die monatliche Abbuchung hat diesmal nicht geklappt.
+Ich brauche die Unterlagen für die Steuererklärung.
+Hast du den Kontoauszug schon archiviert?
+Die Reisekostenerstattung dauert immer so lange.
+Ich habe die Hotelrechnung grade bezahlt.
+Kannst du prüfen ob die Buchung ging?
+Mein Kontoauszug ist irgendwie nicht da.
+Die ReiserücktrittVersicherung muss ich noch einrichten.
+Hast du schon gesehen wie teuer das Upgrade war?
+Ich vergiss immer wieder meine Kreditkarte abzubrechen.
+Die Überweisung kam gestern Abend bei mir an.
+Wir müssen die Hotelrechnung doch teilen oder?
+Ich hab leider den falschen Betrag eingetippt.
+Stornieren geht nur bis morgen Mittag glaube ich.
+Kannst du mal schauen ob da noch Geld drauf ist?
+Meine Reisekosten liegen jetzt bei über zweihundert Euro.
+Die Quittung fürs Taxi hab ich schon fotografiert.
+Warum dauert die Auszahlung vom Reisebüro so lange?
+Ich muss noch das Frühstück zum Zimmer hinzufügen.
+Hast du die Zahlungsbestätigung schon bekommen?
+Der Buchhaltungsordner auf meinem Handy ist voll.
+Ich hab die Hotelreservation versehentlich gelöscht.
+Kann ich den Betrag noch auf meinen Arbeitgeber überweisen?
+Die Jahresübersicht meiner Ausgaben sieht übel aus.
+Wir haben die Ferienwohnung grade online gebucht.
+Hast du die PIN für die Bezahlkarte parat?
+Die Rechnungen stapeln sich jetzt schon wieder im Büro.
+Ich hab die Kreditkartendaten falsch abgetippt.
+Kannst du mir kurz sagen wie viel das war?
+Ich habe die Hotelrechnung gerade noch nicht bezahlt.
+Kannst du mal schauen ob die Überweisung ging?
+Mein Kontoauszug ist leider wieder verloren gegangen.
+Die Reisekosten muss ich erst noch bei der Firma einreichen.
+Hast du den Gutschein schon für das Dinner eingelöst?
+Ich vergaß komplett dass die Miete heute fällig wird.
+Das Onlineportal für die Buchhaltung ist gerade offline.
+Wir müssen die Ausgaben für den Umzug noch aufteilen.
+Die Stornogebühren sind diesmal leider wirklich zu hoch.
+Kann ich die Zahlungstermin auf Ende des Monats schieben?
+Mein Geld liegt aktuell einfach nur auf dem Tageskonto rum.
+Ich finde keine Rechnung für den letzten Stromverbrauch.
+Die Gutschrift kam überraschenderweise heute schon vor Mittag.
+Hast du gesehen dass der Wechselkurs heute wieder steigt?
+Ich muss dringend meine Kreditkartendaten aktualisieren lassen.
+Die Nebenkostenabrechnung ist immer so kompliziert und lang.
+Kannst du bitte prüfen ob das Geld bereits eingegangen ist?
+Ich hab versehentlich den falschen Betrag auf dein Konto überwiesen.
+Der Buchungsnachweis wurde mir leider nicht per Mail zugesendet.
+Wir sollten die gemeinsamen Ausgaben bald nochmal durchgehen.
+Mein Girokonto hatte gestern kurzfristig zu wenig Deckung.
+Die Reiseversicherung war zum Glück im Paket bereits enthalten.
+Kann ich den Termin für die Überweisung noch ändern?
+Ich muss diese alten Quittungen endlich vernünftig scannen und einordnen.
+Die Bankgebühren haben mich dieses Jahr wirklich überrascht und genervt.
+Ich hab die Hotelrechnung gestern hochgeladen.
+Kannst du mal gucken ob die Buchung klappt.
+Mein Kontoauszug war wieder nicht komplett.
+Die Reisekosten muss ich noch bei der Firma einreichen.
+Hast du die Überweisung für den Urlaub schon getätigt?
+Das Zimmer ist leider bereits ausgebucht worden.
+Ich muss die Nebenkostenabrechnung mit dem Vermieter klären.
+Der Zinsertrag auf dem Sparguthaben ist gering.
+Kann ich die Vorabbuchung noch rückgängig machen lassen.
+Die Rechnung vom Handwerker hat drei Tage zu lang gedauert.
+Meine Selbstständigkeit bringt aktuell nur kleine Umsätze.
+Ich vergesse immer wieder die Belegnummern zu notieren.
+Der Jahresabschluss muss bis zum Monatsende fertig sein.
+Hast du schon gesehen dass das Gehalt gutgeschrieben wurde?
+Die Stornogebühr ist leider höher als gedacht ausgefallen.
+Ich sortiere meine Quittungen immer erst am Wochenende durch.
+Kannst du prüfen ob die Lastschrift wirklich abgebucht wurde?
+Das Onlinebanking war heute kurzzeitig komplett down.
+Wir müssen noch die Mietkaution vom Vormieter holen.
+Die Abrechnung der Reisekosten ist etwas komplizierter als erwartet.
+Hast du den Nachweis für die Steuererklärung parat?
+Ich hab versehentlich den falschen Verwendungszweck angegeben.
+Der Saldo auf dem Girokonto sieht besser aus.
+Kann ich noch eine Nachzahlung für das Zimmer leisten?
+Die monatlichen Fixkosten haben sich erneut erhöht.
+Die Rechnung ist leider schon überfällig.
+Ich muss die Hotelbuchung noch ändern.
+Kannst du mir die Überweisung machen?
+Der Kontoauszug fehlt noch auf dem Tisch.
+Wir haben das Restaurant heute Abend gebucht.
+Meine Reisekosten möchte ich gerne erstatten.
+Hast du die Belege schon sortiert?
+Die Gutschrift kam gestern bei uns an.
+Ich vergaß wieder die Quittung zu sparen.
+Kann ich das Ticket noch umbuchten lassen?
+Das Guthaben auf dem Konto ist gering.
+Die Nebenkostenabrechnung kommt nächste Woche raus.
+Hast du schon gezahlt für den Parkpass?
+Die Buchhaltung braucht die Dokumente bis Montag.
+Ich schicke dir gleich die Bestätigungsmail zu.
+Kommst du nicht zur Abrechnung heute Nachmittag?
+Das Hotel hat uns noch nichts geschrieben.
+Meine Ausgaben dieses Monat waren sehr hoch.
+Warte bitte mit der Zahlung noch einen Tag.
+Die Stornogebühr war leider ziemlich hoch.
+Ich suche immer wieder nach alten Rechnungen.
+Hast du den Überweisungsträger schon ausgefüllt?
+Der Saldo stimmt diesmal endlich wieder überein.
+Kann ich die Buchung per App stornieren?
+Die Abrechnung vom Vermieter kam gerade an.
+Schick mir bitte den Beleg per WhatsApp rüber.
+Ich schick dir gleich die Überweisung per App.
+Der Hotelchef hat mein Zimmer leider doch nicht reserviert.
+Kannst du prüfen ob die Rechnung schon da ist?
+Mein Kontoauszug ist gestern endlich im Postfach gelandet.
+Ich muss diese Woche noch die Reisekosten einreichen.
+Wir haben das Wochenende spontan nach München verschoben.
+Die Stornierungsgebühr war wirklich übel für so kurzfristige Pläne.
+Hast du die Buchhaltung schon mit den neuen Zahlen versorgt?
+Es ist mir unangenehm aber ich kann die Buchung nicht stornieren.
+Die Überweisung kommt wohl erst morgen früh auf meinem Konto an.
+Ich habe vergessen die Hotelrechnung zu bezahlen und jetzt droht Mahnung.
+Können wir die Abreise vielleicht doch noch einen Tag später planen?
+Mein Mann kümmert sich heute um alle laufenden Bankgeschäfte im Haus.
+Die Reisekostenabrechnung ist mir total kompliziert vorgekommen beim Ausfüllen.
+Ich brauche dringend den aktuellen Saldo meines Girokontos für die Planung.
+Das Restaurant hat uns eine falsche Rechnung geschickt und wir müssen nachbessern.
+Kann ich meine Buchung einfach telefonisch stornieren oder muss ich schreiben?
+Die Überweisungslimits in der App sind mir etwas zu niedrig angesetzt worden.
+Ich warte seit drei Tagen auf meinen digitalen Kontoauszug vom Online-Banking.
+Mein Chef will die Reisekosten bis Freitag unbedingt im Büro haben.
+Wir müssen das Hotelzimmer leider doch noch einmal stornieren weil es nicht passt.
+Die Buchführung im kleinen Betrieb ist mir ehrlich gesagt etwas zu kompliziert geraten.
+Hast du schon gesehen dass die Überweisung heute Vormittag gescheitert ist?
+Ich schicke dir gleich einen Screenshot vom Kontoauszug als Bestätigung für alles.
+Kann ich das Frühstück separat zubuchen oder ist es schon enthalten im Preis?
+Die Rechnung kam leider zu spät an und jetzt müssen wir neu buchen.
+Hab die Hotelreservierung gerade geändert.
+Wann schickst mir die Rechnung noch?
+Ich muss die Reisekosten erst abklären.
+Die Überweisung ist leider schon gescheitert.
+Kontoauszug liegt auf dem Tisch, guck mal.
+Stornierung klappt nur bis morgen Abend.
+Hast du den Beleg für das Taxi?
+Mein Konto war gestern wieder leer.
+Ich hab die Buchung versehentlich gelöscht.
+Rechnung kommt erst im nächsten Monat an.
+Kann ich dir die IBAN nochmal schicken?
+Die Gutschrift ist noch nicht eingegangen.
+Muss ich da auch eine Quittung einreichen?
+Hab das Zimmer auf zwei Nächte verlängert.
+Überweisung dauert manchmal länger als drei Tage.
+Wo finde ich die alte Buchung im Konto?
+Ich habe die Zahlung schon bestätigt bekommen.
+Rechnungsnummer stimmt leider gar nicht überein.
+Hast du schon den Reisekostenantrag geschickt?
+Die Stornogebühr ist mir zu hoch diesmal.
+Kontoauszug zeigt keine neuen Abbuchungen heute.
+Muss ich die Buchung noch manuell korrigieren?
+Hab die Gutschrift im Postfach gefunden gestern.
+Rechnung wurde automatisch an meine Mail gesendet.
+Ich warte immer noch auf deine Rückmeldung.
+Ich muss die Hotelrechnung erst noch einreichen.
+Hast du die Buchung für Freitag schon bestätigt?
+Die Überweisung kam leider drei Tage zu spät an.
+Mein Kontoauszug zeigt eine unbekannte Abbuchung.
+Kannst du die Reisekosten schnell durchrechnen lassen?
+Das Zimmer wurde automatisch auf morgen verlängert.
+Ich hab vergessen die Nebenkosten abzurechnen.
+Wann läuft denn der nächste Lastschriftabgleich durch?
+Die Stornierung kam gestern noch rechtzeitig bei uns an.
+Mir ist ein Buchungsfehler im System aufgefallen.
+Bitte schick mir die Belege per Mail zu.
+Die Gutschrift habe ich gestern schon überwiesen bekommen.
+Ich muss das Restaurant für Sonntag reservieren.
+Der Zinssatz auf meinem Girokonto ist gestiegen.
+Kannst du mal checken ob die Buchung klappt?
+Meine Ausgaben diesen Monat sind viel zu hoch.
+Die Rechnung vom Hotel war deutlich höher als erwartet.
+Hast du schon den Urlaub für August gebucht?
+Ich brauche dringend eine Übersicht der letzten Buchungen.
+Das Geld wird erst morgen auf dem Konto gutgeschrieben.
+Wir müssen noch die Endabrechnung mit dem Vermieter machen.
+Kann ich die Anzahlung per PayPal überweisen?
+Der Buchungsgutschein kam leider nicht in mein Postfach.
+Ich muss noch die Kreditkartenabfrage freischalten.
+Die Rückerstattung dauert nochmal ungefähr zwei Werktage.
+Hast du die Hotelrechnung schon gesendet?
+Ich muss die Reisekosten bei der Firma einreichen.
+Die Überweisung ist leider noch nicht angekommen.
+Kannst du mal den Kontoauszug checken?
+Wir müssen das Buchungsdatum nochmal anpassen.
+Die Stornierungsgebühr ist wirklich unfair hoch.
+Hast du bereits die Anzahlung für die Villa überwiesen?
+Mein Online-Banking hängt sich gerade total auf.
+Ich hab die Abrechnungsdatei per Mail verschickt.
+Lass uns die offenen Posten zusammen durchgehen.
+Die Kreditkarte wurde versehentlich zweimal belastet.
+Muss ich noch was zum Frühstück dazu buchen?
+Der letzte Auszug wies einen Fehler auf.
+Kannst du die Belege sortiert in den Ordner legen?
+Ich warte immer noch auf die Gutschrift.
+Die Reiseabrechnung war einfacher als gedacht.
+Hast du schon den Zahlungsplan erstellt?
+Wir haben das Zimmer erfolgreich zurückgebucht.
+Die Mahnung kam völlig ungefragt bei mir an.
+Sollen wir das Konto erst einmal sperren lassen?
+Ich vergaß wieder die Überweisungshinweis zu schreiben.
+Die Hotelkosten liegen deutlich über dem Budget.
+Kann ich die Buchung noch um eine Woche verschieben?
+Meine Finanzen sind dieses Monat total im Chaos.
+Hast du den Scheck schon eingezahlt?
+Ich muss die Hotelrechnung noch bezahlen.
+Die Reisekostenmeldung geht heute raus.
+Hast du den Kontoauszug schon gesehen?
+Meine Buchung wurde leider abgelehnt.
+Wir sollten das Restaurant vorher reservieren.
+Die Überweisung ist bereits unterwegs.
+Kannst du die Stornierungsbestätigung forwarden?
+Ich hab vergessen, die Miete zu überweisen.
+Das Hotel hat uns einen Gutschein geschickt.
+Meine Ausgaben diesen Monat waren ziemlich hoch.
+Hast du die Quittung für die Fahrt?
+Die Buchungen müssen bis Freitag eingetragen sein.
+Ich kann das Zimmer heute nicht mehr buchen.
+Wo ist der Beleg für den Parkplatz?
+Die Kreditkartenabrechnung kam gestern an.
+Wir müssen noch die Visa bezahlen.
+Kannst du prüfen, ob die Zahlung ankam?
+Mein Kontoauszug stimmt diesmal wieder nicht.
+Die Reisekasse ist fast leer geworden.
+Ich brauche den Rechnungsbetrag für die Steuer.
+Hast du schon das Buffet gebucht?
+Die Stornogebühren sind diesmal sehr hoch.
+Wir rechnen die Kosten nächsten Monat ab.
+Das Geld wurde gestern gutgeschrieben.
+Meine Kreditkarte wurde im Ausland gesperrt.
+Ich habe die Hotelrechnung gestern bezahlt.
+Kannst du mir mal deine Kontodaten schicken?
+Die Stornierung war leider schon zu spät.
+Wir müssen noch die Reisekosten abrechnen.
+Der Überweisungsstatus ist immer noch ausstehend.
+Hast du die Quittung vom Restaurant abgeheftet?
+Mein Kontoauszug hat gesternabend gepostet.
+Das Zimmer buchen wir erst nächste Woche.
+Ich brauche den Beleg für die Steuererklärung.
+Die Kosten kommen in die private Kasse.
+Bitte überweise das Geld bis morgen Mittag.
+Die Buchungen vom letzten Monat fehlen noch.
+Kann ich die Reservierung auf Freitag legen?
+Ich habe einen Tippfehler in der IBAN gemacht.
+Die Gutschrift kommt frühestens nächste Woche.
+Wir müssen unsere Ausgaben nochmal durchgehen.
+Der Rechnungsbetrag weicht leicht davon ab.
+Hast du schon den Zahlungseingang bestätigt?
+Ich suche noch nach dem passenden Konto.
+Die monatlichen Fixkosten sind fällig geworden.
+Meine Ausgaben waren diesen Monat wieder hoch.
+Das Geld wird erst am Montag gutgeschrieben.
+Ich muss noch die Visa-Gebühr einzahlen.
+Die Abrechnung ist leider etwas kompliziert.
+Ich suche gerade nach dem passenden Buchungsnachweis.
+Kannst du mal gucken ob die Überweisung durchgekommen ist?
+Mein Kontoauszug hat mich dieses Jahr wieder mal erschreckt.
+Die Hotelrechnung kam leider erst zwei Tage später an.
+Hast du schon den Gutschein für die Reise eingelöst?
+Ich muss noch schnell die Nebenkostenabrechnung mit dir abklären.
+Der Betrag wurde gestern von meinem Kontogut abgeschrieben.
+Wir haben unsere Buchungen auf nächste Woche verschoben.
+Die Stornierungsgebühr ist wirklich zu hoch meiner Meinung nach.
+Kann ich den Betrag auf das nächste Jahr überwälzen?
+Ich hab die Quittung leider irgendwo verloren oder weggeworfen.
+Die Bank meldet dass kein Geld mehr auf dem Konto ist.
+Muss ich noch extra für den Flughafentransfer bezahlen?
+Das Onlineportal hat meine Daten irgendwie nicht korrekt verarbeitet.
+Bitte schick mir nochmal eine Kopie der letzten Überweisung.
+Ich frage mich wann die Rückzahlung wirklich passiert sein wird.
+Die Buchung war leider schon ausgebucht als ich ankam.
+Kannst du prüfen ob die SEPA-Lastschrift auch angekommen ist?
+Mein Handy meldet dass das Guthaben knapp wird.
+Die Rechnung stimmt nicht mit der Bestellung überein irgendwie.
+Ich muss morgen zum Bankomaten gehen und Bargeld abheben.
+Der Reiseleiter hat uns extra nach dem Beleg gefragt.
+Hast du schon die Kreditkartendaten für die Reservierung eingegeben?
+Die Kosten teilen wir uns ja zur Hälfte auf.
+Kannst du mir sagen wo ich den Überweisungsbeleg finde?
+Ich habe vergessen die Versicherung für die Reise abzuschließen.
+Ich schick dir gleich den Beleg per WhatsApp.
+Die Gutschrift ist leider noch nicht auf dem Konto.
+Hast du die Rechnungen schon in der Mappe abgelegt?
+Wir müssen die Auslandsüberweisung bis morgen veranlassen.
+Der Betrag stimmt nicht mit der Überweisung überein.
+Kann ich die Zahlung erst nächsten Monat tätigen?
+Die Nebenkostenabrechnung hat leider wieder mal gezickt.
+Ich such immer noch nach dem Quittungsbon von gestern.
+Mein Konto ist durch die automatische Abbuchung leer.
+Hast du die Mahnung schon erhalten oder nur ich?
+Die Vorlage für die Steuererklärung fehlt mir noch.
+Wir sollten die Ausgaben mal digital erfassen.
+Der Wechselkurs war bei dieser Buchung wirklich schlecht.
+Ich habe die Spesenabrechnung heute Vormittag versendet.
+Kannst du kurz prüfen, ob die Überweisung ankam?
+Meine Kreditkartenabrechnung ist diesmal gar nicht gekommen.
+Die Stornierungsgebühren sind mir ehrlich gesagt zu hoch.
+Hast du den Zahlungsziel von 30 Tagen beachtet?
+Ich muss noch die Zinsen für den Darlehenszins nachrechnen.
+Der Screenshot als Zahlungsnachweis sollte reichen.
+Kann ich die Rechnung auf zwei Raten aufteilen?
+Mein Buchhaltungsprogramm hat sich gestern komplett aufgehängt.
+Die Überweisungssperre löst sich automatisch morgen wieder.
+Hast du den Bon für das Taxi schon eingescannt?
+Ich vergesse immer, die Reisekosten rechtzeitig einzureichen.
+Ich muss mir die Belege für die Reisekosten zusammenlegen.
+Kannst du mal schauen ob die Überweisung schon angekommen ist?
+Die Rechnung vom Hotel habe ich gestern endlich bekommen.
+Mein Kontoauszug zeigt jetzt drei unbekannte Abbuchungen.
+Ich vergesse immer die Quittungen in der Mappe abzulegen.
+Sollen wir die Buchung für das Meeting erst einmal stornieren?
+Das Geld wurde gestern noch nicht von meinem Konto abgebucht.
+Hast du schon gesehen dass die letzte Rechnung falsch war?
+Ich muss heute Abend endlich mal wieder die Ausgaben erfassen.
+Die Rückzahlung vom Freund kommt leider etwas zu spät.
+Kann ich meine Hotelbuchung ohne Gebühr noch verschieben lassen?
+Auf dem Auszug steht plötzlich ein Betrag den ich nicht verstehe.
+Ich schicke dir die Scans der Rechnungen gleich per Mail.
+Wir müssen uns einen Überblick über die aktuellen Ausgaben verschaffen.
+Die Überweisung ist schon seit drei Tagen unterwegs und kommt nicht an.
+Kannst du prüfen ob die Gebühr für die Stornierung wirklich anfallt?
+Meine Buchhaltung wird langsam unübersichtlich weil ich alles durcheinander werfe.
+Ich hab vergessen das Parkticket bei den Ausgaben zu vermerken.
+Die Rechnung wurde leider noch nicht beglichen obwohl das Geld weg ist.
+Soll ich den Termin einfach nochmal auf später verschieben lassen?
+Ich suche schon ewig nach dem Beleg für das Restaurantessen.
+Der monatliche Sollauszug passt irgendwie gar nicht mit meinem Gedächtnis überein.
+Kannst du mir sagen ob die Gutschrift bereits gutgeschrieben wurde?
+Ich muss noch die Kleinbeträge auf der Tagesordnung besprechen.
+Die Buchungsbestätigung fehlt mir leider immer noch in den Unterlagen.
+Ich muss die Hotelrechnung noch bezahlen.
+Hast du die Buchung für den Flug bestätigt bekommen?
+Die Überweisung kommt leider erst nächste Woche an.
+Ich habe das Zimmer doch nochmal storniert.
+Kannst du mal kurz den Kontoauszug durchsehen?
+Meine Reisekostenmiete ist dieses Mal höher geworden.
+Das Frühstück wurde leider nicht automatisch gebucht.
+Ich brauche die IBAN für die Lastschrift eintragung.
+Die Rechnung vom letzten Monat ist noch offen.
+Wir müssen die Hotelgutscheine erst noch einlösen.
+Hast du schon nach der Bestätigungsmail geschaut?
+Die Buchung konnte ich wegen des Systems nicht ändern.
+Mein Kontoauszug zeigt einen unbekannten Abbuchungsauftrag.
+Ich habe vergessen, das Frühstück mitzubestellen.
+Kannst du mir die Überweisungsbestätigung per Mail schicken?
+Die Stornogebühr ist diesmal ziemlich hoch ausgefallen.
+Ich muss meine Ausgaben für die Fahrt noch dokumentieren.
+Das Hotel hat die Rechnung leider erst gestern geschickt.
+Hast du gesehen, dass die Gutschrift schon da ist?
+Ich kann die Buchung bis morgen noch kostenlos ändern.
+Mein Konto war vorübergehend gesperrt, deshalb die Verzögerung.
+Die Reisekostenabrechnung macht mir jedes Jahr großen Stress.
+Kann ich die Rechnung auf zwei Teile aufteilen?
+Ich habe die Reservierungsnummer leider nicht gespeichert.
+Warum wurde der Betrag nochmal zweimal abgebucht?
+Ich habe die Rechnung gestern schon bezahlt.
+Kannst du kurz prüfen ob der Betrag angekommen ist?
+Das Hotelzimmer war deutlich günstiger als erwartet.
+Mir fehlt noch die Quittung für die Fahrkarte.
+Wir müssen die Reisekosten bis Freitag melden.
+Der Kontoauszug ist leider nicht im Postfach.
+Hast du den Gutscheincode richtig eingeben können?
+Ich hab das Ticket versehentlich doppelt gebucht.
+Die Stornierung klappte ohne großen Ärger online.
+Kann ich die Überweisung morgen noch einmal wiederholen?
+Der Betrag wurde gestern bereits von meinem Konto abgebucht.
+Ich suche verzweifelt nach dem Bestätigungsmail vom Hotel.
+Die Nebenkostenabrechnung kommt erst im nächsten Jahr.
+Hast du schon den Bon für die Parkgebühr gefunden?
+Wir müssen die Zahlen bis zum Wochenende abschließen.
+Die Karte war an der Automatenkarte nicht lesbar.
+Kannst du mir mal dein Bankkonto durchgeben?
+Ich habe die Gutschrift noch nicht auf dem Konto.
+Der Online-Banking-App zeigt den falschen Saldo an.
+Wir sollten das Budget für das nächste Quartal planen.
+Hast du die Kreditkartenabrechnung schon überprüft und gezahlt?
+Die Reservierung wurde automatisch nach einer Woche gelöscht.
+Ich brauche dringend die Umsatzsteuer-Voranmeldung vom Vormonat.
+Der letzte Scheck ist noch nicht eingelöst worden.
+Ich muss morgen wieder den Kontoauszug checken.
+Kannst du mal gucken ob die Überweisung ging?
+Die Rechnung für das Hotel ist schon da.
+Ich hab vergessen das Taxi in der App zu buchen.
+Wir sollten die Ausgaben dieses Monat noch durchgehen.
+Hast du gesehen dass die Abbuchung fehlgeschlagen ist?
+Ich muss noch die Reiseversicherung separat bezahlen.
+Die Quittung liegt irgendwie in meiner Brieftasche rum.
+Kann ich das Dinner noch für morgen reservieren?
+Der Zuzahlungsbetrag kommt direkt vom Arbeitgeber zurück.
+Ich suche gerade die Bestätigungsmail von der Agentur.
+Mein Konto ist aktuell total überzogen durch Fehler.
+Wir müssen die Miete bis Freitag drauf haben.
+Hast du den Scheck bereits bei der Bank eingereicht?
+Die Nebenkostenabrechnung sieht dieses Jahr ganz anders aus.
+Ich habe das Zimmer online selbst gebucht und gezahlt.
+Bitte schick mir nochmal deine aktuelle Steuer-ID zu.
+Die Rückzahlung läuft automatisch zum Monatsende ab.
+Kannst du prüfen ob die Gutschrift schon gebucht wurde?
+Meine Kreditkarte wurde bei der Buchung blockiert.
+Wir müssen noch die Pfandbons für die Flaschen einlösen.
+Die Überweisung ist leider erst gestern eingegangen.
+Ich brauche den Beleg unbedingt für die Finanzamt-Meldung.
+Hast du schon mit dem Vermieter über die Kaution gesprochen?
+Ich muss den Hotelbeleg noch einscannen.
+Kannst du prüfen ob die Zahlung ankam.
+Die Rechnung vom Restaurant liegt mir vor.
+Hast du schon meine Gutschrift erhalten.
+Ich suche verzweifelt nach der Überweisungsbestätigung.
+Mein Kontoauszug stimmt diesmal einfach nicht.
+Das Zimmer lässt sich leider nicht stornieren.
+Wir müssen die Reisekosten noch teilen.
+Kann ich dir die Daten per WhatsApp schicken.
+Die Buchung wurde automatisch verlängert wie nervig.
+Ich habe das falsche Datum eingetragen doof.
+Brauchst du den Bon für die Steuer.
+Die Überweisung ist gestern Mittag gesendet worden.
+Mein Konto war leider nicht gedeckt peinlich.
+Die Nebenkosten sind noch nicht verrechnet worden.
+Ich vergaß die Kfz-Kennzeichen zu hinterlegen.
+Gibt es einen Stornogebühr bei Kurzfristigkeit.
+Der Auszug zeigt eine unbekannte Belastung an.
+Muss ich den Scheck noch einlösen lassen.
+Wir haben den Mietvertrag unterschrieben super.
+Die Gutschrift wird wahrscheinlich dauern leider.
+Hast du die Zahlungsziel schon beachtet.
+Ich muss die Unterlagen noch sortieren nervig.
+Kannst du mir die Lastschrift widerrufen.
+Ich muss die Hotelrechnung noch einreichen.
+Kannst du mal prüfen ob das Geld angekommen ist.
+Die Buchung für den Flug wurde leider storniert.
+Mir fehlt noch die Bestätigung der Reiseagentur.
+Hast du schon die Unterlagen für das Finanzamt gesammelt.
+Das Guthaben auf dem Kontokorrent stimmt nicht ganz.
+Ich habe vergessen die Nebenkosten vorab zu überweisen.
+Die Quittung vom Restaurant liegt mir hier im Briefkasten.
+Wann kommt eigentlich der nächste Kontoauszug per Post?
+Ich muss meine Spesen noch bis Freitag einreichen.
+Das Zimmer war günstiger als ich eigentlich erwartet hatte.
+Kann man die Anzahlung noch auf das neue Datum übertragen.
+Die Buchung im Kalender ist irgendwie doppelt eingetragen worden.
+Mir sind da beim Abgleich einige Beträge aufgefallen.
+Hast du die Lastschrift schon für den Strom freigegeben?
+Ich warte immer noch auf die Zahlungsbestätigung vom Vermieter.
+Die Reisekostenabrechnung wird dieses Jahr wohl wieder dauern.
+Hast du gesehen dass der Überweisungstext falsch abgekürzt wurde.
+Ich brauche dringend eine Kopie der letzten drei Kontoauszüge.
+Das Hotel hat die Reservierung plötzlich ohne Grund gelöscht.
+Kann ich die Buchung noch auf meinen Partner umschreiben lassen.
+Die Buchhaltung meldet sich erst wieder nach den Feiertagen.
+Hast du schon alle Belege für das Quartalsende digitalisiert?
+Mir wurde fälschlicherweise zu viel vom Girokonto abgebucht.
+Die Reiseversicherung muss noch vor der Abreise abgeschlossen werden.
+Das Hotel war viel teurer als gedacht.
+Ich muss die Gutschrift noch überprüfen.
+Kommst du mit den Ausgaben klar?
+Die Rechnung ist leider falsch berechnet worden.
+Hast du schon überweisen können?
+Mein Kontoauszug war gestern wieder da.
+Wir müssen das Budget nochmal durchgehen.
+Die Stornogebühr findet ich wirklich unfair.
+Ich hab den Beleg nicht mehr gefunden.
+Kannst du mir die Zahlen schicken?
+Das war echt viel Aufwand für so wenig.
+Rechnen wir mal kurz alle Kosten durch.
+Die Gutschrift ist endlich angekommen.
+Ich vergesse immer die Buchungen zu machen.
+Der Geldautomat hat gestern gar nicht funktioniert.
+Ich brauche noch den Zahlungsbeleg dafür.
+Wann wird das Geld wieder gutgeschrieben?
+Das war echt eine teure Sache am Ende.
+Kann ich dir das Geld überweisen?
+Die Abrechnung ist wirklich verwirrend geschrieben.
+Hast du schon die Miete überwiesen?
+Ich muss nochmal alles nachrechnen gehen.
+Der Fehler auf der Rechnung ist krass.
+Wir haben dieses Jahr zu viel ausgegeben.
+Schick mir einfach die Quittung per Mail.
+Ich habe die Hotelrechnung erst morgen.
+Kannst du mal kurz den Kontoauszug checken?
+Die Buchung war schon wieder voll besetzt.
+Ich muss noch die Reisekosten einreichen.
+Warum wurde die Überweisung rückgängig gemacht?
+Hast du die Stornierungsgutschrift schon erhalten?
+Mein Girokonto ist aktuell komplett leer.
+Wir haben das Hotelzimmer leider nicht mehr.
+Die Abrechnung kommt erst Ende nächsten Monats.
+Ich brauche den Beleg für die Reiseabgabe.
+Kann ich die Buchung auf deinen Namen setzen?
+Die Rechnung war irgendwie doppelt gebucht worden.
+Ich hab die Gutschrift heute Vormittag gesehen.
+Wann läuft eigentlich die nächste Lastschrift durch?
+Die Hotelbuchung konnte ich nicht bearbeiten.
+Ich suche den Überweisungsträger für die Miete.
+Hast du den Buchungsbestätigungscode noch parat?
+Mein Konto ist wegen der Sperrung blockiert.
+Die Nebenkostenabrechnung kam diesmal pünktlich an.
+Kannst du mir die IBAN nochmal schicken?
+Ich habe die Reisekosten nicht korrekt erfasst.
+Die Stornierungsgebühr war diesmal wirklich hoch.
+Ich muss die Gutschrift manuell verbuchen.
+Hast du schon die Quittung fotografiert?
+Die Überweisung ist noch nicht angekommen.
+Hab vergessen den Parkausweis für das Hotel zu buchen.
+Die Gutschrift kam gestern doch noch auf meinem Konto an.
+Ich schick dir die Belege per Foto morgen früh.
+Kannst du prüfen ob die Zahlung schon eingegangen ist?
+Mein Bankkonto sieht nach der Reise ziemlich leer aus.
+Wir müssen die Nebenkosten für das Haus noch berechnen.
+Die Stornogebühr war echt übel bei dieser Fluglinie.
+Hast du schon mal mit dem Vermieter über die Miete gesprochen?
+Ich finde die Quittung vom Supermarkt irgendwo im Koffer.
+Die Abschlagszahlung muss bis Freitag auf dem Weg sein.
+Unser Girokonto wurde trotz leerer Kasse belastet, doof.
+Kann ich die Reservierung für das Restaurant ändern?
+Die Nebenkostenabrechnung ist mir komplett zu kompliziert.
+Ich habe versehentlich doppelt für den Mietwagen bezahlt.
+Der Zinsenbescheid kommt bestimmt wieder zu spät in der Post.
+Sollen wir die Reiseversicherung doch noch dazubuchen?
+Mein Geld wurde gestern von einer unbekannten Firma abgebucht.
+Die Rechnung für den Handwerker liegt mir auf dem Tisch.
+Ich muss noch die Ausgaben für das Teamessen sortieren.
+Warum ist die Überweisung nach drei Tagen noch nicht da?
+Die Stornierung habe ich per Mail an den Hotelier geschickt.
+Kannst du mal gucken ob die Nebenkosten schon eingerechnet sind?
+Mein Kontostand war heute morgen echt bescheiden niedrig.
+Die Gutschrift für die Retour hat ewig gedauert, nervig.
+Ich hab keine Ahnung wo ich die alten Bankauszüge hingelegt habe.
+Ich muss erst mal den Rechnungsbetrag überweisen.
+Die Hotelbuchung hat wohl nicht funktioniert.
+Kannst du mir den Kontoauszug von letztem Monat schicken?
+Wir sollten die Reisekosten endlich abrechnen.
+Hab die Buchung für das Restaurant schon bestätigt.
+Mein Geld ist leider noch nicht eingegangen.
+Die Stornierungsgebühr finde ich persönlich viel zu hoch.
+Ich muss nächste Woche wieder Rechnungen bezahlen.
+Wir haben das Hotelzimmer kurzfristig abbestellen müssen.
+Bitte sende mir die Belege per Mail zu.
+Ich kann die Überweisung erst morgen machen.
+Die Abrechnung der Dienstreise dauert immer so lange.
+Warum steht denn kein Geld mehr auf meinem Konto?
+Ich vergaß, die Nebenkostenabrechnung einzusenden.
+Kann ich die Buchung vielleicht nochmal ändern?
+Der Betrag wurde bereits gutgeschrieben, super.
+Wir müssen noch die Miete überweisen.
+Hast du die Quittung vom Supermarkt fotografiert?
+Die Reise war total schön, aber teuer.
+Ich suche meinen letzten Kontoauszug verzweifelt.
+Kannst du prüfen, ob die Buchung klappt?
+Die Gutschrift ist leider noch nicht da.
+Ich muss meine Ausgaben besser im Blick behalten.
+Waren die Hotelkosten schon abgerechnet worden?
+Ich hab die Hotelrechnung erst morgen online.
+Kannst du kurz schauen ob die Überweisung da ist?
+Die Reisekosten muss ich bis Freitag noch einreichen.
+Wir haben das Zimmer stornieren müssen wegen Wetter.
+Mein Kontoauszug war diesmal seltsam unübersichtlich.
+Hast du den Link für die Buchung schon geschickt?
+Ich vergesse immer meine Zugangsdaten fürs Portal.
+Die Rechnung vom Restaurant ist höher als gedacht.
+Können wir die Abreise auf Samstag verschieben?
+Meine Ausgaben im Mai waren wirklich nicht günstig.
+Ich muss die Boni für das Finanzamt zusammenlegen.
+Das Hotel hat die Stornogebühr leider doch berechnet.
+Hast du schon gesehen dass die Gutschrift kam?
+Die Buchung war komplizierter als ich dachte ehrlich gesagt.
+Wir zahlen per Vorkasse und kriegen den Rest später.
+Ich such verzweifelt nach dem Beleg vom Zug.
+Mein Girokonto ist im Minus seit der Miete ging.
+Kann ich die Anzahlung noch auf mein Konto zurückschicken?
+Die Abrechnung der Reise liegt schon zwei Tage vor.
+Hast du die PIN für das Onlinebanking parat?
+Ich muss noch die Mietkosten im Budget vermerken.
+Die Rechnung kam doppelt und das nervt mich total.
+Können wir das Datum für die Buchung nochmal ändern?
+Mein Ausgaben-Tracker zeigt dass ich zu viel ausgegeben hab.
+Die Gutschrift ist leider noch nicht auf meinem Konto.
+Ich vergesse immer wieder die Belege hochzuladen.
+Kannst du mal schauen ob das Geld schon da ist?
+Die Hotelrechnung hat mir gar nicht gefallen.
+Hast du schon gesehen dass die Überweisung gescheitert ist?
+Ich muss noch den Mietzuschuss überweisen.
+Der Kontoauszug kommt wieder eine Woche zu spät.
+Lass uns die Reisekosten nochmal im Detail durchgehen.
+Ich hab versehentlich das falsche Datum ausgewählt.
+Warum wurde der Betrag nicht abgebucht wie abgesprochen?
+Kann ich den Termin einfach auf Montag schieben?
+Die Gutschrift ist leider noch nicht eingegangen.
+Muss ich für die Stornierung nochmal extra zahlen?
+Ich finde meinen Beleg für die Tankrechnung nirgends.
+Das war definitiv zu teuer fürs normale Wochenende.
+Hast du die IBAN schon an den Vermieter geschickt?
+Mein Girokonto sieht in letzter Zeit düster aus.
+Wir sollten vielleicht doch das Restaurant ändern.
+Die Buchungen vom letzten Monat sind komplett chaotisch.
+Kannst du mir sagen wie viel noch übrig ist?
+Ich muss dem Finanzamt die Quittung nachreichen.
+Hat sich der Preis für den Rückflug geändert?
+Ich brauche dringend eine Bestätigung der Buchung.
+Das war wohl ein Fehler beim Eingeben des Betrages.
+Wann genau wird das Gehalt auf meinem Konto gutgeschrieben?
+Ich hab keine Lust mehr alle Belege sortieren.
+Die Rechnung ist gestern angekommen.
+Ich muss das Hotelzimmer noch stornieren.
+Hast du die Überweisung schon getätigt?
+Der Kontoauszug liegt immer noch nicht vor.
+Mein Freibetrag für Reisekosten ist aufgebraucht.
+Bitte sende mir die Belege per Mail.
+Die Buchung wurde automatisch bestätigt.
+Ich habe einen Fehler in der Abrechnung gefunden.
+Kannst du den Betrag bis morgen überweisen?
+Die Nebenkostenabrechnung kommt jedes Jahr zu spät.
+Das Zimmer ist leider nicht mehr verfügbar.
+Ich muss die Kassenbelege noch sortieren.
+Wo finde ich den Bestätigungscode zur Buchung?
+Die Gutschrift wurde gestern auf meinem Konto angezeigt.
+Wir müssen das Budget für das Event überprüfen.
+Hast du die Unterlagen schon archiviert?
+Die Überweisung ist heute Mittag angekommen.
+Ich brauche einen Nachweis für die Steuererklärung.
+Kann ich die Zahlung auf nächsten Monat verschieben?
+Die Rechnungshöhe weicht von der Bestellung ab.
+Bitte prüfe, ob alle Buchungen korrekt sind.
+Das Ticket wurde leider bereits freigegeben.
+Ich muss noch den Hotelgutschein einlösen.
+Ich brauche den Beleg für die Fahrkosten.
+Wo ist die Quittung vom Restaurant geblieben?
+Hast du die Miete schon überwiesen?
+Die Buchung war leider nicht mehr möglich.
+Ich muss das Geld bis morgen überweisen.
+Kannst du mal kurz auf dem Konto gucken?
+Die Abrechnung stimmt irgendwie nicht ganz.
+Wir müssen die Ausgaben noch eintragen.
+Ich hab vergessen den Scheck auszuzahlen.
+Der Betrag wurde vom Konto abgebucht.
+Hast du schon die Steuererklärung gemacht?
+Die Zinsen sind dieses Jahr gestiegen.
+Ich brauche eine Kopie der Überweisung.
+Das Girokonto ist aktuell im Minus.
+Wo finde ich meine alten Auszugspapiere?
+Die Rechnung kam heute per Post an.
+Ich muss noch die Nebenkosten berechnen.
+Hast du das Geld schon überwiesen?
+Die Buchung wurde vom System abgelehnt.
+Ich sollte mal meine Ausgaben checken.
+Kann man die Rate auf nächste Woche schieben?
+Der Saldovorgang ist leider fehlgeschlagen.
+Ich hab den Bon nicht mehr gefunden.
+Wo kann ich die Kontodaten nachsehen?
+Die Überweisung dauert manchmal ganz lange.
+Hast du den Betrag schon bestätigt bekommen?
+Ich habe die Hotelrechnung gerade bezahlt.
+Wir müssen unsere Ausgaben nochmal durchgehen.
+Kannst du mal schauen ob die Überweisung da ist?
+Mein Kontoauszug fehlt leider komplett.
+Die Stornierungsgebühr war echt ziemlich hoch.
+Hast du die Papiere schon einsortiert?
+Ich brauche den Beleg für die Steuererklärung.
+Lass uns das Geld auf das Firmenkonto überweisen.
+Die Kosten für das Abendessen nehme ich mir zurück.
+Kann ich meine Buchung noch um ein Tag verschieben?
+Der Bankauszug zeigt einen unbekannten Betrag an.
+Ich hab vergessen den Kreditkartenzuschlag einzukalkulieren.
+Wir müssen das Guthaben nochmal überprüfen.
+Die Gutschrift ist leider noch nicht angekommen.
+Hast du schon gesehen wie viel wir gespart haben?
+Ich sortiere meine Belege immer direkt nach dem Urlaub.
+Das war wirklich ein unsinniger Abbuchungsbetrag.
+Kannst du prüfen ob die Lastschrift abgelehnt wurde?
+Mein Finanzamt fragt nochmal nach den Unterlagen.
+Die Reisekostenabrechnung kommt erst im nächsten Monat an.
+Hast du den Bon vom Supermarkt noch aufgehoben?
+Ich muss dringend mein Online-Banking aktualisieren.
+Lass uns mal schauen ob das Konto gedeckt ist.
+Die Überweisung kam leider mit Verzögerung bei mir an.
+Die Hotelrechnung ist leider zu hoch ausgefallen.
+Ich suche gerade nach dem Beleg für das Taxi.
+Hast du die Gutschrift schon auf dem Konto?
+Wir müssen noch die Nebenkosten abrechnen.
+Der Überweisungsauftrag läuft seit gestern nicht durch.
+Kannst du mal schauen ob die Zahlung angekommen ist?
+Ich hab versehentlich doppelt gezahlt und muss das melden.
+Die Reisekostenerstattung kommt wohl erst im nächsten Monat.
+Mein Kontoauszug war wieder einmal komplett durcheinander.
+Wir sollten die offenen Rechnungen bis Freitag begleichen.
+Das Zimmer lässt sich leider nicht kostenlos stornieren.
+Ich brauche die Buchungsbestätigung für den Antrag bei der Arbeit.
+Hast du die Zahlen schon in die Tabelle eingetragen?
+Die Kreditkarte wurde trotz Urlaubsaufenthalt belastet.
+Ich muss nochmal prüfen wo das Geld abgeflössen ist.
+Das Onlineportal war wieder mal langsam beim Überweisen.
+Wir haben vergessen die Miete für diesen Monat zu überweisen.
+Die Rechnung vom Handwerker ist schon drei Wochen alt.
+Kann ich die Zahlung auf nächsten Montag verschieben?
+Der Betrag stimmt mit dem Rechnungsbetrag nicht überein.
+Ich hab den Kontoauszug leider im Müll entsorgt.
+Wir müssen uns um einen günstigeren Anbieter kümmern.
+Die Stornogebühren sind wirklich unverschämt hoch this time.
+Hast du die Quittung vom Restaurant noch aufbewahrt?
+Meine Finanzen sehen am Monatsende immer kritisch aus.
+Ich muss noch den Hotelbeleg einreichen.
+Kannst du mal schauen ob das Geld da ist.
+Die Rechnung vom Restaurant hab ich vergessen.
+Wann wird die Gutschrift auf mein Konto gebucht.
+Ich brauch die Belegnummer für die Reisekosten.
+Hast du die Überweisung schon getätigt oder nicht.
+Mein Kontoauszug kam diesmal gar nicht an.
+Wir müssen das Hotelzimmer noch stornieren lassen.
+Die Nebenkostenabrechnung ist wieder total verwirrend.
+Kann ich den Betrag auf mein Girokonto überweisen.
+Ich hab den Falschen Empfänger für die Zahlung genommen.
+Pass mal auf der Restbetrag fehlt immer noch.
+Die Jahressteuererklärung steht mir noch bevor.
+Hast du schon gesehen wie hoch die Gebühren sind.
+Das Geld kommt erst nächste Woche bei mir an.
+Wir sollten mal unsere Ausgaben gemeinsam durchgehen.
+Der Betrag wurde leider nicht richtig verbucht.
+Kannst du bitte die Quittung für mich einscannen.
+Ich vergesse immer meine Pin zu ändern.
+Die Abrechnung vom Vermieter ist schon längst fällig.
+Musst du dafür extra einen Scheck schreiben.
+Das Onlineportal der Bank läuft wieder mal nur langsam.
+Ich hab versehentlich den falschen Betrag eingetippt.
+Ich hab vergessen die Flugtickets zu buchen.
+Kannst du mal kurz die Überweisung prüfen?
+Die Rechnung vom Hotel ist schon da.
+Mein Kontoauszug hat sich leider verzögert.
+Muss ich das Zimmer wirklich bezahlen?
+Die Reisekosten erstatten wir erst nächsten Monat.
+Hast du den Beleg für die Abreise gefunden?
+Ich brauche dringend meine Buchungsbestätigung.
+Die Überweisung wird wahrscheinlich heute ausgeführt.
+Kann ich die Zahlung noch stornieren lassen?
+Der Betrag ist mir im Konto schon abgegangen.
+Wir müssen das Hotelzimmer nochmal buchen.
+Hast du die Mahnung vom Anbieter erhalten?
+Die Buchungen sind alle bis Freitag erledigt.
+Ich habe die Rechnung versehentlich nicht bezahlt.
+Kannst du mir deine Kontodaten nochmal schicken?
+Die Reise war deutlich günstiger als gedacht.
+Mein Kontoauszug zeigt einen Fehler auf.
+Wir müssen die Kosten noch teilen und buchen.
+Hast du den Scheck für das Zimmer ausgefüllt?
+Die Überweisung ist leider abgelehnt worden.
+Ich muss meine Buchhaltung endlich sortieren.
+Kannst du mir sagen wann das Geld da ist?
+Die Hotelrechnung hat einen Rabatt enthalten.
+Meine Ausgaben für die Reise sind zu hoch.
+Hast du den Zahlungsbeleg schon gespeichert?
+Die Hotelrechnung kam heute endlich an.
+Ich muss die Flugkosten noch einreichen.
+Hast du schon auf das Geld geschaut?
+Die Stornierungsgebühr ist wirklich überteuert.
+Kann ich dir meinen Kontoauszug mailen?
+Wir haben das Buchungsdatum verwechselt.
+Die Überweisung dauete diesmal ewig lang.
+Mein Lohn war gestern schon gutgeschrieben.
+Ich hab die Quittung komplett vergessen.
+Gibt es einen Nachlass auf die Buchung?
+Die Selbstständige muss ihr Geld sortieren.
+Hast du die Gutschrift bereits erhalten?
+Wir müssen die Reiseanteile neu berechnen.
+Der Betrag passt einfach nicht zusammen.
+Ich schicke dir gleich die Zahlungsbestätigung.
+Das Zimmer war leider schon ausgebucht.
+Kannst du die Rechnungen digital scannen?
+Mein Konto ist heute wieder leer.
+Die Pauschalpreisangabe war irreführend.
+Ich brauche die Buchungsnummer dringend.
+Wann wird das Geld abgebucht?
+Die Nebenkosten sind höher als gedacht.
+Hast du die Bonität schon geprüft?
+Wir müssen die Vorlage nachreichen.
+Das Bargeld fehlt auf der Kasse.
+Ich vergesse immer wieder den Beleg für die Fahrkosten.
+Kannst du mal schauen ob die Gutschrift schon da ist?
+DieHotelrechnung hat sich um dreißig Euro erhöht.
+Ich muss nächste Woche endlich alles im Handy buchen.
+Wo findet man denn jetzt den neuen Kontoauszug?
+Hast du die Reiseversicherung auch gleich mit gebucht?
+Die Überweisung braucht immer so lange bis sie ank.
+Ich hab vergessen das Restaurant vorab zu reservieren.
+Mein Konto war gestern komplett überzogen durch Fehler.
+Kannst du mir die Quittung per Mail zusenden?
+Die Abreise wurde leider kurzfristig um zwei Tage verschoben.
+Ich suche vergeblich nach der Bestätigungsmail vom Hotel.
+Warum kommt meine Gehaltsabrechnung wieder so spät an?
+Hast du schon geprüft ob die Kosten erstattet werden?
+Ich muss die Fahrtenliste für das Quartal zusammenstellen.
+Der Buchhaltungsappend hat heute mal wieder gestreikt echt nervig.
+Kann ich die Stornierungsgebühr noch irgendwie umgehen lassen?
+Die Rechnung vom Handwerker ist leider höher als erwartet.
+Ich habe alle Belege schon auf dem Schreibtisch liegen.
+Muss ich das extra im System als Geschäftsreise kennzeichnen?
+Der Transfer zum Flughafen war pünktlich wie angekündigt.
+Kannst du bitte den Scheck nochmal kontrollieren bevor er geht.
+Ich finde die App für Ausgaben doch viel zu kompliziert.
+Hast du schon gesehen dass der Kontostand wieder stimmt?
+Die Kosten für das Teamdinner müssen noch angemeldet werden.
+Ich hab den Kontoauszug endlich im Postfach gefunden.
+Kannst du mal prüfen ob die Rechnung schon bezahlt wurde.
+Die Hotelbuchung muss ich dringend nochmal verschieben.
+Meine Reisekostenmeldung ist für diesen Monat noch offen.
+Hast du die Überweisung gestern schon abgeschickt?
+Der Zinssatz auf dem Girokonto hat sich leicht erhöht.
+Ich kann die Reservierung nicht mehr online stornieren.
+Auf dem letzten Kontoauszug fehlt ein Posten ganz.
+Die Abrechnung von der Firma kommt nächste Woche an.
+Hast du die Zahlungsfrist für die Miete schon geprüft?
+Ich muss noch den Zug nach Berlin bestätigen.
+Die Gutschrift steht leider erst morgen auf dem Konto.
+Kann ich die Buchung einfach per Mail umbuchen?
+Meine Ausgaben dieses Monat waren deutlich höher als geplant.
+Der Support sagt die Stornierungsgebühr fällt weg.
+Ich hab die Rechnung versehentlich doppelt eingereicht.
+Bist du sicher dass die IBAN korrekt war?
+Die Reisekosten werden nächste Woche direkt ausgezahlt.
+Kannst du mir den Scheck mal kurz unterschreiben?
+Auf dem Kontoauszug ist ein Fehler aufgetaucht.
+Ich muss die Vorlage für die Spesen noch machen.
+Hast du schon gesehen wie hoch die Gebühren sind?
+Die Hotelrechnung ist deutlich günstiger als erwartet.
+Kann ich das Zimmer bis morgen Abend kostenlos stornieren?
+Mein Gehalt wird heute abend gutgeschrieben werden.
+Rechnung kommt erst nächste Woche beim Kunden an.
+Habe den Gutscheincode vergessen einzugeben beim Checkout.
+Kannst du mal schauen ob das Geld eingetroffen ist?
+Ich muss dringend die Hotelbuchung stornieren heute noch.
+Die Nebenkostenabrechnung ist leider höher als erwartet.
+Überweisung geht erst morgen aus wegen Feiertag am Montag.
+Hast du schon bezahlt oder warten wir noch ab?
+Der Kontoauszug zeigt einen Fehler beim letzten Monat.
+Ich buche den Flug für den Urlaub jetzt mal vor.
+Rechnung wurde automatisch eingeleitet und ist schon archiviert.
+Wir müssen die Reisekosten erst noch intern abstimmen.
+Kann ich die Zahlung per Lastschrift beibehalten lassen?
+Die Buchung ist bestätigt, du bekommst gleich die Mail.
+Ich habe den Termin verschoben weil mir das Geld fehlt.
+Überweisungsdaten fehlen leider in der aktuellen Rechnungsvorlage.
+Hast du die Gutschrift schon auf dem Konto gesehen?
+Mein Bankkonto ist überschwemmt von verschiedenen Abbuchungen letzten Monat.
+Die Hotelrechnung kam plötzlich und völlig unerwartet an.
+Ich muss die Reisekostenabrechnung für dieses Quartal machen.
+Kannst du prüfen ob die Überweisung wirklich rausgegangen ist?
+Der Betrag stimmt nicht mit dem Rechnungsbestand überein irgendwie.
+Buchung wurde storniert aber das Geld noch nicht zurückgutschrieben.
+Zahlung erfolgt in drei Raten über die kommenden Monate hinweg.
+Die Kreditkartenabrechnung hat mich dieses Mal richtig erschreckt finanziell.
+Wir müssen das Hotelzimmer bis morgen buchen.
+Die Rechnung kam gestern endlich per Post an.
+Kannst du die Überweisung heute noch tätigen?
+Ich hab vergessen die Mietkosten zu überweisen.
+Der Kontoauszug zeigt einen seltsamen Abbuchungsbetrag.
+Stornieren wir den Flugfall oder bleibt es dabei?
+Mein Buchhaltungsapp ist total unübersichtlich geworden.
+Hast du die Quittungen vom letzten Jahr noch?
+Die Reisekostenabrechnung fällig nächste Woche endgültig.
+Ich suche meinen Kontoauszug vom Januar schon ewig.
+Warum wurde mir das Geld doppelt abgebucht worden?
+Die Rechnung vom Handy muss ich sofort bezahlen.
+Wir haben das Restaurant für Freitag endlich reserviert.
+Kann ich die Buchung auf nächsten Monat verschieben?
+Meine Ausgaben dieses Monat waren wirklich viel zu hoch.
+Der Überweisungsträger liegt noch auf meinem Tisch rum.
+Ich muss die Selbstständigengründung bald richtig dokumentieren.
+Hast du die PIN für das Onlinebanking gefunden?
+Die Nebenkostenabrechnung ist leider höher als erwartet worden.
+Mein Konto hat gestern Nacht einen negativen Saldo hatte.
+Wir sollen die Pauschalreisen vor Weihnachten abschließen können.
+Kannst du mal prüfen ob die Zahlung bereits ging?
+Ich hab die Belege noch nicht richtig sortiert bekommen.
+Die Jahressteuererklärung steht schon wieder vor der Tür.
+Hast du den Scheck vom Kunden auch schon eingezahlt?
+Ich brauche eine Übersicht aller letzten Bankumsätze dringend.
+Ich hab das Hotelzimmer erst mal bis Freitag gebucht.
+Kannst du mal checken ob die Überweisung rausgegangen ist?
+Die Rechnung von der Firma kommt heute noch an.
+Mein Kontoauszug war irgendwie wieder nicht da.
+Wir müssen die Reisekosten für den Business Trip klären.
+Hast du schon gezahlt oder wartest du auf mich?
+Ich habe das Ticket leider zwei Tage zu spät storniert.
+Die Nebenkostenabrechnung ist mir dieses Jahr etwas hoch gekommen.
+Soll ich den Termin einfach wieder löschen oder umplanen?
+Meine Kreditkartenausgabe sieht dieses Monat irgendwie wild aus.
+Ich muss noch schnell die Steuern für das letzte Quartal berechnen.
+Kommst du mit auf die Kasse bei dem Restaurant gleich?
+Die Gutschrift kam leider nicht rechtzeitig beim Finanzamt an.
+Hast du den Beleg noch irgendwo abgelegt oder schon weggetan?
+Das Hotel hat uns überraschend um ein Zimmer nach oben gewechselt.
+Ich kann die Rechnung erst nächsten Monat begleichen, sorry.
+Warum ist meine Dauerauftrag plötzlich gescheitert ohne Nachricht?
+Die Buchung für den Workshop war leider voll schnell ausgebucht.
+Kann ich die Zahlungsmethode noch auf PayPal umstellen vielleicht?
+Ich muss mir dringend eine App für die Ausgaben suchen.
+Die Stornogebühr ist wirklich abschreckend hoch in diesem Fall.
+Hast du schon gesehen dass das Geld angekommen ist auf dem Konto?
+Wir sollten mal überlegen wie wir die Ausgaben besser tracken.
+Das Restaurant hat versehentlich doppelt berechnet, da muss ich protestieren.
+Ich hab die Reiseversicherung noch nicht abgeschlossen ehrlich gesagt.
+Ich suche gerade die richtige Belegnummer für diese Ausgabe.
+Die Hotelrechnung kam leider noch nicht im Postfach an.
+Kannst du prüfen ob die Überweisung wirklich raus ging?
+Mir ist wieder mal ein Reisebon abhanden gekommen.
+Die Zahlen auf dem Kontoauszug stimmen einfach nicht überein.
+Ich muss am Wochenende endlich meine Ausgaben sortieren.
+Hat jemand Lust mir bei der Buchführung zu helfen?
+Die Kosten für das Essen sind noch offen im System.
+Storniere bitte die Buchung falls wir doch nicht kommen.
+Mein Geschäftskonto ist heute Abend komplett leer gewesen.
+Die Reisekostenabrechnung muss ich noch beim Chef abgeben.
+Kann ich den Betrag später auf meinem Privatkonto verbuchen?
+Ich habe versehentlich doppelt für das Hotel gezahlt.
+Der neue Steuerberater braucht alle Rechnungen vom letzten Jahr.
+Pass doch mal auf die Ausgaben bis zum Monatsende auf.
+Die Gutschrift für die Rücksendung ist endlich eingegangen.
+Ich finde die Originalquittung leider nirgends mehr wieder.
+Soll ich die Zahlung auf drei Raten aufteilen lassen?
+Das Onlinebanking hat mich bei der Überweisung rausgeworfen.
+Wir müssen dringend mal unsere gemeinsamen Ausgaben durchgehen.
+Die Miete war dieses Mal pünktlich auf meinem Konto.
+Ich hab vergessen die Fahrtkosten für das Meeting zu dokumentieren.
+Kannst du mir kurz die Zugangsdaten für die App schicken?
+Die letzte Rechnung hatte einen Tippfehler in der IBAN.
+Meine Ausgaben liegen diesmal deutlich unter dem geplanten Budget.
+Ich hab die Rechnung heute gerade per Mail geschickt.
+Kannst du mal checken ob das Geld schon da ist?
+Die Hotelrechnung fehlt mir noch für die Kostenabteilung.
+Wir müssen unsere Reisekosten bis Freitag einreichen.
+Hast du gesehen dass die Überweisung gescheitert ist?
+Ich schick dir gleich den Kontoauszug vom Vormonat zu.
+Leider konnte ich die Buchung nicht sofort bestätigen.
+Das Geld kommt erst nächste Woche wirklich auf meinem Konto an.
+Kannst du bitte die Stromrechnung von der Firma bezahlen?
+Ich habe vergessen die Belege für die Fahrt zu sammeln.
+Meine Kreditkarte wurde bei diesem Vorgang blockiert.
+Die Gutschrift sollte eigentlich schon längst verbucht sein.
+Hab ich dir die neue IBAN schon weitergegeben gestern?
+Wir müssen das Defizit im Kassenbuch schnell ausgleichen.
+Das Hotel hat mir keine Bestätigungsmail gesendet heute.
+Kann ich die Stornogebühren noch irgendwie verhandeln oder nicht?
+Ich sortiere gerade alle Lieferscheine für die Steuererklärung.
+Die Zahlungserinnerung kam wieder komplett zu früh bei mir an.
+Hast du schon gesehen dass der Übertrag nicht stimmt hier?
+Ich muss morgen unbedingt zum Bankfilz wegen dem Konto.
+Die Reisekostenabrechnung hat mich doch wirklich total gestresst.
+Kannst du die Quittung vom Supermarkt noch schnell einscannen?
+Mein Arbeitgeber zahlt die Unterkunft leider nur bis Montag.
+Wir haben einen Fehler in der Buchhaltung gefunden gestern Abend.
+Pass auf dass du den falschen Betrag nicht überweist bitte.
+Ich muss die Hotelrechnung erst noch einreichen.
+Kannst du prüfen ob die Überweisung gutgeschrieben wurde?
+Die Stornierungsgebühr ist echt krass hoch.
+Mein Kontoauszug ist leider wieder falsch berechnet worden.
+Wir haben das Meeting kurzfristig um zwei Stunden verschoben.
+Hast du schon die Gutschrift für den Fehlkauf erhalten?
+Die Buchung ist leider doch nicht gesichert worden.
+Ich richte dir eine Dauerauftrag für die Miete ein.
+Wo finde ich eigentlich den Beleg für diese Ausgabe?
+Die Reisekostenabrechnung muss bis Freitag bei mir sein.
+Kann ich meine Kreditkartendaten im Portal aktualisieren?
+Der Betrag wurde gestern Abend von meinem Konto abgebucht.
+Ich hab vergessen die Quittung beim Supermarkt abzuholen.
+Bitte sende mir den neuen Zahlungslink per Mail.
+Die Rechnung kam leider nicht rechtzeitig zur Bearbeitung an.
+Wir müssen das Hotelzimmer auf morgen Vormittag verschieben.
+Hast du gesehen dass die Gebühr gestiegen ist?
+Die Gutschrift dauert wohl noch ein paar Werktage.
+Ich suche verzweifelt nach dem Buchungsbestätigungsmail.
+Mein Girokonto hat heute einen ungewöhnlichen Saldo.
+Kann ich die Zahlungslimits für Onlinekäufe erhöhen lassen?
+Die Rückabwicklung der Karte funktioniert irgendwie nicht richtig.
+Hast du den neuen Preiskatalog schon bekommen?
+Ich muss meine Ausgaben dieses Monats noch sortieren.
+Die Überweisung wurde wohl vom Bankautomaten blockiert.
+Ich hab die Hotelrechnung gerade bezahlt.
+Kannst du mal den Kontoauszug prüfen?
+Die Stornierungsgebühr ist echt nervig hoch.
+Wann kommt denn das Geld auf meinem Konto an?
+Ich muss noch die Reisekosten einsparen.
+Hast du die Überweisung schon freigegeben?
+Das Zimmer war leider doch zu teuer.
+Bitte schick mir den Beleg per Mail.
+Mein Konto sieht in diesem Monat übel aus.
+Die Gutschrift fehlt immer noch irgendwie.
+Kann ich die Buchung einfach stornieren?
+Ich hab das Frühstück vergessen zu buchen.
+Der Umsatz ist diesmal deutlich höher gewesen.
+Hast du die IBAN schon kontrolliert?
+Die Rechnungen stapeln sich gerade auf dem Tisch.
+Ich zähle das Geld noch einmal durch.
+Die Kreditkarte hat wieder einen Fehler gemacht.
+Wann läuft der nächste Lastschriftabgleich ab?
+Ich muss die Ausgaben doch noch aktualisieren.
+Die Gutschrift kommt hoffentlich nächste Woche an.
+Kannst du den Betrag nochmal überprüfen?
+Das Budget ist schon fast aufgebraucht.
+Ich hab die Datei im falschen Ordner gespeichert.
+Warte mal mit dem Bezahlvorgang bitte.
+Die Überweisung dauerte diesmal ewig lang.
+Soll ich das Geld zurückweisen oder behalten?
+Ich schick dir gleich die Überweisungsbestätigung.
+Kannst du mal schauen ob die Rechnung schon da ist?
+Das Hotelzimmer musst du heute noch stornieren lassen.
+Hab vergessen die Ausgaben für das Wochenende zu notieren.
+Der Kontoauszug war leider wieder nicht im Briefkasten.
+Ich bezahle den Restbetrag nächste Woche per SEPA.
+Hast du die Nebenkostenabrechnung schon erhalten?
+Mein Geld kommt erst morgen auf dem Konto an.
+Die Reiseversicherung habe ich direkt online abgeschlossen.
+Wir müssen noch überlegen wie wir das teilen.
+Das Geld für die Miete habe ich schon überwiesen.
+Kannst du mir kurz deine IBAN zumatschen?
+Ich hab den Termin für die Steuererklärung vergessen.
+Die Gutschrift ist endlich auf meinem Konto gelandet.
+Hast du bereits eine Quittung für das Mittagessen?
+Der Betrag stimmt mit dem Angebot nicht überein.
+Ich muss noch den Pfandbetrag von der Kasse abziehen.
+Schick mir bitte ein Foto vom Buchungsbestätigungsschein.
+Die Jahresrechnung ist schon längst fällig geworden.
+Ich habe die Hotelanfrage erst gestern Abend gestellt.
+Kann ich das Ticket nochmal um 20 Euro nachbuchen?
+Mein Arbeitgeber überweist das Gehalt heute Abend.
+Die Rechnungen liegen noch unsortiert auf dem Schreibtisch.
+Hast du das Geld für den Ausflug gesammelt?
+Ich brauche noch die Unterlagen für die Finanzkontrolle.
+Ich hab vergessen die Parkgebühren hochzuladen.
+Die Buchung wurde leider schon storniert.
+Machst du den Lastschrifteinzug für das Hotel?
+Mein Kontoauszug hat drei Dubletten drauf.
+Das Frühstück muss ich noch separat bezahlen.
+Kannst du mir die Zahlungsbestätigung zusenden?
+Ich finde meine Reisekostenabrechnung nirgendwo.
+Die Rechnung war schon längst beglichen worden.
+Wir müssen die Stornogebühr noch regeln.
+Hast du die Überweisung gestern schon getätigt?
+Meine Kreditkarte wurde zweimal belastet heute.
+Die Gutschrift kam gar nicht auf meinem Konto an.
+Ich muss die Fahrkosten in der Liste eintragen.
+Das Zimmer war doch schon vorab bezahlt worden.
+Kann ich die Anzahlung noch zurückfordern?
+Der Beleg fehlt leider für die Krankenkasse.
+Wir zahlen den Restbetrag erst bei Ankunft.
+Die Buchung bestätigung hab ich per Mail bekommen.
+Mach mal schnell den Screenshot vom Kontoauszug.
+Ich muss nochmal nachzahlen für das Upgrade.
+Die Stornierung war kostenpflichtig und überteuert.
+Hast du die Daten für die Überweisung?
+Meine Ausgaben waren dieses Monat echt hoch.
+Das Ticket wird direkt am Schalter gebucht.
+Wir müssen den Betrag noch aufteilen.
+Ich muss noch die Hotelrechnung hochladen.
+Hast du den Gutschein schon eingelöst?
+Die Überweisung kam gestern Mittag an.
+Kann ich die Buchung noch ändern?
+Mein Kontoauszug ist wieder komplett falsch.
+Wir haben das Restaurant zu spät gebucht.
+Bitte schick mir mal die Bestätigungsmail.
+Ich hab versehentlich doppelt bezahlt ätsch.
+Die Stornierungsgebühr ist wirklich übel hoch.
+Hast du schon den Termin für die Reise?
+Die Kreditkarte war leider schon gesperrt.
+Kannst du mal nachschauen ob es kam?
+Ich hab das Hotel erst letzte Nacht gebucht.
+Rechnung bitte bis Freitag einsenden okay.
+Da fehlt noch eine Unterschrift drauf.
+Warum ist die Belastung nicht sichtbar?
+Ich muss die Ausgaben nochmal durchgehen.
+Hast du den Betrag schon überwiesen?
+Die Buchung war irgendwie nicht ganz klar.
+Bitte schreib mir kurz ob alles passt.
+Ich hab den Scheck am Geldautomaten eingelöst.
+Kann man das online noch rückgängig machen?
+Mein Finanzamt fragt nach der Quittung.
+Hast du die Daten schon eingetragen?
+Die Gebühr war im Preis inbegriffen.
+Ich vergiss immer meine Kreditkartendaten.
+Wo ist nochmal die Abonnementnummer für das Hotel?
+Die Buchungsmail ist irgendwie im Spam gelandet.
+Muss ich noch was für die Reisekosten einreichen?
+Ich hab versehentlich den falschen Betrag überwiesen.
+Kannst du mal checken ob die Gutschrift da ist?
+Mein Kontoauszug zeigt immer diese seltsamen Gebühren.
+Die Stornierungsgebühr war wirklich viel zu hoch.
+Hast du schon die Quittung fürs Taxi fotografiert?
+Ich finde meine Reservierungsbestätigung einfach nicht.
+Wir müssen die Hotelrechnung noch mit der Firma abrechnen.
+Der Online-Banking-Zugang funktioniert heute wieder nicht.
+Ich hab vergessen das Auto für den Urlaub zu buchen.
+Kann ich die Gutschrift auf mein Girokonto umleiten?
+Die Überweisung dauert leider länger als drei Tage.
+Meine Ausgaben für Essen sind dieses Monat explodiert.
+Hast du gesehen wie viel Steuern wir zurückbekommen?
+Ich muss dringend meinen Online-Banking-Passwort ändern.
+Die Reiseversicherung war doch nicht automatisch mit dabei.
+Kannst du mir die IBAN noch einmal als Text schicken?
+Ich hab das Hotelzimmer gestern schon selbst storniert.
+Warum wird meine monatliche Miete immer spät abgebucht?
+Die Boni von der Firma sind endlich auf dem Konto.
+Ich vergesse nie mein Passwort aber ständig den Usernamen.
+Hast du die Unterlagen für die Steuererklärung gesammelt?
+Ich habe den Hotelbeleg vergessen zu Hause liegen gelassen.
+Kannst du kurz schauen ob die Überweisung schon da ist?
+Die Rechnung kam leider etwas früher als erwartet bei mir an.
+Wir müssen das Flugticket für nächste Woche unbedingt stornieren.
+Mein Kontoauszug zeigt nur drei Transaktionen diesen Monat auf.
+Ich hab die Nebenkosten noch nicht mit der Miete verrechnet.
+Soll ich den Betrag per PayPal oder direkt überweisen?
+Die Buchung für das Seminar hat leider schiefgegangen gestern.
+Kann ich die Rechnung auf zwei Monate aufsplitten bitte?
+Der Geldautomat hat heute Morgen wieder mal keine Scheine mehr.
+Ich muss noch die Reisekosten für die Dienstreise einreichen.
+Hast du gesehen dass die Belastung auf dem Konto schon steht?
+Die Hotelrechnung ist viel teurer als wir eigentlich gedacht haben.
+Kannst du mir kurz die Überweisungsdaten per WhatsApp schicken?
+Ich habe den Buchhaltungsordner schon lange nicht mehr aktualisiert.
+Wir sollten die offenen Posten bis Freitag alle klären.
+Die Gutschrift für die Stornierung kommt erst im nächsten Monat.
+Hast du schon die Abgabe der Zahlen an den Steuerberater gemacht?
+Meine Ausgaben waren diesen Monat deutlich höher als geplant.
+Ich muss noch den Freibetrag bei der Bank angeben.
+Kann ich die Buchung für das Konzert noch auf meinen Freund umbuchen?
+Die Rechnung wurde versehentlich doppelt eingerechnet von der Firma.
+Wir müssen die Bargeldauszahlung bis morgen Mittag machen.
+Hast du den Beleg für die Tankstelle schon abfotografiert?
+Ich bin mir unsicher ob die Überweisung wirklich angekommen ist.
+Ich muss die Hotelrechnung noch einreichen.
+Kannst du mal schauen ob das Geld eingegangen ist?
+Die Buchung wurde leider automatisch storniert.
+Ich finde den Kontoauszug von letzten Monat nicht mehr.
+Wir müssen die Reisekosten für die Dienstreise klären.
+Hast du schon gebucht oder soll ich mich drum kümmern?
+Die Überweisung dauert apparently länger als erwartet.
+Ich hab versehentlich das falsche Datum eingegeben.
+Kannst du die Gutschrift bitte an den Buchhalter mailen?
+Mein Konto ist im roten Bereich, peinlich wirklich.
+Die Hotelkosten müssen noch vom Arbeitgeber übernommen werden.
+Ich muss dringend meine Ausgaben für die Finanzamt sortieren.
+Wann kommt die nächste Abrechnung vom Vermieter genau?
+Ich hab keine Lust mehr auf diese Papierkram zu machen.
+Die Rechnung hat sich verzögert weil der Server down war.
+Können wir die Reservierung auf morgen abends verschieben?
+Ich muss noch den Mietvertrag mit neuen Daten aktualisieren.
+Hast du den Beleg für das Taxi schon gesichert?
+Ich verzichte lieber auf das Frühstück am nächsten Morgen.
+Meine Ausgaben sind diesen Monat wieder viel zu hoch.
+Kannst du prüfen ob die Zahlung wirklich ankam?
+Die Stornierungsgebühr ist absolut überzogen meiner Meinung nach.
+Ich sortiere gerade alle Quittungen aus dem Urlaub.
+Hast du deine Bankdaten schon aktualisiert oder bleibt alles gleich?
+Wir müssen die Hotelzimmer bis morgen buchen.
+Die Rechnung ist leider noch nicht angekommen.
+Hast du schon überweisen können?
+Ich muss meine Ausgaben für das Finanzamt sammeln.
+Kannst du den Scheck nochmal überprüfen bitte?
+Die Kreditkarte wurde am Freitag belastet.
+Ich hab die Reisekosten noch nicht eingereicht.
+Unser Kontoauszug fehlt irgendwie komplett diesen Monat.
+War die Buchung wirklich kostenlos stornierbar?
+Die Überweisung läuft seit Tagen durch das System.
+Ich muss meine Privatumsätze trennen, sonst wirds kompliziert.
+Hast du den Beleg für die Reise noch?
+Das Restaurant hat eine falsche Rechnung gestellt.
+Wir sollten den Betrag auf mein Konto überweisen.
+Die Buchungen im kleinen Budget sind immer mühsam.
+Kann ich die Buchung auf deinen Namen ändern?
+Die Rücklastschrift kam überraschend gestern an.
+Ich muss noch die Zahlen für die Steuer prüfen.
+Hat dir das Hotel die Bestätigung schon gesendet?
+Die Ausgaben liegen dieses Monat deutlich über dem Plan.
+Wir müssen nochmal die Buchungsbestätigung kontrollieren.
+Der Betrag wurde leider doppelt abgebucht, merkwürdig.
+Hast du schon nach der Rechnung für das Auto gesucht?
+Ich schicke dir die Details zur Überweisung gleich.
+Kannst du mal schauen ob die Überweisung ging.
+Die Rechnung vom Hotel ist leider falsch berechnet worden.
+Ich muss noch meine Ausgaben für das Büro eintragen.
+Hast du schon den Kontoauszug von gestern geprüft?
+Wir müssen das Zimmer nochmal buchen weil es leer war.
+Die Gutschrift kam heute endlich bei uns an.
+Kann ich die Buchung erst nächste Woche tätigen?
+Ich habe vergessen das Frühstück mitzubestellen beim Hotel.
+Wo finde ich denn den Beleg für diese Ausgabe?
+Die Überweisung hat länger gedauert als üblicherweise.
+Muss ich die Reisekosten noch separat abrechnen lassen?
+Der Betrag auf dem Konto stimmt irgendwie nicht überein.
+Kannst du mir sagen ob die Buchung geklappt hat?
+Ich habe einen Fehler bei der Eingabe gemacht.
+Die Stornierung ist kostenlos bis zum Freitag morgen.
+Wir brauchen noch den Beleg für die Firmenrechnung.
+Hast du die Daten für die Jahressteuer gesammelt?
+Die Gutschrift wird wohl erst nächste Woche gutgeschrieben.
+Kann ich das Hotelzimmer auf einen anderen Namen umschreiben?
+Ich habe die Rechnung per E-Mail bekommen und gedruckt.
+Wo ist der Scheck von letzter Monat geblieben?
+Die Ausgaben für Fahrten muss ich noch zusammenfassen.
+Hast du bereits den Nachweis über die Zahlung gemacht?
+Der Kontostand sieht nach dem Urlaub ziemlich schlecht aus.
+Ich muss nochmal prüfen ob alles richtig gebucht wurde.
+Ich muss die Hotelrechnung noch hochladen.
+Wann kommt das Geld auf mein Konto an?
+Die Buchung fürs Meeting ist leider schon belegt.
+Kannst du mir den Beleg kurz per Mail schicken?
+Mein Gehalt ist heute Abend gutgeschrieben worden.
+Wir müssen die Mietzahlung noch bis Freitag tätigen.
+Hast du gesehen, wie teuer die Übernachtung war?
+Die Stornierungsgebühr finde ich persönlich doch arg hoch.
+Ich habe die Selbstkosten für den Arbeitsweg vergessen.
+Lass uns mal schauen, ob die Gutschrift schon da ist.
+Der Kontoauszug hat mich dieses Mal echt verunsichert.
+Kannst du prüfen, ob die Überweisung rausgegangen ist?
+Mein Budget für das Wochenende ist komplett aufgebraucht.
+Die Nebenkostenabrechnung liegt seit Monaten im Briefkasten.
+Ich muss noch den Pfandwert bei der Reiseanmeldung angeben.
+Warum wird immer wieder von meinem Geld abgeholt?
+Die Vorlage für die Steuererklärung fehlt mir noch.
+Hast du schon mal eine Rechnung aus dem Urlaub erstellt?
+Ich bezweifle, dass das Geld bis morgen da ist.
+Die Anzahlung habe ich gestern Abend überwiesen und bestätigt.
+Kannst du mir sagen, wie viel noch offen steht?
+Mein Konto ist im Minus, weil ich alles übersahen.
+Die Buchung wurde automatisch um eine Woche verschoben.
+Ich suche vergeblich nach dem Bestätigungsmail vom Hotel.
+Wir sollten die Ausgaben für das Projekt nochmal prüfen.
+Kannst du mir sagen, wann die Gutschrift kommt?
+Die Buchung ist leider schon vollständig ausgebucht.
+Ich hab vergessen, die Nebenkosten mitzubuchen.
+Wann genau wird der Betrag abgebucht?
+Mein Kontoauszug zeigt immer noch keine Bewegung.
+Hast du die Stornierungsbestätigung erhalten?
+Die Überweisung war wieder zu wenig gedeckt.
+Ich muss meine Ausgaben für den Urlaub auflisten.
+Kann ich das Ticket noch bis morgen stornieren?
+Die Rechnung ist im Posteingang verschwunden.
+Bitte überweise den Restbetrag auf mein Sparkonto.
+Ich finde die Buchung nicht mehr in der Historie.
+Das Zimmer wurde fälschlicherweise doppelt gebucht.
+Ich brauche eine Bestätigung für die Steuererklärung.
+Die Überweisungslaufzeit ist dieses Mal sehr lang.
+Hast du schon geprüft, ob alles korrekt verbucht wurde?
+Mein Girokonto hatte gestern einen negativen Saldo.
+Kann man die Zahlung auf mehrere Monate verteilen?
+Die Reisekostenabrechnung ist komplizierter als gedacht.
+Ich hab den Bon für den Parkplatz verloren.
+Der Betrag wurde bereits am Freitag eingewiesen.
+Hast du die Pin-Nummer für das Online-Banking geändert?
+Ich muss noch das Mietwagen-Ticket einreichen.
+Ich muss die Hotelrechnung noch bezahlen.
+Kannst du mal schauen ob das Geld da ist?
+Die Überweisung kam leider nicht bei mir an.
+Ich habe versehentlich den falschen Betrag eingetippt.
+Wo finde ich meinen letzten Kontoauszug eigentlich wieder?
+Wir müssen die Reisekosten nochmal genau prüfen.
+Das Hotel hat uns noch nicht geantwortet.
+Hast du schon das Geld für die Mietwagenüberweisung überwiesen?
+Die Buchung wurde automatisch storniert weil wir zu lange nichts gemacht haben.
+Ich schick dir die Rechnung gleich per Mail.
+Der Zins ist dieses Jahr wieder gestiegen merkst du das?
+Kann ich mein Guthaben einfach auf ein anderes Konto umleiten?
+Die Sperrung meines Kontos war echt nervig gestern.
+Ich muss mir eine neue Kreditkarte bestellen meine ist abgelaufen.
+Hast du den Bon vom Supermarkt noch irgendwo?
+Die Reiseversicherung haben wir glücklicherweise doch noch zugeschlagen.
+Alles passt mit den Ausgaben diesen Monat eigentlich ganz gut.
+Kannst du mal die Nebenkostenabrechnung durchschauen bitte?
+Das Geld ist gestern Abend endlich auf meinem Konto erschienen.
+Ich habe vergessen das Abo zu kündigen und bezahle trotzdem.
+Die Buchung für das Restaurant muss ich verschieben.
+Wo kann ich meine alten Bankunterlagen denn einsehen?
+Der Wechselkurs für unsere Reise war diesmal ziemlich schlecht.
+Ich brauche einen Auszug für das Finanzamt kannst du den machen?
+Das Online Banking hakt wieder mal seit einer halben Stunde.
+Ich vergesse immer meine Kontoauszüge zu sortieren.
+Die Gutschrift ist leider noch nicht eingegangen.
+Kannst du kurz schauen ob die Buchung geklappt hat?
+Ich muss diese Spesenmeldung bis morgen einreichen.
+Der Überweisungsträger liegt schon seit Wochen rum.
+Wir haben das Hotelzimmer kurzerhand storniert.
+Ist die Rechnung wirklich erst nächsten Monat fällig?
+Ich hab den Betrag schon vor drei Tagen überwiesen.
+Meine Ausgaben passen dieses Jahr gar nicht mehr.
+Hast du die Bestätigungsmail auch nochmal gespeichert?
+Die Nebenkostenabrechnung ist wieder total verwirrend.
+Ich suche immer nach dem richtigen Beleg im Ordner.
+Könntest du mir kurz die Umsatzsteuer erklären?
+Das Konto war gestern Abend schon komplett leer.
+Ich habe den Termin für die Bank geändert.
+Warum steht auf dem Auszug plötzlich ein Minus?
+Die Reisekosten erstatten sie uns nie rechtzeitig.
+Ich muss noch drei Rechnungen einscannen und mailen.
+Hast du den Lastschriftauftrag wieder beibehalten oder widerrufen?
+Ich verzweifle immer an diesen versteckten Gebühren.
+Kann ich die Zahlung vielleicht doch noch rückgängig machen?
+Die jährliche Steuererklärung ist wirklich nervenaufreibend.
+Mein Mann kümmert sich komplett um die Finanzen.
+Hast du schon gesehen wie hoch die Zinsen sind?
+Ich habe die Hotelrechnung gerade bezahlt.
+Kannst du mir den Kontoauszug schicken?
+Wir müssen die Flugtickets noch stornieren.
+Die Buchung für Freitag ist leider ausgebucht.
+Ich vergaß die Nebenkosten in der Übersicht.
+Hast du schon die Anzahlung überwiesen?
+Mein Buchhaltungsprogramm macht wieder Probleme bei den Eingaben.
+Kann ich das Zimmer auf morgen verlängern?
+Die Reisekostenmeldung muss bis Freitag fertig sein.
+Ich brauche die Bestätigungsmail für die Buchung.
+Warum ist die Überweisung noch nicht angekommen?
+Der Kontoauszug stimmt mit meinen Ausgaben nicht überein.
+Ich habe versehentlich doppelt bezahlt und will Geld zurück.
+Kannst du prüfen, ob die Rechnung schon gesendet wurde?
+Wir haben das Hotelzimmer bis zum Check-in gebucht.
+Die Buchungen für die Teamevents sind alle bestätigt.
+Ich muss noch meine Ausgaben für die Reise eintragen.
+Hast du die Quittung vom Restaurant abfotografiert?
+Die Fälligkeit der Rechnung wurde um einen Monat verlängert.
+Kann ich die Buchung ohne Kosten löschen lassen?
+Mein Konto ist nach der Überweisung negativ geworden.
+Ich suche immer wieder meine alten Buchhaltungsunterlagen.
+Die Stornogebühr war diesmal wirklich zu hoch angesetzt.
+Hast du die Bankdaten für die neue Rechnung eingegeben?
+Ich habe den Kontoauszug heute endlich bekommen.
+Die Überweisung ist leider noch nicht angekommen.
+Kannst du kurz schauen, ob das Geld da ist?
+Ich muss diese Ausgabe nochmal nachbuchen.
+Die Rechnung vom Hotel war etwas zu hoch.
+Wir sollten das Reisekonto mal aufräumen.
+Hast du die Bestätigungsmail auch erhalten?
+Das Ticket muss ich mir noch erstatten lassen.
+Meine Karte wurde an einer unbekannten Stelle geladen.
+Ich traue den Online-Überweisungen nicht so ganz.
+Die Stornierung war komplett gratis für mich.
+Kann ich die Buchung doch wieder löschen?
+Ich such überall nach der alten Rechnung.
+Die Gebühren sind mir irgendwie zu viel.
+Wir müssen das Geld bis morgen überweisen.
+Das Konto ist aktuell leider gesperrt.
+Ich hab die Quittung in meiner Börse.
+Die Abrechnung kommt nächsten Monat bestimmt wieder.
+Kannst du kurz prüfen, ob alles richtig gebucht wurde?
+Das Zimmer war ganz anders als beschrieben.
+Ich muss meine Reisekosten noch melden.
+Die Gutschrift ist noch nicht sichtbar.
+Hast du die Kreditkarte schon gesperrt?
+Der Zuzahlungsbetrag fehlt leider auf dem Konto.
+Ich hab vergessen das Hotel zu bestätigen.
+Wir brauchen einen neuen Beleg für die Steuer.
+Die Rechnung kam heute endlich per Mail an.
+Ich muss morgen meine Ausgaben eintragen.
+Hast du schon gezahlt oder soll ich übernehmen?
+Der Abgleich stimmt leider immer noch nicht.
+Kannst du bitte die Überweisung bestätigen?
+Ich hab den Termin auf nächste Woche verschoben.
+Da fehlt irgendwie eine Position in der Liste.
+Die Hotelrechnung war höher als erwartet.
+Bitte schick mir mal die Belegnummer durch.
+Mein Kontoauszug ist heute angekommen.
+Ich muss die Reisekosten nochmal prüfen.
+Hast du die Gutschrift schon erhalten?
+Die Buchung wurde automatisch storniert gestern.
+Kann ich den Betrag auf mein neues Konto umleiten?
+Wir müssen noch die offenen Posten klären.
+Der Vorgang dauerte länger als gedacht heute.
+Ich hab den Fehler im Auszug gefunden.
+Soll ich die Rechnung direkt per App bezahlen?
+Die Quittung hast du doch sicher aufgehoben oder?
+Es gab eine Änderung bei der Buchungsbestätigung.
+Die Hotelrechnung ist leider nicht auf der Karte abgebucht worden.
+Kannst du kurz schauen ob die Überweisung schon rausgegangen ist?
+Ich vergaß komplett die Bahnkarte für den Rückweg zu bezahlen.
+Der Betrag stimmt auf dem Kontoauszug einfach nicht überein.
+Wir müssen die Kosten für das Abendessen noch eintragen.
+Hast du schon die Quittung vom Supermarkt fotografiert und hochgeladen?
+Die Buchung fürs Hotel in München wurde automatisch storniert.
+Ich suche immer nach den alten Belege wenn ich keine Lust habe.
+Kann man die Anzahlung für die Ferienwohnung noch zurückbekommen?
+Der Überweisungscode war falsch daher kam das Geld nicht an.
+Mein Konto ist im Minus weil ich zu oft bezahle.
+Die Miete wird heute Vormittag automatisch vom Girokonto abgezogen.
+Ich hab die Rechnungen aus dem Urlaub noch gar nicht sortiert.
+Passt der Betrag auf der Rechnung denn mit dem Gutschein überein?
+Wir sollten die Ausgaben für das Jahr nochmal genau durchgehen.
+Die Stornierungsgebühr war deutlich höher als ich vermutet hätte.
+Kannst du mir bitte deine IBAN für die Rückzahlung schicken?
+Ich habe den Termin in der App versehentlich doppelt gebucht.
+Der Kontoauszug ist heute Morgen endlich per Post angekommen.
+Wie teile ich die Kosten am besten unter uns auf?
+Die Zahlungsmethode wurde abgelehnt obwohl genug Geld drauf war.
+Ich muss noch das Parkticket für die Stadtmitte buchen.
+Hast du den Beleg für die Reisekosten noch im Ordner liegen?
+Die Gutschrift ist immer noch nicht auf dem Konto eingegangen.
+Wir haben den Fehler bei der Buchung erst zu spät bemerkt.
+Ich habe das Hotelzimmer gestern gebucht.
+Die Rechnung muss ich noch scannen.
+Kannst du die Überweisung bestätigen?
+Mein Kontoauszug ist heute angekommen.
+Wir müssen die Reisekosten abklären.
+Die Stornierung war leider nicht kostenlos.
+Hast du die Belege schon sortiert?
+Ich brauche noch die Zuzahlung für das Zimmer.
+Die Gutschrift hat drei Tage gedauert.
+Mein Finanzamt möchte mehr Unterlagen sehen.
+Kann ich die Buchung einfach löschen?
+Der Betrag stimmt mit der Rechnung überein.
+Ich habe den Scheck leider verlegt.
+Wir rechnen die Übernachtung später ab.
+Die Selbstbehaltsumlage muss noch bezahlt werden.
+Hast du die Quittung vom Taxi?
+Mein Girokonto ist aktuell gesperrt.
+Die Jahresrechnung schicke ich morgen.
+Kannst du den Zahlungsabschluss machen?
+Ich habe einen Buchungsfehler entdeckt.
+Die Nebenkosten sind jetzt fällig.
+Wir brauchen noch deine Steuernummer.
+Der Überweisungsauftrag lief wieder durch.
+Hast du die Reiseversicherung bezahlt?
+Mein Konto ist aktuell überzogen.
+Ich muss den Hotelcheck noch einmal nachbuchen lassen.
+Kommst du bis morgen mit der Auswertung klar?
+Die Rechnungen stapeln sich schon wieder wild im Schublade.
+Hast du gesehen dass die Überweisung gestern abging?
+Mein Kontoauszug hat erst heute endlich gepostet.
+Ich vergesse immer wieder die Parkgebühren zu verbuchen.
+Können wir das Meeting kurz um eine Stunde verschieben?
+Die Gutschrift sollte jetzt auf dem neusten Kontoauszug stehen.
+Muss ich für die Zugkarte noch was nachbezahlen?
+Die Kreditkartenabrechnung von letztem Monat ist schon da.
+Ich hab die Kosten für das Taxi noch nicht eingetragen.
+Die Reisekosten haben sich deutlich höher als gedacht angesammelt.
+Kannst du kurz prüfen ob die Zahlung bereits eingegangen ist?
+Das Zimmer in Berlin war leider total ausbuchten gestern.
+Ich muss mich um die Jahresabrechnung wirklich kümmern bald.
+Die Überweisungslimits meiner Bank sind echt nervig gerade.
+Hast du den Bon vom Supermarkt noch irgendwo liegen?
+Wir müssen die Miete dieses Mal früher überweisen sonst.
+Der Buchhaltungssoftware Crash hat mir richtig zu schaffen gemacht heute.
+Ich frage mich ob die Stornogebühren wirklich so hoch sein müssen.
+Die Ausgaben für Kaffee summiert sich doch irgendwann unglaublich.
+Kann ich meine Buchung auf nächstes Jahr einfach verschieben lassen?
+Mein Konto ist durch die vielen Kleinüberweisungen total unübersichtlich geworden.
+Hast du schon mal versucht deine Reisekosten online zu melden?
+Ich schick dir gleich die Buchungsbestätigung per Mail.
+Die Hotelrechnung ist nochmal deutlich höher als gedacht.
+Kannst du kurz nachgucken ob die Überweisung angekommen ist?
+Mein Kontoauszug von letzter Monat fehlt noch komplett.
+Wir müssen das Dinner nochmal extra abrechnen lassen.
+Hab gerade festgestellt dass ich doppelt gebucht habe.
+Die Stornogebühr war diesmal leider ziemlich krass hoch.
+Sag mal hast du schon die Nebenkosten umgerechnet?
+Ich muss morgen die Kassenbuchhaltung aufräumen und sortieren.
+Die Gutschrift vom Restaurant ist endlich auf dem Konto.
+Lass uns die Reisekostenabrechnung heute Abend nochmal checken.
+Ich hab vergessen die Parkgebühren einzutragen im Planer.
+Warum dauert die Freigabe für die Bezahlung so lange?
+Du solltest die Quittungen noch vor der Woche einscannen.
+Die monatlichen Fixkosten sind dieses Mal leicht gesunken.
+Kann ich die Reservierung einfach telefonisch rückgängig machen?
+Ich brauche die letzte Umsatzsteuererklärung unbedingt bis Freitag.
+Die Überweisungsdaten fehlen mir noch für den Vermieter.
+Hast du schon gesehen dass die Bankgebühr gestiegen ist?
+Mein Buchhaltungsprogramm meldet wieder mal einen Fehlercode.
+Wir müssen die Reisekosten noch mit dem Chef abklären.
+Die Rechnung vom Steuerberater ist leider zu hoch ausgefallen.
+Ich muss die Ausgaben für das Wochenende nochmal durchgehen.
+Kannst du mir kurz sagen ob die Gutschrift kam?
+Die digitalen Belege sind jetzt endlich alle archiviert und sicher.
+Ich habe den Gutscheincode nicht gefunden.
+Wo ist denn die Bestätigungsmail geblieben.
+Die Überweisung sollte bis morgen ankommen.
+Kannst du mal schauen ob das Geld da ist.
+Ich muss die Ausgaben für die Fahrt noch buchen.
+Das Hotelzimmer war leider schon ausgebucht.
+Wir müssen die Rechnung noch mit der Versicherung klären.
+Hast du den Bon vom Supermarkt gesammelt.
+Die Abbuchung hat gestern abends funktioniert.
+Mein Kontoauszug ist heute vormittag angekommen.
+Ich vergesse immer das Passwort für Onlinebanking.
+Lass uns das Geld erst später überweisen.
+Die Stornierungskosten waren deutlich höher als erwartet.
+Wir sollten doch mal unsere Konten zusammenführen.
+Hast du schon die Reiseversicherung abgeschlossen.
+Der Betrag stimmt auf meinem Konto nicht.
+Ich brauche den Beleg für die Steuererklärung.
+Könntest du bitte die Nebenkostenrechnung prüfen.
+Die Gutschrift wurde leider noch nicht verbucht.
+Wir müssen das Guthaben noch zurückzahlen.
+Hat schon jemand die Uber-Rechnung beglichen.
+Ich finde meine Kreditkartendaten nirgends mehr.
+Die Monatsabrechnung kommt meist um den Fünfzehnten.
+Kann ich das Geld bar bezahlen statt per Karte.
+Hast du den Transfer an dein Konto gesehen.
+Wir brauchen noch einen zweiten Ausweis dafür.
+Ich habe die Hotelrechnung per Post bekommen.
+Kannst du mir sagen ob die Buchung geklappt hat?
+Mein Kontoauszug hat heute endlich mal gepasst.
+Die Stornierungsgebühr finde ich doch etwas krass.
+Ich muss noch den Zuschlag für das Upgrade bezahlen.
+Hast du schon gesehen dass die Überweisung abgewickelt wurde?
+Kann ich die Reise auf nächsten Monat verschieben?
+Die Quittung liegt mir leider irgendwie nicht vor.
+Ich hab vergessen den Betrag auf dem Konto zu haben.
+Wie lange dauert es bis das Geld wirklich da ist?
+Der Betrag auf der Rechnung passt einfach nicht zusammen.
+Kannst du prüfen ob die Zahlung bei dir angekommen ist?
+Ich brauche dringend einen Nachweis für die Reisekosten.
+Die Stornierung war zum Glück noch ohne zusätzliche Kosten möglich.
+Hast du schon das Konto für die Überweisung erstellt?
+Mir fehlt immer noch die Bestätigung für meine Buchung.
+Das Geld wurde wohl schon vor zwei Tagen gebucht.
+Kann ich die Rechnung auch mal in kleineren Teilen zahlen?
+Ich muss schnellstmöglich den Reisekostenantrag wieder einreichen.
+Die Gebühren dafür haben mich doch etwas überrascht wirklich.
+Hast du meinen Antrag zur Rückerstattung schon abgeschickt?
+Das Hotel hat mir leider erst jetzt geantwortet endlich.
+Ich sollte vielleicht nochmal die Überweisungsdaten kontrollieren.
+Wo finde ich den Beleg für diese letzte Buchung eigentlich?
+Hab vergessen den Parkausweis zu buchen.
+Kommst du noch mit zum Essen am Freitag.
+Mein Kontoauszug ist wieder mal nicht da.
+Ich muss die Rechnungen vom Urlaub einreichen.
+Hast du schon die Miete überwiesen oder?
+Das Zimmer war leider schon ausgebucht gestern.
+Wir können die Tickets doch nochmal tauschen.
+Die Nebenkostenabrechnung kommt erst im Mai an.
+Ich hab mich bei der Buchung vertippt glaube ich.
+Kannst du mir den Link zur Bank schicken?
+Mein Reisebudget ist schon fast komplett aufgebraucht.
+Die Gutschrift wurde vor drei Tagen überwiesen.
+Ich habe die Hotelreservierung per Telefon gemacht.
+Wieso steht da plötzlich ein Abbuchung von Amazon?
+Wir müssen uns um ein neues Zimmer kümmern.
+Die Versicherung hat den Schaden leider abgelehnt.
+Hast du den Beleg für das Taxi mitgebracht?
+Mein Gehalt kommt morgen wieder pünktlich rein.
+Ich muss dringend meine Kreditkarte sperren lassen.
+Die Stromrechnung war dieses Mal etwas höher.
+Können wir die Rückreise vielleicht auf Freitag legen?
+Ich habe den Scheck schon bei der Bank eingereicht.
+Warum dauert die Überweisung ins Ausland so lange?
+Das Restaurant haben wir leider zu spät gebucht.
+Meine Ausgaben für Essen waren im Monat hoch.
+Ich habe den Hotelbeleg leider verloren.
+Musst du noch die Miete überweisen?
+Die Rechnung von letztem Monat ist kaputt.
+Kann ich die Buchung morgen stornieren?
+Mein Kontoauszug hat sich verzögert.
+Wir müssen die Nebenkosten noch abrechnen.
+Hast du schon bezahlt oder noch nicht?
+Das Restaurant war diesmal viel zu teuer.
+Ich suche meinen Zugfahrtschein nicht mehr.
+Die Überweisung kam gestern doch noch an.
+Kannst du mir die IBAN nochmal schicken?
+Ich vergaß die Selbstbehalt-Papiere mitzunehmen.
+Der Reiseantrag ist bis Freitag fällig.
+Hast du das Zimmer für uns gesichert?
+Die Spesenabrechnung dauert immer ewig lange.
+Mein Bankkonto zeigt heute einen Fehler.
+Wir müssen die Hotelkosten nochmal checken.
+Kann ich die Buchung auf Montag legen?
+Die Rechnung hat drei Stellen zu wenig.
+Ich habe das Geld schon überweisen lassen.
+Unser Büro fehlt noch der Beleg dafür.
+Hast du den Scheck bereits eingelöst bekommen?
+Die Reisekosten wurden mir leider abgelehnt.
+Mein Kontostand sieht aktuell sehr schlecht aus.
+Kannst du die Buchung für uns prüfen?
+Ich muss die Hotelrechnung noch einreichen.
+Kannst du prüfen ob die Buchung geklappt hat?
+Mein Kontoauszug ist gerade erst angekommen.
+Die Stornogebühr war wirklich ziemlich hoch.
+Hast du die Überweisung schon bestätigt bekommen?
+Ich hab vergessen die Reisekosten zu melden.
+Das Guthaben wurde gestern Abend gutgeschrieben.
+Kann ich die Buchung auf den 15. verlegen?
+Die Rechnung von letzter Monat fehlt noch.
+Bitte schick mir deine IBAN für die Zahlung.
+Ich muss das Frühstück nochmal nachbuchen lassen.
+Warum steht das Geld schon seit Wochen da?
+Hast du die Stornierung auch per Mail bestätigt?
+Die Buchung für den Flug war erfolgreich.
+Kannst du mal auf meinen Kontoauszug schauen?
+Ich habe die Belege noch nicht sortiert.
+Wann wird die Überweisung wieder abgebucht?
+Die Gutschrift ist leider noch nicht eingegangen.
+Hast du schon gesehen das der Auszug da ist?
+Ich muss die Kosten für den Mietwagen melden.
+Kann man die Buchung noch kostenlos stornieren?
+Die Rechnung war doppelt im Posteingang.
+Bitte überweise den Betrag bis Freitag abend.
+Ich hab die Unterlagen für die Reisekosten vergessen.
+Wird das Geld nächste Woche schon gutgeschrieben?
+Wir müssen die Hotelrechnung erst noch einscannen.
+Kannst du mal schauen ob die Gutschrift da ist?
+Ich habe versehentlich die falsche Summe überwiesen.
+Die Reisekostenabrechnung wird dieses Jahr wieder spät kommen.
+Hast du schon die Bestätigung für den Rückflug bekommen?
+Mein Kontoauszug zeigt immer noch nicht alle Buchungen an.
+Wir sollten mal klären wer das Dinner bezahlt hat.
+Ich muss morgen die Vorlage bei der Bank einreichen.
+Die Stornierungsgebühr ist mir irgendwie zu hoch geraten.
+Hast du die Quittung vom Taxi schon fotografiert?
+Kann ich die Buchung auf meinen Namen umschreiben lassen?
+Der Betrag steht seit drei Tagen noch nicht auf dem Konto.
+Wir haben das Zimmer online direkt am Flughafen gebucht.
+Ich muss noch meine Privatausgaben von den Berufsfahren trennen.
+Hast du gesehen dass die Karte heute wieder abgelehnt wurde?
+Die Nebenkostenabrechnung ist gerade angekommen und ich habe Angst.
+Kannst du bitte prüfen ob die Überweisung wirklich zugrunde gegangen ist?
+Ich hab die Kreditkarte für die nächste Reise schon gebucht.
+Wir müssen die Ausgaben für die Dienstreise noch detailliert auflisten.
+Hast du den Beleg vom Restaurant noch irgendwo liegen?
+Die Buchung bestätigte sich erst am Abend kurz vor Mitternacht.
+Ich muss schnellstmöglich die offenen Forderungen eintreiben.
+Kannst du mir die IBAN für die Anzahlung nochmal schicken?
+Wir haben das Hotelzimmer jetzt komplett gestrichen aus dem Kalender.
+Die Gutschrift kam leider nicht wie erwartet auf dem Konto an.
+Die Hotelrechnung ist gestern angekommen.
+Ich muss die Mietzahlung noch überweisen.
+Hast du den Kontoauszug schon geprüft?
+Meine Kreditkarte wurde wieder blockiert.
+Die Reisekosten müssen bis Freitag eingereicht werden.
+Kannst du die Gutschrift mal prüfen?
+Das Girokonto hat heute Nacht überwiesen.
+Ich vergaß wieder die Überweisung zu tätigen.
+Die Nebenkostenabrechnung sieht irgendwie falsch aus.
+Hast du die Quittung für den Taxifahrt behalten?
+Mein Arbeitgeber zahlt das Geld erst morgen.
+Die Buchung ist leider schon vollgebucht.
+Ich muss meine Unterlagen noch einscannen.
+Das Guthaben wurde gestern gutgeschrieben.
+Wo finde ich meine letzte Bankmeldung?
+Die Stromrechnung war dieses Mal höher.
+Kann ich die Reservierung um eine Stunde verschieben?
+Mein Konto war am Wochenende nicht ausreichend gedeckt.
+Die Zinsen sind diesmal leider gesunken.
+Ich habe die Überweisungsmeldung verpasst.
+Die Reiseversicherung deckt den Stornofall ab.
+Hast du das Lastschriftmandat schon freigegeben?
+Meine Ausgaben waren im Dezember viel zu hoch.
+Der Geldautomat hat heute nicht funktioniert.
+Ich muss noch eine Nachzahlung leisten.
+Ich schick dir die Rechnung gleich per Mail.
+Kannst du mal gucken ob das Geld da ist?
+Die Hotelbuchung muss ich noch ändern.
+Mir fehlt immer noch die Quittung vom Taxi.
+Überweis den Betrag bitte bis Freitag.
+Der Kontoauszug stimmt diesmal auch nicht.
+Ich hab die Reisekosten schon eingereicht.
+Bitte stornier die Vorbestellung im Restaurant.
+Wo finde ich die alte Zahlungsbestätigung?
+Die Nebenkosten sind in der Miete enthalten.
+Kannst du die Überweisung heute noch machen?
+Ich muss das Hotelzimmer auf nächste Woche verschieben.
+Die Rechnung wurde leider noch nicht bezahlt.
+Hast du die Bestätigungsmail schon bekommen?
+Mein Gehalt kommt erst am Montag an.
+Wir müssen die Reisekosten noch berechnen.
+Der Betrag wurde gestern bereits abgebucht.
+Ich hab den Termin für die Zahlung vergessen.
+Kannst du prüfen ob die Überweisung angekommen ist?
+Die Stornogebühr war wirklich viel zu hoch.
+Ich brauche noch die Zahlungsdaten vom Vermieter.
+Die Abrechnung für dieses Quartal liegt vor.
+Bitte aktualisier deine gespeicherten Kreditkartendaten.
+Ich hab die Quittung zufällig im Auto gefunden.
+Ich muss meine Hotelrechnung noch verbuchen.
+Wann kommt der nächste Kontoauszug an?
+Die Überweisung ist leider noch nicht eingegangen.
+Kannst du die Reisekostenmeldung abgeben?
+Ich habe das Hotelzimmer gestern storniert.
+Meine Ausgaben dieses Monat sind viel zu hoch.
+Hast du den Bon vom Supermarkt gesammelt?
+Die Gutschrift wurde schon auf meinem Konto gebucht.
+Ich muss noch die Nebenkosten nachzahlen.
+Wo findest du meine alten Belege wieder?
+Die Buchung für den Urlaub ist bestätigt.
+Ich vergaß wieder die Quittung vom Bäcker.
+Kann ich die Abonnementgebühr per Lastschrift zahlen?
+Der Saldenwechsel auf meinem Konto sieht komisch aus.
+Bitte schick mir die Rechnung per Mail.
+Ich muss die Reiseversicherung noch aktivieren.
+Die Kosten für das Taxi sind abgerechnet.
+Hast du den Betrag schon überwiesen bekommen?
+Mein Kontostand ist heute Morgen negativ gewesen.
+Ich suche den Bestätigungscode für die Buchung.
+Die Miete wurde pünktlich am ersten gezahlt.
+Kannst du prüfen ob die Rechnung bezahlt wurde?
+Ich habe versehentlich doppelt für das Hotel gezahlt.
+Die Selbständigenabrechnung läuft immer etwas ins Hintertreffen.
+Welches Konto soll ich dafür verwenden?
+Ich muss meine Ausgaben noch in der App erfassen.
+Ich hab die Buchung gestern Nacht nochmal gecheckt.
+Kannst du mir die Rechnung mal per Mail schicken?
+Die Überweisung war leider noch nicht auf dem Konto.
+Wir müssen das Hotelzimmer für den Notfall freihalten.
+Hast du schon gesehen wie viel das gekostet hat?
+Ich muss erst warten bis der Betrag eingetrudelt ist.
+Das Zimmer wurde automatisch verlängert weil ich zu spät kam.
+Kann ich die Stornogebühren noch irgendwie vermeiden lassen?
+Die Belege liegen alle im Ordner auf meinem Schreibtisch.
+Wir haben uns gestern Abend noch für den Frühbucher-Tarif entschieden.
+Mein Kontoauszug ist heute Morgen endlich angekommen.
+Ich muss die Ausgaben noch in meiner App erfassen.
+Hast du die Kreditkartenabrechnung schon geprüft?
+Die Anzahlung ist gestern früh abgebucht worden.
+Ich finde den Beleg für das Taxi nicht mehr.
+Können wir die Buchung auf nächsten Monat verschieben?
+Die Rechnung ist leider höher ausgefallen als erwartet.
+Ich schick dir gleich meine IBAN für die Überweisung.
+Das Hotel hat uns eine Gutschrift geschickt.
+Wir müssen die Reisekosten noch mit der Firma abklären.
+Hast du schon bezahlt oder soll ich das machen?
+Der Betrag wurde versehentlich doppelt abgebucht.
+Ich muss mich wegen der Buchung noch melden.
+Die Unterlagen schick ich dir heute Abend noch nach.
+Hast du den Bestellschein auch ordnungsgemäß aufgehoben?
+Wir haben die Stornierung gestern telefonisch geklärt.
+Ich muss die Hotelrechnung erst noch einreichen.
+Kannst du mal schauen ob das Geld da ist.
+Die Stornierung hat leider nicht geklappt.
+Wir müssen die Reisekosten nochmal durchgehen.
+Der Kontoauszug war voller Schreibfehler gestern.
+Hab die Überweisung schon gestern Abend gesendet.
+Ich find die Buchungsbestätigung irgendwie nicht mehr.
+Kann ich das Ticket einfach online stornieren.
+Die Rechnung ist deutlich zu hoch geraten da.
+Wir müssen unsere Ausgaben dringend überprüfen und sortieren.
+Hast du die Unterlagen für die Steuer schon?
+Das Geld ist leider noch nicht auf dem Konto.
+Ich muss den Reisebericht endlich abgeben heute.
+Kannst du mir deine Kontonummer nochmal schicken bitte.
+Die Hotelzimmer waren teurer als ursprünglich geplant gewesen.
+Wir haben einen Fehler bei der Buchung gemacht.
+Ich warte immer noch auf die Bestätigungsmail vom Hotel.
+Die Ausgaben für das Essen muss ich tracken.
+Hast du schon überweisen oder machst du das später.
+Der Betrag stimmt mit der Rechnung leider nicht überein.
+Ich muss die Quittungen erstmal einscannen und speichern.
+Kann man die Buchung bis morgen nochmal ändern.
+Die Bankdaten fehlen mir für die Überweisung noch.
+Wir müssen die Reisekostenabrechnung jetzt dringend erstellen.
+Hast du gesehen dass die Zahlung eingegangen ist.
+Kannst du bitte den Rechnungsbetrag überweisen?
+Ich muss noch meine Reisekosten bei der Firma einreichen.
+Die Hotelreservation ist leider nicht angekommen.
+Hast du schon den Kontoauszug von letztem Monat geprüft?
+Mein Girokonto hat heute wieder Geld gutgeschrieben bekommen.
+Wir brauchen dringend die Kopie der Überweisungsbestätigung.
+Der Betrag auf der Rechnung stimmt irgendwie nicht überein.
+Kann ich die Stornogebühr noch mit dem Anbieter aushandeln?
+Ich hab vergessen, das Trinkgeld in den Reisebericht zu nehmen.
+Die Quittung vom Supermarkt fehlt mir für die Kasse.
+Musst du noch etwas auf deinem Privatkonto verbuchen?
+Der letzte Abrechnungsbetrag war deutlich höher als erwartet.
+Hast du die neuen Kontaktdaten der Bank schon aktualisiert?
+Ich warte immer noch auf meine monatliche Gehaltsüberweisung.
+Die Gutschrift kommt wahrscheinlich nächste Woche aufs Konto herein.
+Können wir den Termin zur Jahresabschlusssitzung nochmal verschieben?
+Mir ist ein Tippfehler in der IBAN aufgefallen.
+Das Hotel hat die Kaution erst jetzt zurücküberwiesen.
+Ich muss meinen Steuerberater noch die Umsatzlisten zukommen lassen.
+Die Reiseversicherung wurde automatisch vom Girokonto abgebucht.
+Hast du den Beleg für das Taxi schon fotografiert?
+Mein Konto war am Wochenende komplett gesperrt ohne Grund.
+Die Nebenkostenabrechnung ist mir ins Haus gefallen gestern.
+Kannst du mir sagen, wann die Zahlung fällig wird?
+Ich hab meine Kreditkartendaten versehentlich falschen Angaben hinzugefügt.
+Hab die Hotelrechnung grade bezahlt.
+Stornieren wir die Flugtickets lieber nicht.
+Der Kontoauszug war leider wieder falsch.
+Ich schick dir gleich die Zahlungsbestätigung.
+Muss ich noch eine Gutschrift einreichen?
+Die Überweisung kam gestern Abend an.
+Kannst du mal prüfen ob das geklappt hat.
+Wir haben unsere Buchungen selbst erledigt.
+Die Kosten für den Urlaub sind hoch.
+Rechnung kommt nächste Woche sicher wieder nicht.
+Ich hab die Karte schon gebucht.
+Warum dauert die Rücküberweisung so lange.
+Bitte sende mir die Bestätigungsmail weiter.
+Das Hotel hat die Buchung bestätigt.
+Ich muss meine Ausgaben noch mal prüfen.
+Hast du schon den Bon eingescannt.
+Die Nebenkostenabrechnung ist heute angekommen.
+Können wir das Zimmer wechseln oder nicht.
+Mein Girokonto war kurzzeitig gesperrt.
+Die Vorabrechnung sieht ganz gut aus.
+Vergiss nicht die Reisekosten zu melden.
+Ich hab den Betrag gestern überwiesen.
+Warum wurde meine Buchung automatisch storniert.
+Der Zuzahlungsbedarf ist etwas höher als erwartet.
+Pass auf bei der nächsten Gutschrift.
+Ich schick dir gleich den Link zur Rechnung.
+Kannst du mal gucken ob das Geld da ist?
+Wir müssen die Hotelreservierung für Mittwoch stornieren.
+Die Auslagen vom Teamessen hab ich noch nicht eingetragen.
+Warum kommt die Gutschrift immer so spät an?
+Ich habe den Falschgutschein versehentlich eingelöst, Mist.
+Bitte überweise den Restbetrag bis morgen Abend.
+Der Kontoauszug von letzten Monat stimmt irgendwie nicht.
+Ich muss noch das Frühstück für beide Betten buchen.
+Hast du die Boni vom Supermarkt schon gescannt?
+Die Überweisung ist leider noch nicht gutgeschrieben worden.
+Kann ich die Anzahlung später auf den Gesamtbetrag anrechnen lassen?
+Ich such grad meine alten Belege zum Nachweisen.
+Das Ticket war deutlich günstiger direkt über die App.
+Wir haben vergessen die Kreditkartendaten zu aktualisieren.
+Schick mir bitte eine Kopie der Überweisungsbestätigung.
+Die Reisekosten müssen wir noch beim Finanzamt angeben.
+Ich hab die Rechnung per E-Mail bestätigt bekommen.
+Warum ist da nochmal ein Abbuchungsauftrag drauf?
+Könntest du kurz checken ob das Konto gedeckt ist?
+Die Gutschrift dauert bei der Bank leider ewig.
+Ich muss noch den Parkschlüssel zurückbringen und zahlen.
+Hast du die IBAN schon in dein Buchhaltungstool eingetragen?
+Die Rechnung kam komplett ohne Rechnungsnummer daher.
+Wir sollten die Ausgaben dieses Monats nochmal durchgehen.

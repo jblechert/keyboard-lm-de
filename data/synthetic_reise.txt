@@ -305,7 +305,6 @@ Ich suche noch nach einer günstigen Flugverbindung nach Barcelona.
 Das neue Hotel am Strand hat leider kein kostenloses WLAN.
 Wir haben unseren Campingplatz schon früh gebucht.
 Der Umsteigetermin in Frankfurt war wirklich nervig.
-Hast du dir das neue Museum
 Das Picknick am See war absolut entspannend.
 Die Gepäcktragetasche war für den Bergweg viel zu schwer.
 Ich vermisse bereits den warmen Sand an den Füßen.
@@ -1422,7 +1421,6 @@ Wir sollten mal wieder ein Campingwochenende einlegen.
 Der Zug nach Berlin war pünktlich wie immer.
 Ich liebe es, wenn man abends im Hotel aufwacht.
 Die Sehenswürdigkeiten in Rom sind teilweise überlaufen.
-Buchung.com war diesmal wirklich hilfreich und unkompliziert.
 Wir fahren dieses Jahr zum ersten Mal ins Ausland.
 Das Picknick auf dem Schiff war einfach nur toll.
 Habt ihr schon einen Mietwagen für die Insel gebucht?
@@ -1659,32 +1657,6 @@ Ich vermisse die lange Schlafenszeit im Zelt total.
 Die Einreisekontrolle war surprisingly schnell und unkompliziert.
 Wir sollten vielleicht doch ein Ferienhaus mit Pool buchen.
 Der Blick von der Aussichtsplattform war einfach nur spektakulär.
-Hast du schon einen Flieger für den Sommer gebucht
-Die Ferienwohnung hatte keine Klimaanlage im Juli
-Ich liebe es einfach in der Provence zu campen
-Mein Koffer ist wieder mal zu schwer geworden
-Wir suchen noch nach guten Restaurants in Berlin
-Das Hotelzimmer war total klein und dunkel
-Mit dem Rad durch den Eifelkreis fahren
-War der Preis für die Bahnkarte schon bezahlt
-Die Aussicht vom Aussichtsturm war einfach traumhaft
-Hast du schon ein Visum für deine Asienreise
-Der Mietwagen war leider nicht sehr sauber
-Wir planen für nächsten Monat eine Roadtrip
-Das Seeblick-Zimmer war den Aufpreis wert
-Mein Reisejournal habe ich noch nicht geschrieben
-Haben die Deutschen Punctuality beim Zug auch wirklich
-Die Strandbar war leider nur ein Flop
-Ich würde gerne mal eine Kreuzfahrt machen
-Der Airport Transfer kam eine Stunde zu spät
-Hast du schon die Reiserücktrittsversicherung abgeschlossen
-Die Wanderung am Berg war sehr anstrengend
-Unser Hotelzimmer hatte eine tolle Stadtsicht
-Die Busverbindung nach Rom war pünktlich angekommen
-Wir brauchen noch einen Guide für die Stadt
-Die Einkehr im Dorf war sehr gemütlich
-Mein Gepäck ist schon lange gepackt und bereit
-Hast du dir schon eine Ausflugsroute überlegt
 Wir müssen schnell buchen sonst sind alle Hotels voll.
 Der Flug nach Rom war leider total überbucht.
 Ich liebe es morgens im ZUG aus dem Fenster zu schauen.
@@ -1927,7 +1899,6 @@ Ich möchte unbedingt mal nach Island wandern gehen.
 Das Airbnb hatte gar kein Bett und nur Matratzen.
 Der Reiseführer hat uns leider im Zentrum verraten.
 Wir müssen bald die Koffer für die Alpenreise packen.
-Die Visabewilligung kam überraschend schnell per Email zurück.
 Mit dem Schiff durch die Kanäle Venedigs war traumhaft.
 Ich hasse es wenn man im Flughafen ewig warten muss.
 Das Hostel in Bangkok hatte das beste Frühstück der Stadt.
@@ -3528,7 +3499,6 @@ Wir planen unseren nächsten Trip schon wieder in den Winter.
 Ein Reisepass ohne Chip wird bald nicht mehr akzeptiert.
 Der Checkin im Hotel war wahnsinnig lange und nervig.
 Habt ihr Tipps für gute Restaurants in der Altstadt?
-Die Zugfahrt durch die Schweiz ist reines Auge
 Ich such aktuell nach günstigen Flügen für den Sommer.
 Das Apartment hatte leider keinen Balkon wie beschrieben.
 Am besten mietet man im Süden einfach ein Auto.
@@ -3679,31 +3649,6 @@ Das Restaurant am Hafen hatte die besten Tintenfische.
 Vielleicht fahren wir nächstes Jahr mal durch Marokko?
 Der Flughafenbus fährt nachts viel seltener als tagsüber.
 Eine Städtereise im Oktober ist oft ruhiger und günstiger.
-Wir überlegen ob wir ins Hotel oder zur Ferienwohnung gehen
-Die Buchungsidee war super aber die Stornogebühren sind krass
-Im Flugzeug hatte ich fast keine Beinfreiheit
-Der Strand in Portugal war wirklich traumhaft schön
-Mit dem Zug durch die Alpen ist einfach atemberaubend
-Ich hab den Koffer zum dritten Mal gepackt
-Gute Reiseversicherung spart im Notfall richtig viel Geld
-Das Airbnb war leider gar nicht so wie auf den Fotos
-Für den Backpacker-Urlauf reicht ein günstiges Hostel völlig
-Die Mietwagenkosten in Italien sind wirklich abscheulich hoch
-Wir fahren erst mal für zwei Wochen nach Spanien
-Der Airportshuttle pünktlich abzuholen ist immer stressig
-Habt ihr schon die Visum-Anforderungen für dieses Land geprüft
-Ein Skipass für eine Woche kostet ein kleines Vermögen
-Die Stadtrundfahrt mit dem Boot war unser Highlight
-Ich vermisste so sehr mein eigenes Bett daheim
-Budgetflieger sind ok wenn man wenig Gepäck hat
-Die Campingplätze hier waren voller Insekten leider
-Eine gute Wanderkarte ist im Gebirge unerlässlich
-Wir haben uns einen Last-Minute-Deal geschnappt
-Der Reiseführer war eher oberflächlich geschrieben
-Mit dem Rad durch die Toskana wäre genial
-Unterkünfte ohne Klimaanlage im Sommer sind keine Option
-Die Einreisebestimmungen haben sich wieder einmal geändert
-Am besten gleich den Flug online checken ein
 Wir buchen doch am besten direkt online.
 Die Strandpromenade in Barcelona ist abends so schön beleuchtet.
 Mein Koffer ist nochmal um drei Kilos über dem Limit.
@@ -4375,7 +4320,6 @@ Die Sehenswürdigkeiten in Rom sind wirklich beeindruckend und vielfältig.
 Ich finde, man sollte sich Zeit für Pausen nehmen.
 Der Check-in im Hotel verlief surprisingly schnell und unkompliziert.
 Wir sollten doch mal nach Kroatien fahren.
-Die Buchung auf lastminute.de war super einfach.
 Ich hasse es im Flugzeug in der Mittelklasse zu sitzen.
 Das Airbnb hatte leider gar keinen Blick aufs Meer.
 Hast du schon deinen Pass für die Türkei?
@@ -4763,7 +4707,6 @@ Der Reiseführer von Lonely Planet war super hilfreich.
 Hast du deine Reisekosten noch richtig berechnet?
 Die Seilbahn über dem Abgrund war gruselig und geil.
 Ich vermisse schon wieder den Geruch des Meerwassers.
-Buchung.com hat uns da wirklich gut beraten.
 Mit dem Flugzeug ist es halt doch schneller als mit dem Bus.
 Die Unterkunft lag etwas abseits vom Zentrum der Stadt.
 Wir haben die lokalen Street Food Stände total geliebt.
@@ -5395,32 +5338,6 @@ Ich trage immer Bequemeres bei langen Flügen.
 Die Wanderwege in den Alpen sind gut beschildert.
 Hast du schon die Mietwagenrückgabe bestätigt bekommen?
 Urlaub macht bekanntermaßen jeden glücklich und entspannt.
-Wir überlegen grad ob wir nach Spanien fliegen oder fahren
-Die Klimaanlage im Hotelzimmer hat absolut nicht funktioniert
-Packt euch auf jeden Fall Bequemsschuhe für die Sightseeingtour ein
-Der Flug war leider stark verspätet aber das Personal war nett
-Ich finde Camping doch viel gemütlicher als irgendwelche Pensionen
-Habt ihr zufällig gute Tipps für Restaurants in der Altstadt
-Die Einreisebestimmungen haben sich letztes Jahr nochmal geändert
-Mein Koffer ist bei der Fluggesellschaft irgendwie verloren gegangen
-Wir wollen dieses Mal lieber einen ruhigen Ort ohne Massenbetrieb wählen
-Der Zug nach Venedig hatte einen unglaublich schönen Ausblick unterwegs
-Ich hasse es immer wieder Warteschlangen am Flughafen zu stehen
-Die Stadtrundfahrt mit dem Segway war echt lustig und originell
-Vergesst nicht die Adapterstecker für eure Ladegeräte einzupacken
-Das Frühstück im Hotel ist inklusive oder extra zahlen wir müssen
-Der Strand an diesem Ort war absolut überlaufen am Vormittag
-Wir buchen immer erst kurzfristig weil die Preise dann sinken
-Die Wanderung zum Gipfel war anstrengend aber der Blick hat sich gelohnt
-Ich verabscheue es wenn meine Sitznachbarn ihre Sitze vorklappen
-Hast du schon gesehen wie viel das Auto im Hotel kostet
-Die lokale Küche in Asien ist einfach unglaublich vielseitig und lecker
-Wir müssen unser Gepäck nochmal deutlich reduzieren für den Handgepäckflug
-Der Blick vom Aussichtspunkt war jeden Meter des Aufstiegs wert
-Ich bin immer nervös wenn die Batterie meines Smartphones leer wird
-Die Buchung über die App war surprisingly schnell und unkompliziert gelöst
-Fahrradverleih direkt am Hafen ist super praktisch für Tagestouren
-Wir sollten vielleicht doch ein Apartment statt eines Zimmers nehmen
 Ich suche noch nach günstigen Flügen nach Berlin.
 Das Hostel hatte leider keine Klimaanlage im Sommer.
 Wir sollten die Zugtickets unbedingt vorher buchen.
@@ -5596,31 +5513,6 @@ Die Aussicht vom Dachterrasse des Hotels ist einfach genial.
 Ich hasse es wenn der Zug in Spanien mal wieder streikt.
 Für den Städtetrip genügen wirklich nur drei kleine Tagestaschen.
 Das Picknick am Strand hat uns richtig gut getan und erholt.
-Endlich haben wir die Flüge gebucht
-Die Strände auf Kreta sind im Juli immer voll
-Ich liebe es einfach nur am Pool zu faulenzen
-Für den Wanderurlaub in Tirol pack ich noch mehr
-Hast du schon gesehen wie teuer die Hotels geworden sind
-Der Zug nach Rom ist total entspannt anzukommen
-Mein Bruder hat sich ein Campingzelt gekauft
-Die Altstadt von Salzburg sieht bei Nacht fantastisch aus
-Vergiss nicht deine Adapter für Italien mitzunehmen
-Wir überlegen ob wir noch eine Stadtrundfahrt buchen sollen
-Das Restaurant direkt am Hafen hatte super frischen Fisch
-Ich kann dir die App Booking wirklich nur empfehlen
-Der Fluggast hat seinen Koffer leider falsch beschriftet
-Wir fahren nächsten Monat mit dem Wohnmobil nach Norwegen
-Die Warteschlange beim Zoll war gestern unglaublich lang
-Finde ich auch dass Backpacking viel mehr Abenteuer bringt
-In Barcelona sollte man unbedingt am Meer spazieren gehen
-Meine Tante schwört darauf dass sie nie wieder fliegt
-Das Picknick auf der Insel war genau das Richtige
-Habt ihr Erfahrung mit dem Reisepass in der Handhabe
-Der Mietwagen war leider ziemlich abgefahren und dreckig
-Ich freue mich schon wahnsinnig auf die nächste Reise
-Die Souvenirs aus Thailand sind wirklich schön anzusehen
-Wir mussten wegen des Streiks unseren Plan ändern
-Kannst du mir sagen ob man dort Bargeld braucht
 Wir buchen die Flugtickets am besten schon jetzt.
 Das Airbnb hatte leider kein richtiges WLAN.
 Ich träume von einem relaxing Strandurlaub in der Türkei.
@@ -6135,7 +6027,6 @@ Die Seilfahrt über dem Tal war extrem spannend.
 Mein Koffer hat sich bei der Übergabe verabschiedet.
 Wir campen dieses Jahr wieder am Nordseestrand.
 Der Reiseleiter war leider ziemlich uninteressant und langweilig.
-Buchung.de zeigt gerade super Angebote für die Türkei.
 Ich vermisse schon das Salzige im Urlaubswind.
 Die Stadtmauer von Rothenburg ob der Tauber ist beeindruckend.
 Wir müssen noch unseren Reisepass verlängern lassen.
@@ -6422,30 +6313,6 @@ Wir planen einen Roadtrip durch die Schweiz.
 Das Wetter im Urlaub war leider mies.
 Ich habe mir ein Buch gekauft.
 Der Flughafenparkplatz war heute voll belegt.
-Wir überlegen noch ob wir dieses Jahr ans Meer oder in die Berge fahren
-Die Hotelzimmer waren zwar klein aber dafür lagen sie direkt am Strand
-Mit dem Campingbus durch Italien zu reisen war ein absolutes Highlight
-Hast du schon einen Flugschein für den Trip nach Barcelona gebucht
-Der Zug nach Florenz hatte leider zwei Stunden Verspätung heute morgen
-Ich liebe es am frühen Morgen auf dem Marktplatz vor Ort einzukaufen
-Wir haben uns spontan für einen Tag länger in Rom entschieden
-Die Wanderwanderungen im Nationalpark waren atemberaubend schön und ruhig
-Vergiss nicht dein Adapterkabel mitzunehmen sonst kannst du nichts aufladen
-Ich würde gerne mal eine Kreuzfahrt auf dem Nil machen
-Der Reisebus von Berlin nach Amsterdam war überraschend komfortabel und sauber
-Wir müssen dringend unsere Pässe prüfen bevor wir verreisen
-Die lokalen Streetfood-Stände in Bangkok waren das absolute Highlight
-Es ist viel entspannter wenn man nicht früh morgens um sechs aufsteht
-Habt ihr eine Empfehlung für ein gutes Hotel im Zentrum von Wien
-Der Mietwagen war zwar teuer aber die Freiheit auf dem Land genossen wir total
-Die Sicht vom Gipfel hat alle Anstrengungen der Besteigung gelohnt
-Ich hasse es so lange im Wartebereich des Flughafens zu sitzen
-Wir haben unser Gepäck vorab online bestellt um Zeit am Flughafen zu sparen
-Das Picknick in der Sonne war das schönste Erlebnis unseres Aufenthalts
-Man sollte sich unbedingt Karten für die Kuppel von vorne besorgen
-Der Strand war überlaufen aber das Wasser war trotzdem richtig warm
-Ich finde es stressig wenn alle Buchungen kurz vor Abflug kommen
-Die Einheimischen haben uns super Tipps zum Essen gegeben gestern Abend
 Am Strand in Thailand war das Wasser so klar.
 Wir sollten bald mal wieder nach Berlin fahren.
 Die Zugverbindung von Hamburg ist ziemlich zuverlässig.
@@ -6757,7 +6624,6 @@ Die Zugfahrt nach Rom war überraschend entspannt.
 Wir sollten doch mal mit dem Wohnmobil fahren.
 Mein Koffer ist wieder zu schwer fürs Handgepäck.
 Der Strand in Zypern ist einfach wunderschön.
-Buchung.de hat den günstigsten Preis gefunden.
 Wir haben das Visum endlich bekommen.
 Die Stadtrundfahrt war total langweilig eigentlich.
 Ich vermisse schon die Seele nach dem Urlaub.
@@ -6772,31 +6638,9 @@ Der Reiseleiter war super freundlich und wissenswert.
 Wir mieten uns ein Apartment mit Poolausstattung.
 Günstige Hotels findet man nur an Wochentagen wirklich.
 Die Rückreise ist leider schon übermorgen wieder.
-Mal sehen ob wir den Zug noch kriegen
-Das Hotelzimmer hatte leider keinen Ausblick auf das Meer
-Habt ihr die neuen Koffer schon gepackt oder nicht
-Wir suchen dringend ein günstiges Apartment in Berlin
-Die Wanderung im Nationalpark war echt anstrengend
-Flugtickets nach Thailand waren letztes Jahr viel teurer
-Ich habe meine Sonnenbrille im Auto vergessen
-Der Check-in am Flughafen dauerte ewig wegen Stau
-Sollten wir für die Küstenroute ein Mietfauto nehmen
-Das Picknick auf der Burg war einfach nur romantisch
-Mein Gepäck ist schon wieder zu schwer verdammt noch mal
 Hast du den Stadtplan für Rom mitgenommen?
-Die Ferienwohnung hatte einen super Pool für die Kids
-Mit dem Fahrrad durchs Weinland klingt nach nem Traum
-Wir mussten drei Stunden im Sicherheitscheck rumstehen
-Die lokale Küche in Hanoi war absolut genial
 Habe ich die Auslandskrankenversicherung schon aktualisiert?
-Der Backpacker-Trip durch Südamerika war das Beste
-Ich brauche dringend neue Reisekoffer mit Rollen
-Das Strandresort war viel besser als auf den Bildern
-Warte mal gucken wann der nächste Bus abfährt
-Die Besichtigung der Alhambra ist wirklich Pflicht
-Ich vergesse immer mein Ladekabel für das Handy
 Ferienwohnung in der Altstadt oder Hotel am Rand?
-Der Sturm hat unseren Campingplatz komplett zerstört
 Hast du schon gesehen wie viele Flieger hier abheben?
 Wir haben das Ticket für den Zug nach Wien gesichert.
 Die Ferienwohnung am Meer war absolut traumhaft schön.
@@ -8097,7 +7941,6 @@ Die Wanderung auf dem Weg nach Salzburg hat Spaß gemacht.
 Brauchst du noch eine Empfehlung für ein Restaurant in Venedig?
 Unser Wohnmobil-Ventilator ging bei 30 Grad kaputt.
 Das Ticket für den Eiffelturm musst du früh buchen.
-Ich liebe die stundenlangen Busfahrten durch dasNothing
 Ich muss unbedingt noch mein Visum besorgen.
 Die Ferienwohnung hatte zwar keine Küchenausstattung aber trotzdem okay.
 Wir fahren nächsten Monat mit dem Zug nach Barcelona.
@@ -8932,32 +8775,6 @@ Die Wanderung zum See war echt schön heute.
 Mein Koffer ist wieder zu schwer fürs Handgepäck geworden.
 Das Souvenir aus Italien steht jetzt bei uns im Wohnzimmer.
 Wir sollten früher buchen, sonst wird es viel teurer.
-Endlich mal Zeit für einen richtigen Roadtrip
-Das Hotelzimmer hatte einen wunderschönen Blick auf den Hafen
-Ich muss dringend meine Reisetasche packen
-Der Flug war leider stark verspätet gelaufen
-Am Strand waren wir endlich total entspannt
-Hast du schon Hotels für die Weihnachtsferien gebucht
-Die Wanderung am Berg war wirklich anstrengend aber schön
-Im Zug hatte ich genug Platz zum Ausruhen
-Wir haben eine super Unterkunft in der Altstadt gefunden
-Die Sehenswürdigkeiten dieser Stadt sind einfach beeindruckend
-Mit dem Mietwagen ist man viel flexibler unterwegs
-Der Check-in im Hostel dauerte ewig lang
-Ich freue mich schon auf den Strandurlaub in Spanien
-Das Frühstück im Hotel war leider ganz durchschnittlich
-Wir sollten uns früher einen Zugticket kaufen
-Die Stadtrundfahrt per Schiff war sehr romantisch
-Mein Koffer war beim Transport leider etwas zerbaut
-Hast du ein Tipp für ein gutes Reisebüro
-Die Campingstelle lag wunderschön mitten in der Natur
-Wir haben das Museumskipass online im Voraus gebucht
-Der Transfer vom Flughafen zum Hotel war pünktlich
-Es war unser erstes Mal mit dem Wohnmobil unterwegs
-Die Abendessen in den kleinen Tavernen schmeckten hervorragend
-Ich habe die Reiseroute für unsere Alpenfahrt geplant
-Das Reisegepäck war schwerer als erwartet gewesen
-Wir haben den Fähranleger etwas zu spät verlassen
 Wir buchen direkt über die App weil es schneller geht.
 Die Aussicht vom Berghotel war einfach nur traumhaft.
 Hast du schon mal in Japan im Schlafzug gereist?
@@ -12206,31 +12023,6 @@ Wir sollten bald mal ein spontanes Wochenende planen.
 Das Hotelzimmer hatte leider keinen Ausblick auf die Straße.
 Ich liebe es neue Orte ohne festen Plan zu erkunden.
 Der Zug nach Venedig war vollgepackt wie ein Sardinenbüchse.
-Wir überlegen ob wir mit dem Camper durch Island fahren sollen
-Das Hotelzimmer war zum Glück viel größer als auf den Fotos
-Hast du schon eine Reisekrankenversicherung für die Tropen gebucht
-Der Zug nach Berlin pünktlich anzukommen ist heute fast unmöglich
-Ich möchte unbedingt mal in einer Bude am Strand schlafen
-Die Sehenswürdigkeiten in Rom sind im Sommer leider zu voll
-Mein Koffer wurde beim Check in total zugeknallt und beschädigt
-Wir haben das Apartment direkt über Airbnb gebucht und gut gewählt
-Flugtickets bei Lastminute.de zu finden ist eine echte Herausforderung
-Die Stadtführung war langweilig aber der Guide zumindest nett
-Man sollte auf keinen Fall im Hochsaison in Barcelona übernachten
-Der Busfahrplan in Spanien ist manchmal wirklich chaotisch organisiert
-Wir sind mit dem Wohnmobil durch die Berge gefahren und genossen es
-Gibt es eine gute App für Offline Karten in abgelegenen Gebieten
-Die Einreisebestimmungen ändern sich ja leider ständig und nervig
-Das Picknick auf dem Strand war der Höhepunkt des Tages
-Wer hat Erfahrung mit Campingplatzreservierungen in Frankreich im Juli
-Der Abflug wurde ohne Vorankündigung um zwei Stunden verschoben
-Leider war das Buffet im Hotel nicht besonders lecker oder frisch
-Wir haben uns eine Mietwagenversicherung gespart und bereuen es nicht
-Die Aussicht von der Bergstation war einfach nur atemberaubend schön
-Hast du Tipps für günstige Flieger nach Thailand im November
-Am Ende des Tages sind wir völlig erschöpft ins Bett gefallen
-Die Gepäckgage muss man bei den Billigfliegern genau überprüfen
-Ich liebe es wenn man abends die lokale Street Food Szene erkundet
 Wir überlegen noch ob wir nach Portugal oder Spanien fliegen.
 Das Hotelzimmer hatte einen super Ausblick auf die Bucht.
 Ich hasse Wartezeiten am Airport wirklich leidlich sehr.
@@ -12528,32 +12320,6 @@ Wir fahren nächsten Monat für ein paar Tage ins Allgäu.
 Die Stadtrundfahrt per Bus war eher langweilig und eintönig.
 Der Strand war morgens überraschend leer und ruhig da.
 Unser Reiseleiter hatte eine sehr spannende Geschichte erzählt dabei.
-Ich bin so froh dass der Flug pünktlich war
-Das Airbnb hatte wirklich keinen Ausblick auf das Meer
-Am besten packt man die schweren Sachen ganz unten ein
-Wir haben in Tokio unglaublich gutes Sushi gegessen
-Die Zugkarte musste ich extra vorab online buchen
-Mein Koffer ist wieder zu voll zum Zukippen
-In Barcelona kann man den ganzen Tag flanieren
-Der Flughafen war heute Morgen schon extrem überfüllt
-Ich träume davon im Winter in die Berge zu fahren
-Vergiss nicht deine Steckeradapter für Spanien mitzunehmen
-Die Stadtrundfahrt war total entspannt und gemütlich
-Wir suchen noch einen günstigen Mietwagen für Korsika
-Das Wetter auf den Balearen ist dieses Jahr super
-Man sollte sich für Rom unbedingt Schuhe zulegen
-Die Reiseroute durch Island klingt nach einem Traum
-Ich hasse es wenn der Koffer in Stuttgart liegen bleibt
-Für die Wanderung in Tirol brauchst du gute Stöcke
-Das Hotelzimmer war klein aber dafür sehr sauber
-Mit dem Rad durch die Toskana zu fahren ist schön
-Wir müssen für Vietnam noch ein Visum beantragen
-Die Aussicht vom Berggipfel hat alles entschädigt
-Ich habe mir schon mal ein Ticket nach Berlin gesichert
-Der Strand in Griechenland war leider etwas schmutzig
-Es lohnt sich wirklich früher am Morgen loszugehen
-Ein Campingplatz mit Dusche ist manchmal echt wichtig
-Wo hast du den tollen Reiseblog denn entdeckt
 Ich muss am Montag schon wieder arbeiten.
 Das Hotelzimmer war leider viel zu klein für uns beide.
 Wir fliegen nächsten Freitag direkt nach Barcelona.
@@ -13797,3 +13563,2296 @@ Das Wetterprophezeiung hat diesmal völlig daneben gelegen.
 Wir müssen noch den Bahnsteig wechseln.
 Die Toiletten sind in der Innenstadt immer schmutzig.
 Pack mal die Kamera ein, wir kommen bald an.
+Der Zug nach Berlin war leider komplett ausgebucht.
+Wir überlegen noch ob wir zum Camping fahren oder in ein Hotel buchen.
+Das Wetter auf Mallorca war dieses Jahr einfach perfekt.
+Hast du schon einen Reiseführer für Rom dabei?
+Im Backpacker-Hostel kann man richtig nette Leute kennenlernen.
+Die Bahnkarte online kaufen spart doch am Ende bares Geld.
+Ich vermiss die Ruhe am See schon wieder sehr stark.
+Flugtickets im letzten Moment buchen ist immer ein großes Risko.
+Das Apartment in Barcelona hatte einen tollen Balkon mit Meerblick.
+Wir sollten den Mietwagen mindestens eine Woche vorher reservieren.
+Der Strand an der Algarve ist definitiv einen Besuch wert.
+Mein Koffer war nach dem Flug schwerer als beim Check-in.
+Eine Städtereise im Herbst ist oft deutlich günstiger als im Sommer.
+Hast du die Impfung für das Reiseland eigentlich schon gemacht?
+Das Hostel in Berlin lag direkt am Hauptbahnhof, super praktisch.
+Mit dem Zug durch die Alpen fahren war ein Traum.
+Wir müssen unbedingt noch ein paar Souvenirs einkaufen gehen.
+Die Einreisebestimmungen haben sich wieder geändert, pass auf.
+Ich liebe das Gefühl wenn der Urlaub endlich losgeht.
+Das Hostel in Lissabon hatte leider keine Klimaanlage im Sommer.
+Mit dem Rucksack durch Asien zu reisen ist anstrengend aber schön.
+Hast du schon gesehen wie die Hotelpreise gerade steigen?
+Der Reisebus hat zwei Stunden zu spät am Bahnhof gestanden.
+Wir suchen noch eine Empfehlung für ein gutes Restaurant in Wien.
+Das Campingzelt war nachts doch sehr laut durch den Wind.
+Wann plant ihr eigentlich eure nächste Großreise?
+Ich habe mir das Hotel für Barcelona gerade gebucht.
+Flugtickets im August kosten echt ein Vermögen.
+Das Wetter in der Toskana war einfach traumhaft.
+Mit dem Auto durch Italien fahren ist super entspannt.
+Hast du schon einen Reisepass mit gültiger Laufzeit?
+Ich vermisse den Geruch von Salz und Jod total.
+Die Wanderung am Matterhorn hat mich richtig gepusht.
+Am liebsten würde ich mal nach Japan reisen gehen.
+Unser Zelt war am ersten Abend komplett nass geworden.
+Probiert unbedingt dieStreet Food in Bangkok aus.
+Der Transfer vom Flughafen zum Hostel war pünktlich angekommen.
+Ich hasse es immer, meine Koffer neu zu packen.
+Die Ansage im Zug nach Berlin war kaum verständlich.
+Ein paar Tage am Strand tun einfach gut der Seele.
+Wem gehören denn diese zwei riesigen Reisekoffer da?
+Das Restaurant direkt neben dem Platz war überladen voll.
+Ich habe leider meine Kamera im Hotelzimmer vergessen.
+Die Aussicht vom Berggipfel hat jeden Schritt gerechtfertigt.
+Bucht immer frühzeitig, damit die Preise nicht explodieren.
+Der Bahnstrecke durch die Alpen ist eine Sehenswürdigkeit für sich.
+Wir haben unser Campingzelt schnell und einfach aufgebaut.
+Kann mir jemand ein gutes Hostel in Kopenhagen empfehlen?
+Die Reiseapp war auf meinem Handy leider nicht kompatibel.
+Am Ende waren wir alle total erschöpft vom Fliegen.
+Ich habe gerade die Flüge nach Barcelona gebucht.
+Die Aussicht vom Berghotel war einfach nur spektakulär.
+Wir überlegen noch ob wir den Mietwagen oder doch die Bahn nehmen.
+Im Hotelzimmer war das WLAN leider ziemlich lahm.
+Hast du schon gesehen wie voll der Bahnhof in Berlin ist?
+Der Strand in Kreta war am Montag völlig leer.
+Ich brauche dringend neue Reisetaschen für die kommende Woche.
+Die Buchung über die App war total einfach und schnell.
+Unser Reiseleiter hatte eine unglaubliche Story über den Tempel.
+Das Gepäck hat mir bei der Abholung fast das Leben gerettet.
+Wir müssen morgen früh um fünf schon am Flughafen sein.
+Die Wanderung zum Wasserfall war anstrengend aber jeden Schritt wert.
+Kannst du mir einen Tipp für ein gutes Restaurant geben?
+Ich hasse es wenn die Maschine wieder einmal verspätet abhebt.
+Das Campingzelt hat in der Nacht komplett eingestürzt.
+Wir haben uns spontan für den Trip nach Rom entschieden.
+Die Eintrittskarten sind online deutlich günstiger als vor Ort.
+Mein Koffer ist kaputtgegangen und ich finde den Verleih nicht.
+Die Stadtspaziergänge am Abend machen wirklich viel Spaß.
+Ich vermisse schon wieder die warme Sonne in Spanien.
+Der Busfahrticket war fast umsonst dank der ÖPNV-Karte.
+Wir übernachten diese Nacht in einem historischen Schlosshotel.
+Das Picknick auf dem Schiff war das Highlight des Tages.
+Ich habe vergessen meine Kameraakkus vollständig aufzuladen.
+Die Gepäckabholung dauert bei Ryanair immer ewig lang.
+Falls du nach Island reist packe unbedingt wärmer Kleidung ein.
+Wir überlegen noch ob wir zum Strand oder in die Berge fahren.
+Die Gepäckabholung am Flughafen hat wieder ewig gedauert.
+Hast du schon mal mit dem Nachtzug gereist?
+Das Airbnb hatte leider nicht das gleiche Bett wie auf den Fotos.
+Für unsere Italienreise brauchen wir dringend neue Reisetaschen.
+Ich vermisse bereits die frische Meeresluft aus Kroatien.
+Der Bahnfernverkehr ist dieses Jahr deutlich teurer geworden.
+Wir haben vor Ort einen Gemütlichen Weinberg gefunden.
+Mein Reisetagebuch füllt sich langsam mit tollen Erinnerungen.
+Die Einreisebestimmungen für Thailand haben sich wieder geändert.
+Ein Wochenendausflug nach Amsterdam ist immer schnell gemacht.
+Hast du schon die Zeltplatzgebühren für den Campingurlaub kalkuliert?
+Die Aussicht vom Mount Fuji war einfach nur spektakulär.
+Ich habe meinen Reisepass leider im Hotelzimmer vergessen.
+Mit dem Mietfahrrad durch Rom zu radeln ist super lustig.
+Die Flugstrecke nach Bangkok fliegt man am besten in der Nacht.
+Wir suchen noch ein günstiges Pauschalangebot für den Juli.
+Der Strand in Zypern war leider sehr überlaufen.
+Mein Koffer hat beim Gepäckhandling leider einen Reißen bekommen.
+Türkei ist definitiv eines meiner neuen Lieblingsreiseländer.
+Die Sehenswürdigkeiten in Venedig sollte man unbedingt früh morgens besuchen.
+Ich habe die Flugtickets schon am morgigen Vormittag gebucht.
+Ein spontanes Roadtrip durch Frankreich wäre mal wirklich toll.
+Das Frühstück im Hotelzimmer war überraschend lecker und frisch.
+Wir planen gerade unsere Wanderung für nächste Woche im Allgäu.
+Wir buchen direkt online, weil es schneller geht.
+Das Apartment hatte leider kein WLAN.
+Der Check-in am Flughafen dauerte ewig.
+Hast du schon mal mit dem Zug nach Italien gefahren?
+Die Strandbar am frühen Morgen ist total entspannt.
+Unser Koffer ist unterwegs abhanden gekommen.
+Ich liebe den Duft von Salzwasser und Sand.
+Das Restaurant im Hafen bietet frischen Fisch.
+Wir suchen noch einen Reisenden für die Mietwagenfahrt.
+Der Ausblick vom Berggipfel war atemberaubend.
+Vergiss nicht deine Powerbank mitzunehmen.
+Die Stadtrundfahrt war etwas zu teuer für uns.
+Am liebsten würde ich im nächsten Jahr nach Japan fliegen.
+Das Hostel lag unglaublich zentral und ruhig zugleich.
+Wir haben die Tickets schon Monate im Voraus gebucht.
+Der Umsteigeweg am Bahnhof war verwirrend und lang.
+Ich packe immer zu viel Zeug ein.
+Die Sehenswürdigkeiten am Abend sind weniger überlaufen.
+Habt ihr einen Tipp für gutes Essen in Berlin?
+Das Reisebüro hat uns super beraten, ehrlich gesagt.
+Mit dem Campingbus kommt man richtig zur Ruhe.
+Der Pass wurde schnell und unkompliziert ausgestellt.
+Wir vermissen schon die warme Sonne daheim.
+Die Wanderkarte war leider veraltet und unbrauchbar.
+Ein Picknick am See ist der beste Abschluss.
+Wir überlegen noch ob wir fliegen oder mit der Bahn fahren.
+Das Hostel in Berlin hat echt gute Bewertungen bei Hostelworld.
+Ich hasse es immer wenn die Koffer am Band nicht ankommen.
+Hast du schon den Flug nach Rom gebucht oder erst später?
+Die Stadtrundfahrt mit dem Bus war total entspannt und billig.
+Wir suchen noch eine Ferienwohnung für die letzte Augustwoche.
+Der Airport Shuttle ist pünktlich um sieben Uhr morgens abgefahren.
+Kann mir jemand ein gutes Hostel in Amsterdam empfehlen?
+Ich liebe es früh aufzustehen um den Sonnenaufgang zu sehen.
+Wir machen dieses Jahr wieder einen Roadtrip durch die Schweiz.
+Der Check-in war super schnell und das Zimmer sah toll aus.
+Hattest du im Zug auch Platz an einem Tisch für zwei?
+Ich vermisste meine Bettwäsche am ersten Abend total.
+Das Museum in München ist eigentlich nur für Kunstfans interessant.
+Wir haben uns ein Auto gemietet um die Küste zu erkunden.
+Die Reisekrankenversicherung kann man online super einfach abschließen.
+Hast du schon deine Papiere für die Grenzkontrolle parat?
+Der Blick vom Aussichtsturm war es definitiv wert hochzulaufen.
+Ich würde gerne nächstes Jahr mal nach Thailand reisen.
+Das Frühstück im Hotel war leider viel zu teuer und klein.
+Wir schlafen dieses Mal nicht im Zelt sondern in einem Wohnmobil.
+Die Straßenbahn in Wien ist der schnellste Weg zum Stadtzentrum.
+Kann man die Eintrittskarten online vorbestellen um Schlange zu stehen?
+Ich habe mich ganz schön im Flugzeug unterkühlt gestern Abend.
+Der Koffer ist beim Transport leider etwas eingedellt worden.
+Wir müssen morgen früh los sonst verpassen wir den Flug.
+Die Unterkunft in Barcelona lag super zentral zum Meer.
+Ich hasse es eigentlich immer wenn ich Koffer packen muss.
+Der Zug nach Rom war leider wieder mal verspätet gelaufen.
+Hast du schon Karten für die Oper in Wien gebucht?
+Unsere Reise nach Thailand hat total viel Spaß gemacht.
+Vergiss nicht die Reisetasche mit dem Medizinbedarf zu nehmen.
+Das Hotelzimmer war klein aber dafür super sauber und gemütlich.
+Ich würde gerne mal wieder eine Wanderung in den Alpen machen.
+Der Mietwagen war deutlich günstiger als wir es erwartet hatten.
+Am Strand von Kreta gab es kaum Schattenplätze für uns.
+Kann mir jemand ein gutes Hostel in Berlin empfehlen?
+Die Warteschlange am Checkin ist heute wirklich unglaublich lang.
+Wir haben die ganzen Tage nur entspannt am Pool gelegen.
+Das Frühstück im Hotel ist jeden Morgen leider sehr teuer.
+Mit dem Fahrrad durch die Toskana fahren war einfach traumhaft.
+Ich suche noch jemanden der Lust auf einen Städtetrip hat.
+Der Zollcontrolle beim Einreisen in Frankreich ging schnell vorbei.
+Unsere Reiseplanung für den Sommer fängt jetzt langsam an.
+Die Souvenirshops im Zentrum sind total übertrieben und überteuert.
+Man sollte immer einen Adapter für die Steckdose mitnehmen.
+Das Wetter auf Teneriffa war dieses Jahr wirklich stabil warm.
+Ich vermisse schon meine morgendlichen Laufstrecken beim Urlaub.
+Der Transfer vom Flughafen zum Hotel war pünktlich und freundlich.
+Habt ihr Erfahrung mit Camping an deutschen Seen oder Strand?
+Die Besichtigung der Akropolis ist unbedingt jeden Cent wert.
+Ich muss dringend mein Päckchen in den Koffer packen.
+Der Flug nach Palma hat leider zweimal gestreikt.
+Wir überlegen uns gerade ob wir einen Mietwagen nehmen.
+Das Hotelzimmer sah auf den Fotos viel größer aus.
+Ich hasse es wenn der Reisepass schon am Zoll fehlt.
+Am Strand war die Sonne wirklich perfekt zum Liegen.
+Habt ihr schon Tickets für den Disneyland Park gebucht?
+Der Zug nach Berlin hat heute wieder mal Verspätung.
+Wir hatten total Glück mit dem Wetter in Barcelona.
+Ein Picknick im Park ist doch viel entspannter als ein Restaurant.
+Die Sehenswürdigkeiten in Rom sind einfach überlaufen an Wochenenden.
+Mein Koffer ist zu schwer für die Handgepäck-Abwägung.
+Ich liebe es wenn der Bus direkt am Flughafen abholt.
+Der Check-in im Hostel war leider etwas chaotisch gestern.
+Wir sollten vielleicht doch das Camping an der Ostsee buchen.
+Die Einbahnstraße hat uns fast zum falschen Hotel geführt.
+Meine Eltern wollen dieses Jahr unbedingt in die Toskana fliegen.
+Der Reisebus ist immer stressig bei Staus auf der Autobahn.
+Wir haben ein tolles Café am Markt gefunden für den Frühstückstisch.
+Die Stadtbesichtigung zu Fuß war anstrengender als gedacht von mir.
+Ich würde gerne mal eine Kreuzfahrt durch die Kanaren probieren.
+Das Restaurant nahe dem Platz hatte super leckere Pasta für uns.
+Vergiss bitte deine Ladekabel nicht für die Kamera im Rucksack.
+Der Airport-Transfer mit dem Taxi war ziemlich teuer am Ende.
+Ich muss meinen Koffer sofort noch einmal umschichten.
+Das Hotelzimmer hatte leider nur einen kleinen Balkon.
+Mit dem Mietwagen war die Insel richtig gut zu erkunden.
+Wir haben das Flugticket auf Lastminute gebucht und viel gespart.
+Die Strandpromenade in Kopenhagen ist abends mega schön.
+Hat jemand eine gute Empfehlung für hostels in Bangkok?
+Der Zoll in Istanbul hat uns ewig aufgehalten, nervig.
+Ich vermisse schon die frische Meeresluft und das Salzige.
+Unsere Campingplätze hatten alle keine Duschen auf dem Gelände.
+Die Sehenswürdigkeiten in Rom sind einfach überlaufen im Sommer.
+Wir fahren nächste Woche zum Wandern in die Berge.
+Das Reisebüro hat den Buchungsfehler schnell korrigiert und entschuldigt sich.
+Ich packe immer zu viel Kleidung ein, obwohl ich es nicht brauche.
+Die Autobahn war wegen Baustellen komplett blockiert und stinkend lang.
+Unser Flug ging drei Stunden verspätet ab, doof gesagt.
+Die lokale Küche in Marrakesch hat uns total begeistert und überzeugt.
+Wir müssen noch die Reiserücktrittsversicherung absichern, bevor wir buchen.
+Das Airbnb lag perfekt zentral direkt an der U-Bahn-Station.
+Ich hasse es, lange am Flughafen zu warten und nichts tun zu können.
+Die Stadtrundfahrt mit dem Bus war entspannter als gedacht, wirklich.
+Unser Zelt hat bei dem Sturm glücklicherweise nicht weggeblasen, phew.
+Die Aussicht vom Gipfel hat den harten Aufstieg definitiv gelohnt.
+Wir haben im Vorfeld kaum Recherchen über die Region gemacht.
+Der Transfer zum Resort war pünktlich und der Fahrer freundlich.
+Ich träume schon wieder von einem ruhigen Urlaub ohne Termine.
+Wir müssen unbedingt die Zugtickets früh buchen.
+Das Hostel in Berlin war super sauber.
+Habt ihr schon gesehen wie warm es dort wird?
+Ich packe nur einen kleinen Rucksack ein.
+Die Strandbar hat wirklich leckere Cocktails gemischt.
+Macht Sinn für die Rückfahrt mit dem Bus zu fahren?
+Der Checkin im Hotel ging total schnell.
+Wir sollten vielleicht doch noch eine Stadtführung machen.
+Das Flugzeug hatte leider zwei Stunden Verspätung heute.
+Ich liebe es abends am Hafen spazierenzugehen.
+Kannst du mir einen guten Reiseführer für Rom empfehlen?
+Die Ferienwohnung lag etwas abseits vom Zentrum.
+Wir haben die ganze Zeit nur Fotos gemacht.
+Der Zoll kontrolliert alle Gepäckstücke sehr gründlich dort.
+Hast du schon deinen Sommerurlaub gebucht oder warte ich noch?
+Mit dem Camper durch Italien zu fahren wäre traumhaft schön.
+Die Eintrittskarten für die Oper waren leider ausverkauft.
+Ich vergesse immer meine Ladekabel für die Kamera.
+Das Wetter an der Küste war endlich mal wieder besser.
+Wir müssen morgen früh um fünf aufstehen.
+Der Reisebus ist heute Morgen pünktlich angekommen dort.
+Habt ihr schon geprüft ob wir ein Visum brauchen?
+Die Sehenswürdigkeiten am Sonntagmorgen waren komplett leer überraschenderweise.
+Ich brauche dringend eine neue Reisetasche für die Klamotten.
+Das Restaurant in der Altstadt hatte hervorragendes Essen serviert.
+Endlich wieder mal richtig durchatmen können.
+Das Hotelzimmer war viel kleiner als auf den Fotos.
+Wir haben die Zugfahrt zum Glück überlebt.
+Strandliegen sind in dieser Saison schon ausgebucht.
+Der Koffer hat es leider nicht ganz geschafft.
+Ich würde liebend gerne noch eine Woche bleiben.
+Die Mietwagenmiete mit Versicherung ist doch teuer.
+Wir sollten früh buchen, sonst wird nichts daraus.
+Das Picknick im Park war einfach nur genial.
+Kein WLAN in der Berghütte ist auch schön.
+Hast du das Visum schon online beantragt?
+Der Transfer vom Flughafen klappte pünktlich.
+Eselspicken am Lagerfeuer schmeckt einfach am besten.
+Wir waren total erschöpft nach dem Wandertag.
+Die Altstadt von Hamburg finde ich wirklich charmant.
+Ggf. müssen wir den Flugtermin doch verschieben.
+Sonne, Strand und nichts tun – mein Traumbild.
+Der Reiseleiter hat uns gut durch die Stadt geführt.
+Ich habe mich leider mit der Sonne verbrannt.
+Budgethotels in Berlin sind im Sommer rar geworden.
+Mit dem Rad den Weg zum See gefahren.
+Die Aussicht vom Berggipfel war absolut breathtaking.
+Koffer packen nervt mich eigentlich immer ein bisschen.
+Wir müssen morgen früh um fünf losfahren.
+Das Reisebüro hat uns einen super Tipp gegeben.
+Wir überlegen grad ob wir doch nach Kroatien fahren.
+Die Buchung war super einfach über die App.
+Am Strand hat es leider den ganzen Tag geregnet.
+Packt mal eure Koffer für den nächsten Flug.
+Das Hotelzimmer war kleiner als auf den Bildern.
+Mit dem Zug in die Schweiz ist halt teurer.
+Ich liebe diese Gemütlichkeit in kleinen Bergdörfern.
+Hast du schon einen Flieger für das nächste Jahr?
+Der Flughafen München ist irgendwie immer so voll.
+Wir haben uns ein kleines Apartment gemietet statt Hotel.
+Die Sehenswürdigkeiten in Rom sehen alle wunderschön aus.
+Flugtickets bei Last Minute Deals sind oft wirklich günstig.
+Ich vermisse schon wieder den Geruch des Salzwassers.
+Unser Reiseführer hatte leider komplett die falsche Adresse.
+Das Frühstück im Hostel war üppig und frisch zubereitet.
+Wir planen jetzt nur noch Tagestouren in der Gegend.
+Die Zugfahrkarte musst du unbedingt vorher online reservieren.
+Am ersten Tag waren wir total kaputt vom Jetlag.
+Die Aussicht vom Berggipfel war jeden Schritt wert.
+Kannst du mir mal deine Reiseroute für Italien zeigen?
+Das Gepäck hat sich verzögert und kam erst später an.
+Ich würde dieses Jahr eher zum Caravaning tendieren.
+Die Einreisepapiere waren am Pass bereits vollständig geprüft.
+Wir haben glücklicherweise keine Stornierungsgebühren zahlen müssen.
+Das lokale Essen war absolut authentisch und lecker.
+Am Strand von Malia war es leider total überlaufen.
+Wir buchen jetzt direkt über die App statt über Telefon.
+Der Weg zur Zugstation ist nachts ziemlich dunkel.
+Hat jemand eine Empfehlung für ein gutes Hostel in Rom?
+Die Ferienwohnung hatte zwar Aussicht aber keine Küche.
+Ich freue mich so auf den Roadtrip durch Island.
+Billigflieger sind oft nur billig wenn man Pech hat.
+Das Gepäckanhängsel beim Check-in nervt einfach unglaublich.
+In der Ostsee ist das Wasser noch zu kalt für mich.
+Wir haben uns spontan für ein Wochenendtrip entschieden.
+Die Seilbahn in Sölden ist wirklich spektakulär anzusehen.
+Verpasste ich die Buchungsrabatte für den nächsten Sommer?
+Das Bett im Zelt war total unbequem und hart.
+Ich hasse Warteschlangen am Flughafen, das macht mich wahnsinnig.
+Der Bus nach Salzburg fährt alle dreißig Minuten ab.
+Kann man in Barcelona wirklich so viele Sehenswürdigkeiten sehen?
+Unser Hotelzimmer stank merkwürdig nach feuchter Erde.
+Ein Campingplatz mit eigenem Swimmingpool wäre Traum pur.
+Die Reiseversicherung hat zum Glück den Schaden übernommen.
+Ich packe immer zu viel für kurze Aufenthalte ein.
+Das Abendessen im Bistro war einfach nur durchschnittlich.
+Wir fahren nächstes Jahr unbedingt mal auf die Azoren.
+Der Umstieg in Frankfurt war wirklich chaotisch und stressig.
+Habt ihr schon einen Mietwagen für die Insel gebucht?
+Die Wanderung zum Gipfel war anstrengend aber lohnenswert.
+Wir überlegen noch ob wir nach Spanien oder Italien fliegen.
+Das Hotelzimmer hatte leider keinen direkten Seeblick.
+Ich hasse es wenn der Flug stundenlang verzögert wird.
+Mit dem Fahrrad durch die Toskana zu fahren war traumhaft.
+Hast du schon einen Gutschein für den Themenpark bekommen?
+Der Backpacker-Stil hat mir ehrlich gesagt gar nicht gefallen.
+Wir haben in einem winzigen Bungalow auf Bali gewohnt.
+Die Zugfahrt nach Zürich war absolut stressfrei und pünktlich.
+Vergiss nicht dein Reiseadapter im Koffer einzupacken.
+Das Abendessen im lokalen Restaurant schmeckte einfach nur genial.
+Ich würde gerne mal eine Schiffsreise durch Norwegen machen.
+Die Warteschlange am Flughafen war dieses Mal echt lang.
+Unsere Campingstimmung war trotz Regen total entspannt und fröhlich.
+Hast du die Einreisepapiere schon für Thailand besorgt?
+Die Wanderung auf den Teide hat mich sehr ausgelaugt.
+Wir suchen dringend eine kostenlose Parkmöglichkeit in der Innenstadt.
+Der Reiseführer aus dem Jahr 2015 ist jetzt hoffnungslos veraltet.
+Ich vermisse schon die warme Sonne am Strand.
+Das Apartment war sauber aber deutlich zu klein für uns.
+Mit dem Leihwagen kann man abseits der Touristenrouten fahren.
+Die Visa-Regelungen ändern sich ja leider immer mal wieder.
+Wir hatten Glück und bekamen ein Upgrade zur Business Class.
+Der Koffer ist schon gepackt aber ich bin nervös.
+Am besten bucht man die Flugtickets mindestens zwei Wochen vorher.
+Die Aussicht vom Berggipfel hat wirklich alles entschädigt.
+Ich muss unbedingt mal wieder ans Meer fahren.
+Die Hotelzimmer waren zwar klein aber sehr sauber.
+Flugpreis war extrem günstig für diese Reisezeit.
+Wir haben unser Zelt am Seeufer aufgeschlagen.
+Katharinenkathedrale in Florenz ist einfach atemberaubend.
+Mit dem Mietwagen hat man viel mehr Freiheit.
+Ich hasse Wartezeiten an langen Flughafenschlangen total.
+Das Hostel in Berlin hatte super Stimmung.
+Hast du schon deine Zahnbürste eingepackt?
+Der Strand war heute Morgen noch leer genug.
+Wir überlegen noch ob wir ins All-inclusive gehen.
+Sehenswürdigkeiten sollten vorher gut geplant werden.
+Die Wanderung im Schwarzwald war richtig anstrengend doch schön.
+Mein Koffer ist wieder zu schwer geworden.
+Kaffee am Morgen schmeckt im Ausland immer besser.
+Ich würde gern mal eine Kreuzfahrt probieren.
+Das Ticket für die Seilbahn waren es wert.
+Urlaubsfotos bearbeiten dauert leider ewig lang.
+Wir haben das Apartment direkt am Bahnhof gemietet.
+Regen hat uns bei unserem Stadtbummel genervt.
+Gutes Reisehandy ist immer praktisch unterwegs.
+Ich liebe den Duft von Salzwasser.
+Buchungsbestätigung kam leider erst verspätet an.
+Campingplatz war sauber und hatte sogar WLAN.
+Taschengeld für die Kinder vorher gut abstimmen.
+Wir überlegen noch ob wir den Flieger oder die Bahn nehmen.
+Das Hotelzimmer war leider viel kleiner als auf dem Bild.
+In Barcelona essen wir morgen definitiv am Strand zu Mittag.
+Hast du schon gesehen wie teuer die Parkgebühren dort sind?
+Unser Hostel hatte zwar keinen Pool aber super Location.
+Die Wanderung zum Gipfel war anstrengend hat sich aber gelohnt.
+Wir sollten für den Rückflug früher buchen damit es günstiger wird.
+Das Museumscafé in Berlin ist wirklich einen Besuch wert.
+Mit dem Camper durch Island fahren klingt nach einem Traum.
+Die Strandbar auf Mallorca serviert das beste Pisco Sour der Welt.
+Vergiss nicht den Adapter mitzunehmen denn die Stecker sind anders.
+Der Zug nach Venedig fährt pünktlich und bietet tolle Ausblicke.
+Wir schlafen morgen wieder im Zelt weil es so ruhig ist.
+Die Eintrittskarte für den Colosseum muss man vorher online reservieren.
+Unser Reiseleiter war super freundlich und erklärte alles sehr gut.
+Im Sommer ist Rom einfach zu voll um entspannt zu spazieren.
+Habt ihr schon ein Restaurant für den Valentinstag in Wien?
+Der Blick vom Eiffelturm bei Nacht bleibt einfach unvergesslich.
+Wir sparen Geld indem wir frühstücksmaterial aus dem Supermarkt kaufen.
+Die Fährverbindung nach Helgoland war aufgrund des Wetters storniert.
+Ich liebe es am Morgen mit einem Kaffee über die Altstadt zu schlendern.
+Der Mietwagen war praktisch aber das Einparken in der Innenstadt nervig.
+Für die Inselhopping Tour brauchen wir definitiv wasserfeste Schuhe.
+Die Nachtruhe im Schlafsaal wurde durch Schnarchen etwas gestört.
+Die Zugkarte nach Berlin war wahnsinnig günstig.
+Wir buchen lieber direkt über die Hotelwebsite.
+Der Strand in Kroatien ist im August total voll.
+Packt eure Jacke ein, es kann abends kalt werden.
+Ich liebe es, neue Städte zu Fuß zu erkunden.
+Das Reiseproviant vom Supermarkt reicht völlig aus.
+Falls ihr nach Island fliegt, nehmt warme Schuhe.
+Der Transfer vom Flughafen war pünktlich und freundlich.
+Unsere Ferienwohnung hatte eine fantastische Aussicht auf die Berge.
+Im Sommer sollte man unbedingt früh am Strand sein.
+Die Sehenswürdigkeiten in Rom überfordern einen schnell.
+Wir haben ein günstiges Angebot für Thailand gefunden.
+Leider musste unser Flug um drei Stunden verschoben werden.
+Am besten prüft ihr vorab die Einreisebestimmungen genau.
+Der Camper stand direkt am Seeufer, super Lage.
+Ich würde gerne mal per Schiff durch Griechenland reisen.
+Das Frühstück im Hotel war leider nur durchschnittlich.
+Für den Citytrip reicht ein Rucksack komplett aus.
+Wir haben uns eine Stadtrunde auf dem Fahrrad gebucht.
+Die Preise für Mietwagen sind zur Hauptzeit explodiert.
+Besonders die Abendsonne am Meer hat uns berührt.
+Ihr solltet unbedingt das lokale Essen probieren gehen.
+Der Anschlussbus in den Bergen ist etwas wackelig.
+Meine Schwester schwört auf ihre neue Reisetasche.
+Das Picknick im Park war ein Highlight des Tages.
+Wir müssen endlich mal wieder in den Süden fliegen.
+Das neue Hotelzimmer hat eine richtig tolle Aussicht.
+Falls ihr nach Berlin kommt meldet euch bitte vorher.
+Im Gepäck ist noch Platz für ein paar Souvenirs.
+Die Zugverbindung vom Airport ins Zentrum war super schnell.
+Hast du schon gesehen wie lange das Visum kostet?
+Am Strand haben wir die ganze Zeit nur gebrannt.
+Der Mietwagen in den Alpen war wirklich klein und unbequem.
+Wir planen fürs nächste Jahr eine Rundreise durch Portugal.
+Ich hasse es wenn der Koffer am Flughafen verloren geht.
+Die Einheimischen sind hier unglaublich freundlich und hilfsbereit.
+Unser Zimmer im Hostel hatte nur ein Gemeinschaftsbad leider.
+Mit dem Rad durch Amsterdam zu fahren ist einfach genial.
+Habt ihr Erfahrung mit dem neuen Fluglinien-Check-in?
+Die Sehenswürdigkeiten in Rom waren völlig überlaufen am Mittag.
+Wir müssen die Reiserückversicherung noch bis morgen verlängern.
+Der Bus nach Neapel hat zweieinhalb Stunden Verspätung bekommen.
+Ich vermisse schon wieder das Salz in der Luft.
+Für den Wandertourismus brauchst du unbedingt feste Schuhe.
+Die Buchung über die App war kompliziert und langsam.
+Endlich mal ohne Zeitplan durch die Stadt schlendern können.
+Das Frühstück im Hotel schmeckte eigentlich gar nicht schlecht.
+Wir suchen noch eine gute Pension in der Nähe.
+Der Passkontrolleur hat uns sehr sorgfältig überprüft gestern.
+Mal sehen ob das Wetter am Urlaubsort stimmt heute.
+Wir überlegen gerade ob wir die Küste oder den Berg nehmen.
+Die Fluggesellschaft hat meinen Koffer in Wien liegen lassen.
+Ich brauche dringend eine neue Reisetasche für die lange Fahrt.
+Das Hotelzimmer war kleiner als auf dem Foto im Internet.
+Am besten bucht ihr frühzeitig die Mietwagen wenn ihr flexibel seid.
+Der Strand in Kroatien ist leider schon wieder überlaufen dieses Jahr.
+Wir haben den Zug verpasst und müssen jetzt umsteigen.
+Ein Picknick am See ist doch viel entspannter als das Restaurant.
+Die Sehenswürdigkeiten in Rom sind im Sommer extrem warm und voll.
+Kann mir jemand einen Tipp für ein gutes Hostel in Berlin geben?
+Ich hasse es wenn die Flugzeugsitzbezüge so schmutzig und alt aussehen.
+Der Pass hat geklappt und wir stehen schon an der Abfertigung.
+Wir wollen diesmal mal ohne Handy und Internet aus dem Haus gehen.
+Die Seilbahn auf den Zugspitze Platte war richtig teuer aber schön.
+Habt ihr eine Empfehlung für ein gutes Reisebüro in meiner Nähe?
+Das Backpacking Erlebnis in Südostasien hat mir sehr viel Spaß gemacht.
+Ich finde es nervig wenn die Toiletten auf der Straße so schmutzig sind.
+Wir müssen noch die Visa beantragen bevor die Fristen ablaufen.
+Der Campingplatz war ruhig und wir hatten unseren eigenen Bereich privat.
+Kann man mit dem Rad den gesamten Weg entlang fahren ohne Probleme?
+Die Abendbeleuchtung am Kölner Dom sieht einfach nur spektakulär aus.
+Ich vergesse immer meine Sonnenbrille zu Hause wenn es plötzlich hell wird.
+Das Flugzeug hat leider vier Stunden Verspätung und wir warten schon.
+Wir suchen noch eine zweite Person für den gemeinsamen Mietwagenpool jetzt.
+Wir suchen noch nach einem günstigen Flug für Juni.
+Die Ferienwohnung hatte leider kein WLAN verfügbar.
+Mit dem Zug durch die Alpen ist einfach traumhaft.
+Ich habe meine Koffer schon vor zwei Tagen gepackt.
+Der Strand in Kreta war dieses Jahr total überlaufen.
+Hast du den Mietwagen schon online gebucht?
+Das Abendessen im kleinen Lokal schmeckte richtig gut.
+Wir sollten mal wieder einen Campingtrip machen.
+Die Sehenswürdigkeiten in Rom lassen sich schlecht einteilen.
+Mein Reiserucksack hat leider einen Reißen an der Seite.
+Der Check-in am Flughafen lief glücklicherweise ganz reibungslos.
+Fotos von den Bergen werde ich euch später schicken.
+Das Wetter in Barcelona im Herbst ist meistens stabil.
+Wir haben überlegt, ob wir lieber mit dem Boot fahren.
+Die Stadtkarte für Berlin zahlt sich auf jeden Fall aus.
+Echt ärgerlich, dass der Zug so lange Verspätung hatte.
+Ich vermisse schon die Ruhe am Seeufer.
+Die Einreisebestimmungen ändern sich immer wieder kurzfristig.
+Ein Roadtrip durch Amerika ist ein Traumprojekt von mir.
+Das Frühstück im Hotel war wirklich viel zu teuer.
+Wir planen für August noch eine spontane Städtereise.
+Die Aussicht vom Berggipfel hat alle Mühen gelohnt.
+Mein Handy ist bei der Wanderung leider eingesandet.
+Sucht ihr auch noch nach einem passenden Reisetagen?
+Das Hostelpersonal war unglaublich freundlich und hilfsbereit.
+Ich suche noch nach einer günstigen Unterkunft in Berlin.
+Der Flug nach Barcelona war total entspannt.
+Wir fahren dieses Jahr lieber mit dem Camper.
+Habt ihr schon Tickets für die Oper gebucht?
+Das Hotelzimmer hatte leider keinen Meerblick.
+Ich kann dir das neue Hostel nur empfehlen.
+Am besten bucht ihr den Mietwagen frühzeitig.
+Die Strandpromenade in Kopenhagen ist super schön.
+Mir war auf der Nachtflug echt übel.
+Wir haben vergessen die Reiseversicherung abzuschließen.
+Das Backpacking in Thailand war ein Traum.
+Ich hasse Warteschlangen am Checkin-Schalter so sehr.
+Kann mir jemand eine gute Gegend in Rom nennen?
+Der Zug nach Wien hat heute leider verspätet.
+Unser Ferienhaus am See war wirklich gemütlich.
+Man sollte immer Kopien der Pässe dabei haben.
+Die Stadtrundfahrt mit dem Bus war langweilig.
+Ich vermisste zu Hause das richtige Essen.
+Falls ihr zum Wandern geht, packt gute Schuhe ein.
+Der Strand in der Türkei war leider voller Menschen.
+Wir planen gerade unsere nächste Weltumrundung zusammen.
+Das Museum ist am Montag geschlossen, bitte beachten.
+Ich liebe den Geruch von Neuheit im Hotelzimmer.
+Der Transfer vom Flughafen dauete ewig lang.
+Wir packen schon mal die Koffer für Italien.
+Das Flugzeug hat drei Stunden Verspätung gehabt.
+Am Strand haben wir den ganzen Tag relaxt.
+Die Ferienwohnung hatte einen tollen Meerblick.
+Hast du schon Tickets für den Zug gebucht?
+Der Gepäckaufgabeschalter war unglaublich lange besetzt.
+Ich vermisse unseren Roadtrip durch die Berge.
+Für die Rückfahrt sollten wir früher losfahren.
+Das Frühstück im Hotel war wirklich lecker.
+Wirst du mit dem Auto oder der Bahn kommen?
+Die Sehenswürdigkeiten in Rom sind echt beeindruckend.
+Unser Reiseplan ist noch ziemlich vage.
+Der Kofferinhalt passte fast nicht mehr rein.
+Ich liebe es, neue Städte zu erkunden.
+Das WLAN im Hostel funktionierte leider gar nicht.
+Wir haben den Zug knapp verpasst.
+Die Reiseführer empfehlen das Museum unbedingt.
+Sollten wir noch eine Stadtrundfahrt buchen?
+Der Blick vom Aussichtspunkt war atemberaubend.
+Mein Urlaub ist schon wieder zu Ende.
+Wir schlafen jede Nacht in einer anderen Stadt.
+Das Wetter im September war perfekt für Wanderungen.
+Hast du deine Pässe schon kontrolliert?
+Die Reisekosten teilen wir uns einfach hälftig.
+Ich kann kaum abwarten, bis es losgeht.
+Der Airport-Shuttle kam pünktlich zur Abholung.
+Wir haben die Campingplätze online gebucht.
+Die Aussicht vom Berghotel war einfach traumhaft.
+Vergesst nicht den Adapter für die Steckdosen.
+Mit dem Mietwagen ist man viel flexibler unterwegs.
+Der Strand in Kroatien hat uns begeistert.
+Billigflieger sind oft nur so günstig wie sie scheinen.
+Wir haben unser Gepäck schon vor zwei Wochen gepackt.
+Die Wanderung durch das Tal war anstrengend, aber schön.
+Ich liebe den Geruch von Salzwasser am Morgen.
+Ein guter Reiseführer macht den großen Unterschied vor Ort.
+Der Airport-Transfer kam leider etwas zu spät.
+Wir suchen nach einer Ferienwohnung mit Garten.
+Das Picknick auf der Insel war unser Highlight.
+Reisetasche packen dauert länger als man denkt.
+Die Nachtzugfahrt nach Wien war sehr gemütlich.
+Vorsicht bei versteckten Gebühren im Pauschalangebot.
+Wir haben die Sehenswürdigkeiten zu Fuß erkundet.
+Der Regen hat unseren Stadtspaziergang leider ruiniert.
+Ich empfehle definitiv den Frühbucher-Rabatt zu nutzen.
+Das Reisebüro konnte uns gut beraten.
+Am liebsten schlafen wir direkt am Meer.
+Unsere Koffer sind bereits im Flieger gelandet.
+Die Sprachbarriere war gar nicht so schlimm.
+Wir freuen uns schon auf die nächste Wanderung.
+Ein guter Kompass ist im Gebirge unverzichtbar.
+Ich packe gerade mal schnell meinen Koffer für das Wochenende.
+Die Buchung auf der Website ist irgendwie immer wieder abgebrochen.
+Wir überlegen noch ob wir doch nach Italien fahren sollen.
+Das Hotelzimmer war viel zu klein für unsere ganze Familie.
+Hast du schon mal mit dem Nachtzug gefahren?
+Ich finde diesen Strandabschnitt am schönsten von allen.
+Die Reisekosten haben uns fast insoweit gebracht wie erwartet.
+Pack lieber mehr Sonnenschutz ein als du denkst dass nötig ist.
+Der Ausflug ins Gebirge war echt anstrengend aber wunderschön.
+Kannst du mir deine Hoteladresse noch einmal per WhatsApp schicken?
+Wir sitzen hier im Zug und schauen die Landschaft vorbei ziehen.
+Die Einreisebestimmungen haben sich apparently wieder geändert letztes Jahr.
+Ich habe keine Lust mehr auf diesen tristen Flughafenkaffee zu trinken.
+Das Reisebüro war komplett unhelpful bei meiner stornierung last Minute.
+Wir müssen früher los ansonsten verpassen wir den ersten Zug überhaupt.
+Die Ferienwohnung hatte leider keinen Balkon obwohl es so versprochen wurde.
+Ich freue mich schon riesig auf die Tage am Meer später.
+Fährst du dieses Jahr auch mit dem Wohnmobil in den Süden hin?
+Die Stadtrundfahrt war wirklich interessant und hat gut geklappt insgesamt gesehen.
+Mein Reisepass ist leider bald abgelaufen ich muss den erneuern lassen.
+Hast du schon die Rückreisekosten einkalkuliert für diesen Trip vielleicht?
+Das Wetter im Urlaub war bisher super zum Baden und Spazierengehen.
+Ich brauche dringend neue Schuhe für meine Wanderungen in den Bergen.
+Die App zum Checkin am Flughafen hat gestern total funktioniert ohne Stress.
+Wir haben uns ein günstiges Hostel in Barcelona gebucht für drei Nächte.
+Vergiss nicht deine Zahnbürste und Deo vor der Abfahrt mitzunehmen bitte.
+Endlich mal wieder ein paar Tage richtig abschalten.
+Der Flug nach Mallorca war leider ganz schön teuer.
+Wir überlegen noch, ob wir das Zelt mitnehmen sollen.
+Im Airbnb hat alles gestunken, total enttäuschend.
+Die Wanderung am Bergsee war echt anstrengend, aber schön.
+Hast du schon Tickets für den Eiffelturm gebucht?
+Mit dem Mietwagen kommt man viel flexibler voran.
+Ich hasse diese langen Wartezeiten am Flughafencheck-in.
+Das Strandhotel liegt direkt am Wasser, Traum!
+Wir fliegen morgen früh um sechs ab, viel Glück.
+Die Stadtrundfahrt in Berlin war gar nicht so langweilig.
+Können wir uns für die Rückfahrt einen Shuttle teilen?
+Der Pool im Resort war leider geschlossen.
+Ich liebe es, neue Straßen und Städte zu entdecken.
+Das Restaurant am Hafen hatte richtig frischen Fisch.
+Wir müssen unbedingt noch ein Visum für Thailand beantragen.
+Die Unterkunft in Rom lag super zentral gelegen.
+Mein Reisepartner ist schon wieder mal ganz schön laut.
+Das Gepäckankommen dauert immer nervig lange an.
+Ein Picknick im Park war die perfekte Idee.
+Die Sehenswürdigkeiten bei Nacht sind besonders stimmungsvoll.
+Ich finde, Backpacking ist einfach freier als Hotelurlaub.
+Der Zug nach Rom hatte eine halbe Stunde Verspätung.
+Wir haben auf dem Rückweg noch einen Umweg gemacht.
+Wir brauchen noch eine Hotelreservation für Paris.
+Die Zugfahrt durch die Alpen war atemberaubend schön.
+Mein Koffer hat beim Check in schon wieder gerissen.
+In Barcelona muss man unbedingt an die Sagrada Familia.
+Der Mietwagen war leider voller Kratzer und Dellen.
+Hast du die Fluggutscheine bereits online gedruckt?
+Das Campingplatz Wlan war absolut nicht zu gebrauchen.
+Wir sollten für den Strandurlaub noch Sonnencreme kaufen.
+Die Straßenbahn in Budapest fährt tagsüber wirklich pünktlich.
+Mein Reisetagebuch ist fast ganz voll geworden jetzt.
+Der Ausblick vom Götterdamm bei Helgoland ist traumhaft.
+Ich verhasse es wenn mein Flug immer wieder verzögert wird.
+Das Apartment hatte eine tolle Küche und zwei Betten.
+Wir haben die Eintrittskarten schon Monate im Voraus gebucht.
+Die Sprache in Thailands Dörfern war komplett neu für mich.
+Ein Last Minute Deal kann echt schnell mal gut gehen.
+Der Reisebus ist immer voller als man denkt normalerweise.
+In Venedig muss man sehr auf seine Tassen achten.
+Das Frühstück im Hostel war überraschend reichhaltig und frisch.
+Wir fliegen am Freitag Abend gegen neun Uhr los.
+Die Sehenswürdigkeiten in Rom sind teilweise einfach überwältigend groß.
+Mein Reiseführer ist schon wieder veraltet und falsch.
+Der Transfer zum Flughafen dauete wegen Bauarbeiten ewig.
+Ich liebe es wenn man abends am Lagerfeuer sitzt.
+Das Hotelzimmer hatte leider keinen Blick aufs Meer.
+Wann fliegt ihr denn eigentlich ab?
+Ich muss meinen Koffer noch schnell packen.
+Die Strandbar hat wirklich guten Cocktail.
+In der Hitze war jeder Pool ein Segen.
+Wir buchen immer direkt bei der Fluglinie.
+Das Wanderwegenetz im Harz ist super ausgebaut.
+Hast du schon die Mietwagenreservierung bestätigt?
+Der Blick vom Balkon war einfach atemberaubend.
+Leider haben wir den Anschlussbus verpasst.
+Ein Backpacking-Trip durch Südostasien klingt fantastisch.
+Die Gepäckzusatzversicherung hat sich doch gelohnt.
+Ich vermisse schon meine eigene Matratze.
+Kannst du mir einen Tipp für Barcelona geben?
+Mit dem Zug nach Italien war sehr entspannt.
+Das Hotelzimmer war leider viel zu klein.
+Wir planen mal eine Rundreise durch Island.
+Die Sehenswürdigkeiten in Rom sind unübertroffen.
+Hab ihr schon Karten für die Oper gekauft?
+Camping im Zelt ist zwar billig aber anstrengend.
+Der Transfer vom Flughafen war pünktlich da.
+Ich habe so viel zu viele Fotos gemacht.
+Ein Wellness-Urlaub wäre jetzt genau das Richtige.
+Die Stadtmauer in Rothenburg ob der Tauber ist toll.
+Flugpreisknaller findet man nur mit Geduld.
+Unser Reisebegleiter war unglaublich engagiert und wissenswert.
+Das Café am Hafen hat einen tollen Ausblick.
+Die Buchung war super unkompliziert über die App.
+Wir sollten wirklich mal den Norden erkunden.
+Das Hotelzimmer hatte leider keinen Balkon.
+Der Flug nach Barcelona war pünktlich abgeholt.
+Pauschalreisen sind oft günstiger als alles einzeln.
+Ich vermisse schon wieder das Meer stark.
+Unser Reiseleiter hat super über die Geschichte erzählt.
+Am besten bucht man frühzeitig im Sommer.
+Die Zugfahrt durch die Berge war atemberaubend.
+Ich habe meinen Koffer fast kaputt gemacht.
+Kaffee am Flughafen kostet immer ein Vermögen.
+Die Sehenswürdigkeiten waren wirklich beeindruckend und vielfältig.
+Wir müssen noch unser Visum beantragen.
+Der Strand in Kroatien ist einfach traumhaft.
+Ferienwohnungen sind meist günstiger als klassische Hotels.
+Ich liebe es, unbekannte Orte zu entdecken.
+Das Gepäck war zum Glück nicht beschädigt.
+Ein Roadtrip durch Italien wäre fantastisch geplant.
+Wir haben die beste Aussicht vom Balkon.
+Reiseführer kann man heutzutage fast vergessen.
+Die Einreisebestimmungen haben sich wieder geändert.
+Ich packe lieber zu wenig als zu viel ein.
+Der Shuttlebus zum Resort war sehr komfortabel.
+Urlaub ist immer zu kurz für mich.
+Wir suchen noch nach einem günstigen Hotel.
+Ich suche noch nach nem günstigen Flug nach Mallorca.
+Das Strandhotel hatte leider directen Blick auf die Bäume.
+Mit dem Mietwagen haben wir so viele Dörfer entdeckt.
+Hast du schon mal in einem Glampingzelt übernachtet?
+Die Zugverbindung im Süden war richtig schlecht gestern.
+Wir machen dieses Jahr nur noch einen Roadtrip durch Italien.
+Buche am besten früh, damit die Preise nicht explodieren.
+Der Airportshuttle hat uns total bequem zum Terminal gebracht.
+In Venedig sollte man unbedingt die Maskenwerkstatt besuchen.
+Unser Campingplatz war super sauber und gut ausgestattet gewesen.
+Ich hasse es, wenn der Koffer bei der Ankunft fehlt.
+Habt ihr für euren Bali-Trip schon ein Hotel gefunden?
+Die Stadtbummel in Barcelona waren wirklich schön und entspannt.
+Mit dem Rucksack reisen ist oft viel freier und leichter.
+Wir planen unseren Roadtrip erst mal nicht weiter genau.
+Das Airbnb war zwar klein aber dafür richtig gemütlich.
+Hast du deine Reiserücktrittskostenversicherung schon abgeschlossen?
+Die Besichtigung des Colosseums war einfach nur atemberaubend schön.
+Ich bevorzuge doch immer noch die Anmietung vor Ort.
+Für den Urlaub in Thailand braucht man keine Impfung mehr.
+Das Hostel hat uns nette Kontakte für die Stadt vermittelt.
+Wir haben den Check-in ganz einfach online erledigen können.
+Die Sehenswürdigkeiten am Tag sind oft viel zu überlaufen.
+Ich finde, dass Reisetipps von Freunden immer besser sind.
+Unsere Ferienwohnung hatte einen tollen Blick auf das Meer.
+Wir haben gerade die Buchung für Kroatien bestätigt.
+Das Flugzeug hat drei Stunden Verspätung gehabt.
+Ich liebe es morgens auf dem Balkon zu sitzen.
+Der Strand war leider extrem überlaufen heute.
+Könnt ihr mir ein gutes Hostel in Berlin empfehlen?
+Mit dem Zug durch die Schweiz ist Traum pur.
+Wir haben das Hotelzimmer wegen Lärm getauscht.
+Die Reiseroute durch den Süden planen wir noch.
+Gepäckgewicht ist beim Billiganbieter wirklich nervig.
+Ich vermisse das warme Klima bereits sehr.
+Das Picknick am See war unser Highlight des Tages.
+Handyroaming kostet hier leider richtig viel Geld.
+Wir suchen dringend ein Zelt für den Campingurlaub.
+Die Altstadt von Rom sieht bei Nacht einfach fantastisch aus.
+Reisepass kontrollieren, bevor man ins Flugzeug steigt.
+Der Transfer vom Flughafen war pünktlich und freundlich.
+Ich habe mir die Füße im Meer gerotzt.
+Buche unbedingt frühzeitig für die Hochsaison.
+Das Frühstück im Resort war reichhaltig und lecker.
+Wanderpfade in den Alpen sind oft nicht gut beschildert.
+Wir überlegen noch, ob wir Mietwagen oder Taxi nehmen.
+Der Ausblick von diesem Berggipfel ist atemberaubend gewesen.
+Sonnenschutz vergessen heißt rote Haut garantiert.
+Die Nachtleben in Bangkok ist echt wild geworden.
+Ich kann mir keinen Ort erholsamer vorstellen.
+Günstige Bahnkarten muss man oft im Voraus buchen.
+Ich muss meine Pässe für die nächste Reise prüfen.
+Das Flugzeug nach Barcelona hatte leider zwei Stunden Verspätung.
+Wir suchen noch eine günstige Ferienwohnung am Nordseeufer.
+Der Check-in am Flughafen war surprisingly schnell und einfach.
+In Rom sollte man unbedingt früh am Morgen zum Kolosseum gehen.
+Mein Koffer ist wieder mal viel zu schwer gepackt worden.
+Die Autobahn nach München war heute Morgen kompletter Wahnsinn.
+Wir überlegen, ob wir dieses Jahr noch an den Bodensee fahren.
+Das neue Reisebüro hat uns wirklich super beraten und geholfen.
+Mit dem Zug durch die Alpen fährt sich einfach traumhaft schön.
+Ich vergesse immer meine Ladekabel für das Handy zu Hause.
+Der Strand in Kreta war leider ziemlich überlaufen am Mittag.
+Wir haben unsere Campingausrüstung endlich mal wieder ausgepackt und geprüft.
+Die Stadtrundfahrt mit dem offenen Bus war sehr empfehlenswert.
+Mein Bruder kommt nächste Woche auch noch zum Urlaubsknick dazu.
+Das Restaurant direkt am Hafen hatte wirklich fantastischen Fisch heute.
+Ich brauche dringend einen neuen Rucksack für meine Wanderungen.
+Die Mietwagenfirma in Paris hat uns total reingezickt beim Preis.
+Unser Apartment hatte leider kein Blick auf das Meer oder so.
+Wir planen gerade eine kleine Roadtrip durch die Toskana dieses Jahr.
+Der Reiseführer hat uns sehr viele interessante Geheimtipps verraten.
+Ich finde, Backpacking ist einfach viel abenteuerlicher als Hotelurlaub überhaupt.
+Das neue Hostel in Berlin ist zwar voll, aber mega cool gestaltet.
+Meine Tante schwört seit Jahren nur noch auf diese eine Kreuzfahrtlinie.
+Ich suche noch nach günstigen Flügen nach Barcelona.
+Das Airbnb in München hatte leider kein Frühstück.
+Wir überlegen uns einen Roadtrip durch Norwegen.
+Die Bahnverbindung nach Hamburg ist wirklich schlecht geworden.
+Hast du schon dein Hotel für die Silvesterreise gebucht?
+Der Strand in Kroatien war dieses Jahr voller als erwartet.
+Ich packe gerade meine Koffer für den Kurzurlaub.
+Die Visumsanträge für Thailand machen mich wahnsinnig langsam.
+Wir schlafen im Zelt direkt am Seeufer übernachten.
+Die Stadtrundfahrt in Berlin war viel zu teuer finde ich.
+Kannst du mir deine Reiseroute für Italien nochmal schicken?
+Der Mietwagen war leider voller Dellen als versprochen.
+Wir machen eine Pause im Reisebüro vor der Abreise.
+Das Picknick am Seeufer war ein absoluter Traummoment.
+Habt ihr schon die Zugtickets für den Rückweg gekauft?
+Die Unterkunft in Rom liegt perfekt zentral gelegen direkt.
+Ich vermisste mein Bettzeug während des Campingurlaubs ganz schön.
+Der Flug nach Lissabon wurde leider zweimal verschoben gestern.
+Wir haben uns spontan für den Wanderurlaub entschieden heutzutage.
+Die Stadtführerin in Wien erzählte viele spannende Geschichten dabei.
+Einwohnerkarte für die U-Bahn ist oft günstiger insgesamt gerechnet.
+Wir schlafen heute Nacht wieder im Campingzelt draußen drinnen.
+Der Transfer zum Flughafen dauerte länger als eigentlich geplant war.
+Hast du schon einen Reiseführer für dein Land bestellt?
+Die Aussicht vom Berggipfel hat uns den Aufstieg gelohnt definitiv.
+Wir überlegen noch ob wir nach Italien oder Spanien fliegen.
+Die Bahnkarte für den Interrail war wirklich jeden Cent wert.
+Hast du schon mal in einem Hostel geschlafen?
+Der Strand in Kreta ist leider total überlaufen im Juli.
+Ich packe immer zu wenig ein und vergesse dann Socken.
+Mit dem Roller durch Rom fahren ist pure Hysterie aber cool.
+Wir sollten vielleicht mal einen Roadtrip durch die USA planen.
+Die Reiseversicherung hat uns glücklicherweise alles erstattet.
+In Barcelona essen wir jeden Abend tapas bis spät in die Nacht.
+Der Flughafen München war dieses Mal zum Glück nicht so voll.
+Hast du schon deinen Flug gebucht oder wartest du noch auf Angebote?
+Das Bergpanorama von der Seilbahn aus war einfach nur atemberaubend.
+Ich hasse es wenn der Koffer im Transferschalter versammelt wird.
+Für die Japanreise brauchen wir beide das Visa on Arrival nicht.
+Das Hotelzimmer lag direkt am Platz und war trotz Lärm okay.
+Wir haben vergessen den Adapter mitzunehmen und waren verzweifelt.
+Die Stadtrundfahrt auf dem Schiff war der Highlight vom ersten Tag.
+Ich liebe es morgens im Zug zu sitzen und rauszuschauen.
+Die Reisekosten für drei Personen waren diesmal echt happig geworden.
+Kannst du mir eine Empfehlung für ein Hostel in Berlin geben?
+Der Mietwagen am Flughafen von Teneriffa war deutlich teurer als online.
+Wir haben uns die Warteschlange an der Grenze gar nicht vorgestellt.
+Das Picknick auf dem Felderweg war viel entspannter als im Restaurant.
+Ich vergesse nie meine Powerbank wenn ich wieder verreisen werde.
+Die Kofferwaage in der Bahn hat mich doch ganz schön gestresst.
+Wir buchen dieses Jahr lieber direkt beim Vermieter.
+Der Flug nach Rom war leider wieder mal verspätet.
+Hast du schon gesehen wie die Preise gerade steigen?
+Mein Koffer hat auf der Reise leider etwas gelitten.
+Die Strandbar am Morgen ist einfach der Wahnsinn.
+Ich vermisse das Essen aus unserem Italienurlaub schon.
+Sollten wir doch mal ein Zeltcamping ausprobieren?
+Die Sehenswürdigkeiten in Berlin kann man nicht alle sehen.
+Mit dem Zug durch die Schweiz ist einfach entspannender.
+Vergiss dein Handytethering nicht für den Auslandseinsatz.
+Das Hotelzimmer war total klein aber super sauber.
+Wir machen dieses Jahr erstmal gar keine großen Pläne.
+Die Visumgebühren sind bei so viel Geld wirklich lästig.
+Hast du schon eine Idee für die nächste Städtereise?
+Der Mietwagen wurde am Ankunftstag leider nicht bereitgestellt.
+Ich liebe es einfach frühmorgens durch leere Straßen zu laufen.
+Das WLAN in der Pension hat überhaupt nicht funktioniert.
+Pack lieber leichte Schuhe ein für die vielen Gehstrecken.
+Die Aussicht vom Berghotel war unschlagbar schön eigentlich.
+Wir überlegen ob wir doch noch etwas länger bleiben sollen.
+Der Transfer zum Flughafen war pünktlich und freundlich organisiert.
+Man sollte sich vor der Abreise immer gut informieren.
+Das Frühstück im Hotel hat mich wirklich überrascht positively.
+Ich habe meinen Reisepass glücklicherweise rechtzeitig gefunden.
+Die Tickets für das Konzert waren ausverkauft als ich kam.
+Wir überlegen gerade ob wir dieses Jahr in die Toskana fahren.
+Der Strand war leider etwas zu voll für meinen Geschmack.
+Hast du schon einen Flug für den Sommer gebucht?
+Ich liebe es einfach so ohne festen Plan durch den Ort zu schlendern.
+Die Zugfahrt nach Berlin dauerte viel länger als erwartet.
+Unser Hotelzimmer hatte einen super Ausblick auf die Berge.
+Vergiss nicht die Adapter mitzunehmen wenn du ins Ausland fliegst.
+Das Picknick an der See war echt entspannend am Sonntag.
+Wir haben uns das Apartment in Madrid direkt über Airbnb gesichert.
+Inchallah kommen wir nächste Woche endlich mal wieder runter zum Wasser.
+Die Sehenswürdigkeiten im Zentrum sind am frühen Morgen deutlich besser zu sehen.
+Ich vermisste meine eigenen Laken auf dieser langen Reise ungemein.
+Wusstest du dass man in Italien viele Museen gratis besuchen kann?
+Der Transfer vom Flughafen war pünktlich und der Fahrer sehr freundlich.
+Wir wollten eigentlich campen aber das Wetter hat uns verraten.
+Die lokalen Streetfood Stände bieten oft die besten und günstigsten Gerichte.
+Habt ihr eine Empfehlung für ein ruhiges Hotel in der Innenstadt?
+Mein Koffer war leider überladen daher musste ich nochmal extra bezahlen.
+Der Sonnenaufgang von der Terrasse aus war einfach nur atemberaubend schön.
+Man sollte immer Pflaster mitnehmen bei so viel Sightseeing am Tag.
+Die Wanderung heute Vormittag hat mir richtig gut getan und gekraftet.
+Der Reiseführer vor Ort war super kompetent und sprach fließend Deutsch.
+Wir haben zufällig das perfekte Picknickwetter erwischt für unseren Parkbesuch.
+Die Buchungsmail ist leider noch nicht in meinem Postfach angekommen.
+Wir fliegen nächsten Dienstag nach Mallorca.
+Die Hotellobby in Berlin sah echt edel aus.
+Hast du schon die Koffer gepackt?
+Mit dem Zug ins Grüne entspannt sich am besten.
+Das Airbnb war leider nicht sauber genug.
+In Italien muss man unbedingt Pizza essen gehen.
+Der Flug nach Tokio ist ganz schön teuer.
+Ich liebe das Gefühl, wenn der Urlaub beginnt.
+Unsere Camper-Reise durch Norwegen war traumhaft.
+Hast du eine Empfehlung für einen Reisebus?
+Die Strandbar in Phuket hatte super Cocktails.
+Wir haben vergessen die Stromadapter mitzunehmen.
+Der Stadtbummel in Wien ist immer schön.
+Die Buchung über das Handy ging super schnell.
+Am See lagern wir dieses Jahr wieder mal.
+Der Check-in an der Flughafen war sehr nervig.
+Ich würde gerne mal mit dem Schiff reisen.
+Die Sehenswürdigkeiten in Rom sind wirklich beeindruckend.
+Hast du schon deine Flugtickets bestätigt?
+Der Wanderurlaub in den Alpen war anstrengend aber schön.
+Wir suchen noch eine gute Pauschalreise für 2024.
+Das Reisebüro hat uns einen tollen Tipp gegeben.
+Im Zug habe ich leider keinen Platz gefunden.
+Die Kofferwaage im Baumarkt war recht praktisch.
+Wir fliegen morgen früh nach Barcelona.
+Das neue Hostel in Berlin hat super Betten.
+Hast du schon den Zug für die Rückfahrt gebucht?
+Ich liebe es morgens an einem unbekannten Strand zu sitzen.
+Die Koffer sind endlich gepackt und stehen bereit.
+Mietwagen nehmen wir dieses Jahr mal nicht wieder.
+In Paris war das Wetter leider ganz schön mies.
+Kannst du mir einen Tipp für gutes Essen geben?
+Der Check-in im Hotel verlief absolut reibungslos heute.
+Wir suchen noch eine Ferienwohnung am Bodensee.
+Die Warteschlange am Zoll war heute endlos lang halt.
+Hast du deine Reisetasche schon zusammengepackt?
+Das Flugticket war diesmal wirklich unschlagbar günstig.
+Ich kann mir den Strandurlaub gar nicht vorstellen.
+In Rom haben wir so viel Gutes gegessen gestern.
+Die Bahnverbindung nach Hamburg ist oft ziemlich unpünktlich.
+Sollen wir mal überlegen wie lange wir bleiben?
+Der Blick vom Aussichtspunkt hat uns alle begeistert sehr.
+Wir müssen dringend noch eine Reiseversicherung abschließen.
+Das Hotelzimmer war leider viel zu klein für uns.
+Hast du schon die Eintrittskarten für den Zoo gekauft?
+Im Zug schlafen ist irgendwie immer ganz mühsam ehrlich gesagt.
+Die Stadtbesichtigung am Nachmittag war wirklich ganz toll.
+Wir haben unseren Reisepass fast vergessen zum Glück gefunden.
+Der Mietwagen wurde heute pünktlich vom Vermieter übergeben.
+Am Strand war es gestern leider viel zu voll.
+Wir haben das Hotel direkt am See gebucht.
+Die Zugkarte für den Rückweg vergessen wir nicht.
+Pack doch lieber eine Jacke für die Abende ein.
+Das Frühstück im Hostel war überraschend lecker und umfangreich.
+Mit dem Campingbus durch Norwegen zu fahren ist genial.
+Ich liebe es, wenn man abends auf dem Balkon sitzt.
+Die Warteschlange am Flughafen hat heute extrem lange gedauert.
+Sucht ihr noch jemanden für die gemeinsame Mietwagenfahrt?
+Das Souvenirgeschäft im Zentrum war leider total überlaufen.
+Wir müssen morgen früh um sechs schon am Bahnhof sein.
+Der Strand in Kroatien ist im August viel zu warm.
+Hast du schon mal mit dem Nachtzug gereist?
+Die Stadtrundfahrt mit dem E-Scooter war wirklich lustig.
+Am besten bucht ihr die Fähre mindestens drei Wochen vorher.
+Das Airbnb hatte leider gar kein WLAN im Zimmer.
+Ich kann nur alle Hotels in Berlin sehr empfehlen.
+Wegen des Streiks fallen fast alle Züge heute weg.
+Der Ausblick vom Berggipfel hat die mühsame Wanderung gelohnt.
+Wir haben unsere Reisekoffer am Bahnhof aufgeben können.
+Die lokalen Märkte bieten immer die frischesten Obstsorten an.
+Mein Reisedaumenschmerz ist nach den vielen Fotos wieder da.
+Vergiss nicht, den Stecker für die Lampe mitzunehmen.
+Das Restaurant neben der Kathedrale hat super gute Pasta gekocht.
+Wir überlegen noch, ob wir dieses Jahr in die Türkei fliegen.
+Das Hotelzimmer hatte leider keinen Blick auf das Meer.
+Ich hasse es, wenn der Flieger wegen des Wetters verschoben wird.
+Die Seilbahn in Salzburg fährt nur bis sechs Uhr abends.
+Mein Koffer wiegt jetzt genau dreißig Kilogramm plus fünf.
+Wir mieten lieber eine Ferienwohnung statt jedes Mal ein Hotelzimmer.
+Der Strand auf Mallorca war dieses Jahr wirklich viel zu voll.
+Hast du den Zug schon online gebucht oder wartest du noch?
+Ich möchte unbedingt mal mit dem Wohnmobil durch Frankreich fahren.
+Die Stadtrundfahrt in Berlin war leider ziemlich langweilig und eintönig.
+Wir suchen noch nach einem günstigen Flug für im Oktober.
+Das Frühstück im Hostel war überraschend gut und wirklich frisch.
+Man sollte immer ein Buch zum Mitnehmen für die Zugfahrt haben.
+Die Visaanträge sind so nervig, weil man alles doppelt einreichen muss.
+Wir fahren nächstes Wochenende zum Wandern in die Berge um uns zu erholen.
+Die Airbnb-Wohnung war zwar billig, aber das Bett war total hart.
+Ich trage immer Rucksack statt Koffer bei kurzen Städtetrips.
+Der Ausblick vom Turm war bei dem Nebel leider gar nicht zu sehen.
+Wir haben vergessen, unsere Pässe für die Rückreise mitzunehmen.
+Die Lokalbahn ist zwar langsam, aber man sieht die Landschaft super.
+Ich brauche unbedingt eine Reiseversicherung, bevor ich das Ticket buche.
+Das Campingzelt hat in der Nacht einfach mal wieder geleckt.
+Wir planen schon seit Monaten unseren Roadtrip durch den Süden von Portugal.
+Der Schalter am Flughafen war wegen Streiks komplett überfüllt und chaotisch.
+Eigentlich wollte ich doch nur kurz entspannen, statt Sightseeing zu machen.
+Wir überlegen schon seit Wochen wo wir hinfliegen wollen.
+Das Airbnb in Barcelona hat leider doch nicht gepasst.
+Im Flugzeug war der Platz einfach viel zu klein für mich.
+Habt ihr schon eure Koffer für die nächste Reise gepackt?
+Der Strand an der Algarve ist wirklich traumhaft schön.
+Wir müssen früher aufstehen um den Zug noch zu erwischen.
+Die Einreisebestimmungen ändern sich leider ständig und nervig.
+Unser Hotelzimmer hatte einen super Ausblick auf die Berge.
+Ich liebe es am Meer einfach nur zu entspannen.
+Der Mietwagen in Italien war eine echte Katastrophe.
+Können wir mal kurz den Urlaubsplan für nächsten Sommer besprechen?
+Die Altstadt von Venedig ist zwar hübsch aber viel zu voll.
+Wir haben uns spontan für ein Roadtrip entschieden.
+Mein Flug wird doch wieder um zwei Stunden verspätet sein.
+Das Picknick am See war der Höhepunkt unseres Tages.
+Hast du schon mal mit dem Nachtzug gereist?
+Die Buchung über die App hat leider nicht funktioniert.
+Ich träume von einem Wellnessurlaub ohne jeglichen Stress.
+Die Stadtführung war viel zu schnell und kaum verständlich.
+Wir sollten uns unbedingt ein Reisetagebuch anlegen.
+Der Transfer vom Flughafen zum Hostel war sehr gemütlich.
+Habt ihr eine gute Unterkunft in Rom empfehlen können?
+Das Wetter in Spanien war diesen Sommer wirklich heiß.
+Ich kann es kaum erwarten endlich wieder verreisen zu dürfen.
+Die Gepäckstückgebühr bei Ryanair ist absolut absurd teuer finde ich.
+Wir überlegen noch ob wir mit dem Flugzeug oder der Bahn fahren.
+Das Hotelzimmer hatte leider nicht das versprochene Meerblick.
+Hast du schon einen Fluggutschein für die Sommerferien gesammelt?
+Ich liebe es abends am Strand zu entspannen und ins Wasser zu gucken.
+Die Gepäckanhänger müssen vor dem Abflug fest angebracht sein.
+Unser Zelt war in der Nacht leider ziemlich durchgeweht worden.
+Kann mir jemand eine gute Reiseführer App für Rom empfehlen?
+Wir haben uns im letzten Moment ein günstiges Zimmer geschnappt.
+Der Flughafen in Frankfurt ist einfach immer riesig und stressig.
+Ich habe so lange auf diesen Badeurlaub im Süden gewartet.
+Die Zugkarte musst du eigentlich schon vorher online kaufen.
+Unser Mietwagen hatte nach der ersten Fahrt einen Pechstelle.
+Sollten wir vielleicht doch noch einen Museumsausflug einplanen?
+Das Frühstück im Bungalow war überraschend gut und frisch zubereitet.
+Ich hasse es wenn die Kofferkontrolle so lange dauert wie heute.
+Wir wollen dieses Jahr unbedingt mal ein Campingdorf ausprobieren.
+Die Sehenswürdigkeiten in Barcelona sind wirklich beeindruckend und vielfältig.
+Es war total entspannt mit dem Bus durch den Nationalhaus zu fahren.
+Ich kann mir keinen Urlaub ohne gutes Buch vorstellen.
+Der Check-in am Flughafen ging zum Glück viel schneller als erwartet.
+Wir haben das Apartment direkt an der U-Bahn-Station gefunden.
+Morgen müssen wir früh aufstehen weil der Flug schon um 7 Uhr geht.
+Die Einreiseformulare sollte man besser schon zu Hause ausfüllen.
+Ich habe mir für die Ostsee einen Mietwagen gebucht.
+Die Ferienwohnung hatte leider keinen richtigen Balkon.
+Warte mal kurz ich schick dir noch Fotos vom Strand.
+Der Flughafen in Berlin ist immer total überfüllt.
+Wir möchten dieses Jahr unbedingt nach Japan fliegen.
+Das Frühstück im Hotel war ziemlich durchwachsen ehrlich gesagt.
+Hast du schon eine Reiseversicherung abgeschlossen?
+Mit dem Zug durch die Schweiz ist ein Traum.
+Die Einreisebestimmungen haben sich ja nochmal geändert.
+Ich packe immer zu viel in meinen Koffer.
+Die Sehenswürdigkeiten in Rom sind wirklich beeindruckend.
+Wir suchen noch einen Tipp für gutes Essen in Wien.
+Der Flieger hatte leider eine halbe Stunde Verspätung.
+Urlaub macht einfach glücklich und man entspannt total.
+Habt ihr bei der Buchung auch Stornorecht geprüft?
+Das Campingzelt ist im Regen doch ganz schön durchgeweekt.
+Ich liebe es wenn die Sonne direkt nach dem Aufstehen scheint.
+Die Stadtrundfahrt war ein bisschen zu touristisch für meinen Geschmack.
+Wir haben den Mietwagen an der Grenze abgeholt.
+Der Pool im Resort war leider nicht geheizt.
+Sollten wir vielleicht doch noch einen Stop in München einplanen?
+Die Wanderung am Bergsee hat uns richtig viel Spaß gemacht.
+Ich habe vergessen die Steckdosenadapter für Italien mitzunehmen.
+Reisen erweitert den Horizont das stimmt definitiv.
+Der Reiseleiter war sehr freundlich und hat alles gut erklärt.
+Ich hab endlich die Flugschnäppchen für Mallorca gefunden.
+Das Campingplatz WLAN ist leider ziemlich langsam.
+Wir sollten doch mal eine Kreuzfahrt ausprobieren.
+Die Sehenswürdigkeiten in Berlin sind komplett überlaufen.
+Mein Reiseführer war total veraltet und unbrauchbar.
+Mit der Bahn nach Wien kommt man super pünktlich an.
+Die Pauschalreise hat uns viel Geld gespart.
+Ich liebe es, morgens am Strand zu meditieren.
+Der Koffer ist leider über das Gewichtslimit gegangen.
+Hast du schon ein Reiseziel für den Sommer?
+Das Hotelzimmer hatte einen traumhaften Meerblick.
+Spontan ist immer besser als jahrelange Planung.
+Wir müssen unser Visum noch dringend beantragen.
+Die Stadtrundfahrt mit dem Bus war sehr gemütlich.
+Ich vermisste das deutsche Frühstück auf der Insel.
+Die Wanderwege in den Alpen waren wunderschön.
+Gibt es irgendwelche Günstigflüge nach Lissabon?
+Unsere Ferienwohnung war leider ziemlich altbacken.
+Ich freue mich schon riesig auf die Italienreise.
+Der Zoll hat meine Tasche gründlich durchsucht.
+Wir haben die Zugtickets direkt vor Ort gekauft.
+Das Buffet im Hotel war wirklich übervoll.
+Ich habe mir einen Reisepass neu ausstellen lassen.
+Die Nachtflugoption ist viel günstiger als der Tagflug.
+Wir sind per Fähre über den Bodensee gefahren.
+Wir fliegen dieses Jahr wieder nach Spanien.
+Das Hotelzimmer hatte leider keinen Meerblick.
+Ich muss meine Koffer noch einmal umpacken.
+Der Zug war heute Abend richtig voll.
+Hast du schon ein Visum für die USA?
+Strandurlaube finde ich immer so entspannend.
+Die Stadtrundfahrt in Rom hat mir super gefallen.
+Wir überlegen, ob wir ein Wohnmobil mieten sollen.
+Billigflieger sind toll, aber der Stress am Flughafen nervt.
+Kannst du mir eine Empfehlung für Paris geben?
+Mein Reisepass ist nächste Woche schon abgelaufen.
+Das Hostel war sauber und die Lage top.
+Ich hasse es, wenn mein Gepäck nicht ankommt.
+Für die Zugfahrt sollte man früher buchen.
+Die Aussicht vom Berghotel war einfach atemberaubend.
+Wir planen eine Wochenendreise in die Schweiz.
+Reiseversicherung schließt man am besten vor Abflug ab.
+Das Buffet im Hotel war ziemlich langweilig.
+Mit dem Auto durch Frankreich fahren wir nächstes Jahr.
+Ich brauche dringend neue Sandalen für den Strandurlaub.
+Die Stadtführung auf Englisch war sehr unterhaltsam.
+Wir suchen noch nach einem günstigen Apartment.
+Der Flug nach Bali kostet dieses Jahr viel mehr.
+Im Zelt schlafen ist doch etwas ganz Besonderes.
+Mein Bruder hat mir tolle Fotospots empfohlen.
+Hast du schon die Flugtickets gebucht?
+Der Strand in Kreta war leider voll überlaufen.
+Wir haben das Hotel direkt am Hafen gelassen.
+Mit dem Zug durch die Schweiz ist Traum pur.
+Vergiss nicht deine Powerbank für die Reise.
+Die Einreisebestimmungen haben sich nochmal geändert.
+Unser Campingplatz lag perfekt im Grünen versteckt.
+Ich brauche unbedingt mal einen ruhigen Wellnessurlaub.
+Der Mietwagen war viel zu klein für uns.
+Hast du schon das Reisepass-Visum verlängert?
+Das Streetfood in Bangkok war einfach riesig gut.
+Wir fahren dieses Jahr wieder ans Schwarze Meer.
+Die Abholung vom Flughafen hat ewig gedauert.
+Meine Kamera ist bei dem Sturz zerbrochen.
+Wir überlegen uns noch für die Inselhopping Route.
+Der Kofferanhänger ist leider beim Gepäckverlust abgerissen.
+Hast du schon mal auf den Eiger Gipfel geklettert?
+Das Backpacker Hostel in Berlin war super nett.
+Ich muss meine Impfpapiere dringend aktualisieren lassen.
+Der Mietpreis für die Ferienwohnung ist gestiegen.
+Wir haben die Zugfahrt mit dem Handy erledigt.
+Die Stadtrundfahrt am Abend war wunderschön beleuchtet.
+Mein Sonnenbrand tut leider immer noch weh.
+Hast du schon den Reiseführer für Italien gekauft?
+Das Wetter in der Türkei ist jetzt ideal.
+Wir planen unsere Skifahrten im Alpenraum neu.
+Die Aussicht vom Berggipfel hat uns komplett sprachlos gemacht.
+Im Zug nach Berlin hatten wir leider keinen Stehplatz mehr.
+Wir wollen dieses Jahr unbedingt mal nach Island fliegen.
+Der Strand war so überlaufen, dass wir wieder nach Hause gefahren sind.
+Ich hasse es, am Flughafen drei Stunden in der Schlange zu stehen.
+Die Pension in der Toskana ist ein echtes Juwel geworden.
+Packe bitte deine Sonnenbrille nicht vergessen, die brauchen wir dringend.
+Mit dem Campingwagen durch Europa zu fahren klingt total frech.
+Wir haben im Voraus alle Museen online reserviert, das war smart.
+Das Wetter in London war leider den ganzen Tag sehr grauenhaft.
+Die Altstadt von Rom ist abends wunderschön beleuchtet und romantisch.
+Wir suchen noch ein günstiges Hotelzimmer für das lange Wochenende.
+Die Reiseführer App auf dem Handy war wirklich super hilfreich dabei.
+Ich vermisse schon die warmen Temperaturen vom letzten Mallorca Trip.
+Der Busfahrplan in Spanien stimmt manchmal einfach gar nicht mehr.
+Wir sollten uns mal einen Mietwagen für die Inseltour mieten gehen.
+Das Frühstück im Hostel war üppig und schmeckte auch noch lecker.
+Hast du schon ein Ticket für die Seilbahn nach Davos gekauft?
+Die Kulturangebote in München sind im Sommer unglaublich vielfältig breit.
+Wir haben zufällig einen günstigen Flug nach Lissabon entdeckt online.
+Ich finde Backpacking so viel freier als mit einer festen Reiseroute.
+Die Souvenirs vom Weihnachtsmarkt sind wirklich hübsch und handgemacht schön.
+Haben wir schon Karten für den Zug nach Berlin?
+Die Aussicht vom Berghotel war einfach traumhaft.
+Ich hasse es, am Flughafen ewig zu warten.
+Wir haben das Apartment direkt am Meer gefunden.
+Ein Campingplatz in den Alpen ist immer eine gute Idee.
+Mein Koffer wiegt jetzt wieder zehn Kilogramm zu viel.
+Hast du den Reiseführer für Italien schon bestellt?
+Der Flieger nach Rom hatte leider eine Stunde Verspätung.
+Wir sollten für nächste Woche mal spontan verreisen.
+Das Hotelzimmer war kleiner als auf dem Foto.
+Mit dem Auto durch die Toskana ist so schön.
+Ich kann nicht warten, bis der Urlaub wieder losgeht.
+Die Visa-Bestätigung kam erst gestern Abend an.
+Hast du schon ein paar Reisetipps für Lissabon?
+Der Strand in Kroatien war überlaufen und heiß.
+Wir sparen Geld mit dem Frühbucher-Angebot online.
+Die Seilbahn auf den Zugspitzglacier war ziemlich spannend.
+Ich mag es, wenn man vor Ort einfach entdeckt.
+Das Restaurant am Hafen hatte frischen Fisch serviert.
+Unsere Reiseroute durch Nordirland war richtig gut geplant.
+Der Mietwagen war kaputt und wir mussten warten.
+Hast du schon die Flugtickets für den Sommer gebucht?
+Wir schlafen gerne mal im Zelt unter den Sternen.
+Die Stadtrundfahrt mit dem Schiff war sehr entspannt.
+Ich brauche dringend neue Sonnencreme für die Reise.
+Der Flughafen in München ist heute wieder voll gestopft.
+Wir fliegen über Ostern nach Portugal.
+Das Zimmer im Hotel sah etwas abgelebt aus.
+Hast du schon die Koffer gepackt?
+Der Zug nach Hamburg war total voll.
+Ich vermisse den Strandurlaub richtig stark.
+Buchung overbookt zu sein ist zum Kotzen.
+Die Aussicht vom Berggipfel hat sich gelohnt.
+Wir mieten uns nächste Woche eine Wohnung in Berlin.
+Billigflieger sind zwar günstig aber oft stressig.
+Die lokale Küche war ein absolutes Highlight.
+Vergiss nicht dein Adapter für den Stecker.
+Ein Roadtrip durch Island klingt nach einem Traum.
+Die Warteschlange am Check-in dauerte forever.
+Wir haben unser Zelt mitten im Wald aufgebaut.
+Welche Sehenswürdigkeiten sollten wir uns nicht entgehen lassen?
+Der Reiseführer war leider ziemlich veraltet.
+Mit dem Camper zu fahren ist wirklich entspannend.
+Die Hotellobby roch angenehm nach Kaffeebohnen.
+Ich brauche dringend einen Tag zum Ausspannen.
+Die Einreisebestimmungen haben sich wieder geändert.
+Unser Airbnb lag leider etwas abseits vom Zentrum.
+Der Flug war pünktlich und sehr komfortabel.
+Hast du schon den Sommerurlaub geplant?
+Die Sehenswürdigkeiten waren zum Glück nicht so überlaufen.
+Ein Wochenende in Wien macht einfach immer Sinn.
+Ich buche das Hotelzimmer morgen Nachmittag.
+Hast du schon den Rückflug reserviert?
+Wir überlegen zwischen Camping und Ferienwohnung.
+Der Zug nach Hamburg pünktlich abzufahren.
+Mein Koffer wiegt fast 25 Kilogramm.
+Das Wetter auf Teneriffa ist perfekt für uns.
+Ich brauche neue Sonnencreme für die Reise.
+Die Stadtrundfahrt war wirklich sehr spannend.
+Wir schlafen nächste Woche in einer Hütte.
+Der BahnCard-Rabatt macht sich richtig bezahlt.
+Hast du schon das Visum beantragt?
+Die Strandpromenade abends ist super entspannt.
+Ich mag keine Flugzeuge, die sind nervig.
+Das Hostel hatte leider kein warmes Wasser.
+Wir haben uns einen Citypass gekauft.
+Die Reisekosten werden sich doch lohnen.
+Am liebsten würde ich einfach weglaufen.
+Der Reiseführer hat viele gute Tipps.
+Wir reisen nächsten Monat nach Griechenland ab.
+Die Gepäckaufgabe am Flughafen war chaotisch.
+Ein Wohnmobil ist wirklich bequemer als ein Zelt.
+Ich vermisste schon das Frühstück zu Hause.
+Die Einreisebestimmungen sind wieder geändert worden.
+Unser Hotelzimmer hatte einen tollen Ausblick.
+Wir buchen den Flug direkt über die App.
+Die Strandbar auf Mallorca hat super Cocktails.
+Pack einfach mehr Pullover ein, es ist kühl.
+Der Transfer vom Hotel zum Bahnhof war pünktlich.
+Ich liebe es, morgens an fremden Stränden zu laufen.
+Bist du schon mal mit dem Campingbus gefahren?
+Das Airbnb in Berlin hatte keine Küche leider.
+Wir sparen Geld, indem wir im Zelt schlafen.
+Die Aussicht vom Bergrücken war einfach atemberaubend.
+Mein Koffer ist immer viel zu voll gepackt.
+Am liebsten würde ich nächsten Sommer nach Japan fliegen.
+Der Bahnsteig in Wien ist sehr modern gestaltet.
+Hast du schon dein Visum für die Türkei beantragt?
+Die lokale Küche in Thailand war unglaublich lecker.
+Ich habe vor Ort nur noch Bargeld ausgegeben.
+Das Hotelzimmer hatte leider keinen Seeblick obwohl versprochen.
+Wir fahren nächste Woche zum See zum Picknicken.
+Ein Reiseführer hilft oft bei der Stadtplanung sehr.
+Die Stoppover unterwegs machen den Urlaub so besonders.
+Habe ich die Zahnbürste in das Handgepäck gepackt?
+Der Flughafen Schöneberg ist immer total überfüllt um Mittag.
+Wir suchen noch ein günstiges Ferienhaus in Spanien.
+Die Busverbindung ins Zentrum war eigentlich ganz zuverlässig gestern.
+Meine Kamera hat auf der Kreuzfahrt nur Wasserbilder gemacht.
+Du solltest unbedingt das lokale Nachtleben ausprobieren dieses Mal.
+Wir haben uns spontan für Kroatien entschieden.
+Die Zugfahrt nach Berlin war leider sehr verspätet.
+Unser Apartment hatte einen traumhaften Meerblick.
+Ist der Flughafenparkplatz noch frei nächste Woche?
+Ich habe die Koffer schon seit gestern gepackt.
+Das Abendessen im kleinen Bistro war lecker.
+Man sollte sich unbedingt die Akropolis anschauen.
+Der Buswechsel in Rom war wirklich stressig.
+Wir suchen noch nach einem günstigen Flugziel.
+Die Stadtrundfahrt war zu anstrengend für uns.
+Hast du schon das Visum für Thailand beantragt?
+Das Hostel war sauber und hatte ein super Ambiente.
+Mit dem Rad durch die Toskana zu fahren ist toll.
+Wir haben Pech mit dem Wetter im Urlaub gehabt.
+Die Einreisebestimmungen ändern sich ständig aktuell.
+Ich vermisse bereits den Kaffee aus Italien.
+Der Reiseführer hat uns sehr gut weitergeholfen.
+Wir überlegen, ob wir ein Wohnmobil mieten sollen.
+Das Hotelzimmer war leider etwas zu klein für vier Personen.
+Habt ihr eine Empfehlung für ein gutes Restaurant?
+Die Sehenswürdigkeiten in London sind wirklich beeindruckend.
+Wir sparen Geld, indem wir auf einem Bauernhof übernachten.
+Der Mietwagen wurde bei der Abholung beschädigt gefunden.
+Es ist schöner als auf den Fotos aus dem Internet.
+Könntest du mir deine Reiseroute nochmal schicken?
+Wir fliegen am Freitag früh nach Rom ab.
+Die Unterkunft in Barcelona hat uns super gefallen.
+Im Zug ins Berghotel war die Aussicht traumhaft.
+Habt ihr schon Karten für das Konzert gebucht?
+Ich habe einen günstigen Flug nach Istanbul gefunden.
+Das Hotelzimmer war kleiner als auf den Fotos.
+Am Strand von Mallorca ist es immer voll.
+Wir haben drei Tage in der Schweiz verbracht.
+Der Mietwagen fiel direkt am ersten Tag aus.
+In Venedig sollte man unbedingt eine Gondelfahrt machen.
+Mein Koffer hat leider bei der Anreise nicht mehr gepasst.
+Die Stadtrundfahrt war zwar teuer, aber richtig schön.
+Wir planen nächsten Sommer einen Camping-Trip an die Ostsee.
+Im Backpacker-Hostel traf ich nette Leute aus aller Welt.
+Die Zugverbindung von Hamburg nach Berlin ist sehr bequem.
+Hast du schon den Führerschein für das Motorrad mitgenommen?
+Der Strand in Kreta war dieses Jahr leider ganz schmutzig.
+Wir wohnen in einer kleinen Ferienwohnung am See.
+Das Restaurant direkt am Hafen hatte frische Fischgerichte.
+Ich vergesse immer wieder meine Adapter mitzunehmen.
+Die Wanderung zum Wasserfall war kräfteraubend aber lohnenswert.
+Am Flughafen stand eine riesige Schlange vor dem Check-in.
+Wir müssen morgen früh um sechs Uhr aufstehen.
+Die Stadtmauer von Salzburg ist absolut fotogen.
+Hast du schon die Reiseversicherung abgeschlossen?
+Ich freue mich riesig auf den Strandurlaub in Spanien.
+Zugfahren ist einfach entspannter als durch den Flugverkehr stressen.
+Die Unterkunft war leider nicht sauber genug für uns.
+Habt ihr schon Tickets für die Oper besorgt?
+Mit dem Rad durch die Toskana fahren klingt traumhaft.
+Das Hotelzimmer hatte einen super Blick auf den Meer.
+Wir sollten bald mal eine Roadtrip in den Süden planen.
+Der Check-in bei der Airline hat ewig gedauert gestern.
+Ich hasse es, wenn der Fluggastwagen wieder mal ausfällt.
+Eine Wanderung am Matterhorn ist einfach atemberaubend schön.
+Kannst du mir eine günstige Unterkunft in Berlin empfehlen?
+Die Koffer waren leider über das Gewichtslimit gegangen heute.
+Wir haben einen tollen Campingplatz an der Nordsee gefunden.
+Das Restaurant am Hafen servierte das beste Fischgericht überhaupt.
+Ich muss unbedingt meinen Reisepass für die neue Reise prüfen.
+Der Zug war voll besetzt, deshalb mussten wir stehen bleiben.
+Ein Tag am Badesee bringt uns beiden wirklich zur Ruhe.
+Die Sehenswürdigkeiten in Venedig sind im Sommer leider sehr überlaufen.
+Wir haben einen tollen Last-Minute-Deal für Mallorca gebucht gestern.
+Die Stadtrundfahrt mit dem offenen Bus war sehr informativ.
+Ich brauche dringend neue Sandschuhe für unseren Strandtrip nächste Woche.
+Das Backpacking durch Südostasien war ein Erlebnis meines Lebens bisher.
+Bitte vergiss nicht, die Wechselkurse vor der Abreise zu vergleichen.
+Die Mietwagenbuchung kam leider erst spät nachmittags bei mir an.
+Ein Wellnesswochenende in den Alpen wäre eine tolle Geschenkidee.
+Die Buchungsmaschine am Schalter hat nicht funktioniert.
+Wir fliegen morgen früh von Düsseldorf ab.
+Das Hotelzimmer sah aus wie auf den Bildern.
+Ein Picknick am Strand ist doch die beste Idee.
+Mein Gepäck kam leider einen Tag später an.
+Hast du schon mal mit dem Flugzeug geflogen?
+Die Aussicht vom Berggipfel war einfach fantastisch.
+Wir suchen noch nach einem günstigen Angebot für Italien.
+Der Reiseführer im Rucksack ist schon wieder verloren.
+Ich hasse es, wenn der Flieger verspätet landet.
+In Barcelona waren die Straßen super lebendig.
+Hast du die Reisekrankenversicherung auch mitgenommen?
+Das Hostel war ziemlich laut in der Nacht.
+Wir haben das Auto direkt am Flughafen geparkt.
+Ein Wochenendausflug ans Meer wäre wirklich toll.
+Die lokale Küche schmeckte uns überhaupt nicht.
+Mein Koffer hat noch viel Platz für Souvenirs.
+Der Transfer zum Hotel dauerte ewig lang.
+Wir müssen den Flugschein auf dem Handy haben.
+Die Buchung online war super einfach gemacht.
+Im Zug konnte ich endlich mal durchatmen.
+Hast du schon Visum beantragt oder machst du das vor Ort?
+Das Wanderwegenetz in den Alpen ist wirklich top.
+Wir sind früh morgens aufgestanden, um die Sonne zu sehen.
+Die Taxifahrt ins Zentrum war extrem teuer.
+Wir fliegen am Freitagvormittag nach Mallorca ab.
+Die Ferienwohnung hatte leider keinen richtigen Balkon.
+Einmal komplett offline campen wäre genau mein Ding.
+Der Flug von Wien nach Rom war pünktlich.
+Hast du den Mietwagen in Barcelona bereits gebucht?
+Die Aussicht vom Ausblick war einfach atemberaubend schön.
+Wir suchen noch eine gute Adresse für Pizza.
+Im Zug hat es viel zu eng gesteckt gestern.
+Mein Bruder möchte dieses Jahr unbedingt nach Island reisen.
+Die Strandbar am Abend ist immer voll besetzt.
+Ich hasse es im Flughafen Stundenlang zu warten.
+Das Hotelzimmer war leider sehr klein und dunkel.
+Wir machen nächsten Sommer einen Roadtrip durch Portugal.
+Der Reiseführer für Italien war super hilfreich unterwegs.
+Habt ihr die Züge in der Schweiz schon gesehen?
+Unser Reiseplan für die Woche ist noch flexibel.
+Die Einheimischen waren unglaublich freundlich und hilfsbereit heute.
+Ich brauche dringend neue Schuhe zum Wandern drin.
+Der Abflug hat sich um zwei Stunden verzögert nun.
+Wir übernachten tonight in einem alten Burghotel dort.
+Das Picknick am See war der Höhepunkt unserer Reise.
+Hast du den Ausweis im Koffer schon gefunden jetzt?
+Die Nachtzugfahrt nach Berlin ist gar nicht so schmerzhaft.
+Meine Kamera hat leider beim Sturz einen Riss bekommen.
+Wir sollten mal überlegen ob wir Kreuzfahrt machen wollen.
+Wir überlegen noch ob wir zum Flug oder zur Bahn greifen.
+Die Ferienwohnung hatte leider nicht das versprochene Meerblick.
+Im Zug war der WLAN Zugang komplett zumüllt.
+Habt ihr einen guten Tipp für ein günstiges Hostel?
+Der Strand war am Vormittag noch schön leer und ruhig.
+Ich hasse es wenn die Koffer am Bahnhof fehlen.
+Für den Roadtrip durch Irland sind wir gut vorbereitet.
+Die Stadtrundfahrt war total langweilig und zu teuer.
+Wir buchen ab jetzt nur noch direkt beim Vermieter.
+Das Frühstück im Hotel war wirklich ein Gedöns wert.
+Am Flughafen standen wir ewig in der Sicherheitskontrolle.
+Der Reiseführer für Peru ist leider schon ausverkauft.
+Mit dem Caravan durch Frankreich war unvergesslich schön.
+Hast du die Pauschalreise auch so günstig bekommen?
+Die Sehenswürdigkeiten von Rom sind im Sommer viel zu voll.
+Unser Flug nach Bangkok war pünktlich gestartet und gelandet.
+Die Reiseroute über die Alpen ist zwar steil aber lohnend.
+Wir haben uns für einen Campingplatz am See entschieden.
+Der lokale Busverkehr in Thailand ist etwas chaotisch aber charmant.
+Meine Kinder freuen sich riesig auf den Zoobesuch dort.
+Die Buchung der Zugtickets war überraschend einfach und schnell.
+Am Ende des Urlaubs hatten wir alle wieder Energie.
+Wir sollten für die Rückfahrt schon früh buchen.
+Der Ausblick vom Bergrücken war einfach nur atemberaubend schön.
+In der Unterkunft fehlten leider frische Handtücher am Anfang.
+Ich buche immer kurz vor der Abreise um günstiger zu sein.
+Die Aussicht auf die Nordsee war einfach nur traumhaft.
+Hast du schon mal in einem Glampingzelt übernachtet?
+Der Flug nach Mallorca war leider drei Stunden verspätet.
+Wir haben uns im Voraus einen Mietwagen gesichert.
+Im Resort am Strand gab es tolles Buffetessen jeden Abend.
+Ich finde den Zug in die Schweiz so viel gemütlicher als das Auto.
+Die Altstadt von Barcelona ist zum Wandern wirklich perfekt geeignet.
+Vergiss nicht deinen Reisepass für die Grenzkontrolle mitzunehmen.
+Das Backpacking in Thailand war das Abenteuer meines Lebens bisher.
+Am liebsten schlafen wir immer in kleinen Familienpensionen mitten im Ort.
+Der Airportshuttle fährt stündlich vom Terminal direkt ins Hotelzentrum.
+Kannst du mir empfehlen welche Sehenswürdigkeiten man in Wien unbedingt sieht?
+Das Gepäck auf der Langstrecke hat leider etwas Schaden davongetragen.
+Ich würde nächstes Jahr mal gerne einen Wandertourismus Urlaub machen.
+Die Einreisebestimmungen für Australien sind zum Glück recht einfach geworden.
+Mit dem Fähre nach Korsika kommt man super entspannt an den Strand.
+Unser Jugendherbergzimmer war klein aber sehr sauber und hell zugleich.
+Habt ihr Erfahrung mit dem BahnCard Discount im Ausland sammeln können?
+Das Campingzelt hat im Regen irgendwie immer doch etwas durchgeschlagen.
+Ich suche gerade nach guten Tipps für einen Kurztrip ins Ruhrgebiet.
+Der Transfer vom Flughafen zum Hotel verlief heute reibungslos abgelaufen ist.
+Man sollte bei der Kofferwahl auf das Gewicht unbedingt achten.
+Die Abenddämmerung in Santorini ist wirklich ein Spektakel wert.
+Ich freue mich schon so auf die nächste Roadtrip Planung mit euch.
+Wir sollten bald mal ein langes Wochenende machen.
+Die Strandhütte war total klein, aber mega gemütlich.
+Hast du schon deine Koffer gepackt oder ist das noch ich?
+Der Flug nach Rom war leider wieder einmal verspätet.
+Ich liebe es, morgens früh am Markt zu bummeln.
+Für die Alpenüberfahrt nehmen wir dieses Mal lieber den Zug.
+Die App hat uns echt viel Stress bei der Buchung genommen.
+Wir suchen dringend eine Empfehlung für ein gutes Hostel in Berlin.
+Das Buffet im Hotel war ehrlich gesagt etwas enttäuschend.
+Mit dem Campingwagen fahren ist doch viel entspannter als Hotel hocken.
+Habt ihr schon mal die Wanderwege im Odenwald ausprobiert?
+Ich kann kaum erwarten, das warme Meerwasser zu spüren.
+Die Einreisebestimmungen sind leider gerade etwas kompliziert geworden.
+Unser Airbnb war viel schöner als auf den Fotos versprochen.
+Am besten bucht ihr die Tickets direkt am Schalter vor Ort.
+Der Blick vom Berggipfel hat jede Anstrengung mehr als gelohnt.
+Wir haben vergessen, die Pfandflaschen mitzunehmen, doof gemacht.
+Ein Roadtrip durch Portugal steht absolut ganz oben auf meiner Liste.
+Die Stadtrundfahrt mit dem Bus war wirklich überflüssig und teuer.
+Kann mir jemand einen günstigen Flughafen-Shuttle für München empfehlen?
+Das Wetter an der Küste war dieses Jahr leider etwas durchwachsen.
+Ich hasse es, im Flughafen wartehalle stundenlang rumzustehen.
+Die lokalen Gerichte in Thailand waren einfach himmlisch lecker.
+Vergesst nicht, den Adapter für die Stecker mitzunehmen.
+Unsere Kinder sind schon wahnsinnig auf den Zoo in Dublin gespannt.
+Wir haben die Flüge erst morgen früh gebucht.
+Am Strand in Kreta lag ich den ganzen Tag nur rum.
+Ist der Zug nach Rom eigentlich noch pünktlich gelaufen?
+Ich habe das Airbnb direkt am Hafen gebucht.
+Die Warteschlange am Flughafen war heute echt nervig.
+Pack mal deinen Jumper ein, abends wird es kalt.
+Wir wollen dieses Jahr unbedingt die Schweiz erkunden.
+Der Koffer ist wieder zu schwer für die Handgepäck-Regelung.
+Hast du schon geprüft ob wir ein Visum brauchen?
+Das Hotelzimmer war kleiner als auf den Bildern.
+Ich kann nicht warten bis wir endlich fliegen.
+Die U-Bahn in Berlin ist super gut ausgebaut.
+Wir haben unsere Reise selbst organisiert und nicht über eine Agentur.
+Der Strand war leider ziemlich schmutzig heute morgen.
+Hast du deine Impfungen schon alle gemacht?
+Das Taxi am Bahnhof war ganz fair im Preis.
+Ich vermisse meine gemütliche Schlafstätte zu Hause.
+Die Sehenswürdigkeiten in Wien sind einfach atemberaubend schön.
+Wir müssen die Mietwagenanmietung noch rechtzeitig bestätigen.
+Der Blick vom Bergrücken hat mich sprachlos gemacht.
+Ich habe meinen Reisepass leider vergessen mitzunehmen.
+Die lokalen Gerichte waren deutlich günstiger als im Restaurant.
+Warte nicht am Kiosk bis der Bus kommt.
+Unsere Campingstelle hatte sogar warmes Wasser und Strom.
+Die Stadtkarte spart richtig viel Geld beim Eingang.
+Ich traue mich gar nicht mehr an den Zoll zu gehen.
+Haben wir für die Flugreise schon das Visum besorgt?
+Das Hotelzimmer hatte leider nur einen Blick auf die Wand.
+Ich freue mich riesig auf den Strandurlaub in Spanien.
+Die Zugverbindung nach Berlin war heute mal wieder verspätet.
+Wir sollten uns früher überlegen, wo wir schlafen wollen.
+Der Reiseführer für Italien hat uns echt weitergeholfen.
+Vergiss nicht die Ladekabel für das Handy einzupacken.
+Mit dem Wohnmobil durch die Schweiz zu fahren ist toll.
+Die Warteschlange am Flughafen war heute unendlich lang.
+Kannst du mal schauen, ob noch Flugtickets frei sind?
+Das Frühstück im Hostel bestand nur aus trockenem Toast.
+Wir haben den ganzen Tag am Strand verbracht und relaxt.
+Die Stadtmauer von Nürnberg wirkt bei Nacht richtig mystisch.
+Ich hasse es, wenn der Koffer an der Gepäckförderer bleibt.
+Hast du schon einen Tipp für gute Restaurants in Rom?
+Die Fährüberfahrt nach Kroatien war ziemlich stürmisch und wild.
+Wir müssen unbedingt noch Visitenkarten für die Geschäftsreise besorgen.
+Der Aussichtspunkt oben auf dem Berg hat mich begeistert.
+Mein Rücken tut weh von den vielen Stunden im Flugzeug.
+Haben wir das Reisedatum jetzt schon final mit der Firma abgestimmt?
+Das Picknick im Park war nach dem Museum genau richtig.
+Ich vergesse immer wieder meinen Reisepass zu Hause liegen lassen.
+Die Buchung für die Ferienwohnung ist endlich durchgegangen.
+Trotz des Regens haben wir noch die Kathedrale besichtigt.
+Der Mietwagen war viel zu klein für unsere vier Personen.
+Ich muss unbedingt noch einen Flug buchen.
+Die Strandhütte sieht auf den Fotos super aus.
+Hast du schon deine Koffer gepackt?
+Der Zug war leider völlig überfüllt heute morgen.
+Am liebsten würde ich doch nur am Pool liegen.
+Wir suchen dringend ein Hotel in der Innenstadt.
+Das Gepäck hat bis zu drei Tage gedauert.
+Bist du mit dem Auto oder der Bahn unterwegs?
+Die Sehenswürdigkeiten haben mich total begeistert gestern abend.
+Ich vergesse immer meine Ladegerade für den Reisestecker.
+Machst du mit auf die Wanderung am Freitag?
+Der Flughafen Schiphol ist ein Traum zum Fliegen.
+Unser Zelt hat im Sturm fast weggeblasen werden wollen.
+Hast du schon Karten für das Theater gekauft?
+Die Sehenswürdigkeiten in Rom sind einfach unübertroffen.
+Ich traue mich nicht, so viel Geld auszugeben.
+Der Check-in am Flughafen war glücklicherweise super schnell.
+Wir überlegen uns noch, ob wir mieten oder kaufen sollen.
+Das Picknick auf der Wiese war total entspannt und schön.
+Hast du schon mal in einer Berghütte geschlafen?
+Die Souvenirs sind mir persönlich viel zu teuer geworden.
+Ich freue mich riesig auf die nächste Abenteuersaison.
+Der Bus ist pünktlich wie immer angekommen heute.
+Möchtest du lieber am Strand oder im Wald übernachten?
+Die Stadtbesichtigung hat uns wirklich sehr gut gefallen insgesamt.
+Kannst du mir deine Reiseapp nochmal empfehlen, bitte?
+Ich freue mich schon so auf die lange Autofahrt.
+Das Hotelzimmer hatte leider keinen Blick auf das Meer.
+Wir sollten unbedingt noch Karten für den Zug kaufen.
+Die Wanderung am Berg war echt anstrengend aber genial.
+Kann mir jemand ein gutes Restaurant in Rom empfehlen?
+Der Koffer hat im Flugzeug doch gar nicht gepasst.
+Ich hasse diese langen Wartezeiten am Flughafen wirklich.
+Das Campingplatz-Setup ist heute Abend endlich fertig geworden.
+Wir haben versehentlich die falsche U-Bahn-Linie erwischt.
+Die Strandbar serviert das beste Eis der ganzen Insel.
+Meine Eltern planen ihren ersten Roadtrip durch Island.
+Der Mietwagen war voller Sand nach dem Urlaub im Süden.
+Ich muss dringend meine Reisedokumente für das Visum sortieren.
+Das Souvenir vom Markt hat leider sofort den Geist aufgegeben.
+Wir überlegen, ob wir die Pauschalreise nochmal buchen sollen.
+Die Aussicht von der Terrasse ist einfach nur atemberaubend.
+Gibt es in deiner Stadt eine gute Fahrradverleih-Station?
+Der Reiseführer war ziemlich veraltet und hat uns verwirrt.
+Ich träume schon wieder vom nächsten Abenteuer in Asien.
+Die Gepäckaufgabe dauerte ewig weil alle Kassen voll waren.
+Wir haben glücklicherweise einen kostenlosen Upgrade im Hotel bekommen.
+Das Wetter hat uns auf dem Trekking ganz schön gestraft.
+Mein Freund ist gerade mit der Bahn quer durch Deutschland gefahren.
+Die Einreisebestimmungen ändern sich ständig, das nervt mich.
+Ich packe lieber zu wenig als zu viel ein.
+Wir überlegen gerade ob wir nach Kroatien fahren sollen.
+Der Flug nach Berlin war wirklich super bequem diesmal.
+Am Strand von Fuerteventura hat es die ganze Zeit gebrannt.
+Kann mir jemand eine gute Airbnb Unterkunft in München empfehlen?
+Ich hasse diese langen Wartezeiten am Sicherheitscheck im Flughafen.
+Unser Zelt ist leider durch die Nachtstürme komplett weggeflogen.
+Mit dem Mietwagen auf Sardinien fährt man wirklich sehr flexibel.
+Die Altstadt von Krakau sieht abends magisch und romantisch aus.
+Habt ihr eine Empfehlung für ein günstiges Hostel in Amsterdam?
+Mein Koffer hat es bei der Handabgabe leider nicht überlebt.
+Der Ausblick vom Col du Galibier war einfach nur atemberaubend.
+Wir sollten uns schon bald um die Reiseversicherung kümmern.
+In Tokio muss man unbedingt mal ein Onsen ausprobieren.
+Die Hotelzimmer in Paris waren kleiner als auf den Bildern.
+Mit der Bahn durch die Schweiz zu fahren ist ein Traum.
+Ich liebe es wenn ich morgens direkt am Meer aufwache.
+Das Visum für Thailand bekommt man heutzutage super schnell online.
+Unser Campingplatz lag versteckt inmitten eines wunderschönen Waldes.
+Wir haben uns die Stadtrundfahrt in Wien echt vorgenommen heute.
+Die Gepäckstücke kamen verzögert an was ziemlich nervig war.
+Für den Roadtrip brauchen wir unbedingt eine gute Navigation App.
+Das Buffet im Hotel war zwar teuer aber wirklich lecker.
+Ich vermisse schon die entspannten Abende auf der Terrasse.
+Reisecheck ist immer noch besser als Bargeld mitführen zu müssen.
+Die Wanderung am Titlis hat uns ordentlich ins Schwitzen gebracht.
+Wir suchen dringend Tipps für ein günstiges Hotel in Rom.
+Die Aussicht vom Zug aus war einfach nur spektakulär.
+Hast du schon gebucht oder wartest du auf Sale-Preise?
+Im Camping van schlafen fühlt sich total frei an.
+Der Flughafen Berlin Brandenburg ist wirklich gut erreichbar.
+Wir planen unseren Italienurlaub eigentlich für den Juli.
+Die Stadtrallye in Wien hat uns sehr gut gefallen.
+Nimm unbedingt dein Reiseadapter mit, das ist wichtig.
+Die Ferienwohnung in Oberstdorf war etwas klein geraten.
+Sollten wir doch noch einen Ausflug nach Salzburg machen?
+Der Mietwagen war bei Sixt überraschend preiswert zu haben.
+Ich träume immer wieder von einem Roadtrip durch Amerika.
+Das Check-In an der Rezeption dauerte fast zwanzig Minuten.
+Habt ihr schon mal mit der FlixBus-App gebucht?
+Der Strand in Kroatien war leider ziemlich überlaufen.
+Unsere Koffer sind jetzt endlich gepackt und bereit.
+Die Einreisebestimmungen haben sich wieder einmal geändert.
+Ein Wellnessurlaub nach der stressigen Arbeitswoche ist perfekt.
+Wir möchten dieses Jahr unbedingt die Nordsee besuchen.
+Die Gepäckstücke gingen beim Transfer verloren, was nervig war.
+Sucht ihr auch noch Reisegefährten für die Wanderung?
+Das Abendessen im Resort schmeckte tatsächlich sehr gut.
+Der Abflug wurde um zwei Stunden nach hinten verschoben.
+Ich muss dringend mein Visum für Thailand verlängern lassen.
+Ich brauche dringend neue Ideen für den Sommerurlaub.
+Die Buchungsmaschine der Airline hatte total gestreikt.
+Am Strand von Palma war es dieses Jahr nicht mehr so leer.
+Hast du schon gesehen wie teuer die Hotels jetzt sind?
+Mit dem Zug durch die Alpen ist wirklich ein Erlebnis.
+Wir haben unser Zelt in einer extrem windigen Nacht aufgeschlagen.
+Der lokale Busfahrer hat uns leider komplett ignoriert.
+Finde ich den Reiseführer für Südamerika ziemlich überflüssig.
+Die Abendsonne am Gardasee war dieses Jahr einfach magisch.
+Sollten wir doch lieber ein Apartment als das Hotel nehmen?
+Mein Koffer ist beim Gepäckwechsel in Frankfurt schlicht verschollen.
+Das Frühstück im Hostel war überraschend lecker und frisch.
+Ich hasse es wenn der Flughafen an einem Sonntag dichtmacht.
+Die Wanderung am Zugspitzplatt war zwar steil aber wunderschön.
+Wir müssen endlich unsere Ausweise auf den Gültigkeitsdatum prüfen.
+Der Strandclub hatte leider einen total überfüllten Pool.
+Ihr habt das Restaurant an der Hafencity richtig empfohlen.
+Die Nachtzugfahrt nach Berlin war gemütlicher als erwartet.
+Am Ende haben wir doch noch einen Campingplatz bekommen.
+Reisende sollten immer eine Kopie des Passes mitnehmen.
+Der Flug nach New York war leider extrem holprig.
+Ich vermissen schon die ruhigen Abende in der Toskana.
+Die Sehenswürdigkeiten von Rom lassen sich kaum alle sehen.
+Wir packen jetzt erst mal nur das Nötigste ein.
+Das Reiseprogramm für den Oktober hat sich gerade geändert.
+Wir fliegen dieses Jahr wieder nach Mallorca.
+Der Strand war leider ziemlich überlaufen am Sonntag.
+Hast du schon die Flüge für den Sommer gebucht?
+Ich verfolge gerne spontane Roadtrips durch die Toskana.
+Das Hotelzimmer hatte einen tollen Blick auf das Meer.
+Bahnfahren im Ausland ist oft kompliziert und teuer.
+Wir haben unsere Koffer schon seit gestern gepackt.
+Die Sehenswürdigkeiten in Rom sind einfach beeindruckend.
+Ein Campingurlaub entspannt am meisten von allem.
+Vergiss nicht die Sonnencreme für den ersten Tag.
+Die Wartezeit am Flughafen war diesmal sehr kurz.
+Ich liebe es, unbekannte Städte komplett zufällig zu erkunden.
+Gibt es gute Restaurants in der Nähe des Bahnhofs?
+Der Zeltplatz lag direkt am Waldesrand versteckt.
+Wir müssen das Visum bis morgen noch beantragen.
+Reisen mit Kleinkindern ist anstrengend aber schön.
+Die Stadtrundfahrt im Doppeldeckerbus war sehr empfehlenswert.
+Ich traue mich nicht, den Flug zu stornieren.
+Der Check-in war online schnell und einfach erledigt.
+Wolltest du eigentlich auch auf die Insel hinüberfahren?
+Das Souvenir aus dem Markt hat mir gut gefallen.
+Wir übernachten zwei Nächte in einem kleinen Gasthof.
+Die Ausschilderung zur Unterkunft war leider schlecht gemacht.
+Ich habe den Reiseführer schon längst fertig gelesen.
+Am besten bucht man die Flüge früh genug.
+Die Altstadt von Venedig war einfach nur zauberhaft.
+Ich hasse es so lange im Stau zu stehen.
+Das Apartment hatte keinen richtigen Balkon leider.
+Mit dem Zug durch die Schweiz ist ein Traum.
+Hast du schon den Mietwagen gebucht?
+Der Strand in Kreta war super sauber und ruhig.
+Wir haben uns im Hotel totally verloren.
+Eine Reiseflasche fürs Flugzeug ist total praktisch.
+Die Sehenswürdigkeiten in Rom sind unendlich viele.
+Ich brauche dringend mal wieder proper Erholung.
+Das Buffet im Resort war wirklich üppig.
+Am Flughafen steht man immer ewig an.
+Unser Reiseplan war irgendwie viel zu überladen.
+Die Souvenirs aus Bangkok haben wir alle geliebt.
+Fahrradtouren in Dänemark sind absolut empfehlenswert.
+Das Zimmer roch leider etwas nach Schimmel.
+Wir haben den Fährterminal total übersehen.
+Ein Reisepass muss immer gültig sein.
+Die Aussicht vom Gipfel hat alles wert.
+Billigflugtickets findet man nur im letzten Moment.
+Ich vermisse die gemütlichen Cafés da unten.
+Der Koffer ist wieder zu schwer gepackt worden.
+Städtetrips sind oft stressiger als erholsam.
+Die lokale Küche dort war eine Entdeckung.
+Ich würde liebend gerne noch eine Woche länger dort bleiben.
+Die Buchung über die App war mega unkompliziert und schnell.
+Hast du schon geprüft ob wir ein Visum brauchen?
+Wir haben das Apartment direkt am See gemietet.
+Mein Koffer ist zu schwer für den Handgepäck-Schalter.
+Die Aussicht vom Berggipfel hat die Anstrengung gelohnt.
+Ich vermiss meine eigene Matratze schon jetzt unglaublich.
+Hole dir doch einen City-Pass das spart richtig viel Geld.
+Der Strand war am Samstag leider viel zu voll mit Leuten.
+Wir fahren dieses Jahr wieder ans Mittelmeer weil es schön ist.
+Die Wanderkarte im Internet half uns wirklich weiter gestern Abend.
+Ich habe meine Zahnputztasche wieder mal vergessen ins Hotel.
+Das Restaurant direkt neben dem Bahnhof hatte tolles Essen.
+Am liebsten würde ich jetzt sofort in die Sonne fliegen.
+Die Zugverbindung vom Flughafen ins Zentrum war pünktlich heute.
+Hast du schon überlegt ob wir ein Auto mieten sollen?
+Der Regen hat uns beim Stadtspaziergang leider doch gestört.
+Ich liebe es morgens vor allen Touristen um den See zu laufen.
+Die Reisekosten haben sich am Ende wirklich gelohnt für uns alle.
+Wir schlafen in einer Ferienwohnung die ganz nahe dem Bahnhof liegt.
+Mein Partner findet das Warten im Flughafen total nervig.
+Hast du schon mal den neuen Fernbuslinienplan online gesehen?
+Das Picknick auf der Wiese war ein perfekter Abschluss des Tages.
+Ich muss noch meine Reisetasche für die nächste Woche packen.
+Die Empfehlung meiner Freundin zum Hotel hat wirklich gut funktioniert.
+Ich packe gerade meine Koffer für die Mallorcareise.
+Die Unterkunft in Florenz liegt direkt am Hauptplatz.
+Habt ihr schon Tickets für den Zug nach Berlin gekauft?
+Das Wetter an der Nordsee war leider ziemlich grau.
+Wir mieten uns für die Sommerferien ein Chalet in den Alpen.
+Die Wanderung am Zugspitzplatt war richtig anstrengend aber wunderschön.
+Kannst du mir eine Empfehlung für ein Hostel in Hamburg geben?
+Der Check-in am Flughafen dauerte länger als erwartet.
+Ich vermisse immer das Salzige der Meeresluft nach Hause kommen.
+Unsere Reise ins Ausland wurde wegen des Sturms verschoben.
+Das Airbnb war viel kleiner als auf den Fotos dargestellt.
+Wir fahren nächste Woche mal wieder mit dem Wohnmobil los.
+Der Taxifahrer in Bangkok war extrem freundlich und hilfsbereit.
+Ich brauche dringend einen günstigen Flug nach Barcelona für nächsten Monat.
+Die Stadtführung in Rom hat uns total begeistert gefallen.
+Am Strand von Phuket liegt man richtig entspannt auf den Liegen.
+Wir sollten vielleicht doch ein Reisebüro konsultieren für die Planung.
+Das Visum für Thailand bekommt man unkompliziert an der Grenze.
+Ich hasse es immer, wenn der Koffer am Gepäckband fehlt.
+Die Sehenswürdigkeiten in Berlin kann man nicht alle an einem Tag sehen.
+Unser Hotelzimmer hatte leider keine Klimaanlage im Hochsommer.
+Reist ihr auch gerne mal ohne festen Plan und spontan los?
+Die Rückfahrt aus dem Urlaub ist jedes Mal irgendwie traurig.
+Wir suchen noch nach einer guten Pauschalreise für das nächste Jahr.
+Der Ausblick vom Brienzersee war einfach nur atemberaubend schön.
+Haben die Hotels in Barcelona schon wieder Preissprünge?
+Mein Koffer war viel zu voll gepackt.
+Das Flugzeug hat drei Stunden Verspätung gehabt.
+Wir suchen noch ein günstiges Ferienhaus an der Küste.
+Die Strandpromenade abends ist echt malerisch.
+Reiseantipoden haben mir geholfen, mich besser zurechtzufinden.
+Ich vermisse schon meine Lieblingsbar in Rom.
+Mit dem Zug durch die Alpen war traumhaft schön.
+Hast du schon deine Reisepasskontrolle gemacht?
+Die Ferienwohnung hatte leider keine Klimaanlage im Sommer.
+Gemeinsam reist man oft viel entspannter und günstiger.
+Unser Campingplatz lag direkt am Seeufer.
+Die Stadtrallye in Hamburg war total lustig.
+Fluggesellschaften streichen zunehmend ihre Gepäckgebühren für Kinder.
+Ich habe meine Kreditkarte vergessen, als wir ankamen.
+Das Museumsschiff in Hamburg ist wirklich sehenswert.
+Besser wäre es gewesen, wenn wir früher gebucht hätten.
+Die Wanderung zum Matterhorn war anstrengend aber lohnend.
+In Paris kann man echt gut frühstücken gehen.
+Wir haben einen günstigen Last Minute Deal gefunden.
+Das Hotelzimmer hatte leider keinen Seeblick mehr.
+Mit dem Fernbus reist man oft stressfreier als mit der Bahn.
+Ich würde gerne mal nach Norwegen verreisen wollen.
+Die Stadtführerin in Wien war sehr informativ und sympathisch.
+Unsere Mietwagenreservierung wurde leider kurzfristig storniert worden.
+Wir fahren dieses Jahr wieder ans Meer.
+Die Buchung war simpler als erwartet.
+Am Flughafen haben wir zwei Stunden gewartet.
+Das Hotelzimmer hatte einen tollen Blick aufs Meer.
+Ich hasse es, wenn der Koffer zu voll ist.
+In Barcelona essen wir jeden Tag Tapas.
+Der Mietwagen war leider etwas unzuverlässig.
+Hast du schon die Flugtickets gesichert?
+Unser Campingplatz lag direkt am Strand.
+Die Sehenswürdigkeiten in Rom sind beeindruckend.
+Man sollte vor der Reise immer Koffer packen.
+Der Zug war pünktlich und sehr bequem.
+Wir suchen noch einen günstigen Last-Minute-Deal.
+Die lokale Küche hat uns super schmecken lassen.
+Im Resort gibt es täglich Live-Musik am Abend.
+Vergiss nicht deinen Reisepass in die Tasche zu tun.
+Das Wetter war für unsere Wanderung perfekt.
+Die Taxifahrer in Istanbul sind oft sehr teuer.
+Ich träume schon jetzt wieder von diesem Ort.
+Für den Rückflug brauchen wir einen Transfer.
+Die Stadtführung war wirklich interessant und unterhaltsam.
+Unsere Ferienwohnung hatte eine große Küche mit allem.
+Am ersten Tag sind wir noch kaum rausgegangen.
+Der Reisedoktor hat uns gut beraten vor der Abreise.
+Ich vermisse die Ruhe vom Dorfurlaub jetzt schon.
+Wir sollten mal den Campingplatz buchen.
+Die Buchung war irgendwie total kompliziert.
+Hast du schon das Flugticket gebucht?
+Das Hotelzimmer hat super auf uns gewartet.
+Der Flughafen ist leider immer so voll.
+Ich mag es einfach lieber am Strand zu liegen.
+Die Bahnverbindung in Italien ist oft verspätet.
+Wir haben vergessen die Koffer zu packen.
+Ein Picknick im Park war ganz nett.
+Die Sehenswürdigkeiten sind teilweise etwas überlaufen.
+Sollten wir vielleicht doch das Auto mieten?
+Der Reisebus hatte sehr bequeme Sitze drin.
+Ich freue mich riesig auf den Flieger.
+Die Strandbar serviert wirklich leckere Cocktails.
+Hast du deinen Reisepass schon gefunden?
+Das Wetter dort ist zum Verlieben schön.
+Wir schlafen heute im Zelt draußen.
+Der Check-in am Flughafen dauerte ewig lang.
+Ich brauche dringend neue Sandalen für die Füße.
+Die Wanderung war anstrengender als erwartet ehrlich gesagt.
+Kannst du mir mal die Reiseroute schicken?
+Das Museum hat mich total beeindruckt gestern Abend.
+Wir suchen noch eine günstige Ferienwohnung dort.
+Der Lokalfahrplan ist nicht wirklich zuverlässig dort.
+Ich würde liebend gerne nochmal nach Spanien fliegen.
+Ich such schon seit Wochen nach günstigen Flügen nach Bali.
+Das Airbnb in Berlin hat leider nicht den Fotos entsprochen.
+Hast du dir schon überlegt wie wir zur Insel kommen?
+Der Strand in Kroatien ist im Juli einfach viel zu voll.
+Wir haben uns spontan für einen Roadtrip durch Norwegen entschieden.
+Die Zugfahrt mit dem Nachtzug war total bequem und praktisch.
+Kannst du mir mal deine Tipps für Wanderwege in Österreich schicken?
+Das Hostel in Bangkok hatte ein super nettes Personal drin.
+Ich kann es kaum abwarten endlich wieder die Sonne zu spüren.
+Der Pass ausstellen lassen dauert bei der Behörde immer zu lange.
+Wir überlegen ob wir uns ein Wohnmobil mieten sollen dieses Jahr.
+Die Sehenswürdigkeiten in Rom sieht man nie alle auf einmal.
+Am besten buchst du den Mietwagen schon vorab online direkt.
+Das Wetter in London war das ganze Wochenende durchgehend grau.
+Ich vermisste unser zu Hause kaum während der drei Wochen.
+Der Busbahnhof war ziemlich chaotisch als wir dort ankamen.
+Für die Reiseroute solltest du dir besser eine Karte ausdrucken.
+Die lokale Küche in Vietnam hat uns alle total überrascht.
+Wir schlafen jede Nacht auf einer anderen Campingwiese dabei.
+Das Wartermal am Flughafen hat mir wirklich richtig gut getan.
+Sollten wir den Stadtrundgang buchen oder lieber allein bleiben?
+Der Blick vom Berggipfel hat den steilen Aufstieg gelohnt.
+Ich habe meine Reisetasche schon zwei Tage vorab gepackt.
+Die Zimmerpreise im Zentrum sind leider gerade extrem hoch.
+Mit dem Fahrrad durch die Normandie fahren klingt sehr erholsam.
+Wir überlegen schon wieder mal an den See zu fahren.
+Das Hotelzimmer hatte leider nur eine Straße als Ausblick.
+Ich hasse es so lange am Flughafen rumzusitzen.
+Die Wanderung im Tessin war richtig anstrengend aber super.
+Kann jemand ein gutes Hostel in Berlin empfehlen?
+Meine Koffer haben die 23 Kilo Grenze knapp geschafft.
+Wir mieten lieber eine Ferienwohnung als jedes Mal ein Hotel zu buchen.
+Der Flug nach Island war leider stark verzögert.
+Ich vermisste schon mein eigenes Bett am ersten Tag.
+Falls ihr Spanisch lernt ist das dort echt praktisch.
+Die Skipiste war leider nur eingeschränkt geöffnet wegen Sturm.
+Ich habe vorhin super günstige Flieger nach Rom gefunden.
+Vergesst bitte nicht die Reiseversicherung für den Mietwagen abzuschließen.
+Das Restaurant direkt am Hafen war total überlaufen und teuer.
+Wir planen nächste Woche endlich mal wieder zu verreisen.
+Ein Wochenendtrip ins Allgäu klingt gerade perfekt erholsam.
+Die Gepäckabholung hat ewig gedauert wegen des Personalmangels.
+Ich kann euch den Nationalpark in Slowenien nur empfehlen.
+Mein Wecker ist heute Nacht schon dreimal abgegangen.
+Wir sollten vielleicht lieber mit dem Zug fahren um entspannter zu sein.
+Das Souvenir aus Griechenland steht jetzt stolz auf meinem Regal.
+Kalt duschen im Hotel war nicht ganz meins ich weiß.
+Die Aussicht vom Berggipfel hat die Mühen komplett gelohnt.
+Hast du schon gesehen wie viel der Campingplatz kostet?
+Ich träume davon endlich mal einen Kreuzfahrurlaub zu machen.
+Ich suche gerade nach günstigen Flugtickets für Spanien.
+Die Strandbar war leider total überlaufen am Nachmittag.
+Hast du schon einen Mietwagen für die Algarve gebucht?
+Der Blick vom Gipfel war jeden Anstieg wert.
+Wir haben das Hotelzimmer eine Stunde vor der Ankunft gecheckt.
+Ohne Reiseschuhwechsel macht man sich beim Wandern nur Sorgen.
+Die Einbahnstraßen in Berlin sind absolut verwirrend für Touristen.
+Mein Koffer wiegt jetzt genau sechsunddreißig Kilogramm ohne Handgepäck.
+Sollten wir früh buchen oder lieber last minute warten?
+Der Zugausfall hat unsere gesamten Pläne komplett zunichte gemacht.
+In Wien findet man die besten Wiener Schnitzel in der Altstadt.
+Ich brauche dringend einen Powerbank für die lange Busfahrt.
+Die Ferienwohnung hatte gar keinen Internetanschluss trotz versprechender Fotos.
+Mit dem Roller durch Rom zu fahren ist verrückt aber schön.
+Vergiss nicht deine Adapter für die steckdosen mitzubringen.
+Der Skipass war dieses Jahr wieder deutlich teurer als letztes Jahr.
+Wir haben auf der Insel zwei Tage ohne Strom verbracht.
+Kannst du mir empfehlen welche Talsperre sich zum Baden lohnt?
+Die Gepäckabgabe am Flughafen dauert immer zu lange.
+Ich träume davon mal mit dem Schiff durch die Kanäle zu fahren.
+Das Wetter war an der Küste wirklich miserabel diese Woche.
+Ein Couchsurfing-Abenteuer wäre mal etwas abenteurisches für uns beide.
+Der Flughafen Shuttle fährt alle fünfzehn Minuten pünktlich vom Terminal ab.
+Ich habe leider meine Papiere im Hotelzimmer vergessen als wir losfuhren.
+Die Einheimischen waren überraschend freundlich trotz der hohen Touristendichte dort.
+Wir haben den Zug verpasst weil wir zu lange gesnackt haben.
+Wir buchen diesmal lieber ein Apartment als ein Hotelzimmer.
+Der Flug nach Barcelona war voller Turbulenzen gestern Abend.
+Hast du schon die Gepäckstücke für die Reise gepackt?
+Die Wanderung im Nationalpark war richtig anstrengend aber schön.
+Ich finde Couchsurfing total spannend und lernt tolle Leute kennen.
+Das Restaurant am Strand hatte wirklich fantastische Fischgerichte auf der Karte.
+Mit dem Zug durch Italien ist einfach so viel entspannter als fliegen.
+Vergiss bitte nicht deine Sonnencreme in die Tasche zu packen.
+Die Buchung beim Vermieter ist leider erst jetzt eingegangen worden.
+Wir sollten unbedingt früher losfahren um den Stau zu vermeiden.
+Das Picknick auf der Wiese war mal eine tolle Idee heute.
+Die Klimaanlage im Bus ging während der ganzen Fahrt nicht richtig.
+Kannst du mir mal einen Tipp für die Altstadt geben?
+Der Passkontrolleur an der Grenze war wirklich sehr freundlich und nett.
+Unsere Campingausrüstung ist schon lange überfällig und muss erneuert werden.
+Das Wetter in Spanien war das ganze Wochenende durchgehend sonnig und warm.
+Ich habe vergessen den Adapter für die Stecker zu kaufen oh je.
+Die Stadtrundfahrt mit dem Bus hat mir echt viel gebracht gestern.
+Wir sitzen gerade im Zug und warten auf unseren Anschluss nach Rom.
+Die Aussicht vom Aussichtspunkt war einfach nur atemberaubend und wunderschön wirklich.
+Findest du ein Hostel oder lieber ein kleines Boutique Hotel?
+Der Mietwagen war leider nicht so sauber wie erwartet gewesen schade.
+Ich träume schon wieder von unserem Urlaub am Schwarzen Meer damals.
+Die Einreisegenehmigung kam pünktlich per E-Mail beim Bundesamt an gestern.
+Haben wir genug Wasser für den Tagesausflug im Rucksack dabei?
+Wir suchen noch eine günstige Ferienwohnung am Meer.
+Die Aussicht vom Zug aus war einfach atemberaubend.
+Hast du den Mietwagen schon online gebucht?
+In Berlin gibt es so viele tolle Museen.
+Der Strand in Kreta ist leider voll belegt.
+Ich träume von einem Roadtrip durch die USA.
+Das Hotelzimmer war kleiner als auf dem Foto.
+Wann genau reist ihr eigentlich ab nach Spanien?
+Die Bahnsteige am Hbf waren heute super überfüllt.
+Wir haben unsere Reisekasse schon deutlich reduziert.
+Ein Wochenendtrip nach London wäre wirklich mal schick.
+Die Fluggesellschaft hat unseren Koffer leider falsch ausgeliefert.
+Hast du für den Campingplatz schon Reservierung?
+Das Wetter an der Küste war perfekt zum Schwimmen.
+Ich muss mich noch um die Visumskosten kümmern.
+Der Bus aus dem Osten kam deutlich zu spät.
+Wir suchen dringend Tipps für gute Restaurants in Rom.
+Die Stadtrundfahrt war zwar lang, aber super interessant.
+Kannst du mir deinen Reiseführer für Österreich ausleihen?
+Der Check-in am Flughafen hat ewig gedauert heute.
+Ich finde den Campingplatz im Harz total entspannt.
+Die Buchung über die App war wirklich unkompliziert.
+Wir haben uns für einen Last-Minute-Urlaub entschieden.
+Das Hostel in Bangkok hat ein super nettes Personal.
+Der Zug nach Hamburg hatte heute leider Verspätung.
+Wir überlegen noch ob wir dieses Jahr an die Küste fahren.
+Das Hotelzimmer hatte leider kein echtes Doppelbett drin.
+Im Flugzeug sitzt man wieder einmal ganz schön eng beieinander.
+Hast du schon Tickets für den Zug nach Berlin besorgt?
+Der Strand in Kroatien ist wirklich wunderschön sauber.
+Wir haben unsere Ferienunterkunft direkt am Meer gebucht.
+Mit dem Camper ist das Reisen viel freier und flexibler.
+Ich hasse es wenn der Gepäckband zu spät ankommt.
+Die Altstadt von Lissabon lässt sich super gut Fußgänger erkunden.
+Kannst du mir eine gute Ferienwohnung in Sardinien empfehlen?
+Unser Reisebüro hat den Urlaub leider kurzfristig abgesagt.
+Das Souvenir aus Thailand war ganz nett aber teuer.
+Wir sind mit dem Mietwagen durch die Toskana gefahren.
+Die Klimaanlage im Bus hat irgendwie gar nicht funktioniert.
+Hast du für deine Reise nach Japan schon Visa beantragt?
+Ich kann diesen Campingplatz nur wärmstens empfehlen an alle Freunde.
+Der Blick vom Eiffelturm war einfach nur atemberaubend schön.
+Wir müssen jetzt unbedingt unsere Koffer wieder packen lernen.
+Die Strandbar serviert das beste Eis der ganzen Insel.
+Hast du deine Zahnbürste und Socken nicht vergessen zu Hause?
+Das Reisebüro hat uns einen tollen Städtetrip nach Wien empfohlen.
+Im Zug konnte ich endlich mal richtig entspannt lesen.
+Wir überlegen ob wir für den Sommer ein Zelt mieten sollten.
+Die U-Bahn in Paris ist manchmal echt chaotisch und voll.
+Hast du schon mal in einem Schiffshotel übernachtet?
+Wir buchen das Hotel direkt über die App.
+Der Flug nach Mallorca war diesmal pünktlich.
+In Berlin sollte man unbedingt den Checkpoint Charlie sehen.
+Hast du schon dein Visum für Vietnam beantragt?
+Das Hostel in Rom hatte leider kein WLAN.
+Mit dem Rad durch die Toskana fahren wäre Traum.
+Ich vergesse immer wieder den Reisepass zu Hause.
+Die Strandbar auf Mallorca hat super Cocktails.
+Unsere Ferienwohnung in Österreich war total gemütlich.
+Der Zug nach Venedig ist wirklich sehr bequem.
+Packt am besten bequeme Schuhe für den Bergweg ein.
+Das Museumscafé im Louvre ist viel zu teuer.
+Wir haben unseren Flug um zwei Stunden nach hinten gelegt.
+Die Sicht von der Aussichtsplattform war einfach atemberaubend.
+Ich muss noch eine Reisekrankenversicherung abschließen.
+Der Check-in am Flughafen lief überraschend reibungslos ab.
+In Barcelona essen wir heute Abend Tapas mit Freunden.
+Das Campingzelt hat während des Sturms gehalten.
+Kannst du mir einen Gutschein für die Massage schicken?
+Die Wanderung zum Wasserfall war anstrengender als gedacht.
+Wir haben leider keine freien Zimmer mehr gefunden.
+Der Transfer vom Flughafen ins Hotel dauerte ewig.
+Ich liebe es, morgens am Strand zu entspannen.
+Das Picknick im Park wurde zum Highlight des Tages.
+Vielleicht mieten wir für die Rückreise noch einen Camper.
+Haben wir eigentlich schon die Flugtickets gebucht?
+Der Strand in Kreta ist dieses Jahr wirklich sauber.
+Ich hasse Wartezeiten am Airport bei der Abfertigung.
+Ein Campingplatz direkt am Meer ist doch Luxus pur.
+Kannst du mal schnell mein Gepäck für mich tragen?
+Die Aussicht vom Hausberg war einfach nur atemberaubend.
+Wir sollten früh buchen sonst werden die Preise noch höher.
+Das Taxi vom Bahnhof zum Hotel war richtig teuer.
+Hab gerade festgestellt dass ich meine Sonnenbrille vergessen habe.
+Ein Tagesausflug in den Nationalpark steht unbedingt auf dem Plan.
+Die lokale Küche dort oben hat mich total überzeugt.
+Mein Koffer wiegt jetzt hoffentlich nicht mehr als fünfzehn Kilogramm.
+Ich vermisse schon wieder das Salz in der Luft.
+War die Hotelbar denn so voller Partytypen wie erwartet?
+Der Mietwagen war klein aber für uns völlig ausreichend.
+Bitte erinner mich daran den Reisepass zu kontrollieren.
+Das historische Zentrum ist abends viel ruhiger als am Tag.
+Ich habe keine Lust mehr auf diese endlosen Staus.
+Die Sehenswürdigkeiten lassen sich am besten per Rad erkunden.
+Unser Zimmer hatte leider keinen Blick auf die Bucht.
+Sollen wir den Zug oder doch lieber den Bus nehmen?
+Das war definitiv der entspannteste Urlaub meines ganzen Lebens.
+Vergiss nicht das Adapterkabel für die Stecker mitzunehmen.
+Die Wanderkarte hat uns vor großen Umwegen bewahrt.
+Ich schlafe schlecht ohne mein altes Schlafritual daheim.
+Der Checkin am Flughafen ging heute überraschend schnell.
+Wir überlegen noch, ob wir dieses Jahr an die Nordsee fahren.
+Die Buchung der Flugtickets hat mich nervös gemacht.
+Endlich mal ohne Zeitplan durch den Norden schwänzen.
+Ich habe mir für Barcelona schon eine Airbnb-Wohnung gesucht.
+Das Gepäck war viel schwerer als erwartet und stressig.
+Könnt ihr mir eine gute Wanderstrecke in den Alpen empfehlen?
+Der Zug war verspätet, aber die Aussicht hats gutgemacht.
+Wir haben auf Teneriffa jeden Tag am Strand verbracht.
+Ein Campingtrip mit dem Hund wäre super erholsam.
+Die Stadtbesichtigung zu Fuß macht einfach mehr Spaß.
+Ich bin total erschöpft nach dieser langen Reise angereist.
+Hast du schon mal im Zelt übernachtet, das ist cool.
+Der Transfer vom Flughafen zum Hotel war leider nichtincluded.
+Wir sollten für die Sommerferien früher buchen als sonst.
+Die lokalen Straßenstände in Bangkok schmecken wirklich authentisch.
+Ich liebe es, morgens auf dem Balkon den Meerblick zu genießen.
+Mein Reisepass ist noch drei Jahre gültig, gut geplant.
+Der Mietwagen hatte einen Pannenstopp mitten in der Wüste.
+Wir wollen unbedingt die Northern Lights in Norwegen sehen.
+Die Hotellobby war wunderschön, aber das Zimmer winzig.
+Packen ist immer noch der anstrengendste Teil der Vorbereitung.
+Ich habe mir ein neues Reisejournal für meine Notizen gekauft.
+Die Fähre nach Kroatien war überfüllt und ziemlich laut.
+Wir haben uns spontan entschieden, doch noch einen Tag zu bleiben.
+Der Reiseführer hat uns viele versteckte Ecken nahegebracht.
+Mal abwarten, ob das Wetter im Urlaub gut wird.
+Wir fahren dieses Jahr endlich mal ans Meer.
+Die Buchung über die App war super schnell erledigt.
+Hast du schon geprüft ob das Visum reicht?
+Das Hotelzimmer sah gar nicht so aus wie auf den Bildern.
+Mit dem Zug nach Rom ist einfach entspannter als fliegen.
+Ich habe mir einen Reiseadapter mitgenommen zum Glück.
+Der Strand in Kroatien war wirklich traumhaft schön.
+Hast du die Stornierungsbedingungen schon genau gelesen?
+Unsere Mietwagenreservierung wurde leider kurzfristig abgesagt.
+Die Aussicht vom Berggipfel hat alles gepolt.
+Wir suchen noch nach einem günstigen Flug nach Island.
+Das Frühstück im Hostel war eigentlich gar nicht schlecht.
+Ich vermisse schon wieder das Salzwasser am Meer.
+Die Stadtrundfahrt war zu teuer für das was wir gesehen haben.
+Hast du deine Reisekrankenversicherung nicht vergessen?
+Der Abflug war pünktlich und der Checkin ging schnell.
+Wir übernachten drei Nächte in einem kleinen Berghotel.
+Das Reisepassfoto von mir ist leider schon abgelaufen.
+Ich habe meine Koffer heute morgen endlich gepackt.
+Die Sehenswürdigkeiten am Abend sind beleuchtet wahnsinnig hübsch.
+Wir müssen noch an den nächsten Anschlussbahnhof laufen.
+Die Hotelbewertungen waren teilweise etwas widersprüchlich finde ich.
+Hast du schon ein paar Reisebücher für die Bahnmitnahme?
+Der Lokalführer hat uns viele gute Geheimtipps verraten.
+Ich freue mich riesig auf unseren Campingurlaub im September.
+Wir überlegen grad ob wir die Insel mit dem Ferry oder dem Flugzeug anfliegen.
+Das Airbnb hatte leider kein WLAN das ist zum Arbeiten echt blöd.
+In Florenz müssen wir unbedingt nochmal das Uffizi Museum besuchen.
+Hast du schon gesehen wie teuer die Mietwagen in Spanien geworden sind?
+Mein Koffer war so schwer dass ich ihn kaum tragen konnte.
+Wir haben im Zug drei Stunden Schlafmodus aktiviert und gut geschlafen.
+Die Strandbar am See hatte super leckere Cocktails für wenig Geld.
+Vergiss nicht dein Adapter mitzunehmen da ist doch wieder ein anderes Steckerloch.
+Der Wandertag in den Alpen war anstrengender als ich dachte aber schön.
+Ich buche meistens frühzeitig weil die Preise sonst ins Nirvana steigen.
+Das Reisebüro hat uns einen tollen Last Minute Deal angezeigt.
+Wir sind per Roller durch Rom gefahren das ist ganz entspannt gewesen.
+Am besten schreibst du gleich den Flieger online nach wenn du Zeit hast.
+Die Jugendherberge war sauber und der Preis war mehr als fair.
+Hast du schon gehört dass man ab nächstem Jahr kein Visum mehr braucht?
+Der Anschlusszug in Wien hatte eine Verspätung von fast zwei Stunden.
+Ich liebe es wie die Sonne im Süden später untergeht als hier.
+Das Picknick am Seeufer war der perfekte Abschluss für unseren Tag.
+Mach dir keine Sorgen wir finden schon einen Parkplatz ganz in der Nähe.
+Die Empfehlung für das lokale Restaurant hat sich wirklich gelohnt.
+Wir packen jetzt mal schnell was zu essen für den langen Zugweg.
+Das Wetterbericht sieht gut aus also können wir die Wanderung machen.
+Ich hasse es wenn man im Flugzeug auf engstem Platz sitzen muss.
+Die Karte vom Reiseführer war veraltet wir sind gleich falsch abgebogen.
+Wir überlegen noch ob wir fliegen oder fahren.
+Das neue Hostel in Berlin hat super Bewertungen.
+Hast du schon das Visum für Thailand beantragt?
+Die Zugverbindung nach Hamburg war leider gestrichen.
+Am Strand von Mallorca war es viel zu voll.
+Ich packe gerne erst am letzten Abend.
+Der Mietwagen war total kaputt bei der Abholung.
+Wir haben den ganzen Tag nur geschlafen.
+Ist die Stadtrundfahrt in Wien auch auf Englisch?
+Mein Koffer geht beim Airport nicht mehr zu.
+Die Aussicht vom Berggipfel war einfach atemberaubend.
+Gibt es im Hotel ein kostenloses WLAN?
+Ich hasse es wenn die Bahn mal wieder Verspätung hat.
+Wir suchen eine Wohnung mit Pool für August.
+Der Reiseführer in der Tasche ist schon veraltet.
+Hast du dein Reiseziel schon endgültig festgelegt?
+Die Einreisebestimmungen haben sich letztes Jahr geändert.
+Am liebsten würde ich jetzt sofort durchstarten.
+Der Busfahrer meinte wir müssten umsteigen.
+Ich vergesse immer die Adapter für die Stecker.
+Das Picknick am See war ein kleines Highlight.
+Kann man mit der Citycard auch alle Museen nutzen?
+Wir haben uns einen Tagestour für morgen gebucht.
+Die Fluggesellschaft hat meinen Koffer falsch geliefert.
+Ich brauche dringend Urlaub von dem ganzen Stress.
+Wir müssen am Freitag bis zehn Uhr abmelden.
+Die Strandbar hat leider schon um acht geschlossen.
+Ich hasse es wenn die Koffer zu voll gepackt sind.
+Der Flug war pünktlich und das Personal super nett.
+In Barcelona kann man einfach den ganzen Tag flanieren.
+Hast du schon gesehen wie teuer das Taxi dort ist?
+Mein Onkel reist immer nur mit dem Campingwagen rum.
+Die Sehenswürdigkeiten in Rom sind wirklich beeindruckend schön.
+Wir haben ein paar Tage im Süden verbracht und genossen die Sonne.
+Der Bahnhof liegt unglaublich nah an der Altstadt und gut erreichbar.
+Vergiss nicht deine Powerbank für den langen Flug mitzunehmen.
+Das Restaurant am Hafen hatte wirklich frische Fischgerichte zu bieten.
+Ich würde mal gerne mal nach Island reisen um dort die Natur zu erleben.
+Die Zugverbindung in Italien ist sehr zuverlässig und pünktlich unterwegs.
+Unsere Ferienwohnung war zwar klein aber dafür richtig gemütlich eingerichtet.
+Am besten bucht man den Mietwagen so früh wie möglich online.
+Der Strand war leider ziemlich überlaufen am ersten Tag unseres Aufenthalts.
+Wir haben uns spontan entschlossen ein paar Tage länger zu bleiben weil es uns so gut gefallen hat.
+Die Eintrittskarte für die Arena war relativ teuer im Vergleich zu anderen Museen.
+Ich vermisse schon wieder den Geschmack von echtem Espresso dort unten.
+Am Flughafen muss man mindestens zwei Stunden vor Abflug da sein.
+Das Hotelzimmer hatte zwar keinen Balkon aber dafür einen tollen Ausblick auf die Stadt.
+Reisen macht doch einfach glücklich und gibt neue Perspektiven für den Alltag.
+Wir sind früh aufgebrochen um den Stau nach der Arbeit zu vermeiden.
+Wir fliegen nächsten Dienstag nach Rom ab.
+Die Ferienwohnung hatte leider kein eigenes Bad.
+Ich hasse es wenn der Koffer am Gepäckband fehlt.
+Mit dem Auto durch Italien zu fahren war genial.
+Hast du schon ein Hotel für die Karibik gebucht?
+Der Strand in Spanien war viel cleaner als erwartet.
+Ich möchte dieses Jahr unbedingt ans Schwarze Meer.
+Die Zugfahrt nach Berlin war super entspannend und schnell.
+Wir haben uns spontan für den Campingplatz entschieden.
+Das Museum im Zentrum ist jeden Besuch wert.
+Meine Papiere sind zum Glück alle vollständig gecheckt.
+Der Bus nach Rom hat leider zwei Stunden Verspätung.
+Ich liebe das Gefühl wenn die Flügeltür schließt.
+Die Airbnb war ein richtiges Schnäppchen in München.
+Wollen wir doch lieber nur zum See fahren?
+Die Reiseroute durch die Alpen war atemberaubend schön.
+Man sollte immer einen Adapter für Steckdosen dabeihaben.
+Das Backpacking in Südostasien war eine tolle Erfahrung.
+Ich brauche dringend mal wieder einen langen Strandurlaub.
+Der Check-in am Flughafen lief heute super reibungslos ab.
+Wir suchen noch jemanden der mit zum Wanderurlaub kommt.
+Die Sehkürzel in Paris sind im Sommer überlaufen.
+Mein Lieblingshotel bietet kostenloses Frühstück an jedem Morgen.
+Reisen macht einem wirklich bewusst wie klein die Welt ist.
+Die Rückreise war etwas chaotisch wegen des Streiks.
+Endlich habe ich die Flugtickets gebucht.
+Wir überlegen noch zwischen Strand oder Berge.
+Das Hotelzimmer hatte leider keinen Meerblick.
+Im Zug schläft es sich richtig gut.
+Hast du schon Koffer gepackt für die Reise?
+Der Flughafen war heute total überlaufen.
+Ich liebe es, neue Städte zu erkunden.
+Unsere Ferienwohnung lag direkt am Seeufer.
+Mit dem Fahrrad durch Rom fahren ist genial.
+Die Visumgebühr war wirklich ziemlich teuer.
+Wir haben den Zug verpasst und gewartet.
+Das Picknick auf der Insel war traumhaft schön.
+Kann mir jemand einen guten Reiseführer empfehlen?
+Der Luggage Transfer zum Hostel war bequem.
+Ich vermisse bereits die Sonne dort.
+Am besten bucht man frühzeitig den Mietwagen.
+Die Sehenswürdigkeiten waren heute stark überlaufen.
+Wir schlafen in diesem Monat im Zelt.
+Ein guter Rucksack ist fürs Wandern wichtig.
+Das Abendessen am Hafen war sehr lecker.
+Habt ihr schon die Eintrittskarten gekauft?
+Die Reise durch Portugal hat viel Spaß gemacht.
+Ich packe immer zu viele Socken ein.
+Der Flughafen Shuttle Bus war pünktlich da.
+Wir planen für nächsten Sommer einen Törö.
+Wir überlegen schon lange, ob wir im Juli fliegen sollen.
+Das neue Hotel in Berlin hat super Bewertungen online.
+Ich hasse es, wenn die Koffer am Band fehlen.
+Hast du schon den Zug nach Rom gebucht?
+Der Strand auf Mallorca war dieses Jahr viel leerer als sonst.
+Wir haben zufällig ein günstiges Zimmer in Tokio gefunden.
+Die Stadtrundfahrt mit dem Fahrrad war total anstrengend aber cool.
+Vergiss nicht die Ladekabel für dein Handy zu packen.
+Am liebsten würde ich nächstes Mal wieder ans Meer fahren.
+Die Warteschlange am Passkontrolle dauerte über eine halbe Stunde.
+Unser Reiseleiter konnte glücklicherweise auch ziemlich gut Englisch.
+Ich brauche dringend Urlaub und zwar ganz schnell weg hier.
+Die Seilbahn auf den Zugspitze war leider wegen Wind ausfallen.
+Hast du schon gesehen, wie teuer die U-Bahn-Tickets in London sind?
+Wir schlafen heute Nacht in einem Campingwagen im Black Forest.
+Das Frühstück im Hostel war überraschend lecker und umfangreich.
+Ich kann nicht warten, bis ich wieder am Strand sitze.
+Die Buchung der Mietwagen ging über die App sehr einfach.
+Man sollte definitiv früher buchen, sonst werden die Preise viel höher.
+Der Blick vom Aussichtsturm hat uns alle sprachlos gemacht.
+Wir haben vergessen, unsere Reisepässe zu verlängern zum Glück.
+Die Nachttour durch Venedig war etwas für romantische Seelen.
+Ich empfehle unbedingt den Museumsbesuch am späten Nachmittag.
+Unser Flug wurde um zwei Stunden verzögert ohne vorherige Info.
+Die Wanderung zum Wasserfall war wirklich eine Herausforderung geworden.
+Wir packen morgen endlich die Koffer für Mallorca.
+Das Hotel hatte einen tollen Blick auf das Meer.
+Mit dem Zug ist man da viel entspannter unterwegs.
+Hast du schon ein Ticket für die Stadtbesichtigung?
+Die Jugendherberge war sauber und super zentral gelegen.
+Ich möchte dieses Jahr unbedingt in die Berge fahren.
+Der Abflug um fünf Uhr ist echt nervezerreißend.
+Haben wir eigentlich genug Geld für Trinkgelder eingerechnet?
+Das Strandbad war viel zu voll am Wochenende.
+Mein Koffer hat bei der Ankunft noch gefehlt.
+Ein Campingplatz direkt am See wäre traumhaft schön.
+Die Stadtrundfahrt mit dem Doppeldeckerbus hat Spaß gemacht.
+Vergiss nicht den Adapter für die Steckdosen einzupacken.
+Der Flieger nach Rom war pünktlich angekommen, super.
+Wir suchen noch einen Mietwagen mit Automatikgetriebe.
+Das Frühstück im Hotel war wirklich überirdisch gut.
+Am besten bucht man Flüge schon Monate im Voraus.
+Die Wanderung am ersten Tag war sehr anstrengend.
+Kannst du mir deinen Lieblingsguide für Paris empfehlen?
+Ich habe meine Papiere fast im Zug vergessen.
+Ein kurzer Städtetrip ist immer eine gute Idee.
+Die Einreisebestimmungen haben sich wieder mal geändert.
+Wir schlafen morgen in einem kleinen Bergdorf übernachten.
+Der Blick von der Aussichtsplattform war einfach atemberaubend.
+Hast du die Reiserücktrittsversicherung schon abgeschlossen?
+Ich suche gerade nach günstigen Flügen für den Sommer.
+Das Airbnb hatte leider gar kein WLAN verfügbar.
+Mit der Bahn durch die Alpen ist einfach traumhaft.
+Wir haben in Istanbul total gut gegessen gestern.
+Hast du schon deine Pässe auf Gültigkeit geprüft?
+Der Strand war morgens noch ganz leer und ruhig.
+Ich finde Mietwagen im Ausland oft ziemlich teuer.
+Die Sehenswürdigkeiten in Rom sind wirklich beeindruckend.
+Vergiss nicht den Reisestempel im Pass zu holen.
+Unser Hotelzimmer lag direkt am wunderschönen Meer.
+Ein Campingurlaub wäre mal wieder was Gutes.
+Der Zug nach Berlin hatte heute leider Verspätung.
+Ich liebe es, neue Städte spontan zu erkunden.
+Die Einreisebestimmungen haben sich wieder einmal geändert.
+Wir buchen ab jetzt lieber flexibel und unverbindlich.
+Das Picknick auf dem Boot war sehr erholsam.
+Hast du dir schon einen Reiseführer gekauft?
+Der Check-in am Flughafen war schneller als erwartet.
+Ich kann das neue Reisebüro wärmstens empfehlen.
+Unsere Koffer wiegen nun deutlich zu viel wieder.
+Das Wetter in der Türkei war super heuer.
+Wir planen für nächstes Jahr eine Trekkingtour.
+Die Stadtrundfahrt mit dem Bus war sehr informativ.
+Ich habe meinen Urlaub bereits online gebucht gestern.
+Der Flughafen in Frankfurt ist morgens immer sehr voll.
+Am Strand von Bali war das Wasser super klar.
+Wir brauchen unbedingt einen Reiseschutz für die Reise nach Südostasien.
+Der Zug nach Berlin pünktlich ankam hat mich sehr überrascht.
+In Rom sollte man früh aufstehen um die Warteschlangen zu meiden.
+Das Hostel in Amsterdam hatte leider kein WLAN im Zimmer.
+Mit dem Carsharing durch die Toskana fahren ist super flexibel.
+Wir haben das Hotelzimmer erst am Flughafen gebucht und sind gut weggekommen.
+Die Aussicht vom Eiffelturm bei Sonnenuntergang war einfach traumhaft.
+Packt bitte die Sonnencreme nicht in den Handgepäck ein damit es nicht kaputt geht.
+Ein Wochenausflug nach Hamburg macht mit der Bahn richtig viel Spaß.
+Die Reiseapp hat uns vor dem Sturm gewarnt und wir waren froh darüber.
+In London kann man gut mit der U-Bahn alle Sehenswürdigkeiten besuchen.
+Das Zeltcamp war voller Mücken aber die Natur hat sich gelohnt.
+Wir planen einen Rundflug über den Nordseeküsten nächstes Jahr im Sommer.
+Die Einreisebestimmungen für die Schengenzone haben sich ja etwas geändert.
+Unser Reiseführer hatte uns ein verstecktes kleines Restaurant empfohlen.
+Im Flugzeug nach New York gab es nur Wasser und Cracker.
+Die Sehenswürdigkeiten in Venedig sind trotz des touristischen Gedränges wunderschön.
+Wir haben einen Mietwagen für die Inselringstraße bestellt um flexibel zu sein.
+Der Zeltplatz am See war überbucht also mussten wir ein Hotel suchen.
+Reisen mit dem Wohnmobil ist zwar teurer aber dafür hat man Privatsphäre.
+Die Stadtbummel in Florenz waren meiner Meinung nach der Höhepunkt.
+Wir sollten die Flugtickets bald buchen weil die Preise steigen.
+Ein Kurzurlaub im Black Forest würde mir gerade echt guttun.
+Wir buchen direkt am Flughafen, damit es schneller geht.
+Die Aussicht vom Eiffelturm war einfach nur atemberaubend.
+Kannst du mir mal deine Flugdetails schicken?
+Im Rucksack ist alles zusammengepackt und bereit für die Abreise.
+Dieses kleine Bistro in der Nebenstraße ist ein echtes Juwel.
+Wir sollten früh aufstehen, um den besten Platz am Strand zu ergattern.
+Die Zimmertemperatur war leider etwas zu hoch für guten Schlaf.
+Mein Gepäck kam zum Glück pünktlich am Band an.
+Hast du schon die Sehenswürdigkeiten für Rom geplant?
+Ein Mietwagen in Italien bietet einfach mehr Freiheit als die Busse.
+Der Check-in online hat super funktioniert, sehr bequem.
+Ich liebe es, wenn der Zug direkt durchs Tal fährt.
+Das Hotelzimmer war sauber, aber etwas klein für uns beide.
+Wir haben vergessen, den Reisestempel im Pass kontrollieren zu lassen.
+Die Strandbar serviert die besten Cocktails am ganzen Ort.
+Am liebsten würde ich einfach nur faul auf dem Balkon liegen.
+Der Lärm an der Hauptstraße hat mich nachts sehr genervt.
+Hast du schon gehört, dass der Flughafen jetzt wieder geöffnet ist?
+Wir teilen uns die Kosten für das Apartment gerne untereinander.
+Die Wanderung zum Gipfel war anstrengend, aber total lohnenswert.
+Vergiss nicht, dein Ladegerät für den Smartphone-Adapter mitzunehmen.
+Das Wetter in Barcelona hat uns perfekt für einen Stadtspaziergang begünstigt.
+Wir fahren nächste Woche endlich wieder ans Meer, ich freue mich so.
+Die Lokalfahrten mit der Straßenbahn sind eine coole Entdeckungsmethode.
+Kann jemand ein günstiges Hotel nahe dem Bahnhof empfehlen?

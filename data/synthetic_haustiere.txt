@@ -5325,30 +5325,6 @@ Der Papagei schreit morgens um fünf Uhr los.
 Wir haben uns für einen Labradormix entschieden.
 Die Katze mag den neuen Staubsauger überhaupt nicht.
 Mein Hund hat gerade mal wieder im Haus gemacht.
-Die Katzentoilette muss wirklich jeden Tag gesäubert werden sonst stinkt es
-Ich vermisse meinen alten Labrador so sehr in der Wohnung
-Kann mir jemand empfehlen welches Futter für mein Kaninchen am besten ist
-Der Hundehalter im Garten hat sein Tier heute wieder ungebändigt gelassen
-Meine Schildkröte scheint krank zu sein sie frisst seit drei Tagen nicht mehr
-Wir überlegen uns einen Welpen aber die Kosten machen mich nervös
-Das Aquarium muss sofort gewechselt werden das Wasser ist so trüb
-Unser Papagei fliegt gerade durch die Wohnung und pickt alles ab
-Ich hasse es wenn meine Katze nachts auf dem Bett sitzt und kratzt
-Der Tierarzt sagte der Hund braucht dringend neue Impfungen gegen Parvovirus
-Meine Meerschweinchen brauchen mehr Heu im Winter weil sie kälter sind
-Hat jemand Erfahrung mit der Kastration von Katzen ich bin unsicher
-Der Hundemäntel an den Straßenranden ärgern mich jedes Mal tierisch
-Ich gebe meinem Vogel täglich frische Körner und Obst als Leckerli
-Mein Kanarienvogel singt morgens pünktlich um sechs Uhr los echt nervig
-Die Katze hat sich in einer schmalen Schachtel versteckt die wir nicht finden
-Wir müssen den Hund erziehen damit er nicht mehr an der Leine zieht
-Mein Fisch sieht blass aus ist das normal bei dieser Art bitte sagen
-Der Tierpfleger hat gesagt mein Hamster braucht mehr Bewegungsfreiheit im Käfig
-Ich finde es schwierig die Katze abzugewöhnen dass sie auf den Tisch springt
-Mein Pferd muss zum Hufschmied denn der Absatz wirkt schief abgeschlagen
-Die neuen Welpen sind so niedlich aber auch extrem anstrengend für uns beide
-Kann ich meinen Hund allein lassen wenn ich zwei Stunden weg bin
-Der Wellensittich hat gerade ein paar Worte aus dem Radio kopiert echt witzig
 Meiner Katze gefällt das neue Kratzbaum nicht wirklich.
 Hundewasche am Wochenende war mal wieder eine Katastrophe.
 Der Papagei pfeift jetzt mein Lieblingslied aus dem Radio.
@@ -7585,7 +7561,6 @@ Wir suchen dringend einen Hundewanderer für unsere beiden Labradors.
 Das Aquarium muss sofort gereinigt werden es sieht gröslich aus.
 Unser alter Dackel hat Probleme mit seinen Pfoten jetzt leider.
 Ich vermisse meinen Hund unglaublich seit er gestorben ist wirklich.
-Die Katze kratzt an der neuen Couch obwohl verboten wurde
 Der Hund bellt immer, wenn die Post kommt.
 Meine Katze schläft schon wieder den ganzen Tag auf der Couch.
 Ich muss endlich mal wieder den Aquariumsand wechseln.
@@ -8542,32 +8517,6 @@ Wer nimmt die Katze am Wochenende kurz mit?
 Das Fischbecken muss dringend einmal gründlich gescheuert werden.
 Unser Hund hat die Post wieder komplett zerfetzt.
 Katzen scheuen sich irgendwie nie vor Drogen im Maul.
-Mein Hund bellt nur wenn die Post kommt
-Die Katze liegt schon den ganzen Tag auf dem Sofa
-Ich muss morgen wieder zum Tierarzt mit dem Kaninchen
-Futter für den Welli ist immer gleich schnell leer
-Mein Goldfisch sieht traurig aus vielleicht ist er krank
-Der Nachbarhund läuft mir wieder vor die Füße
-Katzenhaare findet man einfach überall im ganzen Haus
-Wir haben endlich einen Hundekorb gefunden der passt
-Die Papageien machen heute Nacht total viel Lärm
-Ich vermisse meinen alten Dackel noch sehr
-Hundeerziehung kostet mehr Geduld als gedacht
-Meine Schildkröte frisst gar kein Salat mehr
-Der neue Welpe macht schon kleine Töpfchengehen
-Ich hoffe der Tierarzt hat noch einen Termin frei
-Fischfutter schwimmt immer nur an der Oberfläche
-Mein Hund träumt laut im Schlaf am Abend
-Die Katze kratzt wieder an der neuen Tür
-Wir suchen jemanden der auf die Meerschweinchen schaut
-Hundewanderungen sind eigentlich total schön im Wald
-Mein Kanarienvogel singt schon früh morgens los
-Ich kaufe immer zu wenig Futter für den Hund
-Der neue Katzentoilette riecht endlich nicht mehr so stark
-Mein Hamster rennt viel auf seinem Laufrad nachts
-Tierarztrechnungen sind leider immer eine böse Überraschung
-Die Vögel im Käfig picken ständig aneinander
-Ich muss das Aquarium endlich mal gründlich reinigen
 Der Hund bellt schon wieder an der Tür.
 Meine Katze hat sich unter das Sofa verkrochen.
 Ich muss morgen zum Tierarzt mit dem Kaninchen.
@@ -11785,7 +11734,6 @@ Der Hund hat heute super auf Kommando ins Auto gesprungen.
 Meine Zebra fins schwimmen viel zu nah an der Heizung entlang.
 Ich habe vergessen den Wassernapf zu füllen als ich rausging.
 Die Katze kratzt leider wieder am neuen Sofa obwohl verboten.
-Wir fahren nächste Woche zum Hundeschulen zur Fortgeschrittenenklasse
 Der Hund kratzt an der Tür und will unbedingt raus.
 Meine Katze schläft schon wieder acht Stunden am Stück auf der Couch.
 Hast du eigentlich mal das neue Nassfutter vom Supermarkt getestet?
@@ -12252,31 +12200,6 @@ Unser Kater versteckt sich immer hinter dem Sofa bei lauten Geräuschen.
 Der Vogelkäfig muss dringend mal sauber gemacht werden endlich.
 Wie oft sollte man eigentlich die Fische füttern am Tag?
 Mein Hamster läuft den ganzen Abend auf seinem Rad nur hin und her.
-Der Hund bellt immer so laut wenn es klingelt
-Meine Katze schläft seit drei Tagen nur noch auf der Waschmaschine
-Ich muss heute endlich mal wieder den Katzenstreu wechseln
-Das Futter war leider schon weg obwohl ich erst letzte Woche gekauft habe
-Beim Tierarzt hat sie gesagt er ist wieder abgenommen
-Wir überlegen ob wir uns vielleicht noch einen Meerschweinchen zulegen sollen
-Mein Goldfisch sieht etwas träge aus heute Morgen schon früh
-Hast du zufällig noch von dem neuen Hundefutter übrig für mich
-Der Hund mag den neuen Hundeverführer einfach nicht vom Platz
-Katzen sind doch so eigenartige Wesen wenn man ehrlich ist
-Ich vermissen meinen alten Labrador wirklich jeden einzelnen Tag
-Das Vögelchen im Käfig pfeift morgens schon um sechs Uhr los
-Wir haben den Gitterzaun repariert damit die Meerschweinchen ausbrechen
-Mein Wellensittich will nur von meiner Hand gefüttert werden heute
-Der Hundegruppe Treffen war super aber er hat wieder mal gegapst
-Ich finde das Leckerli ist doch gar nicht so gesund für sie
-Die Katze hat auf dem neuen Sofa ihre Krallen geübt oh je
-Mein Wellensittich redet immer noch nur halbe Sätze nach
-Wir müssen dringend mal die Aquarium filter reinigen das Wasser wird trüb
-Der Hundehut macht ihn dumm und stur beim Training heute Nachmittag
-Ich habe vergessen das Hamsterrad zu säubern es riecht schon wieder
-Meine Tauben fliegen immer weg wenn der Hund vorbei kommt auf der Straße
-Der neue Zwergkaninchen braucht unbedingt mehr Heu am Tag sonst wird dick
-Wo kann ich eigentlich günstige Tierarzttermine finden in dieser Gegend hier
-Unser älterer Hund hat wirklich Probleme mit der Treppe im Haus
 Mein Hund legt sich immer auf mein Gesicht wenn ich schlafe.
 Die Katze sitzt wieder stundenlang vor dem Katzenklo.
 Ich habe kein Geld für dieses teure Trockenfutter mehr.
@@ -13457,7 +13380,6 @@ Das neue Welpenbisszeug hilft irgendwie nicht besonders gut weiter.
 Unsere Meerschweinchen zurren immer wenn sie etwas hören wollen.
 Der Katzentopf riecht wirklich schlecht für den Menschengeruchssinn.
 Wir müssen dem Hund seine Pfoten waschen nach dem Spaziergang.
-Mein Papagei fliegt schon mal durch die ganze Wohnung
 Mein Hund bellt jeden Morgen um sieben pünktlich los.
 Die Katze hat sich wieder mal an meine Beine geklebt.
 Ich muss dringend den Wasserwechsel beim Fischbecken machen.
@@ -13629,3 +13551,2234 @@ Mein Hund bellt jedes Mal, wenn die Post kommt.
 Wir haben gestern Abend den Vogelkäfen endlich gesäubert.
 Die Meerschweinchen beißen mich immer am Fußgelenk leicht an.
 Ich suche Tipps zur Stubenreinheit für unseren neuen Welpen.
+Meine Meerschweinchen brauchen jeden Tag frisches Gras.
+Der neue Hundekorb ist immer noch ungeöffnet im Wohnzimmer.
+Ich hasse es wenn die Katze nachts auf dem Bett herumläuft.
+Unsere Fische sind eigentlich ganz pflegeleicht und anspruchslos.
+Habt ihr einen guten Tierarzt für Kleintiere in der Nähe?
+Mein Hamster ist heute nacht wieder ausgebrochen aus seinem Käfig.
+Das Katzenfutter riecht wirklich nicht nach viel Spaß bei mir.
+Wir überlegen ob wir vielleicht doch noch einen zweiten Hund holen.
+Meine Tante hat drei Kaninchen die alle unterschiedlich temperamentvoll sind.
+Der Hund muss dringend zur Impfung ich sollte Termin machen.
+Warum kratzt meine Katze nur an der neuen Couch?
+Ich liebe es wie mein Papagei jeden Morgen grüßt und pfeift.
+Das Tierarztrechnung kommt mir jedes Jahr unerwartet teuer vor.
+Mein Meerschweinchen frißt heute Morgen gar nichts das ist besorgniserregend.
+Wir suchen dringend einen Pfleger für unsere Schildkröte nächste Woche.
+Der Hund bellt nur noch wenn die Postfrau ankommt sonst Ruhe.
+Ich mag Vögel aber der Krach am Morgen nervt mich wirklich.
+Unsere Goldfische leben schon seit fünf Jahren und sehen fit aus.
+Kann mir jemand Tipps für Welpenerziehung in der Stadt geben?
+Meine Katze bringt immer wieder tote Mäuse ins Haus ekelhaft.
+Der Vogelkäfig muss endlich einmal gründlich gereinigt werden heute.
+Ich vermisse meinen alten Hund immer noch sehr jeden Abend.
+Warum frisst mein Kaninchen nur das Heu und nicht das Gemüse?
+Wir haben einen neuen Wellensittich der schon nach dem Besitzer ruft.
+Das Fell des Pferdes muss vor dem Winter richtig gepflege werden.
+Der Hund bellt immer wenn die Post kommt.
+Meine Katze schläft den ganzen Tag auf der Heizung.
+Ich finde das neue Trockenfutter ist viel zu teuer.
+Der Vogel hat sein Nest im Schrank gebaut.
+Gestern war unser Hamster so wachsam und neugierig.
+Der Tierarzt sagt der Hund ist übergewichtig geworden.
+Wir müssen bald wieder die Katzentoilette reinigen, stinkt.
+Mein Wellensittich pfeift heute Morgen ein bekanntes Lied.
+Die Schildkröte frisst endlich mal wieder einen Salatblatt.
+Unser Goldfisch schwimmt seit Tagen träge im Becken.
+Ich habe Angst dass der Hund die neuen Möbel kaputt macht.
+Das Futterautomat für den Hund war eine gute Investition.
+Mein Kaninchen knabbert gerne an alten Holzsprüngen herum.
+Der Tierarzt hat gesagt das Fell ist zu trocken.
+Wir suchen jemanden der auf unseren Papagei aufpasst.
+Der Hund hat heute nicht mehr so viel Energie wie früher.
+Die Katze bringt uns tote Mäuse als Geschenk nach Hause.
+Ich vergaß gestern den Vogelkäfig mit Wasser zu füllen.
+Unser Fisch wird langsam sehr alt und bewegungsfaul.
+Der Hamster läuft den ganzen Tag auf seinem Laufrad.
+Wir haben beschlossen kein neues Haustier mehr anzuschaffen.
+Die Katze kratzt trotz Kratzbaum an der neuen Couch.
+Mein Hund versteht endlich das Kommando bleib zuverlässig.
+Der Papagei hat heute wieder alles im Käfig umgeworfen.
+Unser Neuhund rennt schon wieder mit dem Leinen um sich.
+Die Katze hat heute Nacht die Vase vom Tisch geholt.
+Ich muss sofort zum Tierarzt weil der Vogel nicht mehr frisst.
+Das Aquarium sieht sauber aus aber das Wasser riecht komisch.
+Mein Kaninchen grünst immer noch an den Blumentöpfen im Zimmer.
+Endlich hat der Hund verstanden dass er auf dem Sofa bleiben darf.
+Die neuen Futterkronen waren wieder doppelt so teuer wie die alten.
+Wir suchen dringend jemanden der im August die Hamster füttern kann.
+Meine Katze schnurrt so laut dass ich sie kaum hören kann.
+Der Goldfisch schwebt nur noch oben und nimmt keine Flocken mehr an.
+Ich habe Angst dass mein alter Hund bald zu alt für Spazieren ist.
+Das Meerschweinchen braucht dringend neues Stroh weil der Stall stinkt.
+Warum bellt unser Doggo nur auf die Postfrau und nicht auf mich?
+Die Schildkröte ist dieses Jahr schon zwei Zentimeter gewachsen.
+Ich liebe es wenn die Katze morgens um vier auf dem Bett saß.
+Tierarztbesuche sind immer stressig weil der Hund so wild zappelt.
+Unser Papagei hat heute zum ersten Mal sein eigenes Gesicht genannt.
+Das Kaninchen hat wieder alles vom Sofa heruntergerannt und verschluckt.
+Ich vermisse meinen alten Kater schon unglaublich stark jeden Tag.
+Der neue Welpenbesitzer fragt ständig ob er das richtig gemacht hat.
+Meine Fische sind krank weil ich vergessen habe das Salz reinzumachen.
+Die Katze legt ihre Totfänge immer direkt vor der Haustür ab.
+Unser Retriever liebt es im Matsch zu rollen egal wie sauber er ist.
+Ich hoffe dass die Vogelspucke bald wieder normal frisst und singt.
+Der Hamster hat sein Laufrad komplett zerstört und liegt nun still.
+Der Hund bellt schon wieder um drei Uhr nachts rum.
+Meine Katze bringt mir tote Mäuse ins Bett rein.
+Das Hundefutter ist gerade mal wieder so verrückt teuer.
+Ich vermisse unseren alten Golden Retriever wirklich sehr.
+Der Papagei hat heute zum ersten Mal guten Tag gesagt.
+Im Aquarium ist ein Fisch gestorben, da war ich traurig.
+Wir suchen jemanden, der die Katzen im August füttert.
+Mein Hund versteht immer noch nicht den Unterschied zum Maulkorb.
+Die Katze sitzt auf dem Herd und lässt sich nicht runterholen.
+Tierarzttermine zu finden ist mittlerweile fast unmöglich geworden.
+Unser Kaninchen knabbert schon wieder an den Kabeln drüben.
+Hundespaziergänge bei diesem Regen machen mir einfach keine Freude mehr.
+Die Katze hat das neue Spielzeug in fünf Minuten zerrissen.
+Ich muss dringend noch mal zum Tierarzt gehen wegen Impfung.
+Mein Meerschweinchen friert im Winter doch ziemlich stark, merke ich.
+Der Hund bellt vor Freude, wenn ich die Leine nehme nur.
+Wir überlegen uns noch, ob wir eine zweite Katze holen.
+Das Goldfischchen schwimmt ganz träge und frisst garnichts mehr heute.
+Mein Hund hat mal wieder was Falsches von der Straße gegessen.
+Die Katzenkrallen muss ich unbedingt nochmal kürzen bei der tierärztlichen Praxis.
+Unser neuer Dackel ist zwar niedlich, aber total stur leider.
+Ich kann nicht glauben, dass unser Hamster schon weg ist.
+Der Hund legt sich immer genau auf meine Füße im Bett.
+Meine Katze mekert wieder, weil das Wasser zu warm ist wohl.
+Wir brauchen endlich einen besseren Korb für unseren großen Bullen.
+Mein Goldfisch schwimmt immer noch so träge rum.
+Hoffentlich findet der neue Kater bald seine neuen Spielzeuge.
+Die Hundeerziehung kostet mehr Nerven als Geld eigentlich.
+Wir suchen dringend einen Hundesitter für nächste Woche.
+Meine Katze schläft schon wieder auf dem Laptop.
+Das Katzenklo muss sofort geputzt werden, stinkt ja.
+Unser Retriever apportiert nur noch kaputte Tennisbälle zurück.
+Tierarzttermin war stressig weil der Hund so gezogen hat.
+Ich vermisse meinen alten Papagei heute besonders sehr.
+Die Meerschweinchen brauchen dringend neues Heu und Stroh.
+Warum frisst mein Kaninchen eigentlich nur den Karton?
+Mein Dackel bellt vor lauter Freude im Garten rum.
+Die neue Futterdose ist sofort von der Katze ignoriert worden.
+Hundespaziergang bei Regen ist echt keine lustige Angelegenheit mehr.
+Unser Vogel hat mir gerade ins Ohr gepupst wieder.
+Wir überlegen ernsthaft ob wir uns noch einen Hund zulegen.
+Katzenhaare kleben überall an der dunklen Kleidung leider.
+Mein Pferd braucht endlich mal neue Reitgamaschen gekauft zu bekommen.
+Die Schildkröte ist schon wieder aus dem Terrarium gekrochen.
+Hundefriseur Termin war total teuer dieses Mal wirklich.
+Ich gebe alle meine Leckerlis an den Boxer ab.
+Unser Hund hat wieder den Briefkasten umgeworfen im Hof.
+Kann jemand kurz meinen Hamster nach dem Futter füttern?
+Die Papageien sind heute morgen schon früh losgepfiffen wieder.
+Mein Igel frisst nicht mehr so viel wie früher.
+Wir haben Angst dass die Katze den Fisch stiehlt.
+Der Hamster hat gestern nacht wieder seine Räder dreieinhalb Stunden lang gedreht.
+Ich finde das Katzensand wechseln ist einfach nur eklig und mühsam.
+Mein Hund freut sich wahnsinnig über jeden Spaziergang, egal wie kalt es ist.
+Die Vögel haben den ganzen Tag gezirpt, ich hab kaum was gelernt.
+Fischfutter kaufen vergessen, jetzt sind die Garnelen richtig unzufrieden.
+Unser neuer Papagei spuckt mir ständig ins Gesicht, das finde ich nicht lustig.
+Der Tierarzt meint, der Mops müsste abnehmen wegen seiner Gelenke.
+Ich kann gar nicht verstehen, warum Katzen auf alles hochklettern wollen.
+Mein Kaninchen frisst gerade die Tapete im Flur wieder ab.
+Die Hundeschule war zwar teuer, aber endlich hört er auf Bleib.
+Es tut so weh, wenn das Aquarium leer wird nach dem Tod von Nemo.
+Wer hat denn das Kätzchen draußen hereingelassen bei diesem Wetter?
+Mein Pferd ist heute Morgen nicht aus dem Stall gekommen und meckert.
+Das Meerschweinchen braucht wirklich viel Heu, der Keller sieht aus wie ein Strohfeld.
+Ich habe Angst, dass die Katze ihr neues Baby vermisst nach der Sterilisation.
+Der Hund bellt immer nur, wenn jemand klingelt, das nervt echt.
+Wir suchen dringend eine Ersatzperson für die Katzenfutterautomat Wartung.
+Mein Welli hat gelernt, Hallo zu sagen, er ist total stolz darauf.
+Die Schildkröte frisst gar nichts mehr, vielleicht ist ihr doch etwas passiert.
+Ich würde so gerne einen Dackel haben, aber ich habe keine Wohnung dafür.
+Der Igel muss dringend zum Winterschlaf gehen, wir bereiten ihn schon vor.
+Katzenstreu in der Wohnung verteilt zu finden ist mein worst-case-Szenario.
+Ich vermissen unsere alten Tiere so sehr, es wird nie gleich werden.
+Der Kanarienvogel singt schon früh morgens, ich kann fast nicht schlafen.
+Meine Katze schläft den ganzen Tag über auf dem Sofa.
+Ich muss endlich mal wieder Sand in die Katzentoilette kaufen.
+Fische sind total entspannt als Haustiere, finde ich ehrlich gesagt.
+Unser Hamster läuft seit Stunden im Rädchen ohne Pause.
+Der Tierarzt hat gesagt, mein Hund ist leicht übergewichtig.
+Meine Taube schüttelt sich immer so schön im Wind.
+Die Katze kratzt an der Couch, obwohl sie Kratzbaum hat.
+Ich vermisse meinen alten Hund wirklich jedes einzelne Tag.
+Der Pudel ist heute beim Hundeschwimmen total durchgegangen.
+Mein Kaninchen frisst nur die grünen Blätter vom Salat.
+Es nervt mich, wenn der Hund morgens so laut bellt.
+Die Katze hat sich versteckt, weil Fremde bei uns waren.
+Ich suche jemanden, der meine Vögel füttern kann heute.
+Der Hund apportiert den Ball immer wieder bis er müde ist.
+Meine Meerschweinchen sind so laut, wenn sie Futter wollen.
+Wir müssen bald zum nächsten Impftermin für die Katze gehen.
+Der Vogel hat ein paar Federn an der Fütterstelle verloren.
+Ich finde Katzenpflege eigentlich ganz entspannt und einfach.
+Mein Hund mag keine anderen Hunde, er ist sehr schüchtern.
+Die Schildkröte braucht mehr Wärme im Zimmer jetzt im Winter.
+Kann mir jemand einen Tipp für gutes Hundehundefutter geben?
+Unser Papagei nascht gerne mal ein Stück vom Frühstücksei.
+Der Hund hat heute Morgen drei Mal über sich selbst gewürgt.
+Meine Katz ist wieder mal nachts um drei Uhr auf dem Bett gelandet.
+Ist das neue Trockenfutter für die Meerschweinchen überhaupt bekömmlich?
+Ich habe keine Ahnung, wie ich den Pfotenflecken im Flur entfernen soll.
+Das Aquarium muss endlich gründlich gereinigt werden, sonst wird's albern.
+Unser Goldhamster schläft tagsüber immer und wird nachts richtig wild.
+Beim letzten Wurmcheck war alles gut, zum Glück keine Parasiten dabei.
+Mein Papagei schreit nur dann, wenn ich das Telefon anhebe, echt nervig.
+Wir überlegen ernsthaft, ob wir einen zweiten Hund anschaffen sollen.
+Die Tierarztrechnung kommt jetzt mal wieder wie ein Faustschlag ins Gesicht.
+Unser alter Labrador hat kaum noch Lust zum Spazierengehen bekommen.
+Ich finde es so süß, wie die Katze ihr neues Kissen prüft.
+Das Kaninchen frisst nur die grünen Teile von der Petersilie, den Rest nicht.
+Habt ihr auch solche Probleme damit, dass der Hund immer zu früh aufsteht?
+Meine Goldfische schwimmen jetzt wieder richtig munter im klaren Wasser.
+Der Hundetrainer sagte, ich muss konsequenter sein bei dem Sitzen lernen.
+Ich vermisse meinen alten Kater schon so sehr, die Wohnung ist leer.
+Die Katze hat mir heute wieder einmal den Kaffee vom Tisch gestoßen.
+Wir suchen verzweifelt jemanden, der im August auf die Schildkröte schaut.
+Mein Welli piept dauernd, ich kriege langsam Kopfschmerzen davon.
+Das Hundebett ist völlig zerdacht, er mag das neue einfach nicht so richtig.
+Ich habe Angst, dass die Katze bald ins Seniorenheim für Tiere muss.
+Unser Dackel bellt jeden Nachbarn an, der am Gartenzaun vorbeiläuft.
+Mein Hund jault immer wenn ich mich verabschiede.
+Die Katzentoilette muss dringend mal gereinigt werden.
+Wir haben endlich einen neuen Aquarienfilter bestellt.
+Der Tierarzt sagte dass er nur leicht Übergewicht hat.
+Meine Meerkatze schaut wieder in jede offene Tasche.
+Ich hasse es wenn der Hund nach dem Gasseln dreckig ist.
+Das Kaninchen frisst eigentlich nur Heu und Karotten.
+Wo finde ich einen guten Hundefriseur in der Nähe?
+Unsere Katze kratzt seit Tagen an der neuen Couch.
+Der Vogel ist plötzlich ganz still geworden, das stimmt mich stutzig.
+Ich vergesse immer wieder das Futter für die Fische zu kaufen.
+Mein Hund mag andere Hunde einfach nicht so wirklich.
+Die Zeitsprühmittel haben beim letzten Gang doch geholfen.
+Wir überlegen uns ob wir noch ein zweites Haustier nehmen sollen.
+Der Hamster hat heute nacht richtig wild gerannt.
+Ich kaufe nur noch Naturfutter für unsere beiden Katzen.
+Beim Zahncheck war alles glücklicherweise in Ordnung.
+Mein alter Hund kann auf die Treppe nicht mehr gut.
+Die Papageien sind total laut wenn sie morgens aufwachen.
+Ich vermisse unseren ersten Hund immer noch sehr stark.
+Wer kommt vorbei und füttert die Vögel am Fenster?
+Der Welpenkurs war gestern Abend wirklich super hilfreich.
+Meine Katze versteckt sich seit der Impfung ganz merkwürdig.
+Wir müssen dem Meerschweinchen bald mal neues Stroh geben.
+Hundepillen sind ein absoluter Kampf mit viel Überzeugungsarbeit.
+Mein Schäferhund bellt nachts wieder wild um die Wette.
+Die Kaninchen brauchen dringend mehr Stroh im Gehege.
+Ich finde es schwer, dem Hund das Leinengehen beizubringen.
+Unser Katzentier hat sich ins Sofa verkrochen und schläft tief.
+Der neue Papagei schreit morgens wie ein verrückter Vogel.
+Wir müssen endlich mal die Aquarien filter reinigen lassen.
+Mein Meerschweinchen frisst nur noch das grüne Kraut vom Garten.
+Beim nächsten Tierarztbesuch muss der Hund geimpft werden.
+Die Katze kratzt wieder an der neuen Couch, nervt total.
+Ich vermisse meinen alten Hund so sehr, es fehlt mir.
+Unser Goldfisch schwimmt träge am Boden des Beckens rum.
+Der Hundehalter nebenan lässt seinen Bullen ganz ohne Leine laufen.
+Wir suchen jemanden, der die Katze in unserer Abwesenheit füttert.
+Mein Pferd wird nächste Woche vom Hufschmied beschlagen bekommen.
+Die Vögel im Käfig picken ständig an den Gitterstäben rum.
+Ich habe keine Lust mehr, dem Hund nach jedem Spaziergang die Pfoten zu putzen.
+Unsere Katze hat gestern eine Maus ins Haus getragen, eklig.
+Der Tierarzt sagt, der Hund hat leichten Juckreiz an der Haut.
+Mein Häschen beißt manchmal fest in die Hand, wenn ich es heben will.
+Wir planen, im Sommer einen weiteren Hund aus dem Tierschutz zu adoptieren.
+Die Fische brauchen dringend einmal pro Woche Wasserwechsel im Becken.
+Unser Welli hat gerade sein erstes Wort deutlich ausgeplärrt, klasse.
+Ich kann nicht verstehen, warum die Katze das Futter ignoriert.
+Der Hund bellt jedes Mal wild, wenn der Postbote vorbeikommt.
+Mein Kanarienvogel singt schon wieder seine liebste Melodie vor sich hin.
+Meiner Katze fehlen schon wieder die Naps.
+Ich habe vergessen das Vogelwasser heute zu wechseln.
+Der Hund ist nach dem Spaziergang komplett platt.
+Wir müssen dringend mal den Aquarienfilter reinigen.
+Kann mir jemand kurz den Kaninchenkäfig säubern?
+Das neue Futter von der Marke finde ich besser.
+Mein Meerschweinchen zischt immer wenn ich ihm nah komme.
+Die Katze legt sich nur auf meinen Laptop schlafen.
+Ich nervt mich total über das ständige Geheul am Abend.
+Tierarztbesuch ist morgen um zehn Uhr morgens geplant.
+Unser Goldfisch sieht trauriger aus als sonst geradezu.
+Die Hundeschule war ganz okay für den Anfang eigentlich.
+Katzenhaar findet man echt überall in der Wohnung leider.
+Ich gebe ihm noch ein Stück vom Hühnerfleisch.
+Der Papagei macht so viel Lärm dass es nervt.
+Wir müssen heute Abend unbedingt noch Sand nachkaufen.
+Meine Katze ignoriert mich komplett seit dem Umzug.
+Hund hat im Garten wieder ein Loch gegraben glaube ich.
+Das Wellensittich-Pärchen brütet jetzt wirklich schon die ganze Zeit.
+Ich weiß nicht ob ich das mit den Fischen schaffe.
+Der Hund bellt jedes Mal wenn die Post kommt halt einfach so.
+Meine Katze kratzt schon wieder an der neuen Couch.
+Wir suchen jemanden der am Wochenende auf unsere Tiere passt.
+Das Futter für den Igel steht jetzt schon seit zwei Tagen da.
+Ich habe Angst dass der Hund im Sommer zu heiß wird.
+Der Hund schläft heute morgen schon wieder auf mir.
+Meine Katze schaut mich an als hätte ich was vergessen.
+Das Aquarienwasser muss wirklich endlich mal gewechselt werden.
+Wir haben Angst dass der neue Kater nicht mag.
+Futterkosten für diesen riesigen Doggen gehen echt ins Geld.
+Vogelkäfig steht seit Wochen noch in der Ecke unbehandelt.
+Die Meerschweinchen brauchen unbedingt mehr Stroh und Heu.
+Tierarzttermin am Wochenende ist wirklich schlecht geplant von uns.
+Mein Hund bellt nur wenn das Postauto vorfährt.
+Die Katze bringt tote Mäuse ans Bett was eklig ist.
+Wir überlegen uns ein neues Terrarium für die Eidechse.
+Hundeschule war gestern super erfolgreich, endlich Sitz und Bleib.
+Der Fisch ist leider abgestorben obwohl alles richtig war.
+Katzenstreu kosten im Supermarkt schon wieder das doppelte.
+Unser Hamster läuft den ganzen Tag in seinem Laufrad.
+Die neue Katze versteckt sich noch immer unter dem Sofa.
+Hundehaar auf der schwarzen Couch sieht einfach schrecklich aus.
+Wir müssen dringend zum Impfen mit der kleinen Hündin.
+Mein Papagei hat heute schon drei mal hallo gesagt.
+Das Meerschweinchen nippelt nur am Gemüse nicht am Heu.
+Tierarzt war ganz nett aber die Rechnung war hoch.
+Kann jemand kurz meinen Hund spazieren führen heute nachmittag?
+Die Katze kratzt wieder an der neuen Couch, verdammt.
+Wir suchen ein Zuhause für das Wurf aus Katzenbabys.
+Der Hund bellt morgens um fünf wieder total stundenlang.
+Unsere Meerschweinchen brauchen dringend neues Stroh für die Box.
+Ich habe vergessen den Vogelkäfig abzudecken und jetzt ist alles kaputt.
+Die Katze sitzt schon wieder auf der Fensterbank und guckt raus.
+Wer kauft bitte mal das neue Hundefutter aus dem Supermarkt?
+Mein Kaninchen hat gerade ein ganz verrücktes Sprühhoppeln gemacht.
+Der Hamster läuft die ganze Nacht auf seinem Laufrad rum.
+Ich vermisse unseren alten Labrador so sehr es tut echt weh.
+Das neue Welpenspiel ist überbewertet ehrlich gesagt einfach nur Chaos.
+Die Schildkröte frisst überhaupt nicht mehr seit dem Wetterumschwung.
+Hundespaziergang heute war langweilig weil er partout nicht zieht.
+Wir suchen dringend eine Kinderfrau für die nächsten drei Wochen.
+Der Papagei hat mir gerade ins Haar gebissen und das weh tat.
+Katzenhaar überall finde ich es im Essen und in der Kleidung.
+Mein Fischeschwarm sieht aus wie ein einziger bunter Wirbelwind.
+Hundeerziehung ist schwer wenn der Hund keine Achtung zeigt.
+Der Tierarzt sagte er müsse noch mal kontrolliert werden nächste Woche.
+Unsere Meerschweinchen machen gerade so komische Schnarchgeräusche nachts.
+Ich bin allergisch gegen Katzen aber mein Freund hat eine.
+Der Hund bellt jeden Fremden an der Tür ab sofort.
+Wir haben vergessen das Kaninchen mit Wasser zu versorgen heute.
+Die Katze kratzt wieder an der neuen Couch wirklich ärgerlich.
+Hundewanderung am Samstag war super toll und sehr erholsam.
+Mein Papagei sagt jetzt schon Hallo wenn ich reinkomme.
+Mein Hund bellt jeden Morgen um fünf los.
+Die Katze schaut mich an, als wüsste sie alles.
+Wir müssen dem Kaninchen neues Heu kaufen.
+Der Tierarzt hat gesagt, er ist fit wie ein Turner.
+Mein Fisch schwimmt gar nicht mehr richtig rum.
+Hast du das neue Hundefutter schon ausprobiert?
+Die Katze hat wieder in die Vase Pinkel gemacht.
+Unser Hund liebt es, wenn man ihm den Bauch kratzt.
+Ich finde Katzen viel weniger Arbeit als Hunde.
+Der Papagei brüllt jetzt auch noch am Wochenende.
+Wir suchen eine gute Hundeschule für den Welpen.
+Mein Hamster ist nachts so laut in seinem Käfig.
+Das Tierfutter war heute wieder teurer als normal.
+Die Katze schläft auf meinem Laptop, ich kann nicht arbeiten.
+Unser alter Dackel kann kaum noch die Treppe hoch.
+Ich hab Angst, dass der Hund den Postboten beißt.
+Der Vogel hat mir ins Ohr gehupft, war so lieb.
+Wir haben vergessen, das Aquariumfilter zu reinigen.
+Mein Hund trägt überall Stöcke im Maul rum.
+Die Katze mag das neue Spielzeug gar nicht leiden.
+Es ist schwer, einen guten Tierarzt am Abend zu finden.
+Unser Kaninchen frisst immer wieder sein eigenes Fell.
+Der Hund hat heute mal wieder den Garten ausgehoben.
+Ich vermisse meine alte Katze total sehr schon.
+Wir diskutieren immer über die richtige Impfplan für den Hund.
+Der Hund hat heute wieder im Garten gegraben wie verrückt.
+Meine Katze schläft den ganzen Tag auf der Couch rum.
+Wir müssen dem Vogel endlich ein neues Nest kaufen.
+Das Fressen für die Meerschweinchen wird langsam knapp.
+Beim Tierarzt war es diesmal glücklicherweise günstiger als letztes Mal.
+Der Hamster hat die ganze Nacht an seinem Rad gerollt.
+Ich finde unsere Katze ist total stubenrein geworden seitdem.
+Mein Hund traut sich immer noch nicht auf den neuen Rasen.
+Die Tauben haben wieder im Blumenkasten ihre Nester gebaut.
+Wir überlegen uns, ob wir uns einen kleinen Hund zulegen.
+Das Aquarium sieht eigentlich ganz hübsch aus mit dem Sand.
+Der Papagei schreit morgens so laut dass ich wach werde.
+Unsere alte Katze kommt gar nicht mehr die Treppen runter.
+Habt ihr schon mal das neue Hundefutter von der Drogerie probiert?
+Mein Hund hat sich beim Spaziergang wieder mit einem Artgenossen gestritten.
+Die Schildkröte frisst überhaupt nichts mehr seit der Temperaturwechsel war.
+Ich habe heute den Sand in der Katzenkiste gewechselt und gereinigt.
+Unser Goldfisch schwimmt leider traurig immer nur am Boden rum.
+Der Tierarzt sagte dass der Hund nochmal kontrolliert werden muss.
+Wir suchen jemanden der die Vögel füttern kann wenn wir weg sind.
+Meine Nachbarin hat eine Riesenschildkröte und das finde ich krass.
+Der Welpe beißt immer noch so gerne an meinen Ärmeln rum.
+Unsere Katze bringt uns jeden Morgen tote Mäuse zur Tür rein.
+Ich vermisste meine alte Hundehund total seitdem er gestorben ist.
+Das Kaninchen hockt da schon seit Stunden und putzt sich nur.
+Der Hund bellt schon wieder gegen die Tür.
+Ich habe vergessen, das Katzenklo sauberzumachen.
+Mein Kaninchen frisst nur bestimmte Kräuter aus dem Garten.
+Die Fische sehen heute irgendwie träge aus im Becken.
+Wir brauchen dringend neues Sand für die Katzentoilette.
+Der Hundekarton ist leer und der Supermarkt zu.
+Meine Katze schläft den ganzen Tag auf dem Sofa.
+Das Meerschweinchen hat sich ein eigenes Nest gebaut.
+Ich vermisse meinen alten Hund immer noch sehr stark.
+Die Tauben fliegen gerade über unseren Balkon hinweg.
+Unser Neuntöter ist so scheu vor fremden Menschen.
+Der Hamster rennt nachts wieder auf seinem Rädchen.
+Ich muss morgen zum Tierarzt mit der Katze gehen.
+Das Hundefutter ist plötzlich doppelt so teuer geworden.
+Meine Schwester hat sich einen neuen Wellensittich gekauft.
+Die Schildkröte will dieses Jahr überhaupt nicht schlafen.
+Wir streiten immer wer den Hund heute noch ausführt.
+Der Papagei im Nachbarhaus schreit um sieben Uhr morgens.
+Ich habe Angst dass der Hund die Mailbox kaputt macht.
+Unsere Katze hat wieder Mäuse auf dem Tisch liegen lassen.
+Das Futter für die Vögel ist leider abgelaufen gewesen.
+Mein Stachelig hat sich verletzt, ich bin ganz verzweifelt.
+Der Hundehalter muss wirklich angeben wenn sein Tier piesackt.
+Ich finde es schön wie die Schildkröte langsam krabbelt.
+Die Meerschweinchen quaken heute besonders viel und laut.
+Der Hund bellt schon wieder am Morgen um fünf.
+Meine Katze legt sich nur auf die warme Tastatur.
+Wir müssen endlich zum Tierarzt für die Impfung gehen.
+Das Kaninchen frisst ungern das neue Heu aus dem Discounter.
+Ich vermisse meinen alten Goldfisch mehr als ich dachte.
+Der Hamster ist mitten in der Nacht super laut gewesen.
+Hundespaziergänge im Regen sind wirklich nichts für schwache Nerven.
+Die Katze hat heute nur geschlaft und nichts anderes gemacht.
+Unser neuer Welpen braucht noch sehr viel Geduld von uns.
+Das Vögelchen im Käfig pfeift den ganzen Tag lang.
+Ich hasse es, wenn der Hund seine Pfoten schmutzig macht.
+Katzenhaare finden sich leider in jedem einzelnen Kleidungsstück wieder.
+Der Tierarztbesuch hat diesmal glücklicherweise nicht so viel gekostet.
+Wir suchen dringend jemanden für die Katzenbetreuung im Juli.
+Mein Meerschweinchen frisst gierig jedes grüne Blattgemüse.
+Hundeerziehung kostet Nerven, bringt aber am Ende auch viel Freude.
+Die Schildkröte ist dieses Jahr endlich aus ihrem Winter schlaf aufgewacht.
+Die Katze jagt stundenlang ihren eigenen Schwanz im Kreis herum.
+Fische pflegen ist relativ entspannt, wenn man die Wasserwerte im Blick behält.
+Der Vogel singt morgens viel zu früh und weckt mich auf.
+Wir haben uns endlich für einen Hund aus dem Tierheim entschieden.
+Katzen sind so unabhängig, das finde ich manchmal total entspannend.
+Mein Papagei macht schon wieder alles nach, was er hört.
+Die Futterkosten für die beiden Hunde summieren sich schnell hoch.
+Ich trauere immer noch um meinen treuen alten Vierbeiner Freund.
+Die Meerkatzen sind so verspielt heute Morgen.
+Ich habe vergessen das Katzenklo zu reinigen.
+Meine Fische sehen so entspannt im Becken aus.
+Kannst du kurz beim Hundeführerschein helfen?
+Die Papagei hat wieder alles im Zimmer verteilt.
+Tierarzttermin war gestern leider viel zu stressig.
+Unser alter Labrador wird immer schläfiger und ruhiger.
+Ich suche nach einem guten Hundeschule für Welpen.
+Die Katze kratzt trotz Kratzbaum an der Couch.
+Mein Hamster ist heute nacht ausgebrochen aus dem Käfig.
+Wir überlegen uns ob wir doch einen Hund holen.
+Das neue Hundefutter wird leider gar nicht angefasst.
+Wo finde ich hier einen mobilen Tierarzt bei mir?
+Die Katze bringt ab und zu noch Mäuse mit nach Hause.
+Mein Pferd ist heute zum ersten Mal geritten worden.
+Ich muss dringend die Krallen vom Kaninchen kürzen lassen.
+Der Hundbellende Nachbar macht mich seit Wochen nervös.
+Kann ich meine Meerschweinchen im Urlaub jemandem unterbringen?
+Unser Welpe hat nachts das gesamte Sofa zerkratzt.
+Die Vogelstreu stinkt einfach immer etwas zu sehr hier drinnen.
+Ich traue mich nicht den Hund allein auf die Reise zu schicken.
+Hat jemand Erfahrung mit diesem speziellen Trockenfutter da?
+Mein Goldfisch schwimmt seit Tagen nur noch am Grund.
+Wir haben endlich einen passenden Pflegestute für unser Pony gefunden.
+Die Katze schläft den ganzen Tag nur im Karton.
+Wir müssen morgen zum Impfen mit dem Hund hin.
+Mein Fisch ist leider verabschiedet, was für eine Traurigkeit.
+Der Hund bellt jedes Mal, wenn das Postbote kommt.
+Katzenfutter riecht eigentlich immer so seltsam und intensiv.
+Ich habe Angst, dass uns die Katze auszieht.
+Unser Kaninchen frisst nur noch die zarten Blätter vom Salat.
+Die Erziehung des Welpen ist manchmal echt nervenaufreibend.
+Warum macht der Vogel diesen lästigen Krach am frühen Morgen?
+Wir suchen dringend eine Pflegestelle für unsere beiden Katzen.
+Der Hund zieht total am Leine, wenn wir spazieren gehen.
+Mein Papagei hat gerade wieder mein Wort nachgeplappert.
+Die Tierarztrechnung war dieses Mal wirklich nicht günstig.
+Die Katze kratzt immer noch an der neuen Couch.
+Wir überlegen uns, ob wir vielleicht einen Meerschweinchen holen.
+Der Hund legt sein Spielzeug jedes Mal ins Wasser.
+Ich kann nicht glauben, wie schnell die Zeit vergeht.
+Mein Fisch schwimmt gar nicht mehr richtig seit gestern.
+Die Katze bringt uns morgens totgemachte Fliegen zum Frühstück.
+Wir brauchen endlich eine bessere Matte für den Hund.
+Unser Kaninchen macht immer dieses komische Schnarchgeräusch nachts.
+Es ist schwer, dem Hund beizubringen, dass er nicht springen darf.
+Mein Welli braucht unbedingt frisches Wasser und neue Körner.
+Die Nachbarskatze kommt leider auch bei uns ins Haus rein.
+Ich hoffe, dass der Tierarzt den Hund bald wieder fit macht.
+Mein Hund bellt schon wieder um drei morgens rum.
+Die Katze hat sich ins neue Katzenklo gesetzt.
+Wir suchen noch einen Platz für unseren Kaninchenkäfig.
+Der Tierarzt hat gesagt, er braucht mehr Bewegung.
+Mein Goldfisch schwimmt ganz träge am Boden herum.
+Ich hasse es, wenn der Hund Pfoten auf dem Sofa lässt.
+Das Futter war schneller aufgebraucht als gedacht heute.
+Unser Papagei spuckt gerade alles Mögliche aus nervös.
+Wir müssen endlich den Impfschein vorlegen beim Urlaub.
+Die Hamsterkugel rollt nachts immer über den Tisch.
+Meine Katze ignoriert mich komplett seit dem Umzug.
+Der Hundekürbis ist wieder einmal voller Haare verstopft.
+Ich vermisse meinen alten Meerschweinchen schon sehr jetzt.
+Das neue Leckerli macht den Hund wahnsinnig happy.
+Wir haben uns für einen Züchter entschieden gestern Abend.
+Mein Kanarienvogel singt so laut, ich werde nervös.
+Die Krallen müssen bald wieder geschnitten werden unbedingt.
+Unser Hund frisst jedes Mal Gras nach dem Gassi gehen.
+Ich finde Katzen sind einfach pflegeleichter als Hunde doch.
+Der Tierarztbesuch war mal wieder extrem kostspielig diesmal.
+Mein Goldhamster hat ein neues Nest gebaut heute.
+Die Katze kratzt an der Tür zum Wohnzimmer immerhin.
+Wir überlegen uns, ob wir noch ein Zweithole holen sollen.
+Mein Hund bellt nur vor Freude, wenn ich heimkomme.
+Das Vogelbad muss wieder einmal gründlich gereinigt werden jetzt.
+Meiner Meerschweinchen fehlt wieder Malz, das ist dringend.
+Der Hund bellt die ganze Nacht gegen den Wind an.
+Ich hasse es, wenn der Kater mir auf die Tastatur springt.
+Fischfutter wechseln vergessen und jetzt sieht das Wasser trüb aus.
+Hoffentlich hat der Tierarzt heute noch einen freien Termin.
+Mein Retriever apportiert alles, auch mal meine Hausschuhe halt.
+Die neue Katze versteckt sich immer noch unter dem Sofa.
+Vogelkäfig reinigen ist wirklich kein Spaß für mich persönlich.
+Wir suchen jemanden, der die Hunde wochenlang ausführt.
+Das Kaninchen beißt manchmal zu, wenn man es nicht will.
+Ist das normale Verhalten für einen so jungen Welpen eigentlich?
+Meine Schildkröte frisst gar nichts mehr in dieser Kälte.
+Der Hundehalter hat mich heute wieder ignoriert auf dem Weg.
+Kann ich meine Zwerghamster kurzfristig bei dir unterstellen bitte?
+Das neue Trockenfutter wird leider vom Labrador komplett ignoriert.
+Immer wenn ich weg bin, zerstört die Katze alles im Haus.
+Mein Papagei hat schon wieder das Wort Hallo gelernt, super.
+Die Zecken sind dieses Jahr wirklich viel häufiger als sonst.
+Ich trau mich nicht mehr, die Vogelscheuche zu entfernen wegen der Krähen.
+Unser alter Pudel ist langsam schwerhörig geworden, schade eigentlich.
+Wer kümmert sich am Wochenende um die beiden Meerschweinchen hier?
+Die Katze hat heute wieder Erbrochenes auf meinem Teppich hinterlassen.
+Hundewandelgruppe anmelden oder lieber selbst im Wald laufen gehen?
+Das Goldfischchen schwimmt schon seit Tagen nur noch an der Oberfläche.
+Ich vermisse meinen alten Bullen jetzt wirklich sehr jeden Tag.
+Mein Hund schläft nach dem Gassi gehen sofort ein.
+Die Katze bringt mir tot Vögel ins Bett gebracht.
+Fischfutter kaufen ist eigentlich gar nicht so spannend.
+Unser Kaninchen frisst wieder alles Gras aus dem Garten.
+Der Tierarzt hat gesagt er braucht noch mehr Bewegung.
+Meine Meerschweinchen sind total laut wenn sie Hunger haben.
+Hundesport macht mir irgendwie mehr Spaß als Fitnessstudio.
+Die Katze kratzt an der neuen Couch trotz Kratzbaum.
+Wir suchen dringend eine Hundepension für den August.
+Mein Hamster ist nachts so aktiv dass ich wach werde.
+Das neue Futter wird vom Hund einfach ignoriert.
+Katzenhaare kleben überall am schwarzen Pulli fest.
+Unser Papagei pfeift heute Morgen mein Lied nach.
+Der Goldfisch schwimmt träge und atmet sehr schnell.
+Hundeschule war gestern abend wieder eine Katastrophe.
+Meine Katze mag es gar nicht wenn ich putze.
+Die Vogelkäfigreinigung dauert immer ewig bei uns.
+Unser Hund bellt ständig auf den Lieferboten an.
+Katzenfutter riecht wirklich ganz fürchterlich in der Tüte.
+Hundebademittel kosten mehr als mein eigenes Duschgel eigentlich.
+Die Katze schläft heute auf dem warmen Laptop.
+Unser Hund hat heute wieder Bock auf keine Gassi Tour.
+Fischbecken pflegen ist total nervig mit allen Algen entfernt werden.
+Meine Katze schläft den ganzen Tag im Fensterkästchen.
+Der Hund war heute beim Trainer und hat super gelernt.
+Ich muss endlich mal wieder den Vogelkäfig sauber machen.
+Das Goldfischchen ist leider vor einer Woche verstorben.
+Welches Trockenfutter ist eigentlich am gesündesten für Katzen?
+Mein Kaninchen frisst sehr gerne Karottengrün aus dem Garten.
+Beim nächsten Tierarzttermin wird wohl eine Röntgenaufnahme nötig sein.
+Die beiden Hamster streiten sich ständig im neuen Gehege.
+Ich vermisse meinen alten Hund noch immer unglaublich stark.
+Unser neuer Schäferhund braucht echt viel Bewegung am Tag.
+Warum miaut die Katze nur nachts so laut um Hilfe?
+Das neue Nassfutter wird von allen drei Katzen geliebt.
+Am Wochenende gehen wir lange spazieren mit dem Hund durch den Wald.
+Mein Papagei macht schon wieder einen riesigen Lärm morgens früh.
+Die Schildkröte muss langsam ins Winterquartier überwechseln soon.
+Ich bin nervös wegen der Narkose beim Tierarzt morgen früh.
+Der Welpe hat heute nacht zum ersten Mal nicht gebellt.
+Kann mir jemand empfehlen, wo ich gutes Stroh kaufe?
+Mein Meerschweinchen bekommt bald einen artgerechten Zwergkaninchen-Gespielen.
+Die Katzenklauen sind echt lang geworden und müssen geschnitten werden.
+Ich freue mich schon darauf, meinen Hund am Strand laufen zu lassen.
+Das Fischbecken riecht schon wieder ganz komisch vorhin.
+Unser Dackel ist im Garten abgehauen und nicht mehr gefunden.
+Braucht die Katze wirklich jedes Jahr eine neue Impfung gegen Tollwut?
+Mein Goldhamster schläft den ganzen Tag, wenn ich arbeite.
+Mein Hund jault jedes Mal, wenn ich den Mantel anziehe.
+Die Katze schläft seit drei Stunden im selben Käfigkarton.
+Ich habe wieder mal das falsche Futter gekauft, doof.
+Unser Kaninchen hat sich heute Morgen einen neuen Namen verdient.
+Der Fisch ist leider gestorben, traurig aber wahr.
+Wir suchen dringend einen Pfleger für die Woche Urlaub.
+Meine Katze beißt immer dann, wenn ich arbeiten muss.
+Im Tierheim sah ich ein Welpenpärchen, total niedlich.
+Die Hundeschule hat mir wirklich weitergeholfen beim Leinenlaufen.
+Seit dem neuen Halsband kratzt er sich ständig am Nacken.
+Mein Papagei flüstert jetzt schon halblaut ins Ohr.
+Die Katze legt ihre Beute leider direkt auf den Teppich.
+Wir überlegen ernsthaft, ob wir einen zweiten Hund holen.
+Der Tierarzt hat gesagt, der Hund muss unbedingt abnehmen.
+Ich finde die Reinigung des Aquariums immer so nervig.
+Mein Igel ist nachts total aktiv und macht Lärm.
+Die Katze mag den neuen Kratzbaum überhaupt nicht leiden.
+Unser alter Terrier hört nur noch, wenn Leckerlis im Spiel sind.
+Ich habe versehentlich zu viel Trockenfutter in die Schale getan.
+Der neue Hund braucht echt Geduld bei der Nachzuchtproblematik.
+Meine Tauben brüten wieder, das wird sicher nichts Gutes.
+Die Katze schaut mich an, als würde ich zu spät füttern.
+Ich muss dringend den Sand wechslen, es riecht schon blöd.
+Unser Meerschweinchen hat gerade die Paprika entdeckt und liebt sie.
+Der Hundezwinger ist endlich angekommen, jetzt fehlt nur noch der Aufbau.
+Der Hund braucht wieder mal einen Gang zum Tierarzt.
+Meine Katze schläft den ganzen Tag auf der Heizung.
+Ich muss dringend noch Mehl für die Hamster kaufen.
+Das neue Trockenfutter scheint unserem Retriever gar nicht zu schmecken.
+Unser Kaninchen hat leider sehr viele Haare in seinem Käfig.
+Wer kann uns kurzfristig mal nach unseren Vögeln sehen?
+Der Goldfisch wirkt träge, vielleicht ist das Wasser zu kalt.
+Mein Schäferhund macht unglaublich gerne Spaziergänge bei jedem Wetter.
+Die Katze kratzt seit Wochen wieder an der Couchsitzfläche.
+Ich vermisse meinen alten Hund einfach sehr zutiefst.
+Das Kanarienvogel-Gesang ist morgens wirklich ein bisschen zu laut für mich.
+Wir haben vor, nächsten Sommer noch ein Meerschweinchen anzuschaffen.
+Der Tierarzt war heute total überladen mit anderen Patienten.
+Meine Maine Coon ist extrem verspielt und klaut ständig kleine Gegenstände.
+Ich muss den Hundehalsband endlich mal wieder tauschen weil es löchrig ist.
+Die Fische fressen immer so gierig wenn ich mich näher rantrage.
+Unser Welli hat gerade sein erstes Wort gelernt: Hallo.
+Der neue Welpe ist noch recht unsicher mit dem Leinenführigkeit.
+Ich habe keine Lust, heute Abend noch den Katzenstreu zu wechseln.
+Das HamsterRad dreht sich die ganze Nacht, ich hör's durch die Wand.
+Wir überlegen ernsthaft, ob wir nicht doch noch ein Haustier adoptieren sollten.
+Der Hund bellt nur immer dann, wenn die Post kommt.
+Meine Katze hat sich gestern wieder eine Fliege gefangen, toll!
+Ich muss dem Papagei heute unbedingt mal neue Äste zum Knabbern geben.
+Der Hund hat heute wieder im Gras gekrault statt zu pinkeln.
+Meine Katze legt sich immer genau auf die Tastatur.
+Ich vermisste meinen alten Goldfisch mehr als ich dachte.
+Das neue Futter macht den Meerschweinchen den Bauch kaputt.
+Wir suchen dringend einen neuen Tierarzt in der Nähe.
+Der Papagei schreit morgens um fünf Uhr pünktlich los.
+Unser Hund hat gerade das Sofa zerkratzt, Arschloch.
+Ich habe keine Lust mehr auf Welpenspucke am Fußboden.
+Die Schildkröte frisst nur noch Gurken und nichts anderes.
+Morgen gehen wir mit dem Boxer in den Hundepark.
+Mein Kaninchen beißt mich immer wenn ich es streicheln will.
+Der Tierheimhund ist so zahm geworden, toll gemacht.
+Ich muss dringend die Katzentoilette auskehren, stinkt furchtbar.
+Unser Welli hat sein Nest gerade vollgepackt mit Stroh.
+Hast du schon mal eine Spinne als Haustier gehabt?
+Die Fische im Aquarium scheinen heute gar nicht aktiv zu sein.
+Mein Hund mag den neuen Fellhund aus der Nachbarschaft nicht.
+Das Hamsterrad ist kaputt gegangen, neues kommt gleich.
+Ich trauere noch immer um meinen geliebten Dackel Bruno.
+Die Tauben fliegen ständig auf unseren Balkon und machen Dreck.
+Mein Hund lernt das Kommen nur wenn er Leckerlis sieht.
+Wir überlegen uns einen neuen Namen für das Katzentier.
+Das Futter aus der Tüte wird langsam unangenehm warm.
+Unser Pony war beim Hufschmied heute mal wieder schwierig zu händeln.
+Der Hund will einfach nicht in den Käfig.
+Ich hasse es, wenn der Kater nachts ankratzt.
+Mein Goldfisch ist leider heute Morgen gestorben.
+Hast du schon mal diese neue Hundefutter Marke getestet?
+Der Tierarzt sagt, dass die Katze zu dick ist.
+Unser Hund bellt immer, wenn die Post kommt.
+Ich vermissen meinen alten Kater so sehr noch.
+Die Papageien im Zoo machen mir total Angst eigentlich.
+Wer hat den Sand aus dem Katzenklo gekippt wieder?
+Mein Hund mag es gar nicht, wenn ich ihn wasche.
+Das Aquarium reinigen ist immer so eine nervige Sache.
+Unser Kaninchen frisst gerade ganz ruhig die Möhre.
+Ich bin allergisch gegen Katzenhaar, das weißt du doch.
+Der Hundeleinenführerschein war härter als gedacht ehrlich gesagt.
+Wo finde ich einen guten Tierpfleger für den Urlaub?
+Mein Welli piepst jetzt immer nur diesen einen Ton.
+Die Fische fressen nicht, sie sehen irgendwie traurig aus.
+Ich kann nicht glauben, dass der Hund das Sofa zerfleischt hat.
+Der neue Kater ist schon wieder unter dem Bett verschwunden.
+Hat jemand eine Empfehlung für einen seriösen Züchter?
+Mein Hund schaut mich immer so vorwurfsvoll an beim Spaziergang.
+Die Katze legt ihre Haare überall im Haus ab.
+Ich muss dringend mal die Vogelkäfige ausmisten heute.
+Unser Hamster scheint gerade ganz gut im Laufrad zu drehen.
+Der Tierarzttermin kostet mich diesmal über hundert Euro wieder.
+Der Hund hat mich heute wieder mit Schlamm abgeduscht.
+Meine Katze schläft den ganzen Tag auf der Heizung.
+Ich bin immer nervös, wenn der Hamster sich streckt.
+Das Aquarium braucht dringend mal eine gründliche Reinigung.
+Warum frisst mein Kaninchen nur die Blumen und nicht das Gras?
+Der Tierarzt hat gesagt, er muss unbedingt entwurmt werden.
+Meine neue Hündin ist noch so schüchtern mit anderen Hunden.
+Ich vermisse meinen alten Vogel schon unglaublich sehr.
+Die Schildkröte ist im Winter viel ruhiger als im Sommer.
+Habt ihr gute Tipps für Fellverlust beim Goldhamster?
+Mein Hund jagt jeden Ball, den ich wirfen kann.
+Die Katze hat das neue Spielzeug total ignoriert und ignoriert es weiter.
+Fischfutter riecht immer so seltsam in der Wohnung.
+Ich habe Angst, dass die Meerschweinchen sich streiten.
+Der Pudel sieht nach dem Friseur einfach nur niedlich aus.
+Mein Papagei schreit morgens viel zu früh um den Wecker.
+Wir überlegen uns gerade, ob wir noch ein zweites Tier holen.
+Das Katzenklo muss leider fast täglich komplett ausgewechselt werden.
+Mein Hund traut sich nicht mehr, die Treppe allein runterzugehen.
+Die Goldfische sind trotz des Umzugs ganz gesund geblieben.
+Ich finde den Geruch von nassem Hundehaar doch irgendwie typisch.
+Warum kratzt die Katze immer nur an der teuersten Tapete?
+Mein Kanarienvogel singt heute besonders schön und klar.
+Die Pflege für das Reptil ist wirklich aufwendiger als gedacht.
+Ich kann es nicht ertragen, wenn das Tier krank ist.
+Mein Hund liebt es, im Gras nach Mäusen zu graben.
+Die Katze schläft den ganzen Tag auf der warmen Heizung.
+Ich muss morgen das Katzenklos reinigen, das ist keine Freude.
+Unser neuer Meerschweinchen ist so scheu, wir warten ab.
+Der Tierarzt meinte, der Hund braucht bald neue Zahnpflege.
+Mein Goldfisch schwimmt träge, vielleicht ist das Wasser alt.
+Wir suchen jemanden, der im Urlaub den Papagei füttert.
+Die Katze kratzt an der neuen Couch, trotz Krallenclipper.
+Mein Hund bellt nachts immer noch, das nervt die Nachbarn.
+Ich habe versehentlich das teure Hundefutter auf den Boden gekippt.
+Unser Kaninchen frisst gerade wild begeistert am Klee.
+Beim Tierarzt war der Checkup diesmal ganz in Ordnung.
+Mein alter Hund kann nicht mehr die Treppe runtergehen.
+Wir überlegen uns noch, ob wir wirklich eine Schildkröte wollen.
+Der Hund hat das Sofa wieder beschissen, trotz viel Training.
+Ich liebe es, wenn die Katze abends gegen meine Hand reibt.
+Unser Welli hat heute zum ersten Mal Pfiff geübt.
+Das Aquarium muss dringend gewechselt werden, sonst wird es schimmelig.
+Mein Hund freut sich so sehr über jeden Besucher in der Tür.
+Die Katze versteckt sich immer, wenn das Staubsauger angelassen wird.
+Wir müssen dem Hamster ein neues Rad kaufen, das alte ist kaputt.
+Der Tierarzt hat gesagt, die Katze ist viel zu dick.
+Mein Hund bellt jedes Mal, wenn die Postbote vorbeikommt.
+Ich vermisse meinen alten Hund noch immer sehr jeden Tag.
+Mein Labrador zieht beim Gassigehen so kräftig.
+Die Katze sitzt heute den ganzen Tag auf dem Sofa.
+Ich habe vergessen, das Aquarium im Urlaub zu reinigen.
+Unser Kaninchen frisst am liebsten nur Heu und Gras.
+Der Tierarzt hat gesagt, dass der Hund abnehmen muss.
+Meine Schildkröte ist im Winter so träge und müde.
+Wir müssen dringend neue Körbchen für die Meerschweinchen kaufen.
+Der Parakeet singt morgens um fünf Uhr los.
+Es nervt mich total, wenn die Katze mir auf die Tastatur springt.
+Mein Hund hat beim Spaziergang wieder mal Stoppeln gefunden.
+Die Goldfische sind schon seit Jahren bei uns im Tank.
+Ich bin geschockt, wie teuer der Zahnsteinentfernung war.
+Unser neuer Dackel versteckt sich immer unter dem Tisch.
+Die Katze kratzt leider trotzdem an der neuen Couch.
+Mein Papagei braucht dringend mehr Gesellschaft am Abend.
+Wir überlegen uns, ob wir noch ein zweites Tier holen sollen.
+Der Hundbelltest im Nachbarhaus nervt mich wirklich ganz schön.
+Ich muss heute endlich mal wieder den Katzenstreu wechseln.
+Mein Meerschweinchen hat sich leider an der Decke verletzt.
+Der Vogelkäfig ist voller Federn und Sägespäne.
+Wir suchen jemanden, der die Hamster im Urlaub füttert.
+Unser alter Hund kann nur noch langsam laufen.
+Die Katze bringt uns immer wieder tote Mäuse als Geschenk.
+Mein Welli hat heute sein erstes Wort nachgesprochen.
+Ich habe keine Lust mehr auf den Hundespielplatz heute.
+Der Fischgrund sieht schon ein bisschen schmutzig aus.
+Der Hund schaut mich an, als hätte ich ihm was verboten.
+Unsere Katze schläft seit drei Tagen auf dem warmen Ofen.
+Am Wochenende war das Tierheim total voll mit kleinen Welpen.
+Mein Kaninchen frisst nur die grünen Blätter aus dem Garten.
+Die Vögel im Käfig sind heute Morgen besonders laut gewesen.
+Ich muss endlich mal wieder den Filter im Aquarium wechseln.
+Beim nächsten Gang zum Tierarzt wird das sicher teuer werden.
+Unser alter Schäferhund hat immer mehr Probleme mit den Pfoten.
+Die neue Hundewiese hier in der Nähe ist wirklich super.
+Warum schreit mein Parakeet immer um vier Uhr morgens?
+Ich kann nicht glauben, wie viel Kot die Meerschweinchen produzieren.
+Der Hundekittel ist nach dem Spaziergang wieder total verschmutzt.
+Wir suchen verzweifelt jemanden, der im August auf den Bullen aufpasst.
+Meine Frau will unbedingt eine Schildkröte als neues Haustier.
+Das Katzenklo muss dringend geputzt werden, sonst wird es übel.
+Ich hasse es, wenn der Hund nach Regen stinkt wie fauler Fisch.
+Unser Goldhamster ist leider im letzten Winter gestorben.
+Die Welpen haben heute schon wieder die Sofa-Lehne zerstört.
+Ich liebe den Duft von frischem Heu in der Voliere.
+Mein Papagei kopiert jetzt auch den Klingelton des Telefons.
+Der Tierarzt meinte, unser Dackel wäre etwas zu dick geworden.
+Ich vergesse oft, abends noch mal für die Fische zu füttern.
+Es ist schön, wenn die Katze abends auf dem Schoß liegt.
+Wir haben uns jetzt für einen Retterhund aus der Ukraine entschieden.
+Der Hund bellt jede Nacht um drei Uhr morgens.
+Meine Katze schläft nur auf dem frisch gewaschenen Wäschestapel.
+Habt ihr eine Empfehlung für einen guten Tierarzt in der Stadt?
+Das neue Trockenfutter scheint dem Hund wirklich besser zu schmecken.
+Ich hab total Angst, dass mein alter Hund bald nicht mehr mitläuft.
+Der Papagei fliegt immer dann los, wenn ich den Staubsauger hol.
+Wir überlegen schon lange, ob wir noch ein zweites Tier holen sollen.
+Katzen brauchen eigentlich gar keine Spaziergänge, das finde ich entspannend.
+Mein Fisch hat leider eine seltsame Färbung bekommen, woran liegt das?
+Der Hundehund im Park war total aggressiv und hat gebellt.
+Ich muss jeden Morgen den Vogelkäfig sauber machen, nervt mich langsam.
+Die Katze bringt mir ab und zu tote Mäuse ins Schlafzimmer.
+Hast du schon mal mit einem Welpen gearbeitet oder selbst einen?
+Unser Hund mag keine anderen Hunde, das macht Gassi gehen schwer.
+Der Tierarzt hat gesagt, er ist viel zu dick und braucht Diät.
+Ich vermisse meine alte Katze immer noch unheimlich sehr.
+Die Kaninchen haben heute wieder alles Mögliche im Wohnzimmer vergraben.
+Mein Hund lernt endlich, dass er nicht auf den Tisch darf.
+Das Aquarium muss dringend gewechselt werden, das Wasser ist trüb.
+Wir suchen jemanden, der im August bei unseren Meerkatzen schaut.
+Der Hund hat beim Tierarzt wieder Blut spenden müssen für die Studie.
+Meine Katze kratzt seit Wochen nur noch an der neuen Tür.
+Der Hundetrainer war super nett und hat uns gut beraten.
+Unsere Schildkröte ist dieses Jahr überhaupt nicht aus dem Panzer gekommen.
+Der Hund kratzt schon wieder an der Tür, ich kann gar nicht schlafen.
+Katzen haben echt einen Hang dazu, alles von der Fensterbank runterzuwerfen.
+Hast du auch bemerkt, dass das neue Futter den Hunden total schmeckt?
+Meine Schildkröte ist dieses Wochenende mal wieder auf die Flucht gegangen.
+Beim Impfen hat der kleine Bully gar nicht gezickt, war super brav.
+Ich hasse es, wenn der Hund nach dem Spaziergang so stinkt.
+Die Kaninchen bekommen morgen frisches Heu und Karotten als Leckerli.
+Unser Kater meidet seit dem Tierarztbesuch das ganze Zimmer, komisch.
+Man wird alt mit einem Dackel, die Gelenke tun immer mehr weh.
+Die Vögel singen so laut am Morgen, ich brauch Kopfhörer.
+Der Hund hat mein Lieblingsshirt zerrissen, ich bin echt sauer.
+Katzenpflege ist einfacher als gedacht, wenn man den Kratzbaum hat.
+Ihr Hund bellt nachts die ganze Zeit, könnt ihr mal etwas tun?
+Wir überlegen uns ernsthaft, ob wir noch einen zweiten Hund holen sollen.
+Mein Pony braucht neue Schuhe, der Hufschmied kommt nächsten Freitag.
+Das Meerschweinchen frisst nur das Grünzeug vom Balkon, nichts anderes.
+Hundewanderung am See war super entspannt, alle waren ganz ruhig.
+Ich vermissen meinen alten Hund noch immer sehr, es tut weh.
+Die Katze legt ihre Haare überall auf der dunklen Couch ab.
+Mein Papagei hat heute zum ersten Mal meinen Namen gerufen.
+Hundehaar im ganzen Auto saugen ist meine absolute Lieblingsbeschäftigung.
+Der neue Wurf von Labradorwelpen sieht einfach nur niedlich aus.
+Katzen sind richtige Mysterien, man versteht sie einfach nie richtig.
+Mein Hund liegt den ganzen Tag in der Sonne.
+Die Katze kratzt immer an der neuen Couch.
+Wir suchen noch einen Pflegesofor für unsere Hunde.
+Kann mir jemand die Katze heute Abend füttern?
+Der Goldfisch ist leider über Nacht eingegangen.
+Unser Papagei spuckt gerade alles aus dem Käfig.
+Ich hasse es, wenn der Hund nachts bellt.
+Hat jemand Erfahrung mit dem neuen Hundehalsband?
+Die Meerschweinchen brauchen dringend mehr Heu und Platz.
+Beim nächsten Tierarztbesuch soll endlich die Impfung erfolgen.
+Mein Katzenschlafsack ist schon wieder voll mit Haaren.
+Der neue Welpe lernt so schnell wie erwartet.
+Wir überlegen uns, ob wir einen zweiten Hund holen.
+Das Katzenklo muss wirklich gründlicher gereinigt werden.
+Mein Hamster versteckt sich immer im Vlies.
+Habt ihr gute Tipps gegen Flöhe bei Hunden?
+Der Wellensittich singt morgens viel zu früh laut.
+Unser alter Dackel hat wieder Probleme mit den Pfoten.
+Ich kann nicht glauben, wie schnell er gewachsen ist.
+Die Katze ignoriert das teure Spielzeug komplett wieder.
+Wir müssen dringend zum Tierarzt wegen des Hustens.
+Mein Hund trinkt nur aus dem Gartenhahn Wasser.
+Der Kaninchenkäfig braucht wirklich eine große Renovierung.
+Ich vermisste meinen alten Hund jeden einzelnen Tag.
+Hast du zufällig noch Futter für den Fischen?
+Mein Hund liebt es einfach, im Regen spazieren zu gehen.
+Die Katze schläft nur auf meiner Tastatur, nervt mega.
+Wir brauchen endlich mal einen neuen Vogelkäfig für den Papagei.
+Der Fisch ist schon zwei Tage tot, niemand hat's gemerkt.
+Beim Tierarzt war der Hund total angespannt und zitternd.
+Meine Meerschweinchen fressen nur das frischeste Grünzeug vom Garten.
+Ich hasse es, wenn der Hund nachts immer wieder bellt.
+Die Katze kratzt schon wieder an der neuen Tür.
+Wir suchen jemanden, der im August auf den Hund schaut.
+Mein alter Dackel wird langsam schwerhörig und geht langsamer.
+Das Hundefutter ist leider schon wieder zu Ende gegangen.
+Der Papagei spuckt mich an, wenn ich ihn anspreche.
+Ich vermisse meinen ersten Hund immer noch sehr stark.
+Die Katze hat ein Mäuschen gefangen, das war eklig.
+Mein Kaninchen frisst nur bestimmte Sorten Heu sonst nichts.
+Beim Welpencourse muss unser Rüde noch viel lernen.
+Der Fischbeckenfilter funktioniert nicht mehr richtig seit gestern.
+Ich finde Vögel als Haustiere eigentlich zu laut und nervig.
+Mein Hund bellt jedes Mal, wenn der Postbote kommt.
+Die Katze legt ihre Haare überall auf dem Sofa ab.
+Wir überlegen uns gerade, ob wir noch ein Haustier wollen.
+Der Tierarzt sagte, der Hund sei viel zu dick.
+Mein Wellensittich singt morgens schon um sechs Uhr los.
+Ich muss dringend den Sand in der Katzentoilette wechseln.
+Mein Pferd ist nicht daheim, das zähle ich als Haustier.
+Der Hund legt sich immer direkt vor dem Spaziergang schlafen.
+Unsere Katze ist heute Morgen schon wieder um drei aufgefallen.
+Ich hasse es den Teppich nach Katzenurin zu reinigen.
+Hast du gesehen wie mein Kaninchen springt, das ist wild.
+Das Goldfischglas muss dringend mal gründlich gereinigt werden.
+Der Tierarzt hat gesagt der Hund braucht mehr Bewegung.
+Mein Papagei redet nicht sondern schreit nur den ganzen Tag.
+Wir überlegen uns noch ob wir wirklich ein Pony kaufen sollen.
+Die neuen Welpen machen im Garten richtig großen Dreck.
+Katzen scheinen wirklich gar keine Respekt vor uns Menschen zu haben.
+Ich muss heute Abend das Meerkäschenkäfig ausmisten, der riecht furchtbar.
+Mein Hamster läuft immer nur auf dem Laufrad bis spät in die Nacht.
+Der Hund hat den Briefträger im Garten angebellt und mich aufgeweckt.
+Ich gebe meinem Dackel lieber frisches Hühnchen als Trockenfutter.
+Warum schaut die Katze immer stur aus dem Fenster und miaut?
+Mein Schecken braucht täglich eine große Portion Sonnenlicht.
+Die Zecke am Hund war riesig und hat sich fest angesaugt.
+Wir haben uns für einen Labrador entschieden weil er kinderlieb ist.
+Das Futter für die Schildkröte kostet im Tierfachmarkt ein Vermögen.
+Mein alter Hund humpelt seit zwei Tagen etwas merkwürdig beim Gehen.
+Die Tauben auf dem Balkon fressen den Rest vom Brot ab.
+Ich kann nicht glauben wie viel Arbeit mit einem neuen Welpen ist.
+Der Frettchengegeruch in der Wohnung lässt sich wirklich schwer entfernen.
+Unsere Meerschweinchen bekommen heute als Belohnung ein paar Möhrenstücke.
+Mein Hund bellt den ganzen Tag an der Tür.
+Wir müssen endlich das neue Katzentoilette kaufen.
+Der Wellensittich pfeift heute Morgen schon die Posthornmelodie.
+Hat jemand Tipps für einen guten Hundeschule in Berlin?
+Meine Schildkröte frisst wirklich nur Salat und gar nichts anderes.
+Beim Tierarzt war mein Kaninchen zum Glück nur leicht erkältet.
+Ich kann nicht glauben, dass der Hamster weggekauft ist.
+Der neue Welpen hat schon den ersten Schuh kaputt gemacht.
+Wir überlegen uns, ob wir vielleicht noch eine Katze holen sollen.
+Meine goldene Meerjungfrau macht gerade ihr beeindruckendes Blasenballett.
+Das Futter für unsere vier Hunde wird monatlich richtig teuer.
+Katzen scheinen irgendwie immer zu wissen, wenn man krank ist.
+Ich traue mich nicht, dem Papagei seinen Namen beizubringen.
+Unser alter Pudel hat leider Krebs diagnostiziert bekommen.
+Jemand muss heute Abend dringend den Aquariumfilter reinigen.
+Der Hundeköter am Gehweg stinkt wirklich unerträglich im Sommer.
+Unsere Katze schläft ausschließlich auf der warmen Waschmaschine.
+Ich habe vergessen, das Vogelkäfig reinzumachen als das Fenster offen war.
+Habt ihr Erfahrungen mit dieser neuen Marke Tierfutter gemacht?
+Mein Meerschweinchen schnarcht laut wenn es richtig entspannt ist.
+Der Tierarztbesuch dauerte ewig wegen der vielen Wartezeiten.
+Ich vermisse meinen alten Golden Retriever wirklich sehr jeden Tag.
+Die Katze hat wieder einmal vom Tisch abgeknabbert.
+Wir brauchen dringend neues Heu für die Kaninchen im Stall.
+Mein Wellensittich hat gerade gelernt, dass er pfeifen kann.
+Mein Hund bellt jede Nacht, wenn es donnert.
+Die Katze legt sich immer genau auf mein Buch.
+Wir haben gestern neue Hamsterkäfige bestellt.
+Der Tierarzt hat gesagt, der Hund ist zu dick.
+Mein Wellensittich fliegt schon mal unkontrolliert weg.
+Ich muss dringend das Aquarienwasser wechseln.
+Die neuen Welpen sind total anstrengend aber süß.
+Warum frisst meine Katze nur dieses eine Futter?
+Der Pudel hat die neue Leine bereits zerfetzt.
+Mein Kaninchen hat ein neues Nest gebaut.
+Es nervt, wenn der Hund ständig aufsteht.
+Die Meerschweinchen brauchen jeden Tag viel Gemüse.
+Ich vermisse meinen alten Dackel so sehr.
+Kann jemand heute Mittag den Hund ausführen?
+Der Vogelfutterkasten ist wieder komplett leer.
+Meine Katze kratzt an der neuen Couch.
+Wir suchen dringend eine tierfreundliche Wohnung hier.
+Das neue Fell meines Pferdes sieht super aus.
+Der Papagei sagt immer noch nur ein Wort.
+Ich habe Angst vor dem nächsten Impftermin für die Katze.
+Mein Hund bringt mir jeden Stock ins Haus.
+Die Fische scheinen gesund und aktiv zu sein.
+Warum bellt mein Nachbarhund die ganze Nacht?
+Das Futter meiner Meerschweinchen muss gewechselt werden.
+Ich liebe es, wenn der Hund mich begrüßt.
+Meine Maus ist wieder aus dem Käfig ausgebrochen.
+Der Hund bellt immer, wenn die Post kommt.
+Ich muss heute zum Tierarzt wegen der Wurmtabletten.
+Katzen sind zwar niedlich aber total frech.
+Unser Kaninchen frisst eigentlich nur Heu und Möhren.
+Das Aquarium putzen mache ich wirklich ungern.
+Warum macht mein Hund den ganzen Tag nur schlaf?
+Die neue Katze hat noch nicht auf die Toilette gelernt.
+Ich habe gerade Futter für den Vogel gekauft.
+Mein Hamster ist leider letzte Woche gestorben.
+Hundewalking am Wochenende ist einfach total anstrengend.
+Die Papageien im Nachbarn machen so viel Lärm.
+Wir überlegen uns, ob wir noch einen Hund holen wollen.
+Das Fell vom Pudel muss man wirklich oft bürsten.
+Mein Fisch sieht irgendwie traurig in seinem Becken aus.
+Tierarztrechnungen kommen mir immer wie ein Diebstahl vor.
+Der Schäferhund ist so gehorsam und intelligent.
+Ich vermisse meine alte Katze einfach sehr.
+Vogelfutter reinigen sollte man mindestens einmal pro Woche.
+Hunde brauchen täglich mehrere lange Spaziergänge an der frischen Luft.
+Die Schildkröte schlüpft erst wieder im Frühling aus ihrer Hibernation.
+Ich finde Aquarien beruhigend anzusehen nach einem langen Tag.
+Unser Meerschweinchen piepst immer, wenn ich ins Zimmer komme.
+Es ist schwierig, eine gute Hundeschule in der Nähe zu finden.
+Unser neuer Welpen macht noch nicht brav an einer Ecke.
+Die Katze schläft schon wieder den ganzen Tag auf dem Sofa.
+Ich muss heute dringend zum Tierarzt weil der Hund sich kratzt.
+Das neue Hundefutter scheint ihm gar nicht zu schmecken.
+Meine Papageiin ist so laut dass es mich wahnsinnig macht.
+Wir haben endlich die Kiste gefunden die uns beim Umzug fehlte.
+Der Meerschweinchen braucht wirklich jede Menge frisches Heu täglich.
+Ich vermissen meinen alten Hund schon extrem sehr im Alltag.
+Kann jemand morgen kurz auf die Kaninchen aufpassen während wir weg sind?
+Die Katze hat sich wieder ins Sofa pinkeln obwohl sie kastriert ist.
+Unser Hamster läuft den ganzen Abend wild durch sein Rad.
+Das Aquarium muss dringend mal wieder richtig gründlich gereinigt werden.
+Der Tierarzt meinte der Hund hat zu viel Zucker im Blut.
+Wir suchen noch nach einem guten Züchter für eine Schäferhund.
+Die Vögel in unserem Garten kommen schon wieder an die Fütterstelle.
+Ich finde es schwer allein mit drei Katzen zurechtzukommen hier.
+Unser Goldfisch ist leider verendet und das traurt mich wirklich.
+Man sollte besser nicht so oft das Futter wechseln bei Hunden.
+Die Katze miaut nachts total laut wenn sie Hunger hat einfach.
+Habt ihr Erfahrungen mit dieser speziellen Leine für große Hunde?
+Mein Pferd muss auch regelmäßig zum Schmied kommen eigentlich gesehen.
+Die Schildkröte im Teich wird schon richtig groß und aktiv jetzt.
+Ich bin genervt weil der Hund wieder nachts bellt ohne Grund.
+Kann man die Krallen der Katze selbst zu Hause kürzen sicher?
+Unser Neuntöter hat gerade ein ganz tolles Nest gebaut draußen.
+Mein Hund bellt ständig nach der Postfrau.
+Die Katze schläft den ganzen Tag auf dem Sofa.
+Ich vergesse immer wieder das Futter für die Fische.
+Der Kaninchenkäfig muss wirklich dringend mal gereinigt werden.
+Beim Tierarzt war der neue Wurmmedikament teurer als üblich.
+Meine Papageien sind morgens absolut gar nicht leise.
+Wir suchen jemanden, der unseren Hund über Feiertags spazieren führt.
+Der Kater kratzt seit Tagen an seiner neuen Kratzwand.
+Ich habe Angst, dass mein alter Meerschweinchen krank ist.
+Das Hundebett steht irgendwie immer schräg in der Ecke.
+Meine Nachbarin hat einen Hund, der miaut wie ne Katze.
+Welches Futter isst eigentlich eure Schildkröte am liebsten?
+Der Tierarzt sagte, der Blutzucker von meiner Katze passt.
+Ich finde den Geruch vom trockenen Fischfutter echt nervig.
+Mein Hamster ist nachts so laut im Radchen.
+Wir müssen uns dringend um neue Hundehalsbänder kümmern.
+Die Vögel in unserem Garten sind heuer sehr scheu geworden.
+Hat jemand Erfahrung mit der Erziehung von Jagdhunden?
+Meine Katze hat mir heute aufs Brett gestiegen.
+Der Goldfisch sieht traurig aus, er frisst seit Tagen nichts.
+Ich vermisse meinen alten Hund jeden einzelnen Tag sehr.
+Die Pflege des Meereswasseraquariums ist wirklich zeitaufwändig und teuer.
+Unser Hund versteckt sich immer unter dem Tisch beim Donner.
+Welchen Hundebürste könnt ihr für langhaarige Rassen empfehlen?
+Meine Katzen haben das neue Spielzeug binnen Minuten zerstört.
+Meine Katze schläft den ganzen Tag nur in der Sonne.
+Der Hund muss jeden Morgen um fünf aufstehen und raus.
+Ich bin froh, dass die Schildkröte wieder frisst heute.
+Unser Kaninchen hat das Kabel ins Zimmer geknabbert leider.
+Tollwutimpfung beim Tierarzt ist immer eine ziemliche Nervensache für uns beide.
+Meine Tauben fliegen manchmal weg und kommen nicht sofort zurück.
+Die Hamsterkugel rollt nachts durch die ganze Wohnung rum.
+Ich vermissen meinen alten Meerschweinchen wirklich sehr jetzt schon.
+Das Goldfischfutter schwimmt irgendwie immer nur auf der Wasseroberfläche rum.
+Meine Katze kratzt wieder mal an der neuen Couchscheibe.
+Hundewanderungen am Wochenende sind unsere liebste gemeinsame Aktivität eigentlich.
+Der Papagei nachahmt die Türklingel perfekt jeden Morgen früh.
+Futtermittelunverträglichkeit beim Hund macht uns echt Sorgen seit dem Sommer.
+Mein Wellensittich legt gerade seine Federn komplett aus zum Glück.
+Katzenminze hilft leider gar nicht gegen das Schnarchen meiner Mieze.
+Wir überlegen ernsthaft, ob wir ein zweites Haustier anschaffen sollten.
+Der Vogelkäfig muss endlich mal gründlich geputzt werden heute.
+Hundeführerschein ist für unsere Rasse eigentlich gesetzlich vorgeschrieben hier.
+Meine Schildkröte legt im Winter eine längere Pause ein normal.
+Die Fressnapfautomat funktioniert mit dem neuen Futter einfach nicht richtig mehr.
+Tierarztrechnungen kommen einem oft unerwartet teuer im Nachhinein doch vor wirklich.
+Unser Hund bellt jeden Abend laut auf den Postboten hin.
+Meine Katze bringt uns manchmal tote Mäuse als Geschenk mit heim.
+Die Vögel in unserem Garten sind so schön bunt eigentlich immer.
+Ich hab Angst, dass unser Hund zu alt für Wanderungen wird bald.
+Unser Hund bellt morgens um fünf wie wild.
+Die Katze legt sich immer direkt auf die Tastatur.
+Ich habe keine Ahnung, welches Futter der Kaninchen schmeckt.
+Der Vogel ist heute seltsam ruhig, das macht mir Sorgen.
+Wir müssen dringend den Tierarzt für die Impfung anrufen.
+Mein Goldfisch schwimmt seit gestern träge am Boden.
+Das Hamsterkäfig putzen ist eigentlich gar nicht so schlimm.
+Der Hund hat sich auf der Wiese wild gefreut.
+Ich hasse es, wenn die Katze Haare überall ablegt.
+Unser neuer Schützling braucht noch viel Geduld und Liebe.
+Die Schildkröte frisst heute wieder gar nichts von mir.
+Wir suchen jemanden, der im August auf den Hund schaut.
+Mein Papagei hat mein Wort schon ziemlich gut kopiert.
+Der Maulwurf im Garten macht echt Ärger mit dem Rasen.
+Ich kann nicht glauben, wie teuer die Tabletten waren.
+Die Katze versteckt sich seit drei Tagen nur noch unter dem Bett.
+Unser Retriever bringt mir jeden Tag die Zeitung rüber.
+Das Meerschweinchen schnarcht nachts so laut, dass ich aufwache.
+Wir überlegen ernsthaft, ob wir uns ein zweites Tier anschaffen.
+Der Hund zieht an der Leine wie ein Zugtier.
+Ich habe keine Zeit, heute noch den Vogelkäfig zu reinigen.
+Unser Kater hat leider die Lieblingsvase umgestoßen.
+Die Pflege des Pferdes kostet mich jeden Samstag einen ganzen Tag.
+Mein Welli macht morgens früh schon ganz schön Krach.
+Wir sind sehr traurig, dass unser alter Hund gestorben ist.
+Der Hund bellt wieder den ganzen Morgen lang.
+Kannst du mal kurz die Katzentoilette ausfegen?
+Mein Papagei hat schon Hallo gelernt und ruft damit.
+Ich liebe es, abends auf meine Hamster zu schauen.
+Das Katzenfutter war schon wieder viel zu teuer.
+Unser Hund rennt immer nach der Leine, wenn er läuft.
+Die Vögel im Zwinger brauchen dringend mehr Licht heute.
+Mein Fisch schwimmt träge am Glasrand hin und her.
+Der Tierarzttermin hat sich um eine Stunde verschoben.
+Warum frisst die Katze nur den Trockenfutter?
+Ich muss endlich mal das Aquarium gründlich reinigen.
+Unser neuer Hund ist noch etwas scheu vor fremden Leuten.
+Die Meerschweinchen quieken immer, wenn es Zeit zum Fressen wird.
+Hast du schon Ersatzkufen für den Hund gekauft?
+Mein Kaninchen frisst gerne Salat und Karotten im Garten.
+Der Tierheimhund hat uns sofort angelutscht beim Kennenlernen.
+Ich vergaß heute Abend das Aquarium zu füttern leider.
+Die Katze schläft immer auf dem frisch gewaschenen Bett.
+Unser Wellensittich singt morgens um fünf Uhr laut.
+Wo finde ich einen guten Tierpfleger für meine Hunde?
+Mein alter Hund trinkt sehr viel Wasser in letzter Zeit.
+Das neue Katzenkissen riecht schon wieder nach Urin drinnen.
+Ich freue mich riesig auf den neuen Wurf Kaninchenbabys.
+Der Hund hat heute nicht so viel Lust zum Spaziergang.
+Mein Fisch ist tot, das war total traurig heute.
+Die Katze liegt seit drei Stunden auf meiner Tastatur.
+Unser Hund bellt jeden Abend vor der Tür rum.
+Das Kaninchen hat wieder alle Blumentöpfe umgeworfen, Arschloch.
+Warum frisst mein Kater nur das teuerste Nassfutter?
+Der Vogel hat gestern zum ersten Mal pfeifen gelernt.
+Ich suche dringend einen Hundesitter für die nächsten Tage.
+Mein Fisch ist gestorben und ich weiß nicht warum.
+Der Tierarztbesuch war heute mal wieder eine Katastrophe.
+Kann jemand meine Meerschweinchen aufpassen, ich muss rausfahren.
+Mein Dogge schlaf so laut, dass man es hört.
+Die Katze hat sich ins Klo gekugelt zum Trinken.
+Ich hasse es, wenn der Hund im Gras markiert.
+Das Hamster Rad dreht sich nachts so laut nervig.
+Wir überlegen uns, ob wir noch ein Tier holen.
+Mein alter Hund braucht immer mehr Hilfe beim Treppensteigen.
+Der Papagei ist heute total aggressiv und beißt rum.
+Ich habe vergessen das Vogelkäfig zu reinigen, Schande.
+Die Nachbarkatze kommt immer zu uns auf die Terrasse.
+Mein Pferd hat Probleme mit dem Hufschmied seitdem.
+Es ist schwer, den Hund trocken zu halten nach dem Bad.
+Der Goldfisch schwimmt komisch an der Oberfläche rum.
+Ich traue mich gar nicht, das Futter umzustellen jetzt.
+Unser Kater kratzt schon wieder am neuen Sofa rum.
+Die Tauben sind so süß, aber auch extrem laut.
+Habt ihr Tipps gegen Ungeziefer bei Katzen?
+Der Hund bellt schon wieder wie wild an der Tür.
+Unsere Meerschweinchen brauchen jeden Tag frisches Heu.
+Ich muss heute unbedingt zum Tierarzt mit der Katze.
+Futter für den Papagei ist echt teuer geworden lately.
+Warum kratzt die Katze immer am neuen Sofa?
+Mein Goldfisch schwimmt träge am oberen Ende des Beckens.
+Die Erziehung des Welpen kostet mich langsam den Schlaf.
+Habt ihr schon das neue Trockenfutter ausprobiert?
+Der Hund apportiert heute einfach keinen Ball mehr.
+Wir suchen dringend einen Hundesitter für nächste Woche.
+Katzenhaare sind überall, auch im Essen auf dem Tisch.
+Mein Kaninchen beißt manchmal, wenn man es stört.
+Der Tierarzt sagte, der Hund sei zu schwer jetzt.
+Ich habe Angst, dass die Katze wieder ausläuft.
+Unsere Vögel singen schon morgens um fünf Uhr los.
+Welches Spielzeug hält beim Bulldoggen überhaupt stand?
+Die Schildkröte frisst endlich mal wieder ihr Grünzeug.
+Es ist so traurig, wenn das Haustier stirbt am Ende.
+Mein Hund verträgt die neuen Leckerlies gar nicht mehr.
+Wir überlegen uns einen zweiten Hund zur Gesellschaft.
+Der Wellensittich pfeift plötzlich mein Lied nach total lustig.
+Ich habe keine Zeit für den täglichen spazieren gehen.
+Das Aquarium muss endlich mal wieder gereinigt werden.
+Unsere Katze bringt abends Mäuse ins Haus, eklig.
+Der neue Hund ist schon so lieb und brav eigentlich.
+Der Hund schaut so traurig beim Gassi gehen weg.
+Meine Katze hat nachts wieder die ganze Wohnung überquert.
+Haben wir eigentlich noch genug Futter im Schrank für den Kaninchen?
+Das neue Spielzeug ist schon morgen kaputt, der Hund ist wild.
+Ich finde es schwer den Vogelkäfig gründlich zu reinigen.
+Die Schildkröte will überhaupt nicht aus ihrem Panzer kommen heute.
+Tierarztbesuche kosten wirklich immer das letzte Geld am Monatsende.
+Mein Pferd läuft gerade im Stall rum und wirkt entspannt.
+Wer hat eigentlich den Fischfütterer wieder falsch eingestellt oder vergessen?
+Die Hamster sind nachts so laut dass ich kaum schlafe.
+Meine alte Katze springt schon nicht mehr auf die Schrankkante.
+Der Hundekurs war zwar teuer aber er hilft wirklich sehr.
+Ich vermisse meinen alten Schäferhund unglaublich bis heute noch.
+Die Papageien machen ein so tolles Konzert im Wohnzimmer morgen früh.
+Muss ich den Hund wirklich alle zwei Wochen baden lassen?
+Mein Kanarienvogel singt nur noch wenn die Sonne scheint draußen.
+Die Maus ist schon wieder aus dem Käfig ausgebrochen klar doch.
+Futter umstellen bei der Katze funktioniert einfach nicht so gut.
+Mein Welli redet schon ganz schön viel mit uns heute.
+Die Meerschweinchen brauchen dringend frisches Heu und Gemüse heute.
+Ohne Hund wäre mein Leben sicher langweiliger und leerer irgendwie.
+Der Tierarzt hat gesagt dass der Hund abnehmen sollte bald.
+Meine Katze kratzt wieder an der neuen Sofa Polsterung leider.
+Ich kann einfach nicht ohne meine Tiere morgens aufstehen ehrlich gesagt.
+Das Aquarium sieht schon wieder etwas trüb aus heute morgen.
+Die Meerschweinchen haben heute Nacht richtig Krach gemacht.
+Ich liebe das fluffige Fell meiner Katze einfach sehr.
+Mein Hund schläft den ganzen Tag auf der Couch.
+Das Aquarium muss dringend gereinigt werden, die Algen wuchern.
+Wir suchen noch nach einem neuen Namen für das Kätzchen.
+Der Papagei hat meinen Ring schon wieder im Nest verstaut.
+Futter kaufen wird langsam immer teurer, man kann sich nicht beklagen.
+Meine Nager sind sehr scheu und verstecken sich sofort.
+Beim Tierarzt musste ich heute wieder ganz schön warten.
+Unser Labrador apportiert jeden Stein den er findet.
+Die Katze spuckt ihr Fellball nur im Bett aus.
+Ich muss dem Kaninchen bald neue Heuballen kaufen.
+Mein Hund traut sich nicht in die laute Straße.
+Das Goldfischchen sieht so traurig in der Schale aus.
+Wir überlegen uns, ob wir noch ein zweites Meerschweinchen holen.
+Die Vögel im Gehege singen morgens einfach zu früh.
+Mein Hund hat beim Training endlich den Pfotengeben verstanden.
+Ich finde es schwer, eine gute Versicherung für Tiere zu finden.
+Das junge Kaninchen frisst an meinen Holzsockeln rum.
+Meine Katze schläft nur bei mir auf dem Bauch.
+Der neue Züchter war leider nicht so professionell wie erwartet.
+Unser Dackel hat unter der Garage einen Bau gegraben.
+Ich muss die Schnaupe meiner Fische jeden Abend prüfen.
+Die Meerschweinchen mögen das frische Gras vom Balkon sehr.
+Mein Hund bellt immer, wenn der Paketbote kommt.
+Der Hund bellt wieder die ganze Nacht um die Ecke.
+Unsere Katze schläft lieber im Karton als auf dem Bett.
+Fischfutter kaufen ist immer eine lästige Pflichtübung für mich.
+Mein Hamster hat den Nachtfahrplan dieses Hauses definitiv übernommen.
+Die Meerschweinchen brauchen unbedingt frisches Heu und Gemüse.
+Unser alter Retriever kommt nicht mehr so gut die Treppe hinunter.
+Ich habe keine Ahnung ob das Vogelkäfigreinigungsmittel unbedenklich ist.
+Der Papagei pfeift gerade den ganzen Tag lang das Telefon.
+Wir haben heute neuen Sand für das Terrarium kaufen müssen.
+Die Katze spuckt ihr Fell immer im Bad aus.
+Mein Hund vermissen tut mir nach dem Tod sehr schwer.
+Wer kümmert sich am Wochenende um die beiden Katzen?
+Das neue Futter hat ihm total gut bekommen, glänzendes Fell.
+Bei der Impfung war die Stube mal wieder überfüllt mit anderen Hunden.
+Der Vogel pickt sich gerade an den Federn aus Stress.
+Unsere Schildkröte braucht dringend eine wärmere Lampe im Winter.
+Ich habe heute Morgen einen Haufen Haare auf der Couch gefunden.
+Der Hund ist so stolz wenn er den Ball apportiert.
+Wir überlegen uns schon lange ob wir noch ein Tier wollen.
+Die Fische sind tot weil ich das Wasser vergessen habe.
+Mein Kaninchen frisst alles Grünzeug was es erreichen kann.
+Es ist anstrengend jeden Tag spazieren zu gehen bei diesem Wetter.
+Der neue Welpenbesitzer fragt ständig nach Erziehungstipps im Internet.
+Ich vermisse meinen alten Labrador wirklich sehr an Weihnachten.
+Der Hund schlafst so laut als würde er snorchen.
+Katzensand wechseln ist wirklich mein absoluter Lieblingsjob.
+Warum frisst der Hamster nur das Gemüse aus dem Napf?
+Ich muss heute zum Tierarzt weil die Katze Erbrochen hat.
+Das Kaninchen hat wieder alles im Zimmer zerfleischt.
+Mein Goldfisch sieht schon einen ganzen Tag traurig aus.
+Die Erziehung des Labradors wird mich noch fertig machen.
+Wir überlegen uns ernsthaft ein weiteres Haustier zuzulegen.
+Der Vogel ist heute Vormittag einfach weggeflogen was für ein Schreck.
+Ich kann den Glatze meiner Schildkröte gar nicht genug streicheln.
+Das Futter für den Meerschweinchen wird immer teurer verdammt noch mal.
+Mein alter Hund hat schon wieder nichts gegessen heute.
+Die Nachbarskatze kommt leider immer noch durchs Fenster rein.
+Ich habe keine Ahnung ob das Verhalten des Papagei normal ist.
+Schlafmangel weil der Welpen die ganze Nacht bellt und heult.
+Wer kümmert sich im Urlaub um meine zwei Katzen?
+Der Hundekot hat heute wieder mal den ganzen Rasen ruiniert.
+Ich muss dringend neue Spielzeug für die Affen kaufen.
+Das Aquarium ist schon seit drei Wochen nicht gereinigt worden.
+Mein Tierarzt war super nett trotz der hohen Rechnung.
+Die Meerschweinchen piepsen wenn sie Hungers haben einfach nur süß.
+Ich habe Angst dass unser Hund bald zu alt wird.
+Der Welli hat mir heute zum ersten Mal Guckuck gesagt.
+Das neue Leckerli hat der Hund gar nicht mögen wollen.
+Unser Hund bellt nachts immer noch wie verrückt.
+Die Katze hat sich in der Vase wohlgefühlt.
+Ich muss dem Welli neues Sägemehl kaufen.
+Katzenhaare sind überall im Haus wirklich nervig.
+Mein Hamster ist wieder durch das Raster gekniffen.
+Tierarztbesuche machen mir jedes Mal eine Gänsehaut.
+Hundewalking bei Regen ist einfach keine Lust.
+Unser Papagei pickt mich immer an der Hand.
+Wie bekomme ich die Hundegerüche aus dem Sofa?
+Der Meerschweinchenkäfig muss dringend gesäubert werden.
+Ich vermisse meinen alten Bullterrier sehr stark.
+Katzen sind doch viel unabhängiger als Hunde finde ich.
+Mein Hund hat heute wieder den Briefträger gejagt.
+Das Aquarium ist schon wieder voller Algen bedeckt.
+Die Tauben auf dem Balkon machen so viel Lärm.
+Ich suche einen seriösen Hundepfleger in der Nähe.
+Unser Kater schläft die ganze Zeit auf dem PC.
+Der Tierarzt hat gesagt, er soll abnehmen.
+Hundeerziehung kostet wirklich viel Geduld und Zeit.
+Die Wellensittiche haben gerade ein neues Nest gebaut.
+Ich bin froh, dass unsere Hunde sich vertragen.
+Katzenfutter riecht irgendwie immer nach Fischgeruch.
+Die neue Decke war drei Tage haltbar beim Hund.
+Mein Kaninchen frisst wieder nur das Laub vom Garten.
+Der Tierarztbesuch hat mich mal wieder richtig ausgekotzt.
+Das Meerschweinchen schnarcht so laut dass es mich aufweckt.
+Wir suchen noch eine passende Pension für die beiden Hunde.
+Seitdem der Vogel da ist hört man nie mehr raus.
+Mein Hund bringt jedem Besucher seine Lieblingsspielzeug herbei.
+Die Fische brauchen dringend mal wieder Wasserwechsel und Putzaktion.
+Kannst du bitte kurz den Wachtelhund ausführen heute Abend?
+Unsere Katze schläft nur noch auf dem warmen Laptopbildschirm.
+Das Futter wurde schon wieder nicht fertig gefressen am Morgen.
+Ich traue mich kaum den neuen Welpe zu erziehen ehrlich gesagt.
+Der Hundekot muss sofort weggeräumt werden sonst gibt es Ärger.
+Mein Papagei hat heute schon wieder mein Handy geklaut und versteckt.
+Die Katze kommt endlich von der Couch herunter um zu fressen.
+Wir müssen mal überlegen ob wir noch ein Tier wollen.
+Der Hundeblick ist einfach zu zum Herzen schmelzen jeden Tag.
+Mein Goldfisch ist leider nach zwei Wochen im Becken gestorben.
+Kann jemand kurz die Katzentoilette leer machen während ich weg bin?
+Der Hamster rennt so laut im Rädchen dass ich nicht schlafe.
+Ich vermissen meinen alten Hund schon extrem in der Stille.
+Die Katze hat mir mit ihren Krallen eine properbe Spur hingelegt.
+Wir haben endlich ein Kätzchen aus dem Tierheim adoptiert gestern Abend.
+Der Hund bellt den ganzen Tag lang wenn ich zur Arbeit gehe.
+Mein Hund bellt immer wenn das Paket kommt.
+Die Katze schläft schon wieder den ganzen Tag auf dem Sofa.
+Wir müssen morgen früh zum Tierarzt mit der Katze hin.
+Der Papagei hat heute Hallo gesagt und wir waren total überrascht.
+Unser Goldfisch schwimmt gar nicht mehr richtig, ich mache mir Sorgen.
+Hundespaziergänge bei Regen sind einfach nur nervig und nass.
+Das Trockenfutter schmeckt dem Hund scheinbar gar nicht mehr heute.
+Warum rennt der Hund immer weg sobald die Leine ab ist?
+Die Katze kratzt wieder an der neuen Couch und ich bin wütend.
+Tierarztkosten für Katzen sind echt ins Auge gegangen letztes Jahr.
+Ich vermisse unseren alten Hamster irgendwie mehr als gedacht.
+Der Hund hat heute im Garten eine riesige Grube ausgegraben.
+Meine Eltern lassen die Vögel täglich fliegen zum Ausspannen.
+Kann mal bitte jemand den Vogelkäfig sauber machen er riecht streng.
+Unser Hund verzeiht uns alles auch wenn wir zu spät kommen.
+Die Katze bringt uns abends immer Mäuse als Geschenk vor die Tür.
+Wir überlegen uns gerade ob wir einen zweiten Hund annehmen sollen.
+Mein Welli putzt sich die Federn und das sieht so niedlich aus.
+Der Fisch scheint krank zu sein weil er am Grund liegt.
+Unser Labrador ist immer so hungrig egal wie viel wir füttern.
+Die Katze mag den neuen Kater einfach nicht und faucht ihn an.
+Ich suche dringend einen Hundesitter für nächste Woche im Urlaub.
+Mein Pferd muss neu beschlagen werden aber ich habe keine Zeit.
+Der Hund macht wieder überall rein weil ich zu lange weg war.
+Meine Katze schläft den ganzen Tag auf der Heizung.
+Das Kaninchen braucht dringend mehr Heu als bisher.
+Beim Tierarzt hat der Hamster sich so gesträubt.
+Ich kann nicht glauben dass wir das Aquarium leer machen müssen.
+Der neue Hund ist noch ganz klein und unsicher überall.
+Warum schaut mich die Katze immer so komisch an?
+Wir suchen einen Hundesitter für nächste Woche bitte.
+Das Meerschweinchen frisst nur das Grünzeug vom Balkon.
+Mein Papagei macht jeden Morgen um fünf Uhr schon Lärm.
+Es ist schwer einen neuen Hund in den Alltag zu integrieren.
+Die Schildkröte braucht jetzt ein größeres Terrarium glaube ich.
+Ich habe Angst dass der alte Dackel bald nicht mehr rennen kann.
+Das Futter ist leider schon wieder alle und der Supermarkt zu.
+Der Hund bellt die ganze Nacht wenn es regnet draußen.
+Meine Nachbarin nimmt ab und zu unsere Katze mit nach Hause.
+Wir haben uns für eine neue Hunderasse entschieden aber welche?
+Das Goldfischchen schwimmt so traurig immer nur oben im Becken.
+Ist es eigentlich normal dass Kaninchen sich gegenseitig beißen?
+Ich vermiss unseren alten Hund immer noch sehr ehrlich gesagt.
+Der Tierarzt meint der Zahn wird raus müssen beim Kater.
+Wir haben die Wohnung tierfreundlich eingerichtet für den neuen Welpen.
+Die Katze hat wieder mal ein Giftköder verschluckt zum Glück.
+Mein Welli spricht schon zwei Wörter ganz klar übrigens.
+Es ist nicht einfach einen Hund in einer Mietwohnung zu halten.
+Das Kaninchen frisst so gern die Blätter von der Efeuhecke.
+Der Hund hat gestern Abend wieder unkontrolliert gebellt.
+Meine Katze schläft den ganzen Tag im warmen Sonnenstrahl.
+Wir müssen endlich mal die Krallen unseres Katers kürzen lassen.
+Das Kaninchen frisst nur das frische Gras vom Gartenzaun.
+Mein Fisch ist leider eingegangen, obwohl ich alles richtig gemacht habe.
+Der neue Welpen muss noch lernen, dass es kein Kauen gibt.
+Unser Papagei macht total viel Lärm am frühen Morgen.
+Ich vermissen meinen alten Hund so sehr, das Zimmer wirkt leer.
+Die Katze hat sich wieder auf die Decke gesetzt.
+Wir suchen jemanden, der über die Woche auf den Hamster aufpasst.
+Mein Retriever freut sich wahnsinnig, wenn ich nach Hause komme.
+Das Futter für die Vögel ist leider schon wieder alle.
+Unser Kater juckt sich ständig an der Ohrseite, da müssen wir hin.
+Mit dem Hund spazieren gehen macht mir einfach total viel Spaß.
+Die Schildkröte ist sehr langsam, aber sie kommt immer voran.
+Ich habe Angst, dass der Welpe im Auto würgt.
+Meine Meerschweinchen brauchen heute frisches Heu und Karotten.
+Der Tierarzt sagt, unser Hund ist leider etwas untergewichtig.
+Wir überlegen uns ernsthaft, ob wir noch ein zweites Haustier holen.
+Die Katze mag es nicht, wenn der Staubsauger läuft, sie versteckt sich.
+Mein Goldfisch schwimmt nur im oberen Bereich des Aquariums.
+Das Bürsten des Fell ist bei uns zur täglichen Routine geworden.
+Unser Tierchen hat heute schon wieder den ganzen Müll umgeworfen.
+Ich finde es wichtig, dass der Hund genügend Auslauf bekommt.
+Der Hund hat heute morgen im Bett gelutscht.
+Katzenfutter riecht einfach immer so streng in der Küche.
+Mein Kaninchen frisst nur die frischesten Kräuter vom Balkon.
+Die Goldfische sind nach zwei Jahren plötzlich gestorben.
+Ich kann nicht verstehen warum die Katze das Sofa kratzt.
+Hundeerziehung ist wirklich eine Geduldsprobe für jeden Halter.
+Der Vogel hat seinen Flügelschlag endlich etwas reduziert.
+Tierarztbesuche kosten immer ein Vermögen bei uns beiden.
+Mein Meerschweinchen braucht täglich viel Heu und frisches Gemüse.
+Die neue Katze versteckt sich noch überall in der Wohnung.
+Hundewanderungen am Wochenende entspannen mich total vom Stress.
+Kann mir jemand einen guten Tierpfleger für die Stadt empfehlen?
+Unser alter Hund läuft kaum noch wegen seiner Arthritis.
+Das Aquarium muss dringend mal wieder gründlich gereinigt werden.
+Die Katze hat gestern nacht das Fenster gekratzt um rein zu kommen.
+Ich traue mich nicht mehr meinen Welpen allein zu lassen.
+Vogelkäfige stauben so extrem dass ich ständig wischen muss.
+Mein Fisch ist vielleicht krank weil er unten liegt.
+Hundefutter wird immer teurer und man merkt es sofort.
+Die Katze schnarcht nachts richtig laut auf meinem Kopf.
+Ich vermisse meinen verstorbenen Hund wirklich sehr bis heute.
+Wellensittiche brauchen unbedingt Gesellschaft von einem Artgenoss.
+Der Hund bellt nur dann wenn er Hunger hat echt komisch.
+Katzenstreu wechseln ist wohl meine liebste Aufgabe im Haus.
+Mein Hamster rennt die ganze Nacht auf dem Rad rum.
+Meine Meerkatzenknäule sind total zappelig im Käfig.
+Der Hund hat heute wieder den ganzen Garten umgegraben.
+Kann jemand kurz meinen Kaninchen beißen, wenn ich wegbin?
+Die Schildkröte isst immer nur Gurke, sonst nichts.
+Wir überlegen uns gerade einen zweiten Hund anzuschaffen.
+Der Tierarztbesuch ist immer so eine nervige Angelegenheit.
+Mein Hamster läuft schon wieder die ganze Nacht im Rad.
+Das neue Nassfutter schmeckt dem Kater überhaupt nicht.
+Ich liebe es, wenn der Hund morgens an meiner Nase schnüffelt.
+Wo finde ich hier einen guten Hundefrisör?
+Die Papageien sind morgens richtig laut, das stresst mich.
+Mein alter Dackel läuft zwar nicht mehr so schnell.
+Wir suchen dringend jemanden, der den Fischfutter abfüllt.
+Der Hund hat sich mit dem Nachbarskater angefreundet.
+Tierarztrechnungen kommen wirklich auf die Nerven manchmal.
+Mein Kanarienvogel singt nur noch, wenn ich koche.
+Die Katze hat wieder ihr Haargeball im Blumentopf.
+Ich muss endlich den Vogelkäfig gründlich reinigen.
+Unser Hund verträgt sich nicht mit fremden Kindern.
+Wo gibt es hier guten Hundepfleger in der Nähe?
+Mein Meerschweinchen frisst wild entschlossen das Salatblatt.
+Der Tierarzt hat gesagt, er ist viel zu dick.
+Kannst du mal den Goldfisch aus dem Aquarium füttern?
+Ich bin traurig, weil mein Vogel gestorben ist.
+Die Katze kratzt wieder an der neuen Couch.
+Der Hund bellt schon wieder, wenn die Post kommt.
+Meine Katze schläft den ganzen Tag auf der Heizung.
+Das Trockenfutter ist leer, ich muss einkaufen gehen.
+Hoffentlich hat der Tierarzt morgen noch einen freien Termin.
+Unser Kaninchen frisst nur die grünen Blätter raus.
+Die Wellensittiche haben schon wieder ein Ei gelegt.
+Ich finde es schwer, den Hund abends zum Laufen zu bringen.
+Meine Meerkatze ist so klug, sie öffnet Türen selbstständig.
+Der Fisch ist tot, wer kann das jetzt noch sehen?
+Katzen sind wirklich sehr eigenwillig und stur in ihrer Art.
+Wir suchen einen zuverlässigen Pfleger für unsere beiden Hunde.
+Der Hund hat im Bett gemacht, ich bin am Ende der Nerven.
+Mein Pony mag mich total gern und kommt immer auf mich zu.
+Die Schildkröte braucht dringend neue UV-Lampen für ihr Terrarium.
+Hunde sind einfach die besten Freunde, das ist unbestritten.
+Meine Katze bringt mir abends totgejagte Mäuse ins Zimmer.
+Das Vogelkäfigrohr ist wieder kaputtgegangen durch das Grollen.
+Ich vermisse meinen alten Hund schon sehr zutiefst heute.
+Die Hamster haben sich nachts total laut am Rad geschlagen.
+Unser Dackel hat sein Lieblingskissen heute wieder zerfleischt.
+Tierarztbesuche kosten immer mehr Geld als ich eingeplant habe.
+Die Papageien sind so laut, die Nachbarn könnten sich beschweren.
+Mein Hund verläuft sich gerne im Wald ohne Leine leider.
+Wir müssen uns noch um eine neue Decke kümmern.
+Der Igel muss draußen bleiben, wenn es warm genug ist.
+Kannst du mal kurz unser Meerschweinchen füttern, bitte?
+Unsere Katze schläft lieber im Karton als im neuen Bett.
+Tierarztrechnungen sind immer wieder eine böse Überraschung für mich.
+Ich hasse es, wenn der Hund auf dem Sofa schart.
+Das Meerschweinchen frisst gar kein Grünzeug mehr leider.
+Woran merkt man eigentlich, ob der Hamster krank ist?
+Mein Goldfisch schwimmt irgendwie sehr seltsam seit gestern.
+Die neuen Welpen sind total anstrengend am ersten Tag.
+Wir suchen jemanden, der unsere Schildkröte im August hütet.
+Der Hund bellt den ganzen Morgen lang gegen die Postbotin.
+Katzenhaare kleben überall an meiner schwarzen Jacke fest.
+Ich traue mich nicht, dem Kaninchen seine Krallen zu trimmen.
+Das Futter für den Dackel wurde schon wieder teurer.
+Mein Papagei schreit um sechs Uhr morgens wie verrückt.
+Wir überlegen, ob wir noch ein zweites Haustier holen.
+Der Hund hat heute Nacht die ganze Zeit geheult.
+Ich kann den Tierarzttermin erst nächste Woche bekommen.
+Unsere Katze versteckt sich immer, wenn Freunde zu Besuch kommen.
+Das Aquarium muss dringend gereinigt werden, es sieht schmutzig aus.
+Warum frisst der neue Welpe sein Futter nur so wenig?
+Ich bin froh, dass der Hund endlich ruhig liegt.
+Die Vogelkäfige sind zum Säubern wirklich aufwendig zu reinigen.
+Mein alter Kater ist immer schläfriger geworden im Alter.
+Wir haben vergessen, die Katzentoilette rechtzeitig zu leeren.
+Der Hund zieht so stark an der Leine spazieren.
+Mein Hund bellt nachts immer, wenn es donnert.
+Die Katze sitzt schon wieder auf der Tastatur.
+Ich muss dringend Futter für die Wellis kaufen.
+Gestern hat uns der Tierarzt eine Rechnung geschickt.
+Der Kaninchenkafig ist echt schwer zu reinigen.
+Meine Meerschweinchen brauchen mehr Heu als gedacht.
+Der Hund bringt mir jeden Tag einen Ball herbei.
+Kann jemand kurz auf unsere Katze aufpassen?
+Ich liebe es, wenn der Hund an der Tür wartet.
+Das Aquarium muss endlich einmal gründlich gescheuert werden.
+Mein Papagei schreit morgens total laut aus dem Nichts.
+Die Katze hat wieder ein Blatt vom Zimmeressen gefressen.
+Hundeerziehung braucht wirklich viel Geduld und Konsequenz.
+Ich vermisse meinen alten Hund immer noch sehr.
+Der neue Welpenbedarf war diese Woche extrem teuer.
+Meine Schildkröte frisst plötzlich garn nichts mehr davon.
+Wir überlegen uns, ob wir doch einen Fisch tank einrichten sollen.
+Der Hund hat sich beim Spielplatz wieder verlaufen.
+Katzensand muss man eigentlich jede Woche komplett tauschen.
+Mein Pferd ist nach dem Reiten immer ganz entspannt.
+Ich kaufe heute Abend frisches Hühnerfleisch für die Katze.
+Der Tierarzt findet das Herzrhythmus des Hundes normal.
+Unsere Schildkröte brütet jetzt wahrscheinlich ihre Eier aus.
+Hundewanderungen am Wochenende sind mein absolutes Highlight.
+Die Maus in ihrem Volier ist super neugierig geworden.
+Ich habe Angst, dass der Hund den Garten zerstört.
+Der Hund hat nachts so wild gegackert dass alle wach wurden.
+Meine Katze sitzt schon stundenlang auf der Fensterbank.
+Ich habe vergessen dem Kaninchen frisches Grünzeug hinzulegen.
+Die Fische schwimmen immer wenn man mit der Hand klatscht.
+Wir suchen jetzt verzweifelt einen Babysitter für unsere Hunde.
+Mein Meerschweinchen piepst so laut dass es nervig ist.
+Die Tierarztrechnung hat mich dieses Mal echt erschüttert.
+Unser Hund bellt jeden Paketboten an wie sonstwas.
+Ich finde es schade dass die Katze nur noch trinkt.
+Wir müssen dringend den Katzenklo ausmachen stinkt ja schrecklich.
+Der Papagei hat mir gerade das Wort Mama nachgesagt.
+Mein alter Dackel kann nicht mehr so gut laufen.
+Das Aquarium ist schon wieder total zu mit Algen.
+Ich hoffe dass der neue Hund sich schnell einlebt.
+Die Hamsterkugel läuft die ganze Nacht im Zimmer rum.
+Wir haben heute zum ersten Mal den Welpen beim Bellen erwischt.
+Meine Katze hat leider keine Lust auf das neue Futter.
+Der Tierarzt sagte es sei ganz normal bei so jungen Tieren.
+Unser Hund trägt immer noch alles was liegt im Maul.
+Ich frage mich ob ich wirklich Zeit für einen Vogel habe.
+Das Kaninchen hat sich schon wieder in die Ecken verkriecht.
+Mein Frettchen ist ein absoluter Chaosagent in der Wohnung.
+Wir müssen morgen früh den Hund zur Impfung bringen.
+Die Katze kratzt jetzt nur noch an der neuen Matte.
+Es tut mir leid dass wir das Tierheim nicht besuchen konnten.
+Meiner Katze fällt immer wieder alles von der Fensterbank.
+Der Hund bellt schon seit drei Minuten an die leere Straße.
+Ich muss dringend mal die Katzentoilette reinigen, stinkt ja.
+Unser neues Kaninchen versteckt sich noch total viel vor uns.
+Das Goldfischfutter ist leider schon zwei Tage alt und staubig.
+Mein Hund verträgt den neuen Hundewanderer gar nicht so gut.
+Die Katze hat wieder nachts um drei geknurrert im Bett.
+Wir suchen jemanden, der unsere Meerschweinchen mit ins Hotel nimmt.
+Der Tierarzt sagt, die Katze ist einfach nur zu dick geworden.
+Mein Papagei schreit morgens pünktlich um sechs Uhr los.
+Ich finde es immer blöd, dem Hund das Futter aus der Pfanne zu geben.
+Die Katze kratzt seit gestern wieder am neuen Sofa rum.
+Unser alter Meier hat leider heute Nacht ruhig eingeschlafen.
+Mein Welli putzt sich schon den ganzen Vormittag nur die Federn.
+Ich traue mich nicht, dem neuen Kätzchen zu nahetreten noch.
+Der Hund hat beim Spaziergang wieder jeden anderen Hund abgeleckt.
+Die Vogelvogel ist schon weggeflogen, der Käfigstand offen gelassen wurde.
+Wir überlegen uns gerade, ob wir wirklich ein weiteres Haustier brauchen.
+Meiner Katze fehlt seit dem Umzug irgendwie ihre alte Decke.
+Der Hund frisst alles auf, was er auf der Straße sieht echt gruselig.
+Ich muss nächste Woche zum Impftermin für den Labrador hin.
+Die Meerschweinchen pfeifen immer, wenn ich das Futtersack knistern höre.
+Mein Goldfisch hat eine seltsame Blase am Auge entwickelt heute.
+Wir streiten uns ständig, wer eigentlich jetzt den Hund ausführen muss.
+Mein Hund bellt jede Nacht wieder vor der Tür.
+Die Katze hat sich ein neues Kratzbaum gefunden.
+Futter umstellen dauert beim Hund echt lange Geduld.
+Unser Meerschweinchen frisst lieber das neue Heu.
+Beim Tierarzt musste ich heute extra frei nehmen.
+Der Vogel sitzt nur noch auf dem Arm, cool.
+Ich muss mal endlich den Katzenklo reinigen.
+Hundeschule war gestern abend wirklich anstrengend aber gut.
+Meine Schildkröte wächst schneller als erwartet eigentlich.
+Jemand kommt heute Nachmittag mit dem Hund spazieren gehen.
+Das Aquarium ist schon wieder ganz grün geworden.
+Katzenbabys sind zwar süß aber auch wahnsinnig laut.
+Wir suchen dringend einen Babysitter für unseren Goldfisch.
+Der Hund braucht dringend eine neue Leine kaufen.
+Unser Papagei spricht jetzt schon hallo und tschüss.
+Tierarztbesuche nerven mich immer wieder aufs Neue wirklich.
+Mein Hamster baut das ganze Rad um die Ecke.
+Ich liebe es wenn der Hund abends auf dem Sofa liegt.
+Katzenfutter ist heute Abend mal wieder zur Neige gegangen.
+Der Hund hat im Garten wieder ein Loch gegraben.
+Unser Kaninchen frisst keine Karotten mehr nur noch Obst.
+Ich vermisste meinen alten Hund schon sehr stark jetzt.
+Neue Spielzeuge für die Katze liegen schon im Karton.
+Vogelkäfig reinigen ist echt nervig mit dem Stäuben.
+Meiner hat nachts wieder so laut gegrollt.
+Die neue Fellbürste ist ihr gar nicht geheuer.
+Futterautomat kaufen oder doch lieber selbst abfüllen?
+Er bringt immer noch keine Pfötchen, ehrlich gesagt.
+Katzenstreu wechseln ist mein absolute Lieblingsbeschäftigung, ironisch meant.
+Mein Kaninchen frisst nur das grüne Kraut von der Wiese.
+Der Tierarzttermin muss unbedingt verschoben werden heute.
+Sie hat das Sofa komplett zerstört, ich bin sprachlos.
+Fische pflegen klingt einfacher als es in Wahrheit ist.
+Wir überlegen uns ernsthaft einen zweiten Hund anzuschaffen.
+Das Maulkorbtragen wird wohl nie wirklich normal für ihn.
+Im Stall riecht es gerade wieder nach altem Heu.
+Meine Schildkröte versteckt sich schon die ganze Woche weg.
+Wer hat eigentlich diese Vogelkennel im Garten aufgestellt?
+Die Welpen sind einfach zu laut für unsere Nachbarn.
+Ich muss dringend mehr Beutetiere für den Hamster kaufen.
+Sein Halsband ist viel zu locker, das passt nicht.
+Wir haben gestern Abend noch über die Namen diskutiert.
+Das neue Spielzeug landet sofort in der Schublade wieder.
+Meiner schläft jetzt schon auf meinem Bein bei mir.
+Die Impfung war diesmal echt schnell abgewickelt beim Arzt.
+Ich vermisse unsere lange Spaziergänge im Wald sehr.
+Warum schreit mein Papagei immer nur um sieben Uhr?
+Der neue Hundemantel hält leider überhaupt keinen Wind.
+Sie kratzt schon wieder an der Wohnungstür herum.
+Der Hund jault schon wieder, wenn ich den Schlüssel greife.
+Meine Katze schläft lieber im Karton als im teuren Körbchen.
+Wir haben gestern neue Welpen bekommen, die sind so niedlich.
+Ich muss dringend zum Tierarzt, weil der Hamster nicht frisst.
+Der Fischbecken ist wieder komplett veralgert und sieht grausam aus.
+Mein Kaninchen nagt an der Fußleiste, ich weiß echt nicht weiter.
+Das Futter ist leider schon wieder leer, ich muss gleich einkaufen.
+Unser Hund braucht unbedingt mehr Auslauf, er wird ganz unruhig.
+Die Katze hat ihr Fell extrem verschluckt, jetzt muss sie zum Arzt.
+Ich vermisse meinen alten Dackel so sehr, das Haus wirkt leer.
+Meine Schildkröte ist endlich aus dem Winterschlaf erwacht und aktiv.
+Wir überlegen uns langsam ein zweites Haustier, aber wir sind skeptisch.
+Die Katze krallt sich ins Sofa, obwohl wir ihr einen Kratzbaum gekauft haben.
+Der Hund hat beim Spaziergang wieder mal alles angepisst, peinlich halt.
+Ich habe vergessen, die Vogelkugel zu reinigen, jetzt ist sie dreckig.
+Mein Frettchen entkommt schon wieder aus dem Gehege, das Ding ist flink.
+Die neuen Meerschweinchen sind noch ganz scheu und verstecken sich ständig.
+Ich muss den Aquariumfilter wechseln, sonst stirbt der Goldfisch bestimmt.
+Die Katze bring mir immer tote Mäuse, obwohl sie doch gesättigt ist.
+Ich finde es so traurig, wenn Tierheime voll sind und keine Plätze mehr.
+Mein Hund versteht endlich das Kommen, wenn man ihn ruft, toll.
+Der Wellensittich pfeift mein Lieblingssong nach, er hat gut zugehört.
+Ich muss die Krallen der Katze schneiden, sonst kratzt sie wieder alles an.
+Meine Katze schläft seit stunden auf meiner Tastatur.
+Das Hamsterpellet ist schon wieder im ganzen Zimmer verteilt.
+Wir haben uns für ein Goldfischchen entschieden, weil es pflegeleicht ist.
+Der Tierarzt hat gesagt, dass Mimi bald geimpft werden muss.
+Mein Papagei pfeift die Melodie vom letzten Lied nach.
+Ich finde den Welpen so niedlich, er beißt aber auch kräftig zu.
+Die Katze hat gestern Nacht wieder die Vase runtergeschmissen.
+Futter umstellen ist schwer, weil der Hund nur das Gewohnte frisst.
+Mein Kaninchen nascht gerade lustig an einem Karottenblatt.
+Es tut so weh, dass wir unseren alten Bullen Abschied nehmen müssen.
+Der Hund bellt jedes Mal, wenn die Post kommt, nervt total.
+Ich muss heute noch die Katzentoilette putzen, echt eklig.
+Mein Meerschweinchen ist ziemlich scheu und versteckt sich immer.
+Die Erziehung des Welpen kostet uns jede Menge Geduld und Zeit.
+Wir überlegen ernsthaft, ob wir noch ein zweites Tier anschaffen sollen.
+Der Hund hat beim Gassi gehen wieder jeden Stock angeschnüffelt.
+Meine Katze bringt mir tote Mäuse als Geschenk mit nach Hause.
+Die Vogelkäfigreinigung ist jede Woche ein langweiliger Ritualakt.
+Ich vergesse manchmal, dass der Fisch auch mal gefüttert werden muss.
+Der Hund trödstet die ganze Nacht, weil er uns vermisst hat.
+Meine Katze mag den neuen Kratzbaum überhaupt nicht, stinkt doch.
+Wir suchen jemanden, der unsere Tiere während unserer Reise hütet.
+Das Futter für den Hund wird immer teurer, das nervt mich.
+Mein Wellensittich sitzt traurig unten im Käfig und pickt nichts an.
+Meine Katze schläft seit drei Stunden auf dem Sofa.
+Der Hund jault immer wenn ich die Wohnung verlasse.
+Ich muss dringend noch Mal zum Tierarzt gehen.
+Fischfutter ist so teuer geworden in letzter Zeit.
+Unser Kaninchen frisst gar keine Möhren mehr jetzt.
+Die Meerschweinchen brauchen täglich frisches Gras vom Hof.
+Meine Papageien sind am frühen Morgen total laut.
+Wir haben vor dem Urlaub schon alles verplant wegen des Hundes.
+Die Katze hat sich mit ihrem Fell ins Gesicht gewickelt.
+Warum schreit unser Hamster immer wenn ich ihn putze?
+Ich vermisse unseren alten Hund so sehr im Alltag.
+Der neue Welpen muss erst noch Stuben training lernen.
+Meine Schildkröte ist gerade am Ufer und ruht sich aus.
+Wir überlegen ob wir noch einen zweiten Fisch zukaufen.
+Das Verhalten des Hundes war bei der Kontrolle super.
+Ich hasse es wenn mir die Katze nachts auf den Bauch steigt.
+Unser Vogel hat schon wieder Federn im ganzen Zimmer verteilt.
+Tierarztbesuche kosten leider jedes Mal so viel Geld.
+Wir suchen jemanden der ab und zu mit dem Hund spaziert.
+Mein Kaninchen beißt mich immer wenn ich es hochheben will.
+Die Futterbox muss heute wieder sauber gemacht werden.
+Ich freue mich schon auf die Rückkehr unserer Tiere.
+Unser Dackel hat den ganzen Tag nur auf dem Bett gelegen.
+Warum schaut der Hund immer so traurig aus beim Gehen?
+Der Hund bellt wieder den ganzen Tag an die Postfrau.
+Meine Katze sitzt nur auf dem warmen Laptop, nichts helps.
+Das Fischfutter ist schon wieder alle, schrecklich am Wochenende.
+Beim Tierarzt hat der Hamster doch nur Stress gehabt.
+Ich weiß nicht, ob ich das Kaninchen noch allein lassen kann.
+Der Vogel pflanzt sich so schnell fort, wo sollen die hin?
+Der Hund hat den ganzen Rasen im Garten zugemacht.
+Tierarztbesuch war extrem teuer, da muss ich sparen.
+Die neuen Jungkätzchen sind so laut nachts um drei.
+Ich vermisse meinen alten Retterhund wirklich schon sehr.
+Das Meerschweinchen frisst nur das Grünzeug vom Balkon.
+Hundetraining kostet mehr als gedacht, aber es lohnt sich.
+Meine Katze bringt mir tote Mäuse ins Bett, eklig.
+Der Wellensittich pickt ständig an den Fensterrahmen.
+Wir überlegen uns, ob wir noch ein zweites Haustier nehmen.
+Das Futter für die Meerschweinchen riecht total streng heute.
+Katzen haben es echt gut bei uns im warmen Haus.
+Ich habe Angst, dass der alte Hund Schmerzen hat.
+Die Vögel brauchen jeden Abend frisches Wasser und Sämereien.
+Mein Wellensittich macht morgens so viel Lärm, nörgelnd.
+Hundewanderungen am Wochenende entspannen mich total vom Stress.
+Das Kaninchen hat gerade wieder alles in der Ecke gelockert.
+Tierarzttermin war glücklicherweise nur eine kurze Impfung.
+Hast du schon mal versucht deinen Hund abzurufen?
+Kann jemand kurz mal auf den Hamster aufpassen?
+Meine Nadelöhre haben heute wieder das ganze Zimmer geplündert.
+Der neue Welpenkurs ist wirklich anstrengend für alle Beteiligten.
+Ich suche verzweifelt nach einem Ersatz für das kaputte Aquarium.
+Kannst du heute Abend mal kurz den Hamster füttern?
+Mein Goldfisch schwimmt schon seit Tagen nur noch am Grund.
+Die Katze kratzt trotz Kratzbaum immer wieder an der Couch.
+Tierarztbesuche bei Vögeln sind total schwierig und teuer.
+Wir überlegen gerade, ob wir einen weiteren Hund aufnehmen.
+Mein Kaninchen frisst unglaublich viel Heu am Tag.
+Das neue Trockenfutter scheint dem Bullen überhaupt nicht zu schmecken.
+Ich habe Angst, dass der Hund das Paket abknabert.
+Wer übernimmt die Pflege meiner Meerschweinchen während der Reise?
+Der Papagei im Nachbarhaus schreit morgens total unangenehm laut.
+Mein alter Kater schläft jetzt fast nur noch den ganzen Tag.
+Es ist schwer, den Hund zu entwöhnen, wenn er bellt.
+Die Schildkröte legt diesen Winter ihre Ruhephase ein.
+Ich kann kaum glauben, wie viel Kot der Hund produziert.
+Unser Meerschweinchen hat leider eine schwere Atemwegsinfektion bekommen.
+Der Tierpfleger war heute pünktlich mit dem neuen Stroh.
+Meine Katze bringt uns jeden Abend tote Mäuse ins Haus.
+Wir müssen dringend das Katzenklo reinigen, stinkt sonst extrem.
+Das Hamsterlaufrad ist wieder ganz kaputtgegangen durch den Gebrauch.
+Ich vermisste meinen alten Hund einfach unglaublich stark.
+Der neue Welli macht schon Fortschritte beim Nicken mit dem Kopf.
+Kann mir jemand empfehlen, wo man gutes Tierfutter kauft?
+Der Hund bellt schon wieder an der Tür.
+Meine Katze schläft den ganzen Tag über.
+Ich muss endlich das Fischbecken reinigen.
+Das Kaninchen frisst keine neuen Gemüse mehr.
+Woher bekommt ihr euer Hundefutter eigentlich?
+Die Papageien sind heute besonders laut im Käfig.
+Beim Tierarzt war die Untersuchung recht teuer.
+Mein Hund bringt mir jeden Ball zurück.
+Die Katze kratzt leider an der Tapete rum.
+Ich vermissen meinen alten Meerschweinchen sehr.
+Hat jemand Tipps für Welpenerziehung zu Hause?
+Der Vogel fliegt nicht gerne auf den Arm.
+Unser Hund hat heute im Matsch gespielt.
+Ich suche nach einer guten Katzensitterin für nächste Woche.
+Das Hamster Rad läuft seit gestern nicht mehr richtig.
+Meine Schildkröte frisst nur Wasserpflanzen und nichts anderes.
+Der Tierarzt sagte, der Hund sei übergewichtig geworden.
+Wir überlegen ernsthaft uns ein zweites Haustier zuzulegen.
+Die Katze hat den ganzen Korb umgestoßen heute Nacht.
+Ich brauche dringend Rat wegen des Federhaars meines Kaninchens.
+Mein Welli lernt langsam sein eigenes Namen zu sagen.
+Der Hund trinkt einfach kein Wasser aus dem Napf mehr.
+Habt ihr eine Empfehlung für allergiefreies Katzenfutter?
+Das Meerwasseraquarium braucht jetzt einen neuen Filter eingebaut.
+Der Hund liegt seit zwei Stunden in der Sonne und schnarcht.
+Unsere Katze bringt abends immer wieder Mäuse ins Haus.
+Das neue Hundefutter hat gar nicht gut bei unserem Retriever angekommen.
+Ich muss heute unbedingt die Katzentoilette reinigen, stinkt ja zum Kotzen.
+Unser Goldfisch ist leider plötzlich gestorben, das ist mir sehr leid.
+Der Tierarzt sagt, der Hund braucht jetzt mehr Bewegung.
+Die Papageien werden so laut am Morgen, ich kann nicht schlafen.
+Habt ihr einen Tipp gegen die Zecken im Sommer?
+Meine Nager brauchen dringend neues Sägemehl für ihren Käfig.
+Der Hund hat beim Spaziergang heute wieder alles angebellt.
+Warum frisst die Katze nur das Futter von meinem Freund?
+Ich vermisse meinen alten Hund schon sehr, es ist schwer.
+Die Vögel im Aquarium sind wirklich friedlich zusammenherumgeschwommen.
+Hast du schon mal einen Chinchilla gehabt, der ist so flauschig.
+Der Hundemantel für den Winter ist endlich in der Wasche.
+Unsere Meerschweinchen scheuen sich nicht mehr vor neuen Geräuschen.
+Ich muss mal überlegen, ob ich noch ein Haustier zugeben soll.
+Die Katze kratzt am neuen Sofa, trotz Kratzbaum.
+Unser Hund lernt gerade Sit und Bleib im Garten.
+Fischfutter gibt es heute leider nur in der Drogerie.
+Der Wellensittich fliegt immer wieder gegen die Glasscheibe.
+Ich bin stolz darauf, dass der Hund jetzt ohne Leine bleibt.
+Kann jemand heute mal meinen Hamster füttern, ich bin krank.
+Die Schildkröte braucht unbedingt ein größeres Terrarium bald.
+Mein Kaninchen frisst gerade wieder alle Blumentöpfe im Zimmer.
+Der Hamster ist nachts wieder wild umher gerannt.
+Ich vermisse unseren alten Labrador einfach unglaublich sehr.
+Hat jemand einen Tipp gegen Haarausfall bei der Katze?
+Mein Goldfisch schwimmt gerade traurig an der Wasseroberfläche rum.
+Die Erziehung des Welpen kostet mich schon die Nerven.
+Wir brauchen dringend eine neue Decke für den Hundekorb.
+Der Papagei schreit morgens um fünf Uhr pünktlich los.
+Ich finde Kaninchen sind super ruhig als Wohnungstiere geeignet.
+Beim letzten Checkup hatte die Katze wieder zu viel Gewicht.
+Mein Neffe möchte unbedingt ein Meerschweinchen zum Geburtstag haben.
+Das Futter vom Tierarzt ist deutlich günstiger als gedacht gewesen.
+Die Schildkröte versteckt sich immer wenn ich durchs Zimmer gehe.
+Wir überlegen uns grad ob wir doch einen Hund nehmen sollen.
+Meine Tochter hat das Kaninchen ganz zärtlich im Arm gehalten.
+Der neue Hundekönig ist schon wieder in die Vase geklettert.
+Ich muss den Vogelkäfig endlich einmal gründlich auswaschen.
+Es ist schwer allein auf drei Katzen und zwei Hunde aufzupassen.
+Mein Pony hat sich leider am Bein verletzt beim Reiten.
+Der Tierarzt war heute sehr geduldig mit dem nervösen Hund.
+Ich liebe es wenn die Katze morgens schnurrend neben mir liegt.
+Unser Schildkrötenbecken muss dringend gereinigt und gewartet werden.
+Die neuen Welpen sind einfach zu niedig zum Ansehen wirklich.
+Mein Kanarienvogel singt heute besonders schön und fröhlich laut.
+Wir suchen jemanden der im Urlaub auf den Hund aufpasst bitte.
+Das neue Spielzeug für die Katze wurde sofort ignoriert von ihr.
+Mein Hund zieht am Gurt bis ich fast umfalle.
+Die Katze schläft den ganzen Tag auf der Heizung.
+Tierarztbesuch für die Impfung ist nächste Woche geplant.
+Ich muss sofort den Katzenkeller reinigen, das stinkt schrecklich.
+Der Welli hat mir heute Guten Morgen zugeflüstert.
+Mein Fisch stirbt langsam weil ich zu viel Futter gebe.
+Hundeerziehung kostet mehr Zeit als man denkt echt schwer.
+Die Meerschweinchen brauchen jeden Abend frisches Gras aus dem Garten.
+Warum schreit mein Hund nachts immer in die Decke?
+Neues Hundefutter gekauft aber er knurrt nur und isst nicht.
+Der Tierarzt hat gesagt der Hund muss unbedingt abnehmen.
+Meine Katze bringt mir tote Mäuse ins Schlafzimmer total eklig.
+Vogelkäfig reinigen ist immer so eine langweilige Chorea für mich.
+Im Sommer muss man auf den Wasserversorgung beim Hamster achten.
+Mein alter Dackel hat kaum noch Energie zum Spazieren gehen.
+Hundeführerschein machen? Wer hat dazu eigentlich wirklich Zeit und Geld.
+Die Katze kratzt wieder mal an der neuen Gardine am Fenster.
+Wellensittiche brüten gerade in meinem Zimmer, das ist so laut.
+Fische füttern vergessen im Urlaub bedeutet wahrscheinlich Stress für sie.
+Mein Kaninchen nascht heimlich an den Kabeln unter dem Sofa.
+Hundewarte suchen während ich für eine Woche auf Geschäftsreise bin.
+Katzenstreu wechseln ist meine absolute Lieblingsbeschäftigung, oder vielleicht auch nicht.
+Der Tierarzt war heute sehr freundlich trotz der hohen Rechnung.
+Hunde brauchen nach dem Regen unbedingt ein gründliches Abtrocknen am ganzen Körper.
+Meine Kaninchen fressen nur das frische Gras vom Balkon.
+Der Hund bellt wieder, weil die Post hereinkommt.
+Ich hasse es, wenn ich den Katzenstreu wechseln muss.
+Unsere Schildkröte schläft schon seit zwei Tagen nicht mehr.
+Hast du zufällig noch Hundefutter für meine Fellnasen übrig?
+Die Tauben am Fenster nerven mich langsam wirklich gehörig.
+Mein Fisch ist leider gestorben, trotz aller Pflege.
+Der Tierarzt hat gesagt, der Hund muss abnehmen.
+Wir überlegen uns, ob wir doch eine Meerschweinchen holen.
+Katzen sind so eigenständig, man muss sie nicht erziehen.
+Mein Goldhamster ist gestern Nacht aus dem Käfig ausgebrochen.
+Die neuen Pfötlinge für den Winter sind schon wieder voll.
+Ich vermisse meinen alten Hund so sehr an jedem Abend.
+Der Papagei hat das Badewasser komplett verschmutzt, echt nervig.
+Hunde brauchen einfach viel mehr Zeit als kleine Nagetiere.
+Meine Katze legt sich immer auf meine Tastatur beim Arbeiten.
+Wir haben vergessen, die Vögel zu füttern, Gott sei Dank sind sie noch da.
+Der Nachbar hat eine Riesenschildkröte, die sieht aus wie ein Dinosaurier.
+Futterkosten für drei Hunde und zwei Katzen summieren sich schnell.
+Mein Frettchen stiehlt jeden kleinen Gegenstand, den es finden kann.
+Die Hundeschule war eine Investition, die sich total gelohnt hat.
+Katzenjassen ist ein Spiel, bei dem man nie gewinnt gegen meinen Kater.
+Der Vogelkäfig muss dringend gereinigt werden, es stinkt schon.
+Ich hoffe, der neue Welpe passt zu unserem Familienleben.
+Meine Schnecken haben die Blätter im Aquarium komplett aufgefressen.
+Der Hund hat heute wieder im Topf gemacht.
+Meine Katze schläft den ganzen Tag nur rum.
+Ich muss dringend noch Mehl für die Wellis kaufen.
+Das Aquarium sieht schon etwas trüb aus lately.
+Unser Goldhamster ist gestern leider verstorben, schade.
+Der Tierarzt sagte, er braucht weniger Bewegung.
+Warum frisst der Hund sein Futter immer erst am Ende?
+Die Katze hat mir ein neues T-Shirt gerissen.
+Ich vergesse dauernd den Fisch zu füttern.
+Mit dem Welpen spazieren gehen ist anstrengender als gedacht.
+Mein Papagei pfeift heute Morgen schon wieder laut.
+Das Kaninchen beißt, wenn man es am falschen Platz anfassen.
+Haben wir noch genug Trockenfutter für die Woche?
+Der Hund bellt die ganze Nacht auf jeden Lärm.
+Ich muss die Katzentoilette endlich mal gründlich reinigen.
+Unsere Schildkröte ist aus ihrem Gehege entsprungen.
+Die Vögel singen heute besonders schön im Käfig.
+Mein Meerschweinchen wirkt etwas matschig, soll das normal sein?
+Der Hund hat den ganzen Garten umgraben müssen.
+Ich liebe meine Tiere so sehr, aber sie machen Stress.
+Das neue Hundefutter scheint ihm nicht zu schmecken.
+Warum kratzt die Katze immer an der Tür?
+Mein Hund trauert noch immer um seinen Artgenossen.
+Die Schnecke auf der Fensterbank ist ein schönes Detail.
+Ich bin so müde vom ganzen Tierarzt-Run im Monat.
+Meine Katze schläft seit Stunden auf meiner Tastatur.
+Hast du eigentlich schon mal nach dem Hundekot geguckt?
+Der neue Hamster braucht dringend ein größeres Rad.
+Kannst du kurz die Vögel im Vogelkäfig füttern?
+Mein Goldfisch schwimmt immer langsamer als früher.
+Wir müssen morgen früh zum Tierarzt für die Impfung.
+Der Nachbarshund hat wieder unsere Mülltonne umgestoßen.
+Ich liebe es, wenn die Katze schnurrt.
+Unser Meerschweinchen frisst keine Möhren mehr.
+Hast du den Hund schon ausgeführt heute Abend?
+Die Pflege der Kaninchen ist gar nicht so einfach.
+Mein alter Vogel ist leider gestern verstorben.
+Kaufe bitte neues Futter für die Katzentoilette mit.
+Der Welpe lernt gerade, auf die Glocke zu klopfen.
+Ich habe keine Lust mehr auf den Tiergarten.
+Unser Pudel ist total stolz auf seinen neuen Mantel.
+Wer kümmert sich um das Aquarium am Wochenende?
+Mein Papagei hat meinen Namen jetzt perfekt im Kopf.
+Es nervt mich, wenn Katzen überall Haare hinterlassen.
+Wir suchen jemanden, der kurz auf den Hund schaut.
+Der Fischeinsatz war dieses Mal echt günstig.
+Mein Kaninchen macht seltsame Geräusche nachts.
+Kann man mit dem Hund auch in diesen Park gehen?
+Die Tierärztin hat gesagt, er ist zu dick.
+Ich vermisse meinen alten Hund schon sehr stark.
+Der Hund bellt morgens um fünf schon wieder wie verrückt.
+Katzensand im Schuh ist das absolute Horrorerlebnis für jeden Besitzer.
+Mein Kanarienvogel hat heute gar nicht mehr gesungen, das finde ich suspekt.
+Die Fische in unserem Teich sehen gerade unglaublich gesund und bunt aus.
+Wir müssen am Wochenende endlich wieder zum Tierarzt wegen der Impfung.
+Meine Meerschweinchen brauchen täglich frisches Grünzeug, sonst sind sie krank.
+Der neue Welpe haut nachts nicht durch, wir haben Glück gehabt.
+Die Katze sitzt stundenlang einfach nur auf der Heizung und hechelt.
+Ich hasse es, wenn der Hund im Gras sein Geschäft erledigt.
+Unser Welli hat das Wort Hallo heute zum ersten Mal gesagt.
+Das Hundefutter war mal wieder viel zu teuer bei dem Discounter.
+Die Schildkröte ist plötzlich aus ihrem Terrarium entsprungen und fehlt.
+Meine Nager machen nachts so ein seltsames knurrendes Geräusch.
+Der Tierarzt meinte, mein Hund hat zu viel Gewicht verloren.
+Wir überlegen ernsthaft, ob wir noch ein zweites Haustier annehmen.
+Die Katze kratzt jetzt schon wieder an der neuen Couch zum Kotzen.
+Mein Goldfisch schwimmt seit gestern nur noch mit dem Kopf nach oben.
+Hundeausbildung ist wirklich eine Geduldsprobe für jeden Anfänger.
+Ich vermisse meinen alten Hund immer noch extrem in leeren Momenten.
+Der Hamster hat sein Laufrad komplett aus dem Gelenk gerissen gestern.
+Unsere Katze bringt uns regelmäßig tote Mäuse als Geschenk vor die Tür.
+Das Reptil braucht unbedingt eine neue Glühbirne für seine Wärmelampe.
+Mein Papagei beißt mir immer ins Ohr, wenn er gestreichelt werden will.
+Der Tiertransport war ein echtes Nervenloch für alle Beteiligten daheim.
+Unser Hund rennt immer gegen die Wand wenn wir ins Auto steigen.
+Die Katze miaut nachts um drei Uhr wieder zum Fressen.
+Ich finde Vogelkäfige irgendwie tierquälerisch, aber jeder hat halt seine Meinung.
+Mein Goldfisch ist schon wieder tot weil ich den Filter vergessen habe.
+Der neue Hund vom Nachbarn bellt stundenlang und nervt mich total.
+Wir überlegen uns gerade ob wir noch eine zweite Katze holen sollen.
+Tierarztbesuche kosten heutzutage wirklich ein Vermögen, das stimmt leider.
+Mein Kaninchen frisst alles was es erreichen kann einschließlich Teppichkanten.
+Ich vermisse meinen alten Hund so sehr dass ich immer weine.
+Kann mir jemand empfehlen welches Futter für einen Labrador gut ist?
+Mein Papagei hat gestern unseren Vornamen ganz klar gesagt.
+Der Hundekot muss leider jedes Mal selbst eingesammelt werden, da bin ich nicht begeistert.
+Unsere Katze schläft nur noch im Schlafzimmer und lässt uns nie rein.
+Fische pflegen ist eigentlich entspannter als man denkt wenn man es richtig macht.
+Ich habe Angst dass der neue Welpe unser Sofa zerkaut wenn wir weg sind.
+Der Tierarzt sagt er muss unbedingt noch einmal operiert werden, das frustriert mich.
+Meine Mutter will unbedingt einen Vogel obwohl sie ständig verreist ist.
+Wir suchen jemanden der uns im August die Katzen füttern kann.
+Das Aquarium sieht super aus aber der Algenbewuchs nervt mich schon.
+Unser Hund bellt immer wenn die Paketbotschaft kommt, das ist so typisch.
+Ich traue mich nicht mehr allein mit dem Hund spazieren zu gehen.
+Die Katze bringt uns leider immer wieder tote Mäuse ins Bett.
+Mein Neffe hat gerade seinen ersten Hamster bekommen und ist total stolz.
+Wir sollten vielleicht endlich mal zum Hundeerziehungskurs gehen um das Bellen abzustellen.
+Der Hund bellt wieder mal um jede kleine Lautstärke.
+Meine Katze schreit nachts nur rum weil sie Hunger hat.
+Ich hab keine Ahnung welches Futter dem Kaninchen wirklich schmeckt.
+Beim Tierarzt muss ich morgen mit der Meise hin, ihr fliegt nicht mehr so gut.
+Das Aquarium putzen ist mir langsam echt zu viel Stress geworden.
+Mein Goldfisch schwimmt jetzt schon seit einer Woche nur noch an der Oberfläche rum.
+Die neuen Welpen haben die gesamte Küche komplett zerstört heute Abend.
+Ich muss dringend den Krallenabrieb für meine Kater bestellen, sonst zerkratzt er alles.
+Der Papagei hat mir gerade ins Ohr gebissen weil ich ihn weggeschaut habe.
+Seitdem der Hund gestorben ist läuft die Wohnung so leer und traurig.
+Wir suchen jemanden der unsere Hamster zwei Wochen lang füttern kann.
+Ich hab vergessen den Zaun nach dem Spazieren gehen ordnungsgemäß zu schließen.
+Unser neuer Dackel ist so klein dass er unter die Couch kriecht.
+Das Kaninchen nagt wieder an allen Kabeln obwohl ich ihm Holz gegeben habe.
+Tierarztkosten sind echt ein Thema, besonders wenn man mehrere Tiere hat.
+Meine Schnabeltiere machen so einen komischen Quietschton nachts im Käfig.
+Der Hund bringt mir nur noch nasse Bälle ins Haus weil er sich freut.
+Ich kann gar nicht glauben wie viel Grasfressen meine Katzen eigentlich kosten.
+Das Meerschweinchen ist schon wieder krank und hustet ziemlich stark.
+Wir überlegen ob wir vielleicht einen zweiten Hund nehmen sollen.
+Die Vogelkäfige reinigen dauert ewig wenn man keinen Aufsicht hat.
+Mein alter Kater kratzt nicht mehr so viel an der Tür jetzt.
+Ich habe Angst dass die neue Katze den Hund wieder aggressiv reagiert.
+Das Fischfutter ist irgendwie schimmelig geworden und riecht total seltsam.
+Die Hamster sind gestern nacht ausgebrochen, Chaos pur.
+Meine Goldfische brauchen dringend mal wieder Wasserwechsel.
+Der Hund bellt schon wieder vor der Tür wie wahnsinnig.
+Ich hoffe, die Katze findet bald ihr neues Zuhause.
+Für das Kaninchen haben wir extra Heu gekauft, aber es frisst nichts.
+Unsere Papagei ist heute besonders laut und nervig.
+Der Tierarzt hat gesagt, der Hund muss abnehmen.
+Katzen sind doch viel weniger Arbeit als Hunde, oder?
+Meine Meerschweinchen piepsen immer wenn sie Hunger haben.
+Ich kann nicht glauben wie teuer Tierfutter heutzutage ist.
+Der Hund hat im Garten wieder ein riesiges Loch gegraben.
+Unsere neue Katze versteckt sich noch überall vor uns.
+Das Aquarium sieht endlich mal wieder sauber und gepflegt aus.
+Wir suchen jemanden der den Hund während des Urlaubs holt.
+Mein Wellensittich singt morgens schon um fünf Uhr los.
+Der Hund ist heute so müde nach dem langen Spaziergang.
+Ich finde Vögel im Käfig einfach nur traurig anzusehen.
+Die Katze hat meine neuen Sneaker als Kratzbaum verwendet.
+Wir überlegen uns ernsthaft einen zweiten Hund zuzulassen.
+Mein Hamster schwillt oft ein wenn er zu viel frisst.
+Der Tierbesuch war heute wirklich schön und entspannend.
+Unser alter Schotte schläft jetzt den ganzen Tag nur noch.
+Ich habe Angst dass die Katze nachts wieder wegläuft.
+Das neue Futter wird vom Hund absolut abgelehnt leider.
+Mein Fisch scheint traurig zu sein, er schwimmt kaum.
+Der Hund bellt immer wieder an der Tür.
+Meine Katze schläft den ganzen Tag im Karton.
+Ich muss dringend noch Malzpasta für die Maus kaufen.
+Die Fische frassen heute garnicht, vielleicht zu kalt.
+Unser Retterhund ist zwar wild aber unglaublich treu.
+Tierarztrechnung kam gestern, das war echt teuer.
+Katzenhaare kleben wirklich überall an meiner Kleidung fest.
+Mein Papagei pfeift wieder Lieder aus der Kindheit.
+Ich vermisse unseren alten Hund so sehr schon.
+Wann ist eigentlich mal wieder die nächste Entwurmung?
+Derhamster frisst sich alles mögliche in den Backen.
+Kann jemand heute Nachmittag kurz mit dem Hund spazieren?
+Unsere Meerschweinchen bekommen bald neues Heu geliefert.
+Die Katze hat die Pflanze von der Fensterbank geschubst.
+Ich suche ein gutes Futter für meinen Welpen.
+Mein Kaninchen ist total zutraulich und liebt Streicheleinheiten.
+Hundetraining am Wochenende war super anstrengend für uns beide.
+Warum schreit meine Katze nachts immer um drei Uhr?
+Der neue Fisch ist leider schon angekommen, traurig.
+Wir überlegen ob wir noch ein zweites Haustier holen.
+Mein Hund bringt jeden Stock zurück in die Hand.
+Die Vogelkäfigreinigung steht dringend an dieser Woche an.
+Ich finde die Fellpflege beim Pudel wirklich nervig.
+Unser Goldhamster hat sich ein riesiges Nest gebaut.
+Tierarztbesuch war okay, er brauchte nur Spritze.
+Der Hund schläft heute nacht im Bett, ich lass ihn machen.
+Meine Katze hat sich wieder an die Gardinen herangemacht.
+Wir müssen morgen früh zum Tierarzt wegen der Impfungen.
+Der Hamster frisst sein ganzes Vorrat in einem Stück weg.
+Ich kann den Geruch vom Katzenklo einfach nicht leiden.
+Mein Labrador bringt jedes Spielzeug zurück, er ist begeistert.
+Die Papageien machen morgens schon um sechs los, echt nervig.
+Wir suchen dringend einen Hundesitter für die nächste Woche.
+Das neue Futter scheint dem Bullenmastiff gut zu tun.
+Meine Katze hat eine Maus in der Tür abgelegt.
+Der Hund bellt nur, wenn das Postauto vorbeifährt.
+Ich muss mir unbedingt ein neues Leinenkauf anschaffen.
+Die Kaninchen beißen manchmal, wenn man sie falsch hält.
+Unser Kater will partout nicht ins Haus kommen nach draußen.
+Tierarztrechnungen sind immer so eine Sache, das ist teuer.
+Wir überlegen uns noch, ob wir einen zweiten Hund nehmen.
+Meine Meerschweinchen zischen nur, wenn ich sie berühren will.
+Der Goldfisch sieht traurig aus in dem kleinen Becken da.
+Ich hasse es, wenn der Hund im Auto spuckt.
+Die Katze schläft den ganzen Tag nur auf meinem Laptop.
+Wir müssen dringend neues Streu für die Katzentoilette kaufen.
+Mein Hund hat Angst vor lauten Feuerwerkskörpern heute nacht.
+Der Papagei hat heute wieder mein Wort Hallo gesagt.
+Mein Hund bellt um drei Uhr immer noch so laut.
+Die neue Katzentoilette wird leider komplett ignoriert.
+Ich vermisse meinen alten Labrador einfach sehr stark.
+Unser Kaninchen frisst gerade die Blätter aus dem Topf.
+Der Tierarztbesuch war dieses Mal wirklich erschwinglich und nett.
+Meine Meerschweinchen verstecken sich immer unter dem Bett wieder.
+Das neue Hundebett wird gar nicht erst benutzt von ihm.
+Wir überlegen uns, ob wir noch einen zweiten Fisch kaufen.
+Die Katze hat gestern die Vase vom Tisch geschoben wieder.
+Unser Papagei sagt plötzlich komische Wörter wie hallo mama.
+Ich hasse es, wenn der Hund nachts im Haus poops.
+Das Katzenfutter riecht wirklich eklig für den Menschen selbst.
+Mein Goldfisch scheint krank zu sein, er schwimmt seltsam nur.
+Der Welpenunterricht macht unserer Hündin viel zu viel Stress.
+Wir suchen verzweifelt jemanden, der die Vögel füttern kann.
+Die Schildkröte ist seit Monaten im Winterschlaf noch immer.
+Unser neuer Hund braucht dringend mehr Bewegung im Wald.
+Die Katze kratzt wieder an der neuen Couch unglaublich stark.
+Ich habe Angst, dass mein Hamster aus dem Käfig entweicht.
+Der tierärztliche Notdienst kostet ein Vermögen für eine kleine Wunde.
+Mein Pferd ist heute besonders scheu beim Ausreiten gewesen leider.
+Die Kanarienvögel zwitschern morgens so laut, dass ich nicht schlafe.
+Unser Hund versteht plötzlich Befehle aus einer ganz anderen Sprache.
+Ich habe das falsche Futter gekauft und alles entsorgen müssen jetzt.
+Die neue Katze ist schon nach zwei Tagen wieder eingezogen hier.
+Die Katze sitzt wieder auf der Küchentür und will rein.
+Mein Hund frisst nur noch das teure Nassfutter von heute.
+Beim nächsten Tierarzttermin muss ich unbedingt die Impfung machen lassen.
+Warum bellt der Nachbarhund den ganzen Tag ohne Grund?
+Ich vermisse meinen alten Hund immer noch sehr stark.
+Der Papagei hat wieder alles auf dem Tisch verteilt und zerstört.
+Wir suchen jemanden, der während unserer Reise zum Vogel schaut.
+Die goldene Retriever Welpen sind so süß aber auch anstrengend.
+Mein Kaninchen frisst plötzlich keine Salatblätter mehr seit gestern.
+Haben die Fische vielleicht einen Parasitenbefall bekommen oder so ähnlich?
+Der neue Hund muss erst mal noch an der Leine üben.
+Katzenhaare kleben überall im Wohnzimmer und auf meiner Kleidung leider.
+Ich habe vergessen das Vogelheu zu wechseln und war nervös.
+Das Meerschweinchen braucht dringend mehr Stroh in seinem neuen Volierengehäuse.
+Mein Hund hat heute zum ersten Mal nachgefragt beim Trainer.
+Die Schildkröte verweigert seit drei Tagen komplett ihre Futteraufnahme leider.
+Ich bin besorgt wegen der Lethargie unseres alten Katers heute.
+Der Wellensittich pfeift das Lied aus meinem Lieblingsfilm perfekt nach.
+Wo finde ich einen guten Züchter für einen gesunden Mops?
+Die Katze kratzt trotzdem weiter an meiner neuen Couch obwohl Spray da ist.
+Mein Hund versteckt immer noch seine Knochen unter dem Gartenzaun weg.
+Ich habe Angst dass der Tierarzt eine schlechte Diagnose stellt heute.
+Der Hahn legt keine Eier mehr weil er alt wird vielleicht.
+Wir müssen den Aquariumfilter sofort reinigen bevor Algen wieder wachsen.
+Mein Hamster läuft die ganze Nacht auf seinem Laufrad rum nervig.
+Meine Katze schläft den ganzen Tag nur auf dem Sofa.
+Wir müssen dringend neuen Hamstereinkauf für das Nest machen.
+Der Papagei schreit morgens um fünf wie ein Wahnsinniger.
+Hast du schon mal überlegt dir einen Hund anzuschaffen?
+Die Fische in unserem Aquarium sehen heute etwas träge aus.
+Beim Tierarzt war der Hund ganz mutig und hat nichts gezeigt.
+Unser Neuer ist zwar süß aber er zerrt am Leinen.
+Die Katze hat leider ihre alte Heimat verlassen müssen.
+Ich kaufe nur noch biologisches Futter für meine Haustiere.
+Mein Goldhamster versteckt sich immer hinter den Nahrungsmitteln.
+Der Hund bellt nachts viel zu laut gegen vorbeigehende Menschen.
+Wir brauchen unbedingt eine neue Transportbox für die Katze.
+Die Vogelspinne ist eigentlich gar nicht so wild wie alle sagen.
+Unser Kaninchen knabbert jetzt an den Blumenbeeten im Garten.
+Hoffentlich wird der Hund bald wieder gesund vom Knochenbruch.
+Die Meerschweinchen freuen sich riesig über frisches Gras heute.
+Ich kann mit dem neuen Tierarzt kaum noch Kontakt aufnehmen.
+Der Hund hat seine Pfoten im Schnee sehr schön verschneit bekommen.
+Unsere Katze mag gar nicht ins Bad gehen zum Baden.
+Kann mal jemand den Vogelkäfig für mich ausmisten?
+Der Hund miaut schon wieder um acht Uhr morgens.
+Ich liebe es, wenn die Katerin sich an den Beinen reibt.
+Mein Papagei kann bereits mein Vorname nachmachen.
+Die Goldfische sind leider schon seit einer Woche weg.
+Am Wochenende gehen wir immer mit dem Vierbeiner spazieren.
+Katzenhaare finde ich überall im Haus, egal wie oft ich säubere.
+Das Kaninchen frisst nur die grünen Blätter vom Salat.
+Hundeerziehung braucht Geduld und Konsequenz von Anfang an.
+Meine Schildkröte ist schon zehn Jahre alt geworden.
+Der Tierarzt hat gesagt, dass das Goldfischchen noch gesund ist.
+Wir suchen jetzt einen neuen Besitzer für unser Meerschweinchen.
+Die Papageien im Nachbarhaus schreien tagsüber ganz laut.
+Man sollte unbedingt vorsichtig sein mit dem Futter für Vögel.
+Hundetraining online hat mir beim Sitz-bleiben sehr geholfen.
+Katzen brauchen regelmäßige Entwurmungen, auch wenn sie drinnen bleiben.
+Mein Frettchen rennt ständig durch die ganze Wohnung rum.
+Am Wochenende wird das Aquarium gereinigt, das dauert ewig.
+Der Hund bellt immer nach der Postfrau, warum eigentlich?
+Wir haben zwei Papageien, die sich gegenseitig zupfen manchmal.
+Das Meerschweinchen hat einen großen neuen Stall bekommen heute.
+Ich kaufe nur biologisch abgebautes Katzenfutter aus Deutschland.
+Mein Fische sterben immer wieder kurz nach dem Wechsel.
+Hundeschule war gestern Abend ganz anstrengend für mich beide.
+Katzen scheuen sich oft vor fremden Menschen im Haus.
+Der Papagei hat sein Nest schon verlassen, gut gemacht!
+Am Wochenende gehen wir zum Hundeschwimmen im See vorbei.
+Der Hund bellt schon wieder um drei nachts ohne Grund.
+Meine Katze hat sich ins Katzenklo gesetzt statt darin.
+Ich suche dringend eine neue Leine für den Retriever.
+Das Hamsterfutter ist leider schon lange aufgebraucht.
+Warum verliert der Wellensittich eigentlich immer so viele Federn?
+Der Goldfisch schwimmt seit Tagen nur noch an der Oberfläche.
+Beim nächsten Tierarztbesuch muss ich ihn impfen lassen.
+Unser neuer Welpe ist nachts total anstrengend im Bett.
+Die Meerschweinchen brauchen heute endlich frisches Heu.
+Ich kann gar nicht glauben wie sehr er sich verändert hat.
+Meine Schnauze tut weh weil sie ständig auf mir schläft.
+Wir überlegen uns langsam doch noch einen zweiten Hund.
+Das Aquarium muss dringend gereinigt werden, es ist trüb.
+Der Hund hat heute Morgen mal wieder den Müll umgeworfen.
+Katzen scheinen sich wirklich alles durch Tricks beizubringen.
+Ich finde ihre neuen Ohrbügel total hässlich und unnötig.
+Muss man Vögel eigentlich täglich mit frischem Wasser versorgen?
+Der Tierarzt hat gesagt er wird noch Jahre alt werden.
+Sein Fell ist so schön weich nach dem Föhnen heute.
+Wir haben vergessen das Futter für die Schildkröte zu kaufen.
+Es ist traurig wenn ein Haustier einen verlässt im Alter.
+Die Nachbarkatze kommt jeden Morgen um sechs zur Tür herein.
+Mein Papagei spricht bereits zwei neue Wörter aus dem Film.
+Ich sollte mir bald mal eine neue Katzenstange anschauen.
+Der Hundekot liegt immer noch auf dem Weg zum Haus.
+Mein Labrador ist total hyper wenn der Ball rauskommt.
+Die Katze hat sich wieder in den Papierkorb gesetzt.
+Tierarztbesuch morgen früh, hoffentlich bleibt es günstig.
+Wir suchen dringend eine Babysitterin für unsere Meerschweinchen.
+Der Papagei schreit morgens um fünf Uhr los echt nervig.
+Fischfutter war leer und ich hab keine Zeit zum Einkaufen.
+Unsere Katze bringt jedes mal wieder tote Mäuse nach Hause.
+Hundeschule war super, jetzt sitzt er wenigstens auf Kommando.
+Mein Goldfisch wirkt so traurig wenn er am Glas hängt.
+Die Nachbarkatze kommt immer wieder und frisst unser Katzennahrung.
+Geld für die Hundesteuer ist mal wieder weggefallen ins Leere.
+Unser Hamster hat das Rad nicht mehr gedreht seit Tagen.
+Ich hab Angst dass der Hund den neuen Teppich kaputt macht.
+Katzenhaar überall im Haus, ich kann echt nicht aufhören zu staubsaugen.
+Der Vogel hat sein Gefieder komplett erneuert sieht toll aus.
+Welches Trockenfutter ist eigentlich am gesündesten für kleine Rassen?
+Mein alter Schäferhund geht langsam schwerfällig durchs Wohnzimmer.
+Wir haben gerade zwei Kaninchen adoptiert die sind so schüchtern.
+Tierklinik um acht, bitte nicht vergessen das Medikament mitzunehmen.
+Der Hund bellt permanent wenn jemand an der Tür klingelt.
+Unsere Katze mag den neuen Kratzbaum überhaupt nicht anscheinend zu hoch.
+Fischbecken reinigen ist immer eine nervige und dreckige Angelegenheit.
+Mein Welli piept ständig und unterhält sich apparently ganz allein.
+Hundewandern am See war gestern Abend richtig erholsam für uns alle.
+Die Meerschweinchen brauchen dringend neues Heu und mehr Stroh.
+Ich vermisse meinen alten Hund schon wieder sehr jeden Tag.
+Ich finde es schwer mein Gewissen mit der Katzenhaltung in Einklang zu bringen.
+Mein Kaninchen braucht wirklich viel Stroh zum Nestbau.
+Die Vögel waren gestern früh schon wieder extrem laut und nervig.
+Wir müssen dringend mal über die Erziehung des Welpen sprechen.
+Der Fisch sieht einfach nur noch traurig im Becken aus.
+Hast du den Impfschutz für den Hamster rechtzeitig gecheckt?
+Meine Katze hat nachts drei Mal erbrochen, das macht mich krank.
+Wir suchen verzweifelt jemanden der am Wochenende mit dem Hund spazieren geht.
+Das neue Futter scheint dem Golden Retriever doch gar nicht zu schmecken.
+Am Sonntag war der Gang zum Tierarzt wirklich eine enorme Tortur für uns beide.
+Ich hab so große Angst dass ich das Meerrettichblatt falsch geschnitten habe.
+Der Papagei hat heute morgen einfach angefangen mein Lied mitzuschwingen.
+Woher weiß man wann ein Vogel eigentlich alt genug zum Fliegen ist?
+Mein Schmetterlingsfreundchen fliegt leider nur noch sehr träge und schwerfällig.
+Die Katze kratzt ständig an der Couch obwohl sie Kratzbäume hat.
+Ich habe das Gefühl mein Hund versteht doch gar nichts von mir.
+Welche Art von Futtermittel eignet sich am besten für junge Meerschweinchen?
+Mein alter Kater leidet wohl auch unter beginnender Arthrose im Alter.
+Kann ich die Vögel draußen wirklich allein lassen wenn es regnet?
+Der Hund hat heute wieder eine Maus im Garten gefunden.
+Ich bin mir unsicher ob ich dem Wellensittich einen Partner geben sollte.
+Die Katze bringt jeden Abend ein totes Mäuschen nach Hause als Geschenk.
+Mein Goldfisch schwimmt seit gestern nur noch an der Wasseroberfläche rum.
+Wir brauchen dringend einen neuen Hundegurt für die gemeinsamen Spaziergänge.
+Mein Hund blickt nur so traurig wenn ich Arbeit habe.
+Die Katze hat heute wieder auf dem Tisch geschlafen.
+Ich hoffe der Vogel bekommt bald seine Feder zurück.
+Fischfutter ist eigentlich ganz einfach zu handhaben.
+Der Hamster läuft den ganzen Abend im Räderchen rum.
+Mein Hund versteht jetzt endlich das Kommando bleib.
+Beim Tierarzt war es heute schon wieder viel zu teuer.
+Ich muss dringend neue Decken für die Hunde kaufen.
+Mein alter Pudel schläft den ganzen Tag nur rum.
+Der Kaninchenkäfig muss dringend mal wieder gesäubert werden.
+Warum frisst mein Hund nur das billige Dosenfutter?
+Die Katze kratzt schon wieder an meiner guten Couch.
+Ich vermisste meinen alten Goldfisch mehr als gedacht.
+Mein Wellensittich macht morgens total früh Lärm im Haus.
+Der Hundewald ist heute glücklicherweise komplett leer gewesen.
+Ich habe keine Ahnung wo ich das Leckerli versteckt habe.
+Die Schildkröte legt gerade eine lange Winterruhe ein.
+Meine Katze bringt mir jeden Abend eine tote Maus mit.
+Der Hundehalter hat mich ansprechen wollen wegen Bellen.
+Ich muss heute nachmittag wieder zum Tierarzt gehen.
+Das neue Spielzeug ist bereits innerhalb von zehn Minuten kaputt.
+Mein Meerschweinchen piepst unentwegt wenn es Hunger bekommen hat.
+Die Katze sitzt schon stundenlang am Fenster und guckt raus.
+Ich bin mir unsicher ob das Futter noch frisch ist.
+Der Hund bellt schon wieder an der Tür als ob da keiner wäre.
+Meine Katze schläft den ganzen Tag nur auf dem Sofa rum.
+Ich habe vergessen dem Meerschweinchen genug frisches Heu zu geben.
+Die neuen Welpen sind so niedlich aber auch ganz schön müde.
+Warum frisst mein Kaninchen plötzlich garnichts mehr das ist besorgniserregend.
+Der Hundeliebesdienst war super freundlich und hat alles gut erklärt.
+Ich vermisse meinen alten Goldfisch total er war immer so lebhaft.
+Die Vogelscheuche funktioniert nicht und die Sperlinge sind wieder da.
+Meine Schildkröte braucht eine neue Lampe für das UV Licht.
+Am Wochenende gehen wir sicher mit dem Hund spazieren ins Grüne.
+Die Katze hat gestern Nacht wieder auf dem Tisch ihre Beute gelassen.
+Ich muss dringend zum Tierarzt weil der Hamster so träge ist.
+Unser neues Wellensittichen Paar macht schon erste Nester aus Gras.
+Der Hund verträgt das neue Futter gar nicht und bekommt Durchfall.
+Ich sollte mal überlegen ob ich noch Platz für ein Meerkatzenchen habe.
+Die Katze kratzt an der Tür weil sie einfach raus will.
+Mein Goldhamster hat heute Nacht wieder seinen Laufrad ganz laut gedreht.
+Wir suchen dringend eine Tiersitterin für die nächsten zwei Wochen Urlaub.
+Der Hund hat leider wieder einen Stock aus dem Wald mitgebracht.
+Ich bin froh dass die Kater sich jetzt friedlich an einem Platz liegen.
+Die Tauben fressen zu viel Brot vom Tisch das ist nicht gesund.
+Mein Papagei pfeift mein Liedchen immer wenn ich nach Hause komme.
+Der Tierarzt hat gesagt wir müssen mit der Ernährung dringend umstellen.
+Ich habe Angst dass der Hund sich im Sommer Sonnenbrand holt.
+Die Schnecken in der Voliere sind leider wieder weggegangen oder gestorben.

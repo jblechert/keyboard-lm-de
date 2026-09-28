@@ -513,7 +513,6 @@ Ich hab die Bremsflüssigkeit selbst getauscht, ganz einfach.
 Nächste Woche gehts ins Autohaus, Garantie noch vorhanden.
 Der Nebelschlusslicht ist defekt, muss ich bald beheben.
 Reifenprofile messen ist doch keine Raketenwissenschaft oder?
-Mein Dashboard leuchtet wie ein Weihnachtsbaum seit gestern.
 Der Polierer hat die Kratzer fast komplett weg bekommen.
 Ich fahr lieber zum Kfz-Meister als zur Kettenwerkstatt.
 Die Fensterheber gehen nur noch sporadisch hoch und runter.
@@ -789,7 +788,6 @@ Die Werkstatt hat mir einen neuen Starter eingebaut.
 Meiner Werkstatt fehlt seit Tagen die Ersatzteilliste.
 Reifenwechsel morgen früh, hoping es regnet nicht.
 TÜV war wieder eine nervenaufreibende Angelegenheit.
-Das Dashboard leuchtet wie ein Weihnachtsbaum auf.
 Hab endlich mal den Motor gewaschen, sieht top aus.
 Die Werkstatt meckert, ich soll nie mehr tanken.
 Benzinpreise sind echt ein Witz in letzter Zeit.
@@ -994,7 +992,6 @@ Warum hat die Reparatur denn so lange gedauert?
 Die Reifen haben echt noch genug Profil drauf.
 Ich muss mal wieder die Filter austauschen.
 Die Autowäsche kostet heute schon wieder zehn Euro.
-Das Dashboard leuchtet ganz rot auf seit gestern.
 Mein Nachbar hat auch gerade neue Reifen gekauft.
 Hat schon mal jemand das Getriebeöl gewechselt?
 Die Klimaanlage kühlt einfach gar nicht mehr richtig.
@@ -1166,7 +1163,6 @@ Die Garantieabnahme zieht sich leider schon wieder ewig hin.
 Mein Benziner frisst im Winter irgendwie deutlich mehr Sprit.
 Das Auto muss sofort hin wegen dem quietschenden Keilriemen.
 Ich finde die Preise bei der freien Werkstatt viel fairer.
-Hast du schon gesehen wie tief die Profile auf meinen Reifen sind?
 Der TÜV war dieses Mal glücklicherweise deutlich günstiger als erwartet.
 Ich habe den Fehlercode auslesen lassen und es war nur ein Sensor.
 Mal wieder in der Stau stehen bis die Batterie komplett leer war.
@@ -1351,7 +1347,6 @@ Hoffentlich bekomme ich den TÜV ohne Mängelmerkmal.
 Vorher kurz nachgucken ob das Öl noch reicht.
 Die Batterie ist kaputt gegangen mitten im Winter.
 Ich lasse die Räder immer bei der Firma wechseln.
-Das Dashboard zeigt seit gestern eine Warnlampe an.
 Echt nervig wenn der Parksensor mal wieder streikt.
 Wir brauchen dringend neue Wischerblätter für den Regen.
 Der Mechaniker sagte es liegt am Auspuffsystem.
@@ -1467,28 +1462,6 @@ Das Fahrzeug wurde in letzter Zeit kaum genutzt.
 Die Auspuffanlage macht ein seltsames Rattern bei Fahrt.
 Ich muss die Batterie mal wieder aufladen.
 Der Service war überraschend schnell und professionell.
-Warum kostet der Ölwechsel bei euch immer so viel Geld
-Endlich neue Sommerreifen aufgezogen, das Fahren macht wieder Spaß
-Hoffentlich ist der TÜV-Berater heute nicht ganz so streng wie sonst
-Die Stoßdämpfer quietschen total nervig über jede einzige Unebenheit
-Habt ihr schon mal was von einem günstigen Werkstattvergleich im Internet gehört
-Ach du scheiße, jetzt ist mir wieder mal das Starten vergangen
-Ich habe vergessen den Tankdeckel richtig zuzudrehen und rieche Benzine
-Die Scheibenwischer sind kaputt und ich brauche dringend Ersatzteile
-Kann mir jemand erklären wieso die Bremsen so heftig brennen
-Die Klimaanlage kühlt im Sommer leider überhaupt nicht mehr richtig
-Wir machen am Wochenende einen kompletten Lackaufbau für die Kratzer
-Hoffentlich passt das neue Batterieladegerät auch an meinen Anschluss
-Die Werkstatt hat vergessen den Airbag-Reset richtig vorzunehmen nach dem Crash
-Ist das Normal dass mein Auto beim Anfahren kurz rumzuckt
-Ich muss unbedingt die Luftdruckmessung bei den Reifen kontrollieren
-Der Dieselpartikelfilter ist wieder verstopft und kostet viel Geld zu reinigen
-Meine Karosserie wird langsam echt rostig an den unteren Seitenkanten
-Hast du schon die Fahrzeughistorie für den Kauf vom Händler geprüft
-Ich liebe das Sound meiner Sportauspuffanlage beim Vollgasgeben
-Der Rückspiegel ist nach einem Parkenunfall einfach abgefallen
-Warum muss ich bei dieser Werkstatt immer so lange warten
-Der Motorölwechsel wurde leider wieder mal verschoben aus Zeitgründen
 Da steht der Spritstand wieder bei leer.
 Habe gerade die Werkstatt angerufen wegen des Lärms.
 Mein Pkw braucht dringend neue Winterreifen.
@@ -1553,8 +1526,6 @@ Die Werkstatt hat mir gesagt das ist schon normal bei dem Alter.
 Bin froh dass ich noch eine Garantiezeit auf das Fahrzeug habe.
 Der Spritverbrauch ist letztes Monat irgendwie viel höher gewesen.
 Ich suche gerade eine empfehlenswerte Werkstatt in der Nähe von mir.
-Die Sommerreifen haben echt noch gute Profile, vielleicht noch ein Jahr.
-Habe das Dashboard gereinigt weil es sonst total abgenutzt aussieht.
 Der Fahrzeugschein ist leider zu Hause geblieben, ärgerlich eigentlich.
 Kann mir jemand sagen ob ich Winterreifen schon aufziehen muss?
 Die Scheibenwaschanlage sprüht nur noch trübes Wasser, muss gesäubert werden.
@@ -1774,7 +1745,6 @@ Die Abgasanlage macht ein seltsames Geräusch beim Fahren.
 Ich fahre lieber mit Diesel, das ist günstiger.
 Mein Auto braucht bald neue Glühlampen für die Scheinwerfer.
 Die Klimaanlage funktioniert im Sommer einfach nicht richtig.
-Ich habe das Dashboard einmal gründlich gereinigt.
 Die Versicherung hat die Reparaturkosten gedeckt, zum Glück.
 Ich muss den Kilometerstand beim nächsten Werkstattbesuch notieren.
 Ich habe heute das Fahrzeug gewaschen und geimpft.
@@ -3057,7 +3027,6 @@ Der TÜV-Mann war heute wirklich genervt von mir.
 Ich muss endlich mal die Batterie tauschen lassen.
 Die Scheibenwischer sind total abgenutzt und streifen.
 Ich hasse Wartungsschilder, die kommen nie zum richtigen Zeitpunkt.
-Das Dashboard leuchtet wie ein Weihnachtsbaum seit gestern.
 Habe das Auto selbst poliert, sieht wieder gut aus.
 Kraftstoffverbrauch ist in letzter Zeit deutlich gestiegen.
 Wir fahren immer zur gleichen Werkstatt, die sind ehrlich.
@@ -3079,7 +3048,6 @@ Die Rücklichter sind kaputt und müssen schnell ersetzt werden.
 Mein Auto bleibt im Winter einfach nur stecken.
 Ich muss mal wieder in den Kofferraum aufräumen.
 Der Servicevertrag ist abgelaufen und muss verlängert werden.
-Das Dashboard leuchtet auf wie ein Weihnachtsbaum heute.
 Ich habe das Polsterwerkzeug für das Reifenwechsel gefunden.
 Der Mechaniker hat mir einen neuen Kupplungssatz empfohlen.
 Mein Auto braucht dringend eine Lackierung wegen Kratzern.
@@ -3545,7 +3513,7 @@ Gummidichtungen am Fenster sind alt und spröde geworden.
 Der TÜV-Termin ist leider schon wieder um zwei Wochen verschoben.
 Mein Auto springt morgens einfach nicht an, obwohl der Akku neu ist.
 Die Werkstatt hat mir für eine Kleinigkeit fast hundert Euro abgeknautscht.
-Heute muss ich endlich den Ölstand nachprüfen und ggf. nachfüllen.
+Heute muss ich endlich den Ölstand nachprüfen und gegebenenfalls nachfüllen.
 Die Reifen sind glatt wie Scheibenwischer, die müssen sofort gewechselt werden.
 Ist das eigentlich normal, dass der Motor so laut klopft?
 Habe gerade bei Aldi getankt, weil es einfach billiger ist als sonst.
@@ -3607,7 +3575,6 @@ Der Serviceheftstempel ist leider schon lange überfällig.
 Kannst du mal kurz reinsehen, warum es ruckelt?
 Im Winter sollte man besser mit Sommerreifen fahren.
 Die Batterie war schwach und wollte nicht mehr anspringen.
-Habe das Dashboard gereinigt, sieht jetzt fast neu aus.
 Der Lack glänzt wieder wie am ersten Tag.
 Ist dein Auto schon für die Hauptuntersuchung angemeldet?
 Ich hasse es, wenn die Werkstatt lange braucht.
@@ -3703,7 +3670,6 @@ Meine Freundin hat mir einen guten Autowasch-Tipp gegeben gestern.
 Die Lenkung ist seit dem Unfall etwas schwammig geworden.
 Ich sollte baldmal die Kupplung überprüfen lassen ich denk drüber.
 Warum kostet eine einfache Inspektion immer so viel Geld wirklich?
-Das Dashboard leuchtet rot auf und ich hab keine Ahnung woran es liegt.
 Ich muss unbedingt den Filter wechseln bevor ich in den Urlaub fahre.
 Mein Vater sagt ich soll das Auto nicht zu spät abmelden.
 Ich freu mich schon auf den neuen Winterreifen-Service nächste Woche.
@@ -4176,7 +4142,6 @@ Ich hab selbst die Zündkerzen rausgedreht und getauscht.
 Das Armaturenbrett ist durch den Winter komplett verkratzt.
 Kein Start, nur ein klickendes Geräusch beim Schlüsselumdrehen.
 Die Werkstatt hat das Teil falsch eingebaut meiner Meinung nach.
-Immer noch diese nervige Warnlampe im Dashboard leuchtet.
 Politur entfernt die meisten kleinen Sturmschäden wunderbar.
 Ich suche dringend eine günstige Alternative zur Hauptwerkstatt.
 Benzinpreise sind mir langsam einfach nur noch zu hoch.
@@ -4235,7 +4200,6 @@ Mein Benziner trinkt zurzeit echt viel Kraftstoff.
 Hast du schon einen Termin für den TÜV gefunden?
 Die neuen Reifen sitzen fest und sehen gut aus.
 Mal schauen ob die Garantie noch drauf ist.
-Das Dashboard leuchtet nur so auf wie ein Weihnachtsbaum.
 Ich traue mich nicht mehr selbst Öl zu wechseln.
 Der Mechaniker hat gemeint es sei nur ein Sensor.
 Endlich hat das Auto wieder richtig Power verloren.
@@ -4418,7 +4382,6 @@ Der Ersatzschlüssel ist leider abhandengekommen und kostet Vermögen neu.
 Kann mir jemand sagen ob das Normal ist bei diesem Modell?
 Die Scheibenwischer sind so alt dass sie nur noch streifen halt.
 Ich habe Angst dass die Batterie im Winter durchgeht jetzt.
-Das Dashboard leuchtet rot auf seit ich getankt hab gestern.
 Warte mal kurz bis der Motor abgekühlt ist bevor wir gucken.
 Die Standheizung funktioniert nicht mehr richtig, frierend drinnen immer.
 Der TÜV war heuer glatt bestanden ohne Beanstandung.
@@ -4795,7 +4758,6 @@ Die Lackierung auf der Haube ist leider angekratzt.
 Mein Auto startet morgens gar nicht mehr so gut.
 Die Versicherung zahlt nicht für den alten Kratzer.
 Der Pollenfilter muss dringend ausgetauscht werden.
-Warum macht das Dashboard plötzlich ein Piepen?
 Die Autobahnmaut wird jetzt automatisch abgezogen.
 Mein Beifahrer hat die Sitzeinstellungen wieder verstellt.
 Ich finde es doof dass Ersatzteile so teuer sind.
@@ -5087,7 +5049,6 @@ Ich sollte vielleicht mal die Kupplung überprüfen lassen beim Fachmann.
 Hoffentlich findet die Werkstatt den Fehler im Steuergerät bald.
 Der TÜV war diesmal glatt durch ohne Beanstandungen.
 Superbenzin ist mir doch zu teuer, da tank ich nur Normal.
-Die Reifen haben schon wieder ziemlich flache Profile drin.
 Kannst du mal gucken warum die Scheibenwischer so quietschen?
 Mein Auto macht beim Anfahren dieses seltsame Knallgeräusch.
 Die Rechnung kam mir echt hoch vor für nen kleinen Ölwechsel.
@@ -5313,14 +5274,12 @@ Der Ladekabel war bei meiner Elektro auto kaputt gegangen.
 Vor der Fernfahrt besser mal die Achse abchecken lassen.
 Mein Vater kennt sich mit alten Diesel Modellen aus.
 Die Scheibenwischer müssen unbedingt bald getauscht werden hier.
-Ich habe das Dashboard endlich mit Spezialtuch sauber bekommen.
 Der Tankdeckel war fest geklemmt und wollte einfach nicht aufgehen.
 Warum kostet die Einbuße bei der Werkstatt so viel mehr?
 Mein Freund hat mir einen gebrauchten Reifensatz günstig abgegeben.
 Die Airbag Warnleuchte geht seit zwei Wochen nicht aus.
 Ich wasche mein Auto lieber im Garten selbstständig.
 Der Fahrwerkswechsel hat mich richtig ins Geld gekommen.
-Hast du schon mal mit Telematik bei der Versicherung versucht
 Habe heute Morgen wieder mal am Anlasser gearbeitet.
 Der Service bei der Markenwerkstatt ist echt überteuert.
 Mein Kollege hat gerade einen Pannenhilfe-Anruf bekommen.
@@ -5380,7 +5339,6 @@ Die Klimaanlage geht im Sommer einfach nicht mehr richtig.
 Ich habe Angst, dass die Rechnung am Ende zu hoch wird.
 Der TÜV-Mann war heute besonders streng bei den Scheuklappen.
 Einfach mal durchdrehen und auf die Autobahn schalten.
-Das Dashboard leuchtet seit der Tankfüllung rot auf.
 Mein Auto ist alt aber es läuft noch ganz gut.
 Ich hasse diesen Wartungsplan, der alle zwei Jahre kommt.
 Die Bremsen quietschen schon beim leisesten Druck auf das Pedal.
@@ -5788,7 +5746,6 @@ Mein Freund schwört immer nur auf seine heimische Hauptwerkstatt dort.
 Die Abgasanlage quietscht seit dem letzten Regen ziemlich nervig laut.
 Ich fahre eigentlich nur noch mit AdBlue-Top-up durch die Stadt jetzt.
 Die Sitzheizung im Beifahrersitz geht seit dem Update nicht mehr richtig.
-Hab das Dashboard komplett gesaugt, sieht wieder ordentlich und sauber aus.
 Der Parksensor links hinten gibt ständig falsche Warnungen aus heute.
 Ich muss mir einen neuen Zahnriemen besorgen, der alte ist rissig.
 Die Karosseriepolitur hat Wunder gewirkt, die Kratzer sind fast weg.
@@ -5831,7 +5788,6 @@ Der Werkstattchef wollte mir einen neuen Motor einreden.
 Ich fahre nur noch bis zum Vorrat, Benzintop ist voll.
 Die Scheibenwischanlage macht wieder diese nervige Rasselgeräusche.
 Mein Vater schwört immer noch auf Handschuhe beim Putzen.
-Das Dashboard leuchtet rot wie ein Weihnachtsbaum heute Morgen.
 Ich habe die Bremsbeläge schon vor einem Jahr getauscht.
 Kann jemand empfehlen wer gute Preise hat für Reifen?
 Der Fahrstabilitätsregler will einfach nicht abgeschaltet werden.
@@ -6295,7 +6251,6 @@ War bei der Ersatzteilbestellung geduldiger als sonst, aber es hat geklappt.
 Ich überlege mir schon lange, ob ich zum Diesel wechselt.
 Die Werkstatt meinte, die Kupplung sei noch zwei Jahre gut.
 Habe im Internet nach günstigen Sommerreifen gesucht und fündig geworden.
-Das Dashboard zeigt seit gestern nur noch Fehlercodes an.
 Mein Vater hat mir Tipps für die eigene Pflege gegeben.
 Der Dieselpartikelfilter muss dringend gereinigt werden, sonst wird es teuer.
 Ich hasse Warteschleifen in der Werkstatt, da vergeht ewig Zeit.
@@ -6361,7 +6316,6 @@ Endlich neue Sommerreifen bestellt und sie sahen richtig gut aus.
 Der TÜV Prüfer war heute echt streng mit dem Lichteinstellen.
 Klingelt eure Werkstatt noch oder wartet ihr bis es knallt.
 Ich kaufe niemehr bei diesem Mechaniker da war der Preis falsch.
-Das Dashboard leuchtet rot auf und ich habe keine Ahnung warum.
 Reinigung im Innenraum selbst gemacht und das Ergebnis ist top.
 Der Zündkerzentausch ist eigentlich ganz einfach wenn man es weiß.
 Mein Auto riecht nach verbranntem Öl seit dem letzten Ölwechsel.
@@ -6587,7 +6541,6 @@ Polsterwäsche war nötig wegen dem Kaffee im Beifahrersitz.
 Warum kostet so eine kleine Scheibe gleich hundert Euro?
 Die Heckscheibe hatte einen Riss und musste schnell ersetzt werden.
 Autopflege am Wochenende ist echt entspannend bei gutem Wetter.
-Das Dashboard zeigt komische Warnlampen an, seit gestern.
 Ich trau mich kaum die Rechnung in der Hand zu halten.
 Frostschutz im Kühlerwasser sollte man regelmäßig kontrollieren.
 Die Batterie hat anscheinend den Geist aufgegeben heute Nacht.
@@ -6612,7 +6565,6 @@ Schaltwippe hängt locker zusammen, nervt mich total im Alltag.
 Die Nebelscheinwerfer funktionieren seit letztem Jahr nicht mehr.
 Habe den Gangwechsel endlich gefettet, läuft wieder smoother.
 Werkstatt Termin nächste Woche Vormittag gebucht bei mir.
-Das Dashboard leuchtet rot auf, aber alles scheint okay zu sein.
 Reifendruck regelmäßig prüfen lohnt sich wirklich immer wieder mal.
 Autopflege am Wochenende gemacht, sieht jetzt fast neu aus wieder.
 Heute hab ich wiedermal das Tanken vergessen doof.
@@ -7043,7 +6995,6 @@ Wie viel hat der Reifenaufpreis bei dir gekostet?
 Die Abgasuntersuchung war dieses Mal echt stressig.
 Ich poliere mein Auto jedes Wochenende selbst gern.
 Der Werkstattchef meinte, ich müsste bald investieren.
-Hoffentlich bleibt der Motor noch ein paar Jahre
 Ach je, schon wieder muss ich zum TÜV hin.
 Der Werkstattmeister sagt der Motorölwechsel steht an.
 Hast du meine Rechnung mal kurz durchgeschaut?
@@ -7371,7 +7322,6 @@ Der Motor läuft endlich wieder ruhig seit der Reparatur gestern.
 Ich habe vergessen die Scheibenwasser nachzufüllen vor der Reise.
 Die Bremsen quietschen schon wieder unerträglich laut beim Anfahren.
 Wird das Ding wohl noch halten bis zur nächsten Fahrt?
-Das neue Dashboard Display ist echt cool und übersichtlich gestaltet.
 Wir müssen morgen früh rausfahren und hoffe auf gutes Wetter.
 Ich kaufe mein Öl nur noch in großen Flaschen online.
 Der Fahrzeugscheck war billiger als ich es mir eigentlich vorgestellt habe.
@@ -7463,7 +7413,6 @@ Der TÜV-Termin ist schon für nächste Woche festgelegt.
 Reifenwechsel im Herbst ist wirklich immer ein nerviges Thema.
 Die Scheibenwischer klappern laut, wenn sie über das Glas fahren.
 Ich habe heute vormittag den Tank vollgetankt.
-Das Dashboard leuchtet rot auf, da muss ich sofort hin.
 Meine Mutter meint, ich sollte das Auto eigentlich austauschen.
 Ölstand prüfen vergessen, jetzt geht die Warnleuchte los.
 Die Werkstatt hatte leider keine passenden Ersatzteile vorrätig.
@@ -7494,7 +7443,6 @@ Bei Kälte springt mein Motor kaum noch an, vielleicht der Akku schwach.
 Ich hab die Scheibenwischer endlich getauscht, waren echt fleckig auf dem Glas.
 Die Werkstatt hat zwei Tage für einen neuen Luftfilter gebraucht, unfassbar.
 Kannst du mir kurz mal deinen Spanner leihen für die Radmuttern?
-Das Dashboard leuchtet wieder rot auf beim Gas geben, ärgert mich furchtbar.
 Ich fahre nur noch Elektro, der Spritpreis war einfach zu krass zuletzt.
 Dein Autositz sieht aber gut aus nach dem Bezugswechsel gestern.
 Hast du schon mal die Katalysatorfehlermeldung gesehen? Meine auch nicht verstanden.
@@ -8131,7 +8079,6 @@ Laut Vertrag müsste ich doch eigentlich in drei Monaten zur Hauptuntersuchung.
 Die Fensterheber machen dieses nervige Knistern, wenn sie ganz hoch fahren.
 Kann mir jemand empfehlen, wo hier die beste und günstigste Werkstatt ist?
 Mein Auto startet morgen wahrscheinlich gar nicht mehr wegen der Kälte.
-Ich habe das Dashboard gereinigt, jetzt sieht alles wieder ordentlich aus.
 Die Reifenprofiltiefe wurde heute gemessen und liegt genau am Limit dran.
 Der Schlüssel lässt sich nicht mehr richtig in das Schloss stecken.
 Heute muss ich dringend noch Benzin tanken, sonst werde ich stehenbleiben.
@@ -8170,7 +8117,6 @@ Warum kostet so ein einfacher Ölwechsel heutzutage 80 Euro?
 Meine Klimaanlage kühlt nicht mehr seit den hohen Temperaturen.
 Ich habe Angst vor großen Reparaturen bei meinem alten Wagen.
 Das Auto startet morgens einfach nicht mehr trotz neuer Batterie.
-Hoffentlich ist es nur eine falsche Warnlampe im Dashboard.
 Der Serviceberater war total unfreundlich und hat nichts erklärt.
 Ich fahre immer Super plus damit der Motor länger hält.
 Kratzer auf der Haube nerven mich seit der letzten Parklücke.
@@ -8384,7 +8330,6 @@ Hast du den Füllstand der Scheibenwasser geprüft?
 Ich mag es nicht, wenn Fremde mein Auto anfassen.
 Der TÜV-Check dauert nie länger als zwanzig Minuten.
 Reifenprofilmessung ist jedes Jahr im Herbst Pflicht.
-Das Dashboard leuchtet rot, das kann ich ignorieren.
 Mein Partner fährt nur noch Elektroautos seit letztem Jahr.
 Die Kosten für Ersatzteile sind absurd geworden lately.
 Ich poliere mein Auto am Wochenende immer selbst.
@@ -8471,7 +8416,6 @@ Der Dieselverbrauch steigt langsam an, muss da hinsehen.
 Hoffentlich wird die Rechnung nicht so hoch wie letztes Mal.
 Mein Vater meinte immer, Ölwechsel spart lange Zeit Geld.
 Hast du schon einen Termin für den Hauptuntersuchung gefunden?
-Das Dashboard leuchtet rot auf, echt nervig gerade unterwegs.
 Ich mag es nicht, wenn die Werkstatt mir unnötige Teile empfiehlt.
 Der Tank ist leer und die nächste Station ist weit weg.
 Reifenprofilmessung sagt weniger als vier Millimeter Restprofil jetzt.
@@ -8955,7 +8899,6 @@ Die Polster sind stark verschmutzt und brauchen dringend eine Reinigung.
 Ich fahre nur noch Super Plus weil es irgendwie besser läuft.
 Dankeschön an die Jungs in der Werkstatt für den fairen Preis.
 Der Warmluftheizlüfter ist kaputt, im Winter friere ich mich tot.
-Ach je, wieder ein Fehlercode am Dashboard und ich versteh nix.
 Die Scheibenwischer klappern wie verrückt seit dem letzten Wintersturm.
 Ich versuche immer selbst die Glühbirnen zu wechseln um Geld zu sparen.
 Klingelt der Airbag-Warner? Dann lieber sofort zum Fachmann fahren.
@@ -9006,7 +8949,6 @@ Ich habe mir extra einen Autowasch-Gutschein gekauft für die nächste Woche.
 Das Navigationssystem zeigt immer den falschen Weg an, nervig eigentlich.
 Mein Vater kann alles an Autos reparieren, da geb ich ihm recht.
 Die Airbags sind noch bis 2030 gültig, steht im Serviceheft drin.
-Ach nee schon wieder, das Dashboard leuchtet rot auf beim Fahren.
 Der Mechaniker meinte, ich soll bald mal die Bremsen checken lassen.
 Super, gerade vollgetankt und der Stau hält mich fest.
 Mein Auto hat schon 150 Tausend Kilometer auf dem Buckel.
@@ -9152,7 +9094,6 @@ Hast du einen Tipp für eine günstige Werkstatt in deiner Nähe?
 Die Airbag-Warnleuchte geht seit gestern wieder an und aus.
 Mein Auto ist zwar alt, aber pflegeleicht und zuverlässig eigentlich.
 Der Winterreifen-Service war schneller als erwartet, gut gemacht.
-Ich hab das Dashboard gesaugt, jetzt sieht es sauberer aus.
 Kannst du mal kurz die Akkuklemmen überprüfen, sie sind locker.
 Die Lackierung auf der Haube ist schon leicht angekratzt.
 Ich fahre immer vorsichtig über Bordsteine, wegen den Rädern halt.
@@ -9470,7 +9411,6 @@ Endlich habe ich Ersatzreifen gefunden, die passen eigentlich überall rein.
 Die Rechnung kam heute an und ist echt übel.
 Warum kosten immer nur die Kleinstreparaturen so viel Geld?
 Ich muss gleich noch mal zum Tanken fahren.
-Das Dashboard leuchtet schon wieder rot auf, nervig.
 Mein Mann sagt, ich soll das Teil einfach lassen.
 Hast du den Druck der Reifen schon einmal geprüft?
 Die Werkstatt hat mir gesagt, es dauert noch zwei Tage.
@@ -9582,7 +9522,6 @@ Die Scheinwerfer sind total verblasst nach zwei Jahren.
 Wir fahren immer noch das alte Fahrzeug weiter.
 Der Werkstattchef hat mir einen guten Tipp gegeben.
 Ich hasse es, wenn der Motor nicht anspringt.
-Das Dashboard leuchtet rot wie ein Weihnachtsbaum.
 Einfach mal den Akku polieren hilft oft Wunder.
 Mein Auto schüttelt sich bei hohen Geschwindigkeiten stark.
 Die Pannenhilfe kam leider erst nach zwei Stunden.
@@ -9767,7 +9706,6 @@ Hast du schon gehört, dass die Werkstatt umzieht nächste Woche?
 Mein Freund meinte, ich soll lieber den Benziner nehmen als E-Auto.
 Die Lautstärke aus dem Motorraum stört mich beim Beschleunigen sehr.
 Ich habe vergessen, die Scheibenwischer zu winterfeste Varianten wechseln.
-Das Dashboard leuchtet rot auf und macht mir große Sorgen gerade.
 Der Preis für Sprit ist wirklich krass geworden in den letzten Wochen.
 Meine Mutter lässt ihr Auto nur bei der Hauptwerkstatt warten.
 Ich würde ja selbst was machen, aber fehlt einfach das Werkzeug dafür.
@@ -10113,7 +10051,6 @@ Der TÜV war dieses Mal zum Glück relativ pünktlich fertig.
 Hab gestern mal wieder Vollkraftstoff getankt, weil es günstiger ist.
 Mein Auto macht seit zwei Tagen ein seltsames Quietschen.
 Warte jetzt schon die halbe Ewigkeit auf den Ersatzteil-Lieferanten.
-Das Dashboard leuchtet rot wie ein Weihnachtsbaum am Abend.
 Ich trau der neuen Werkstatt eigentlich nicht so richtig.
 Warum muss ich immer für alles separate Versicherungen abzahlen?
 Der Motorölstand ist kritisch niedrig, sofort nachfüllen vergessen.
@@ -10164,7 +10101,6 @@ Seit dem Ölwechsel hört sich der Motor deutlich leiser an.
 Die Werkstatt war diesmal überraschend pünktlich mit der Abholung.
 Muss bald das Bremslicht reparieren lassen weil es flackert.
 Reifen prüfen ist immer stressig vor der Saisonänderung.
-Das Dashboard leuchtet rot auf seit letzter Woche.
 Mein Partner meinte ich sollte lieber ein Elektroauto kaufen.
 Die Scheibenwischer sind kaputt und regnerisch Wetter kommt sofort.
 Hab vergessen den Zapfhahn abzuziehen und musste tanken gehen.
@@ -10264,7 +10200,6 @@ Der TÜV war heuer wirklich streng bei der Bremskontrolle.
 Das Leder im Innenraum sieht nach Jahren immer noch gut aus.
 Ich muss dringend den Wasserkühler überprüfen lassen, dampft stark.
 Die neue Batterie hält endlich was sie verspricht, top.
-Vorher war das Dashboard voll mit Warnleuchten aktiv.
 Wir suchen noch eine gute Werkstatt in unserer Nähe hier.
 Das Navigationsgerät streikt total seit dem letzten Update heute.
 Ich putze meine Scheinwerfer immer selbst mit einem Spezialmittel.
@@ -10286,7 +10221,6 @@ Schade um das Geld für die Scheibenwischerwechsel.
 Die Abgasanlage pfeift schon seit Wochen leise vor sich hin.
 Muss endlich mal den Luftfilter tauschen lassen.
 Mein Freund hat mir beim Akkutausch geholfen.
-Das Dashboard leuchtet wieder rot wie ein Weihnachtsbaum.
 Hoffentlich passt der neue Zahnriemen sofort richtig.
 Die Werkstatt war gestern überraschend schnell und fair.
 Ich habe schon drei verschiedene Tankstellen probiert.
@@ -10625,7 +10559,6 @@ Ich habe mir gestern neue Scheibenwischer gekauft, weil die so quietschen.
 Vor dem Urlaub muss ich unbedingt noch den Filter austauschen gehen.
 Die Garantie ist leider abgelaufen, jetzt wird alles teuer berechnet.
 Mein Nachbar fährt schon seit Jahren nur noch Diesel in der Stadt.
-Das Dashboard leuchtet rot auf, was könnte das nur wieder bedeuten?
 Ich trau mich nicht, die Versicherung zu informieren wegen dem Kratzer.
 Der Winter hat unseren Kofferraumboden komplett mit Schlamm vollgeschmiert.
 Wir brauchen bald neue Batterien, denn das Licht ist sehr schwach geworden.
@@ -11067,7 +11000,6 @@ Hab mir neue Sommerreifen gekauft, die alten waren kaputt.
 Warum muss eigentlich jedes Auto heutzutage so repariert werden?
 Der Anlasser will nicht mehr, hab wohl Glück gehabt.
 Meine Frau sagt immer, ich soll weniger Auto fahren.
-Habe das Dashboard selbst gereinigt, sieht wieder neu aus.
 Die Zündkerzen sind schon seit Jahren nicht mehr gewechselt worden.
 Ist das normal, dass mein Motor so viel vibriert?
 Hab heute 50 Liter Diesel getankt, voll tanken ist sicherer.
@@ -11487,31 +11419,7 @@ Ich muss bald zur Werkstatt wegen dem Checkmotorlicht.
 Der Kraftstofftank war leer und ich war genervt total.
 Reifenprofil ist bei den Vorderreifen schon sehr gering.
 Autopflege mache ich nur, wenn es wirklich nötig wird.
-Kannst du kurz meinen Schlüssel holen ich muss was einparken
-Die Werkstatt sagt die Zündkerzen sind komplett durchgebrannt
-Hoffentlich kommt der Mechaniker heute noch vor Feierabend
-Mein Tank hat gerade mal noch zwei Liter drin
-Ich muss dringend den Ölstand kontrollieren bevor ich losfahre
-Reifenwechsel ist dieses Jahr wieder teurer geworden als gedacht
-Hat schon jemand die neue Autowaschanlage in der Nähe getestet
-Mein Auto macht beim Anfahren dieses seltsame Klack-Geräusch
-Die Scheibenwischerblätter sind schon total verkratzt und stumpf
-Ich muss endlich mal das Kfz-Steuerportal abarbeiten
-Der Benziner frisst gerade richtig viel Sprit im Stau
-Kannst du mal gucken ob die Batterie noch spannung hat
-Die Abgasanlage rostet schon von unten durch anscheinend
-Ich habe heute morgen wieder vergessen den Diesel zu tanken
-Mein Parkticket ist vor fünf Minuten abgelaufen doof
-Der Schließzylinder an der Fahrertür klemmt irgendwie seit dem Winter
-Wir müssen bald die Vollbremsung üben weil alles schwammig ist
-Die Garage will 150 Euro für eine einfache Diagnose nehmen
-Ich liebe es wenn das Radio automatisch umschaltet auf UKW
-Mein Auto steht morgen wieder zur Inspektion in der Filiale
-Der Dieselpartikelfilter sollte bald mal gereinigt werden denke ich
 Hast du den neuen Modellcatalog vom VW schon gesehen heute?
-Die Stoßdämpfer vorne sind echt müde geworden bei jeder Grube
-Ich muss den Ladekabel für den E-Auto noch woanders lagern
-Der Kofferraumdeckel klappt nicht mehr richtig zu seit dem Sturz
 Mein Auto läuft seit Wochen so rumpelig, muss mal ran.
 Die Rechnung von letzter Woche hat mich echt sauer gemacht.
 Hoffentlich hält die Batterie den strengen Winter dieses Jahr über.
@@ -12218,7 +12126,6 @@ Der Dieselgeruch im Innenraum ist zum Ausdauerertragn.
 Ich würde das Auto liebend gern sofort wieder loswerden.
 Die Scheibenwischerblätter waren total eingetrocknet und spröde.
 Hoffentlich muss ich nicht so lange wie letzte Woche warten.
-Das Dashboard leuchtet seit gestern Nacht rot auf.
 Ich such schon ewig nach einem guten Schmiermittel für die Türangeln.
 Hab grad das Öl gewechselt, war total schmutzig.
 Die Werkstatt hat mich um die Ecke gebracht.
@@ -12297,7 +12204,6 @@ Mein KFZ muss nächste Woche unbedingt zum Hauptuntersuchung.
 Die Werkstatt hat mir gesagt, dass die Kupplung geht.
 Hast du schon mal an einen Hybrid gedacht?
 Im Winter rutscht man halt öfter weg als im Sommer.
-Das Dashboard leuchtet auf wie ein Weihnachtsbaum bei mir.
 Ich habe vergessen, den Tankdeckel richtig zuzudrehen gestern.
 Die Reifen haben vorne kaum noch Profil übrig.
 Mein Nachbar repariert alles selbst in seiner Garage.
@@ -12664,7 +12570,6 @@ Die Nebelscheinwerfer muss ich dringend neu einbauen lassen.
 Mein Nachbar schwört nur auf dieses bestimmte Öl.
 Der Pollenfilter sorgt im Sommer für frische Luft.
 Ich verhasse es, wenn die Werkstatt länger braucht als gesagt.
-Das Dashboard leuchtet seit gestern rot auf, gruselig.
 Reifen prüfen sollte man doch eigentlich selbst machen können.
 Hoffentlich wird das Ding noch bis zum nächsten Urlaub durchhalten.
 Die Rechnung von der Werkstatt hat mich echt aus der Fassung gebracht.
@@ -12754,7 +12659,6 @@ Der Zündkerzenausweis war komplett schwarz, da muss man handeln.
 Ich hasse es wenn der Autofilter staubig riecht nach Fahrt.
 Die Werkstatt hat versprochen bis Montag fertig zu sein heute ist Mittwoch.
 Mein Partner meckert immer wenn ich wieder mal nicht zum Service fahre.
-Ach verdammt, wieder der Check Engine light auf dem Dashboard.
 Mein Kollege hat gesagt die Werkstatt würde das falsch machen.
 Ich habe mir den neuen Tankstellenpreis genau angesehen und geschluckt.
 Warum muss ich eigentlich bei jedem Wechsel auch noch eine Kontrolle zahlen.
@@ -13023,7 +12927,6 @@ Meine Mutter beschwert sich dauernd über den hohen Spritverbrauch.
 Kann jemand mal kurz die Reifen kontrollieren vor der Reise?
 Die Reparatur war günstiger als befürchtet, das freut mich riesig.
 Ich muss bald wieder die Scheibenwischer austauschen, sie quietschen total.
-Warum ist die Abgaswarmlampe im Dashboard plötzlich angegangen?
 Beim Vorbeifahren an der Tankstelle riecht es schon verdammt gut.
 Ich habe endlich einen Termin bei der Werkstatt bekommen, prima.
 Das Parken in der Stadt ist wirklich zum Mäusemelken geworden.
@@ -13236,3 +13139,2219 @@ Mal sehen, ob der neue Mechaniker das Problem findet.
 Kaltstart war heute echt schwierig imminusgraden Temperaturen draußen.
 Die Sitze sind schon ziemlich durchgesessen nach Jahren.
 Ich muss dringend den Luftdruck kontrollieren bevor die Fahrt.
+Endlich wieder Vollgas geben können nach dem Ölwechsel.
+Mein Tankstand ist kritisch, muss gleich tanken gehen.
+Der TÜV-Mann meckert immer wegen der Nebelscheinwerfer.
+Warum kostet so ein einfacher Wechsel jetzt schon 150 Euro?
+Die Motorhaube knarrt bei jeder kleineren Schlaglochstelle.
+Ich hab vergessen den Zapfschlauch wieder reinzustellen, peinlich.
+Leuchtet die Bordcomputerlampe ständig rot oder gelb?
+Mein Auto zieht leicht nach rechts beim Bremsvorgang.
+Die Werkstatt sagt es ist normal, das glaube ich nicht.
+Hast du schon mal den Zündkerzenwechsel selbst gemacht?
+Der Dieselverbrauch ist letztes Jahr irgendwie viel gestiegen.
+Vorsicht bei Billigreifen, die reißen bei Nässe sofort.
+Ich muss erst noch die Vollkasko für dieses Jahr kündigen.
+Das Navigationsgerät zeigt immer wieder falsche Routen an.
+Schade dass der Lack doch so schnell matt wird.
+Kann man den Winterdienst eigentlich auch im Sommer nutzen?
+Mein Vater meinte ich sollte lieber benzinfreundlich fahren.
+Die Stoßdämpfer sind wohl durch, das wackelt ganz stark.
+Hab heute gleich den Termin für die Inspeption gebucht.
+Ist dein Auto schon winterfest gepackt für die Kälte?
+Die Batterie hält nicht mehr so lange wie früher.
+Man merkt doch wenn ein Filter verstopft ist.
+Superbilliger Treibstoff wars dann wohl mal wieder nicht wert.
+Der Dieselverbrauch ist in letzter Zeit deutlich gestiegen.
+Hab gerade neue Bremsbeläge eingebaut, hört sich schon besser an.
+Die Werkstatt wollte 400 Euro für die Batterie nehmen.
+Mein Tank füllt sich so langsam seit dem letzten Mal.
+Hoffentlich wird der TÜV-Check nichts Negatives ergeben.
+Reifendruck war zu niedrig, Glück gehabt mit den Sommerreifen.
+Das Check-Engine-Licht leuchtet wieder, nervt wirklich total.
+Ich lass die Ölwechsel immer nur bei kleinen Betrieben machen.
+Winterreifen lagern jetzt im Keller bis zur ersten Nachtfrostwoche.
+Die Karosserie ist etwas verrostet unter der linken Tür.
+Hast du schon mal das Zahnriemenintervall überprüft?
+Tankstelle hat versehentlich Benzin in meinen Diesel getankt.
+Kraftstoffkarte verläuft nächsten Monat, schon verlängert?
+Die Polster im Beifahrersitz sind schön abgefahren und weich.
+Wurde überrascht mit einer Rechnung für unnötige Teilewechsel.
+Motoröltopf ist wieder voll, ich muss gleich nachfüllen.
+Scheinwerfer wurden nachgestellt, jetzt leuchtet der Scheinwerfer richtig.
+Autowäsche war heute Abend zu teuer geworden für mich.
+Der Rückspiegel ist gebrochen beim Einparken in die Garage.
+Katalysator macht Sorgen, weil er nicht mehr richtig funktioniert.
+Versicherung hat den Unfallschaden schnell und unkompliziert übernommen.
+Lederpflege macht die Sitze innen wieder schön pflegeleicht.
+Der Ölstand war wieder mal niedrig genug zum Panikschlagen.
+Mein Auto ist heute früh einfach mitten auf der Autobahn stehen geblieben.
+Die Werkstatt wollte für den kompletten Motorcheck satte hundertfünfzig Euro haben.
+Ich sollte mir endlich mal die Bremsen anschauen lassen, sie knarren.
+Leider ist bei mir gerade die Batterie komplett leer, ärgerlich.
+Hat jemand eine Empfehlung für eine günstige und zuverlässige Autowäsche?
+Die Sommerreifen müssen eigentlich schon gegen die Winterreifen getauscht werden.
+Ich liebe es doch total zu warten bis der Tank fast leer ist.
+Mein Partner meckert immer wenn ich das Licht im Gang vergessen auszumachen.
+Der TÜV-Termin war leider verschoben worden, nun muss ich neu buchen.
+Es riecht irgendwie komisch nach Verbrenntem im Inneren des Fahrzeugs.
+Die Lackierung vorne ist schon ziemlich abgeblättert durch kleine Steinschläge.
+Ich habe heute morgen endlich die Kerzen gewechselt und spüre den Unterschied.
+Die Rechnung der Werkstatt war diesmal wirklich fair kalkuliert, selten gut.
+Mein Auto braucht seit Kurzem etwas länger zum Anlaufen im Winter.
+Kann mir jemand erklären warum meine Rückfahrkamera so dunkel ist?
+Ich fahre schon seit Jahren nur noch an bestimmten Tankstellen hin.
+Der Airbag hat sich nach dem kleinen Unfall wohl nicht ausgelöst.
+Es wäre wirklich sinnvoll endlich mal das Getriebeöl wechseln zu lassen.
+Mein neuer Hybrid verbraucht tatsächlich deutlich weniger Sprit als das alte.
+Die Karosserie war nach dem Parkkratzern doch gar nicht so schlimm.
+Ich muss dringend die Scheibenwischer austauschen, sie schleifen nur noch.
+Warum ist der Dieselpartikelfilter bei meinem Auto schon wieder voll?
+Die Werkstatt hat mir geraten erst mal abzuwarten bis zum nächsten Jahr.
+Mein Auto schüttelt sich leicht wenn ich schneller als hundert fahre.
+Der Spritverbrauch ist letztes Jahr echt ins Kraut gewachsen.
+Habe gerade die Batterie getauscht, weil sie einfach nicht mehr hielt.
+Die Werkstatt hat mir einen neuen Anlasser eingebaut, kostete eine Scheibe.
+Seit dem Reifenwechsel ruckelt das Lenkrad ein bisschen auf der Straße.
+Ich traue dem Vorbesitzer dieses gebrauchten Autos nicht wirklich.
+Der Tankanzeige ist wieder auf rot, muss bald an die Pumpe.
+Mein Kofferraumdeckel geht seit gestern nur noch mit Gewalt auf.
+Habt ihr auch schon von den neuen Umweltzonen in der Innenstadt gehört?
+Die Scheibenwischer brauchen dringend Austausch, sie quietschen nur noch.
+Habe mir eine Jacke gekauft, damit ich nicht friere wenn die Heizung ausfällt.
+Der Mechaniker sagt, ich soll warten bis zum nächsten Monat mit dem Ölwechsel.
+Es ist immer nervig, wenn man stundenlang in der Warteschlange steht.
+Mein Auto startete heute Morgen gar nicht mehr, obwohl der Frost weg war.
+Ich vergleiche Preise online bevor ich irgendwohin mit dem Wagen fahre.
+Die Klimaanlage funktioniert wieder einwandfrei nachdem sie gesäubert wurde.
+Habe vergessen den Benzintankstopfen festzudrehen und rieche überall Sprit.
+Der Pollenfilter muss wirklich bald gewechselt werden, sonst niese ich total.
+Warum kostet eine einfache Ölwechsel bei mir immer mehr als früher?
+Die Karosserie sieht aus wie neu nach der Polierung im letzten Sommer.
+Ich habe Angst dass der TÜV-Sachverständiger doch einen Mangel findet.
+Bevor ich losfahre prüfe ich immer den Druck der Reifen sorgfältig.
+Die Werkstatt hat mir geraten, die Kupplung schon bald zu erneuern.
+Mein Navigationsgerät zeigt manchmal falsche Routen an wenn ich im Stadtzentrum bin.
+Ach Mist, ich habe wohl doch nur noch einen halben Tank.
+Die Werkstatt war diesmal wirklich pünktlich mit der Reparatur.
+Ich verfluche gerade mein Leben weil die Batterie wieder platt ist.
+TÜV durchgefallen wegen zu dünnen Reifen, typisch halt.
+Der Diesel kostet ja fast drei Euro pro Liter heute.
+Mein Auto schleppt sich irgendwie seit der letzten Tankstelle.
+Die Scheibenwischer sind so abgenutzt dass sie nur noch quietschen.
+Ich muss dringend an die Bremsen ran sonst wirds gefährlich.
+Kannst du mir deinen Wagen mal kurz zum Einkaufen leihen?
+Der Mechaniker meint es sei ein einfacher Sensordefekt geworden.
+Ich liebe diesen Geruch von neuem Lack in der Werkstatt.
+Warum ist bei meinem Fahrzeug eigentlich schon wieder eine Warnleuchte an?
+Die Autowäsche gestern hat sich wirklich gelohnt, sieht top aus.
+Mein Vater behauptet noch kein Ölwechsel sei nötig gewesen.
+Die Garage ist voller Zeug das ich vielleicht irgendwann brauche.
+Ich hasse es wenn die Werkstatt mich wochenlang nicht erreicht.
+Der Pannenservice kam nach drei Stunden endlich doch noch an.
+Hörst du auch dieses seltsame Klicken beim Anfahren?
+Ich spare mir lieber Geld als teure Lackretuschen zu bezahlen.
+Das Navigationssystem streikt mal wieder seit dem letzten Update.
+Die Sommerreifen liegen schon im Keller und warten auf mich.
+Mein neuer Autohändler versucht mir noch ein Schutzpaket anzuhängen.
+Ich fahre lieber zur nächsten Zapfsäule da tanken sie billiger.
+Der Benziner kostet mich gerade ein Vermögen, echt nervig.
+Hab gestern die Ölstandanzeige gesehen, wieder zu niedrig.
+Mein Fahrwerk knarzt beim Anfahren total seltsam.
+Die Ersatzbremsbeläge waren billiger als in der Werkstatt.
+Lampe war kaputt, habe sie im Baumarkt getauscht.
+Reifen sind doch schon ganz schön abgefahren, merk ich.
+Die Batterie schwächelt bei Kälte, muss bald gewechselt werden.
+Warst du auch schon mal bei der Ersatzteilwarteschlange?
+Mein Auto ist so alt wie mein Sohn, läuft trotzdem gut.
+Kraftstoffverbrauch im Sommer war dieses Jahr echt hoch.
+Die Scheibenwischer haben keine Saugkraft mehr, völlig verschlissen.
+Habe einen Platten auf der Autobahn, Pech halt einfach.
+Der Mechaniker meinte, ich soll das Getriebe prüfen lassen.
+Politur hat gewirkt, sieht das Blech wieder gut aus.
+Winterreifen lagern im Keller, Platz wird immer enger.
+Die Zündkerzen sind schon überfällig für den Wechsel.
+Autopflege am Wochenende macht richtig Spaß, finde ich.
+Versicherung zahlt nur die Hälfte, Rest muss ich zahlen.
+Der Tankdeckel geht nicht mehr richtig zu, komisch.
+Ich habe den Fehlercode im Display gesehen, Rot leuchtet.
+Schleppdienst war zum Glück schnell da, guter Service.
+Die Sitze brauchen dringend eine Reinigung, ganz dreckig.
+Kupplung rutschte beim Anfahren, das ist mir aufgefallen.
+Das Ölwechsel-Terminfenster war schon lange vorbei, jetzt erst dran.
+Warum kostet so ein simpler Reifenwechsel heute hundert Euro?
+Mein Polo verbraucht wieder mehr Benzin als sonst.
+Die Werkstatt meinte, die Kupplung sei bald fällig.
+Ich hab die Scheibenwischer selbst gewechselt in fünf Minuten.
+Der TÜV-Schein ist erst nächste Woche gültig, pünktlich.
+Ach nee, wieder eine Gelblicht-Meldung im Display.
+Die Sommerreifen haben echt keinen Profil mehr, dringend wechseln.
+Mein Vater schwört auf seinen alten BMW, niemals kaputt.
+Hast du schon das Serviceheft für die Garantie gecheckt?
+Das Fahrzeug ruckelt beim Anfahren total merkwürdig hin und her.
+Ich muss unbedingt bald wieder die Kfz-Versicherung vergleichen lassen.
+Der Mechaniker hat mir extra noch den Filter kostenlos getauscht.
+Super, genau das wollte ich hören, dass alles i. O. ist.
+Mein Auto steht seit drei Tagen schon in der Reparaturwerkstatt.
+Die Heckscheibe war doch nur angerissen, jetzt muss sie weg.
+Hörst du auch dieses quietschen wenn ich bremsen will?
+Ich liebe den Duft von neuem Leder im Innenausbau.
+Kann mal jemand meinen Pkw vor dem Haus abholen?
+Die Batteriekapazität ist wohl schwach, Anlasser dreht nur leise.
+Endlich wieder alles sauber, der Wagenschein ist aufgelegt.
+Der Dieselrußpartikelfilter könnte sich schonmal verstopfen, Vorsicht.
+Ich zähle die Tage bis zum nächsten Ölwechsel hin.
+Die Karosserie hat leider ein paar kleine Steinschläger davongetragen.
+Warum muss ich eigentlich so oft Tanken gehen heutzutage?
+Der Motor raucht leicht beim Anfahren, echt blöd.
+Meine Werkstatt hat gestern die Batterie ausgetauscht.
+Ich muss endlich neues Bremsenfluid reinmachen, ist alt.
+TÜV war heute glatt bestanden, ohne Mängelliste.
+Die Scheibenwischer klappern wieder ganz furchtbar auf der Straße.
+Benzinpreise sind dieses Jahr wirklich wieder explodiert.
+Reifenprofil ist kritisch, brauche dringend Sommerreifen.
+Kraftstoffverbrauch ist in der Stadt echt mies geworden.
+Das Autowaschen selbst spart doch so viel Geld.
+Mein Auto steht schon seit zwei Wochen in der Werkstatt.
+Der Mechaniker sagte, ich müsse warten bis zur Woche.
+Ich hasse es, wenn das Auto morgens nicht anspringt.
+Die Lichtmaschine muss wohl auch noch mal ran.
+Vorher immer kurz nach dem Ölstand schauen, hilft viel.
+Mein Freund ist KFZ-Meister und repariert alles billig.
+Der Parksensor rechts hinten funktioniert seitdem gar nicht mehr.
+Ich fahr lieber Diesel wegen der langen Strecken ins Ausland.
+Die Lackierung bekommt schon so viele Steinschläge im Winter.
+Wolltest du nicht auch mal den Filter wechseln?
+Mein Auto sieht aus wie neu nach der Polierbehandlung.
+Das Navigationssystem hakt immer noch seltsam rum beim Laden.
+Ich hab einen Riss im Frontscheiben-Glas entdeckt, oje.
+Ich spare mir die Pflege beim Carwash immer selbst zu Hause.
+Mein Wagen springt morgens überhaupt nicht an.
+Die Werkstatt hat wieder mal das Doppelte berechnet.
+Ich sollte endlich die Kerzen wechseln lassen.
+Platter Reifen beim Überholen, totaler Pechblick halt.
+Der TÜV-Mantel ist schon im Kofferraum.
+Hab gestern abends wieder mal vollgetankt.
+Die Scheibenwischer sind ganz verkratzt und scheuern.
+Mein Mechaniker findet immer den Fehler sofort.
+Die Heizung funktioniert im Winter einfach nicht.
+Ich kaufe nur noch gebrauchte Autos aus privatem Besitz.
+Das Polster auf dem Fahrersitz ist zerschossen.
+Warum kostet ein simpler Ölwechsel so viel Geld?
+Der Nebelschlusslicht geht seit Wochen kaputt.
+Meine Frau fährt lieber den Bus zur Arbeit.
+Die Garage ist leider schon wieder ausgebucht.
+Ich muss dringend an der Auspuffanlage basteln.
+Der Spritverbrauch ist in letzter Zeit explodiert.
+Hast du die Bremsflüssigkeit schon mal geprüft?
+Das Autoradio streikt immer wenn ich müde bin.
+Neue Sommerreifen warten schon auf den Wechsel.
+Die Lackierung an der Tür ist angerostet.
+Ich verabscheue Wartungsarbeiten am eigenen Auto.
+Der Check-Engine-Lämpchen leuchtet seit drei Tagen.
+Kann jemand mir beim Akkutausch helfen?
+Das Lenkrad vibriert bei hohen Geschwindigkeit extrem stark.
+Hab heute wieder mal an der Werkstatt gezweifelt.
+Der Spritverbrauch ist seit dem Ölwechsel merkwürdig hoch.
+Mein Pappi sagt immer, man soll nicht zu spät tanken.
+Die Ersatzbremse hatte ich glücklicherweise im Kofferraum.
+Reifendruck checken, das vergesse ich oft in der Hektik.
+Warum muss so ein kleiner Kratzer gleich hundert Euro kosten?
+Ich fahre nur noch mit AdBlue, sonst geht nix mehr.
+Der Mechaniker hat mir empfohlen, direkt die Kupplung zu tauschen.
+Hast du schon mal probiert, den Luftfilter selbst zu wechseln?
+Mein Auto steht seit drei Wochen in der Einbuchtung.
+Die Garantie läuft nächste Woche ab, perfekt für Reparaturen.
+Ich hasse es, wenn die Werkstatt mich am Montag anruft.
+Einfach nur Benzin rein und losfahren, das wars doch früher.
+Die Scheibenwischer machen ein widerliches Quietschen auf der Windschutzscheibe.
+Hab bei Amazon Teile bestellt, sind billiger als beim Händler.
+Der TÜV-Mann hat meckert wegen meiner Nebelschlusslichter.
+Ist deine Kfz-Versicherung wirklich so teuer geworden wie bei mir?
+Ich putze mein Auto nur noch im Supermarkt-Parkplatz.
+Die Batterie war wieder schwach nach dem langen Winterstand.
+Man muss aufpassen, dass man nicht den falschen Ölfilter kauft.
+Mein Kollege empfiehlt nur noch die freie Werkstatt in der Stadt.
+Das ABS-Licht geht ab und zu einfach so an.
+Ich hab Angst, dass mir jetzt die Garantie verfällt.
+Echt ärgerlich, dass ich jetzt zwei Tage ohne Auto bin.
+Ich hab den Tank schon fast leer gefahren gestern.
+Die Werkstatt will für die kleine Reparatur viel Geld haben.
+Mein Auto zieht leicht nach links, da muss ich hingehen.
+Der TÜV war dieses Jahr wieder stressig und teuer.
+Ich fahre lieber Diesel, das ist günstiger im Long Run.
+Die Scheibenwischer sind kaputt, brauch dringend Ersatz.
+Hat jemand eine Empfehlung für einen guten Autowaschplatz?
+Mein Pannenhelfer kommt heute endlich zur Hilfe.
+Wir haben uns ein gebrauchtes Auto gegönnt letztes Jahr.
+Die Reifen sind glatt abgefahren, sofort wechseln müssen wir.
+Ich hasse Wartungsaufenthalte, die dauern ewig lang.
+Der Motor macht seit dem Urlaub seltsame Geräusche.
+Benzinpreiskrise ist echt nervig in den letzten Monaten.
+Ich putze mein Auto jedes Wochenende selbstständig gründlich.
+Die Navigation hat mich gerade komplett falsch geführt heute.
+Hast du schon mal ein Autodiagnose-Tool zu Hause ausprobiert?
+Ich traue mich nicht alleine an die Ölwechsel ran.
+Das Parken in der Innenstadt wird immer schwerer für mich.
+Mein Freund hat mir einen Tipp zur Autoversicherung gegeben.
+Die Heckscheibe hat einen kleinen Riss bekommen gestern.
+Ich liebe es, mit dem Fenster runter zu fahren.
+Der Schlüsselanhänger ist wieder mal irgendwo im Auto verlaufen.
+Wir brauchen dringend eine neue Batterie für das Auto.
+Die Sitzbezüge sind schon ganz schön abgenutzt jetzt.
+Das Auto macht beim Anfahren ein seltsames Geräusch.
+Ich habe gerade den Tank vollgetankt, war echt teuer.
+Mein Beifahrerscheibenwischer ist komplett zerbrochen nach dem Sturm.
+Hast du schon einen Termin für den Hauptuntersuchung gemacht?
+Die Werkstatt behauptet ich bräuchte neue Bremsbeläge sofort.
+Ich liebe es am Wochenende selbst den Motor zu inspizieren.
+Ach verdammt, die Kontrollleuchte im Armaturenbrett leuchtet wieder rot auf.
+Mein Vater meint das Fahrzeug sei schon total abgerochen.
+Reifenprofil unter vier Millimeter ist einfach gefährlich bei Regen.
+Der Service war pünktlich und der Preis okay ehrlich gesagt.
+Ich verliere immer den Überblick über die Inspektionsintervalle meines Wagens.
+Die Stoßdämpfer quietschen jedes Mal wenn ich über eine Schlaglöcher fahre.
+Tankstellenpreisdifferenz von fünfcent macht bei 50 Litern schon was aus.
+Mein Kumpel hat mir geraten direkt zur Independent Werkstatt zu gehen.
+Der Schlüsselanhänger ist leider kaputtgegangen, muss ich tauschen lassen.
+Ich putze den Lack immer mit einem speziellen Mikrofasertuch nach.
+Die Scheibe vorne rechts hat einen kleinen Spitzer bekommen vom Stein.
+Autobahnfahrt heute war stressig weil der Verkehr total stockte.
+Die Batterie schwächelt im Winter und springt manchmal nicht mehr richtig an.
+Ich vergleiche vor jeder großen Reparatur unbedingt drei Kostenvoranschläge unterschiedlich.
+Leider steht das Auto jetzt schon seit zwei Wochen bei der Werkstatt rum.
+Das Navi zeigt die falsche Straße, ist echt nervig auf der Landstraße.
+Ich fahre immer Diesel weil es sich bei mir einfach lohnt finanziell.
+Hat jemand Erfahrung mit einer günstigen Autowaschanlage in der Nähe?
+Das Serviceheft ist schon wieder vollgeschmissen.
+Mein Freund hat den Ölstand einfach vergessen zu prüfen.
+Die Werkstatt meinte, ich bräuchte neue Anlageteile sofort.
+Klappt der Termin morgen bei der Hauptuntersuchung vielleicht?
+Ich kaufe Treibstoff nur noch an der tankstelle nebenan.
+Die Scheibenwischer klappern wieder wie verrückt auf der glasfläche.
+Hab gestern abend doch fast ohne benzinfahrt gescheitert.
+Der Mechaniker hat mir das problem mit dem geräusch erklärt.
+Reifenprofil ist bei den hinten schon echt kritisch geworden.
+Ich warte jetzt lieber selbst mal die kühlflüssigkeit nach.
+Die Rechnung kam deutlich höher als ich eigens erwartet hätte.
+Mein auto verabschiedet sich langsam aber sicher vom leben.
+Hat jemand erfahrung mit diesem neuen servicecenter in stuttgart?
+Der polstergeruch im innenraum ist einfach zum kotzen honestly.
+Ich hab die batterie kurzgeschlossen und jetzt geht nix mehr.
+Die garantie läuft nächste woche ab, muss da dran denken.
+Warum müssen reifen heutzutage so unglaublich teuer sein eigentlich?
+Mein brother meint, ich soll das auto gar nicht kaufen.
+Der luftdruck war viel zu niedrig und hat mich gekostet.
+Ich schmiere den achslenkermann immer mit fettspray nach dem regen.
+Das startstop system macht bei meiner limousine total keinen sinn.
+Der werkstattmeister war echt unfreundlich beim telefonat gestern abend.
+Mein motor läuft wieder viel ruhiger seit dem wechsel.
+Ich vermisste meinen alten schrottkoffer manchmal trotzdem sehr stark.
+Achtung, der parksensor ist kaputt und blinkt ständig rot.
+Der Spritverbrauch ist plötzlich viel höher geworden.
+Ich muss echt mal das Öl wechseln lassen.
+TÜV war wieder eine nervige Sache dieses Jahr.
+Die Werkstatt hat mich total über den Tisch gezogen.
+Reifendruck prüfen, damit nicht wieder was passiert.
+Mein Auto macht seit gestern seltsame Geräusche.
+Hast du schon einen Termin für die Hauptuntersuchung?
+Der Winter kommt und meine Reifen sind am Ende.
+Ich bezweifle stark die Rechnung von der Garage.
+Einfach nur Benzintank füllen und wieder losfahren.
+Die Scheibenwischer funktionieren einfach nicht mehr richtig.
+Warum kostet ein simples Bremsenwechseln so viel Geld?
+Mein Motorölstand ist gerade im grünen Bereich.
+Ich habe das Auto heute gründlich gewaschen.
+Der Fahrstuhl in der Werkstatt geht seit Wochen nicht.
+Kannst du mir kurz den Ersatzschlüssel leihgeben?
+Die Airbag-Kontrollleuchte leuchtet schon seit Monaten.
+Ich finde keine passende Halterung für mein Handy.
+Schön, dass die Garantie auf das Auto noch gilt.
+Ich sollte wirklich bald ins Serviceportal schauen.
+Das Dachfenster geht nur schwer wieder hoch.
+Wir müssen mal einen neuen Winterreifen kaufen.
+Der Gangwechsel klemmt seit dem letzten Unfall.
+Hoffentlich ist nichts kaputt gegangen beim Parken.
+Der Spritverbrauch ist diese Woche wieder absurd hoch.
+Ich habe Angst vorm nächsten Werkstattbesuch, die Kosten explodieren immer.
+Kann mal jemand die Scheibenwischer wechseln, die quietschen nur noch.
+Die Abgasanlage klingt richtig schlecht seit letzter Reise.
+Mein Vater sagt man soll den Ölfilter öfter tauschen.
+Der TÜV war diesmal glücklicherweise super freundlich und schnell.
+Ich traue mich nicht ans Auto, irgendwas tickt im Motorraum.
+Reifen auf der Autobahn platt, Glück hatte ich wirklich.
+Die Lackierung sieht nach zwei Jahren schon ganz matt aus.
+Hast du die Batterie mal laden lassen oder ist sie kaputt?
+Der Werkstattmechniker meint es sei nur ein kleines Ding.
+Ich fahre eigentlich nur noch Elektro, Benziner nerven mich.
+Die Standheizung hat im Winter immer super funktioniert.
+Warum muss ich für jeden Bolzen extra zahlen verstehen nicht.
+Mein Kfz-Kosten sind dieses Jahr wieder deutlich gestiegen.
+Der Beifahrerairbag leuchtet seit drei Wochen auf der Konsole.
+Ich putze das Auto lieber selbst, die Waschanlagen zerkratzen alles.
+Kommt denn schon eine Rückrufaktion für diesen Motor hin?
+Die Fensterheber machen ein seltsames Knacken beim Schließen.
+Ich muss dringend Bremsflüssigkeit nachfüllen sonst bremst es schlecht.
+Das Navigationssystem ist veraltet und zeigt falsche Routen an.
+Mein Auto verbraucht so viel Öl dass ich immer nachgießen muss.
+Die Polster im Innenraum sind von der Sonne ausgebleicht.
+Ich vermisse die guten Zeiten als Autos noch einfach zu reparieren waren.
+Der Service-Termin war eigentlich pünktlich, das hat gut getan.
+Die Werkstatt hat heute schon wieder einen hohen Stundensatz verlangt.
+Mein Benziner frisst im Stadtverkehr einfach zu viel Kraftstoff.
+Hast du eigentlich schon Termine für den nächsten Hauptuntersuchung?
+Der Reifendruck war bei allen vier Rädern viel zu niedrig.
+Die Batterie war komplett leer nach diesem kalten Winter.
+Mein Mechaniker sagt, ich solle bald die Zahnriemen wechseln lassen.
+Es riecht stark verbrannt im Fahrzeuginnenraum seit gestern Abend.
+Das Starten klappt morgens nur mit viel Geduld und Glück.
+Die Lackierung an der Seite hat schon wieder ein paar Kratzer.
+Ich finde es nervig, wenn die Werkstatt ohne Abmeldung ruft.
+Der Dieselrußpartikelfilter scheint bei mir langsam zu verstopfen.
+Hast du schon gesehen, dass meine Scheibenwischer total verschlissen sind?
+Die Bremsen quietschen immer noch so laut wie am Anfang.
+Ich spare Geld, indem ich den Ölwechsel selbst mache.
+Das Navigationssystem streikt seit dem letzten Softwareupdate komplett.
+Mein Auto steht schon zwei Wochen bei der Instandsetzung.
+Die Nebelscheinwerfer sind kaputt gegangen und müssen ausgetauscht werden.
+Ich hoffe wirklich, dass die Rechnung nicht zu hoch ausfällt.
+Der Tankdeckel macht komische Knackgeräusche beim Zudrehen seitdem.
+Man merkt doch sofort, wenn das Fahrwerk dringend geschmiert werden muss.
+Die Werkstatt hat mir geraten, lieber neu als gebraucht zu kaufen.
+Mein Auto ist zwar alt, fährt sich aber immer noch stabil.
+Ich habe vergessen, den Versicherungsschutz für die Kasko zu verlängern.
+Der Aufkleber am Fenster vom letzten Jahr ist langsam abgefallen.
+Mein Auto macht seit Wochen ein seltsames quietschen.
+Hab heute morgen beim Starten gedacht ich hab nix mehr.
+Endlich die neuen Sommerreifen montiert, geht ja los.
+Der TÜV hat diesmal zum Glück nichts angemerkt super.
+Ich hasse es, wenn mein Auto in der Garage steht.
+Kannst du mir mal kurz den Ölstand kontrollieren bitte?
+Die Bordcomputer-Anzeige war wieder komplett falsch berechnet.
+Meine Nachbarin hat mir ihren Schraubenschlüssel geliehen danke.
+Warum kostet eine einfache Batterie so unglaublich viel Geld?
+Der Motorölwechsel steht eigentlich erst im nächsten Monat an.
+Ich traue mich nicht, das Auto selbst zu reparieren ehrlich.
+Die Stossdämpfer knarren schon wieder wie die Hölle losgetreten.
+Beim Tankstellen-Service hab ich das letzte Mal nichts bezahlt.
+Mein Auto ist zwar alt aber hält noch super aus.
+Die Scheibenwischerblätter müssen dringend gewechselt werden sonst nichts sehen.
+Hast du schon mal am Zündkerzen geschraubt bei dir?
+Der Werkstattmeister war heute Morgen besonders unfreundlich und langsam.
+Ich hoffe inständig, dass der TÜV nicht zum zweiten Mal kommt.
+Das Dieselkraftstoff-Additiv hat irgendwie gar nichts gebracht ehrlich gesagt.
+Mein Auto verbraucht seit kurzem viel mehr als sonst.
+Die Felgenkratzer nerven mich langsam richtig an jedem Wochenende.
+Kannst du mal kurz gucken ob die Pumpe noch geht?
+Ich muss echt bald den Gangschaltkopf wechseln lassen oder so.
+Der Ölwechsel kostet bei der freien Werkstatt nur die Hälfte.
+Hab gerade noch mal nachgesehen, der Druck ist OK.
+Mein Kfz-Steuerbrief ist wieder abgelaufen, nervig das.
+Die Werkstatt war voll ausgebucht, bis nächsten Monat warten.
+Reifendruckkontrolle mache ich jetzt erst mal nicht, regnet ja schon.
+Ich hab keine Lust mehr auf diese ewigen Wartungstermine.
+Super E 10 ist wirklich günstiger als normale Benzinmischung.
+Die Scheibenwischer raspeln so laut, ich muss sie tauschen.
+Hast du den neuen Zahnriemen schon einbauen lassen?
+Mein Auto startet morgens total ungern bei diesem Frost.
+Der Parksensor links funktioniert gar nicht mehr richtig.
+Ich fahr lieber selbst zum Hahn statt in teure Tankstellen.
+Die Lackierung blättert an der C-Säule bereits ab.
+Wirklich ärgerlich, dass sie mir kein Festpreisangebot machen wollen.
+Mein Nachbar schwört auf diese günstige Autowerkstatt im Norden.
+Der Dieselpartikelfilter ist wahrscheinlich schon verstopft oder so.
+Ich muss unbedingt die Batteriespannung prüfen lassen, zittert beim Starten.
+Kaltstart hört sich heute wirklich anders an als gestern Abend.
+Die Polster sind nach acht Jahren total ausgelaugt und fleckig.
+Vergiss nicht den TÜV-Termin in deinem Kalender einzutragen!
+Mein Auto frisst jetzt mehr Sprit seit dem letzten Update.
+Die LED-Tagfahrlichter gehen ab und zu einfach flackernd aus.
+Ich kauf immer gebrauchte Reifen von seriösen Händlern online dazu.
+Die Windschutzscheibe hat einen kleinen Riss unten links bekommen.
+Der Sprit steht gerade bei unglaublichen vier Euro pro Liter.
+Hab gestern Abend festgestellt dass die Bremsen quietschen.
+Die Werkstatt hat mir gesagt das Getriebe sei kaputt.
+Mein Auto ist so alt wie ich fast selbst.
+Ich hoffe wirklich das der TÜV heute wieder klappt.
+Reifenwechsel im Herbst mach ich immer zu Hause selbst.
+Das Tanken wird langsam echt zum nervigen Ritual.
+Die Scheibenwaschanlage spritzt nur noch ein ganz wenig.
+Kannst du mal kurz nachschauen ob das Licht geht?
+Mein Fahrzeug verbraucht im Sommer deutlich weniger Benzin.
+Der Serviceheft ist voll aber ich fahre trotzdem weiter so.
+Wirklich ärgerlich dass die Werkstatt mich so lange warten ließ.
+Ich liebe es wenn mein Auto nach dem Waschen glänzt.
+Die Klimaanlage in meinem alten Pkw funktioniert überhaupt nicht mehr.
+Muss bald mal das Zahnriemen wechseln lassen weil er alt ist.
+Parken in der Stadt ist absoluter Wahnsinn jeden einzelnen Tag.
+Ich vergleiche immer die Preise bevor ich zum Mechaniker fahre.
+Der Dieselpartikelfilter war wieder mal komplett voll gestopft.
+Mein Beifahrer meint ständig das Auto riecht nach Schimmel.
+Wir fahren doch nur noch kurz zum Supermarkt eigentlich.
+Die Windschutzscheibe hat einen kleinen Riss in der Ecke.
+Ich überlege mir ob ich wirklich ein neues kaufen soll.
+Der Rückspiegel ist leider beim Parken komplett abgeschlagen worden.
+Der Spritverbrauch ist dieses Jahr echt ins Keller gegangen.
+Meine Werkstatt hat den Termin schon zwei Wochen verschoben.
+Ich hoffe mal dass es nur ein Sensor war.
+Hast du gesehen wie teuer die neuen Batterien sind?
+Die Ölwanne tropft seit der letzten Tanktour.
+Zum Glück war die Reparatur doch nicht so wild.
+Der TÜV-Mann hat gleich drei Mängel bemängelt.
+Wir brauchen bald neue Bremsbeläge an der Vorderachse.
+Mein Pech halt, immer wenn es kalt wird macht es zu.
+Die Polster waren so dreckig nach dem Campingurlaub.
+Ich kaufe meine Reifen nur noch online, viel günstiger.
+Der Mechaniker sagt man könnte das Teil noch retten.
+Hoffentlich geht die Garantie nicht ab bevor es kaputt ist.
+Die Heckscheibe hat einen kleinen Steinchip bekommen.
+Wir müssen morgen früh los und den Akku laden.
+Das Auto schlingert immer wenn ich über 100 fahre.
+Ich hasse diese Wartungstafel, man weiß nie was dran ist.
+Hab endlich einen Termin für die Lackierung gefunden.
+Die Scheibenwischer haben schon wieder Spurbild auf der Scheibe.
+Mein Freund meinte ich solle lieber das ganze Auto wechseln.
+Die Diagnose hat allein schon hundert Euro gekostet.
+Vor dem Urlaub muss ich mal ordentlich durchsaugen.
+Der Tankdeckel war irgendwie nicht richtig zugeklappt.
+Ich traue mich gar nicht mehr mit den alten Schuhen zu fahren.
+Mein Tank steht wieder auf E, hoffentlich schaffe ich noch die nächste Station.
+Die Werkstatt hat mir vorgerechnet, dass die Kupplung bald abraucht.
+Habe heute Morgen gemerkt, dass das Scheibenwasser komplett leer war.
+Der TÜV-Mann meckert immer wegen der gelben Kennzeichenleiste hinten.
+Reifendruck muss ich jeden Monat prüfen, sonst wirds teuer am Pisten.
+Mein Nachbar meint, ich sollte endlich auf Elektro umsteigen weil sparsam.
+Das Starten ging heute nur nach dem dritten Versuch, echt nervig.
+Habe mal wieder zu viel Diesel eingetankt, war total konfus an der Zapfsäule.
+Die Karosserie ist voll mit Steinschlägen vom letzten Autobahnweg letztes Jahr.
+Warum kostet ein neues Windschutzglas so viel Geld bei meiner Versicherung nicht gedeckt.
+Ich putze mein Auto nur noch schnell, hat einfach keinen Zeit mehr heute.
+Der Anlasser macht ein seltsames Kratzen, muss das bald mal checken lassen.
+Bei Kälte unter null Grad friert das Wasser im Motor oft schnell zu.
+Mein Freund hat eine Gebrauchtwagen gekauft und denkt jetzt schon an Aufwertung.
+Die Abgasanlage rostet langsam vor sich hin, sieht echt traurig aus da.
+Hoffentlich bricht kein Rad auf der langen Reise nach Bayern ab morgen früh.
+Der Werkstattchef war heute besonders unfreundlich als ich nach dem Preis fragte.
+Ich liebe den Sound meines Motors, wenn er richtig hochtourig läuft am Berg.
+Das Navigationsgerät ist langsam veraltet und zeigt oft falsche Routen an jetzt.
+Muss bald mal die Bremsflüssigkeit wechseln, war das letzte Mal vor zwei Jahren.
+Meine Frau klagt immer über den Gestank im Fahrzeuginnenraum nach dem Sport.
+Habe eine Beule auf der Tür gemacht beim Parkplatz manöver heute Mittag unglücklich.
+Der Airbag-Anzeigen leuchtet seit Wochen, hab Angst dass es gefährlich werden könnte.
+Tanken ist immer stressig wenn die Preise so hoch sind wie aktuell überall.
+Mein Auto fährt sich viel ruhiger als das alte Modell von letztem Jahr einfach.
+Hab heute wieder mal an der Tankstelle gestanden.
+Die Rechnung von der Werkstatt war absolut krass.
+Mein Auto ruckelt beim Beschleunigen total merkwürdig.
+Hoffentlich hält die Batterie den Winter noch durch.
+Der TÜV hat mir gleich zwei Mängel beanstandet.
+Schon wieder fehlt Öl, das ist doch nicht normal.
+Ich liebe meinen alten VW, er wird nie alt.
+Die Werkstatt will für die Diagnose extra kassieren.
+Meine Reifen haben kaum noch Profil, muss bald ran.
+Das Navigationssystem stürzt ständig ab, echt nervig.
+Hab den Wechsel von Sommer auf Winter selbst gemacht.
+Der Kfz-Wert ist im Internet jetzt schon halbiert.
+Komisch, seit dem Update funktioniert die Bluetooth-Audio nicht.
+Die Werkstatt meinte, ich bräuchte neue Auspuffdämpfer.
+Mein Auto verbraucht plötzlich doppelt so viel Sprit.
+Die Windschutzscheibe hat einen kleinen Riss bekommen.
+Ich habe Angst vorm nächsten Service-Termin und den Kosten.
+Der Anlasser gibt schon gar nichts mehr von sich.
+Super, das Ölwechsel-Intervall ist wieder überschritten worden.
+Die Karosserie braucht dringend eine ordentliche Lackierung.
+Ich vermissste die mechanische Handbremse in meinem neuen Auto.
+Der Tankdeckel geht nicht mehr richtig zu, peinlich.
+Hab beim Schlepper einen Termin für abholen gemacht.
+Mein Auto riecht im Inneren immer leicht modig.
+Mein Auto hat im Winter schon mal öfter gestreikt.
+Der neue Filter war gar nicht so teuer wie erwartet.
+Wieso kostet ein einfacher Ölwechsel jetzt so viel Geld?
+Ich muss mal schnell Benzin tanken, der Tank ist fast leer.
+Die Reifen sind ganz schön abgefahren, das sieht man sofort.
+Hast du schon gesehen, dass meine Rücklicht defekt ist?
+Der Mechaniker hat mir gesagt, dass bald etwas kaputtgeht.
+TÜV-Termin steht in zwei Wochen an, hoffe auf bestanden.
+Immer diese versteckten Kosten bei der Inspektion nerven einfach.
+Mein Auto verbraucht seit kurzem wieder deutlich mehr Sprit.
+Ich traue mich nicht, die Batterie selbst zu wechseln.
+Die Scheibenwischer machen schon lange nicht mehr richtig sauber.
+Warum muss ich für so eine kleine Reparatur warten?
+Der Werkstattbesitzer war heute total unfreundlich und abweisend.
+Ich lege mir immer etwas Geld fürs Auto zurück.
+Das Navigationssystem stört mich irgendwie beim Fahren im Stadtverkehr.
+Schön, dass der Motor jetzt wieder ruhig läuft ohne zu rattern.
+Ich kaufe meine Ölfilter lieber direkt online und nicht teuer in der Werkstatt.
+Hast du schon mal überlegt, auf Erdgas umzustellen?
+Mein Auto steht seit drei Wochen bei der Reparaturstation.
+Ich vergesse immer wieder, die Warndreiecke im Kofferraum zu kontrollieren.
+Die Bremsen sind vielleicht schon bald am Ende ihrer Lebensdauer.
+Super Service heute, obwohl ich erst spät in der Nacht kam.
+Ich muss morgen wieder zur Hauptuntersuchung fahren.
+Der Service war diesmal wirklich erschreckend teuer geworden.
+Mein Auto springt einfach nicht mehr an heute morgen.
+Hast du schon mal den Akkumulator kontrollieren lassen?
+Die Bremsen quietschen ganz furchtbar beim Anfahren.
+Ich kaufe nur noch Öl von der Marke im Fachmarkt.
+Das Licht ist kaputt und ich muss sofort wechseln.
+Vielleicht ist es doch Zeit für einen neuen Wagen.
+Der Gang einrastet nicht mehr richtig bei kalter Maschine.
+Hab gerade 60 Liter Super vollgetankt vorhin.
+Ist das wirklich nötig was der Mechaniker vorgeschlagen hat?
+Mein Vater sagt man soll nicht zu spät warten.
+Ich putze mein Fahrzeug jedes Wochenende morgens gründlich.
+Hat schon mal jemand diese neue App für Pannen benutzt?
+Die Garantie ist leider abgelaufen am letzten Monat.
+Super Plus kostet mich da drüben wieder was.
+Der Werkstattmeister rief mich an wegen einem Problem.
+Schön wenn das Auto im Winter doch noch startete.
+Ich vergesse immer den Tankdeckel nach dem Befüllen zu schließen.
+Die Luftdruckwerte bei den Reifen sind viel zu niedrig.
+Vorbei am Servicecenter musste ich kurz halten heute.
+Warum zahlt man so viel für einfache Verschleißteile?
+Kommt deine Versicherung auch die Reparaturkosten komplett übernehmen?
+Mein Auto macht nach dem Starten ein seltsames Geräusch.
+Die Werkstatt hat mir gesagt es wäre nur ein kleiner Defekt.
+Ich habe vergessen die Scheibenwaschanlage vor dem Frost zu leeren.
+Heute muss ich wieder mal zum Ölwechsel hinabstürmen.
+Der neue Winterreifen kostet mich diesmal fast zweihundert Euro.
+Mein Nachbar tippt immer auf eine kaputte Zündkerze bei mir.
+Das Armaturenbrett leuchtet rot und ich hab keine Ahnung warum.
+Vor der Sommerfahrt sollte man unbedingt den Kühler überprüfen lassen.
+Der Mechaniker meinte die Kupplung sei ganz normal abgenutzt.
+Mein Benziner verbraucht diesen Sommer mehr als sonst üblich.
+Die Garantie ist leider gerade vor zwei Wochen abgelaufen.
+Habe gestern einen Platten auf der Autobahn bekommen und geschwitzt.
+Die Airbagscheibe muss nach dem Unfall sofort ausgetauscht werden.
+Ich spare mir den TÜV-Termin lieber bis zum letzten möglichen Tag.
+Das Parken in dieser Garage ist wirklich eine reine Kunstfigur.
+Mein Auto hat nach dem Update die Navigation total verschluckt.
+Der Schiebedachmotor knarrt schon seit Monaten beim Öffnen nervig.
+Ich kaufe nur noch Markenöl weil es mir wichtig ist.
+Die Scheibenwischer haben keine Halterung mehr und klappern ständig gegen Glas.
+Kannst du mal kurz meinen Motorraum auf Dichtigkeit prüfen?
+Der Dieselpartikelfilter verstopft wahrscheinlich wieder einmal bei mir.
+Ich muss dringend die Batterie kontrollieren lassen wegen dem Alter.
+Mein Auto ist zwar alt aber pflegeleicht und robust gebaut.
+Die Lackierung an der Tür ist nach dem Parken abgeblättert.
+Der Tank steht wieder auf Reserverate.
+Meine Scheinwerfer sind total ausgetüftelt.
+Die Werkstatt wollte gleich die ganze Kupplung tauschen.
+Hab mal wieder zu spät gezahlt bei der Versicherung.
+Der Reifen ist doch schon seit Wochen platt.
+Kannst du kurz rangehen, meine Batterie scheint leer.
+Der Verbrauch in der Stadt ist echt ins Kraut gewachsen.
+Ich mag es nicht wenn die Mechaniker nur rumwerkeln.
+Das Parken in dieser Garage nervt mich langsam.
+Der TÜV war dieses Jahr zum Glück relativ zügig.
+Mein Auto macht seit dem Ölwechsel seltsame Geräusche.
+Die Windschutzscheibe hat einen kleinen Riss bekommen.
+Ich muss unbedingt mal die Bremsflüssigkeit prüfen lassen.
+Der Fahrstil meiner Frau zerschlägt mein Getriebe langsam.
+Hast du schonmal über ein Navigationsgerät nachgedacht?
+Der Autowaschplatz an der Tankstelle ist immer belegt.
+Mein Auto startet morgens nur noch mit viel Pech.
+Die Rechnung von letzter Woche war völlig absurd hoch.
+Ich liebe es wenn das Radio beim Anfahren knistert.
+Der Winterreifen ist schon wieder abgefahren wie Sand.
+Kann mir jemand die Nummer der Hauptuntersuchung sagen?
+Das Armaturenbrett leuchtet auf wie eine Weihnachtsbaumkrippe.
+Mein Nachbar fährt noch einen alten East Germany Trabi.
+Die Abgasprüfung hat mein Auto leider nicht bestanden.
+Ich sollte endlich mal den Luftfilter wechseln.
+Der Schmutz in den Fußräumen ist wirklich unansehnlich.
+Der Spritverbrauch ist seitdem wieder deutlich gestiegen.
+Mein Mechaniker sagt, das Getriebe ist noch gut.
+Ich muss endlich mal die Kerzen wechseln lassen.
+Das Parkticket wurde vergessen und nun zahlt man.
+Die Scheibenwischer kratzen bei jeder Fahrt im Herbst.
+Habt ihr schon den Termin für den Hauptuntersuchung?
+Der Dieselrußpartikelfilter ist verstopft, teure Reparatur.
+Mein Vater repariert alles noch mit Handys App.
+Wir suchen eine Werkstatt die auch Nachmittags offen hat.
+Das Navigationsgerät zeigt immer den falschen Weg an.
+Ich liebe es mein Auto selbst zu waschen im Winter.
+Der Zündungswellenlager klingt schon seit Wochen komisch.
+Meine Frau möchte unbedingt ein Elektroauto kaufen nächstes Jahr.
+Die Vollgasfahrerei beim Kollegen nervt mich ehrlich gesagt.
+Wir haben Glück gehabt mit der Windschutzscheibe letzten Montag.
+Der Tankdeckel geht nicht mehr richtig zu seitdem.
+Ich vermisse meine alte Limousine mit dem V8 Motor.
+Die Werkstatt hat die Rechnung jetzt nachgebessert endlich.
+Mein Bruder liebt es im Schnee nur langsam zu fahren.
+Das Lenkrad vibriert ab hundert Kilometer immer heftig.
+Wir haben einen Pannenwagen bestellt für heute Abend noch.
+Der TÜV-Sachverständige war überrascht wie sauber alles ist.
+Mein Auto riecht nach verbranntem Öl seit gestern.
+Die Rückfahrkamera zeigt nur noch Rauschen leider.
+Ich kaufe nur noch Originalteile bei der Vertragswerkstatt.
+Meiner hat wieder mal Öl geschluckt im Urlaub.
+Der neue Motorölwechsel war echt teuer diesmal.
+Ich hab die Sommerreifen schon selbst gewechselt.
+Warte doch auf den Termin für den TÜV morgen.
+Das Auto riecht noch immer nach bremsscheibenstaub.
+Hast du gesehen wie viel Sprit er trinkt heute?
+Die Werkstatt hat wieder was vergessen anzuziehen beim Ölwechsel.
+Meine Scheinwerfer sind total zugewittert und müssen rein.
+Kommst du auch heute zur Reifenkontrolle mit dem Auto?
+Der Pannenhilfetelefon ist im Moment gar nicht erreichbar blöd.
+Ich finde es unnötig so viel für das Polieren auszugeben.
+Wir müssen bald die Bremsbeläge tauschen lassen glaube ich.
+Das Parken in der Stadt nervt mich jeden Tag wieder.
+Hast du schon mal über einen Elektroauto nachgedacht?
+Meine Batterie war im Winter total schlapp und tot.
+Die Lackierung am Heck hat leider einen Kratzer abbekommen.
+Ich fahre nur noch Super E plus wegen des Preises.
+Der Serviceheft ist bei der letzten Inspektion nicht gecheckt worden.
+Kannst du mal gucken ob die Pumpe wieder streikt?
+Mein Auto steht seit Montag in der Reparaturwerkstatt da.
+Die Heckscheibe defrost funktioniert überhaupt nicht mehr im Winter.
+Ich brauche dringend neue Kerzen für den Zündungsanschluss.
+Wurde das Getriebeöl schon mal gewechselt bei deinem Modell?
+Das Warnton am Armaturenbrett leuchtet seit gestern rot auf.
+Hilft vielleicht ein neuer Luftfilter gegen den hohen Verbrauch?
+Kraftstoffpreise sind gerade wieder explodiert schrecklich.
+Meine Versicherung zahlt den Reifenschaden nicht leider.
+Hast du schon mal selbst den Pollenfilter gewechselt?
+Die Werkstatt war diesmal tatsächlich pünktlich und fair.
+Ach je ich hab sicher die Tankklappe offen gelassen.
+Der Gang springt wieder raus beim schnellen Beschleunigen.
+Ich kauf nur noch Originalteile obwohl es teurer ist.
+Mein Nachbar meinte mein Lack sei wirklich gealtert.
+Warum kostet der Einbau jetzt schon 150 Euro?
+Hab das Öl selbst gewechselt spart richtig viel Geld.
+Der Motorölstand war wieder mal kritisch niedrig.
+TÜV durchgefallen wegen zu dunkler Scheiben einfach doof.
+Ich muss dringend die Auspuffdichtung austauschen lassen.
+Beim Waschautomat am Eck steht immer eine Schlange.
+Mein Auto macht seitdem ein seltsames Quietschen beim Bremsen.
+Kann ich den Termin bei der Werkstatt verschieben?
+Ich trage immer Poliermittel in der Handschuhkiste dabei.
+Der Ersatzreifen ist leider schon lange kaputt gewesen.
+Hast du schon überlegt eine Start-Stopp-Automatik zu verbauen?
+Mein Auto fährt sich seit dem Update viel ruhiger.
+Die Winterreifen lagen schon monatelang im Keller rum.
+Ich verabscheue Wartungsintervalle die mich nervig aufdrängen.
+Warum muss ich für jeden Schrauber extra zahlen?
+Der Dieselgeruch im Innenraum ist wirklich unangenehm geworden.
+Meiner Meinung nach war das Preisschild bei der letzten Inspektion viel zu hoch.
+Ich muss morgen früh zur Werkstatt, weil die Frontscheibe einen kleinen Riss hat.
+Hat schon mal jemand diese neuen LED-Rückleuchten von einem Nachbautypen installiert?
+Der Spritverbrauch ist seit der Sommerpause irgendwie deutlich gestiegen, finde ich seltsam.
+Die Bordcomputer-Anzeige war wohl doch nicht ganz falsch mit dem Warnhinweis.
+Ich hasse es, wenn ich auf der Autobahn Pannen wegen des Reifendrucks bekomme.
+Der TÜV-Mann hat beim letzten Besuch extra noch nach der Stoßdämpferkontrolle gefragt.
+Hab gerade bei Amazon günstige Polstermittel gefunden, die soll ich testen.
+Mein Auto zieht seit dem Ölwechsel leicht nach links, das nervt echt.
+Ich würde nie mehr zur freien Werkstatt gehen, nach dieser abgebrochenen Reparatur nicht.
+Die Heckscheibe wärmt gar nicht mehr richtig, obwohl der Knopf gedrückt ist.
+Wer hat Erfahrung mit der neuen App von meinem Hersteller für die Wartungstermine?
+Das Armaturenbrett knarzt jetzt bei jeder Fahrbahnunebenheit, klingt echt billig und alt.
+Ich hab den Batteriewechsel selbst gemacht, kostete mich nur hundert Euro inklusive Montage.
+Die Rückfahrkamera zeigt seit dem Update nur noch schwarze Streifen an.
+Mein Nachbar schwört darauf, dass dieser neue Schmiermittel-Hersteller wirklich was taugt.
+Ich vergesse immer wieder, den Diesel-Filter zu wechseln, obwohl er wichtig ist.
+Die Lackierung an der Beifahrertür blättert ab, weil sie ständig in der Sonne steht.
+Kann ich eigentlich die Werkstattkosten von der Steuer absetzen wenn es ein Firmenwagen ist?
+Der Start-Stopp-Knopf reagiert manchmal sehr träge, besonders bei kaltem Wetter im Winter.
+Ich suche dringend jemanden, der mir hilft, das Navigationssystem auf den neuesten Stand zu bringen.
+Die Scheinwerfer sind total eingetrübt, muss ich mal mit dem Poliermaschinchen bearbeiten.
+Der Ölstand war wieder mal viel zu niedrig.
+Mein Auto hat schon wieder was mit der Zündung.
+Die Rechnung von der Werkstatt war dieses Mal okay.
+Ich hoffe nur, dass es diesmal wirklich repariert ist.
+Beim nächsten Tankstopp muss ich bestimmt wieder Sprit ran.
+Der TÜV-Termin ist erst nächsten Monat vereinbart.
+Hab gestern die Scheibenwischer ausgetauscht, die alte waren kaputt.
+Die Bremsbeläge knarzen seit Wochen total nervig.
+Warum kostet so eine simple Inspektion jetzt schon 300 Euro?
+Mein Dad hat mir mal wieder was zur Batterie erzählt.
+Das Rad muss schnell gewechselt werden, es ist platt.
+Ich mag den Geruch von frischem Benzingeruch irgendwie nicht.
+Die Carwash hat mein Lack leider doch fleckig gemacht.
+Hast du schon mal über eine Tankkarte nachgedacht?
+Der Gang schaltet sich manchmal nicht richtig ein oder aus.
+Mein Fahrzeug verbraucht im Sommer deutlich weniger Sprit.
+Die Werkstatt meinte, ich bräuchte neue Lichter bald.
+Ich rufe morgen früh nochmal an wegen des Termins.
+Der Reifenwarndruck hat mich gerade im Stau gewarnt.
+Wir fahren nur noch Elektroauto in der Stadt jetzt.
+Das Getriebe macht seltsame Geräusche beim Anfahren wieder.
+Ich kauf mein Öl immer online, ist da viel günstiger.
+Die Abgasuntersuchung war zum Glück diesmal überhaupt kein Problem.
+Hab die Kofferraumlampe selbst repariert mit einem Kabel.
+Der Airbag ist bei meinem alten Model gar nicht mehr drin.
+Ach verrückt, der Tank war schon leer bevor ich am Supermarkt ankam.
+Meine Versicherung hat den Schaden glücklicherweise übernommen.
+Der TÜV-Hauptuntersuchung muss man ja leider immer Angst haben.
+Hat eigentlich jemand eine Empfehlung für eine günstige Werkstatt?
+Die Sommerreifen sind doch wieder viel lauter als im Winter.
+Ich habe gerade beim Mechaniker angerufen, der Termin ist voll.
+Das Navigationsgerät im Auto zeigt den falschen Weg an.
+Mein Papa meint ich soll das Auto lieber verkaufen.
+Der Benziner verbraucht einfach zu viel Sprit auf der Autobahn.
+Könntest du mal schnell die Scheibenwaschflüssigkeit nachfüllen?
+Die Rückfahrkamera funktioniert seit dem Update überhaupt nicht mehr.
+Ich hasse es wenn man an der Hauptstraße im Stau liegt.
+Der Beifahrersitz muss dringend geledert werden, er zerfällt.
+Heute Abend fahre ich zur Werkstatt, da ist doch ein Termin frei.
+Hast du schon mal mit dem ADAC telefoniert wegen der Hilfe?
+Das Auto macht komische Krach wenn ich die Kurven nehme.
+Der Tankdeckel klemmt seit Wochen wieder und lässt sich schwer öffnen.
+Meine Freundin fährt lieber Bus als ihr altes Auto zu nutzen.
+Die Klimaanlage spuckt nur noch laue Luft aus, gruselig im Sommer.
+Wir sollten die Batterie prüfen bevor wir in den Urlaub fahren.
+Das Parken in der Innenstadt ist wirklich ein großer Albtraum für mich.
+Der Mechaniker hat mir einen Termin erst in drei Wochen genannt.
+Ich muss endlich mal wieder die Rückspiegel reinigen, sie sind dreckig.
+Das Starten des Motors dauert heute Morgen ewig lang, sehr nervig.
+Der Ölstand war wieder mal zu niedrig, typisch.
+Mein Tank ist komplett leer, muss gleich Benzin holen.
+Die Reifen waren ganz glatt geworden, Glück gehabt.
+Hoffentlich klappt der TÜV ohne Beanstandungen dieses Mal.
+Die Rechnung von der Werkstatt hat mich richtig erschrocken.
+Warum springt der Motor nur noch so schlecht an?
+Ich habe mir einen neuen Anlasser bestellt für das Projekt.
+Seit dem letzten Service rattert die Hinterachse seltsam.
+Gestern musste ich wegen eines Plattenpennys liegen bleiben.
+Die Scheinwerfer sind echt trüb geworden, muss polieren.
+Heute steht der Reifenwechsel an, Wetter wird schlecht.
+Mein Nachbar tippt auf defekte Zündkerzen bei meinem Pkw.
+Die Abschleppdienste wollen immer zu viel Geld haben.
+Ich prüfe den Luftdruck lieber selbst als in der Box.
+Der Fahrwindgeräusch wurde seit letztem Winter lauter.
+Könntest du kurz mal unter die Motorhaube schauen?
+Mein Auto hat genau 150 Tausend Kilometer auf dem Buckel.
+Die Bremsen quietschen total nervig wenn man bremst.
+Ich vermisse einfach mein altes Treibstoffsparsames Modell.
+Der Schlüsselchip geht irgendwie nicht mehr richtig rein.
+Mal sehen ob der Ersatzteillieferant pünktlich wird heute.
+Ich sollte bald mal die Zündspannung prüfen lassen eigentlich.
+Die Lackierung auf der Motorhaube blättert leicht ab.
+Der Spritverbrauch ist in letzter Zeit deutlich gestiegen.
+Hoffentlich findet der Mechaniker bald den Fehler an der Anlage.
+Für den nächsten Ölwechsel muss ich mich endlich erinnern.
+Die Ersatzteile sind bei uns leider immer so teuer geworden.
+Mein Auto steht seit drei Tagen schon in der Werkstatt.
+Der TÜV-Mann war diesmal besonders streng beim Durchschauen.
+Ich brauche dringend neue Sommerreifen, die Profil ist weg.
+Die Rechnung kam überraschend hoch, obwohl nur gewechselt wurde.
+Wir überlegen, ob sich die Reparatur noch wirklich lohnt.
+Der Motoröltropfen unter dem Auto nervt mich richtig langsam.
+Hast du schon einen Termin für den Hauptuntersuchung gemacht?
+Die Fensterheber gehen auf einer Seite gar nicht mehr.
+Ich kaufe nur noch gebrauchte Teile von Onlinehändlern.
+Mein Partner repariert alles lieber selbst in der Garage.
+Die Lackierung ist an der Tür schon etwas abgeblättert.
+Wir müssen bald neue Scheibenwischer kaufen, sie streifen furchtbar.
+Der Akku ist schwach, nachts startet das Auto kaum noch.
+Die Werkstatt hat mir geraten, gleich die Kupplung zu wechseln.
+Ich vergesse immer wieder, den Tankfüller zu schließen.
+Das Navigationssystem hängt sich ständig auf und zeigt nichts mehr.
+Reifendruck prüfen sollte man wirklich einmal im Monat machen.
+Der Geruch vom brennenden Gummi ist echt unangenehm anzusehen.
+Endlich läuft die Heizung wieder ordentlich nach dem Einstellen.
+Ich bin skeptisch, ob diese Billigwerkstatt gut arbeitet.
+Habe gerade den Tank vollgemacht, wieder deutlich teurer.
+Die Werkstatt sagt, ich bräuchte eine neue Kupplung.
+Mein Auto hat einen kleinen Rostfleck an der Tür.
+Der Service war pünktlich und auch nicht so teuer.
+Ich habe vergessen, die Scheibenwischer zu wechseln.
+Das Navigationsgerät stürzt leider immer wieder ab.
+Kannst du kurz bei meiner Werkstatt vorbeischauen?
+Die Reifen haben schon recht wenig Profil übrig.
+Bin heute morgen mit leerem Tank stehen geblieben.
+Der TÜV ist bestanden, aber mit vielen Beanstandungen.
+Muss bald wieder Bremsflüssigkeit in die Bremsen füllen.
+Die Garage will für die kleine Reparatur viel Geld.
+Mein Auto macht beim Anfahren komische knackende Geräusche.
+Habe den Kfz-Steuerbesitz schon online verlängert.
+Der Polster im Innenraum riecht irgendwie nach Schimmel.
+Ich trau mich nicht, das Fahrzeug selbst zu lackieren.
+Die Hebebühne in der Werkstatt ist wieder kaputt gegangen.
+Wir sollten bald einen neuen Winterreifen kaufen gehen.
+Das Auto wird bei Kälte einfach nicht richtig warm.
+Hab versehentlich Diesel in den Benzin tanken wollen.
+Der Autopflege-Service macht das Fahrzeug wieder strahlend sauber.
+Mein Auto hat plötzlich die Batterie komplett verrauscht.
+Die Werkstatt braucht für die Diagnose ewig lange Zeit.
+Ich fahre lieber mit Vollgas als zu schalten.
+Das Kennzeichen muss dringend erneuert werden, es ist abgegriffen.
+Mein Auto steht wieder mal in der Werkstatt.
+Die Rechnung war dieses Mal leider viel zu hoch.
+Hoffentlich findet die Mechaniker schnell den Defekt am Motor.
+Reifen wechseln muss ich schon bald vor dem Winter.
+Der Spritverbrauch ist in letzter Zeit irgendwie angestiegen.
+Hab gerade selbst das Öl gewechselt, spart richtig Geld.
+Die Scheibenwischer sind ganz kaputt geworden nach dem Sturm.
+TÜV ist nächste Woche, da nervt mich der Gedanke schon.
+Mein Auto macht komische Knackgeräusche bei jeder Kurve.
+Hast du eigentlich die Bremsen auch mal checken lassen?
+Die Klimaanlage kühlt im Sommer kaum noch richtig.
+Ich muss bald an die Werkstatt für den Service.
+Der Akku war wieder tot, wahrscheinlich Radio vergessen.
+Mein Auto sieht aus wie neu nach der Lackierung.
+Ich treffe mich morgen bei der Werkstatt mit dem Chef.
+Kannst du mir sagen, wo ich günstige Ölfilter bekomme?
+Der Motor raucht leicht, aber sonst läuft alles gut.
+Ich hasse es, wenn das Auto in der Werkstatt bleibt.
+Die Heckscheibe war etwas rissig nach dem Hagelregen.
+Morgen muss ich wieder lange für das Auto warten.
+Mein Pkw hat gerade eine Panne mitten im Kreisverkehr gehabt.
+Der Service war wirklich gut und schnell abgeschlossen worden.
+Ich suche dringend einen Tipp für eine günstige Werkstatt hier.
+Warum kosten kleine Reparaturen heute immer so viel Geld?
+Mein Benziner braucht heute schon wieder Benzin.
+Hoffentlich ist der TÜV morgen nicht so streng.
+Der Autowerkstatt haben mal wieder die Preise erhöht.
+Hab gerade die Reifen gewechselt, was für ein Glück.
+Die Windschutzscheibe hat einen kleinen Riss vorne.
+Warum geht die Heizung nur auf links?
+Mein Auto steht seit drei Tagen in der Werkstatt.
+Ich muss bald den Ölstand prüfen, echt nervig.
+Hast du schon mal über einen Neuwagen nachgedacht?
+Der Kfz-Werkstatt hat gesagt, ich soll warten.
+Mein Auto ist wirklich ein echter Benzinger.
+Die Rückbank wurde total verschmutzt vom Hund.
+Ich fahre lieber mit dem Bus heute Morgen.
+Die Scheibenwischer müssen bald getauscht werden übrigens.
+Hast du schon mal das Getriebeöl gewechselt?
+Der Tank war voll, aber ich hab es gefühlt nie benutzt.
+Mein Auto ist jetzt offiziell ein Oldtimer.
+Die Klimaanlage funktioniert leider nur im Sommer richtig gut.
+Ich muss noch den Reifendruck kontrollieren vor der Fahrt.
+Der Benziner wird wieder teurer als gedacht.
+Meine Frau hat beim Parken die Tür zerkratzt.
+Ich brauche dringend neue Bremsbeläge für den VW.
+Die Werkstatt meinte, das Teil sei leider ausverkauft.
+Reifendruck prüfen vergessen, jetzt ist einer leer.
+Der TÜV hat mal wieder zwei Mängel beanstandet.
+Mein Auto macht ein seltsames Quietschen beim Anfahren.
+Ich lade am besten zu Hause über Nacht nach.
+Das Navigationsgerät streikt immer an der Autobahnzufahrt.
+Warteung fällig, aber ich schiebe es noch hinaus.
+Die Scheibenwischer haben keine Wirkung mehr bei Regen.
+Hab 120 Kilometer pro Stunde im Stau gehalten.
+Der Diesel rußt zu stark, das nervt doch.
+Ich kaufe nur noch gebrauchte Teile vom Schrottplatz.
+Die Hebebühme ist kaputt, wir warten seit Stunden.
+Das Lenkrad vibriert ab 100 km/h stark.
+Hast du schon Ölwechsel gemacht dieses Jahr?
+Der Rückspiegel fehlt nach einem kleinen Zusammenstoß.
+Ich vermisse mein altes Radio total jetzt.
+Die Karosserie braucht dringend eine professionelle Lackierung.
+Supermarkt-Parkplatz war heute echt voll und schwierig.
+Mein Beifahrer hat sich beim Anfahren übel gefühlt.
+Der Zündschlüssel geht nur mühsam in das Schloss.
+Ich spare Kraftstoff, indem ich langsamer fahre.
+Das Tanken war dieses Mal richtig teuer geworden.
+Mein Pech, denn ich habe keine Reserven mehr.
+Der Mechaniker hat gesagt, die Dichtung ist defekt.
+Ich muss dringend neue Batterien kaufen, sonst bleibe ich stehen.
+Die Scheibenwischanlage spritzt nur noch trübes Wasser raus.
+Warum kostet so ein einfacher Ölwechsel plötzlich hundert Euro?
+Das Auto vibriert stark, wenn ich über hundert fahre.
+Hab den Termin für den Hauptuntersuchung verschoben, war keine Zeit.
+Die Lackierung an der Hintertür zeigt erste Kratzer.
+Mein Freund empfiehlt mir eine andere Werkstatt in der Stadt.
+Der Luftdruck in den Reifen war schon wieder viel zu niedrig.
+Ich hasse es, wenn das Auto morgens einfach nicht anspringt.
+Die Abgasanlage ist laut geworden und quietscht beim Anfahren.
+Habe vergessen, die Scheibenwaschlösung rechtzeitig nachzufüllen.
+Das Navigationssystem friert öfter ein als früher eigentlich.
+Der Werkstattchef verspricht mir, bis morgen fertig zu sein.
+Reifen wechseln im Februar ist wirklich nervig bei diesem Schlamm.
+Die Stoßdämpfer sind wohl hinüber, das Auto nickt stark.
+Ich spare beim Benzin, indem ich langsamer fahre eigentlich.
+Der Anlasser macht ein seltsames Geräusch beim Starten jetzt.
+Mein Auto sieht aus wie frisch gewaschen nach der Autowasche.
+Die Garage hat meinen Schlüssel verloren, echt ärgerlich halt.
+Kannst du mal reinschauen, warum die Leuchte aufleuchtet?
+Ich sollte endlich das Servolenkungsöl kontrollieren lassen mir.
+Mein Auto hat gerade mal wieder Öl geschluckt.
+Die Rechnung kam diesmal ziemlich übel hoch.
+Reifen sind schon wieder ganz leer geworden.
+Hoffentlich findet der Mechaniker den Fehler heute.
+Der TÜV war dieses Jahr zum Glück pünktlich.
+Ich traue mich nicht mehr in die Hauptwerkstatt.
+Benzinpreis ist echt eine schreckliche Angelegenheit.
+Die Scheibenwischer klappern total nervig im Wind.
+Heute muss ich endlich den Tank füllen.
+Warte mal, der Motorblock scheint undicht zu sein.
+Mein Nachbar schwört nur auf diese Billigteilerwerkstatt.
+Der Autowaschen hat sich echt nicht gelohnt.
+Kannst du mir einen Schlitzkeil für die Panne leihen?
+Das Navigationsgerät stürzt seit dem Update ständig ab.
+Die Sitzheizung geht links garnicht mehr.
+Ich kaufe nur noch gebraucht, neu ist zu teuer.
+Der Serviceheft-Eintrag fehlt bei deinem Fahrzeug leider.
+Reifendruckkontrollsystem zeigt immer Fehler an.
+Die Autopapierarbeiten liegen schon seit Wochen rum.
+Mal schauen ob die Garantie noch drauf ist.
+Dankeschön für den Tipp mit dem Spülmaschinenwasser.
+Der Fahrstuhl im Autohaus war kaputt gestern.
+Ich vermisse mein altes Fahrzeug sehr stark.
+Vorbeischauen bei der Kontrolle wäre jetzt sinnvoll.
+Das Armaturenbrett leuchtet nur noch in Rot auf.
+Hab heute wieder mal bei der Werkstatt vorbeigeschaut.
+Die Rechnung kam mir echt überteuert vor gestern.
+Mein Tankstand ist alarmierend niedrig geworden.
+Der TÜV-Termin war leider schon wieder ausgebucht.
+Hast du denn auch die Scheibenwischer getauscht?
+Das Auto macht komische Geräusche beim Beschleunigen.
+Ich muss mir bald neue Sommerreifen zulegen.
+Die Ölwechsel-Intervalle sind bei meinem Modell kürzer.
+War mal wieder Pech gehabt auf der Autobahn heute.
+Der Mechaniker hat gesagt es sei nur ein kleines Ding.
+Kannst du mir einen Tipp für eine gute Werkstatt geben?
+Meine Karosserie hat ein paar Kratzer von gestern.
+Ich fahre lieber Benzin als Diesel momentan eigentlich.
+Die Bremsen quietschen seit Wochen sehr nervig laut.
+Hab den Pollenfilter selbst ausgetauscht, war ganz einfach.
+Der Service-Mitarbeiter war heute unfreundlich und arrogant.
+Muss dringend nochmal bei der Versicherung nachfragen wegen des Schadens.
+Mein Auto verbraucht mehr Sprit als früher leider.
+Die Garagentore funktionieren nicht so richtig zuverlässig mehr.
+Sind die Winterreifen eigentlich schon geprüft worden dieses Jahr?
+Ich habe das Navigationssystem aktualisiert letzte Nacht.
+Hast du den Beifahrersitz schon mal gereinigt gestern?
+Mein Fahrzeug startet morgens manchmal nur widerwillig überhaupt erst.
+Die Lackierung glänzt wieder wie neu nach der Politur.
+Habe morgen Termin bei der Werkstatt, hoffe auf gute Nachrichten.
+Der Benziner trinkt grad wieder wie ein Loch.
+Die Scheibenwischer sind kaputt, muss ich gleich fixen.
+Warum kostet so eine simple Inspektion jetzt 400 Euro?
+Habe versehentlich Diesel ins Benzin gefüllt, Panik pur.
+Das neue Auto riecht immer noch nach Neuware.
+Reifen wechseln ist bei Wind echt ein Graus.
+Mein Vater meint, ich müsse das Öl selbst checken.
+Die Heckklappe klemmt seit dem Winter wieder.
+Endlich wieder Platz für die Kinder im neuen VW.
+Habe auf der Autobahn eine Platte bekommen, Glück gehabt.
+Die Werkstatt sagt, es liege am Zündkerzen.
+Ich liebäuge schon lange mit einem Elektroauto.
+Der Lack ist doch wirklich stark verkratzt worden.
+Muss dringend an die Bremsen ran, quietscht total.
+TÜV war dieses Mal zum Glück schnell abgehakt.
+Die Klimaanlage will einfach nicht mehr richtig kühlen.
+Habe den Gang eingelegt, aber das Auto rührt sich nicht.
+Der Tankinhalt reicht noch für hundert Kilometer gerade.
+Werde die Batterie nächsten Monat sicher mal wechseln müssen.
+Die Servolenkung fängt an zu jammern bei Kurven.
+Habe mir online gebucht, war deutlich günstiger als vor Ort.
+Das Armaturenbrett ist voll mit kleinen Rissen jetzt.
+Der Dieselverbrauch ist in letzter Zeit echt ins Kraut geschossen.
+Meine Werkstatt meinte, die Kupplung hält noch ne Weile.
+Hoffentlich wird der TÜV dieses Mal nicht wieder so streng sein.
+Ein Pannenversicherung kostet ja gar nicht mehr so viel im Jahr.
+Super plus oder Super normal, da merke ich keinen Unterschied.
+Der Mechaniker hat mir versprochen, morgen fertig zu sein.
+Schade eigentlich um die alte Limousine, sie ging noch so gut.
+Ich habe keine Lust mehr auf diese ewige Wartezeit.
+Die Scheibenwischer sind total abgenutzt und streifen nur noch.
+Morgen früh muss ich zur Abgasuntersuchung ran, nervt mich.
+Hat jemand einen Tipp für eine günstige Werkstatt in der Nähe?
+Mein Auto springt einfach nicht an bei dieser Kälte.
+Die Scheuereinfahrt war vielleicht doch etwas zu eng geraten.
+Ich fülle immer nur bis zur Maxmarke nach mit Öl.
+Der Reifendruck ist wieder einmal viel zu niedrig eingestellt.
+So ein Teufel, der Tankdeckel geht nicht mehr auf.
+Ich spare mir die Polituren und fahre einfach sauberer rum.
+Die Ersatzreifen liegen schon lange in der Garage rum.
+Warum muss so ein simples Teil plötzlich doppelt kosten?
+Mein Neffe bringt mich morgen zur Hauptuntersuchung mit rein.
+Die Lautsprecher im Radio machen seitdem nur noch Krach.
+Ich überlege ernsthaft, auf Elektro umzusteigen in nächster Zeit.
+Der Schmutz am Unterboden muss dringend vor der Rostbildung weg.
+Der Dieselverbrauch steigt seit der letzten Inspektion deutlich an.
+Mein Mechaniker sagt, die Kupplung sei bald am Ende.
+Ich habe mir ein Leihauto für die Woche bestellt.
+Die Reifen haben schon zu viel Profil verloren.
+Warum kostet eine einfache Ölwechsel so viel Geld?
+Hast du das Warnlicht an der Tankanzeige bemerkt?
+Die Winterreifen liegen noch in der Garage rum.
+Mein Auto macht beim Anfahren dieses seltsame Quietschen.
+Der TÜV war heuer schneller als erwartet, gut gelaufen.
+Ich muss dringend Bremsflüssigkeit nachfüllen, ist kritisch.
+Die Scheibenwischer sind ganz verkrustet von der Hitze.
+Wir müssen morgen früh zur Werkstatt, Termin ist um neun.
+Ein Loch im Reifen am Rand ist nicht reparierbar.
+Mein Vater meint, ich soll das Auto nur noch nutzen.
+Die Karosserie sieht nach dem Wintersalat wieder gut aus.
+Ich habe vergessen, die Kfz-Steuer zu bezahlen, blöd.
+Das Navigationssystem stürzt ständig ab, nervig einfach.
+Kannst du mal schauen, warum die Batterie schwach ist?
+Ich kaufe immer nur Markenöl, macht einen Unterschied.
+Die Werkstatt hat mir gesagt, ich soll kommen.
+Mein neuer Hybrid spart richtig viel Sprit im Stadtverkehr.
+Die Sitzheizung geht nicht mehr, defekt wohl leider.
+Ich vergleiche die Preise online vor der nächsten Wartung.
+Der Polster ist fleckig, ich muss es reinigen lassen.
+Mein Tank steht wieder auf E, mal sehen ob ich noch nach Hause komme.
+Hoffentlich kosten die neuen Bremsbeläge nicht so viel wie letztes Mal.
+Die Batterie ist wohl platt, kann den Motor einfach nicht anspringen lassen.
+Hast du schon Termin für den Hauptuntersuchung gemacht oder musst du noch warten?
+Im Winter ist doch nichts besser als dicke Reifen und ein warmes Auto.
+Ich hasse es immer wenn die Werkstatt sagt es könnte auch was anderes sein.
+Der Ölstand passt zwar aber ich fülle trotzdem lieber nach zur Sicherheit.
+Mein Partner hat das Dachgepäckträger endlich wieder richtig befestigt, war mir eine Last.
+Super, genau das musste ich heute nicht hören: Kupplung muss gewechselt werden.
+Kannst du mal schauen ob bei dir auch die Rückfahrkamera so langsam reagiert?
+Ich fahre jetzt nur noch E10 weil Benzin wirklich viel zu teuer geworden ist.
+Die Lackierung an der Heckklappe blättert schon wieder, typisch billiges Modell.
+Am Wochenende mach ich dann endlich den Winterreifenwechsel, wird Zeit.
+Hast du eine Empfehlung für eine vertrauenswürdige Werkstatt in deiner Nähe?
+Das Parken in der Innenstadt ist echt stressig mit so einem großen Auto.
+Mein Vater repariert alles selbst und spart damit richtig viel Geld ein.
+Die Luftdruckkontrollanzeige blinkt schon seit drei Tagen, nervt total.
+Ich trage meinen alten Schlüssel immer bei mir falls die Batterie ausgeht.
+Gestern hatte ich Glück dass der Abschleppwagen so schnell da war.
+Eigentlich wollte ich dieses Jahr kein neues Auto kaufen aber vielleicht doch.
+Die Sitze sind echt bequem auch nach langen Fahrten tut nichts weh.
+Vergiss nicht die Scheibenwischer zu wechseln bevor es im Oktober regnet.
+Mein Onkel schwört auf dieses bestimmte Pflegeprodukt für den Lack.
+Ich liebe das Gefühl wenn das Auto richtig sauber und gepflegt ist.
+Hörst du auch dieses Quietschen wenn du die Bremsen betätigst?
+Der Spritverbrauch ist in letzter Zeit echt hoch geworden.
+Meine Freundin hat mir einen günstigen Mechaniker empfohlen.
+TÜV-Plakette klebt schon wieder falsch herum am Scheibenwischer.
+Ich habe gestern beim Tanken versehentlich Diesel statt Benzin getankt.
+Die Abgasanlage rüttelt so doll, dass die Zähne klappern.
+Warte mal kurz, ich muss erst noch das Öl nachschauen.
+Bei meiner Werkstatt dauern Reparationen immer ewig und kosten ein Vermögen.
+Hab gerade neue Batterien für die Schlüssel gekauft, war nötig.
+Die Scheibenwaschanlage spuckt nur noch schwarz schmieriges Wasser raus.
+Mein Vater meint, ich soll lieber das alte Ding stehen lassen.
+Reifendruck prüfen vergessen, jetzt piept die Anzeige im Armaturenbrett ständig.
+Ich liebe den Geruch von frisch gewachstem Auto Lack.
+Der Motor raucht leicht blau, vielleicht ist es doch ernst.
+Heute morgen war der Anlasser komplett tot, kein Starten mehr.
+Die Scheiben heizen im Winter gar nicht richtig nach oben.
+Habe mir einen neuen Schlüssel für das Fahrzeug zuschicken lassen.
+Leasing endet bald, muss mich um einen Neuwagen kümmern.
+Die Polster sind ganz schön abgenutzt von den vielen Fahrten.
+Kannst du mal kurz mit dem Multimeter durchmessen?
+Ich fahre nur noch Elektroauto seit letztem Jahrwechsel hier.
+Der Lack auf der Motorhaube ist wirklich stark verwittert.
+Beim Bremsen zieht es leicht nach links, das muss weg.
+Mein Nachbar hat sein Auto selbst in einem Keller überholt.
+Die Luftfilter sind schon wieder ganz schwarz von Staubpartikeln.
+Sollen wir beim nächsten Tankstopp mal die Preise vergleichen?
+Kraftstoffanzeige knallt rot seit einer halben Stunde.
+Die Werkstatt braucht erst wieder mal drei Tage für das Teil.
+Hoffentlich klappt der TÜV ohne Beanstandungen dieses Jahr.
+Mein Benziner hat gestern nachts einfach nicht mehr gewollt.
+Reifendruck kontrollieren vergessen, jetzt ist einer platt gegangen.
+Das Warndreieck muss ich echt mal neu kaufen, das ist kaputt.
+Lackpflege bringt bei diesem Kratzer nichts mehr, muss ran.
+Hat jemand eine Ahnung, was dieses summende Geräusch ist?
+Die Spritmenge steigt gerade richtig an nervt mich total.
+Sitzheizung geht links gar nicht mehr seit letzter Woche.
+Ich traue der billigen Kfz-Police auf eBay überhaupt nicht.
+Werkstattbesuch am Samstag, da ist sie nämlich offen.
+Das Starten dauert heute echt ewig bei diesem Kälte.
+Polster sind so schmutzig, ich muss die Sitze auswaschen.
+Kerzen wechseln kostet extra, obwohl man es selbst kann.
+Die Rückleuchte brennt durch, weil der Kontakt klemmt wohl.
+Mietwagen ist deutlich teurer als gedacht, das nervt mich.
+Fensterheber reagiert nur noch sporadisch, typisch deutsches Ingenieurwesen halt.
+Ich muss bald die Zündanlage checken lassen, zögert beim Gasgeben.
+Tacho springt kurz vor 180 runter, muss dringend geprüft werden.
+Die Scheibenwischer haben keine Bärge mehr, alles ritzt nur.
+Sitzheizung im Beifahrersitz warmt überhaupt nicht richtig nach.
+Ich habe vergessen die Tankklappe zu schließen beim letzten Mal.
+Werkstattschlüssel muss ich noch suchen, der liegt irgendwo rum.
+Der Spritverbrauch ist in letzter Zeit echt schlecht geworden.
+Hab am Wochenende die Kerzen gewechselt, läuft wieder sauber.
+TÜV war heuer nochmal teurer als im Vorjahr glaube ich.
+Die Werkstatt sagt, es wäre nur ein kleines Teil defekt.
+Reifen auf der Hinterachse waren schon ganz schön abgefahren.
+Klappt die Heizung nicht richtig, friere bei jedem Anfahren.
+Habe den Ölstand kontrolliert und musste nachfüllen.
+Batterie ist wohl am Ende, kriege sie einfach nicht gestartet.
+Die Scheibenwischer machen nur noch ein komisches Quietschen.
+Bin froh, dass der Motor immer noch nichts kaputt macht.
+Politur war nötig geworden, die Lackierung sah richtig matt aus.
+Fahrerluftfilter tauschen ist wirklich super einfach und schnell.
+Der Mechaniker hat mir einen fairen Preis angeboten heute.
+Seit dem Unfall knarzt es etwas beim Lenken nach links.
+Die Dieselrußpartikelfilter warnt seit drei Wochen auf der Anzeige.
+Hab neue Sommerreifen gekauft, die Alten hatten kein Profil mehr.
+Im Winter muss ich unbedingt den Frostschutz prüfen lassen.
+Die Auspuffanlage rostet langsam weg unter dem Fahrzeugboden.
+Kann kaum glauben, wie teuer Ersatzteile heutzutage geworden sind.
+Mein Nachbar hat mir einen günstigen Kfz-Meister empfohlen.
+Die Fahrwerkseinstellung war total aus dem Ruder gelaufen.
+Schön, wenn man bei der Inspektion noch Rabatt kriegen kann.
+Der Tankinhalt reicht gerade mal bis zur nächsten Station.
+Habe die Abgasanlage selbst gesäubert mit einem speziellen Spray.
+Platte Reifen auf der Autobahn sind immer ein riesiges Problem.
+Die Tankanzeige springt auf Reservereihe, nervig.
+Hoffentlich war das nur ein günstiger Einlauf an der Werkstatt.
+Mein Auto hinkt seit dem letzten Service leicht ab.
+Wer tauscht bei euch die Batterien im Winter aus?
+Der TÜV-Bericht lag schon zwei Wochen auf dem Tisch.
+Hab endlich einen Termin für den Hauptuntersuchung bekommen.
+Benzinpreise saugen mir langsam das Geld aus der Tasche.
+Das Check-Control-Lämpchen leuchtet wieder seit gestern Abend.
+Reifenprofilmessung zeigt überall noch genug Platz nach hinten.
+Wurde die Ölwanne beim letzten Wechsel richtig abgedichtet?
+Mein Fahrwerk knarzt bei jeder einzelnen Unebenheit auf dem Weg.
+Die Scheibenwischer rascheln ganz schrecklich über die trockene Scheibe.
+Habt ihr auch Probleme mit der Heizung im Winter?
+Der Werkstattchef hat mir versprochen, es bis Freitag fertig zu machen.
+Polierpulver auf die Kratzer streichen und dann abwischen.
+Mein Auto braucht ständig Nachfüllung beim Kühlmittelstand.
+Die Gangschaltung ruckt manchmal beim Hochschalten ins zweite Gewerbe.
+Suche jemanden der mir bei dem Reifendruck helfen kann.
+Das Navigationssystem hängt sich immer wieder total auf.
+Ich fahr lieber selbst zum Reifenwechsel statt zur Großmarktkette.
+Mein Wagen verbraucht seit dem Winter deutlich mehr Kraftstoff.
+Habt ihr Tipps gegen den unangenehmen Geruch im Innenraum?
+Die Servolenkung ist bei niedrigen Temperaturen einfach zu schwer bedienbar.
+Der Benziner frisst heute echt viel Sprit.
+Hoffentlich hält der TÜV-Schein noch bis Dezember durch.
+Die Werkstatt sagt immer erst nach der Rechnung den Preis.
+Mein Ölstand ist wieder mal zu niedrig geworden.
+Hast du schon neue Winterreifen bestellt?
+Die Karosserie braucht dringend einen Lackaufbau.
+Beim letzten Service haben sie mir alles abgewickelt.
+Der Motor ruckelt irgendwie seit dem Tanken.
+Ich hasse es, wenn die Garage voll ist.
+Reifen aufpumpen vergessen, jetzt steht das Auto da.
+Die Batterie war total entladen nach dem Wetterumschwung.
+Kannst du mal kurz den Zündkerzenwechsel erledigen?
+Das Parklenkmodul funktioniert seit gestern gar nicht mehr.
+Ich spare mir lieber Geld für neue Scheibenwischer.
+Hoffentlich ist der Stau auf der Autobahn bald vorbei.
+Die Werkstatt hatte keine Ersatzteile mehr vorrätig.
+Ich wasche das Auto nur im Regen, so spart man Zeit.
+Das Navigationssystem zeigt immer falsche Straßen an.
+Der Dieselpartikelfilter könnte vielleicht schon mal sauber sein.
+Mein Schätzchen läuft eigentlich noch ganz ordentlich rum.
+Die Scheuklappen sind total kaputt nach dem Unwetter.
+Ich muss unbedingt bald mal zum Mechaniker fahren.
+Das Lenkrad vibriert bei hohen Geschwindigkeiten einfach zu stark.
+Tanken nervt mich doch jedes Mal irgendwie total.
+Der Spritverbrauch ist in letzter Zeit echt gestiegen.
+Meine Mutter findet immer alles zu teuer in der Garage.
+Die Zündkerzen sind seit zwei Jahren nicht getauscht worden.
+Endlich habe ich einen Termin für den Service bekommen.
+Das Lenkgetriebe ruckelt manchmal, wenn man geradeaus fährt.
+Ich muss dringend mal wieder Wachs auf das Auto geben.
+Der Tankdeckel klemmt seit letzter Woche einfach fest.
+Wieso kostet so ein einfacher Ölwechsel eigentlich fünfzig Euro?
+Mein Kumpel macht das mit dem Druck checken immer selbst.
+Die Scheibenwischer haben keine Kraft mehr bei starkem Regen.
+Ich hoffe, der TÜV-Prüfer ist heute nicht ganz so streng.
+Die Batterie ist anscheinend platt, er wollte gar nicht starten.
+Im Winter muss ich echt aufpassen mit den Glatteisstreifen.
+Hast du schon gesehen, dass die Kotflügelfarbe blättert?
+Der Autogarage-Besitzer wirkt immer sehr ehrlich und kompetent.
+Ich trau mich nie, ihn nach dem genauen Preis zu fragen.
+Die Risse in der Windschutzscheibe reparieren lassen ist günstig.
+Man merkt doch sofort, wenn das Fahrzeug nicht gepflegt wurde.
+Mein Auto macht beim Beschleunigen seltsame knackende Geräusche.
+Der Wechsel auf AdBlue ist bei mir schon lange fällig.
+Ich liebe den Geruch von frischem Autoteppich und Leder.
+Die Garage hat meinen Termin ohne Absage einfach verschoben.
+Kannst du mal kurz reinfahren und das Getriebeöl prüfen?
+Das Navigationsgerät hängt sich dauernd auf, nervt total.
+Meiner Meinung nach ist die Werkstatt viel zu teuer geworden.
+Ich muss endlich mal die Bremsbeläge wechseln lassen.
+Der TÜV-Termin war leider schon wieder ausgebucht gestern.
+Super, wieder ein Loch im Sommerreifen beim Parken.
+Kannst du mir kurz sagen wie viel Sprit das verbraucht?
+Mein Auto macht seit Wochen ein seltsames Rasseln.
+Die Ölwechsel-Intervalle sind bei modernen Fahrzeugen wirklich lang.
+Hast du den Wischerwasser nachgefüllt für den Winter?
+Ich finde es stressig wenn man auf Ersatzteile warten muss.
+Die Rechnung kam deutlich höher als das vorab geschätzte Angebot.
+Mein Vater wechselt die Zündkerzen noch komplett selbstständig.
+Der Aufkleber am Windschutzglas ist langsam unansehnlich verblasst.
+Warum kostet so ein einfacher Batteriewechsel jetzt hundert Euro?
+Ich habe vergessen den Kraftstofftank rechtzeitig zu befüllen.
+Die Werkstatt hat mich drei Tage lang warten lassen müssen.
+Schau mal ob die Rückleuchte noch richtig funktioniert heute.
+Der neue Winterreifen sitzt etwas wackelig am Flansch.
+Meine Mutter lässt ihr Auto nur zur Hauptuntersuchung fahren.
+Das Lackierungsangebot vom Vertragshändler war einfach viel zu hoch.
+Hast du schon mal über einen Tankwechsel nachgedacht wegen der Dichtprüfung?
+Ich hasse es wenn der Mechaniker mir was nicht erklären kann.
+Der Dieselpartikelfilter könnte bald mal wieder gereinigt werden müssen.
+Mein Bruder fährt nur noch Elektroautos um Spritkosten zu sparen.
+Die Garantie abläuft nächsten Monat und ich mache mir Sorgen.
+Kannst du kurz prüfen ob die Luft im Rad fehlt?
+Mein Auto muss dringend in die Werkstatt gehen.
+Die Ölwanne tropft schon seit zwei Wochen.
+TÜV war wieder ein Stress mit dem ganzen Papierkram.
+Hast du schon einen Termin für den Reifentausch?
+Der Dieselpartikelfilter ist bei mir auch zugekippt.
+Tanken tut mich gerade echt nervös an.
+Die Scheibenwischer sind komplett kaputt und wischen nichts mehr.
+Warum kostet eine einfache Inspektion immer so viel Geld?
+Ich habe mir einen Schlitz in die Seite gefahren.
+Mein Kfz-Zeichen ist abgelaufen, muss bald renewed werden.
+Die Werkstatt hat den Termin erst nächstes Jahr vergeben.
+Ach du Scheiße, der Akku ist wieder schwach.
+Hast du Ahnung wie teuer Lackarbeiten heute sind?
+Ich fahre lieber zu einem kleinen Meister als zur Kette.
+Der Verbrauch ist im Sommer wirklich deutlich gesunken.
+Meine Mutter meckert immer über den Lärm beim Starten.
+Die Scheinwerfer sind ganz milchig geworden durch die Sonne.
+Ein Platten in der Autobahn ist echt nervig.
+Ich putze mein Auto nur noch mit Spüli und Wasser.
+Der Airbag war nach dem Unfall glücklicherweise nicht losgegangen.
+Wir müssen bald die Bremsbeläge checken lassen.
+Die Garantie ist abgelaufen, jetzt wird teuer.
+Mein Vater hat das Auto schon seit 15 Jahren.
+Im Winter rutscht man ohne Schneereifen einfach aus.
+Der TÜV-Sachverständige war heute echt streng.
+Ich habe versehentlich Diesel statt Benzin getankt.
+Mein Tacho zeigt gerade an, dass ich bald tanken muss.
+Die Batterie war nach drei Jahren schon komplett leer.
+Hoffentlich bringt der Mechaniker den Fehler bald raus.
+Hast du schon mal am Ölstand geprüft?
+Der Neuwagen ist so teuer wie ein Haus.
+Ich habe mir gestern einen Kratzer in die Tür gefahren.
+Das Navi streikt immer genau dann, wenn ich eile.
+Reparaturkosten lagen diesmal jenseits der 500 Euro Marke.
+Mein Vater fährt noch diesen alten Diesel aus den Neunzigern.
+Die Sitze sind zwar bequem, aber schon ganz abgegriffen.
+Ich habe das Leasing jetzt endlich gekündigt.
+Warum ist die Vorbeugewartung so teuer geworden?
+Der Motorölfilter wurde beim letzten Service vergessen.
+Mein Auto steht seit einer Woche in der Garage.
+Die Versicherung zahlt nur den Selbstbehalt für den Windschutzscheibe.
+Das Starten ging heute morgen kaum noch.
+Hast du schon einen Termin für die Hauptuntersuchung gemacht?
+Die Bremsbeläge piepsen seit gestern Abend nervig laut.
+Benzin ist ja echt ein Raubraub hier am Tankstand.
+Ich trage immer eine kleine Werkzeugtasche im Kofferraum mit.
+Der Radarschwarzfänger hat mich leider erwischt.
+Meine Frau liebt es, das Auto jedes Wochenende selbst zu waschen.
+Das Getriebe ruckelt manchmal etwas beim Hochschalten.
+Ich überlege ernsthaft, auf ein Elektroauto umzusteigen.
+Mein Auto hat gerade den Tankdeckel verloren.
+Die Werkstatt wollte 300 Euro für die Diagnose nehmen.
+Hab endlich die neuen Sommerreifen montiert bekommen.
+Seit dem Ölwechsel läuft der Motor irgendwie ruhiger.
+TÜV war dieses Jahr zum Glück recht freundlich.
+Die Scheibenwischer brauchen dringend einen Austausch wegen des Alters.
+Ich hab das Auto selbst gewaschen anstatt zur Teufel zu gehen.
+Der Spritverbrauch ist in letzter Zeit viel zu hoch.
+Meine Freundin hat eine Panne auf der Autobahn gehabt.
+Die Werkstatt hat vergessen, die Batterie zurückzubauen, doof.
+Winterreifen sind ab jetzt Pflicht für meine Familie.
+Ich muss mal wieder den Luftdruck kontrollieren.
+Das Navigationssystem im Auto macht totalen Mist.
+Hast du schon neue Kerzen bestellt für den Motor?
+Der Lack ist nach dem Hagelsturm leider kaputt.
+Wir fahren morgen zur Hauptuntersuchung, nervig finde ich das.
+Die Auspuffanlage quietscht bei jeder Beschleunigung sehr laut.
+Ich spare immer noch mit dem Kauf von Benzin.
+Der Servicebegriff der Werkstatt ist echt abschreckend teuer.
+Mein Vater wechselt die Ölfilter immer selbstständig zu Hause.
+Die Parksensoren funktionieren seit gestern irgendwie nicht mehr richtig.
+Wir haben eine neue Autoversicherung abgeschlossen für dieses Jahr.
+Der Beifahrersitz kippt einfach nicht mehr nach hinten um.
+Ich muss bald den Zahnriemen austauschen lassen, wichtig.
+Das Auto rocht streng nach brennendem Gummi heute Morgen.
+Hab am Wochenende die Reifen gewechselt, total mühsam.
+Die Werkstatt hat mir wieder das Maximum abgepresst.
+Mein Ölstand ist kritisch niedrig geworden heute Morgen.
+TÜV-Plakette ist schon seit letzter Woche im Auto.
+Hast du die Winterreifen auch schon aufgezogen?
+Der Motorölwechsel kostet bei uns immer zu viel.
+Seit dem Tanken läuft der Wagen irgendwie unruhig.
+Ich muss bald dringend zur Inspektionskontrolle fahren.
+Die Scheibenwischer sind ganz kaputt und tropfen nur noch.
+Hab eine Panne auf der Autobahn gehabt, pure Hölle.
+Der Fahrzeughalterwechsel beim Amt war wieder ein Chaos.
+Kannst du mal kurz mein Lichtputzer vorbeischauen lassen?
+Die Stoßdämpfer knarren seit dem letzten Sturzloch furchtbar.
+Ich tank nur noch Super Plus, bringt doch gar nix.
+Mein Auto steht seit drei Wochen bei der Reparatur.
+Der Airbag-Warnleuchte leuchtet schon die ganze Woche lang.
+Die Bremsen heulen jedes Mal wenn ich bremse echt nervig.
+War mal wieder bei der Gratis-Impfung für mein Fahrzeug.
+Mein Auto ist zwar alt, aber läuft wie neu.
+Die Windschutzscheibe hat jetzt doch eine kleine Kerbe bekommen.
+Ich vergesse immer wieder das Ölstandskontrollglas zu prüfen.
+Der Reifenwechsel war dieses Jahr irgendwie besonders teuer geworden.
+Hast du schon die Herbstkontrolle bei der Werkstatt gemacht?
+Mein Navigationssystem funktioniert seit dem Update überhaupt nicht mehr.
+Mein Motor macht seltsame Geräusche beim Anfahren.
+Hoffentlich war der TÜV-Gutachter heute nicht zu streng.
+Die Rechnung von der Werkstatt hat mich schockiert.
+Ich muss morgen schnell noch Spracht tanken.
+Reifen sind im Winter wirklich das Wichtigste.
+Hat jemand einen Tipp für eine faire Garage?
+Mein Auto verbraucht lately mehr Benzin als sonst.
+Das Navigationssystem streikt wieder total unzumutbar.
+Ich poliere meinen Wagen am Wochenende selbst.
+Sitzt der Tankdeckel wirklich fest oder ist er kaputt?
+Meine Frau meckert, weil ich zu laut fahre.
+Ich traue mich nicht mehr, den alten Kombi hochzulassen.
+Könntest du mal schauen, ob die Batterie hält?
+Der Lack auf der rechten Tür ist abgeblättert.
+Parken in der Innenstadt ist reiner Wahnsinn geworden.
+Ich vergesse nie, das Wintervorratöl nachzufüllen.
+Die Scheinwerfer sollten bald erneuert werden.
+Warum ist beim Ölwechsel kein neues Filter dabei?
+Mein Sohn hat sein erstes Auto endlich gekauft.
+Der Gangschalthebel ruckelt immer noch irgendwie seltsam.
+Ich habe den Stauskilometerstand gerade kontrolliert.
+Die Winterreifen liegen schon auf dem Dachboden.
+Hörst du dieses quietschen bei jeder Kurvenfahrt?
+Mein Auto muss dringend zum TÜV, schon überfällig.
+Die Bremsscheiben müssen bald gewechselt werden.
+Der Winterreifen-Wechsel ist bei meiner Werkstatt schon gebucht.
+Die Werkstatt hat mal wieder viel zu viel verlangt.
+Kilometerstand über 200.000, aber läuft noch super.
+Die Klimaanlage macht komische Geräusche seit letztem Sommer.
+Der Benziner verbraucht gerade viel zu viel Sprit.
+Morgen wird der Ölstand in meinem alten Ford geprüft.
+Die Batterie ist kaputt, ich brauche ein neues Teil.
+Mein Kollege hat einen Platten auf der Autobahn bekommen.
+Ich wasche mein Auto nur alle zwei Wochen einmal.
+Der Werkstattmeister meint, das Getriebe sei noch okay.
+Wir haben gerade neue Sommerreifen für den Fiat gekauft.
+Seitdem ich die Zündkerzen getauscht habe, gehts besser.
+Ich hasse Wartungstermine, die kosten immer so viel Geld.
+Das Hecklicht ist defekt, muss bis morgen repariert werden.
+Vorsicht beim Tanken, nicht über das Limit füllen.
+Mein Sohn lernt gerade, wie man den Druck prüft.
+Die Roststellen an der Tür haben mich schockiert ehrlich gesagt.
+Ich fahre jetzt nur noch mit Super E10 sparsamer.
+Die Werkstatt rief an und sagte, es sei dringender.
+Wir müssen bald die Kupplung ausbauen lassen bei meinem Audi.
+Der Lack ist zerkratzt, Polieren hilft vielleicht noch ein wenig.
+Mein Auto macht seit gestern ein seltsames Quietschen bei der Bremsung.
+Die Werkstatt hat mir gerade gesagt, dass die Achse durch ist.
+Hast du schon einen Termin für den nächsten Hauptuntersuchung?
+Ich liebe es nicht, wenn meine Garage wieder mal zu spät kommt.
+Der Benziner braucht wirklich viel mehr Sprit als mein neuer Hybrid.
+Im Winter darf man einfach nicht vergessen, das Frostschutzmittel zu prüfen.
+Mein Kumpel wechselt seine Reifen jedes Jahr selbst auf dem Hof.
+Die Rechnung von letzter Woche war echt heftig gesalzen finde ich.
+Platzbocke sind beim Reifenwechsel echt praktisch, spart viel Kraft.
+Ich muss mal dringend die Kerzen wechseln, der Motor läuft rauh.
+Das Lackierwerk hat den Kratzer super ausgebessert, kaum zu sehen.
+Hast du eigentlich schonmal an einen Ladesäulen-Abonnement gedacht?
+Die Airbag-Warnleuchte geht leider schon wieder seit zwei Tagen an.
+Ich kaufe nur noch gebrauchte Teile von vertrauenswürdigen Händlern.
+Mein Auto steht seit drei Wochen in der Revisionswerkstatt rum.
+Die Schmierstoffwechselintervalle sind bei modernen Autos wirklich viel länger geworden.
+Ich hasse diese langen Warteschlangen auf den Tankstellen zur Hauptverkehrszeit.
+Der neue Startstopp-Motor nervt mich ehrlich gesagt total im Stadtbetrieb.
+Kann mir jemand empfehlen, wo ich günstige Sommerreifen herbekomme?
+Die Parklappen am Wochenende kosten hier im Zentrum wirklich ein Vermögen.
+Ich prüfe den Reifendruck eigentlich immer direkt vor langen Reisen.
+Mein Vater hat sein altes Auto noch bis an das Ende gewendet.
+Die Glasheilung war überraschend einfach und ging schnell vonstatten.
+Hast du bemerkt, wie laut mein Fahrzeug jetzt nach der Überholung ist?
+Ich finde, regelmäßige Pflege macht sich am Wert des Fahrzeugs wirklich bezahlt.
+Hoffentlich nimmt mir der Mechaniker kein Geld ab.
+Die neue Batterie war leider wieder viel zu teuer.
+Mein Diesel riecht schon komisch seit letzter Woche.
+Hab gerade mal die Scheibenwischer ausgetauscht, ganz einfach.
+Der TÜV-Mann hat drei Mängel bemängelt, nervig halt.
+Ich traue mich nicht mehr, zum Hauptwerkstattfahrer zu gehen.
+Benzin ist ja auch wieder mal so teuer geworden.
+Mein Nachbar hilft mir immer beim Reifenwechsel.
+Hoffentlich bleibt das Auto wenigstens noch bis Urlaub.
+Der Anlasser warf komplett aus und ich stand da.
+Reifendruck kontrollieren, das mach ich immer vorm Abfahrtstag.
+Hab einen Termin zur Inspektion für nächste Woche bekommen.
+Mein Auto verbraucht jetzt echt zu viel Sprit.
+Kannst du mir deine Werkstattnummer nochmal geben, bitte?
+Das Polster am Sitz hat sich schon wieder aufgerissen.
+Ich fahre nur noch E-Auto wenn es kostenlos ist.
+Die Rückleuchte war defekt und ich hatte Panik.
+Werkstatt meint, das Getriebe sei total verschlissen.
+Eigentlich sollte ich mich mal um ein Neues kümmern.
+Der Pool ist leer, ich muss tanken gehen.
+Mein Wagen macht nur noch seltsame Klappergeräusche.
+Hoffentlich passt der neue Schlüssel ins Schloss rein.
+Die Winterreifen lagen schon wieder im Keller rum.
+Warum kostet der normale Ölwechsel schon so viel Geld?
+Mein Tachometer springt immer wieder kurz gegen Null.
+Hoffentlich hat er den Defekt wirklich gefunden und nicht nur raten.
+Die Winterreifen sind eigentlich noch gut, aber ich bin vorsichtig.
+Seit dem letzten Tankstellenstopp riecht es komisch im Innenraum.
+Der Mechaniker hat mir versprochen, dass er heute fertig wird.
+Ich trau der günstigen Werkstatt da nebenan einfach nicht.
+Das Autowaschbeet ist voll mit Schmutz nach dem Regen.
+Mein Nachbar klaut ständig meine Parkbude vor der Garage.
+Die Garantie endet nächsten Monat, also muss ich mich beeilen.
+Warum summieren die Scheibenwischer so laut seit dem Winter?
+Ich habe extra Super Plus getankt, aber das Gefühl bleibt.
+Der TÜV-Sack auf der Windschutzscheibe macht mich nervös.
+Lass dich da nicht reinreden bei den unnötigen Zusatzdienstleistungen.
+Mein Auto steht schon seit drei Wochen in der Halle.
+Ich muss dringend die Luft in allen vier Reifen prüfen.
+Das Navigationsgerät stürzt sich alle fünf Minuten komplett ab.
+Endlich wieder freie Fahrt, ohne im Stau zu stehen.
+Der Motorölstand war kritisch niedrig, zum Glück bemerkt.
+Kannst du mal kurz meinen Rückspiegel einstellen, bitte?
+Die Start-Stopp-Automatik nervt mich einfach nur total.
+Ich kaufe Ersatzteile lieber online als bei Händlern.
+Die Scheiben sind von innen matschig, ich muss lüften.
+Mein Auto macht dieses quietschende Geräusch wieder beim Bremsen.
+Der Tank ist leer und ich stehe mitten auf der Autobahn.
+Mein Mechaniker sagt, die Anlasser muss neu getauscht werden.
+Endlich wieder winterfest mit den neuen Pirelli Reifen.
+Kannst du kurz gucken, ob mein Ölstand in Ordnung ist?
+Hoffentlich bringt der Unfall nicht zu viel Ärger mit sich.
+Die Reparaturkosten haben mich richtig ins Schwitzen gebracht.
+Supermärkte sind oft günstiger beim Tanken als am Stadtrand.
+Mein Polo hat schon viele Kilometer auf dem Buckel.
+Ach nein, die Reifen sind wieder platt gewesen heute Abend.
+Die Werkstatt hat versprochen, dass das Auto morgen fertig ist.
+Polieren tut der alten Lackierung echt gut gegen Kratzer.
+Warum ist mein Motor so laut geworden in letzter Zeit?
+Der Dieselpartikelfilter muss wahrscheinlich gereinigt oder getauscht werden.
+Ich kaufe immer Vollsyntheseöl, weil es länger hält.
+Die Bremsen knarzen total, wenn ich im Stadtverkehr fahre.
+Mein Freund hat mir das Werkzeug für den Ölwechsel geliehen.
+So ein Teuerchen ist der Neuwagen, aber die Garantie lockt.
+Ich vergesse immer wieder, dass der TÜV bald dran ist.
+Die Scheibenwischer sind kaputt und quetschen nur noch am Glas.
+Heute morgen hat das Starten ewig gedauert bei minus zehn Grad.
+Man sollte den Reifendruck regelmäßig im Winter selbst kontrollieren.
+Die Ölwanne tropft wieder mal wie verrückt.
+Hab gerade 60 Liter Vollsynthese eingefüllt, fühlt sich gut an.
+TÜV-Bescheinigung kommt morgen, hoffentlich gibts keine Probleme.
+Mein Nachbar schwört nur auf seine Meisterwerkstatt am Stadtrand.
+Der Pannenhelfer ist leider schon eine Stunde zu spät dran.
+Winterreifen sind gekauft, aber das Fitten kostet extra Geld.
+Warum ist der Benzinverbrauch lately so viel höher geworden?
+Die Scheibenwischer müssen dringend gewechselt werden, sie quietschen nur noch.
+Hast du schon mal den Zündkerzenwechsel selbst probiert?
+Meine Alte läuft zwar auf dem letzten Loch der Rolle, aber ich mag sie trotzdem.
+Der Airbag-Defekt ist wirklich teuer zu reparieren geworden.
+Immer wenns regnet, tropft Wasser im Fond rum.
+Die Werkstatt meinte, die Kupplung müsste bald ausgetauscht werden.
+Ich kaufe meinen Treibstoff nur noch an der Tankstelle um die Ecke.
+Leasingauto nach drei Jahren zurückgegeben, fast ohne Kratzer glücklicherweise.
+Der Lack auf der Haube blättert leicht ab seit dem Unwetter.
+Reifendruckkontrollsystem warnt schon wieder, aber alle Reifen sehen normal aus.
+Ich putze mein Auto jede Woche selbst, spart bares Geld.
+Die Diagnose hat überraschenderweise gar nichts gezeigt, mysteriös.
+Kannst du mir mal deine Steckschlüsseln leihen für die Räder?
+Die Heizung warmluft nur noch lauwarm, vermutlich Thermostat defekt.
+Mein Freund fährt seit Jahren nur noch Elektroautos und liebt das.
+Der Wartungsplan ist schon längst überfällig, muss ich mich beeilen.
+Stoßdämpfer geben Geräusche von sich bei jeder größeren Schlagloch.
+Ich trage immer eine Jacke mit reflektierenden Streifen im Kofferraum.
+Mein Pkw steht schon wieder in der Wartung.
+Der Spritverbrauch ist dieses Jahr krass hoch.
+Hoffentlich hält die Batterie den Winter noch durch.
+Die Werkstatt meinte, das Getriebe sei total hinüber.
+Ich habe gerade die Scheibenwischer getauscht, alte waren kaputt.
+Kannst du mal kurz gucken, warum der Check-Motor leuchtet?
+Mein Freund hat das Auto zum Händler zurückgeschickt.
+Tüv-Plakette wird bald wieder ablaufen, nervig eigentlich.
+Warum muss ich für so ein simples Ölwechsel 80 Euro zahlen?
+Ich hab die Zündkerzen selbst gewechselt, ging fix.
+Der Dieselriecher im Auto kommt wahrscheinlich vom Tankdeckel.
+Meine Mutter lässt ihr Auto nur bei der freien Werkstatt warten.
+Die Airbag-Warnleuchte geht seit Wochen nicht mehr aus.
+Hast du schon neue Sommerreifen bestellt oder wartest noch?
+Das Navigationsgerät hängt sich immer wieder auf, ärgerlich.
+Der Mechaniker hatte keine Ahnung von meinem Hybrid-Modell.
+Vor dem Urlaub muss ich unbedingt die Druckluft nachfüllen.
+Mein Bruder hat einen gebrauchten Pkw für 3000 Euro gefunden.
+Die Garagentür geht nicht mehr richtig zu, blockiert das Auto.
+Ich kaufe mein Öl immer selbst statt bei der Werkstatt.
+Die Scheiben sind innen beschlagen, obwohl die Heizung läuft.
+Hat jemand Tipps gegen diese lästigen Quiischgeräusche beim Lenken?
+Die Ölwanne tropft seit Wochen, muss bald ran.
+Warum kostet so ein simpler Einlauf schon drei Tage?
+Mein Tankstand ist kritisch, nächstbeste Station abbiegen.
+Der Servicehefter wurde endlich mal aktualisiert.
+Habe die Batterieleistung testen lassen, sieht schlecht aus.
+Türschloss klemmt wieder, typischer Winterfluch halt.
+Die Werkstatt hat mir extra einen Termin gemacht.
+Benzinpreise sind heute echt zum Mäusemelken.
+Das Warndreieck liegt hoffentlich noch im Kofferraum.
+Kupplung ruckelt beim Anfahren, vermute Verschleiß am Kabel.
+Der Neuwagenriecher war leider schon lange weg.
+Hab bei der Kontrolle nur Staub gefunden sonst nix.
+Ach nein, wieder mal das Check-Engine Licht an.
+Reifenprofil ist auf der Hinterachse schon sehr niedrig.
+Die Glasscheibe vorne hat einen kleinen Steinriss bekommen.
+Meiner Meinung nach ist diese Werkstatt total überhöht.
+Habe den Filter gewechselt, fahr jetzt sofort raus.
+Kein Wunder, dass der Motor heute Morgen nicht ansprach.
+Scheinwerfer sind ganz trüb, sollte ich polieren?
+Die Einparkhilfe piept schon bei fünf Metern Entfernung.
+Hoffentlich hält die neue Batterie bis zum nächsten Jahr.
+Das Navigationssystem friert immer wieder komplett ein.
+Meine Werkstatt hat den Fehler erst beim zweiten Versuch gefunden.
+Der Benziner frisst einfach zu viel Sprit bei Stadtverkehr.
+Hast du schonmal die Kerzen getauscht oder nur nachgeguckt?
+Ich hasse es, stundenlang in der Warteschlange der Garage zu stehen.
+Mein Kollege schwört auf diese günstige Filiale für den Service.
+Der Reifendruck war bei allen vier Rädern deutlich zu niedrig.
+Kann mir jemand sagen, ob das Normalöl reicht oder voll synthetisch?
+Die Abgasprüfung ging zum Glück ohne Probleme durch, phew.
+Ich muss dringend mal die Lichtmaschine prüfen lassen, der Akku wird leer.
+Seit dem Update macht das Navi immer noch seltsame Routenvorschläge.
+Der Lack auf der Haube ist total stumpf von der Sonne.
+Hoffentlich bleibt bis zum Urlaub nichts kaputt am Wagen.
+Die Werkstatt wollte mir ein komplettes Getriebe umbauen, dass lass ich mich sagen lassen.
+Ich finde die neuen LED-Scheinwerfer sind ihr Geld absolut wert.
+Mein Auto hat nachts immer diese nervigen Klickgeräusche gemacht.
+Der Wechsel von Sommer auf Winterreifen kostet bei mir nur 50 Euro.
+Ich vergesse immer wieder das Ölstandskontrolle vor der längeren Reise.
+Die Garantie ist leider abgelaufen, jetzt wird jede Reparatur teuer.
+Der Dieselkräker macht seit letzter Woche wirklich seltsame Geräusche.
+Ich spare immer Geld, indem ich selbst den Wischerblätter tausche.
+Die Diagnose hat zwei Tage gedauert und auch noch extra gekostet.
+Mein Vater fährt seinen alten Pkw schon zwanzig Jahre zuverlässig.
+Der Tankdeckel klemmt irgendwie und lässt sich nur mühsam öffnen.
+Der Tank war leer und ich stand direkt vorm Arbeitsweg.
+Meine Werkstatt hat das Teil leider auf Bestellung.
+Ich hoffe mal, dass die Garantie noch hält.
+Das Öl ist total schwarz nach der letzten Fahrt.
+Wir müssen bald neue Reifen kaufen, Profiltiefe zu niedrig.
+Die Scheinwerfer sind matt geworden, brauchen eine Politur.
+Warum kostet so ein einfacher Ölwechsel überhaupt hundert Euro?
+Hast du schon gehört, dass die Abgasanlage knattert?
+Ich richte das Radio immer mit Bluetooth am Handy ein.
+Der Airbag hat sich aus unbekannten Gründen ausgelöst.
+Mein Vater sagt, ich müsste nur regelmäßig zum Check-up gehen.
+Die Windschutzscheibe hat einen kleinen Steininschlag in der Mitte.
+Ich lade das Auto jetzt jede Nacht an der Wallbox auf.
+Der TÜV-Mann fand drei Mängel, alles Kleinigkeiten aber nervig.
+Wir haben eine Panne gehabt und den Abschleppwagen gerufen.
+Die Sitze sind vom Leder schon etwas angekratzt.
+Kannst du mal kurz über die Batterie schauen, sie wirkt schwach?
+Ich habe das Auto gerade gründlich gewaschen und geölft.
+Der Verbrauch ist seit dem letzten Tanken wieder gestiegen.
+Mein Partner fährt lieber den Bus, weil Parken so teuer ist.
+Die Heckscheibe wird bei Frost immer total zugefroren.
+Ich muss die Zündkerzen austauschen, sonst läuft es nur rau.
+Das Navigationsgerät zeigt oft falsche Straßen an, echt nervig.
+Wir überlegen uns, ob wir auf E-Antrieb umsteigen sollen.
+Der Tank steht auf E, ich muss sofort ran.
+Wartung fällig in nur noch hundert Kilometern.
+Die Reifen sind echt schrottig, neue werden Zeit.
+Hoffentlich wird die Reparatur nicht zu teuer ausgehen.
+Beim Ölwechsel hat die Werkstatt nochmal nachgebessert.
+Mein Auto raucht leicht aus dem Auspuffrohr.
+Ich mag den Geruch von frischen Sommerreifen total.
+Die Startbatterie ist gestorben, genau im Stau.
+Kraftstoffpreis steigt weiter, das nervt mich krass.
+Wischwasser nachfüllen, sonst wirds auf der Autobahn gefährlich.
+Der TÜV-Mann hat drei Mängel angemerkt, doof.
+Ich putze das Auto jedes Wochenende, macht Spaß.
+Die Kupplung rutscht schon ein bisschen seit Monaten.
+Neue Zündkerzen haben den Verbrauch deutlich gesenkt.
+Im Winter frieren die Scheibenwischer immer festklammern.
+Die Werkstatt sagt, der Motor braucht bald Ruhe.
+Ich fahre nur noch E-Fahrzeug ab nächstem Jahr.
+Dachhimmel hängt durch, muss wohl erneuert werden.
+Reifenpumpe im Koffer ist schon wieder defekt.
+Das Navigationssystem stürzt ständig bei Bergstrecken ab.
+Polieren kostet viel Geld, sieht aber mega gut aus.
+Ich habe den Fehlercode mit dem Handy ausgelesen.
+Bald steht die große Inspektion an, mal sehen.
+Der Beifahrerairbag warnt seit gestern Abend schon.
+Kaffee in der Tasse ist immer noch warm genug.
+Ich habe heute Morgen kein Benzin mehr drin gehabt.
+Der Werkstattmeister sagte, die Auspuffanlage ist durchgerostet.
+Mein Nachbar kauft nur gebrauchte Teile auf eBay.
+Reifen prüfen sollte man eigentlich alle paar Monate selbst.
+Die Rechnung kam dann doch etwas überteuert rüber.
+Hast du schon mal das Zahnriemen-Kit selbst getauscht?
+Mein Auto steht seit zwei Wochen in der Reparatur.
+Der Tankinhalt reicht kaum noch für die Pendlerstrecke.
+Die Scheibenwischer müssen dringend erneuert werden, schleifen nur.
+Ein Ölwechsel kostet hier bei der freien Werkstatt wenig.
+Mein Vater meckert immer wegen des hohen Verbrauchers.
+Die Batterie hat die Nacht nicht überlebt, Pech gehabt.
+Ich sollte bald mal wieder unter die Kariste gucken.
+Das Parken in der Innenstadt nervt mich jedes Mal.
+TÜV-Mangel ist leider nur Kleinigkeit, muss aber her.
+Die Klimaanlage kühlt nicht mehr so richtig nach.
+Der Lärm unter der Motorhaube ist wirklich ärgerlich.
+Vor dem Urlaub unbedingt alle Flüssigkeiten kontrollieren.
+Meine Frau findet das neue Modell einfach zu teuer.
+Ich warte lieber auf ein Angebot aus zwei Werkstätten.
+Die Rechnung kam mir richtig übel vor diesmal.
+Hoffentlich hält das Ding bis zum Urlaub durch.
+Ich muss morgen früh gleich zur Tankstelle fahren.
+Der Mechaniker meint, die Kupplung ist am Ende.
+Hat jemand eine Empfehlung für eine seriöse Werkstatt?
+Mein Spritverbrauch ist in letzter Zeit explodiert.
+Endlich wieder ein Plättchen im Spiegel gesehen auf der Autobahn.
+Die Abgasanlage rostet schon mal komplett durch.
+Kann ich das Polster selbst reinigen mit nem Schwamm?
+Der Checkmotor leuchtet seit zwei Wochen stur an.
+Ich liebe das Gefühl, wenn die Fenster runterfahren.
+Die Sommerreifen sind echt abgefahren und glatt.
+Muss dringend die Zündkerzen austauschen beim nächsten Ölwechsel.
+Warum ist eine einfache Inspektion plötzlich so teuer geworden?
+Habe versehentlich diesel statt Benzin getankt, Oje.
+Der Airbag steht seit dem Unfall immer noch an.
+Klappt die Hebevorrichtung überhaupt noch sicher im Keller?
+Ich wasche mein Auto jedes Wochenende selbst sorgfältig.
+Die Lenkung spielt immer mehr bei höheren Geschwindigkeiten nach.
+Hoffe, dass der Ersatzteilversand morgen endlich ankommt.
+Mein Nachbar hat einen genialen Tipp für Rostschutz gegeben.
+Der Nebelscheinwerfer war plötzlich ganz dunkel und tot.
+Ist es normal, dass das Auto so laut vibriert?
+Die Parklücke im Innenhof ist echt eng geworden jetzt.
+Habe die Batterieklemmen gerade erst mit Fett behandelt wieder.
+Mein Benziner ist im Moment echt durstig geworden.
+Hab gestern wieder mal das Öl nachgegossen, war schon knapp.
+Die Werkstatt hat mir gesagt, dass die Kupplung bald schwach wird.
+Ich hasse es, wenn mein Auto in der Warteschlange steht.
+Der TÜV-Hauptuntersuchungstermin rückt leider immer näher und ich hab Zeitdruck.
+Wir brauchen dringend neue Sommerreifen, die alten haben zu viel Profil verloren.
+Der Mechaniker war super freundlich und hat alles gut erklärt.
+Ich hab das Autoradio selbst eingebaut, ging schneller als gedacht.
+Seit dem letzten Tankstellenbesuch läuft der Motor seltsam rau.
+Mein Auto steht schon drei Tage in der Werkstatt, typisch halt.
+Die Rechnung kam mir diesmal wirklich ein bisschen überteuert vor.
+Hast du die Scheibenwaschanlage mal nachgefüllt, ist wieder leer.
+Ich fahr lieber mit Diesel, weil ich viel Fernreise mache.
+Der Akku meiner Startbatterie ist wohl endgültig platt gegangen.
+Mein Kollege hat mir einen guten Lackierer für den Kratzer empfohlen.
+Ich mag diese neuen Autos nicht, die sind zu elektronisch kompliziert.
+Die Abgasanlage klappert seit der letzten Fahrt über holprige Straßen.
+Hab endlich Zeit gefunden, das Auto gründlich von innen auszuwischen.
+Der Warnton an der Tankanzeige nervt mich irgendwie immer gleich.
+Mein Auto muss dringend mal wieder professionell poliert werden.
+Ich vermisste meine alte Karre einfach so sehr wie eh und je.
+Die Inspektion wurde leider um zwei Wochen verschoben, ärgerlich.
+Mein Nachbar nutzt die Werkstatt vom Supermarkt, angeblich günstiger.
+Der Gangschalter hakt morgens beim erstenmal noch immer ganz leicht.
+Der Ölstand war kritisch niedrig, Glück dass ich es bemerkt hab.
+Mein Auto frisst echt viel Sprit im Winter, nervig.
+Die Werkstatt hat den Termin heute schon um zwei verschoben.
+Ich muss mal dringend die Bremsbeläge prüfen lassen.
+Hast du einen Tipp für eine günstige Tankstelle in der Stadt?
+Der TÜV ist gelaufen ohne Beanstandungen, wie schön.
+Immer wenn es regnet tropft Wasser ins Innere des Wagens.
+Die Reifen haben schon ordentlich Profil, noch zwei Jahre gut.
+Ich habe das Autowaschen dieses Mal ausgelassen, war zu kalt.
+Komisches Rasseln bei der Lenkung, wahrscheinlich das Achsgehänge.
+Die Rechnung kam unerwartet hoch aus für einen simplen Checkup.
+Mein Nachbar ist Mechaniker und repariert mir immer alles kostenlos.
+Seit dem Wechsel auf Super Plus läuft der Motor ruhiger.
+Ich traue mich nicht ins Auto rein bei diesem Frost.
+Das Radio streikt seit gestern, wohl wieder ein fester Freund.
+Die Scheibenwischer machen nur noch Wischgeräusche ohne zu reinigen.
+Ich sollte mal den Akkumulator austauschen, er wird langsam alt.
+Der Serviceheft-Stempel fehlt leider immer noch bei der letzten Inspektion.
+Mein Auto steht schon seit drei Wochen in der Hauptwerkstatt.
+Die Carport-Dachhaut muss dringend renoviert werden, tropft durch.
+Ich habe verglichen mit letztem Jahr deutlich mehr Benzin getankt.
+Das Navigationsgerät braucht ewig zum Starten echt nervig.
+Ein kleiner Stein hat die Windschutzscheibe angerissen, Kratzer halt.
+Ich überlege mir ob ich doch wieder Diesel fahren soll.
+Ach du Scheiße, ich muss gleich zur Werkstatt fahren.
+Der neue Ölwechsel kostet leider wieder dreissig Euro.
+Meine Mutter hat heute morgen das Auto gewaschen.
+Hast du schon gesehen wie teuer Benziner sind?
+Das Dachfenster klemmt irgendwie seit der letzten Reparatur.
+Ich finde die neuen Autos sehen alle gleich aus.
+Die Bremsen quietschen beim Anfahren total nervig.
+Wir haben letzte Woche den Winterreifen montieren lassen.
+Mein Vater meinte ich soll das Ding doch entsorgen.
+Der TÜV war dieses Jahr überraschend schnell und günstig.
+Ich habe Angst vor dem nächsten großen Serviceheft-Eintrag.
+Die Klimaanlage geht nicht mehr, es ist so heiß.
+Hast du den Tank noch voll gefüllt heute Nacht?
+Mein Nachbar parkt immer doppelt geparkt vor der Garage.
+Die Scheibenwischer sind kaputt und ich muss welche kaufen.
+Ich liebe das Gefühl wenn das Auto neu poliert ist.
+Warum kostet ein einfaches Rad so unglaublich viel Geld?
+Der Motor macht seltsame Geräusche beim Hochfahren heute.
+Ich habe vergessen die Tankkarte mitzunehmen zum Supermarkt.
+Kannst du mal gucken ob der Druck stimmt?
+Mein Auto steht seit drei Wochen in der Werkstatt.
+Das Navigationsgerät zeigt den falschen Weg an wieder einmal.
+Hab grade das Öl gewechselt, sieht dunkel aus.
+Die Garage will 300 Euro für nen neuen Motordeckel?
+Mein Tank ist leer und die nächste Station kommt nicht in Sicht.
+Hast du schon neue Scheibenwischer gekauft, die alten wischen gar nicht mehr.
+TÜV durchgefallen wegen zu dünner Reifen, was nun?
+Der Airbag hat sich ausgefahren, obwohl kein Unfall war.
+Ich liebe den Sound meines Motors, purer Klanggenuss.
+Wieder mal Pannenhilfe gerufen, war teurer als gedacht.
+Kannst du mal gucken, ob die Batterie noch hält?
+Benzinpreise krachen, muss doch nicht so wild werden.
+Mein Auto macht seltsame Geräusche wenn ich beschleunige.
+Habe den Fahrzeugschein vergessen, darf jetzt nicht fahren.
+Die Heizung läuft zwar aber es kommt kein warmer Wind.
+Werkstatttermin aufgeschoben bis nächste Woche, hoffentlich klappt das noch.
+Reifenwechsel selbst gemacht, hat locker geklappt ohne Probleme.
+Mein Freund meint ich soll ein Elektroauto kaufen, naja.
+Schlusslicht links defekt, muss bald mal zum Optiker.
+Die Polster sind schmutzig, sollte eigentlich mal waschen lassen.
+Warum kostet der Einbau immer so viel mehr als die Teile?
+Ich hab Angst vor der nächsten Hauptuntersuchung im Sommer.
+Klimaanlage eisgekühlt, perfect für diese Hitze hier draußen.
+Mein Auto ist alt aber hat noch keinen Macken entwickelt.
+Dachrinne verstopft, Wasser tropft immer wieder rein ins Dach.
+Hast du schon mal über einen Anhängerkupplung nachgedacht?
+Da muss ich wohl wieder zur Werkstatt, das Licht blinkt schon seit Wochen.
+Hast du deinen Termin für den Hauptuntersuchung schon gebucht?
+Die Rechnung kam gestern an, da war wohl ein Fehler drin.
+Meine Reifen sind doch schon fast glatt abgefahren, echt krass.
+Ich hab mal nachgeschaut, der Ölstand ist wieder zu niedrig.
+Warte jetzt schon zwei Stunden in der Warteschleife der Werkstatt.
+Der Mechaniker sagt, die Kupplung sei hinüber und muss erneuert werden.
+Hab gestern bei Tankdeckel vergessen, das war wohl blöd von mir.
+Die Scheibenwischer flattern total komisch im Regen, nervt mich wahnsinnig.
+Mein Auto braucht seitdem doppelt so viel Sprit wie früher.
+Kannst du mir mal kurz beim Reifendruck helfen, hab keine Luftpumpe.
+Die Winterreifen liegen immer noch im Keller und warten auf Montage.
+Ich schwöre, die haben mich gerade bei der Rechnung um 50 Euro übervorteilt.
+Der Motor raucht ganz leicht blau, das ist doch nicht gut oder?
+Habe einen Kratzer an der Tür, soll ich zur Lackiererei fahren?
+Die Batterie war komplett leer, muss ich sie jetzt schon tauschen lassen?
+Mein Freund meint, ich soll mir ein Leasingauto nehmen statt reparieren.
+Die Bremsbeläge piepen schon ewig, aber ich mach mir erstmal keine Sorgen.
+Warum kostet das einfache Ölwechsel bei der Markenwerkstatt so viel Geld?
+Ich habe versucht, die Sicherung selbst zu wechseln, klappt aber nicht.
+Das Navigationssystem hängt sich seit dem Update immer wieder auf.
+Die Heckscheibe ist eingewachsen, da muss wohl etwas nachgespannt werden.
+Hoffentlich hält der Motor noch bis ich mir ein neues kaufen kann.
+Die Werkstatt hat vergessen, die Radmuttern richtig fest anzuziehen, Glück gehabt.
+Der Benziner frisst gerade mal drei Liter mehr als sonst.
+Hab gestern wieder den Tankdeckel vergessen aufzumachen.
+Die Werkstatt meinte, ich bräuchte neue Lichtmaschinen sofort.
+Mein Auto startet morgens nicht ohne extra Batterieimpuls.
+Reifenwechsel kostet bei der freien Werkstatt nur 60 Euro.
+TÜV-Mann hat sich extra Zeit für die Bremsen genommen.
+Ich finde den neuen Dieselgeruch im Innenraum echt störend.
+Warum läuft bei dir immer alles so perfekt rund?
+Mein Schiebedach klemmt seit der letzten Winterkälte wieder fest.
+Die Scheibenwischer sind schon lange überfällig zum Auswechseln gewesen.
+Ich muss mal die Filter wechseln, das macht Sinn.
+Hast du gesehen, wie schnell er jetzt beschleunigt wird?
+Der Serviceheft ist mittlerweile vollständig mit Stempeln versehen worden.
+Ich hasse es, wenn mein Auto im Winter rottet rum.
+Kannst du mir mal zeigen, wo die Reserverad liegt?
+Die Lackierung fängt langsam an, an den Kanten auszulosen.
+Meiner Meinung nach ist das ein sehr zuverlässiger Wagen hier.
+Ich sollte endlich mal die Kerzen austauschen lassen bei der Werkstatt.
+Warum kostet so ein simples Ölwechsel jetzt fünfzig Euro plus minus?
+Ich bin froh, dass meine Garantie noch bis nächstes Jahr gilt.
+Der Gang klemmt etwas beim Hochschalten in den dritten Gang rein.
+Mein Auto braucht dringend einen neuen Wasserkühlerdeckel wegen Leckage.
+Ist es normal, dass das Lenkrad beim Geradeausfahren vibriert leicht?
+Ich habe keine Lust mehr auf diese teure Werkstatt hier überhaupt.
+Vielleicht sollte ich wirklich auf Elektroauto umsteigen für die Zukunft.
+Da war doch nochmal ein Schlagloch auf der Autobahn.
+Mein Auto macht seit zwei Wochen komische Vibrationen.
+Die Werkstatt hat mir den Wechsel schon um drei Tage verschoben.
+Kannst du mal kurz meinen Ölstand prüfen, bitte?
+Ich hasse es immer wieder, wenn ich warten muss.
+Der neue Filter war zwar teuer, aber es lohnt sich.
+Hast du zufällig noch eine Sicherung für die Scheibenwischer übrig?
+Mein Benziner ist heute Morgen schon wieder durchgefallen.
+Die Kostenübersicht kam erst zwei Tage nach der Reparatur.
+Wir müssen bald die Bremsbeläge wechseln, das Quietschen nervt.
+Ich liebe nichts mehr als ein gut gepflegtes Oldtimer.
+Das Rad muss schnell abgezogen werden, sonst wird es schief.
+Mein Navigationsgerät zeigt immer noch den falschen Weg an.
+Hast du schon mal über eine Solarfolie für die Scheibe nachgedacht?
+Die Garantie läuft nächsten Monat ab, da sollte ich vorsichtig sein.
+Ich habe gerade bei Amazon neue Wischer bestellt, die alten sind kaputt.
+Der Mechaniker sagte, der Motor wäre noch in gutem Zustand.
+Klar, ich hol das Werkzeug aus dem Keller, kein Problem.
+Mein Auto sieht wirklich traurig aus nach dem letzten Sturm.
+Die Versicherung deckt leider nur teilweise die Schäden ab.
+Ich vergesse immer, den Füllstand zu kontrollieren, blöde von mir.
+Es gibt doch bestimmt einen Gutschein für die nächste Wartung.
+Das Lenkrad vibriert so stark, dass ich nervös werde.
+Wir fahren morgen früh los, also alles rechtzeitig fertig machen.
+Der Geruch im Innenraum ist wirklich unerträglich geworden.
+Meiner hat im Winter mal wieder Pech gehabt.
+Die Werkstatt sagt mir einfach nur, dass alles kaputt ist.
+Endlich einen Termin für den TÜV bekommen.
+Reifen sind ganz schön abgefahren hier in der Kurve.
+Ich kauf immer mein Öl selbst und lasse es wechseln.
+Der Fahrzeugschein fehlt irgendwie aus dem Dokumentenfach.
+Hat jemand einen Tipp gegen die Quietschebremsen?
+Mein Benzinverbrauch ist letztes Jahr explodiert grml.
+Die Scheibenwischer funktionieren nur noch zur Hälfte richtig.
+Ich hasse diese Wartezeiten in der Autowerkstatt eigentlich total.
+Lackierung wurde nach dem Hagelunfall super gemacht wieder.
+Der Airbag hat sich zum Glück nicht geöffnet glücklicherweise.
+Kann mir jemand erklären was die neuen Normen bedeuten?
+Mein Auto steht schon zwei Wochen bei der Instandsetzung dort.
+Ich finde Elektromobilität ist doch noch zu teuer momentan.
+Hast du deine Kfz-Steuer auch schon bezahlt dieses Jahr?
+Das Autowaschmittel aus dem Baumarkt reicht mir völlig.
+Ich hör das seltsame Geräusch nur im Leerlauf wieder.
+Die neue Batterie hat endlich das Problem gelöst endgültig.
+Worauf muss ich beim Gebrauchtwagenkauf eigentlich am meisten achten?
+Mein Nachbar meckert immer über den Abgasgeruch meiner Garage.
+Der Ersatzschlüssel kostet bei der Firma schon fast hundert Euro.
+Ich putze meine Sitze immer selbst mit einem feuchten Tuch.
+Die Standheizung ist im Winter echt nützlich finde ich.
+Hat schon mal jemand den Fahrstil an die App angebunden?
+Der Motor macht dieses quietschende Geräusch seit Wochen schon.
+Ich hoffe mal dass es nur der Keilriemen ist.
+TÜV Termin ist erst Ende November aber besser zu früh als zu spät.
+Die Werkstatt hat mir dreißig Euro mehr gerechnet als vereinbart.
+Heute muss ich endlich zum Ölwechsel gehen.
+Mein Benziner verbraucht echt zu viel Sprit lately.
+Der Reifen vorne rechts hat doch einen Platten bekommen.
+Scheibenwischerblätter sind kaputt und der Regen kommt ja sofort.
+Ich finde diese neuen Fahrzeuge so unförmig und unpraktisch.
+Die Airbag war gewarnt aber der Fehler ist schon lange behoben.
+Kannst du mir mal deinen Akku leihgeben ich kann nicht starten.
+Das Parken in der Innenstadt wird immer ärgerlicher.
+Wir haben uns für die Vollkasko entschieden nach dem Vorfall.
+Der Lack auf der Haube ist total verkratzt von den Steinschlag.
+Hat jemand einen Tipp für eine gute und günstige Autobatterie?
+Mein Navisystem stürzt permanent ab bei jeder Fahrt ins Ausland.
+Der Dieselpartikelfilter ist wohl verstopft laut Fehlermeldung auf dem Display.
+Ich wasche mein Auto nur noch in der Waschstraße spart Zeit.
+Die Lichtmaschine hat den Geist aufgegeben mitten auf der Autobahn.
+Klingt blöd aber ich bin froh das sie nur ein Kratzer war.
+Der Serviceheft muss unbedingt ausgefüllt werden sonst verliert die Garantie.
+Ich überlege mir ob ich wirklich einen neuen kaufen soll.
+Die Winterreifen haben echt viel geholfen bei dem Schnee gestern.
+Der Tank ist schon fast leer, ich muss bald nachfüllen.
+Mein Kollege hat sein Auto gerade zum Umbau gebracht.
+Die Scheibenwischer machen total seltsame Geräusche beim Wischen.
+Ich habe heute morgen endlich den Ölstand kontrolliert.
+Die Batterie ist wohl schwach, das Licht flackert dauernd.
+Am Wochenende drehe ich die Reifen selbst um auf dem Hof.
+Der TÜV war wieder mal eine nervige Angelegenheit für mich.
+Mein Nachbar schwört nur auf seine lokale Fachwerkstatt in der Stadt.
+Die Lackierung an der Tür ist schon ganz schön abgeblättert.
+Ich muss schnell noch einen Stopfen für das Dach kaufen.
+Seit dem letzten Regen tropft es ständig im Kofferraum rum.
+Hast du schon mal die Bremsflüssigkeit beim Mechaniker wechseln lassen?
+Die Versicherung deckt den Schaden leider nur teilweise ab.
+Ich liebe es, mein altes Fahrzeug selbst zu polieren und zu reinigen.
+Der Dieselpartikelfilter scheint zugekippt zu sein seit der letzten Fahrt.
+Endlich habe ich einen Termin für den nächsten Service bekommen.
+Mein Auto verbraucht irgendwie viel mehr Benzin als früher noch.
+Die Sitzheizung funktioniert rechts nicht mehr, das nervt total.
+Ich muss mal schauen, ob ich Ersatzreifen hier finde.
+Der Zündenschlüssel steckt fest und will einfach nicht herauskommen.
+Meine Freundin empfiehlt dringend einen unabhängigen Prüfer für den Hauptuntersuchungstermin.
+Das Parklicht geht seit gestern gar nicht mehr an.
+Wir haben uns überlegt, das Auto vielleicht doch zu verkaufen.
+Der Motor läuft ganz unruhig beim Kaltstart.
+Hab gestern wieder 70 Euro für Sprout ausgegeben.
+Die Werkstatt behauptet es sei nur normaler Verschleiß.
+Mein Pkw steht seit Montag schon dort rum.
+Hoffentlich muss ich das Getriebe noch nicht reparieren lassen.
+Der Dieselknackser nervt mich langsam total bei der Fahrt.
+Reifenprofil zu niedrig, sofort neue bestellt.
+Kannst du mal kurz mein Auto verschieben?
+Die Scheinwerfer sind ganz trüb geworden durch die Zeit.
+TÜV-Termin ist leider noch nicht klar für dieses Jahr.
+Ich habe das Öl selbst gewechselt, spart Geld.
+Das Lenkrad vibriert leicht ab hundert Stundenkilometern pro Stunde.
+Zwischendurch mal tanken müssen an der nächsten Station.
+Der Airbag hat sich zum Glück nicht ausgelöst beim kleinen Unfall.
+Politur macht den Lack wieder richtig schön glänzend und neu.
+Warum ist die Reparaturrechnung so absurd hoch geworden diesmal?
+Die Klimaanlage kühlt einfach gar nicht mehr richtig in der Hitze.
+Habe gestern einen Platten auf der Autobahn bekommen, pure Hölle.
+Scheinwerferwaschanlage funktioniert plötzlich nicht mehr seit letztem Update.
+Ersatzteil muss leider noch zwei Wochen lang warten.
+Der Anlasser macht nur noch ein kurzes Geräusch beim Starten.
+Immer wieder die selben Probleme mit diesem alten Modell hier.
+Benzinpreise sind gerade echt zum Mäusemelken auf dem Land.
+Fensterheber klemmt seit der Kälteperiode etwas bei beiden Türen.
+Hab den Batteriestrom schon mal neu gesetzt, hilft meistens sofort weiter.
+Der Spritverbrauch ist in letzter Zeit echt hoch.
+Muss morgen früh zum Termin in der Werkstatt rüberfahren.
+Hoffentlich fällt bei der Hauptuntersuchung nichts an.
+Die Scheibenwischer haben ihren Dienst quittiert gestern Abend.
+Hab den Wechsel der Reifen schon online bestellt und bezahlt.
+Die Rechnung kam mir diesmal ziemlich hoch vor ehrlich gesagt.
+Reifendruck prüfen ist doch gar nicht so schwer eigentlich.
+Der Tankstand ist kritisch, muss schnell wieder ran.
+Vorbeugende Wartung spart am Ende immer noch bares Geld.
+Komisches Klackern kommt von vorne links bei höherer Geschwindigkeit.
+Ich trau mich nicht mehr selbst an den Motor ranzugehen.
+Zusammenstich war gestern Nachmittag auf der Autobahn ganz schön stressig.
+Die Werkstatt meinte, die Dichtungen müssten auch mal erneuert werden.
+Polieren macht das Ding wieder richtig schön glänzend und frisch.
+AdBlue nachfüllen vergesse ich ständig, da muss ich mir was einfallen lassen.
+Das Navigationsgerät zeigt oft falsche Routen an, echt nervig.
+Winterdienst ist wichtig, damit die Heckscheibe sofort frei wird.
+Habe den Pollenfilter gewechselt, jetzt riecht es besser drin.
+TÜV-Plakette kleben hat beim letzten Mal ewig gedauert.
+Elektroauto laden zu Hause ist deutlich günstiger als an der Tankstelle.
+Die Kupplung ruckelt manchmal, das muss ich dringend klären lassen.
+Autopflege am Wochenende entspannt mich irgendwie immer richtig gut wieder.
+Keine Ahnung ob der Motor noch so lange halten wird ehrlich.
+Der Benziner kostet heute schon wieder das Doppelte von vor nem Jahr.
+Mein Kollege schwört nur noch auf Elektromobilität in der Stadt.
+Hab am Wochenende selbst die Zahnriemen gewechselt, echt nervig.
+Die Werkstatt meint immer, ich bräuchte gleich neue Dämpfer.
+Vorher hätte ich auch kein Geld für solche Reparaturen.
+Mein altes Modell läuft zwar noch, aber rostet schon arg.
+Der Parkassistent ist im Innenhof echt hilfreich bei engen Stellen.
+Hoffentlich hält der Akku wenigstens die nächsten fünf Jahre.
+Die Inspektion fällt dieses Jahr glücklicherweise etwas günstiger aus.
+Man sollte nie zu spät mit dem Reifenwechsel warten.
+Bei Kälte macht mein Motor immer wieder seltsame Klappergeräusche.
+Der neue TÜV-Schein war dann doch teurer als gedacht.
+Ich lade am besten nachts zuhause, das ist am billigsten.
+Kratzer in der Lackierung sind auf dem Parkplatz unvermeidbar.
+Die Fahrassistenzsysteme helfen bei längeren Autofahrten echt gut.
+Mein Nachbar hat mir einen günstigen Mechaniker empfohlen.
+Der Motorölstand war mal wieder kritisch niedrig im Sommer.
+Keine Lust mehr, jeden Monat den Pfandbeutel zu sortieren.
+Die Sitzheizung funktioniert leider nur noch auf der Beifahrerseite.
+Wir müssen dringend die Scheibenwischerblätter austauschen lassen.
+Das Navigationssystem ist oft veraltet und zeigt falsche Routen.
+Mein Vater fährt immer noch sein geliebtes Fahrzeug aus den 90ern.
+Der Dieselpartikelfilter war plötzlich voll, was sehr teuer wurde.
+Ich hasse es, im Stau stehen und nur Benzin zu verbrennen.
+Die Polster sind zwar abgefahren, aber bequem genug für mich.
+Mein Benziner frisst heute Morgen richtig viel Sprit.
+Der Pannenversicherung war zum Glück schnell da und hat geholfen.
+Ach nee nicht schon wieder dieses quietschende Lenkrad.
+Hoffentlich fällt der TÜV heute nicht allzu kritisch aus.
+Die Ölwanne läuft seit zwei Wochen leicht, muss ran.
+Warum ist die Werkstatt immer so teuer für kleine Reparaturen?
+Ich hab den Winterreifenwechsel einfach selbst gemacht, ging super.
+Mein Auto macht beim Anfahren dieses merkwürdige Rattern von links.
+Der Dieselpartikelfilter ist wohl zu voll, sollte man prüfen lassen.
+Gestern habe ich wieder mal vergessen das Licht abzustellen.
+Kann mir jemand einen guten Kfz-Meister in der Nähe empfehlen?
+Das Lackierungsschaden am Seitenspiegel nervt mich einfach unglaublich.
+Mit AdBlue wird das Fahren im Winter immer komplizierter ehrlich gesagt.
+Die Bremsklötze sind schon seit Monaten rot angeleuchtet auf dem Display.
+Mein Wagen schüttelt sich bei hohen Geschwindigkeiten leicht nach hinten.
+Ich sollte bald mal die Luftdruck an den Rädern überprüfen und nachfüllen.
+Der Schmutzfänger ist komplett verstopft, kein Wunder dass es stockt.
+Warum kostet nur der Anruf bei der Werkstatt schon fünf Euro Gebühren?
+Die Sitzheizung im Fahrerfeld geht seit gestern Abend nicht mehr richtig.
+Ich kaufe nur noch gebraucht weil die Neupreise zu absurd sind.
+Das Navigationsgerät ist langsam überholt und zeigt manchmal falsche Straßen an.
+Heute Morgen war das Frostschutzmittel wieder einmal knapp, ich muss nachfüllen.
+Der Motor läuft so ruhiger als in den ersten zwei Jahren echt super.
+Die Werkstatt wollte für den Ölwechsel doppelt so viel nehmen.
+Mein Auto schüttelt sich wieder ab 120 km/h auf der Autobahn.
+Endlich neue Reifen gekauft, die alten waren echt kaputt.
+TÜV-Bescheinigung vergessen und dann am nächsten Termin zahlen.
+Der Dieselverbrauch ist in letzter Zeit deutlich gestiegen.
+Hab den Akku selbst gewechselt, war einfacher als gedacht.
+Die Scheibenwischer scheuern nur noch über das Glas hinweg.
+Kratzer im Lack ignorier ich mal bis zum nächsten Gang.
+Warum kostet so ein simpler Bremsenwechsel eigentlich so viel Geld?
+Das Navigationsgerät zeigt immer falsche Routen in der Innenstadt an.
+Winterreifen sind Pflicht, sonst droht die Abmeldung des Fahrzeugs.
+Mein Pannenhilfe-Service kam nach drei Stunden endlich vorbei.
+Die Airbag-Warnleuchte geht seit zwei Wochen nicht mehr aus.
+Ich wasche mein Auto nur im Sommer, im Regen ist das müßig.
+Zündkerzen wechseln bringt manchmal wieder mal mehr Drehmoment raus.
+Die Parkluchten sind kaputt und der Mechaniker findet es normal.
+Kraftstoffkarte verloren und jetzt muss ich alles neu bestellen lassen.
+Leasingauto abgeben und dann doch noch Schäden bemängelt bekommen.
+Die Sitze in meinem alten Pkw sind wirklich nicht bequem.
+Warteungsheft fehlt und jetzt wird der Wert des Autos gedrückt.
+Sonnenschutzfolie einziehen, weil die Lenkradeinflüsse so heiß werden.
+Der Tankstopp hat wieder mal versagt beim Beifüllen von Sprit.
+Ich liebe den Geruch von neuem Lack in meiner Werkstatt.
+Politur macht Wunder bei alten Kratzern auf der Motorhaube.
+Da hat die Werkstatt wieder den Hammerpreis rausgeholt.
+Ich hoffe, der TÜV geht heute morgen schnell vorbei.
+Mein Benziner verbrät gerade richtig Sprit auf der Autobahn.
+Ach je, wieder die Bordcomputerlampe im Armaturenbrett.
+Hast du schon neue Sommerreifen bestellt für dieses Jahr?
+Das Auto muss dringend her zum Ölwechsel und Filtertausch.
+Die Kupplung flutscht seit letzter Woche leider ganz schön stark.
+Ich finde den neuen Fahrassistenten im Wagen echt nützlich.
+Wegen der Staus heute hab ich wieder extra Vollgetankt.
+Der Lack an der Rückleuchte ist total abgeplatzt durch Stein.
+Mein Nachbar kramt seine alten Winterreifen wieder aus dem Keller.
+Die Werkstatt meint, die Bremsen müssten bald erneuert werden.
+Ich traue mich kaum, den Motor noch lauter zu beschleunigen.
+Schön, dass die Versicherung den Pannendienst diesmal bezahlt hat.
+Der Dieselriecher in der Kabine nervt mich einfach nur total.
+Könntest du kurz meinen Kofferraum abschließen, ich hab keine Hände.
+Ich muss dringend die Scheibenwischer austauschen, die wischen schlecht.
+Bei 130 km/h wackelt das Lenkrad irgendwie seltsam stark.
+Hast du schon gesehen, wie teuer der neue Adapter für den Ladekabel ist?
+Mein Auto steht seit zwei Wochen wegen Wartung in der Garage.
+Ich wasche mein Auto lieber selbst als bei dieser teuren Station.
+Die Navigation war heute total verwirrt durch die Baustellen im Süden.
+Eigentlich sollte ich bald mal den Zündkerzenwechsel vornehmen lassen.
+Meine Batterie ist tot, ich brauche einen neuen Anlasser.
+Die Werkstatt hat drei Tage gebraucht für eine simple Ölwanne.
+Ich habe gerade den Volltank vollgepumpt, Spritpreise sind krass.
+Kommt ihr schon bald vom TÜV oder dauert es noch ewig?
+Mein Fahrwerk knackt beim Einfahren in Kurven seit Wochen.
+Hast du eigentlich neue Zündkerzen eingebaut oder nur nachgeschaut?
+Der Stau war heute mega lang, mein Verbrauch hat gelitten.
+Ich vermisse den Geruch von neuem Benzin bei alten Pkw.
+Die Scheibenwischer sind kaputt, ich muss welche bestellen.
+Hat jemand einen Tipp gegen das Quietschen der Bremsen?
+Mein Beifahrerairbag war Defekt, die Kosten waren happig.
+Ich wasche mein Auto nur im Winter wegen des Streusalzes.
+Der Service ist heute geschlossen, ich muss morgen vorbeikommen.
+Warum kostet so ein einfaches Blechschaden-Reparatur immer so viel?
+Ich habe vergessen die Tankklappe zu schließen, jetzt tropft es.
+Die Reifen sind schon sehr abgefahren, bald wirds Zeit.
+Mein Auto startet nicht mehr, liegt bestimmt am Alternator.
+Die App zeigt an, dass der Reifendruck zu niedrig ist.
+Ich liebe das Gefühl, wenn das Leder im Innenraum riecht.
+Kann man die Lichtmaschine auch selbst austauschen oder besser Fachmann?
+Der Rückspiegel ist abgebrochen nach dem Parken im Supermarkt.
+Ich muss dringend die Auspuffdämpfe prüfen lassen wegen des Geruchs.
+Die Sitzheizung geht nicht mehr, nervig bei so kaltem Wetter.
+Hat euch die Versicherung den Schaden auch wirklich schnell beglichen?
+Ich trage immer eine Warnweste und ein Dreieck im Kofferraum.
+Mein Auto macht ein seltsames Quietschen beim Bremsen.
+Der Werkstatttermin muss leider verschoben werden.
+Hast du schon gesehen wie teuer der Ölwechsel war?
+Ich fahre jetzt nur noch mit Premium Benziner.
+Die Windschutzscheibe ist endlich wieder neu verglast.
+Mein Vater wechselt die Reifen immer selbst im Garten.
+Wir haben mal wieder Pannen mitten auf der Autobahn.
+Der TÜV war dieses Jahr glatt durchgelaufen.
+Ich muss dringend das Filtergehäuse reinigen lassen.
+Seitdem der Motor läuft viel ruhiger und leiser.
+Das Navigationssystem hängt sich ständig auf beim Suchen.
+Hast du Ersatzreifen für die neue Limousine dabei?
+Ich spare bei jedem Tankstopp mindestens zwei Euro.
+Mein Mechaniker empfiehlt dringend eine neue Kupplung zu montieren.
+Die Sitze sind nach zehn Jahren wirklich abgenutzt.
+Wir haben den Unfall heute Vormittag knapp vermieden.
+Der Diesel rußt leider ziemlich stark bei Volllast.
+Kannst du mal kurz die Scheibenwischer prüfen und säubern?
+Ich bezahle meine Versicherung immer online und schnell.
+Das Fahrzeug hat einen sehr hohen Verbrauch im Winter.
+Ich liebe das Gefühl wenn der Motor richtig brummt.
+Mein Bruder repariert Autos seit seiner Jugend gern selbst.
+Hab gestern bei der Tankstelle nachgeguckt, da fehlte schon wieder Öl.
+Der TÜV-Termin ist verschoben worden, weil die Werkstatt voll ist.
+Meine Reifen sind echt abgefahren, muss ich dringend wechseln.
+Die Rechnung für den Zahnriemen hat mich richtig erschreckt.
+Hörst du auch dieses quietschen wenn ich bremsen will?
+Ich hab das Autowaschen überlassen, kostet zwar mehr aber geht schneller.
+Der Dieselpartikelfilter war mal wieder clogged und wollte nicht mehr anspringen.
+Hab bei eBay Kleinanzeigen einen günstigen Ersatzteilkoffer gefunden für mein Auto.
+Die Werkstatt hat den Fehler erst nach zwei Tagen diagnostiziert, nervig halt.
+Mein Hybrid-Auto frisst im Winter deutlich mehr Strom als sonst.
+Hast du schonmal mit dem AdBlue-Nachfüllen experimentiert oder nur zur Werkstatt?
+Der Lack ist auf der Haube total verwittert, seht man von weitem.
+Ich fahre immer noch mein altes Benziner, weil ich nicht genug Platz für Ladekabel hab.
+Die Klimaanlage im Auto geht gar nicht mehr richtig kalt, ärgerlich im Sommer.
+Hab die Winterreifen heute morgen montiert, war wirklich kein Stress.
+Mein Auto startet morgens manchmal nicht so gut, liegt vielleicht am Akkumulator.
+Der Reifendruck wurde bei der letzten Inspektion korrigiert, das spart Sprit.
+Ich hab mir einen Dachgepäckträger zugelegt für die nächsten Ferien.
+Die Scheibenwischerblätter sind kaputt, ich kauf neue online.
+Warum muss immer so lange gewartet werden bis mein Auto wieder fit ist?
+Das Navi im Auto zeigt oft falsche Routen an, echt ärgerlich.
+Ich putze meinen Wagen regelmäßig selbst, find das sogar entspannend.
+Der Motor läuft heute irgendwie etwas rauer als normal.
+Hast du schonmal überlegt auf ein Elektroauto umzusteigen?
+Die Garantie ist abgelaufen, jetzt wird jeder Defekt teuer.
+Der Dieselverbrauch ist in letzter Zeit einfach zu hoch.
+Hab schon angerufen, aber erst Ende nächster Woche Termin.
+Warum muss das so teuer sein für eine kleine Reparatur?
+TÜV durchgewunken ohne großen Ärger und lange Wartezeit.
+Mein Kofferraum ist voll mit altem Werkzeug und Lappen.
+Das Gangschalten klemmt irgendwie, sollte ich mal prüfen lassen.
+Hab versehentlich Sprit statt AdBlue nachgetan, oje.
+Die Scheibenwischer sind völlig kaputt, muss neue holen.
+Fahre lieber zu der neuen Werkstatt, die scheint ehrlich.
+Der Motor hört sich heute Morgen etwas rauchig an.
+Ersatzreifen liegt hinten, aber ich hab keinen Hebebock.
+Benzinpreise steigen weiter, das nervt mich total.
+Die Lackierung blättert ab, wahrscheinlich wegen dem Streusalz.
+Hast du zufällig eine Ersatzlampe für die Frontscheibe?
+Klingelt nur, wenn man zu schnell über eine Bahnspur fährt.
+Mein Partner meckert immer, weil ich das Auto staubig lasse.
+Der Airbag war nach dem Kleinstunfall doch nicht defekt.
+Wasser aus der Heizung holen, damit nichts im System bleibt.
+Die Zündkerzen sind eigentlich schon länger fällig zum Wechseln.
+Laut Google Maps ist die Tankstelle in fünf Minuten weg.
+Hoffentlich ist der Defekt nicht so schlimm wie befürchtet.
+Das Navigationssystem streikt ständig bei Tunneln auf der Autobahn.
+Hab mir gerade einen neuen Schlüssel machen lassen, teuer!
+Die Ölwanne wurde bei der letzten Inspektion schon mal getauscht.
+Mein Nachbar meckert ständig über den hohen Dieselverbrauch.
+Ich hab gerade den Kühlwasserstand im Motorraum geprüft.
+Der TÜV-Termin wurde leider um zwei Wochen verschoben.
+Reifenprofilmessung zeigt noch genug Tiefe für die Sommerfahrt.
+Die Werkstatt hat sich beim Einbau der neuen Scheiben vertan.
+Hab gestern Nacht an einem leeren Tankplatz gestanden.
+Das Parken in der Innenstadt kostet mich immer zu viel Nerven.
+Ich bevorzuge immer noch eine unabhängige Werkstatt statt der Händlereinrichtung.
+Die Autowäsche macht das Fahrzeug einfach wieder lebendig.
+Kraftstoffpreis heute Morgen war wieder einmal unerträglich hoch.
+Ich muss bald die Batterie wechseln, sie wird langsam schwach.
+Die Scheibenwischer klappern schon seit Wochen ganz schrecklich.
+Hast du einen Tipp gegen Quietschen beim Bremsen?
+Mein Freund fährt nur Elektroautos und ist damit zufrieden.
+Der Winter hat meinen Pkw stark mit Salz beschädigt.
+Ich vergesse immer, die Versicherung auf den neuen Vertrag zu prüfen.
+Tachostand stimmt plötzlich nicht mehr, sehr verdächtig eigentlich.
+Mein Auto braucht jetzt dringend ein neues Zahnriemen.
+Ich liebe das Gefühl, wenn der Motor sauber anspringt.
+Der Dieselpartikelfilter muss gereinigt werden laut Werkstattbericht.
+Hat jemand Erfahrung mit einer günstigen Carport-Versicherung?
+Die Navigation im alten Gerät funktioniert kaum noch richtig.
+Der Motor war komplett leer, bin gerade getankt.
+Mein Kfz hat den letzten Hauptuntersuchung mit Flunkern bestanden.
+Schon wieder diese lästige Abgaswarmlampe auf dem Armaturenbrett.
+Die neuen Sommerreifen sitzen nun fest an allen vier Rädern.
+Warum muss eigentlich jeder kleine Kratzer so teuer repariert werden?
+Habe gestern Abend endlich das Pollenfilter getauscht.
+Die Werkstatt schickt mir immer noch keine Kostenvorlage für die Reparatur.
+Mein alter Pkw verbraucht langsam zu viel Sprit auf der Autobahn.
+Der Schalter vom Wischer funktioniert seit nebstem nicht mehr richtig.
+Bitte dringend den Kühlwasserspiegel prüfen, sonst überhitzt es.
+Ich hasse diese Wartungsleuchten, die man einfach nur abkodieren muss.
+Die Zündkerzen sind schon lange fällig, das merkt man echt.
+Habe mir eine günstigere Garage gesucht wegen der hohen Preise.
+Das Auto steht seit zwei Wochen bei uns in der Reparaturwerkstatt.
+Mein Freund hat selbstständig den Ölwechsel erledigt im Keller.
+Der Fahrstuhl ist kaputt gegangen und wir warten auf Ersatzteile.
+Kannst du mal gucken, ob die Batterie noch Spannung liefert?
+Die Scheibenwischer hinterlassen Streifen, obwohl sie eigentlich neu sind.
+Endlich wieder Platz unter dem Boden, nachdem ich alles ausgeräumt habe.
+Die Karosserie braucht dringend eine Lackierung wegen des Korrosionsschutzes.
+Ich fahre lieber zu Fuß, bis das Auto repariert ist.
+Der Tankstopp hat funktioniert, obwohl wir schon fast leer waren.
+Die Fensterheber hängen sich ein und machen nervige Klickgeräusche.
+Habe heute Abend den Kofferraum gründlich gesaugt und gereinigt.
+Die Bremsbeläge quietschen laut bei jeder kleinen Bewegung am Berg.
+Meine Versicherung hat mir einen günstigen Ersatzwagen empfohlen.
+Der TÜV war diesmal echt streng bei den Scheinwerfern.
+Ich habe gerade Vollsynthese ins Motorrad getankt, fühlt sich gut an.
+Die Werkstatt meint, ich bräuchte neue Stoßdämpfer für mehr Komfort.
+Warum ist der Tankdeckel wieder so fest zu machen?
+Mein Vater wechselt die Öle immer noch selbst in der Garage.
+Der Winterreifenwechsel kostet bei uns im Dorf genau 40 Euro.
+Hast du schon mal von AdBlue nachfüllen gehört, nervt mich total.
+Ich muss dringend die Kupplung wechseln lassen, sonst geht nix mehr.
+Das Navigationsgerät zeigt immer noch den falschen Weg an der Kreuzung.
+Mein Kfz-Steuerbescheid ist endlich da, hoffe er sinkt etwas.
+Die Autowäsche war super schnell gemacht, sieht wieder aus wie neu.
+Kann mir jemand erklären was genau ein DPF-Filter eigentlich macht?
+Ich habe vorhin versehentlich Benzin ins Dieselauto getankt, Mist.
+Der Lack an der Front ist leicht zerkratzt durch Steinschlag.
+Meine Frau findet das neue Modell viel zu teuer für die Größe.
+Wir brauchen bald einen neuen Schlüssel für den Smart, der ist kaputt.
+Die Bremsen quietschen höllisch wenn ich im Stadtverkehr bremsen muss.
+Ich spare mir den Werkstattbesuch immer auf den Sommerurlaub hinaus.
+Der Reifenmonitor meldet plötzlich niedrigen Luftdruck an der Hinterachse.
+Hast du schon gesehen wie teuer die Spritpreise heute Morgen waren?
+Mein Vater schwört drauf dass man kein Öl im Motor verlieren darf.
+Die Polster sind stark verschmutzt von dem regnerischen Ausflug am Wochenende.
+Ich überlege ob ich mir ein Elektroauto zulegen soll oder nicht.

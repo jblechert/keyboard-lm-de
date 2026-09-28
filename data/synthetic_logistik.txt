@@ -715,7 +715,6 @@ Das Rücksendeschein-Verfahren bei Amazon ist wirklich umständlich und nervig.
 Unsere Lieferkette leidet aktuell unter den fehlenden Containern im Asienhandel.
 Ich hab das Paket zum Nachbar gebracht, da ich nicht zu Hause war.
 Die Spedition hat den LKW zu spät abgeholt, alles ist jetzt verzögert.
-Zollabfertigung für private Einfuhren ist oft ein riesiges Glücksspiel.
 Mein Paket ist wohl im falschen Depot gelandet, das ist ärgerlich.
 Wir suchen dringend einen zuverlässigen Partner für die letzte Meile.
 Kannst du das Paket nochmal durchsenden, ich habe die Adresse geändert.
@@ -764,7 +763,6 @@ Der Versand war kostenlos, das habe ich erst nachher bemerkt.
 Bitte keine Sendung ohne vorherige Ankündigung vor die Tür stellen.
 Die Frachtrechnung kam heute und die ist deutlich zu hoch.
 Ich muss die Zollpapiere nochmal nachreichen, sonst geht nichts.
-Das Paket ist beschädigt angekommen,
 Die Lieferkette aus Asien stockt gerade wegen des Streiks.
 Ich hab den Abholcode per SMS bekommen, gleich mal abholen.
 Warum wird meine Sendung erst an den Nachbarn zugestellt?
@@ -971,7 +969,6 @@ Die Tracking-Information ist schon seit drei Stunden nicht mehr aktualisiert wor
 Könntest du das Paket bitte aufgeben, bevor du heute zur Arbeit gehst?
 Wir suchen einen zuverlässigen Partner für den Import von Elektronikteilen.
 Das Paket wurde als zugestellt markiert, ist aber gar nicht da.
-Ich muss morgen wieder zum Paketshop laufen, weil die Zeit slots voll sind.
 Die Zollabfertigung hat länger gedauert als erwartet, jetzt zahlt der Kunde.
 Mein Großauftrag läuft über drei verschiedene Lager, das Koordinieren ist stressig.
 Der Fahrer hat die Box einfach vor die Tür geworfen, obwohl sie schwer ist.
@@ -1213,30 +1210,8 @@ Die Expresslieferung ist zwar teuer aber dafür sicher pünktlich.
 Ich hab die Abholung im Shop erst um 18 Uhr geschafft.
 Die Zölle für Elektronik aus Asien sind gerade erhöht worden.
 Das Tracking-Update kommt nie zur richtigen Zeit an.
-Paket liegt wieder beim Nachbarn obwohl ich daheim war
-Die Zollgebühr für die chinesische Bestellung hat mich echt erschreckt
-Morgen kommt der Lieferwagen vorbei, ich muss unbedingt da sein
-Das Lager in Hamburg war völlig überfüllt, alles stockte
-Ich warte schon ewig auf mein Tracking-Update von Amazon
-Der Kurier hat vergessen zu klingeln und einfach abgestellt
-Für den Export nach Polen braucht man doch extra Dokumente
-Die Sendung wurde fälschlicherweise an die falsche Adresse geschickt
 Kannst du mal prüfen ob das Paket schon zugestellt wurde?
-Die Lieferzeit von zwei Wochen finde ich ehrlich gesagt viel zu lange
-Mein Nachbarspaket liegt seit gestern immer noch im Regal
-Die Spedition hat den Container zu spät vom Hafen abgeholt
-Ich muss dringend den Abholschein für die Post ausfüllen
-Der Zoll hat meine Sendung beschlagnahmt wegen fehlender Papiere
 Warum dauert die Zustellung bei Hermes immer so unnötig lange?
-Das Rücksendeetikett habe ich leider im falschen Ordner abgelegt
-Unsere gesamte Lieferkette geriet durch den Streik ins Stocken
-Ich habe extra Expressversand gewählt, weil ich es heute brauche
-Der Paketbote hat meine Tür angeläutet und ist sofort wieder weg
-Die Zollanmeldung für den Import aus den USA ist komplex
-Ich suche schon seit einer Stunde mein Paket im Schrank
-Meine Bestellung kam komplett zerkratzt im Karton bei mir an
-Die Lieferadresse war falsch eingetragen, darum kam nichts an
-Ich muss morgen früh zur Post gehen, um das einzulösen
 Ich hab das Paket gestern abholen wollen doch der Shop war schon zu.
 Die Sendung wurde im Zoll festgehalten weil ich die Steuer vergessen habe.
 Meine Bestelle kommt immer zu spät aber ich kann nichts tun.
@@ -2098,31 +2073,6 @@ Das Paket war zerquetscht, ich werde sofort eine Reklamation einreichen.
 Hast du schon gesehen dass mein Päckchen wieder beim Nachbarn liegt.
 Die Frachtkosten sind diesen Monat wieder deutlich gestiegen, echt teuer.
 Ich muss den Abholschein ausdrucken und bis Freitag dort vorlegen.
-Da steht wieder ein Paket vor der Tür das aber gar nicht für mich ist
-Mein Online-Bestellung kam leider beschädigt an und der Kundenservice reagiert nicht
-Habt ihr schon mal erlebt dass die Lieferfirma einfach den falschen Ort ansagt
-Ich muss morgen früh zum Abholpunkt rennen bevor die Schicht zu Ende geht
-Die Zollabfertigung hat sich unangenehm lange hinzugezogen weil einige Dokumente fehlten
-Unsere Spedition fährt heute Nacht durch damit die Ware pünktlich am Montag ankommt
-Kann jemand kurz mein Paket entgegennehmen ich schaffe es heute Abend nicht früher
-Die Lieferkette war komplett gestört weil ein wichtiger Zulieferer plattgemacht wurde
-Ich habe den Status aktualisiert aber da steht immer noch in Vorbereitung
-Weniger Papierkram beim Export wäre wirklich mal eine riesige Erleichterung für alle
-Das Paket war schon eine Woche unterwegs und jetzt plötzlich wieder im Depot
-Mein Nachbar hat das Paket für mich mitgenommen weil er zufällig da war
-Die Frachtkosten haben sich im Vergleich zum letzten Quartal deutlich verteuert
-Bitte drückt die Sendung nicht zusammen mein Glas ist zerbrechlich und empfindlich
-Ich suche noch einen zuverlässigen Partner für internationale Transporte nach Osteuropa
-Der Tracking-Code wurde eingescannt aber niemand hat mir die Zustellung angekündigt
-Bei unserem Lager fehlt es gerade personell daher läuft alles etwas schleppend
-Ich hoffe das Paket kommt noch heute an damit ich es verschenken kann
-Die Rücksendung war so umständlich dass ich das Teil einfach liegen lasse
-Habt ihr Tipps wie man sich beim Zoll schnellstmöglich behilft wenn was hakt
-Mein Arbeitgeber hat die Logistik komplett umgestellt und jetzt ist alles chaotisch
-Das Päckchen aus Japan war super schnell angekommen obwohl es so weit ist
-Wir brauchen dringend einen neuen Anbieter für unsere Stückguttransporte in Europa
-Ich bin so genervt dass meine Sendung immer an falschen Orten abgelegt wird
-Die Auslastung der LKWs ist im Moment extrem hoch wegen der vielen Bestellungen
 Paket liegt im Packstation, aber der Code funktioniert partout nicht.
 Ich muss das Teil morgen haben, ist das möglich per Express?
 Der Lieferant hat wieder die falsche Straße angegeben, ärgerlich.
@@ -3747,31 +3697,10 @@ Unser Lager ist überlaufen weil viele Bestellungen gleichzeitig hereingekommen 
 Der Zoll hat die Ware angehalten bis wir die Ursprungsbelege nachreicht haben.
 Ich habe vergessen meine Adresse zu aktualisieren und jetzt liegt es falsch.
 Die Expresslieferung war zwar teuer aber dafür kam sie wirklich pünktlich an.
-Ich hab wieder einen Abholschein bekommen obwohl ich den ganzen Tag zu Hause war
 Das Paket kam schon drei Tage zu spät an, der Kundenservice war total nervig.
-Wir brauchen dringend eine zuverlässige Spedition für die Lieferung nach Hamburg
 Kannst du mir sagen wie lange die Zollabfertigung bei Sendungen aus Asien dauert?
-Mein Lieferant verspricht Expressversand aber bisher passiert auf der Karte gar nichts
-Die Lagerbestände sind durch die unerwartete Nachfrage völlig ausgebucht worden
-Ich muss meine Rechnung sofort per Einschreiben verschicken, sonst verjährt die Forderung
 Der Lieferschein passt irgendwie nicht mit der Ware überein, das ist blöd.
-Wir suchen jemanden der uns beim Export nach Frankreich richtig unterstützt
-Das Postfach war wieder zu voll damit hat der Boter nichts rein bekommen
-Meine Bestellung ist seit gestern in München und bewegt sich trotzdem nicht weiter voran
-Die Frachtkosten sind in letzter Zeit explodiert, das schlägt sich im Preis nieder
-Ich vergaß meinen Ausweis für die Paketausgabe beim Shop an der Ecke
-Klarerweise wurde meine Sendung wegen unklarer Adresse direkt zurückgesendet ohne weitere Absprache
-Wir müssen den Wareneingang sofort prüfen bevor wir die Rechnung bezahlen können
-Der Lieferant hat einfach nicht angerufen als er vor meiner Tür gestanden hat
-Ich brauche eine Einschreibelsendung mit Rückschein für diese wichtige Vertragsunterzeichnung bei mir
-Die Logistikabteilung meckert wieder über die fehlenden Etiketten auf unseren Kartonagen
 Hat eigentlich schon mal jemand Päckchen aus Schweden ohne Zollprobleme bekommen? Ich bin skeptisch.
-Der Fahrer hat mein Paket einfach ins Gebüsch gestellt statt ins Briefkasten zu werfen
-Wir planen eine Umstellung auf nachhaltigere Verpackungsmaterialien in der nächsten Woche
-Mein Nachbar nimmt meine Pakete immer mit an wenn ich mal nicht da bin
-Die Sendungsverfolgung zeigt seit zwei Wochen nur noch Zustellung im Ausland an
-Ich muss beim Zollamt nachfragen ob ich die Papiere schon übersandt habe
-Der Umzugswagen kam heute Vormittag pünktlich, alles hat reibungslos geklappt
 Mein Paket liegt seit Tagen im Sortierzentrum und bewegt sich nicht weiter.
 Die Sendung wurde zurückgefordert weil die Adresse falsch geschrieben war.
 Ich muss heute zum Paketshop gehen damit ich endlich meine Bestellung bekomme.
@@ -4091,7 +4020,6 @@ Die Lieferfrist wurde überschritten obwohl Expressversand bestellt war.
 Wir warten seit zwei Wochen auf die Genehmigungen für den Import.
 Der Paketbot war schon da als ich noch im Bett lag.
 Ich habe die Rechnung bezahlt aber die Ware kommt nicht an.
-Unsere Logistiksoftware stürzt jedes Mal beim Upload ab leider.
 Das Sendungslabel war unleserlich daher blieb es liegen wieder.
 Könntest du mal checken ob meine Lieferung schon unterwegs ist?
 Der Zollstop hat unsere Produktionsplanung komplett durcheinander gebracht gestern.
@@ -6109,30 +6037,8 @@ Der Versand war gratis weil ich Prime Kunde bin.
 Die Lieferung kam zu spät für die Party gestern.
 Ich muss den Abholschein mitbringen zur Paketstation.
 Welches Porto brauche ich für diesen schweren Karton?
-Mein Paket wurde zugestellt obwohl ich nicht da war
-Ich hab den falschen Lieferschein unterschrieben und merkt es erst zu Hause
-Die Sendung ist schon seit zwei Tagen im Hafen festgezurrt
-Kannst du mal nachschauen warum meine Bestellung noch nicht angekommen ist
-Der Zusteller hat mein Päckchen einfach beim Nachbarn abgelegt
-Wir müssen den Zoll noch einmal mit neuen Dokumenten anrufen
-Das Lager war überfüllt deshalb lief alles verzögert ab
-Ich brauche die Expressversandoption für dieses wichtige Dokument von morgen
-Die Spedition liefert erst am Freitag weil die Straße gesperrt ist
-Mein Onlinekauf kam beschädigt an und der Karton war knallhart
-Der LKW steht seit Stunden vorm Tor und blockiert den Ausfahrt
 Hast du schon den Abholschein fürs Paketzentrum ausgedruckt?
-Die Zollabfertigung dauert länger als erwartet weil Papiere fehlen
-Ich habe den falschen Liefertermin im Kalender eingetragen
-Das Paket ist verloren gegangen und der Support findet keine Spur
-Wir brauchen eine neue Versandadresse für die nächste Lieferung
-Der Fahrer hat mir gesagt er kommt heute Abend wieder vorbei
-Mein Geschenk ist bereits unterwegs und sollte bis Weihnachten ankommen
-Die Lagerbestände sind niedrig weil die Nachschublieferung ausblieb
-Ich muss den Paketboten morgen früh unbedingt zu Hause erwischen
 Kann ich die Zustellung auf eine andere Filiale umleiten lassen?
-Der Zoll hat meine Kamera zurückgesandt weil sie nicht erlaubt war
-Die Lieferkette aus Asien ist durch Stürme komplett zusammengebrochen
-Ich hab den Tracking Link nie bekommen und weiß nicht wo es ist
 Das Paket ist wieder im falschen Lager gelandet, typischerweise halt.
 Der Zusteller hat es einfach beim Nachbarn abgelegt ohne Bescheid zu sagen.
 Hast du die Sendung noch ins Postfach gepackt oder nur hingesetzt?
@@ -7204,7 +7110,6 @@ Ich musste extra freinehmen um den LKW zu empfangen, was für ein Chaos.
 Die Sendung wurde laut Tracking bereits zugestellt aber ich hab nix gekriegt.
 Bei uns im Büro gehen die Pakete täglich durch die Gegend wie Wild.
 Der Expressversand ist zwar teuer aber dafür kommt es garantiert morgen an.
-Ich vergaß mein Passwort für den Versandportal Login und kann nix tracken.
 Die Zolldokumente waren nicht vollständig daher wurde die Ware abgewiesen.
 Wir brauchen dringend einen neuen Logistiker der diese Probleme lösen kann.
 Mein Nachbar hat das Paket angenommen obwohl ich ausdrücklich nein gesagt habe.
@@ -8320,7 +8225,6 @@ Das Paket wurde beschädigt geliefert und ich will natürlich meinen Geld zurüc
 Zollgebühren kamen erst nach Lieferung dazu das nervt mich immer so.
 Die Lieferkette stockte kurz weil ein Hafen streikte aber jetzt läuft wieder alles.
 Ich habe den Abholschein verloren und weiß gar nicht wie ich jetzt vorgehen soll.
-Bitte sendet die Rechnung direkt per EMail an unsere Buchhaltung.
 Der Paketbote hat einfach nur das Leerkärtchen unter die Tür geschoben.
 Importzölle für Elektrowaren aus Asien sind in letzter Zeit gesunken.
 Wir müssen den Versandtermin verschieben da der Lagerbestand noch fehlt.
@@ -8987,30 +8891,6 @@ Wir haben mit der neuen Versandsoftware deutlich schneller arbeiten können.
 Das Retourenlabel wurde vom Kunden falsch ausgefüllt und ist ungültig geworden.
 Die Zollbehörde verlangt eine genauere Beschreibung des Wareninhalts für die Freigabe.
 Ich warte schon den ganzen Tag auf diesen wichtigen Dokumentenbrief.
-Paket liegt bei Hermes schon wieder seit zwei Tagen rum
-Der Zollfragt immer extra nach einer Handelsrechnung für große Sendungen
-Ich muss meine Fracht endlich abholen bevor das Lager Geld krraut
-Kunde beschwert sich ständig weil die Ware in Teilen geliefert wurde
-Habt ihr schon mal den neuen Tracking Code getestet oder ist der kaputt
-Die Palette war falsch etikettiert deshalb kam sie nicht durch den Scanner
-Mein Nachbar hat mein Päckchen aus dem Briefkasten geklaut was soll man tun
-Exportdokumente fehlen noch daher kann das Schiff leider nicht ablegen
-Schneller liefern bringt nichts wenn die Adresse im System falsch steht
-Hast du meinen Sendungsnr parat ich muss die Rücksendeetikett drucken
-Die LKW Fahrer haben Streik gehabt jetzt liegen tausende Tonnengut rum
-Ich bestelle nie mehr dort weil die Verpackung immer zerbrestet ist
-Zollfreigabe hat gestern endlich geklappt jetztkann es weiter gehen ins Lager
-Das Tracking zeigt Zustellung an aber ich hab nix bekommen echt doof
-Wir brauchen dringend mehr Lagerfläche im Norden die Hölle hier unten
-Kann ich das Paket auch morgen abholen oder nur bis zwölf Uhr
-Der Frachtbrief ist unleserlich geschrieben wer liest sowas eigentlich richtig
-Meine Bestellung kam drei Wochen später an als versprochen total enttäuschend
-Zollgebühren sind bei diesem Artikel so hoch dass sich der Kauf kaum lohnt
-Die Lieferadresse wurde versehentlich gelöscht jetzt liegt das Ding beim Boten
-Spedition meint es kommt nächste Woche aber ich traue denen nicht mehr
-Postfiliale war voller Menschen weil die Automaten wieder mal streiken heute
-Mein Kollege hat vergessen den Ausfuhrzettel zu unterschreiben jetzt hängt alles
-Die Retoure ist noch im Umlauf und wird dem Kunden berechnet
 Päckchen liegt im Keller, aber niemand hat den Zettel gefunden.
 Ich frage mich ob die Nachsendeorder wirklich funktionieren oder nicht.
 Mein Nachbar hat das Paket angenommen obwohl ich doch da war.
@@ -10395,30 +10275,6 @@ Mein Paket liegt seit gestern im Depot obwohl zugestellt stand.
 Wir brauchen dringend eine neue Lagerlösung für die Weihnachtssaison.
 Der Fahrer war unfreundlich und hat das Paket einfach auf den Rasen geworfen.
 Kannst du bestätigen dass die Ware auch wirklich angekommen ist?
-Wo ist mein Paket geblieben es sollte gestern schon da sein
-Die Packung war irgendwie durchgeknallt als ich das Ding ausgepackt habe
-Ich muss morgen zum DHL Paketshop weil die Lieferung nicht geklappt hat
-Kannst du mir mal den Sendungscode zukommen lassen bitte sehr
-Das Lager ist aktuell zu voll deshalb gibt es Verzögerungen überall
-Meine Freundin hat ein Geschenk aus England bekommen und zahlt jetzt Zoll
-Die Spedition kommt erst am Freitag vorbei so stehts im Tracking
-Ich hasse es wenn der Boten nur das Zettelchen reinsteckt
-Der Versand kostet fast mehr als die eigentliche Ware ehrlich gesagt
-Wir haben die ganze Lieferkette umgestellt wegen der neuen Vorschriften
-Hast du schon gesehen dass Amazon meine Bestellung storniert hat
-Das Zollamt braucht noch weitere Unterlagen für den Import aus China
-Mein Päckchen ist immer noch in der Sortierstation das geht nicht
-Ich brauche eine Rechnung für das Porto beim Finanzamt eigentlich
-Die Box war riesengroß für so einen kleinen Schlüssel total absurd
-Kann ich die Lieferung umplanen weil ich morgen im Büro bin
-Der Zollanmeldungsprozess bei uns dauert leider länger als geplant
-Ich hab vergessen meine Adresse zu aktualisieren seit dem Umzug gestern
-Die Sendung wurde laut Status bereits zugestellt aber wo steckt sie
-Machst du mir einen Ausweis bitte weil das Paket zu schwer ist
-Die Logistikabteilung meldet sich heute Mittag wieder bezüglich der Fracht
-Es ist echt nervig wenn man den ganzen Tag auf ein Paket wartet
-Ich muss die Ware sofort an die Spedition zurücksenden ohne Receipt
-Das Paket liegt schon seit einer Woche bei DHL und bewegt sich nicht
 Mein Paket liegt schon seit gestern im Lager und bewegt sich nicht weiter.
 Der Lieferant hat vergessen, die Klingel zu drücken, jetzt ist es wieder da.
 Ich muss meine Sendung bei Hermes abholen, weil sie den Zustellversuch verpasst haben.
@@ -10788,31 +10644,10 @@ Mein Nachbar hat mein Paket angenommen weil ich nicht da war, vielen Dank.
 Die Lieferzeit von zwei Wochen ist gerade absolut inakzeptabel für uns.
 Ich habe den Abholschein vergessen und muss morgen früh nochmal hingehen.
 Bitte gib die Ware als Versendgut auf damit sie schneller geht.
-Paket liegt wieder beim Nachbarn obwohl ich da war
-Ich hab die Sendung schon längst bezahlt aber es kommt nie an
-Die Zustellung hat sich wieder um einen ganzen Tag verzögert
-Mein Großvater bekommt sein Medikament nur per Postzustellung
-Das Lager ist überfüllt und wir können keine neuen Waren aufnehmen
 Hast du den Tracking Code für das Paket aus Italien?
-Der Zoll hält meine Bestellung schon seit zwei Wochen fest
-Wir brauchen dringend eine neue Spedition für die Transporte nach Spanien
-Die Pappschachtel war komplett zerdücht als ich sie ausgepackt habe
 Kannst du kurz zum Postamt gehen und das Ding aufgeben?
-Meine Lieferung ist wieder bei der falschen Adresse angekommen
-Das Lagerpersonal streikt jetzt wegen unfairen Arbeitsbedingungen
-Ich muss meine Steuererklärung machen und die Zolldaten fehlen mir
-Die Lieferkette für Elektronikteile ist gerade komplett zusammengebrochen
 Warum steht da immer erst in Bearbeitung wenn alles schon längst gesendet wurde?
-Der Brief ist leider auf dem Postweg verloren gegangen
-Wir exportieren diesen Monat besonders viele Maschinen nach Polen
-Das Paket muss bis morgen Abend ankommen sonst verpasse ich das Geschenk
 Kann ich die Lieferung auch gegen Rechnung bezahlen statt vorab?
-Die Zolldokumente waren nicht vollständig und jetzt steht allesstill
-Mein Nachbar hat mein Päckchen einfach so mitgenommen ohne zu fragen
-Wir lagern unsere Vorräte seitdem in einem größeren Raum um Platz zu sparen
-Die Post hat mir eine Abholmitteilung geschickt obwohl ich krank war
-Ich bestelle gerne online aber der Versand ist oft viel zu teuer
-Der LKW Fahrer hatte heute besonders viel Stress auf der Autobahn
 Soll ich das zurücksenden oder einfach einen Neukauf anregen?
 Mein Paket liegt seit gestern wieder bei DHL, obwohl es eigentlich da sein sollte.
 Die Spedition hat den Container verschoben, weil der Platz nicht mehr gepasst hat.
@@ -11487,30 +11322,6 @@ Das Frachtrecht regelt viele Dinge die normale Kunden gar nicht kennen.
 Hab den QR-Code fürs Abholen schon auf dem Handy gespeichert.
 Die Palette ist leicht beschädigt worden während des Transports.
 Bitte gebt Bescheid wenn ihr das Paket erfolgreich abgeholt habt.
-Paket kommt nie an obwohl Trackingsystem zugestellt zeigt echt nervig
-Hab die Rechnung für den Nachnahmeversand gestern noch auf dem Tisch liegen sehen
-Die Fracht war im Lager beschädigt, jetzt muss sich das Gewerbe darum kümmern
-Ich muss morgen zur Packstation weil mein Handy gerade aus ist und keine Anrufe geht
-Zollpapiere fehlen bei dieser Lieferung, der Zollhalter wartet schon seit zwei Stunden
-Kannst du kurz reinschauen ob die Sendung noch im Sortierzentrum liegt oder bereits unterwegs
-Der LKW-Fahrer war pünktlich und hat die Paletten ganz ordentlich in der Halle abgestellt
-Ich bestelle alles online und ließe mir das einfach so zum Briefkasten hinunterwerfen
-Die Expresssendung ist heute angekommen, was für ein Service bei so kurzer Lieferzeit
-Wir haben Probleme mit der Rücksendung weil der Kunde den falschen Etiketten benutzt hat
-Paketzustellung klappt nicht wenn man keine gültige Adresse im System hinterlegt hat
-Die Zollabfertigung dauert länger als erwartet, wir müssen den Kunden informieren und entschuldigen
-Ich hab meinen Paketbote begrüßt und ihm ein Lächeln entgegengebracht weil es kalt war
-Lagerbestand ist niedrig geworden, deshalb liefern wir jetzt nur noch auf Bestellung statt sofort
-Der Lieferant hat einen Terminverschiebung angekündigt, ich muss meinen Plan entsprechend anpassen
-Kann jemand sagen woher ihr eure Ware bezogen habt und wie schnell sie ankommt
-Die Spedition liefert nur montags bis freitags, samstags ist bei denen alles dicht geschlossen
-Ich muss das Dokument noch einmal ausdrucken und zusammen mit dem Gutachten einreichen
-Paket wurde als verloren gemeldet, aber heute kam es doch noch pünktlich an der Tür
-Der Importeur hat vergessen die korrekte Zolltarifnummer anzugeben, jetzt steht die Ware im Hafengebäude
-Ich suche einen zuverlässigen Kurierdienst für meine Online-Shops Artikel in Europa und Amerika
-Die Lieferkette war durch den Streik komplett unterbrochen, wir hatten massive Ausfälle zu verzeichnen
-Mein Nachbar hat mein Paket mitgenommen weil ich arbeiten musste und nicht daheim war
-Frachtversicherung ist zwar teuer aber sie lohnt sich definitiv bei hochwertigen und empfindlichen Waren
 Mein Paket liegt schon seit gestern im Nachbarhaus, unfassbar.
 Die Sendungsnummer funktioniert bei der Website einfach nicht richtig.
 Ich muss heute zum DHL Packstation, da steht doch eine Warteschlange.
@@ -11630,7 +11441,6 @@ Muss ich bei dem Versand aus Asien extra Zölle zahlen?
 Die Trackingnummer funktioniert auf der Website einfach nicht richtig.
 Ich hoffe dass die Spedition pünktlich kommt das ist dringend.
 Wir optimieren gerade die Routen um Kraftstoffkosten zu sparen.
-Das Paket liegt bei Amazon locker so drei Tage rum
 Mein Paket liegt schon seit zwei Tagen bei der Deutschen Post rumliegen.
 Ich muss gleich zum DHL Paketshop gehen um mein Ding abzuholen.
 Die Sendungsverfolgung zeigt nur noch in Bearbeitung an das ist nervig.
@@ -12408,31 +12218,6 @@ Die Frachtunseure deckt leider nicht alle Schäden bei Bruchwaren ab.
 Mein Nachbar hat wieder ein falsches Paket angenommen und nicht abgegeben.
 Die Spediteurin meinte der LKW kommt erst morgen früh an.
 Ich muss dringend die Handelskammer kontaktieren wegen den Exportpapieren.
-Wo bleibt mein Paket denn eigentlich schon wieder
-Die Tracknummer bringt garnix, der Status aktualisiert sich nicht
-Ich muss morgen zum Paketautomaten weil ich heute keinen Bock hab
-Kannst du mir kurz beim Ausfüllen der Zollpapiere helfen
-Die Spedition sagt immer alles pünktlich, aber pünktlich kommt nie was an
-Ich hab extra Premium bezahlt und bekomme trotzdem nur Standardzustellung
-Das Lager ist komplett überfüllt, wir müssen bald umbuchen
-Warum muss ich bei Amazon immer den Abholschein mitnehmen
-Die Lieferkette für Elektronik ist durch die Chipsknappheit stark gestört
-Mein Bruder hat sein Paket im Büro vergessen und steht jetzt da
-Der Zoll hat meine Bestellung gehalten, weil ich die Rechnung nicht mitschicken
-Ich frag mich ob ich doch lieber zu PostNL wechseln soll
-Die Sendungsverfolgung zeigt an dass das Paket heute geliefert wird
-Ach nee wieder diese lästige Nachricht vom Boten der schon vorbeigewesen ist
-Wir müssen die Exportdokumente bis Freitag bei der Behörde einreichen
-Das Paket war so schwer dass der Lieferant meckerte beim Tragen
-Ich habe vergessen den Abholcode für den Shop zu speichern
-Die Frachtkosten haben sich seit letztem Quartal verdoppelt
-Mein Paket liegt seit drei Wochen auf dem gleichen Verteilzentrum
-Kann ich die Lieferung auf nächste Woche verschieben bitte
-Die Zollausschreibung ist komplizierter als erwartet gelaufen
-Ich muss das Geschenk bis morgen in der Post abgeben
-Der Fahrer hat mein Stückchen Glas einfach vor die Tür geworfen
-Wir brauchen dringend einen neuen Partner für den internationalen Versand
-Das Tracking zeigt nur noch Fehlermeldungen seit dem Wochenende
 Paket steht schon seit gestern beim Paketshop, ich hol es später ab.
 Die Sendung wird heute wohl nicht mehr zugestellt, der Fahrer hat keine Zeit mehr.
 Mein Kollege hat vergessen die Zollpapiere richtig auszufüllen, jetzt hängt das Ganze.
@@ -12998,32 +12783,6 @@ Die Paletten wurden falsch geladen und dabei sind einige Kisten kaputt gegangen.
 Mein Päckchen ist wieder abgelehnt worden wegen unklarer Anschrift.
 Wir brauchen dringend mehr Lagerfläche weil die Ware hier keine Platz mehr findet.
 Der Frachtführer kommt erst nächste Woche, das verzögert unsere ganze Produktion.
-Paket war wieder verlegt zum Nachbarn obwohl ich da war
-Ich hoffe die Sendung kommt heute noch an bevor ich schlafen gehe
-Die Zollabfertigung bei meinem Onlinekauf hat jetzt schon zwei Wochen gedauert
-Habt ihr das Lager für die neuen Wareneingangspläne bereinigt
-Meine Mutter kann immer noch nicht mit den automatisierten Abholstellen umgehen
-Das Tracking zeigt seit gestern nichts mehr ich warte schon ewig
-Wir müssen die Lieferzeiten für die Saisonware dringend überprüfen
-Der Spediteur hat den Container einfach auf dem Hof abgelassen
-Kannst du mir mal kurz den Beleg für diese Rücksendung schicken
-Mein Nachbar bringt meine Pakete immer rein wenn ich nicht da bin
-Die Frachtkosten sind im Vergleich zum letzten Jahr nochmal deutlich gestiegen
-Ich muss am Dienstag zum Briefzentrum weil die Post wieder zu ist
-Das Lagerpersonal klagt ständig über den Lärm der Gabelstapler morgens
-Hast du schon gesehen wie viele Retouren wir diese Woche hatten wahnsinnig
-Der Importeur hat keine gültigen Zertifikate für die Chemikalien beigelegt
-Ich habe das Paket im Treppenhaus gefunden und es ist komplett zerdelt
-Wir sollten auf DHL Go wechseln weil die Zustellung schneller läuft
-Die Lieferkette bricht wieder zusammen sobald mal jemand krank wird
-Mein Cousine hat ein Geschenk aus Japan geschickt und der Zoll hält es fest
-Kannst du bitte prüfen ob die Palette ordnungsgemäß beschriftet ist
-Ich warte schon seit einer Stunde auf den Fahrer der immer zu spät kommt
-Das digitale Frachtbriefsystem ist viel besser als diese alten Papierberge
-Ich muss das Dokument für die Einfuhrzölle bis morgen Abend einreichen
-Die Lieferung war leider nicht vollständig weil eine Kiste fehlte
-Hast du bereits mit dem Vorvertrag für die nächste Quartalsplanung gesprochen
-Mein neues Handy liegt seit drei Tagen im Paketshop und ich kann es nicht abholen
 Mein Paket ist wieder in der Filiale, obwohl ich zuhause war.
 Die Sendungsverfolgung zeigt immer noch den falschen Standort an.
 Kannst du mal beim Nachbarn nachschauen ob das da liegt?
@@ -13040,7 +12799,6 @@ Die Zollabfertigung läuft glücklicherweise schneller als im Vorjahr vermutet.
 Hab den Abholausweis vergessen und muss nun extra hinlaufen.
 Der Fahrer hat das schwere Möbelstück nicht ins Haus getragen wollen.
 Unsere Lieferzeiten liegen aktuell bei drei bis fünf Werktagen.
-Ich kann nie richtig planen wenn die Lieferung keinen genauen Slot hat.
 Die Retoure war kompliziert, weil ich den Druckauftrag verpasst hatte.
 Mein Paket wurde beschädigt geliefert, da muss ich reklamieren.
 Der Trackingcode funktioniert nicht mehr seit der Systemumstellung gestern.
@@ -13489,3 +13247,2302 @@ Die Lieferfrist von zwei Tagen wurde mal wieder deutlich überschritten.
 Ich muss den Zollauskunftsschein genau ausfüllen, sonst geht die Sendung zurück.
 Wir lagern alles extern aus, damit wir schneller auf Marktschwankungen reagieren können.
 Mein Paket ist zwar angekommen, aber der Inhalt fehlt komplett darin.
+Das Paket hat sich irgendwo zwischen Hamburg und Berlin versteckt.
+Ich muss gleich zur Post gehen, sonst verjährt die Abholung.
+Der Fahrer war schon weg bevor ich aus dem Haus kam.
+Warum kostet der Versand ins Ausland immer mehr als die Ware selbst?
+Die Zollabfertigung hat wieder länger gedauert als erwartet.
+Hab gerade erst gesehen dass mein Paket schon zugestellt wurde.
+Das Lager ist komplett leer weil die Lieferketten zusammengebrochen sind.
+Kannst du mal kurz checken ob meine Bestellung noch unterwegs ist?
+Der Spediteur meint es käme nächste Woche aber ich bin skeptisch.
+Ich hasse es wenn der Zusteller einfach den Abholschein reinschmeißt.
+Die Retoure war zum Glück kostenlos und ganz einfach zu erledigen.
+Wir müssen die Exportdokumente bis morgen fertig haben sonst steht alles still.
+Mein Online Shop hat wieder mal falsche Lieferinfos auf der Seite.
+Das Paket war leider beschädigt angekommen, ich mache reklamation.
+Kommst du heute Abend vorbei? Ich hole dann dein Päckchen ab.
+Die Lagerverwaltung zeigt an dass der Artikel noch auf dem Weg ist.
+Ich warte schon seit zwei Stunden im DHL Packshop aber nichts.
+Der Frachtwagen steht seit drei Tagen vor unserem Firmengebäude.
+Hat jemand einen Tipp wie ich die Porto Kosten senken kann?
+Die Lieferung kam pünktlich an, alles war gut verpackt und sicher.
+Ich frag mich ob das Paket noch heute kommt oder erst morgen.
+Der Lieferdienst hat mir eine falsche Zeitfenster genannt.
+Wir suchen dringend neue Transportpartner für die europäische Strecke.
+Mein Nachbar hat mein Paket bekommen aber nicht gesagt dass es da war.
+Die Lieferadresse war falsch, jetzt liegt das Paket bei meinem Nachbarn.
+Ich muss heute noch einen Brief ins Postfach werfen, sonst kommt er zu spät.
+Der Fahrer hat mich nicht angerufen, obwohl ich als zu Hause angegeben habe.
+Bei Amazon ist die Sendungsverfolgung oft schon aktualisiert bevor das Paket wirklich weg ist.
+Die Spedition braucht für diesen Transport drei Tage, da geht nichts schneller.
+Ich bin genervt, wieder zum Abholpunkt fahren zu müssen anstatt direkt ausgeliefert zu bekommen.
+Zollpapiere fehlen bei dieser Sendung, deshalb dauert es noch ein paar Tage länger.
+Das Lager war voll ausgebucht, daher können sie aktuell keine neuen Waren aufnehmen.
+Hast du gesehen, wie schlecht verpackt das Glas ankam? Zum Glück ist nichts kaputt.
+Wir müssen die Exportdokumente bis morgen Vormittag bei der Bank vorlegen.
+Die Lieferkette für Elektronikteile aus Asien ist durch den Kanalstau gestört.
+Ich habe den Trackingcode verloren, kann mich also nicht mehr über den Status informieren.
+Ein Expressversand kostet doppelt so viel wie der normale Standarddienst, das lohnt sich kaum.
+Der Spediteur hat den LKW verschoben, jetzt kommt die Ware erst am Freitag an.
+Mein Paket ist angeblich zugestellt worden, aber ich habe gar nichts bekommen.
+Kannst du bitte prüfen, ob diese Lieferung bereits zollabgefertigt ist? Ich brauche die Rechnung.
+Die Paketspärchen sind heute wieder zu voll, es war ein riesiger Gedränge.
+Ich muss unbedingt mein Zollformular ausfüllen, bevor ich das Geschenk versenden darf.
+Der Lagerbestand wurde aktualisiert, somit können wir den Auftrag endlich bestätigen.
+Warum dauert die Zustellung von Briefen immer länger als früher? Das frustriert mich.
+Die internationale Sendung wurde im Transit festgehalten, ich warte auf weitere Infos.
+Meine Mutter hat vergessen, den Abholbeleg mitzunehmen, jetzt kann sie nichts abholen.
+Der Lieferant hat zugesagt, dass die Ware morgen Vormittag auf unserer Ladefläche steht.
+Das Paket liegt schon wieder beim Nachbarn obwohl ich da war.
+Ich hasse es wenn der Lieferbote nur eine SMS schickt.
+Meine Bestellung kam komplett ohne Rechnung an das ist blöd.
+Der Zoll hat meine Sendung aus Südkorea zurückgewiesen weil etwas fehlte.
+Die Spedition fragt seit Wochen nach dem neuen Ladepunkt.
+Kannst du mal schauen ob mein Tracking schon aktualisiert wurde?
+Ich muss morgen früh zum Paketshop ich hab keine andere Wahl.
+Die Lieferung war beschädigt also rufe ich gleich bei DHL an.
+Unser Lager ist voll deshalb können wir erst nächste Woche liefern.
+Der Versand aus China dauerte locker sechs Wochen das war stressig.
+Hast du den Abholschein schon geteilt oder soll ich es tun?
+Die Sendungsverfolgung zeigt immer noch nichts obwohl es versendet wurde.
+Ich brauche die Rechnung für die Firma damit wir bezahlen können.
+Der Paketbote hat mein Teilchen einfach auf die Matte gelegt.
+Wir müssen den Zollwert korrekt angeben sonst gibt es Ärger später.
+Die Lieferkette ist durch das Wetter in Asien gerade gestört.
+Kann ich die Lieferung auf einen anderen Tag umgebucht bekommen?
+Mein Nachbar nimmt alle meine Pakete an wenn ich nicht da bin.
+Ich hoffe der Expressversand klappt heute noch das ist wichtig.
+Die Spedition hat den LKW schon abends ausgeliefert super pünktlich.
+Bei Amazon kommt mein Paket immer schneller als erwartet eigentlich.
+Ich suche den Link zur Sendungsbeschreibung aber finde ihn nicht.
+Der Rücksendeschein war leider ungültig also muss ich neu ausdrucken.
+Unser Lagerbestand ist so gut wie leer wir müssen nachbestellen.
+Mein Paket wurde als zugestellt markiert obwohl ich gar nicht da war.
+Ich habe den Abholschein verloren und weiß jetzt gar nicht mehr wohin.
+Die Lieferung kam wieder einen Tag zu spät wie schon beim letzten Mal.
+Kannst du mal nachsehen ob die Sendung schon beim Sortierzentrum ist?
+Das Zollformular war so kompliziert dass ich fast aufgegeben hätte.
+Wir müssen dringend neues Lagermaterial bestellen da die Vorräte zur Neige gehen.
+Der Lieferant hat uns gerade geschrieben dass es Verzögerungen bei der Fracht gibt.
+Ich bestelle lieber über Amazon Prime weil die Lieferung immer pünktlich ist.
+Mein Kollege muss den Lkw abholen bevor das Teuerungsguthaben verfallen ist.
+Die Sendungsverfolgung zeigt nur noch seit gestern nichts mehr an wirklich nervig.
+Hast du schon gesehen dass mein Paket im falschen Wohngebiet zugestellt wurde?
+Der Zoll hat meine Ware eingezogen weil ich die richtige Beschreibung vergessen habe.
+Unsere Logistikfirma sucht händeringend nach erfahrenen Fahrern für den Fernverkehr.
+Ich würde das gerne per Einschreiben versenden damit es eine Rückbestätigung gibt.
+Die Lieferkette ist durch den Hochwasser schad so stark gestört worden.
+Kann ich mein Paket auch mal direkt an die Haustür liefern lassen bitte?
+Der Spediteur hat den falschen Container geladen und jetzt müssen wir alles umsortieren.
+Ich habe das Tracking-Nummer kopiert aber der Link funktioniert irgendwie nicht richtig.
+Die Rücksendung kam wieder mit einer neuen Nummer an total unnötiger Aufwand.
+Wir brauchen ein neues Lieferschein-System weil der aktuelle zu fehleranfällig ist.
+Mein Paket hat drei Wochen gebraucht um von Italien nach Deutschland zu kommen.
+Kannst du mir sagen welche Dokumente ich für den Export nach Asien brauche?
+Die Pakete stapeln sich schon wieder im Eingangsbereich weil niemand sie abholt.
+Ich habe vergessen die Sendung zu versichern und jetzt ist es kaputt angekommen.
+Der Lagerbestand muss bis morgen früh aktualisiert sein sonst fliegt die Bestellung.
+Mein Nachbar hat mein Paket bekommen und sagt er gibt es mir später vorbei.
+Ich hab den Zettel gefunden aber der Sendungscode ist unleserlich geworden.
+Die Lieferung kommt angeblich heute an bisher steht da aber noch garnichts.
+Kannst du kurz beim Nachbar abholen weil ich morgen erst wieder da bin?
+Mein Paket ist in Leipzig angekommen und liegt schon seit drei Tagen dort.
+Der Spediteur hat mir gerade geschrieben dass der LKW morgen früh kommt.
+Ich muss noch eine Rechnung für den Versand ausstellen das ist so nervig.
+Warum steht bei meiner Sendung immer nur abholbereit statt zugestellt?
+Das Lager war gestern voll besetzt deshalb gab es viele Verzögerungen beim Versand.
+Ich brauche dringend einen Nachweis dass die Ware wirklich angekommen ist heute.
+Die Zollpapiere waren falsch ausgefüllt und jetzt hängt alles seit Tagen fest.
+Hast du gesehen dass mein Paket wieder zum Absender zurückgeschickt wurde?
+Die Expresslieferung war es wirklich wert obwohl ich doppelt so viel bezahlt habe.
+Wir müssen die Lieferzeiten anpassen weil der Hafen Streik ausgerufen hat gestern.
+Das Paket hatte eine Delle aber der Inhalt war zum Glück alles noch gut verpackt.
+Ich warte schon seit einer halben Stunde auf den Boten der nicht kommt.
+Die Importsteuer muss ich noch selbst zahlen das stand nirgends klar drin.
+Kannst du bitte die Unterschrift für mich machen wenn der Lieferant klingelt?
+Unsere Lagerhallen sind überfüllt wir brauchen dringend mehr Platz für die Ware.
+Der Trackingcode funktioniert nicht mehr seit dem Wechsel des Versanddienstleisters.
+Ich habe das Teil aufgegeben und warte jetzt nervös auf die Zustellung heute.
+Die Dokumente für den Export waren schon längst bereit bevor der Truck kam.
+Mein Brief ist leider verloren gegangen ich muss ihn nochmal neu aufgeben.
+Der Paketbote hat mir nichts gesagt einfach so einen Zettel unter die Tür geschoben.
+Wir planen gerade die Umstellung auf ein neues Lagerverwaltungssystem das wird stressig.
+Die Frist für die Rücksendung ist abgelaufen obwohl ich sie schon mal angefragt habe.
+Paket liegt wieder im Shop, ich muss aber gerade zur Arbeit.
+Mein Kollege hat die Lieferung unterschrieben, obwohl er nicht da war.
+Kannst du mal prüfen ob das Paket schon zugestellt wurde?
+Der Lieferant hat sich wieder verspätet, das ist wirklich nervig.
+Ich muss noch schnell diese Rechnung für den Versand bezahlen.
+Das Lager ist voll gestapelt und wir haben kaum noch Platz.
+Hab gerade den Abholschein bekommen und eile jetzt dorthin.
+Die Frachtkosten sind in letzter Zeit echt ins Kreuzchen gekommen.
+Warum kommt mein Paket aus Übersee schon seit Wochen nicht an?
+Der Fahrer hat das Möbelstück einfach vor der Tür abgestellt.
+Wir müssen die Ware noch bis morgenabend an den Spediteur geben.
+Das Zollformular war fehlerhaft ausgefüllt, daher die Verzögerung.
+Ich hab vergessen meine Adresse zu ändern und das ist verloren.
+Die Lieferzeit von zwei Wochen wurde komplett überschritten dieses Mal.
+Kann ich das Paket doch am anderen Tag abholen lassen?
+Mein Bruder hat mir ein Geschenk geschickt und es geht voran.
+Die Lieferung muss heute noch raus, sonst verpassen wir den Zug.
+Ich brauche eine Liefernote da keiner Zuhause ist tagsüber.
+Der Versand kostet mehr als die Ware selbst bei diesem Händler.
+Unsere Lieferkette bricht gerade zusammen durch die Streiks im Hafen.
+Das Paket war kaputt ankommt und ich muss reklamieren jetzt sofort.
+Kannst du den Versand auf Rechnung legen für dieses große Teil?
+Die Spedition meldet sich schon seit Tagen nicht mehr zurück zu uns.
+Ich warte immer noch auf die Rücksendung des defekten Artikels hier.
+Mein Paket liegt seit zwei Tagen im Hafen und bewegt sich nicht weiter.
+Hast du den Lieferschein schon unterschrieben oder wartet der Fahrer noch?
+Ich hab die Ware direkt vom Lager abgeholt, das war schneller.
+Kannst du mal schauen ob mein Brief schon zugestellt wurde?
+Der Zoll hat meine Bestellung zurückgewiesen wegen fehlender Dokumente.
+Wir brauchen dringend einen neuen Lieferanten für die Ersatzteile.
+Das Paket wurde als versandt markiert aber ich hab es nie gesehen.
+Die Spedition fragt nach der genaue Adresse obwohl alles korrekt ist.
+Ich muss die Rechnung erst bezahlen bevor sie das Gut freigegeben werden kann.
+Warum dauert die Lieferung aus Italien so lange?
+Mein Nachbar hat das Päckchen angenommen weil ich arbeiten musste.
+Die Lieferkette ist gerade sehr instabil durch die aktuellen Engpässe.
+Habt ihr schon ein Angebot für den Transport der Maschinen?
+Das Zollamt verlangt jetzt plötzlich noch eine zusätzliche Genehmigung.
+Ich finde den Sendungsverfolgungscode nirgendwo in meiner E-Mail.
+Der Paketbote klingelt immer nur kurz und läuft dann weg.
+Wir lagern die Ware interimistisch bei einem externen Partner.
+Kann ich das Paket gegen Abholung am Schalter umleiten lassen?
+Die Frachtkosten sind dieses Quartal leider deutlich gestiegen.
+Mein Kollege muss die Güterabgabe selbst im Zollamt erledigen.
+Das Sendungsformular ist falsch ausgefüllt worden, daher die Verzögerung.
+Ich erwarte morgen drei Kartons mit neuen Büromaterialien.
+Die Rücksendung kam ohne Manko im Lager an, alles gut.
+Bitte gib mir Bescheid sobald der LKW auf dem Hof eintrifft.
+Mein Paket liegt wieder im falschen Paketshop, nervt mich echt langsam.
+Der Spediteur hat den LKW schon vor zwei Wochen angekündigt.
+Ich muss heute endlich meine Zollpapiere ausfüllen für die Ware aus Spanien.
+Die Lieferzeit von drei Tagen hat sich natürlich komplett in die Länge gezogen.
+Kannst du mal nachschauen ob das Teil noch auf Lager ist?
+Meine Schwester wohnt zwar nur zwei Häuser weiter aber ihr Paket kam nie an.
+Das Tracking zeigt seit gestern nur noch In Transit, sonst passiert nichts.
+Wir haben gerade das neue Lagersystem eingeführt und es funktioniert super.
+Hab den Sendungscode vergessen, kann ich trotzdem abholen?
+Der Lieferant hat leider keine frischen Termine mehr im Kalender.
+Mein Vater bestellt immer alles direkt aus Übersee, der Zoll frisst dann alles.
+Die Frachtrechnung ist diesmal wirklich üppig ausgefallen, da wird man schnell reich.
+Ich warte schon die ganze Woche auf meine neue Matratze, wo bleibt sie nur?
+Das Retourlabel war beschädigt, also muss ich das jetzt nochmal machen.
+Unsere Logistikabteilung arbeitet an einer neuen Route um Zeit zu sparen.
+Der Brief ist verloren gegangen, der Inhalt war aber nicht wichtig genug.
+Kann ich die Lieferung auf morgen verschieben weil ich heute schlafe?
+Die Palette war ganz schön zerkratzt als sie endlich angekommen ist.
+Ich hasse es wenn der Zusteller einfach nur den Zettel hinterlässt.
+Der Zoll hat meine Sendung eingezogen, angeblich fehlen Dokumente.
+Wir müssen die Warenströme optimieren um Kosten zu sparen.
+Das Paket hatte einen Riss, zum Glück war nichts kaputt drin.
+Mein Kollege arbeitet seit zehn Jahren in der Versandabteilung.
+Die Lieferung kam pünktlich an, was bei DHL mal nicht selbstverständlich ist.
+Ich brauche dringend den Nachweis über die Rücksendung für den Händler.
+Ich muss erst noch die Unterschrift für die Annahme holen.
+Das Lager war voll gepackt mit neuen Vorräten.
+Zollabfertigung kann mal drei Tage dauern bei Elektronik.
+Die Lieferadresse war falsch, deshalb kam es zurück.
+Kannst du mir sagen ob der Fahrer schon da ist?
+Der Sendungsstatus bleibt seit gestern auf in Sortierung hängen.
+Wir brauchen eine LKW-Lizenz für den innergemeinschaftlichen Verkehr.
+Paketshop ist heute leider schon zu als ich nach Hause kam.
+Mein Nachbar hat das Paket angenommen weil ich nicht da war.
+Der Frachtführer hat den Termin um zwei Stunden verschoben.
+Bitte gib an dass es sich um ein Geschenk handelt.
+Die Lieferung kam beschädigt an, der Kartonschaden war klar.
+Ich muss die Rechnungen für die Einfuhrumsatzsteuer prüfen.
+Der Postbote hat das Stück einfach in den Briefkasten geworfen.
+Unsere Supply Chain ist durch den Hafenstreik gestört worden.
+Hast du schon den Trackingscode für die Rücksendung?
+Das Paket wurde beim Transit in der Türkei kontrolliert.
+Kann ich die Zustellung auf morgen Vormittag verschieben lassen?
+Der Lagerbestand hat sich durch die große Nachfrage geleert.
+Die Spedition rechnet pro Palette und nicht pro Stück ab.
+Ich bekomme immer eine Push-Nachricht wenn das Paket unterwegs ist.
+Der Zoll hat die Ware zurückgewiesen wegen fehlender Dokumente.
+Expressversand lohnt sich nur bei dringenden Geschäftspaketen wirklich.
+Das Rücksendeetikett habe ich schon im Shop ausdrucken lassen.
+Das Paket liegt wieder beim Nachbarn, obwohl ich drin war.
+Die Lieferadresse war falsch, deswegen ist die Sendung zurückgewiesen worden.
+Kann man den Zusteller anrufen oder geht das nur per App?
+Ich habe den Trackingcode eingegeben aber da steht keine Änderung mehr.
+Der Versand aus Italien dauerte diesmal viel länger als erwartet.
+Wir müssen für die Großlieferung erst noch eine Zollanmeldung machen.
+Das Regal im Lager ist voll, wir brauchen dringend mehr Platz.
+Die Spedition kam pünktlich, obwohl das Wetter schlecht war.
+Ich hab meine Rechnung vergessen und kann nicht bezahlen.
+Könntest du das Paket nochmal zur Post bringen, bitte?
+Der Lkw steht seit zwei Stunden vor dem Tor ohne Beförderung.
+Meine Bestellung ist angekommen, aber die Verpackung war kaputt.
+Wie hoch sind eigentlich die Gebühren für den Rückversand aus Polen?
+Die Frachtkosten sind in diesem Quartal deutlich gestiegen.
+Ich muss das Dokument bis morgen früh beim Zoll einreichen.
+Das Paket wurde fälschlicherweise als verloren markiert, Glück gehabt.
+Kann ich den Zustellzeitraum auf den Nachmittag einschränken?
+Die Lagerhaltungskosten drücken uns gerade ziemlich ins Fleisch.
+Wir haben Probleme mit der Lieferung von Ersatzteilen aus Asien.
+Der Boten hat den Zettel einfach in die Box geworfen.
+Ich warte schon ewig auf meine Bestellung, wo bleibt die Ware?
+Die Sendung muss noch durch den Sicherheitscheck am Flughafen.
+Hast du schon eine Antwort vom Support zur verspäteten Lieferung?
+Das Frachtgut ist bei der Überfahrt leicht beschädigt worden.
+Wir brauchen einen zuverlässigen Partner für den internationalen Transport.
+Mein Paket ist wieder nicht angekommen obwohl es laut Tracking zugestellt wurde.
+Die Lieferung kam gestern abend an der Tür vor mir stand.
+Ich muss morgen zum Postamt um den Nachnahmebetrag zu bezahlen.
+Der Lieferant hat mich gar nicht angerufen bevor er das Paket dort gelassen hat.
+Kannst du mal schauen ob meine Sendung schon im Sortierzentrum ist?
+Die Zollabfertigung dauete länger als erwartet und alles kam teurer.
+Wir brauchen dringend eine neue Logistiksoftware für unsere Lagerbestände.
+Das Frachtmehr war kaputt und der Inhalt komplett nass geworden.
+Ich hasse es wenn ich extra freinehmen muss wegen einer Lieferung.
+Der Spediteur hat den Container erst eine Woche zu spät abgeliefert.
+Meine Bestellung aus Spanien kam mit einer zusätzlichen Gebühr an.
+Hast du schon eine Empfangsbestätigung für die eingegangene Ware bekommen?
+Die Lieferzeiten haben sich durch die Streiks in Häfen verschoben.
+Ich hab vergessen die Abholgebühr beim Paketshop zu bezahlen.
+Unser Import von Maschinenunterteilen läuft aktuell wieder ganz smooth.
+Die Sendung wurde leider wegen unklarer Adresse an den Absender zurückgeschickt.
+Kann man das Päckchen eigentlich auch am Wochenende zurückschicken?
+Die Lagerverwaltung war total chaotisch nachdem der Server abgestürzt ist.
+Ich warte schon seit drei Tagen auf meine neue Kaffeemaschine aus Italien.
+Der Zolldurchgang für Lebensmittel erfordert immer zusätzliche Dokumente und Prüfungen.
+Mein Nachbar hat mein Paket mitgenommen als ich nicht da war.
+Die Expresslieferung war heute mittend schon bei mir da zu Hause.
+Wir müssen die Lagerkapazität erweitern weil der Umsatz steigt.
+Das Tracking zeigt nur dass das Paket sich auf dem Weg befindet.
+Ich muss den Lieferschein sofort unterschreiben bevor der Fahrer weiterfährt.
+Das Paket liegt schon wieder seit gestern im Paketshop.
+Ich hoffe es kommt heute noch an bevor der Lieferant Feierabend hat.
+Die Sendungsverfolgung sagt zugestellt aber ich habe nichts bekommen.
+Wir müssen die Zollpapiere für den Import aus Italien besorgen.
+Der Frachtführer war zu spät und hat die Ladung einfach stehen lassen.
+Kannst du bitte einen Lieferschein mitbringen wenn das Teil da ist?
+Mein Bruder erwartet die Ware dringend weil er sie für die Arbeit braucht.
+Die Lagerbestand ist bei uns gerade extrem niedrig geworden.
+Ich hasse es wenn der Zusteller nur eine Benachrichtigung hinterlässt.
+Die Lieferkette hat sich durch die Streiks komplett verzögert.
+Hast du die Trackingnummer für die Expresssende schon mal geprüft?
+Der Zoll hat unsere Sendung zurückgehalten wegen fehlenden Unterlagen.
+Wir suchen dringend einen zuverlässigen Spediteur für unsere Exportlieferungen.
+Das Päckchen ist so klein das es eigentlich als Brief hätte gehen können.
+Unsere Lieferanten haben Probleme mit der Produktion und liefern erst nächste Woche.
+Ich habe den Abholcode per SMS bekommen aber er funktioniert nicht.
+Kann jemand kurz die Pakete vom Hof holen bevor es anfängt zu regnen?
+Die Dokumentation für die Zollabfertigung muss bis Freitag fertig sein.
+Es ist so nervig wenn man sich extra frei nimmt aber das Paket nicht kommt.
+Wir haben unser Lager umstrukturiert damit der Warenfluss besser wird.
+Die Sendung wurde beschädigt angeliefert weil sie falsch verpackt war.
+Ich warte schon ewig auf meine Bestellung aus den USA.
+Der Fahrer hat vergessen die Signatur für den Empfang zu scannen.
+Das Paket war wieder einmal beschädigt verpackt, wirklich ärgerlich.
+Hast du schon mal versucht, die Sendung bei Hermes abzuholen?
+Die Zollabfertigung zieht sich leider wieder bis zum Monatsende hin.
+Ich warte seit zwei Wochen auf meine Bestellung aus Italien.
+Der Lieferant hat vergessen, den Signature-Check beim Empfänger zu machen.
+Mein Nachbar nimmt immer mein Paket an, wenn ich nicht da bin.
+Die Frachtkosten für diese große Maschine sind echt ins Auge gegangen.
+Wann kommt der neue Lkw mit der Warencharge eigentlich an?
+Ich muss morgen früh zum Postamt gehen, um das aufzugeben.
+Das Tracking zeigt seit gestern nichts mehr, typischer Dienstleister halt.
+Unsere Lagerkapazität ist endlich wieder durch den Rücklauf entlastet worden.
+Die Versandbedingungen für die neuen Produkte sind streng geregelt.
+Habe den Abholschein gerade per Push-Nachricht aufs Handy bekommen.
+Die Grenze war voll belegt, deshalb stand der Zolltarif auf Stau.
+Kannst du mir sagen, ob Päckchen aus Schweden steuerfrei sind?
+Der Spediteur hat uns zugesichert, dass die Palette pünktlich kommt.
+Meine Bestellung wurde fälschlicherweise an den alten Wohnort geschickt.
+Die Zustellung hat leider nicht geklappt, weil niemand zu Hause war.
+Wir müssen die Exportdokumente bis Freitag für den Versand ausfüllen.
+Das Paket ist zwar da, aber der Inhalt fehlt irgendwie komplett.
+Ich brauche dringend einen Nachweis, dass die Ware tatsächlich angekommen ist.
+Die Lieferkette in Asien funktioniert aktuell gar nicht richtig.
+Hast du den Tracking-Code für die internationale Sendung schon?
+Der Postbote war heute Morgen zu früh gekommen, ich schlief noch.
+Wir suchen jetzt einen zuverlässigen Partner für die letzten Meilen.
+Die Lieferung ist leider noch nicht angekommen obwohl es schon versprochen wurde.
+Ich muss das Paket heute noch zum Versand bringen bevor die Schließzeit kommt.
+Der Fahrer hat das Teil einfach auf dem Bürgersteig abgestellt ohne mich zu klingeln.
+Beim Zoll gab es Fragen zur Warenbezeichnung weil ich zu ungenau war.
+Unsere Lieferkette hat sich durch den Streik am Hafen komplett verzögert.
+Die Spedition hat angefragt ob wir den Lkw heute noch entladen können.
+Mein Nachbar nimmt immer meine Pakete entgegen wenn ich auf der Arbeit bin.
+Das Lager war voll und wir mussten dringend mehr Platz für den Export finden.
+Ich hasse es wenn die Zustellung scheitert weil niemand zu Hause ist.
+Die Frachtpreise sind wieder gestiegen und das drückt uns im Importgeschäft sehr.
+Kann ich mein Paket abholen bevor der Fahrer nochmal vorbeikommen muss?
+Die Dokumentation für den Zoll war falsch ausgefüllt und nun liegt alles still.
+Ich hab bestellt aber die Bestätigungsmail ist bis jetzt immer noch nicht da.
+Der Transportverlauf zeigt dass das Gut seit zwei Tagen in Hamburg steht.
+Das Rücksendelabel kam nie an und der Support antwortet einfach nicht darauf.
+Meine Freundin braucht dringend Ersatzteile und deshalb habe ich es per Express geschickt.
+Die Palette war ungesichert und beim Umladen ist leider eine Ecke abgebrochen.
+Ich finde es nervig dass ich immer extra zum Paketshop laufen muss.
+Der Container kommt erst nächste Woche an weil der Hafen überfüllt ist.
+Hast du die Rechnung vom Spediteur schon bezahlt oder läuft das noch?
+Die Lieferadresse war falsch und jetzt landet das Teil irgendwo in Bayern.
+Ich packe die Kartons ein und achte darauf dass nichts kaputtgeht beim Transport.
+Es gibt Verzögerungen bei der Zollearbeit weil gerade viele Anmeldeformulare geprüft werden müssen.
+Ich muss morgen zum Paketshop weil ich keine Zeit mehr habe.
+Die Sendung wurde zurückgehalten und ich kriege gar keine Mail.
+Warum kostet der Expressversand immer das Dreiache von normaler Post?
+Endlich ist mein Ersatzteil angekommen nach zwei Wochen Wartezeit.
+Der Fahrer kam vorbei aber er hatte den falschen Karton dabei.
+Bitte lass mich wissen sobald das Paket im Lager eingetroffen ist.
+Ich verzichte auf Unterschrift und lasse es einfach beim Nachbarn liegen.
+Die Zollgebühren waren höher als ich erwartet habe bei diesem Artikel.
+Wir müssen die Frachtpapiere bis morgen Abend an die Spedition schicken.
+Mein Online-Bestellung wurde storniert obwohl das Geld schon abgebucht wurde.
+Der Zustellversuch gestern war komplett sinnlos weil niemand zu Hause war.
+Kann man den Liefertermin verschieben für nächste Woche bitte?
+Das Wareneingangskontrollverfahren dauert bei uns immer mindestens zwei Tage.
+Ich finde meine Sendung in der App nicht obwohl sie schon geliefert sein soll.
+Die Palette ist beschädigt angekommen wir machen sofort einen Schadensbericht auf.
+Bitte gib die Bestellung über den neuen Versanddienstleister auf.
+Mein Paket liegt schon seit drei Tagen an der falschen Filiale.
+Die Einfuhrzölle für Elektronikgeräte aus Nicht-EU-Ländern sind sehr hoch.
+Ich habe den Abholschein ausgedruckt und zum Schalter mitgenommen.
+Der LKW steht vor dem Tor wir laden gleich die Fracht um.
+Warum ist meine Bestellung noch nicht in Bearbeitung gelaufen?
+Die Lieferadresse war falsch geschrieben also kam das Paket zurück.
+Wir nutzen jetzt einen anderen Logistikpartner weil die Preise besser sind.
+Das Tracking-System zeigt an dass die Ware heute abends da ist.
+Das Paket ist wieder nur bis zur Filiale gelaufen.
+Ich warte schon die ganze Woche auf meine Bestellung.
+Die Sendung wurde im Lager festgehalten wegen fehlender Dokumente.
+Kannst du kurz zum Nachbar gehen und das Paket abholen?
+Meine Lieferung kam heute Vormittag doch nicht an, obwohl der Status anders lautete.
+Der Zoll hat meine Kamera beschlagnahmt, weil ich die Angaben falsch gemacht habe.
+Ich hasse es, wenn der Zusteller einfach nur ein Zettelchen hinterlässt.
+Die Spedition liefert die Paletten immer genau pünktlich zum Baustelleneingang.
+Für den Export brauche ich noch die Ursprungsbescheinigung vom Hersteller.
+Das Tracking zeigt seit gestern Abend keine Bewegung mehr an.
+Wir müssen die Ladung nochmal gewichten, bevor sie verladen wird.
+Hast du den Abholschein schon mit zum Postamt genommen?
+Mein Paket wurde versehentlich in einen anderen Landkreis geliefert.
+Die Lieferkette ist durch die Streiks am Hafen komplett gestört.
+Ich brauche dringend eine Überbrückungslieferung, bis der Hauptlieferant nachlädt.
+Die Zolldokumente fehlen noch, daher steht das Gut seit Tagen rum.
+Kann ich meine Sendung eigentlich nochmal umadressieren lassen?
+Der Zustellversuch war heute leider vergeblich, ich war im Homeoffice.
+Unsere Lagerhallen sind bis zum Rand voll gepackt mit Weihnachtsgeschäft.
+Die Zollabfertigung dauerte länger als erwartet, jetzt geht's weiter.
+Ich habe meinen Tracking-Code verloren und finde die Sendung nicht mehr.
+Die Pakete kommen oft schon abends an, dann ist niemand da.
+Bitte gib das Päckchen als Einschreiben auf, das ist wichtig.
+Die Logistikfirma hat versprochen, dass es morgen definitiv da ist.
+Ich muss heute noch drei Pakete zur Post bringen.
+Der Zusteller war schon da, aber ich habe nichts bekommen.
+Meine Bestellung kam beschädigt an, der Karton ist zugeknickt.
+Woran erkennt man ob das Paket bereits im Lager liegt?
+Ich hab die Sendung nicht abgeholt und sie läuft zurück.
+Könntest du den Lieferschein bitte vor dem Versand scannen?
+Das Zollformular ist kompliziert, ich verstehe die Felder nicht.
+Unsere Lieferzeiten haben sich durch den Streik verzögert.
+Der Paketbote hat mich angelächelt aber nichts abgegeben.
+Ich muss morgen früh zur Packstation und hole mein Ding.
+Die Spedition verlangt Nachzahlung für die Sonderbehandlung der Fracht.
+Hast du schon mal mit dem Zoll bei Elektronikschrott zu tun gehabt?
+Mein Tracking Link aktualisiert sich seit Tagen nicht mehr.
+Wir brauchen einen zuverlässigen Partner für den Export nach Polen.
+Das Paket wurde als verloren gemeldet, ich brauche mein Geld zurück.
+Bitte gib mir Bescheid wenn die Lieferung bei dir angekommen ist.
+Die Lagerkapazität reicht für die Weihnachtsspitze einfach nicht aus.
+Der Lieferant hat versprochen das Teil noch heute zu verschicken.
+Kann ich die Lieferung auf den nächsten Tag ändern lassen?
+Das Paket war im Regen stehend und alles ist durchgeweicht.
+Unsere Kalkulation geht schief wenn die Frachtkosten wieder steigen.
+Ich warte schon seit einer Woche auf meine Ersatzteile vom Händler.
+Der Brief mit dem Vertrag ist endlich angekommen, pünktlich wie immer.
+Paket liegt im Shop, ich muss aber heute zum Arzt.
+Die Zustellung war wieder umsonst, das Aushangticket ist zerknittert.
+Mein Colissimo kommt schon zwei Wochen nicht voran.
+Habe den falschen Trackingcode eingeben müssen, alles neu suchen.
+Der Spediteur fragt nach der richtigen Zollnummer für den Export.
+Liegt mein Paket beim Nachbarn oder im Briefkasten?
+Die Lagerverwaltung meldet Fehler bei der Artikelnummer sofort.
+Ich brauche den Beleg für die Rücksendung dringend.
+Zollabfertigung braucht mal wieder drei Tage, nervig eigentlich.
+Das Paket war leicht zerdrückt, aber Inhalt scheint okay zu sein.
+Kann ich den Liefertermin nochmal auf morgen setzen lassen?
+Die Frachtrechnung ist deutlich höher als im Angebot kalkuliert.
+Mein Sendungsverfolgungsstatus aktualisiert sich schon seit Stunden nicht.
+Wir müssen die Ware für den Seetransport verpacken und etikettieren.
+Der Lieferant hat die falsche Adresse hinterlegt, Pech gehabt.
+Ich muss zum Paketshop fahren, weil ich zu Hause war.
+Die Lagerbestände sind durch den Ansturm wieder aufgebraucht.
+Wie lange dauert die Bearbeitung bei internationalen Sendungen eigentlich?
+Habe meine Tracking-Nummer verlegt, wo finde ich die wieder?
+Der Spediteur liefert heute nicht mehr, wegen Stau auf der Autobahn.
+Mein Paket ist verloren gegangen, muss jetzt reklamieren gehen.
+Die Dokumentation für den Zoll war leider unvollständig ausgefüllt.
+Kannst du mir die Sendung als Einschreiben verschicken? Wichtig!
+Der LKW steht vor dem Tor, bitte schnell entladen helfen.
+Ich erhalte immer diese nervigen Benachrichtigungen über Lieferungen.
+Ich warte schon ewig auf meine Sendung und der Status ändert sich nicht.
+Der Lieferschein fehlt im Karton und ich kann die Ware nicht einbuchen.
+Kannst du mal schauen ob das Paket schon beim Postamt liegt?
+Die Spedition hat wieder den falschen Lieferzeitfenster angegeben, ärgerlich.
+Bei diesem Zollformular muss man genau auf die HS Codes achten.
+Mein Nachbarn hat das Paket angenommen weil ich keine Zeit hatte.
+Die Frachtkosten für diesen Schwerguttransport sind wirklich ins Auge gesprungen.
+Ich bekomme immer eine Abholaufforderung obwohl ich zu Hause war.
+Der Versand aus Asien dauert diesmal länger als gewohnt, wahrscheinlich Zoll.
+Wir müssen die Lagerkapazität erweitern damit wir nicht vor lauter Ware stehen.
+Meine Bestellung wurde storniert weil der Lieferant auf Restpost verkauft hat.
+Die Tracking Nummer funktioniert seit zwei Tagen gar nicht mehr bei mir.
+Hast du den Aufkleber schon abgeklebt oder liegt der noch im Briefkasten?
+Für diesen Exportfall brauchen wir definitiv ein Zertifikat von Origin.
+Die Lieferung ist beschädigt angekommen, die Ecke vom Karton war ganz kaputt.
+Ich habe das Geld zurückbekommen weil der Händler nicht liefern konnte.
+Der Fahrer kam heute gar nicht vorbei obwohl er um neun sein sollte.
+Unsere Logistiksoftware meldet seit gestern einen Fehler bei den Sendungen.
+Das Zollverfahren zieht sich hin weil sie noch eine Probe benötigen.
+Kann ich die Lieferung auf morgen verschieben? Ich bin nämlich im Urlaub.
+Die Palette war falsch beschriftet und ist jetzt beim falschen Kunden gelandet.
+Ich muss das Paket nochmal aufgeben weil der Adressetikett abgefallen ist.
+Der Zoll hat meine Kamera zurückgesandt weil sie angeblich gebrauch war.
+Wir suchen dringend Fahrer für den Nachttransport nach Hamburg und Köln.
+Die Retoure kostet mehr als das ursprüngliche Produkt, das ist unfair.
+Mein Paket ist im Regal 4 liegen geblieben, ich hole es gleich ab.
+Wo bleibt meine Bestellung schon wieder, ich warte schon zwei Wochen.
+Der Paketbote hat mir keine Glocke geklingelt und ist einfach weitergefahren.
+Ich muss morgen zum Postamt, denn der Briefkasten war leider zu voll.
+Für diesen schweren Karton brauche ich definitiv eine Versicherung beim Versand.
+Die Zollabfertigung hat gestern noch nicht funktioniert, deshalb liegt die Ware fest.
+Kannst du das bitte als Rücksendung einreichen? Ich habe den QR-Code parat.
+Mein Nachbar hat das Paket angenommen, weil ich gerade auf der Arbeit war.
+Die Lieferzeiten aus Asien sind derzeit echt zum Mäusemelken gestiegen.
+Ich habe vergessen, die Sendung online abzusichern, jetzt fehlt ein Teil.
+Der Spediteur verspricht, dass die Palette heute noch bei uns eintrifft.
+Warum kostet Porto nach Spanien so viel mehr als nach Frankreich?
+Das Tracking-Status ist seit drei Tagen nicht mehr aktualisiert worden.
+Ich brauche dringend die Abholung für dieses große Sofa zu vereinbaren.
+Die Frachtpapiere waren unvollständig, deswegen kam alles wieder zurück zur Senderadresse.
+Klingelt der Lieferant um elf oder lieber gegen drei Uhr nachmittags?
+Mein Tracking-Link führt nur zu einer leeren Seite, das nervt jetzt wirklich.
+Wir müssen die Zollpapiere heute noch unterschreiben, sonst zahlt uns die Strafe.
+Der Paketshop war überfüllt, ich stand eine halbe Stunde in der Schlange.
+Ist dieser Artikel überhaupt lagernd oder muss man ihn erst zuschneiden lassen?
+Ich habe die falsche Adresse eingegeben und jetzt läuft alles schief.
+Kann man die Lieferung auch an den Automaten vor der Haustür schicken?
+Der Container aus Hamburg ist verzollt und steht nun im Überladezentrum.
+Meine Schwester hat vergessen, ihr Paket vom Nachbar abzuholen.
+Wir warten immer noch auf die Bestätigung der neuen Lieferadresse für morgen.
+Mein Paket ist schon wieder bei Amazon abgeholt worden.
+Der Lieferant hat heute einfach nichts zugestellt, obwohl er vorbeikam.
+Ich habe den Abholschein im Briefkasten gefunden, aber nicht abgerufen.
+Die Sendungsverfolgung zeigt nur noch in Bearbeitung, mehr nicht.
+Hast du gesehen, dass DHL jetzt auch an Samstagen liefert?
+Das Lager war völlig überfüllt und wir haben kaum Platz für neue Ware.
+Die Zollpapiere sind leider falsch ausgefüllt worden, das ist ärgerlich.
+Unsere Lieferkette läuft zurzeit etwas langsamer als geplant.
+Kann ich das Paket auch an einer anderen Filiale abholen?
+Der Fahrer hat mich gar nicht angerufen, wie vereinbart.
+Es dauert ewig, bis die Ware aus dem Ausland bei uns eintrifft.
+Die Spedition berechnet zusätzliche Gebühren für die Nachtzustellung.
+Ich habe eine Nachricht bekommen, dass meine Sendung zurückkommt.
+Wird das Paket heute noch kommen oder muss ich bis morgen warten?
+Der Barcode auf der Verpackung war komplett unleserlich geworden.
+Wir müssen die Lagerbestände dringend aufräumen, bevor das Wochenende kommt.
+Die Zolldokumente fehlen noch für die drei Containere aus Asien.
+Mein Nachbar hat mein Paket falsch verstanden und schon ausgepackt.
+Es gibt Lieferverzögerungen wegen des schlechten Wetters in der Region.
+Ich kann den Tracking Code einfach nicht mehr finden auf dem Handy.
+Die Rücksendung ist kostenlos, aber ich muss sie selbst zur Post bringen.
+Unser Großhändler liefert erst wieder nächsten Montag frische Ware.
+Der Paketbote hat das Teil vor die Tür geworfen und weggerannt.
+Wir haben heute einen ganzen LKW mit Ersatzteilen erhalten, phantastisch.
+Die Sendungsnummer hat sich geändert seit gestern Abend.
+Mein Nachbar holt immer meine Pakete vom Automaten ab.
+Das Label ist wieder zugeklebt durch den Regenschlag heute.
+Wir müssen die Zollpapiere für den Import neu ausfüllen.
+Die Spedition meint, der LKW sei in Köln stecken geblieben.
+Ich hasse es, wenn die Zustellung erst am späten Nachmittag kommt.
+Bitte gib das als Einschreiben auf wegen der wichtigen Dokumente.
+Das Lager ist voll und wir können keine neuen Waren annehmen.
+Warum wird mein Paket immer über drei verschiedene Depots sortiert?
+Die Lieferkette hat sich durch den Sturm im Norden verzögert.
+Kann ich das Retoure einfach beim Hohlstelle auswerfen ohne Bon?
+Der Fahrer wollte wissen, ob der Hund da wirklich frei herumlaufen darf.
+Wir brauchen dringend einen neuen Transportpartner für die Ostseeanbindung.
+Mein Päckchen ist zwar klein, aber es wiegt richtig viel.
+Die Tracking-App aktualisiert sich einfach gar nicht mehr seit Stunden.
+Hat jemand Erfahrung mit dem Zoll bei Elektronik aus Japan?
+Das Frachtrecht gilt hier leider anders als im privaten Versand.
+Ich hab vergessen, die Tür zur Abholung für den Bot offen zu lassen.
+Die Palette ist falsch verpackt angekommen, drei Kartons waren knallhart.
+Kannst du mir kurz den Scan des Lieferschein durchschicken?
+Mein Paket sitzt seit zwei Tagen in Hamburg und bewegt sich nicht.
+Die Express-Zustellung war heute wieder um vier Uhr pünktlich da.
+Ich suche einen günstigen Weg, diesen schweren Karton nach Berlin zu schicken.
+Das Zolllager hat meine Sendung zurückgehalten wegen fehlender Unterlagen.
+Bitte lass die Ware direkt ins Regallager einlagern statt zur Qualität.
+Mein Paket ist wieder im Transit, aber die Statusmeldung aktualisiert sich nicht.
+Der Lieferbote hat es einfach auf die Matte gelegt ohne mich anzurufen.
+Ich muss morgen früh ins Postfach, da warten drei Briefe aus der Behörde.
+Die Zollabfertigung für meine Bestellung hat unerwartet lange gedauert.
+Kannst du mal kurz das Paket abholen wenn ich nachmittags noch arbeite?
+Der Trackingcode funktioniert seit gestern nicht mehr richtig bei mir.
+Mein Kunde wartet schon auf die Ware, aber der Lagerbestand ist leer.
+Die Spedition meldet erst morgen Nachmittag eine genaue Ankunftszeit.
+Ich habe den falschen Versanddienstleister ausgewählt und bezahle jetzt drauf.
+Das Frachtgut war durch die schwere Stürme leider etwas beschädigt.
+Warum dauert mein Rücksendeartikel schon so lange bis zur Erstattung?
+Der Paketshop in der Innenstadt ist heute überraschenderweise geschlossen.
+Wir müssen die Importlizenz vor der Lieferung beim Zoll vorlegen.
+Meine Mutter hat das Geschenk vergessen, weil sie nicht nach Hause kam.
+Die Lieferkette stockt aktuell wegen Engpässen bei den Transportfahrzeugen.
+Kann ich das Paket an einer anderen Adresse abholen lassen?
+Der Zusteller hat mich heute zum dritten Mal vergeblich angepöbelt.
+Ich brauche einen Nachweis über die Sendung für die Garantieansprüche.
+Das Lager ist komplett voll und wir können keine neuen Waren aufnehmen.
+Mein Nachbar hat versehentlich mein Paket mitgenommen, das ist blöd.
+Die Expresszustellung war zwar teurer aber dafür kam es wirklich pünktlich.
+Ich habe einen Fehlversand erhalten und muss jetzt alles zurücksenden.
+Der Zoll durchsucht gerade die Container, das verzögert die gesamte Lieferung.
+Kannst du mir sagen ob mein Paket schon unterwegs ist?
+Die Frachtrechnung ist deutlich höher ausgefallen als ursprünglich kalkuliert.
+Mein Brief ist wieder zurückschickt worden weil die Adresse falsch war.
+Das Paket ist wieder in der Nachbarstadt gestrandet, keine Ahnung warum.
+Ich muss heute mal zum DHL Shop gehen und das holen.
+Der Fahrer hat es nicht angeklopft und einfach umgekehrt.
+Meine Bestellung aus Asien hängt seit zwei Wochen im Zoll fest.
+Die Spedition verlangt plötzlich einen Aufpreis für die Zustellung an meinem Wohnort.
+Ich habe drei Mal um eine Lieferverschiebung gebeten, alles ohne Erfolg.
+Das Frachtgut kam mit leichten Beschädigungen am Lager an.
+Bitte gib mir Bescheid wenn das Ding doch noch bei dir eintrifft.
+Die Lieferzeiten im Ausland sind gerade völlig unvorhersehbar.
+Ich brauche dringend die Eingangsbestätigung für meine Rechnung.
+Der Paketbote hat es beim falschen Nachbarn abgestellt, typisch.
+Wir müssen die Zollpapiere schnell besorgen sonst steht alles still.
+Mein Großvater bekommt immer noch Zeitungen per Post zugestellt.
+Die Logistiksoftware stürzt ab sobald ich eine neue Sendung anlegen will.
+Hast du schon gesehen dass mein Päckchen zurückgesandt wird?
+Der Export wurde wegen fehlender Zertifikate komplett gestoppt.
+Ich liebe es wenn die Lieferung genau pünktlich vor der Tür steht.
+Das Lager ist voll und wir müssen noch heute umlagern.
+Könntest du das Paket bitte als fragil kennzeichnen beim Versand?
+Die Zustellzone wurde geändert ohne dass wir etwas mitbekommen haben.
+Mein Kollege muss die Fracht tomorrow selbst abholen im Hafen.
+Die Sendung wurde irrtümlich als abgeholt markiert, obwohl sie da ist.
+Wir brauchen einen zuverlässigen Partner für den internationalen Warenverkehr.
+Der Abholschein wurde leider bereits gelöscht weil ich zu spät kam.
+Es ist frustrierend wie lange man auf ein einfaches Dokument warten muss.
+Wo ist denn mein Paket schon wieder geblieben?
+Der Lieferant hat einfach nur die Karte reingesteckt.
+Ich muss morgen früh zum DHL Paketshop gehen.
+Unser Lager ist komplett überfüllt, wir brauchen mehr Platz.
+Das Zollformular hatte ich leider vergessen auszufüllen.
+Kannst du mal checken ob die Sendung schon angekommen ist?
+Die Spedition verspricht Lieferung bis Freitag, das glaube ich nicht.
+Mein Nachbar hat das Paket für mich gegen Unterschrift angenommen.
+Der Expressversand war es echt wert, kam gestern an.
+Wir müssen die Ware sofort umsortieren bevor der Lkw kommt.
+Da steht nichts zur Sendungsverfolgung im Tracking System drin.
+Hat jemand Erfahrung mit Zollgebühren bei Einkäufen aus Europa?
+Die Packungsnummer wurde leider falsch auf dem Etikett gedruckt.
+Ich schick dir die Adresse nochmal, die alte ist veraltet.
+Der Lieferschein fehlt irgendwie in der Lieferung, doof das.
+Wir haben einen neuen Lieferanten für Verpackungsmaterial gefunden.
+Das Paket war leider etwas zerdrückt als ich es ausgepackt habe.
+Die Retoure soll bis Ende dieser Woche zurück sein.
+Unser Lagerist sucht schon stundenlang nach der fehlenden Position.
+Kannst du das Porto gleich von meinem Konto abziehen lassen?
+Der Kurier ist heute nicht mehr vorbeigekommen, war zu spät.
+Wir müssen die Frachtkosten noch mit dem Kunden klären.
+Die Sendung wurde leider fälschlicherweise an den falschen Ort geliefert.
+Ich habe den falschen Code am Automaten eingegeben und konnte mein Paket nicht abholen.
+Die Sendungsverfolgung zeigt seit zwei Tagen nur noch Übergabe an das Zustellunternehmen an.
+Warum kostet der Einschreiben so viel mehr als ein normales Paket im Briefkasten?
+Der Lieferant hat vergessen anzuklopfen und das schwere Kartón einfach vor die Tür gelegt.
+Unsere Firma sucht dringend einen Partner für den Import von Bauteilen aus Italien.
+Das Zollformular war falsch ausgefüllt, deshalb bleibt meine Ware noch zwei Wochen stehen.
+Ich schwöre, dass ich die Adresse doppelt geprüft habe bevor ich auf Versenden geklickt habe.
+Die Spedition meinte, das Lager sei voll und könne unsere Ladung erst nächste Woche annehmen.
+Die Lieferkette für Elektronikartikel ist aktuell durch die Chipknappheit extrem gestört.
+Mein Nachbar hat das Paket angenommen, obwohl explizit daraufhin gewiesen wurde dass ich nicht da bin.
+Wir müssen die Frachtversicherung für den nächsten Transportauftrag über 50.000 Euro abschließen.
+Das Paket war bei der Zustellung schonmal beschädigt, ich muss sofort reklamieren.
+Die Zolldokumente fehlen noch, bis wir sie haben geht nichts raus vom Hafen.
+Ich hasse es, wenn ich zur Arbeit fahren muss nur um das Sendungsstück abzuholen.
+Der Expressversand ist zwar teuer, aber ich brauche den Vertrag wirklich bis morgenvormittag.
+Unsere Logistikabteilung optimiert gerade die Routenplanung um Treibstoffkosten zu sparen.
+Hat jemand eine Ahnung welche Steuern beim Import von Sneakers anfallen?
+Die Gurtbandrolle auf dem Paket war abgerissen, da bin ich erstmal skeptisch geworden.
+Ich habe den Zustellversuch nicht bemerkt weil ich im Homeoffice war und nichts gehört habe.
+Die Containerfracht aus Asien kommt verspätet an, das wirkt sich auf alle Nachfolgewaren aus.
+Bitte gib das Dokument nicht als normales Paket auf, es ist dringend und wichtig.
+Der Fahrer hat mich angerufen und gefragt ob ich den Termin um eine Stunde verschieben kann.
+Die Lagerbestände sind niedrig, wir sollten bald nachordern bevor die Lieferzeit steigt.
+Ich warte jetzt schon drei Wochen auf meinen Online-Bestellung aus dem Ausland.
+Die customs clearance dauert bei diesem Hersteller immer länger als bei anderen Lieferanten.
+Mein Paket ist seit gestern im Umschlagzentrum festgefahren.
+Die Sendungsverfolgung zeigt immer noch den alten Status an.
+Ich muss morgen früh zum Postfilialen gehen um es abzuholen.
+Der LKW stand schon um acht vor der Tür mit der Ladung.
+Hast du die Frachtpapiere schon für die Containerabholung unterschrieben?
+Das Paket kam komplett zerschlissen bei mir an der Haustür an.
+Die Lieferzeit von zwei Tagen wurde leider nicht eingehalten.
+Wir müssen den Zoll noch bis Freitag mit den Unterlagen absprechen.
+Kannst du kurz nachschauen ob das Teil bereits versandt wurde?
+Der Lagerbestand ist durch den hohen Absatz komplett aufgebraucht.
+Meine Bestellung liegt schon seit drei Tagen beim Kurierdienst rum.
+Die Rücksendung war deutlich teurer als der ursprüngliche Versandpreis.
+Ich hab den falschen Liefercode eingetippt und jetzt geht nix mehr.
+Die Spedition hat leider keinen Zeitfenster für die Lieferung reserviert.
+Es fehlt noch eine Quittung für die Zollabfertigung des Imports.
+Das Kartons war richtig stark beschädigt als ich es ausgepackt hab.
+Kann ich die Lieferung auf den nächsten Werkstag verschieben lassen?
+Die Lieferkette im Osten wird durch die Streiks ausgebremst.
+Ich suche jemanden der mich beim Onlineversand kleiner Mengen unterstützt.
+Der Paketbote hat vergessen die Abholung zu bestätigen und ist weg.
+Mein Amazonpaket liegt seit dem Mittagessen noch immer bei DHL rum.
+Die Lagerhaltungskosten sind in diesem Quartal wieder deutlich gestiegen.
+Habt ihr schon geprüft ob die Ware zollfrei eingeführt werden kann?
+Ich muss den Trackingcode nochmal kopieren weil er nicht scannt.
+Das Expressstück kam pünktlich am nächsten Morgen direkt an mir vorbei.
+Mein Paket ist seit zwei Wochen in der Mitte Deutschlands und bewegt sich gar nicht mehr.
+Hast du den Versandcode schon? Ich muss das Teil heute noch zurückbringen.
+Die Firma liefert nur bis ans Haus, die Trageleistung ins zweite Stockwerk kostet extra.
+Im Lager fehlt wieder mal die ganze Palette, da müssen wir erst von Österreich holen.
+Der Zoll hat meine Bestellung überprüft und nun will er noch eine Ursprungszeugnis.
+Ich habe vergessen den Abholschein mitzunehmen, das ist echt nervig jeden Tag vorbei zu kommen.
+Kannst du prüfen ob dieser Frachtbrief schon zugestellt wurde oder hakt es irgendwo?
+Bei so großen Mengen macht sich ein LKW-Transport deutlich besser als einzelne Sendungen.
+Das Etikett war abgerissen, deshalb wusste der Zusteller gar nicht wohin das gehört.
+Wir müssen die Zolldokumente vorab einreichen sonst steht die Ware Tage lang rum.
+Meine Nachbarn haben mein Paket mitgenommen weil ich den ganzen Tag nicht zu Hause war.
+Die Lieferzeiten aus Asien sind aktuell wegen des Hafenstreiks extrem verlängert.
+Hör auf mir zu sagen es kommt morgen, das habe ich jetzt schon drei Mal gehört.
+Der Spediteur garantiert zwar Pünktlichkeit aber bei dieser Witterung ist alles schwierig.
+Ich muss schnellstens einen Nachnahmeversand machen denn der Kunde zahlt erst beim Erhalt.
+Das Paket war ganz zerdrückt und die Ware darin leider völlig kaputtgegangen.
+Wir lagern das jetzt vorerst in einer Zwischenstation bis der Platz im Hauptlager frei ist.
+Warum dauert die Retoure so lange? Ich habe den Artikel doch letzte Woche schon abgegeben.
+Die Tracking-Informationen sind komplett durcheinander, mal steht München dann plötzlich Hamburg.
+Ich brauche eine Rechnung für die Zollgebühren, die kommen dieses Jahr auf mich zu.
+Es gibt einen Lieferstau im Depot, wahrscheinlich werden viele Sendungen heute nicht rausgehen.
+Kann ich die Zustellung kurz verschieben? Ich bin bis Freitag im Urlaub weg.
+Der Fahrer hat angerufen und gesagt er habe das Ding doch noch gefunden.
+Mein Paket wurde fälschlicherweise für zugestellt markiert, obwohl nichts da ist.
+Der Zoll hat meine Bestellung wegen der fehlenden Rechnung wieder eingesandt.
+Ich hoffe mal dass das Teil heute noch bei mir vor der Tür steht.
+Die Spedition meinte einfach das wir den Container selbst abholen müssen.
+Warum dauuert die Expresslieferung eigentlich doppelt so lange wie versprochen.
+Mein Nachbar hat das Paket angenommen und es seht immer noch bei ihm.
+Für den Export brauchen wir dringend eine gültige Ursprungsbescheinigung.
+Das Lager ist voll und neue Ware kann einfach nicht mehr reinkommen.
+Ich habe dreimal nachgebucht aber der Zusteller kam trotzdem nicht vorbei.
+Kannst du mal schauen ob die Sendung schon den Hafen verlassen hat.
+Es war ein klarer Fehler bei der Artikelnummer deshalb ist es zurückgegangen.
+Wir müssen die Lieferfrist um zwei Wochen verlängern wegen Materialmangel.
+Das Paket ist beschädigt angekommen und der Deckel klappert einfach nur so.
+Ich habe keine Zeit für diese lästige Zustellmitteilung am Wochenende.
+Die Zolldaten müssen vorher genau geprüft werden sonst gibt es Bußgelder.
+Endlich ist die lange Lieferkette wieder stabil nach den Störungen im Osten.
+Ich brauch unbedingt eine Lieferscheinkopie weil ich nichts bei mir habe.
+Die Rücksendeetikette war leider abgefallen und jetzt weiß ich nicht weiter.
+Am Flughafen steht unsere Fracht schon seit drei Tagen rum ohne Bewegung.
+Du solltest direkt ein Mahnschreiben schreiben wenn die Ware nicht kommt.
+Das Tracking ist einfach kaputt und zeigt nur noch einen Fehler an.
+Wir haben den Termin verpasst weil der Fahrer sich verschlafen hat apparently.
+Die Einfuhrquote wurde überschritten und deshalb zollen wir mehr als geplant.
+Das Paket wurde anscheinend an der falschen Adresse zugestellt.
+Ich muss morgen zum DHL Paketshop hinlaufen, keine Ahnung warum.
+Die Sendungsverfolgung zeigt immer noch in Lagerung, das ist nervig.
+Mein Bruder hat mein Amazon Paket aus Versehen mitgenommen.
+Wir brauchen dringend einen LKW für den Umzug nach Berlin.
+Der Zoll hat meine Bestellung zurückgewiesen wegen fehlender Dokumente.
+Es ist so ärgerlich wenn der Boten nur die Quittung hinterlässt.
+Die Lagerverwaltungsoftware aktualisiert sich ständig von selbst.
+Die Lieferfrist von drei Tagen wurde mal wieder überschritten.
+Ich muss die Rechnung für die Nachnahme sofort begleichen.
+Die Palette war komplett falsch gelabelt und ging in die falsche Richtung.
+Frachtversicherungen sind bei empfindlichen Waren einfach ein Muss.
+Mein Päckchen ist wieder zum Absender zurückgesendet worden.
+Die Spedition hat mir gestern erst gesagt dass es spät wird.
+Ich habe den Versandbrief schon drei Mal neu geschrieben.
+Der Hafenarbeiter war heute besonders freundlich beim Abladen.
+Zolltarifen ändern sich ja ständig, da muss man aufpassen.
+Mein Online Shop liefert endlich auch wieder nach Österreich.
+Die Zustellzone wird erst abends freigegeben durch die App.
+Wir müssen das Retourenlabel ausdrucken und an das Paket kleben.
+Der Container ist schon seit zwei Wochen in Hamburg festgemacht.
+Kann ich die Lieferung auf einen anderen Termin verschieben?
+Die Frachtkosten sind diesen Monat wieder deutlich gestiegen.
+Mein Nachbar hat das Paket im Regen liegen lassen, typisch.
+Mein Paket liegt schon seit Dienstag am Nachbarhaus, total nervig.
+Ich muss heute noch schnell zum DHL-Packshop wegen meiner Bestellung.
+Warum kommt mein Amazon-Paket nicht an obwohl die App geliefert sagt?
+Die Lieferung ist wieder ausgefallen, weil der Fahrer krank war.
+Kannst du das als Sendung aufgeben? Ich habs schon eingepackt.
+Mein Großvater hat mir eine alte Postkarte aus Schweden geschickt.
+Die Spedition braucht ewig für den Transport, das ist kein Luxusdienst.
+Ich brauche die Tracking-Nummer um zu sehen wo mein Paket gerade steht.
+Zollfreigabe dauert bei meiner aktuellen Bestellung schon die ganze Woche.
+Hast du gesehen dass meine Sendung in Hamburg gestaut war gestern?
+Der Zusteller hat vergessen zu klingeln und einfach nur einen Zettel gelegt.
+Wir müssen die Ware bis morgen früh ins Lager bringen sonst zahlen wir Strafzinsen.
+Ich bestelle lieber bei Händlern aus der EU damit keine Zollgebühren kommen.
+Das Paket ist beschädigt angekommen, da muss ich sofort reklamieren.
+Mein Kollege schickt mir immer Pakete von seiner Dienstreise nach Hause.
+Die Lieferkette für unsere Elektronikteile kommt komplett aus Asien heutzutage.
+Kann ich das Paket auch gegen Aufpreis expressversand wählen statt Standard?
+Ich hab vergessen meine Signatur beim Empfang zu setzen, blöd gelaufen.
+Der Frachtführer hat die Ware falsch etikettiert, jetzt steht sie in Frankfurt.
+Bitte lass mich wissen sobald dein Päckchen bei mir ankommt ich freu mich.
+Zölle auf Kleidung sind ärgerlich wenn man nur ein T-Shirt bestellt.
+Ich habe die Rechnung für die Nachnahme nicht mehr gefunden wo ist sie?
+Die Expresszustellung hat geklappt obwohl der Fahrer den falschen Weg nahm.
+Wir sollten unser Lager aufstocken bevor die Weihnachtssaison wirklich losgeht.
+Das Paket ist wieder an der falschen Adresse gelandet.
+Ich muss mal schauen ob die Sendung schon zugestellt wurde.
+Die Spedition ruft seit Wochen nicht zurück total ärgerlich.
+Meine Bestellung aus Italien kam ohne Zollgebühren an.
+Kann ich das Ding auch zur Filiale bringen statt abholen?
+Das Tracking aktualisiert sich schon seit zwei Tagen nicht mehr.
+Wir haben die Ware gestern Abend im Lager entladen.
+Der Fahrer hat mich gar nicht erst angerufen vorher.
+Ich bezahl extra für den Expressversand und warte doch.
+Die Zolldokumente waren komplett falsch ausgefüllt beim Importeur.
+Wo liegt denn mein Abholschein im Postfach?
+Die Lieferkette ist durch die Hafenblockade gestoppt.
+DHL hat das Paket einfach vor der Tür abgestellt.
+Ich brauch eine Rücksendelabel weil der Artikel defekt ist.
+Das Zollverfahren für Elektronik aus Asien dauert lange.
+Die Spedition verspricht Lieferung bis Freitag morgen wieder.
+Mein Nachbar hat mein Paket mitgenommen ohne Nachfrage.
+Wir müssen die Frachtrechnung für den Seefracht noch prüfen.
+Der Zusteller steht gerade vor der Tür ich geh mal runter.
+Warum kostet der Rückversand mehr als die ursprüngliche Lieferung?
+Die Ware liegt seit Wochen auf dem Lagerplatz in Hamburg.
+Ich habe die Benachrichtigung erst drei Tage später bekommen.
+Das Paket ist zu schwer für den Briefkasten geworden.
+Kann jemand kurz schauen ob die Sendung im System ankommt?
+Die Zollabfertigung wurde wegen unklarer Angaben verzögert.
+Das Paket ist wieder falsch zugestellt worden, da steht nur ein Zettel.
+Ich muss morgen zum Schalter, weil die Post den Brief nicht zugestellt hat.
+Die Sendungsverfolgung zeigt seit gestern nichts mehr an, das nervt echt.
+Hat schon mal jemand was über den Zoll für Elektrogeräte aus der EU gehört?
+Unser Lager ist voll, wir müssen dringend noch Platz schaffen bis Friday.
+Der Lieferdienst kam heute Vormittag, aber ich war leider im Meeting.
+Kannst du kurz checken ob die Rechnung beim Versand schon bezahlt wurde?
+Die Lieferung kam beschädigt an, da fehlt gleich mal eine Ecke am Karton.
+Ich hab den Abholschein per SMS bekommen, fahre später hin.
+Das Frachtführer-Update kam drei Tage zu spät, alles lief schief.
+Mein Kollege musste den Import selbst anmelden, weil die Agentur Zeit hatte.
+DHL ist heute wieder ausgefallen, alle warten jetzt auf Ersatzlieferungen.
+Wir brauchen für den Export neue Papiere, sonst steht das im Zoll fest.
+Die Spedition hat den Lkw zu spät geschickt, jetzt kommt es morgen erst.
+Ich hab vergessen die Packliste mitzugeben, hoffe dass es reicht so.
+Das Paket wurde bei meiner Nachbarin abgegeben, obwohl ich Adresse angegeben habe.
+Der Versand war gratis ab 50 Euro, das lohnt sich immer wieder.
+Unsere Lieferkette ist stabil, trotzdem prüfen wir alle Wochen die Bestände.
+Ich muss das Dokument einscannen, bevor ich es per Fax abschicken kann.
+Der Kurier hat mich angerufen und gesagt er kommt gleich nochmal vorbei.
+Beim Online-Shop steht die Lieferzeit falsch, jetzt warte ich schon zwei Tage.
+Die Frachtkosten sind gestiegen, wir müssen unsere Preise anpassen oder umstellen.
+Kannst du den Abholschein gegen einen anderen tauschen? Der alte war weg.
+Das Lagerpersonal hat heute Streik, keine Lieferungen bevor es regnet vielleicht.
+Mein Paket ist wieder nicht zugestellt worden obwohl ich da war.
+Ich muss heute Nachmittag zum Paketshop um das Ding abzuholen.
+Die Lieferzeit von drei Tagen hat diesmal tatsächlich gepasst.
+Hast du den Sendungscode schon an mich gesendet für die Verfolgung?
+Beim Zoll ist meine Bestellung hängengeblieben weil ich die Dokumente fehlen lassen.
+Die Spedition kommt heute wahrscheinlich nicht mehr wegen des Streiks.
+Ich brauche dringend einen Frachtbrief für diesen großen Möbeltransport.
+Das Lager war komplett leer als wir gestern nachfragen wollten.
+Kannst du das Paket nochmal umleiten zur neuen Adresse?
+Der Zusteller hat wieder nur die Mitnahmezettel hinterlassen ist zum Kotzen.
+Wir müssen die Exportgenehmigung für diese Waren noch rechtzeitig beantragen.
+Die Lieferkette stockt seit Wochen wegen der Containerengpässe.
+Mein Nachbar hat das Paket angenommen obwohl nichts darauf stand.
+Ich suche eine günstige Alternative zu DHL für internationale Sendungen.
+Die Zollgebühr war viel höher als auf der Website angezeigt.
+Kann ich das Retourengut selbst zur Post bringen oder muss es abgeholt werden?
+Das Tracking-System zeigt immer noch die letzte Station an obwohl drei Tage vergangen sind.
+Wir brauchen einen neuen Lieferanten weil die aktuellen Preise zu hoch sind.
+Der Fahrer war pünktlich und hat sogar die Treppe hochgetragen.
+Mein Paket wurde anscheinend verloren weil es seit einer Woche nicht aktualisiert wird.
+Die Frachtkosten für diese schwere Ladung sind wirklich ins Auge gesprungen.
+Ich habe den Abholcode per SMS bekommen und kann gleich vorbeischauen.
+Bitte gib an dass es sich um eine Musterlieferung handelt für den Zoll.
+Ich hab die Tracking-Nummer verloren und kann den Sendungsstatus nicht mehr nachverfolgen.
+Der Lieferant war heute morgen pünktlich da, das muss ich sagen.
+Mein Paket liegt seit zwei Tagen im Zustellzentrum rum ohne Bewegung.
+Ich muss die Ware erst zollfreigeben lassen bevor sie nach Hause kommt.
+Der LKW ist im Stau gefangen und wird wohl erst abend da sein.
+Hast du schon den Abholschein ausgedruckt oder machst du das online?
+Die Lagerbestände waren knapp, deshalb mussten wir von einer anderen Filiale bestellen.
+Ich hab das falsche Gewicht angegeben und muss noch Nachzahlung leisten.
+Das Paket war ganz zerknautscht, der Karton hat kaum noch gehalten.
+Kann ich die Lieferung auf einen späteren Zeitpunkt verschieben?
+Die Spedition braucht immer zwei Werktage für den innerstädtischen Transport.
+Mein Nachbar hat das Paket angenommen, obwohl es mein Name draufsteht.
+Ich finde die neue Verpackung von Amazon viel nachhaltiger als früher.
+Der Zoll hat meine Bestellung aus Japan angehalten und fragt nach Details.
+Es ist so mühsam jedes Mal einen neuen Versandbeleg drucken zu müssen.
+Die Lieferkette funktioniert wieder normal nachdem die Hafenstreiks vorbei sind.
+Ich brauch den Lieferschein für die Rechnung, sonst geht das nicht durch.
+Der Zusteller hat heute schon zum dritten Mal vorbeigekommen ohne Erfolg.
+Mein Großvater bestellt immer noch per Postkarte statt online einzukaufen.
+Die Frachtkosten haben sich plötzlich verdoppelt, das ist doch verrückt.
+Ich hab den falschen Ort eingegeben und das Paket kommt zur Nachbarstadt.
+Der Lagerist konnte das Teil nicht finden, es war falsch eingelagert.
+Kannst du mir kurz helfen den Karton zu verpacken? Das Klebeband geht raus.
+Es dauerte Wochen bis die Ersatzteile von Deutschland nach Brasilien kamen.
+Der Zusteller hat das Ding einfach wieder mitgenommen, ohne Notiz.
+Ich muss morgen früh um fünf aufstehen, damit das Paket kommt.
+Kannst du kurz schauen ob das Paket schon an der Haustür steht?
+Die Trackingnummer funktioniert bei dieser Firma absolut nicht richtig.
+Mein Nachbar hat das Paket angenommen, obwohl er gar nicht wohnt.
+Der Zoll wollte plötzlich extra Gebühren, die stehen nirgends drin.
+Wir haben die Ware gestern verladen, hoffentlich kommt sie pünktlich an.
+Das Lager ist total überfüllt, da finden wir kaum noch Platz.
+Ich bestelle immer lieber lokal, weil der Versand aus dem Ausland nervig ist.
+Die Sendung wurde wegen fehlender Dokumente zurückgewiesen, ärgerlich.
+Mein Chef will die Lieferzeiten drücken, das geht aber nicht.
+Hast du den Abholschein vom Paketshop schon abgeholt oder nicht?
+Die Lieferung kam mit einem Dellen im Karton an, echt peinlich.
+Ich muss die Rechnung erst bezahlen, bevor ich das Teil bekomme.
+Der Fahrer war pünktlich, aber der Lift in meinem Haus war kaputt.
+Unsere Exporte nach Frankreich laufen gerade glatter als erwartet.
+Bitte lass mich wissen sobald das Paket bei dir eingetroffen ist.
+Ich hab den falschen Absender angegeben, jetzt kommt alles zurück.
+Das Frachtgut wurde beschädigt, wir müssen eine Versicherungsklärung starten.
+Mein Paket schwebt schon seit zwei Wochen irgendwo in Leipzig.
+Kann man die Lieferung eigentlich nochmal umplanen, ich bin krank.
+Die Zollfreigabe braucht oft länger als die eigentliche Beförderung.
+Wir suchen einen zuverlässigen Spediteur für Transporte nach Polen.
+Das Paket steht schon seit gestern als zugestellt da, aber ich hab nix bekommen.
+Meine Bestellung kam leider ohne Rechnung, muss ich den Händler kontaktieren?
+Die Zustellung wird heute bis 18 Uhr erfolgen, ich sollte da sein.
+Der Zoll hat meine Sendung zurückgehalten, weil die Deklaration fehlte.
+Ich muss mal wieder zum Packstation rennen, der Briefkasten ist ja voll.
+Die Ware wurde beschädigt ausgeliefert, machst du bitte sofort ein Foto davon?
+Unsere Lagerbestände sind bei diesem Artikel fast komplett ausverkauft.
+Der Transportzeitraum für Schiffsfracht hat sich in letzter Zeit stark verlängert.
+Kann ich die Lieferung auf morgen verschieben, ich bin heute nicht da.
+Das Tracking-Update ist seit drei Tagen stehen geblieben, das nervt mich ungemein.
+Wir brauchen schnell ein neues Etikett für die Rücksendung des Defekts.
+Die Zollgebühren waren bei dem Kauf aus Italien wirklich überraschend hoch.
+Bitte hinterlassen Sie einen Zettel, wenn niemand zu Hause ist.
+Der LKW-Fahrer hat die Palette einfach vor der Tür abgestellt und gefahren.
+Unsere Lieferkette läuft aktuell wieder stabil nach den Störungen im Hafen.
+Ich hab die Sendungsnummer vergessen, wo finde ich sie denn nochmal in der Mail?
+Die Expressversandoption war zu teuer, deshalb habe ich mich für Standard entschieden.
+Bitte überprüfen Sie die Artikel auf Vollständigkeit vor der Unterschrift am Lieferschein.
+Das Paket ist zu groß für den Briefkasten, es muss abgeholt werden.
+Wir haben Probleme mit der Kapazitätsplanung im Logistikzentrum zur Spitzenzeit.
+Der Lieferant hat den Termin nicht eingehalten, das Projekt verzögert sich jetzt.
+Muss ich bei der Abholung am Schalter meinen Ausweis mitbringen?
+Die Rücksendelabel-Anleitung war unklar, ich habe jetzt doppelt bezahlt für die Porto.
+Kannst du kurz prüfen, ob unsere Bestellung aus dem Lager schon raus ist?
+Das Paket ist zwar angekommen, aber die Tüte war bereits vor der Zustellung offen.
+Mein Paket ist angeblich zugestellt worden aber ich hab nix bekommen.
+Die Versandnummer wurde schon wieder nicht korrekt übergeben.
+Kannst du mir mal den Tracking Link schicken? Ich warte schon ewig darauf.
+Das Lager hat mein Retourpaket bis heute nicht akzeptiert.
+Zollfreigabe dauert bei diesen Mengen leider mindestens drei Werktage.
+Ich muss die Sendung morgen früh gegen 17 Uhr abholen gehen.
+Der Zusteller hat das Paket einfach auf die Treppe gestellt.
+Unsere Lieferkette bröckelt seit Wochen durch diese Lieferengpässe.
+Bitte nicht in den Briefkasten werfen, der ist viel zu klein.
+Die Frachtrechnung kam komplett überraschend und ist absurd hoch.
+Ich hoffe das Teil übersteht den Transport ohne große Dellen.
+Die Spedition meldet sich erst wieder nächste Woche zum Thema Abholung.
+Mein Bruder hat mein Paket versehentlich beim Nachbarn abgeholt.
+Für internationale Sendungen brauchen wir immer eine genaue Warenbeschreibung.
+Die Lieferung kam einen Tag zu früh, da war ich leider auf Dienstreise.
+Kann man den Boten per App umleiten wenn man nicht da ist?
+Das Retourenlabel war total unleserlich und der Barcode knallte ab.
+Mein Chef meckert wegen der verspäteten Lieferung von Rohmaterialien.
+Ich hab den falschen Ort eingegeben und jetzt läuft das rum wie wild.
+Soll ich die Sendung als empfangen markieren oder noch warten?
+Der LKW stand schon drei Stunden vorm Tor, niemand hat geladen.
+Meine Mutter kann nicht verstehen warum sie für Porto zahlen muss.
+Die Zollbescheinigung liegt noch im Aktenordner von letztem Jahr rum.
+Ich bin total genervt weil meine Sendung seit Wochen in Hamburg feststeckt.
+Das Paket liegt schon seit zwei Tagen am Sperrholz.
+Mein Nachbar hat die Sendung aus Versehen angenommen.
+Die Zollliste muss man wirklich genau ausfüllen sonst kommt nichts an.
+Wir lagern gerade alles um wegen der neuen Vorschriften.
+Der Lieferant war pünktlich aber das Regal passte nicht durch die Tür.
+Ich warte schon ewig auf den Tracking Code von dem Online Shop.
+Kann jemand mal kurz beim Paketshop vorbeischauen und das holen?
+Die Frachtrechnung war diesmal echt kräftiger als im letzten Jahr.
+Mein bestelltes Gerät kam leider kaputt in der Plastikhülle an.
+Wir müssen die Lieferketten dringend diversifizieren wegen der politischen Lage.
+Das Briefstück ist auf dem Postweg verloren gegangen ohne jede Spur.
+Der Speditionsfahrer hat mich angerufen weil der Aufzug zu klein war.
+Zollabfertigung dauerte bei mir genau fünf Werktage was recht gut ist.
+Wir brauchen mehr Lagerfläche im Süden sonst geht nichts mehr rein.
+Mein Paket wurde fälschlicherweise als zugestellt markiert obwohl ich weg war.
+Kannst du bitte die Rechnung an den Vertriebsleiter weiterleiten?
+Der Container kam mit zwei Tagen Verspätung am Hafen an.
+Ich habe den Abholschein im Briefkasten gefunden aber keinen Code bekommen.
+Die Ware wurde vom Zoll zurückgewiesen weil die Beschriftung fehlte.
+Wir optimieren gerade die Routen für die letzte Meile in der Stadt.
+Mein Geschenk ist leider noch nicht angekommen und ich muss es morgen schenken.
+Der LKW Fahrer war super freundlich und hat alles sauber abgestellt.
+Zollunterlagen fehlen oft bei Kleingebinden was dann zum Stillstand führt.
+Das Paket kam zwar an aber die Schachtel war komplett zugeknickt.
+Das Paket hat schon wieder den falschen Stempel bekommen.
+Ich warte schon seit zwei Wochen auf meine Bestellung.
+Der Zusteller klingelt nie obwohl ich da bin.
+Mein Freund hat mir eine Tüte mit Briefen geschickt.
+Die Lieferung kam beschädigt an, das ist ärgerlich.
+Muss ich beim Abholen einen Ausweis mitbringen?
+Das Lagerhaus war heute voll mit Kisten und Paletten.
+Der Zoll hat meine Sendung zurückgehalten, kein Plan warum.
+Ich hasse es wenn die Post mein Paket verliert.
+Die Spedition hat versprochen dass es bis Freitag kommt.
+Warum kostet der Versand mehr als der Artikel selbst?
+Ich habe den Abholschein im Briefkasten gefunden.
+Meine Bestellung ist im Transit nach Österreich unterwegs.
+Der Lieferant steht schon vor dem Haus, ich hole raus.
+Bei dieser Firma ist die Kommunikation total schlecht gelaufen.
+Das Dokument fehlt noch für die Zollabfertigung.
+Kannst du kurz beim Nachbar abfragen ob das Paket da ist?
+Die Lieferzeit von zwei Wochen war leider unrealistisch.
+Ich muss das Ding noch heute zur Post bringen.
+Der Trackingservice zeigt nur dass es versendet wurde.
+Mein Kollege organisiert die Logistik für den ganzen Süden.
+Das Paket roch irgendwie streng, ich trau mich nicht aufzumachen.
+Wir brauchen dringend Ersatzteile aus dem Ausland bestellt.
+Die Rechnung vom Spediteur ist viel zu hoch geraten.
+Ich vermissen meine alte Bestellung schon sehr stark.
+Der Botengänger war pünktlich wie immer am Morgen.
+Wo ist mein Paket denn geblieben, die Tracking Seite zeigt nichts an.
+Ich hab wieder ein Schreiben vom Zoll bekommen wegen der Zolleinheit.
+Die Spedition hat vergessen dass ich keinen Laderaum habe.
+Kannst du das bitte als Nachnahme aufgeben? Ich zahle am Ende.
+Mein Paket wurde fälschlicherweise als zugestellt markiert, ich war weg.
+Wir müssen die Lieferketten diversifizieren um solche Engpässe zu vermeiden.
+Der Lagerbestand ist bei uns momentan komplett im Minus.
+Ich muss morgen wieder zur Post rennen weil das Paket da liegt.
+Die Frachtkosten sind seit letztem Quartal nochmal deutlich gestiegen.
+Hat schon mal jemand erlebt dass ein Paket drei Monate unterwegs ist?
+Das Zollverfahren hat länger gedauert als die eigentliche Lieferung.
+Wir lagern jetzt alles extern um die eigenen Kapazitäten zu schonen.
+Mein Nachbar hat mein Paket mitgenommen obwohl ich ihm nicht kenne.
+Die Sendungsverfolgung zeigt nur noch den alten Status vom Montag.
+Bitte gib an dass keine Rücksprache nötig ist wenn niemand da ist.
+Der Container kam erst zwei Tage später als geplant am Hafen an.
+Ich brauche die Packliste für die Anmeldung bei der Bank.
+Das Paket war leicht beschädigt, aber der Inhalt ist okay.
+Wir suchen dringend einen zuverlässigen Partner für den EU Versand.
+Die Zolldokumente fehlen leider immer noch in unserem System.
+Kannst du mir sagen wie lange die Expresslieferung ungefähr dauert?
+Mein Kollege musste heute nochmal zur Packstation fahren.
+Die Lieferfrist wurde wieder überschritten, ich werde beschweren.
+Wir müssen die Warenströme optimieren um Kosten zu sparen.
+Das Tracking Nummern Feld ist bei dieser Sendung leider leer.
+Ich habe das Paket heute Nachmittag endlich doch noch erhalten.
+Das Paket liegt schon seit zwei Tagen im Depot, obwohl es zugestellt werden sollte.
+Mein Nachbar hat meine Sendung unterschrieben, weil er sich vertippt hat.
+Die Lieferzeit von vier Wochen bei diesem Händler ist mir einfach zu lang.
+Ich muss dringend die Zollpapiere für den Import aus Italien besorgen.
+Der Zusteller war heute gar nicht erst in der Straße unterwegs gewesen.
+Kannst du kurz aufpaschen? Ich warte schon seit einer Stunde auf das Paket.
+Die Lagerbestände sind gerade wegen der hohen Nachfrage komplett leer gelaufen.
+Mein Versand war leider nicht versichert, jetzt muss ich wohl selbst zahlen.
+Speditionen arbeiten aktuell mit sehr langen Lieferzeiten bei Großspeditionsverkehr.
+Ich habe den Tracking-Code kopiert und in die App eingetippt.
+Das Frachtgut ist bei der Überfahrt leider feucht geworden, was ärgerlich ist.
+Warum dauert es so lange, bis das Paket vom Ausland hier ankommt?
+Ich muss noch einen Lieferschein unterschreiben, bevor ich die Ware abhole.
+Der Briefkasten war voll, daher blieb die Rechnung einfach auf der Matte liegen.
+Unsere Lieferkette ist durch die Schließung des Hafens momentan stark gestört.
+Kann ich das Paket auch am Wochenende gegen Aufpreis liefern lassen?
+Die Zollabfertigung hat drei Tage gedauert, was wirklich ungewöhnlich lang war.
+Mein Kollege hat den falschen Barcode gescannt, nun liegt alles falsch im Lager.
+Ich brauche eine Bescheinigung über die Abholung für meinen Arbeitgeber morgen.
+Der Expressversand ist zwar teuer, aber dafür kommt es noch heute an.
+Wir müssen die Frachtkosten für die Rücksendung erst einmal selbst übernehmen.
+Die Sendung wird gerade in einem anderen europäischen Land weitergeleitet.
+Ich finde den Zustelldienst hier unglaublich unzuverlässig und total nervig.
+Kann jemand mal schauen, ob mein Paket schon bei der Post liegt?
+Die Importzölle haben sich plötzlich erhöht, dadurch ist alles teurer geworden.
+Das Paket kam wieder beschädigt an, der Karton war ganz zerdrückt.
+Ich muss den Abholschein ausdrucken, bevor ich zur Post gehe.
+Die Sendung ist laut Tracker erst gestern in Hamburg angekommen.
+Warum dauert die Lieferung aus Italien so lange bei DHL?
+Mein Nachbar hat das Paket angenommen, weil ich nicht da war.
+Die Zollabfertigung hat mich nochmal extra zwei Euro gekostet.
+Ich brauche dringend ein Sendungsnummer für diese Rechnung.
+Der Zusteller hat mir keinen Zettel hinterlassen, wirklich nervig.
+Bei Amazon Prime kommt alles immer pünktlich zum vereinbarten Termin.
+Kann man die Lieferung auf einen anderen Tag verschieben lassen?
+Die Spedition verlangt jetzt plötzlich Nachgebühren für das schwere Gut.
+Ich warte schon seit einer Woche auf meine Bestellung online.
+Das Paket liegt im Paketshop, ich hol es später ab.
+Wir müssen die Exportdokumente noch vor Feierabend fertigstellen.
+Mein Päckchen ist irgendwie vom Pfad abgewichen, komisch.
+Der Lieferschein stimmt nicht mit der Ware überein, da fehlt was.
+Ich habe den Brief bereits mit Einschreiben versendet, sicherheitshalber.
+Die Lagerbestände sind wegen der hohen Nachfrage komplett leer.
+Mein Paket ist schon wieder zur Sendezentrale zurückgewiesen worden.
+Die Zollianmeldung wurde abgelehnt, ich muss Unterlagen nachreichen.
+Ich finde es nervig, wenn der Bot nur klingelt und dann geht.
+Unser Lager ist voll, wir müssen dringend neuen Raum schaffen.
+Hast du gesehen dass mein Paket schon wieder als zugestellt markiert ist?
+Ich hab den Paketboten verpasst und muss heute doch wieder zum Abholpunkt laufen.
+Die Spedition meldet sich seit Tagen nicht zurück obwohl die Ware längst angekommen sein sollte.
+Beim Zoll kam mein Paket aus Übersee komplett durch weil nichts zu bemängeln war.
+Kann ich die Lieferung eigentlich auch an eine Paketstation in der Innenstadt umleiten lassen?
+Das Lager ist voll und die neuen Palletten passen einfach nicht mehr rein.
+Mein Nachbar hat das falsche Paket angenommen und jetzt weiß er nicht wohin damit.
+Die Lieferkette für Elektronikteile ist durch die Hafenstreiks extrem verzögert worden.
+Ich brauche dringend die Zollpapiere für die Exportware nach Frankreich.
+Der Zusteller war heute wieder zu früh unterwegs als ich noch schlief.
+Mein Geschenk ist zwar angekommen aber die Verpackung war leider total zerdrückt.
+Die Sendungsverfolgung zeigt immer noch dass das Paket in Bonn steht.
+Hast du schon eine Abholung beim Zoll beauftragt oder machst du das selbst?
+Das Paket fehlt im Lager und wir suchen jetzt verzweifelt nach der Spur.
+Ich würde es lieber per DPD schicken weil die bei mir pünktlich sind.
+Die Frachtpreise sind in letzter Zeit wieder kräftig gestiegen für alle Transportwege.
+Kann ich meine Adresse ändern nachdem ich den Artikel schon bestellt habe?
+Der LKW stand vor meinem Haus und niemand hat das Ding abgeladen.
+Ich muss die Güterabfertigung noch einmal checken bevor wir alles versenden.
+Die Lieferzeit von zwei Tagen hat sich nicht eingehalten bekommen leider.
+Mein Bruder hat das Paket vom Nachbarn abgeholt weil ich im Urlaub war.
+Das Zollverfahren zieht sich hin weil Unterlagen nachgereicht werden müssen.
+Wir brauchen dringend Platz im Lager da die neue Lieferung schon vor der Tür steht.
+Der Brief ist zwar schnell unterwegs aber das Porto war diesmal ziemlich teuer.
+Das Paket steht schon wieder seit drei Tagen im Zustellgebiet rum.
+Hast du mal geprüft ob der Empfänger doch nicht geradeUrlaub macht?
+Die Sendungsverfolgung zeigt nur noch auslieferbar an was soll das jetzt heißen.
+Mein Kollege muss morgen früh den ganzen Tag am Packtisch verbringen.
+Der Zoll hat meine Bestellung gestoppt und will plötzlich noch Nachweise sehen.
+Wir brauchen dringend einen neuen Spediteur der pünktlicher liefert als bisher.
+Ist es möglich die Rechnung auf die Kosten der Abteilung umzulegen?
+Das Label war abgerissen und niemand weiß wer das Ding eigentlich ist.
+Die Lieferkette funktioniert aktuell gar nicht mehr wegen des Streiks.
+Kann ich das auch gegen Vorkasse kaufen oder nur per Überweisung im Voraus?
+Mein Nachbar hat wieder mal mein Paket mitgenommen obwohl er gar nichts bestellt hat.
+Die Lagerbestände müssen bis Freitag endgültig aktualisiert sein sonst wirds eng.
+Ich warte jetzt schon eine halbe Stunde auf den Kurier der kommt aber nicht.
+Bei internationalen Sendungen aus China dauert der Zoll durchgang immer ewig lange.
+Hast du die Abholung für morgen früh bestätigt oder wartest du noch ab?
+Die Spedition hat wieder falsche Daten geliefert und jetzt steht alles falsch im System.
+Bitte geben Sie das als Eilgut auf ich brauche das Dokument wirklich heute noch.
+Mein Paket ist anscheinend in einem Verteilerzentrum stecken geblieben ohne Grund.
+Der Zusteller hat einfach so ein Zettel liegen lassen dass er nicht da war.
+Wir müssen die Importlizenz für dieses Jahr endlich neu beantragen sonst geht nichts.
+Hast du schon mal probiert direkt beim Absender nachzufragen statt hier zu warten?
+Die Paketstation ist gerade überfüllt und ich finde meinen code im chaos nicht.
+Kannst du mir sagen ob das auch mit Retourenetikett zurückgeht oder nicht?
+Ich hab den Abholschein ausgedruckt aber die Maschine nimmt ihn irgendwie nicht an.
+Mein Paket ist wieder in Hamburg festgezurrt seit drei Tagen.
+Hoffentlich kommt die Lieferung heute noch an, ich werde gleich abholen.
+Die Packung war komplett kaputt, da kann man gar nichts mitfangen.
+Warum muss ich immer zum nächsten DHL-Paketshop laufen um das abzuholen?
+Der Fahrer hat mich nicht angerufen und einfach hingeschmissen.
+Ich suche verzweifelt die Sendungsnummer für diese Retourware hier.
+Die Zollabfertigung zog sich extrem in die Länge bei dieser Bestellung.
+Kannst du mir mal kurz den Frachtführer nennen, der dir liefert?
+Das Lager ist wieder leer, wir müssen dringend Nachschub bestellen.
+Mein Nachbar hat das Paket angenommen und einfach auf dem Tisch liegen lassen.
+Die Versandzeit aus China war diesmal gar nicht so schlecht eigentlich.
+Hast du schon den Abholschein gedruckt oder muss ich noch warten?
+Der Lieferant hat versprochen morgen vormittags zu liefern, mal sehen.
+Wir haben Probleme mit der Lieferroute, die Straße ist gesperrt.
+Das Paket war leicht beschädigt, aber der Inhalt glücklicherweise heil.
+Ich muss das Dokument noch elektronisch bei der Steuer einreichen.
+Die Spedition verlangt jetzt Nachgebühr für die Gewichtsabweichung beim Versand.
+Warum kommt mein Expresspaket immer zwei Tage später als erwartet an?
+Ich habe die Adresse falsch eingegeben, jetzt ist es im Umlauf.
+Die Lieferung war pünktlich, obwohl der Fahrer vorher versetzt hatte.
+Kann ich das Paket nochmal zurückhalten bis nächste Woche vielleicht?
+Der Zoll hat meine Sendung kontrolliert, weil der Wert zu hoch war.
+Wir optimieren gerade die Lieferkette, damit alles flüssiger wird.
+Das Etikett ist abgerissen, ich weiß gar nicht wessen das ist.
+Ich bestelle lieber online, da liefern sie direkt zur Haustür hin.
+Das Paket ist schon wieder nicht zugestellt worden, ich bin doch daheim gewesen.
+Ich muss dringend die Sendungsnummer für die Rücksendung im Shop eingeben.
+Der Zusteller hat das Ding einfach wieder mitgenommen, obwohl Platz war.
+Kannst du mal gucken ob meine Bestellung schon versendet wurde?
+Die Lagerbestände sind aktuell knapp, deshalb dauert die Lieferung etwas länger.
+Ich hab den QR Code vom Abholschein scannen müssen und dann abgeholt.
+Beim Zoll hat das Paket jetzt schon zwei Tage gestanden ohne Nachricht.
+Unsere Firma muss die Frachtbriefe für die Ausfuhren immer manuell prüfen.
+Das Regal im Lager ist komplett voll, wir brauchen dringend mehr Platz.
+Ich warte seit einer Woche auf mein Teil und der Status ändert sich nicht.
+Die Expresslieferung war teurer als gedacht aber wenigstens kam es pünktlich an.
+Wir haben Probleme mit dem LKW-Aufkommen in den Nächsten Wochen vor Feiertagen.
+Mein Nachbar hat das Paket angenommen, ich muss ihm nochmal was gönnen.
+Die Rückgabe im Filialen klappt immer besser als über die Postfiliale.
+Ich hab vergessen den Abholschein zu drucken und musste vor Ort bezahlen.
+Der Lieferant meldet sich nicht, obwohl die Ware schon längst fällig wäre.
+Wir müssen die Zollpapiere für den Import aus Italien nochmal aktualisieren.
+Das Paket ist beschädigt angekommen, da mache ich sofort einen Antrag auf Schadensersatz.
+Die Spedition hat uns gesagt dass die Lieferung heute nachmittags kommt.
+Ich sortiere gerade alle alten Rechnungspapiere und Versandbelege aus dem Archiv.
+Meine Bestellung wurde in zwei Teilen geliefert, was bei mir für Verwirrung sorgte.
+Der Zustellversuch gestern hat leider nicht geklappt weil ich im Büro war.
+Wir planen gerade den Umzug unserer Hauptlagerstätte ins nähere Ausland.
+Das Tracking zeigt an dass das Paket heute abend bei uns sein soll.
+Ich muss noch die Versicherung für den wertvollen Versand abschließen bevor es geht.
+Wo ist eigentlich mein Paket geblieben, die App zeigt nur noch nichts an.
+Die Fracht wird morgen im Lager eingelagert, bis der Zoll grünes Licht gibt.
+Ich muss dringend den Sendungscode aktualisieren, weil die Adresse falsch war.
+Der Spediteur meint, das Fahrzeug sei gestreikt, aber ich hab keine Bestätigung.
+Kannst du mal gucken ob die Lieferung heute noch kommt oder erst morgen?
+Das Zollverfahren hat wieder länger gedauert als erwartet, typisch bei Elektronik.
+Mein Nachbar hat das Paket angenommen, obwohl ich extra Absenderinfo hinterlassen hatte.
+Die Lieferkette für Rohmaterial aus Asien ist durch den Hafenstreik ins Stocken geraten.
+Ich habe drei Pakete aufgegeben und keins davon wurde bisher abgeholt.
+Wann kommt die nächste Lieferung von der Zentrale im Lager an?
+Das Paket hat eine Delle bekommen, glücklicherweise ist der Inhalt unversehrt geblieben.
+Wir müssen die Exportdokumente bis morgen früh fertigmachen, sonst geht es nicht raus.
+Der Fahrer kam zur falschen Zeit vorbei und hat nichts gelassen, total nervig.
+Meine Bestellung aus Italien liegt seit zwei Wochen noch im Transit.
+Die Spedition hat den Termin verschoben ohne vorher anzurufen, das ist inakzeptabel.
+Ich brauche dringend eine Rücksendebestätigung für den Garantieanspruch beim Händler.
+Das Zollformular war unvollständig, daher wurde die Sendung vorerst gestoppt.
+Kann ich mein Paket doch noch umleiten zum Nachbar, weil ich weg bin?
+Die Lagerkapazität ist fast voll, wir müssen schnellstens Ware nach Bestellen.
+Der Zusteller hat mich angerufen und gesagt, er kommt heute Abend vorbei.
+Mein Online-Shopping wurde storniert, weil der Artikel leider ausverkauft war.
+Die Frachtrechnung kam komplett überraschend an, das muss ich erst prüfen.
+Ich warte schon den ganzen Tag auf die Zustellung des schweren Möbelpakets.
+Das Rücksendelabel konnte ich nicht scannen, also hab ich es neu gedruckt.
+Das Paket war in der Filiale schon zwei Tage warten geblieben.
+Ich hab den falschen Abholschein mitgebracht und musste wieder nach Hause.
+Die Sendung kam leider beschädigt an, da muss ich was reklamieren.
+Unser Lager ist voll, wir müssen dringend die Logistik optimieren.
+Der Zoll hat meine Bestellung wegen der Zölle kurz zurückgehalten.
+Fracht aus Asien kommt oft später an als man denkt.
+Hat schon jemand Erfahrung mit dieser neuen Kurierfirma?
+Die Lieferkette brach durch den Sturm in Europa komplett zusammen.
+Ich muss das Dokument vorab für die Einfuhr deklarieren.
+Der Zusteller hat nur die Karte ins Haus gekippt.
+Kann ich die Lieferung auf morgen verschieben lassen?
+Die Spedition berechnet jetzt nach Volumen statt nach Gewicht.
+Mein Track and Trace zeigt seit gestern keine Änderung mehr an.
+Wir brauchen dringend einen neuen Vertrag mit dem Versanddienstleister.
+Das Paket wurde irrtümlich in München zugestellt statt hier.
+Importe aus Nicht-EU-Ländern sind immer nervig wegen der Papiere.
+Die Rücksendung war zum Glück kostenlos und unkompliziert geregelt.
+Unsere Lagerhallen wurden heute Nacht komplett umstrukturiert.
+Warum dauert die Zustellung bei DHL jetzt so lange?
+Ich brauche den Handelsnamen für die Zollanmeldung dringend.
+Der Lieferant hat wieder mal den falschen LKW gesendet.
+Meine Ware steckt seit Freitag in der Sortieranlage fest.
+Die Expressversandkosten sind gerade wirklich abschreckend hoch.
+Wir müssen die Frachtrouten wegen des Streiks neu planen.
+Das Paket liegt schon wieder bei der Post, ich werde mal anrufen.
+Die Lieferzeiten aus Asien sind momentan echt lange geworden, kein Wunder.
+Mein Nachbar hat fälschlicherweise mein Paket mitgenommen, das ist so peinlich.
+Wir müssen die Fracht noch bis Freitag vormittag beim Zoll anmelden.
+Der Lkw bleibt im Stau stecken, da wird die Lieferung heute nicht mehr kommen.
+Ich hasse es, wenn man nur an der Haustür klingeln und nichts sagen darf.
+Die Sendung ist apparently verloren gegangen, jetzt starte ich eine Schadensmeldung.
+Kannst du prüfen ob die Palette schon im Lager eingecheckt wurde?
+Das Tracking zeigt immer noch den alten Standort an, das nervt total.
+Wir haben Probleme mit der Zollfreigabe wegen fehlender Dokumente beim Import.
+Die Rücksendeetiketten drucken sich leider nicht ordentlich aus meinem Drucker.
+Heute ist wieder ein großer Containerzug aus Hamburg bei uns angekommen.
+Der Kurier hat vergessen zu klingeln und das Paket einfach hinter den Büschen abgelegt.
+Ich muss dringend die Versandadresse ändern bevor die Bestellung wirklich verschickt wird.
+Die Lieferkette für Elektroautos ist extrem komplex und anfällig für Unterbrechungen.
+Mein Paket wurde beschädigt ausgeliefert, ich mache sofort Fotos als Beweis.
+Können wir den Spediteur wechseln, die sind zu langsam und unzuverlässig.
+Der Zolldurchgang dauert oft länger als man denkt, besonders bei kleinen Sendungen.
+Ich warte schon seit zwei Stunden auf den Boten, der kommt bestimmt nicht mehr.
+Die Lagerkapazität ist fast erreicht, wir müssen schnellstens neues Raum finden.
+Schick mir bitte die Einlieferungsbestätigung zu, ich brauche das für die Abrechnung.
+Das Paket kam an einem Sonntag an, obwohl es eigentlich erst Dienstag sein sollte.
+Wir benötigen ein Zertifikat für die Lebensmittelimporte, sonst geht nichts durch den Zoll.
+Der Versand war deutlich teurer als ich dachte, das muss sich nicht lohnen.
+Kannst du mal schauen ob das Teil überhaupt noch auf Lager ist?
+Mein Paket wurde wieder als zugestellt markiert obwohl nichts da ist.
+Die Spedition kommt erst nächste Woche weil die Ware noch im Lager liegt.
+Ich muss beim Zoll nachweisen dass es sich um ein Geschenk handelt.
+Der Lieferschein fehlt auf dem Pallet und das macht totalen Stress.
+Kannst du mal prüfen ob die Sendung schon bei DHL angekommen ist?
+Die Lieferkette bricht zusammen wenn der Container in Hamburg steht.
+Wir brauchen einen festen Abholtermin für den Spediteur am Montag.
+Der Versand aus dem Ausland dauert immer viel länger als versprochen.
+Ich habe die Trackingnummer eingegeben aber der Status bleibt gleich.
+Die Palette muss noch gewichtet werden bevor sie auf das Auto geht.
+Bitte gib dem Packbote eine Nachricht dass er es an der Tür ablegt.
+Der Zoll hat meine Bestellung zurückgewiesen weil die Unterlagen fehlten.
+Unsere Lagerkapazität ist erreicht wir können aktuell keine neuen Ware annehmen.
+Das Paket war bei der Auslieferung zerquetscht und ich will Geld zurück.
+Kann man den Liefertermin selbst im App ändern oder muss ich anrufen?
+Die Frachtkosten für den Import aus Asien sind wieder gestiegen.
+Ich warte seit zwei Wochen auf meine Bestellung und niemand antwortet.
+Der Lkw stand schon vor dem Firmeneingang um sieben Uhr morgens.
+Wir müssen die Gefahrstoffdeklaration vor der Abgabe an den Spediteur ausfüllen.
+Mein Päckchen ist leider bei Post DHL verloren gegangen.
+Die Kommissionierung im Lager dauert heute länger weil das System hängt.
+Kann ich mein Paket einfach beim nächsten Paketshop abholen?
+Der Importeur muss die Einfuhrabgaben direkt an das Zollamt zahlen.
+Die Lieferadresse war falsch angegeben deshalb kam es zur Post zurück.
+Ich warte schon die ganze Woche auf meine Bestellung und bekomme keine Nachricht.
+Die Sendung wurde gestern in München sortiert und kommt bestimmt morgen an.
+Hast du den Paketboten bereits gesehen oder soll ich das einfach im Keller lassen.
+Mein Bruder arbeitet bei einer Spedition und kennt sich mit LKW Routen aus.
+Der Zoll hat meine Parfumes beschlagnahmt weil ich nicht richtig deklariert habe.
+Wir müssen die Ware bis Freitag ins Lager bringen sonst wird sie zurückgeschickt.
+Es nervt mich einfach dass das Paket schon wieder bei Hermes liegt.
+Kannst du mir den Tracking Code schicken damit ich wissen wann es kommt.
+Die Lieferung ist leider beschädigt angekommen und der Karton ist voll durchgeweicht.
+Bei internationalen Sendungen muss man immer mit zusätzlichen Gebühren rechnen.
+Ich habe vergessen den Abholschein für das Postfach mitzunehmen und stehe jetzt hier.
+Unser Lieferant hat wieder einmal die Mindestbestellmenge erhöht was uns stresst.
+Die Rücksendung war kostenlos aber ich musste trotzdem einen Aufkleber ausdrucken.
+Warum dauert die Zustellung in meinem Bezirk immer so lange am späten Nachmittag.
+Das Frachtführerunternehmen hat uns garantiert dass die Palette morgen früh da ist.
+Ich bestelle lieber online weil man die Lieferzeiten genau im Blick hat.
+Die Zollanmeldung war komplizierter als erwartet und es gab Nachfragen von der Behörde.
+Mein Paket steht schon seit drei Tagen am falschen Ort im Nachbarhaus.
+Wir brauchen eine zuverlässige Logistikfirma für den Export unserer Maschinen nach Polen.
+Der Brief ist unterwegs aber bisher gab es keine Statusaktualisierung im System.
+Kann jemand kurz mal schauen ob mein Paket schon in der Filiale eingetroffen ist.
+Die Lieferkette hat sich durch den Hafenstreik leider etwas verzögert und wir warten noch.
+Ich habe die Rechnung bezahlt aber die Ware kommt trotzdem nicht innerhalb der Frist.
+Meine Mutter lässt ihre Drogeriebestellungen immer zur Abholung ins Geschäft schicken.
+Der Spediteur verlangt für die schnelle Anlieferung extra Gebühren was doch viel ist.
+Das Paket war voll zerdrückt und nichts hat mehr vom Inhalt erkannt werden können.
+Paket liegt wieder bei Amazon Locker, ich hab null Zeit abzuholen.
+Der Lieferant hat heute schon zum dritten Mal versäumt anzukommen.
+Ich muss noch die Zollpapiere für den Import aus Europa unterschreiben.
+Meine Sendung ist seit einer Woche im Transit und bewegt sich nicht.
+Kannst du das Dokument als Einschreiben aufgeben? Ist ziemlich wichtig.
+Die Spedition hat die Palette falsch gelabelt, jetzt steht alles still.
+Ich habe mein Päckchen endlich heute Mittag vor der Tür entdeckt.
+Das Tracking zeigt an, dass es bereits zugestellt wurde, aber kein Türringe.
+Wir brauchen einen neuen Vertrag für die regelmäßigen Frachttransporte.
+Bitte nicht drücken, sonst geht das Glas kaputt im Umschlag.
+Die Lagerbestände sind durch den hohen Absatz schnell leer geworden.
+Ich muss noch eine Rücksendung vorbereiten, die Qualität war schlecht.
+Der Zoll hat meine Ware zurückgewiesen, weil ich zu wenig gezahlt habe.
+Meine Nachbarschaft teilt sich die Pakete, das spart wirklich Zeit.
+Die Lieferkette funktioniert aktuell gar nicht mehr wegen des Streiks.
+Ich brauch eine Quittung für den Porto-Nachweis bei der Versicherung.
+Das Paket war zerknautscht angekommen, echt ärgerlich nach der langen Fahrt.
+Wir suchen dringend einen zuverlässigen Partner für den Seefracht-Transport.
+Die Zustellfahrerin hat mich angerufen, ob ich heute zu Hause bin.
+Mein Online-Bestellung ist noch immer nicht bei mir eingetroffen.
+Ich muss die Rechnung für die Lagermiete bis Freitag bezahlen.
+Das Rücksendeetikett war komplett abgerissen, ich konnte es nicht einlösen.
+Die Zollabfertigung dauerte länger als erwartet, jetzt ist alles klar.
+Ich hab den falschen Empfänger eingegeben, mein Kollege hat es erhalten.
+Kannst du mir mal kurz den Paketdienst wechseln? Die waren schlecht.
+Das Paket liegt schon wieder am Paketautomaten obwohl ich frei habe.
+Meine Bestellung ist seit einer Woche in der Sortierstation festgefahren.
+Ich muss dringend den Lieferschein für die Spedition ausdrucken und unterschreiben.
+Der Zoll hat meine Sendung zurückgehalten weil ich zu wenig bezahlt habe.
+Warum kommt die Zustellung immer erst gegen siebzehn Uhr abends?
+Die Ware kam beschädigt an also mache ich jetzt eine Reklamation auf.
+Bei dem neuen Lieferdienst ist die Tracking-App leider völlig ungenau.
+Wir müssen die Containerpapiere bis morgen früh beim Hafenamt einreichen.
+Mein Nachbar hat mein Paket mitgenommen obwohl er gar nicht gefragt wurde.
+Die Lagerung der empfindlichen Elektronik muss unbedingt klimatisiert stattfinden.
+Ich hoffe das Expresspaket kommt noch heute bei meiner Chefin an.
+Der Lieferant hat die Mindestbestellmenge überschritten und will es jetzt stornieren.
+Kannst du kurz zur Post gehen und den Abholschein für mich loslösen?
+Die Zollabfertigung dauert hier immer länger als in anderen europäischen Ländern.
+Ich habe eine Bestätigungsmail bekommen aber keine Versandnummer erhalten.
+Unsere Lkw-Fahrer stehen schon seit drei Stunden im Stau an der Grenze.
+Das Paket hat zwar einen Riss aber zum Glück ist nichts kaputt gegangen.
+Für den Export nach Übersee brauchen wir noch das Phytosanitärzertifikat.
+Die Sendung wurde fälschlicherweise als zugestellt markiert obwohl sie fehlt.
+Ich suche einen günstigen Versandservice für schwere Möbelstücke ins Ausland.
+Der Lagerbestand ist leider nicht mehr aktuell deshalb die Wartezeit.
+Meine Frau hat das Paket im Büro abgeholt weil ich überarbeitet war.
+Die Zolldokumente müssen in englischer und spanischer Sprache vorliegen.
+Ich warte schon den ganzen Tag auf diese eine wichtige Lieferung.
+Die Zustellroute wurde geändert und jetzt kommt der Fahrer gar nicht vorbei.
+Mein Paket wurde bereits zugestellt aber ich habe es nirgendwo gefunden.
+Die Sendungsverfolgung sagt heute ist Lieferung doch kommt nix an.
+Ich muss das Teil dringend auslagern weil der Platz im Lager voll ist.
+Der Zoll hat meine Bestellung stundenlang zurückgehalten zur Prüfung.
+Kannst du mal checken ob der Fahrer schon vorbeigewesen ist heute?
+Die Spedition verlangt jetzt Nachzahlung für die schwere Palette auf dem Truck.
+Mein Nachbar hat mein Paket unterschrieben obwohl ich extra abwesend war.
+Das Tracking ist seit zwei Tagen eingefroren und der Support antwortet nicht.
+Für den Export nach Europa brauchen wir nochmal alle Dokumente im Griff.
+Die Lieferfrist von fünf Tagen wurde wieder überschritten wie üblich bei DHL.
+Ich soll morgen vormittag da sein aber der Zeitfenster ist viel zu groß.
+Das Retourenlabel habe ich verloren und kann das Teil nicht einfach zurückschicken.
+Unser Lagerbestand ist kritisch niedrig und die Nachbestellung kommt erst nächste Woche.
+Der Zusteller hat versucht das schwere Paket durch den Briefkasten zu stopfen.
+Wir müssen die Frachtversicherung abschließen weil die Ware besonders empfindlich ist.
+Mein Kollege ist schon wieder nicht da als der Boten kommt zum Ausliefern.
+Die Pakete vom Onlinehandel sind heute alle gleichzeitig angekommen glücklicherweise.
+Ich warte schon ewig auf diese Bestellung aus Italien und weiß nicht was Sache ist.
+Die Lagerhalle war völlig durcheinander wegen des fehlenden Inventurplans dieser Woche.
+Kann ich die Lieferung doch zum Paketshop umleiten da bin ich flexibler.
+Der Zollfranko Service hat bei diesem Händler leider doch extra Kosten verursacht.
+Ich habe vergessen den Sendungscode beim Aufgeben zu scannen das war mein Fehler.
+Die Lieferkette läuft gerade wieder normal seit die Streiks vorüber sind.
+Mein Päckchen ist schon vier Tage auf der Post verschwunden echt ärgerlich.
+Ich muss heute mal wieder zur Packstation, mir wird nie direkt an die Tür geliefert.
+Meine Mutter hat das Paket leider versäumt abzuholen, jetzt ist es schon lange zurückgesendet worden.
+Der Lagerbestand wurde gestern komplett aktualisiert, aber die Lieferzeiten sind trotzdem gestiegen.
+Wir haben ein Problem mit der Zollabfertigung, weil die Rechnungen nicht vollständig waren.
+Kannst du mir mal kurz sagen, ob meine Sendung heute noch bei dir eintrifft?
+Die Spedition hat den Container zu spät übernommen und nun passt der Termin nicht mehr.
+Ich bestelle lieber bei Amazon, da kommt das Paket wenigstens pünktlich an.
+Das Rücksendelabel war irgendwie falsch gedruckt und ich konnte es nicht scannen.
+Unser Import aus Asien stockt, weil die Frachtraten gerade explodiert sind.
+Warum muss ich für einen Brief immer so ein riesiges Porto zahlen?
+Mein Nachbar hat mein Paket angenommen, obwohl er nicht auf der Liste steht.
+Die Lagerkapazität ist voll ausgelastet, wir müssen dringend neues Wareneingangslager suchen.
+Ich brauche den Lieferschein für die Versicherung, kann das jemand per Mail schicken?
+Der Postbote klingelt immer nur kurz und läuft dann wieder weg.
+Wir müssen die Lieferkette optimieren, sonst verlieren wir Kunden im nächsten Quartal.
+Das Paket ist noch in der Sortieranlage, laut Tracking wird es morgen zugestellt.
+Ich finde es extrem nervig, wenn ich einen Abholcode eingeben muss für jedes einzelne Teil.
+Die Zollgebühr hat mich total überrascht, die Kosten waren nicht transparent dargestellt worden.
+Kann ich mein Paket später abholen, heute habe ich bis fünf Uhr noch Arbeit.
+Die Expresslieferung war zwar schnell, aber dafür deutlich teurer als Standardversand.
+Unser Lagerist meinte, die Palette wäre schon abgerufen worden, ich sehe das aber nicht.
+Ich habe den falschen Namen angegeben und jetzt kommt die Sendung gar nicht an.
+Der Versand aus Polen dauert normalerweise nur zwei Tage, da hat man Glück.
+Meine Schwester will das Geschenk zurückgeben, weil es kaputt im Karton angeliefert wurde.
+Mein Paket wurde an die falsche Adresse geliefert, echt nervig.
+Die Zollabfertigung zieht sich wieder mal ewig hin, typisch eigentlich.
+Wir müssen das Lager aufstocken, die Nachfrage steigt rapide gerade.
+Hast du schon nachgeschaut ob dein Sendungsstatus aktualisiert wurde?
+Der Fahrer hat nur die Quittung verlangt und sofort weitergefahren.
+Für den Export brauchen wir unbedingt einen neuen Lieferschein heute noch.
+Ich warte schon seit Stunden auf den Zusteller, der ist nie pünktlich.
+Die Verpackung war komplett zerdrückt, zum Glück ist das Glas nicht geplatzt.
+Unsere Lieferkette stabilisiert sich langsam nach den Störungen im Hafen.
+Kannst du mal gucken ob die Retouradresse noch gültig ist?
+Das Paket hat zwei Tage zu spät bei mir auf dem Tisch gelegen.
+Wir brauchen dringend Platz im Lagerraum für die neuen Lagerbestände.
+Die Spedition meldet sich einfach nicht mehr, totaler Mist eigentlich.
+Ich hab das Onlinepaket endlich abgeholt, es war ganz schwer.
+Der Zoll wollte nochmal Unterlagen sehen, jetzt gehts aber weiter.
+Mein Bruder hat sein Geschenk erst am dritten Versucht bekommen.
+Das Tracking zeigt an dass die Sendung in Hamburg steht seit gestern.
+Ich muss den Abholschein ausdrucken bevor das Paket zurückgeht.
+Die Importzölle sind dieses Jahr deutlich gestiegen, nervt total.
+Ein Kunde beschwert sich wieder mal über die schlechte Verpackung.
+Wir senden die Ware heute morgen per Frachtgut ab, pünktlich um acht.
+Mein Nachbar hat mein Briefpaket mitgenommen, ich danke ihm später.
+Die Lieferverzögerung beim Großhändler setzt uns ganz schön unter Druck.
+Kann man den Zusteller anrufen und bitten das im Keller abzulegen?
+Mein Paket liegt seit gestern im lokalen Auslieferungscenter fest.
+Die Sendungsverfolgung zeigt schon wieder falsche Statusmeldungen an.
+Ich muss morgen früh zur Post gehen um den Zollexport zu bezahlen.
+Unser Lager ist komplett voll durch die Weihnachtsgeschäftsspitze.
+Es ist so nervig wenn das Paket nur bis zum Empfang kommt.
+Die Spedition meldet sich erst wenn die Frachtrechnung bereits bezahlt wurde.
+Ich bestelle lieber lokal weil der Versand aus dem Ausland so lange dauert.
+Mein Kollege bekam seine Unterlagen zwei Wochen später als erwartet zugestellt.
+Der Zoll hat meine Bestellung wegen fehlender Dokumente zurückgeschickt.
+Wir brauchen ein neues Liefersystem für die internationale Warenbewegung.
+Das Paket wurde beschädigt ausgeliefert und ich habe keine Zeit zu reklamieren.
+Die Zusteller sind heute nicht erreichbar weil das System gestreikt hat.
+Ich frage mich warum die Track & Trace Funktion so langsam reagiert.
+Unser Unternehmen plant eine eigene Lagerhalle für schnelleren Versand.
+Der Kunde beschwert sich über die langen Wartezeiten bei der Lieferung.
+Wir müssen die Zollpapiere sorgfältig prüfen um Verzögerungen zu vermeiden.
+Mein Nachbar hat sein Paket fälschlicherweise bei mir abgeholt.
+Die Expresslieferung kam heute überraschend früh am Morgen an.
+Ich hoffe dass mein bestelltes Teil bald aus dem Hafen kommt.
+Die Frachtkosten sind in letzter Zeit deutlich gestiegen und schaden uns.
+Mein Chef möchte eine Übersicht über alle aktuellen Lieferungen sehen.
+Der Fahrer hat mich nicht angerufen als er nicht finden konnte.
+Wir haben beschlossen unser Versandpartner zu wechseln wegen schlechter Qualität.
+Das Zollformular war schwer verständlich und ich habe es falsch ausgefüllt.
+Mein Paket liegt seit gestern im Zustellokalkulatrum, aber es kommt partout nicht an.
+Die Sendungsverfolgung sagt zugestellt, ich hab das Ding aber nie gesehen.
+Hab beim Zollamt nachgefragt, weil die Steuer doch höher als gedacht war.
+Meine Großmutter wohnt auf dem Land und da dauert der Versand immer ewig.
+Die Spedition hat den Container falsch gelabelt, jetzt steht alles im Lager rum.
+Ich hasse diese Paketshops, weil man nie weiß ob das Teil wirklich da ist.
+Der Lieferant war heute zweimal hier und beide Male niemand zu Hause.
+Beim Export muss man besonders auf die richtige Zolltarifnummer achten.
+Mein Kollege hat ein Päckchen aus Thailand bekommen, total spannende Sachen drin.
+Die Fracht wurde verzollt, aber der LKW steht noch am Hafen rum.
+Ich hab das Retourenlabel gedruckt und ins Paket geklebt, morgen abholen lassen.
+Warum ist mein Bestellschein immer so kompliziert zu verstehen bei Online-Shop?
+Die Lagerbestände sind aktuell niedrig, wir müssen dringend nachbestellen beim Großhandel.
+Das Paket ist zerknüllt angekommen, der Inhalt scheint aber okay zu sein.
+Ich muss die Ursprungszeugnisse für den Import vorlegen, sonst geht nix.
+Der Zusteller klingelte nur kurz und hat das Ding auf die Matte gelegt.
+Bei uns im Büro ist das Faxgerät kaputt gegangen, jetzt läuft alles über E-Mail.
+Mein Bruder arbeitet bei einer Paketdienstleistungsfirma und findet den Job super stressig.
+Die Lieferkette ist durch die Streiks in Europa komplett durcheinander geraten.
+Ich hab den Abholschein vergessen, muss also morgen wieder hinlaufen zum Geschäft.
+Kann man das als Einschreiben aufgeben, damit es sicher ankommt beim Empfänger?
+Der Zoll hat meine Bestellung abgewiesen, weil die Deklaration nicht stimmte.
+Wir haben gerade ein neues WMS-System installiert, um die Bestände besser zu kontrollieren.
+Mein Nachbar bekommt täglich Pakete, er bestellt wahrscheinlich viel online shoppen.
+Mein Paket steht schon seit drei Tagen im Sortierzentrum.
+Ich muss heute zum nächsten Packstation gehen und es abholen.
+Die Rücksendung ist kostenlos, ich klebe nur den Zettel drauf.
+Kannst du mal schauen ob mein Versandlabel schon gedruckt ist?
+Der Lieferant hat vergessen die Rechnung beizulegen, nervig eigentlich.
+Mein Kollege musste gestern noch das Zollformular ausfüllen.
+Wir warten immer noch auf die LKW-Fuhre für die großen Maschinen.
+Das Porto für schwerere Sendungen ist dieses Jahr wieder gestiegen.
+Ich hab das falsche Gewicht angegeben und muss jetzt nachzahlen.
+Die Sendungsverfolgung zeigt an dass es morgen bei mir ankommt.
+Mein Nachbar hat mein Paket mitgeholt weil ich zu spät kam.
+Wir suchen einen neuen Spediteur der schneller als DHL ist.
+Das Lager war völlig überfüllt, man konnte kaum durchkommen.
+Ich muss die Ware bis Freitag vor dem Wochenende verladen.
+Die Zölle in Italien sind komplizierter als gedacht, echt stressig.
+Mein Päckchen aus Thailand hat jetzt einen Monat auf der Post gelegen.
+Kann ich das Paket einfach an der Kasse mit aufgeben?
+Der Zusteller hat die Adresse falsch gelesen und woanders zugestellt.
+Wir müssen den LKW für morgen früh vormittag reservieren.
+Die Expresslieferung war zwar teuer, aber sie kam pünktlich an.
+Ich habe den Abholschein leider zu Hause vergessen, doofe Situation.
+Der Importzoll fress mir gerade richtig an die Nerven heute.
+Mein Paket ist zerdrückt angekommen, da muss ich reklamieren gehen.
+Die Lieferfrist von zwei Wochen wurde diesmal doch überschritten.
+Kannst du bitte das Sendungsformular ausfüllen bevor ich losfahre?
+Ich muss heute nochmal zum Paketshop weil ich den Code vergessen habe.
+Die Ware lag schon seit zwei Wochen in der Zollauffangstelle.
+Unser Lager ist voll gestopft und die Kommissionierung dauert ewig.
+Hast du gesehen dass mein Brief wieder zurückgesendet wurde?
+Der Frachtführer hat uns gerade mitgeteilt dass die Lieferung verzögert ist.
+Ich bestelle immer gern über Amazon Prime weil die so schnell sind.
+Die Zollabfertigung für diese Maschine war komplizierter als gedacht.
+Wir brauchen dringend neue Regale im Lager weil es zu voll ist.
+Kann ich meine Sendung zurückschicken ohne einen Lieferschein?
+Das Tracking Update kam erst drei Tage nach der tatsächlichen Abholung.
+Die Transportkosten für den Import aus Asien sind gerade explodiert.
+Ich habe die Lieferung verpasst und muss jetzt neu abholen.
+Unser Logistikmanager hat den neuen Routenplan schon freigegeben.
+Warum ist meine Päckchen noch immer in der Verteilzentrale?
+Die Speditionsrechnung kam ohne vorherige Bestellung einfach ins Haus.
+Wir müssen die Exportdokumente bis morgenabend beim Zoll einreichen.
+Der Lieferant hat vergessen mir die Rechnung zusammen mit dem Paket zu legen.
+Mein Cousine arbeitet als Fahrer und klagt über ständigen Zeitdruck.
+Das Lagergut wurde bei dem Hochwasser leider komplett zerstört.
+Ich habe das Paket direkt an meine Mama weitergeleitet.
+Unser Kundenservice konnte nichts zur Verbleib meiner Sendung sagen.
+Der Zoll hat die Waren ausnahmslos überprüft weil er verdächtig war.
+Wir planen den Umbau des Lagers für das nächste Quartal.
+Das Paket wurde schon zurückgehalten wegen unklarer Anschrift.
+Ich muss doch zur Post gehen um die Sendung abzuholen.
+Wieso steht bei der Trackingnummer wieder nichts drin.
+Der Fahrer hat das schwere Teil einfach vor der Tür abgestellt.
+Die Zollabfertigung für meinen Amazon Kauf dauerte nee Tage.
+Kann jemand mal kurz zum Paketshop gehen und das holen.
+Meine Sendung ist irgendwie in Hamburg gestrandet und bewegt sich nicht mehr.
+Ich brauche dringend den Nachweis dass die Ware tatsächlich versendet wurde.
+Die Lagerbestände sind durch die Nachfrage explodiert wir müssen nachbestellen.
+Hast du schon die Freigabe für den Import vom Zoll erhalten.
+Das Etikett war komplett abgefallen und niemand wusste wem das gehört.
+Speditionsware kommt oft zu spät weil die Kapazitäten knapp sind.
+Ich hab mir extra eine Paketstation gemietet um Ärger zu vermeiden.
+Die Lieferkette für diese Bauteile ist extrem anfällig für Störungen.
+Warum kostet die Rücksendung fast so viel wie das Originalprodukt.
+Der Lieferbote hat sich verlaufen und mein Handy war aus.
+Wir müssen die Frachtpapiere noch einmal komplett neu ausfüllen lassen.
+Das Päckchen war so klein dass ich fast vergessen hab es abzuholen.
+Meine Bestellung ist zwar angekommen aber die Box war total zerknüllt.
+Bei Expresslieferungen macht mir die Zuverlässigkeit einfach keine Sorgen.
+Ich warte schon seit Montag auf diese dringend benötigten Ersatzteile.
+Die Zölle haben meine Kamera überprüft weil sie verdächtig aussah.
+Es ist so nervig immer nach einem Bestätigungsmail suchen zu müssen.
+Die Versanddauer hat sich durch die Feiertage nochmal verdoppelt.
+Hast du gesehen dass mein Paket schon wieder als verloren markiert wurde.
+Das Paket ist wieder falsch zugestellt worden und liegt beim Nachbarn.
+Mein Onlinebestellung kam beschädigt an, die Verpackung war komplett zerdrückt.
+Der Zusteller hat nur einen Zettel hinterlassen obwohl ich zu Hause war.
+Ich muss mal zur Post gehen und diesen schweren Karton versenden.
+Die Sendungsverfolgung sagt zugestellt aber die Packstation ist leer geblieben.
+Kannst du mir beim Ausfüllen des Zollformulars helfen, das ist kompliziert.
+Unser Lagerbestand wurde umgegliedert um die Lieferzeiten zu verkürzen.
+Der Zoll hat unsere Ware überprüft weil die Angaben nicht stimmten.
+Ich warte schon zwei Wochen auf mein Kleidungsstück aus Italien.
+Die Spedition kam heute Vormittag und hat alle Paletten abgeholt.
+Warum kostet der Versand immer mehr Geld bei kleinen Onlinehändlern?
+Mein Paket ist im transit seit drei Tagen ohne weitere Updates.
+Wir müssen die Rücksendung noch bis Freitag frankieren und einwerfen.
+Die Lieferkette für unsere Rohstoffe ist momentan sehr instabil.
+Ich brauche dringend einen Nachweis über den Erhalt der Sendung.
+Der Fahrer hatte Probleme mit dem Schlüssel zum Briefkasten im Treppenhaus.
+Unsere Exportware wurde leider wegen unklarer Rechnungen vorübergehend festgehalten.
+Kann ich das Paket auch am Samstag gegen Aufpreis abholen lassen?
+Die Packstation in der Nähe ist schon wieder voll, typisches Problem.
+Ich habe vergessen den Tracking Code zu speichern, jetzt suche ich die E-Mail.
+Die Zollabfertigung nimmt bei größeren Sendungen immer viel Zeit in Anspruch.
+Mein Bruder hat das Geschenk erhalten obwohl es erst heute zugestellt werden sollte.
+Der Zustellversuch gestern war umsonst weil ich auf der Arbeit war.
+Unsere Logistikabteilung optimiert gerade die Routen für effizientere Transporte.
+Ich frage mich ob das Paket übersehen wurde oder wirklich verloren ist.
+Ich muss wieder zur Post laufen weil das Paket im falschen Schließfach lag.
+Der Lkw kam wegen der Verkehrslage schon mal eine Stunde später an.
+Meine Bestellung ist irgendwie im Lager stehen geblieben ohne Statusupdate.
+Hast du den Versandbeleg noch? Ich muss die Kosten bei der Firma melden.
+Die Zollabfertigung zog sich heute leider länger hin als erwartet.
+Kannst du mir kurz helfen das schwere Paket zur Tür zu tragen?
+Ich habe gerade gesehen dass meine Sendung heute noch zugestellt wird.
+Der Spediteur hat uns erst am Wochenende über den Terminwechsel informiert.
+Warum kostet der Einschreibversand immer so viel mehr als normaler Brief?
+Mein Nachbar hat die Lieferung angenommen obwohl ich nicht da war.
+Die Paketzustellung ist morgen wegen Streiks leider komplett ausgefallen.
+Ich muss sofort eine neue Rechnung für die Frachtkosten erstellen.
+Das Kartuschenmaterial wurde am Hafen schon lange genug entladen und gelagert.
+Kann ich mein Paket auch abholen statt es sich nach Hause liefern zu lassen?
+Die Lieferadresse war falsch daher kam das Teil zurück zum Absender.
+Wir brauchen dringend einen neuen Logistikpartner weil der alte immer versagt.
+Die Frachtversicherung deckt leider keinen Verschleiß ab nur reine Beschädigungen.
+Ich warte seit zwei Wochen auf mein Bestellschein und sehe nicht wo es ist.
+Der Fahrer hat das Paket irgendwo im Gras hinter dem Haus abgelegt.
+Wie lange dauert es bis die Waren wirklich im Lager ankommen?
+Ich habe den falschen Gutscheincode eingegeben und der Versand wurde gestoppt.
+Die internationale Zustellung kostet jetzt deutlich mehr als in der Region.
+Mein Chef möchte wissen wann die Container wirklich vom Hafen abgehen.
+Das Rücksendeetikett war defekt also konnte ich es nicht richtig ausdrucken.
+Mein Paket liegt seit gestern beim Empfänger, aber da war ich nicht.
+Die Versandzeit hat sich wieder einmal um eine Woche verschoben.
+Ich muss das Teil noch bis morgen bei Hermes abgeben.
+Warum kostet der Rückversand manchmal mehr als die Ware selbst?
+Das Lager war komplett leer, weil die Lieferkette gestört war.
+Hast du schon den Abholauftrag erhalten für dein Paket beim DHL Shop?
+Der Zoll hat meine Bestellung zurückgehalten und will jetzt Unterlagen.
+Die Spedition kommt heute nachmittags vorbei, ruf mich bitte an.
+Ich verfluche das Tracking, weil der Status sich nicht aktualisiert.
+Kann ich die Lieferung auf eine andere Adresse umleiten lassen?
+Mein Nachbar hatte mein Paket mitgenommen, ich hab ihn bedankt.
+Die Importabwicklung dauert bei schweren Maschinen besonders lange.
+Ich hasse es, wenn der Bot mich anruft und keiner geht ran.
+Das Etikett war abgefallen, deshalb konnte die Sortieranlage nichts lesen.
+Wir brauchen dringend neue Paletten für den Export nach Polen.
+Die Lieferfrist von zwei Tagen wurde diesmal doch eingehalten.
+Hast du den Sendungsverlauf geprüft? Da steht doch schon zugestellt.
+Ich muss noch schnell das Paket aufgeben, bevor die Filiale schließt.
+Die Zollgebühr war höher als erwartet, weil ich den falschen Code nahm.
+Mein Online-Einkauf ist im Transit gestrandet, das nervt total.
+Kannst du mir sagen, ob der Fahrer heute noch kommt?
+Das Tracking zeigt nur noch keine weitere Änderung an der Sendung.
+Ich hab vergessen, die Ware beim Abholen gegenzuzeichnen.
+Die Frachtkosten sind seit letztem Quartal deutlich gestiegen.
+Mein Paket wurde leider als verloren geführt, jetzt läuft ein Fall.
+Soll ich das als Einschreiben aufgeben oder reicht normaler Brief?
+Mein Paket ist schon wieder falsch zugestellt worden, ich bin echt genervt.
+Die Zollabfertigung hat diesmal kaum einen Tag gedauert, das war überraschend schnell.
+Im Lager sind leider die letzten Artikel ausverkauft, wir müssen nachbestellen.
+Kannst du mir bitte den Trackinglink schicken? Ich möchte wissen wo es ist.
+Die Spedition hat heute Nacht geladen, morgen früh sollte die Ware bei dir sein.
+Ich habe das Päckchen als Einschreiben aufgegeben, damit es sicher ankommt.
+Der Zusteller war heute schon vorbeigekommen, aber ich hatte keinen Schlüssel da.
+Unsere Lieferketten aus Asien sind durch den Hafenstreik stark verzögert.
+Bitte pack die fragile Ware gut ein, sonst kommt sie bestimmt kaputt an.
+Das Versandzentrum in Berlin ist momentan voll ausgelastet, alles dauert länger.
+Ich muss die Zollpapiere noch unterschreiben, bevor die Sendung weitergeht.
+Warum wird mein Paket immer erst am nächsten Tag zugestellt? Das nervt total.
+Die Frachtkosten für diesen schweren Karton waren wirklich ziemlich hoch.
+Hast du schon mal mit der neuen Versandoption Express getestet? Ich bin skeptisch.
+Der Lagerbestand stimmt nicht überein, wir müssen sofort eine Inventur machen.
+Meine Freundin hat das Paket erst nach dem dritten Versuch erhalten, was ein Glück.
+Die Exportgenehmigung für diese Chemikalien ist leider noch nicht geneigtigt worden.
+Kann ich mein Päckchen doch lieber abholen anstatt warten bis es da ist?
+Die LKW-Fahrer haben heute gestreikt, deshalb liegen alle Lieferungen hinterher.
+Ich hab den Abholcode vergessen und konnte das Ding vom Schließfach nicht öffnen.
+Diese Firma hat immer pünktliche Lieferung, daher bestelle ich da gerne wieder.
+Der Zoll hat meine Bestellung kontrolliert, weil der Warenwert zu hoch war.
+Wir müssen die Versandadressen prüfen, sonst landen die Pakete bei falschen Leuten.
+Die Rücksendung ist kostenlos, aber ich muss mir erst ein Etikett ausdrucken.
+Mein Nachbar hat das Paket für mich entgegengenommen, da war er so lieb.
+Die Sendungsverfolgung sagt zugestellt aber ich hab nix bekommen.
+Mein Kollege muss heute Vormittag wieder die Ware im Lager sortieren.
+Habt ihr schon mal versucht per Postpacket Express zu verschicken?
+Der Lieferant hat vergessen den Zollausweis mit in die Dokumente zu packen.
+Es kommt vor das Pakete durch falsche Etiketten völlig verkommen.
+Ich warte jetzt seit zwei Stunden auf den Paketboten ohne Erfolg.
+Die Fracht musste wegen schlechten Wetters kurzfristig umgeleitet werden.
+Warum kostet der Rückversand fast mehr als die Ware selbst?
+Der Spediteur meldet sich erst wenn das Schiff schon längst eingetroffen ist.
+Ich hab mein Päckchen endlich am nächsten Tag in Ruhe abgeholt.
+Die Lieferkette für seltene Bauteile funktioniert aktuell überhaupt nicht zuverlässig.
+Kann man bei internationalen Sendungen wirklich auf Tracking verzichten ohne Sorgen?
+Das Paket war ganz zerdrückt und der Inhalt leider kaputt dabei.
+Wir brauchen dringend einen neuen Vertrag mit einer günstigen Postfiliale.
+Der Zoll hat meine Bestellung angehalten weil ich etwas falsch erklärt habe.
+Man sollte immer mehrere Versandfirmen vergleichen bevor man sich festlegt.
+Die Lagerkapazitäten sind im Dezember meist komplett überlastet und voll.
+Mein Paket ist wieder im falschen Bezirk gelandet wie letztes Mal.
+Die Expresslieferung war zwar teuer aber dafür wirklich pünktlich angekommen heute.
+Ich frage mich ob die neuen Ladesäulen für E-LKW auch hier stehen.
+Der Versandschein muss unbedingt mit dem richtigen Gewicht ausgefüllt sein sonst zahlt man drauf.
+Meine Nachbarin hat immer Probleme ihre Pakete vor der Tür zu finden.
+Die Verzögerung bei der Ausfuhr war echt nervig aber jetzt läuft es wieder.
+Hast du schon mal erlebt dass eine Spedition einfach verschwindet mit deiner Fracht?
+Der Paketbote war heute sehr freundlich trotz dem ganzen Regen draußen heute.
+Das Paket liegt schon wieder im nächsten Lagerhaus seit gestern.
+Ich muss dringend eine Sendung ins Ausland aufgeben, hat jemand einen Tipp?
+Der Spediteur war heute Vormittag da und hat die Palette abgeholt.
+Warum dauert der Zoll so lange bei meiner Bestellung aus Italien?
+Habt ihr auch Probleme mit den Lieferungen von Amazon lately?
+Das Tracking zeigt an, dass es zugestellt wurde, aber wo ist mein Kasten?
+Wir brauchen für den Export unbedingt das richtige Lieferscheinformat.
+Die Paketzustellung hat heute wieder zwei Stunden gedauert, wahnsinnig.
+Kannst du mal prüfen, ob die Rücksendung schon angekommen ist?
+Mein Nachbar hat das falsche Paket mitgenommen, jetzt geht alles schief.
+Die Lagerbestände sind leider zu niedrig für den geplanten Versandtermin.
+Ich muss noch die Zollanmeldung für diese Ware erstellen, das ist kompliziert.
+Endlich kam mein lang ersehntes Paket an, nachdem es zwei Wochen vermisst wurde.
+Der LKW steht vor dem Tor und wartet auf die Abfertigung.
+Hast du den Aufkleber schon ausgedruckt für die Rücksendung an IKEA?
+Die Lieferkette in Asien stockt irgendwie wegen des schlechten Wetters.
+Ich bezahl extra für Express, aber es kommt trotzdem erst nächste Woche.
+Das Etikett ist abgefallen und das Paket landet im Irrwegcenter.
+Wir müssen unsere Versandpartner wechseln, die Pünktlichkeit ist katastrophal.
+Der Zoll hat meine Gitarre festgehalten, weil ich falsche Angaben gemacht habe.
+Packe das sorgfältig ein, denn es bricht leicht bei schlechter Lagerung.
+Die Zustellerin hat mich anlachen lassen, als sie die Treppe hochgetragen hat.
+Ich suche jemanden, der zuverlässig Pakete nach Frankreich sendet.
+Der Container ist endlich vom Schiff runter und im Hafen angekommen.
+Meine Bestellung wurde storniert, obwohl ich das Geld schon abgeführt habe.
+Wir optimieren gerade unsere Supply Chain, damit die Kosten sinken.
+Mein Paket ist schon drei Tage unterwegs, die Sendungsverfolgung hilft nicht.
+Bei DHL muss ich immer zum Paketshop, die liefern nie direkt.
+Die Spedition hat den falschen Liefertermin angegeben, jetzt steht das auf dem Hof.
+Das Zollverfahren bei Importen aus China dauert manchmal ewig.
+Ich hab den Abholschein bekommen, obwohl ich zu Hause war.
+Die Lieferkette war durch den Streik komplett unterbrochen.
+Kannst du das als Expresslieferung aufgeben? Ich brauch das morgen.
+Hast du schon gesehen dass mein Paket heute kommt?
+Meine Bestellung ist leider bei Hermes verloren gegangen.
+Der LKW-Fahrer hat mir extra angerufen bevor er kommt.
+Ich muss nächste Woche wieder Ware ins Lager einlagern.
+Die Frachtkosten für diesen Container sind wirklich absurd hoch.
+Hat jemand schon Erfahrung mit dem neuen Tracking-System?
+Mein Nachbargott hat das Paket einfach auf die Treppe gelegt.
+Wir haben gerade einen Lieferantenausfall bei der Hauptkomponente.
+Der Zolldienst war heute unfreundlich und sehr ungeduldig.
+Die Lieferung ist leider beschädigt angekommen, ätzend halt.
+Ich warte schon seit Montag auf diese Sendung.
+Unser Lager ist momentan völlig überfüllt durch Rückläufer.
+Der Kurier hat vergessen den Abholschein zu bringen.
+Wir müssen die Exportdokumente noch einmal komplett prüfen.
+Warum dauert die Zustellung jetzt schon eine Woche?
+Die Palette kam ganz schön schief vom Trailer.
+Mein Päckchen steckt schon wieder im Transit, seit Tagen keine Update.
+Der Lieferant hat mich nicht angerufen und einfach abgehakt.
+Kannst du mal schauen, ob das Paket im Lager liegt?
+Die Zollliste ist für diese Menge Waren wirklich lästig auszufüllen.
+Ich muss das Teil bis morgen bei dir sein, mach Express.
+Seit der Umstellung auf die neue Logistikfirma ist alles chaotisch.
+Warum steht bei Sendungsverfolgung nur in Bearbeitung seit gestern?
+Der Frachtleiter war sehr hilfsbereit beim Ausfüllen der Papiere.
+Ich hab den Abholschein verloren, weiß nicht mehr wies weitergeht.
+Die Lieferung kam beschädigt an, da rufe ich sofort nach.
+Bei uns im Unternehmen läuft der Export jetzt reibungslos ab.
+Das Ding ist so schwer, dass ich es per Spedition schicke.
+Hast du schon die Einfuhrgenehmigung für diese Chemikalien beantragt?
+Der Paketbote hat meine Klingel nur kurz gedrückt und weggeteilt.
+Unsere Lagerkapazität ist voll, wir müssen schnellstmöglich ausliefern.
+Die Rücksendung kostet mich fast so viel wie der Artikel selbst.
+Ich warte schon zwei Wochen auf die Bestätigung vom Zollamt.
+Die Lieferkette brach zusammen, weil der Hafen gestreikt hat.
+Kannst du das Paket für mich annehmen, wenn ich nicht da bin?
+Die Rechnung für den internationalen Versand war unerwartet hoch.
+Mein Nachbar hat mein Paket aus Versehen mitgenommen, peinlich.
+Die Tracknummer wird beim Online-Shop nicht richtig erkannt.
+Wir müssen die Frachtinsurance vor Abholung noch unterzeichnen.
+Der Kundenservice hat den falschen Lieferstatus angezeigt, nervig.
+Endlich ist das große Möbelstück heute Nachmittag angekommen.
+Das Paket wurde gestern zugestellt aber ich war nicht da.
+Der Lieferschein stimmt nicht mit der Bestellung überein.
+Ich muss nochmal zur Post um das Teil abzuholen.
+Die Versandgebühr ist bei so kleinen Artikeln wirklich unfair hoch.
+Meine Sendung hängt seit drei Tagen an einem Umschlagplatz fest.
+Hast du die Zollpapiere schon für die Einfuhr ausgemacht?
+Der Paketbote hat es einfach in den Briefkasten geworfen.
+Wir müssen das Lager vor dem Wochenende komplett durchchecken.
+Die Frachtkosten sind im Vergleich zum letzten Quartal gesunken.
+Ich kann den QR Code auf dem Label leider nicht scannen.
+Warum wird meine Rücksendung plötzlich abgelehnt?
+Die Spedition hat den Container wohl an der falschen Stelle gelassen.
+Mein Online Einkauf ist noch gar nicht versendet worden heute.
+Wir brauchen dringend eine Alternative zum aktuellen Transportweg.
+Das Etikett ist völlig unleserlich geworden durch den Regen gestern.
+Kannst du mir sagen wie lange die Zollfreigabe normalerweise dauert?
+Die Lieferung kam beschädigt an also mache ich jetzt einen Protest.
+Ich hab die falsche Adresse bei der Zustellung angegeben schande über mich.
+Der Lagerbestand geht zurzeit leider sehr schnell zur Neige.
+Unsere Lieferanten halten sich endlich wieder an die vereinbarten Termine.
+Ich muss das Teil noch heute aufgeben sonst ist es zu spät.
+Die Sendungsverfolgung zeigt nichts mehr seit letzter Woche an.
+Hast du den Lieferschein schon unterschrieben oder fehlt der noch?
+Das Zollamt verlangt jetzt zusätzliche Dokumente für diese Warengruppe.
+Mein Paket steht im Shop ich kann aber erst morgen abholen.
+Ich muss wieder zum Paketshop, obwohl ich den ganzen Tag da war.
+Die Spedition ist noch nicht da, der Fahrer meldet sich wohl nie.
+Mein Import aus Asien hängt schon seit zwei Wochen im Zoll fest.
+Kannst du mal kurz nachschauen ob das Paket im Lager eingetroffen ist?
+Die Lieferkette läuft gerade nicht rund, überall gibt es Verzögerungen.
+Ich habe den Abholschein verloren und muss jetzt einen neuen beantragen.
+Das Tracking zeigt zwar zugestellt aber ich hab gar nichts bekommen.
+Wir müssen die Ware nochmal sortieren bevor sie zum Versand bereitsteht.
+Welche Dokumente brauchst du eigentlich für die Einfuhr aus Nicht-EU-Ländern?
+Der Lkw ist schon seit drei Stunden auf der Autobahn stehend.
+Ich lass mir mein neues Sofa lieber direkt in die Wohnung tragen.
+Die Retoure war so aufwendig, das kaufe ich beim nächsten Mal lieber lokal.
+Hat jemand eine Erfahrung mit Hermes, die sind bei uns immer sehr pünktlich.
+Das Zollverfahren zieht sich in die Länge, wer hat dafür die Verantwortung?
+Wir haben ein Problem mit der Kühlkette, die Temperaturen waren zu hoch.
+Mein Paket wurde ans falsche Ziel geschickt, das ist doch nicht normal.
+Die Frachtkosten für diesen Seefrachtcontainer sind diesmal wirklich happig geworden.
+Ich brauch eine Bestätigung dass die Sendung heute früh abgegangen ist.
+Das Lager ist voll gepackt und wir kriegen kaum noch neue Ware rein.
+Kann ich meine Lieferung auf einen anderen Termin verschieben lassen?
+Die Zollliste war unvollständig, deswegen gab es bei der Ausfuhr Ärger.
+Ich warte schon ewig auf die Antwort vom Kundenservice wegen meines Pakets.
+Die Lieferadresse war fehlerhaft, deshalb konnte das Teil nicht zugestellt werden.
+Wir müssen die Ware dringend aus dem Freihafen holen bevor sie abläuft.
+Das Tracking ist seit gestern Abend ausgefallen, man weiß einfach nichts Genaues.
+Das Paket ist heute schon zweimal nicht da gewesen.
+Ich warte schon die ganze Woche auf mein Bestellding.
+Kann ich den Fahrer anrufen um einen anderen Termin zu finden?
+Die Spedition hat den Lkw in der Einfahrt geparkt.
+Zollabfertigung dauert bei mir immer länger als gedacht.
+Mein Nachbar hat das Paket genommen weil ich weg war.
+Der Trackingcode funktioniert seit gestern einfach nicht mehr.
+Wir müssen die Ware vor dem Wochenende nochmal checken.
+Die Lieferadresse ist falsch eingetragen gewesen, doof.
+Ich hasse es wenn die nur ein Abholticket hinterlassen.
+Für den Export braucht man doch auch noch Dokumente?
+Das Lager war komplett leer als wir vorbeigekommen sind.
+Schließlich ist das Teil doch angekommen, knapp vor Ostern.
+Kannst du mal nachschauen ob die Sendung bei Dir liegt?
+Mein Paket kam mit einem Dellen in der Ecke an.
+Der Zolleingang hat uns doch nochmal richtig Zeit gekostet.
+Wir lagern den Rest erstmal bis zur nächsten Bestellung.
+Die Lieferung kam einen Tag später als versprochen, nervig.
+Ich muss mein Gewicht nochmal prüfen für die Frachtkosten.
+Das Rücksendeetikett ist leider nicht gedruckt worden.
+Mein Kollege hat das Ding am Eingang vergessen stehen.
+Die Lieferkette läuft gerade wieder etwas stabiler als zuvor.
+Kann ich das Paket direkt an die Firma senden lassen?
+Ich bezweifle stark dass das morgen noch bei mir ist.
+Der Zollbeamte hatte Fragen zur Deklaration der Geräte.
+Mein Paket wurde bereits zugestellt aber ich hab nix bekommen.
+Die Lieferung kommt wohl erst nächste Woche weil das Lager leer ist.
+Hab grad die Nachricht dass mein Paket morgen bei mir abgeht.
+Der Speditionsbote hat die Palette einfach irgendwo vor dem Tor geparkt.
+Ich muss wieder zum Nachbar weil der Briefkasten zu voll war.
+Bei internationalen Sendungen dauert der Zollcheck leider immer ein paar Tage.
+Kannst du mal schauen ob meine Bestellung schon im Lager ist?
+Die Lieferkette für diese Ware ist aktuell durch den Hafenstreik gestört.
+Ich hab den falschen Lieferschein gedruckt und kann nicht laden.
+Das Paket ist beschädigt angekommen also mache ich einen Antrag.
+Warum kostet die Expressversand immer so viel mehr als normaler Versand?
+Der Lieferant hat vergessen den Zollausweis beizulegen, Ärger pur.
+Meine Sendung wird gerade am Hafen in Hamburg umgeladen.
+Die Spedition hat uns informiert dass der Transport etwas verspätet ist.
+Ich muss die Ware bis Freitag zurücksenden ansonsten zahl ich extra.
+Der Zusteller klingelt gar nicht sondern packt es einfach ins Fach.
+Wir brauchen dringend eine neue Lagerstrategie weil alles zu langsam geht.
+Ich habe den Abholschein vergessen und muss jetzt nochmal hinfahren.
+Die Frachtkosten für die Containerladung sind dieses Jahr wieder gestiegen.
+Mein Online-Bestellung kam zwar pünktlich aber die Verpackung war zerrissen.
+Der Zoll hat meine Sendung zurückgehalten weil die Deklaration fehlte.
+Kann man den Liefertermin eigentlich nochmal ändern ohne Aufpreis?
+Die Rücksendung wird heute vom Paketdienst abgeholt, endlich mal.
+Mein Großvater bekommt seine Medikamente immer per Express zugestellt.
+Mein Paket ist wieder im falschen Lager gelandet, super nervig.
+Die Sendungsnummer funktioniert nicht mehr in der App, komisch.
+Ich muss morgen zur Post wegen dem Abholschein laufen.
+Der Zoll verlangt plötzlich Unterlagen für eine Kleinigkeit, krass.
+Unsere Ware kommt immer pünktlich an, das freut mich sehr.
+Kannst du mir sagen ob meine Bestellung schon versendet wurde?
+Die Spedition hat die Palette einfach vor der Tür abgestellt.
+Ich warte schon seit einer Woche auf dieses verdammte Paket.
+Der Versand aus Italien war deutlich günstiger als erwartet.
+Mein Nachbar darf mein Paket nicht annehmen, das ist doof.
+Die Lieferadresse muss ich noch mal ändern, sorry dafür.
+Zollabfertigung dauert bei uns immer zu lange im Winter.
+Das Frachtgut ist beim Transport beschädigt worden, Mist.
+Ich habe den Tracking Link verpasst und suche ihn jetzt.
+DHL ist heute wieder ausgefallen, nichts kam nach Hause.
+Der Lieferant verspricht morgen Anlieferung bis 18 Uhr heute.
+Wir müssen die Exportdokumente noch mal prüfen bevor wir senden.
+Mein Brief ist zurückgekommen weil die Postleitzahl falsch war.
+Die Palette passt nicht durch die Tür des Lagers leider.
+Könntest du das als Eilbrief aufgeben? Ich brauch es dringend.
+Der Fahrer hat mich nicht angerufen wie üblich beim Abladen.
+Ich finde den Zolllabel nicht mehr im Karton verdammt noch mal.
+Unsere Logistikabteilung ist heute geschlossen wegen Brückentag hier.
+Das Paket liegt schon drei Tage im Shop unerwähnt vor mir.
+Muss ich bei der Einfuhr aus England irgendwas anmelden extra?
+Mein Paket liegt seit gestern am Nachbarbriefkasten, obwohl ich daheim bin.
+Die Spedition meinte, der Container sei noch nicht entladen worden.
+Ich frage mich warum die Sendungsverfolgung schon drei Tage lang nichts mehr aktualisiert.
+Beim Zoll wurde meine Bestellung zurückgehalten weil ich den falschen Wert angegeben habe.
+Kannst du das bitte als Paket an die Packstation senden?
+Das Lager ist voll, deshalb müssen wir die Waren erst mal woanders unterstellen.
+Mein Kollege hat vergessen die Zollpapiere für den Export beizulegen.
+Die Lieferung kam eine Woche zu spät und niemand hat sich gemeldet.
+Ich muss das Dokument heute noch als Einschreiben aufgeben.
+Der Fahrer wollte nicht klingeln sondern nur einen Zettel hinterlassen.
+Wir warten immer noch auf die Freigabe von der Finanzbehörde für diese Ware.
+Das Paket ist leider bei DHL zwischen durchgekommen und geht jetzt zum Rücksender.
+Könntest du mal nachschauen ob deine Bestellung schon zugestellt wurde?
+Die Lagerverwaltung zeigt an, dass der Artikel nicht mehr auf dem Schrank liegt.
+Ich hasse es wenn ich für die Zustellung extra zur Arbeit fahren muss.
+Der Zollbeamte hat alles kontrolliert und dann doch schnell freigegeben.
+Unsere Lieferkette läuft aktuell stabil trotz der Streiks in den Häfen.
+Bitte lass das Paket nicht einfach so auf die Treppe legen.
+Ich habe den Abholcode per SMS bekommen aber ich bin grade im Meeting.
+Die Frachtrechnung ist deutlich höher als erwartet, da gab es ein Missverständnis.
+Kann man denn überhaupt noch zuverlässig versenden wenn jeder Streik macht?
+Das Paket wurde falsch zugestellt und hängt jetzt am Baum nebenan.
+Wir müssen die Einfuhrumsatzsteuer sofort bezahlen sonst kommt das Geld nicht raus.
+Der Lkw steht schon seit einer Stunde vorm Tor und blockiert alles.
+Ich bestelle lieber direkt beim Händler vor Ort um solche Verzögerungen zu vermeiden.
+Da steht wieder so ein Paket im Flur ohne Lieferantenzettel.
+Ich habe gestern drei Pakete bekommen und null davon war für mich.
+Die Sendung wurde leider von der Post verloren, jetzt muss ich reklamieren.
+Kannst du mal kurz an die Tür gehen, da klingelt wahrscheinlich DHL.
+Mein Onlinebestellung kommt erst nächste Woche an, das ist echt nervig.
+Für den Export brauchen wir noch die korrekte Handelsbezeichnung auf dem Frachtbrief.
+Das Lager ist voll, wir können vor Freitag keine neuen Waren einplanen.
+Die Lieferung kam beschädigt an, der Karton war schon komplett zerknüllt.
+Ich muss zum Packstation rennen, das Paket wird heute Abend wieder zurückgeschickt.
+Unsere Lieferketten waren durch die Streiks in den Häfen stark gestört.
+Das Zollformular ist kompliziert ausgefüllt worden, deshalb hängt es jetzt fest.
+Hab dir die Rechnung für den Versand per E-Mail geschickt, siehst du das?
+Die Spedition meinte, der Fahrer sei schon im Anmarsch, aber ich seh nix.
+Wir lagern unseren gesamten Vorrat bei einem externen 3PL-Partner in Berlin.
+Mein Paket wurde fälschlicherweise als zugestellt markiert, obwohl niemand da war.
+Der Import aus Italien läuft aktuell ganz gut, die Zölle sind niedrig.
+Bitte gib das Teil als Nachnahme auf, ich will das Geld erst später sehen.
+Die Sendungsverfolgung zeigt seit zwei Tagen nur noch In transit an.
+Ich hasse es, wenn man einen Terminfenster von vier Stunden für die Lieferung bekommt.
+Die Palette hat im Transit leicht gedehnt, wir müssen sie sofort umlagern.
+Hast du schon den Abholschein für das große Möbelstück vom Markt geholt?
+Das Zollverfahren zieht sich in die Länge, weil die Unterlagen unvollständig waren.
+Mein Freund arbeitet bei der Logistikabteilung und sortiert dort Pakete.
+Die Frachtkosten für so eine kleine Sendung ins Ausland sind wahnsinnig hoch.
+Da kommt gerade ein Lieferwagen angefahren, hoffentlich ist das mein neues Handy.
+Das Paket wurde wieder beim Nachbarn abgelegt, obwohl ich frei hatte.
+Die Sendungsverfolgung zeigt nur noch in Bearbeitung seit letzter Woche.
+Ich muss morgen wieder zum Paketshop ran, die Lieferung kam nicht an.
+Der Zoll hat meine Bestellung aus Übersee erstmal festgehalten.
+Kannst du das bitte als Päckchen aufgeben, das geht schneller.
+Die Spedition kommt heute vormittag, sag mal Bescheid wenn du da bist.
+Mein Lager ist voll und ich muss noch Platz für die neuen Sendungen machen.
+Der Lieferant hat wieder vergessen, die Zollpapiere richtig auszufüllen.
+Es gibt Probleme in der Lieferkette, deshalb dauert alles länger als geplant.
+Das Etikett war abgerissen, deshalb kam das Paket bei mir nicht an.
+Ich bezahl extra für Expressversand, aber es kommt trotzdem zu spät.
+Die Rücksendung war kompliziert, ich fand keine kostenlose Versandadresse.
+Wir müssen den Importzoll vorab bezahlen, sonst steht die Ware im Lager.
+Der Frachtführer hat den LKW mitten auf der Autobahn stehen lassen.
+Mein Nachbar hat mein Paket entgegengenommen, weil ich nicht da war.
+Die Trackingnummer funktioniert nicht mehr seit der Übergabe an DHL.
+Ich bestelle lieber online mit Abholung im Laden, dann ist es sicher.
+Der Export war einfacher zu erledigen als das komplizierte Zollverfahren.
+Das Gewicht meiner Sendung wurde überschritten, jetzt muss ich mehr zahlen.
+Die Zustellung fiel aus, weil die Straße wegen Bauarbeiten gesperrt war.
+Ich habe den Abholschein verlegt und kann mein Paket nicht abholen.
+Der Versand war kostenlos, aber die Garantiebedingungen sind total unklar.
+Mein Kollege hat die Fracht falsch deklariert, nun steht alles still.
+Das Paket wurde beschädigt angeliefert, ich erstatte jetzt eine Beschwerde.
+Wir optimieren gerade unsere Logistikprozesse für den europäischen Markt.
+Mein Paket steht schon seit gestern im Zustelldienst, ist aber noch nicht da.
+Der Lieferant hat einfach das Teil vor der Tür stehen lassen, ohne mich anzurufen.
+Ich muss meine Adresse im Kundenkonto ändern, sonst kommt alles ins Nirgendwo.
+Die Tracking-Nummer zeigt nur an, dass es vom Sortierzentrum weitergeht.
+Warum dauert die Lieferung aus dem Ausland diesmal so lange?
+Mein Nachbar hat das Päckchen angenommen, weil ich zur Arbeit war.
+Das Paket war bei der Übergabe schon total eingedrückt und zerkratzt.
+Ich habe den Lieferschein unterschrieben, obwohl die Verpackung offen war.
+Die Spedition bringt morgen die Palette mit den neuen Büromöbeln.
+Kann ich das Retourengut kostenlos wieder an den Händler senden?
+Der Zoll hat meine Bestellung für eine weitere Prüfung eingezogen.
+Es fehlt die Einfuhranmeldung, deshalb steht die Ware noch am Hafen.
+Wir brauchen einen besseren Lagerplatz, sonst verstopfen wir die Gänge komplett.
+Die Lieferzeit von fünf Tagen war leider nicht eingehalten worden.
+Mein Frachtgut wurde während des Transports anscheinend feucht bekommen.
+Ich suche dringend eine reliable Versandfirma für mein kleines E-Commerce-Projekt.
+Das Etikett war abgefallen, deshalb konnte das Paket nicht sortiert werden.
+Hast du schon die Rechnung für die Nachnahme bezahlt oder warte ich noch?
+Die Lieferkette ist aktuell sehr anfällig für Störungen durch Wetterlagen.
+Ich lasse mir die Ware lieber in den Packstation bringen als nach Hause.
+Welche Papiere brauchst du noch für die Exportzollabfertigung dieses Auftrags?
+Der Fahrer ist mit dem LKW im Stau stecken geblieben, Verzögerung sicher.
+Ich habe versehentlich die falsche Versandart gewählt und bezahle jetzt mehr.
+Das Lager ist voll, wir müssen schnellstens Platz schaffen für neue Ware.
+Kannst du bitte den Tracking-Link in die E-Mail mit aufnehmen?
+Das Paket ist wieder beim Nachbarn gelandet, weil ich nicht da war.
+Mein Tracking Link aktualisiert sich seit drei Tagen gar nicht mehr.
+Ich muss morgen zur Post gehen, um den Brief selbst abzuholen.
+Die Lieferkette bricht oft an den Zollkontrollen in Osteuropa ein.
+Kannst du mal nachschauen, ob die Sendung schon zugestellt wurde?
+Der Frachtführer hat vergessen, das Ladegut richtig zu versichern.
+Ich bestelle immer über Amazon Prime, da kommt alles superschnell an.
+Die Zollpapiere waren unvollständig, daher gab es eine Verzögerung bei der Ausfuhr.
+Mein Großvater schickt mir jedes Jahr einen großen Brief mit Fotos.
+Die Lagerhalle ist überfüllt und die Kommissionierer arbeiten sich kaputt.
+Ich habe den falschen Tracking Code eingegeben, deshalb findet er nix.
+Die Spedition verlangt eine hohe Gebühr für die Nachnahme unseres Pakets.
+Bitte gib das Päckchen als Einschreiben auf, ich will sicher gehen.
+Der LKW Fahrer hat uns angerufen und fragte nach einem besseren Platz.
+Mein Online Bestellvorgang ist abgebrochen, weil die Zahlung nicht durchging.
+Die Importzölle für Elektronikartikel aus Asien sind wirklich krass hoch.
+Ich warte schon die ganze Woche auf meine neue Waschmaschine.
+Das Posthorn Logo erkenne ich sofort, auch wenn das Paket zerknüllt ist.
+Wir müssen die Gefahrgutvorschriften beachten, bevor wir den Akku verschicken.
+Mein Paket wurde anscheinend falsch geliefert, es steht vor der falschen Tür.
+Die Sendungsverfolgung zeigt an, dass der Brief gestern frankiert wurde.
+Kann ich das Paket zurücksenden oder muss ich es selbst zur Post bringen?
+Der Zollbescheid ist heute angekommen und hat mich richtig erschreckt.
+Unsere Lieferungen kommen oft verspätet an, weil die Kapazitäten fehlen.
+Das Paket wurde heute Vormittag zugestellt, war aber nicht da.
+Ich muss gleich zur Post gehen, weil sich meine Daten geändert haben.
+Die Tracking-Nummer wird seit Tagen nicht mehr aktualisiert.
+Kannst du das Dokument per Einschreiben aufgeben? Ich brauche den Beleg.
+Der Zoll hat meine Sendung zurückbehalten, angeblich wegen fehlender Rechnungen.
+Unsere Lieferzeiten verschieben sich gerade wegen des Personalmangels im Lager.
+Ich habe die Benachrichtigung erhalten, dass mein Paket heute kommt.
+Warum kosten Pakete aus Deutschland oft mehr als internationale Versandaufträge?
+Die Spedition hat vergessen, uns über die Verspätung zu informieren.
+Mein Nachbar hat das falsche Teil angenommen und es bereits geöffnet.
+Wir müssen die Einfuhrabgaben vorab zahlen, sonst wird nichts freigegeben.
+Das Paket ist beschädigt angekommen, ich mache sofort einen Protest an.
+Kannst du mir sagen, bis wann ich das Retourenformular absenden muss?
+Die Frachtkosten für diesen Umzug sind wirklich ins Auge geschnitten worden.
+Ich suche seit einer halben Stunde nach dem Abholschein in meiner Mailbox.
+Der Lieferant hat zugesagt, dass die Ware bis Freitag bei uns eintrifft.
+Meine Bestellung ist noch nicht einmal den Händler verlassen.
+Hast du schon gesehen, dass die Zustellgebühr für kleine Sendungen gestiegen ist?
+Das Gutachten für die Zollfreigabe kommt erst nächstes Jahr wohl.
+Ich kann das Paket nicht mehr ändern, es ist bereits im Transit.
+Die Rücksendung muss innerhalb von vierzehn Tagen bei uns eingehen.
+Unser Lagerist hat den falschen Karton gepackt, nochmal viel Glück gehabt.
+Kannst du bitte die Sendungsnummer aus dem Tracking-Portal kopieren?
+Die Lieferkette läuft aktuell wieder stabiler als im vergangenen Quartal.
+Mein Paket ist wieder mal verschollen, obwohl es bezahlt ist.
+Der Lieferservice hat die Tür geklopft, aber ich war im Garten.
+Ich habe den Trackcode eingegeben und nichts passierte einfach.
+Kannst du bitte den Sendungsnachweis mitnehmen wenn du zum Postamt gehst?
+Die Spedition hat die Paletten komplett falsch verladen, das Chaos ist groß.
+Warum dauert der Zoll so lange bei einem simplen Buchkauf?
+Ich muss morgen vormittag an der Paketstation vorbeischauen.
+Der Fahrer war pünktlich wie immer und hat sogar gegrüßt.
+Unsere Lagerkapazität ist erschöpft, wir müssen dringend umziehen.
+Hast du den Lieferschein für die neue Maschine schon erhalten?
+Mein Nachbar nimmt gerne Pakete entgegen wenn ich nicht da bin.
+Das Versandetikett war unleserlich und das Paket ging zurück.
+Wir haben die Lieferkette optimiert und sparen jetzt Zeit.
+Bitte lass das Paket nicht auf dem Balkon liegen, es regnet.
+Die Abholung bei der DHL Filiale war eine nervige Wartezeit.
+Ich brauche den Nachweis für die Steuererklärung vom letzten Jahr.
+Der Frachtlaufweg führt diesmal über Hamburg statt über Rotterdam.
+Kann ich mein Päckchen als Einschreiben aufgeben mit Rückantwort?
+Die Auslieferung lief heute reibungslos ab, alles war schnell da.
+Mein Kollege muss die Zollpapiere für den Import prüfen.
+Es gibt keine Lieferung am Sonntag, das weiß man ja leider.
+Das Tracking zeigt noch immer unterwegs an, seit letzter Woche.
+Wir suchen eine zuverlässige Spedition für Transporte nach Polen.
+Die Versandzentren arbeiten im Schichtbetrieb um alle Sendungen zu schaffen.
+Paket liegt wieder beim Nachbarn abgeholtes Schild fehlt total.
+Die Fracht ist noch auf dem Flughafen Frankfurt feststeckend.
+Hab den Lieferschein unterschrieben aber die Ware war beschädigt.
+Zollabfertigung dauert ewig wenn man Pech mit der Kontrolle hat.
+Meine Bestellung kam zwei Wochen zu spät an zum Geburtstag.
+Der Fahrer hat das Paket im Regen links liegen lassen müssen.
+Lagerkapazität ist voll wir müssen dringend Lagerfläche mieten.
+Expressversand kostet fast so viel wie die Artikel selbst leider.
+Trackingnummer aktualisiert sich schon seit drei Tagen nicht mehr.
+Die Spedition meldet einen Verkehrsstau auf der Autobahn heute.
+Ich muss noch die Einbürgerungspapiere ins Ausland schicken schnell.
+Retoure war super einfach online label ausdrucken und abgeben.
+Unser Import aus Vietnam kam mit verzögerter Zollanmeldung an.
+Paketstation ist zu weit weg vom Bahnhof ich finde das doof.
+Die Lieferkette für Elektronikbauteile ist aktuell wirklich instabil.
+Jemand hat meinen Briefkasten geplündert die Rechnung liegt nicht mehr drin.
+Kannst du mir kurz den Sendungsstatus auf WhatsApp schicken bitte?
+Das Paket war deutlich schwerer als in der Rechnung angegeben.
+Wir lagern das jetzt vorübergehend im Hochregallager umzustellen.
+Die Rücksendung wird wohl drei bis fünf Werktage dauern noch.
+Mein Geschenk ist unterwegs über die Schweiz muss ich mal gucken.
+Zolltarif hat sich geändert seit letztem Jahr für diese Kategorie.
+Der Boten kommt heute nicht mehr wegen des schlechten Wetters.
+Ich brauche einen neuen Versandkarton mit ausreichend Polstermaterial.
+Die Ware kam komplett unversehrt und pünktlich bei mir an top.
+Expresszustellung lohnt sich eigentlich nur wenn es wirklich eilig ist.
+Das Paket ist wieder im falschen Sortierzentrum gelandet.
+Ich warte schon seit einer Woche auf die Lieferung.
+Die Sendungsnummer funktioniert nicht in der App.
+Mein Nachbar hat das Ding aus dem Keller holen müssen.
+Wir brauchen dringend eine zuverlässigere Spedition für den Export.
+Der Zollblock war nicht korrekt ausgefüllt, Ärger garantiert.
+Kannst du mal schauen ob das Paket schon da ist?
+Die Lieferkette stockt aktuell wegen des Personalmangels.
+Ich muss meine Ware noch bis morgen verschicken.
+Das Rücksendeetikett wurde wieder abgelehnt vom Shop.
+Unsere Lagerbestände sind fast komplett leergeräumt worden.
+Warum muss ich immer bei Hermes zum Pickuppoint gehen?
+Die Frachtrechnung kommt dieses Quartal bestimmt zu spät.
+Ich habe meine Bestellung storniert bevor sie versandt wurde.
+Der Lieferant hat den falschen Ortsteil angegeben beim Senden.
+Bitte druckt mir doch gleich das Versandlabel aus.
+Die Ware war leider bei der Ankunft schon kaputt.
+Ich frage mich ob das Paket noch heute ankommt.
+Unser Großhandel importiert hauptsächlich aus Südostasien in diesem Monat.
+Die Abholmeldung ist mir komplett über den Tisch gefallen.
+Kann ich die Lieferung doch morgen gegenbezahlend abholen?
+Der Transporteur hatte einen Pannenstau auf der Autobahn.
+Mein Paket liegt schon seit gestern im Regal hier.
+Die Zollpapiere fehlen noch für die Ausfuhrerklärung.
+Endlich hat sich mal jemand gemeldet wegen der Zustellung.
+Das Paket ist wieder bei DHL abgeholt worden obwohl ich da war.
+Ich habe den Abholauftrag gelöscht weil ich heute gar nicht zu Hause bin.
+Die Sendungsverfolgung zeigt nur noch dass es im Postamt liegt.
+Mein Kollege muss die Zollpapiere für die Maschinen aus Deutschland unterschreiben.
+Die Lieferung ist drei Tage zu spät gekommen und das ist echt nervig.
+Kannst du mir sagen ob mein Paket heute schon zugestellt wurde?
+Der Spediteur hat den Container auf dem falschen Terminal abgestellt.
+Ich habe den Abholschein am Automaten gedruckt und jetzt muss ich noch hin.
+Die Lieferkette für unsere Rohstoffe ist durch die Streiks komplett gestört.
+Mein Bestellding liegt schon seit zwei Tagen beim Paketshop unabholt.
+Die Zollfreigabe hat länger gedauert als erwartet weil Unterlagen fehlten.
+Ich habe den Versandhelfer angerufen weil das Paket nicht ankommt.
+Die Exportdokumente müssen bis morgen Abend bei der Bank vorliegen.
+Das Päckchen aus Italien ist wieder verloren gegangen oder so ähnlich.
+Wir brauchen eine neue Lösung für die Letzte Meile im Innenstadtbereich.
+Der Fahrer hat den falschen Ortstafel gelesen und steht jetzt nicht hier.
+Ich muss mein Paket heute abholen weil ich morgen wieder auf Dienstreise bin.
+Die Lagerbestände sind knapp geworden weil die Lieferung aus Asien ausblieb.
+Kann man das auch als Einschreiben aufgeben oder nur normal per Post?
+Die Rücksendung war umsonst aber die Erstattung dauert schon ne Woche.
+Mein Paket steht seit vorgestern in Hamburg und bewegt sich nicht mehr.
+Die Spedition hat den Termin geändert ohne vorher Bescheid zu sagen.
+Ich brauche den Lieferschein für die Rechnung weil der fehlt irgendwie.
+Das Zollverfahren bei Elektronik ist immer so kompliziert mit den Batterien.
+Das Paket ist wieder bei der Nachsendekarte gelandet, typisch.
+Ich muss am Freitag vormittag definitely da sein für die Zustellung.
+Warum kostet das Retourenlabel jetzt extra, das war früher kostenlos?
+Die Spedition meldet sich seit drei Wochen nicht mehr zurück.
+Mein Amazon-Paket ist im Lager angekommen aber noch nicht rausgegangen.
+Hast du schon den Abholausweis für die Postfiliale besorgt?
+Der Zoll hat meine Bestellung aus Korea wegen der Batterie aufgehalten.
+Es steht auf dem Zettel dass der Lieferant heute kommt.
+Ich frage mich wer das Paket vor meiner Tür liegen gelassen hat.
+Die Lieferkette in Osteuropa läuft aktuell wirklich sehr chaotisch.
+Kannst du mir sagen ob die Sendung über Nacht transportiert wird?
+Mein Päckchen ist anscheinend im falschen Land gesichtet worden.
+Wir brauchen dringend einen neuen Logistikpartner für den Export nach Afrika.
+Die Signatur auf dem Lieferschein sieht gar nicht nach mir aus.
+Ich habe versehentlich das falsche Sendungsnummer eingegeben beim Tracken.
+Das Lager in Leipzig ist voll gestopft mit Weihnachtsgütern.
+Warum dauert die Zollfreigabe bei diesem Händler immer so lange?
+Ich soll mein Paket selbst abholen obwohl ich es bezahlt habe.
+Die Rücksendung ist leider zu spät im Umschlag geworfen worden.
+Mein Nachbar hat die Sendung für mich unterschrieben, das war okay.
+Die Kosten für den Expressversand sind gerade wirklich nicht vertretbar.
+Wir müssen die Dokumentation für den Zoll komplett überarbeiten.
+Das Tracking zeigt an dass das Paket morgen endlich bei mir ist.
+Ich hasse es wenn der Zusteller nur ein Zettelchen hinterlässt.
+Die Ware liegt seit gestern in der Verteilzentrale und bewegt sich nicht.
+Das Paket liegt seit gestern am Schalter und keiner holt es ab.
+Ich muss noch die Rechnung scannen bevor ich das Teil zurückschicke.
+Der Zoll hat meine Bestellung zweimal überprüft und das war echt stressig.
+Die Spedition hat den Lkw zu spät losgeschickt alles kommt heute an.
+Ich vergaß immer die Trackingnummer aufzuschreiben wenn ich etwas versende.
+Das Frachtgut muss vor der Ausfahrt nochmal gewogen werden sonst geht es nicht weiter.
+Mein Nachbar hat mein Paket bekommen obwohl er gar nichts bestellt hat.
+Die Lagerhalle ist voll mit Ware die noch nicht etikettiert wurde.
+Wir müssen die Einfuhrzölle berechnen bevor wir die Rechnung an den Kunden senden.
+Der Zusteller hat das Ding einfach in die Tonne geworfen ohne Bescheid zu sagen.
+Ich bestelle alles online damit ich nicht extra ins Geschäft fahren muss.
+Die Lieferzeiten aus Polen sind diesmal deutlich länger als sonst üblich.
+Hat jemand Erfahrung mit der Rücksendung bei diesem Versanddienstleister gemacht?
+Das Paket wurde als zugestellt markiert obwohl niemand da war.
+Wir brauchen dringend neue Paletten für die nächste Auslieferung am Freitag.
+Der Scanner an der Packstation funktioniert wieder mal nicht richtig heute.
+Ich muss den Abholschein ausdrucken bevor ich zur Postfiliale gehe.
+Die Zollpapiere fehlen noch bei zwei Sendungen aus Asien.
+Mein Kollege ist mit dem Transporter gerade unterwegs zur nächsten Station.
+Das Geschenk kam leider zu spät an und die Feier war schon vorbei.
+Wir suchen einen neuen Logistikpartner der auch Samstage liefert.
+Die Frachtkosten sind in letzter Zeit deutlich gestiegen und das nervt mich.
+Kann ich mein Paket umleiten lassen weil ich nächste Woche verreise?
+Mein Paket liegt wieder im Shop, obwohl ich extra frei genommen habe.
+Die Sendung ist seit zwei Tagen unterwegs und bewegt sich nicht mehr.
+Ich muss die Zollpapiere noch einmal nachreichen, sonst kommt nichts an.
+Der Lieferant hat vergessen anzurufen und einfach das Ding auf die Treppe gestellt.
+Unsere Lagerhaltung ist aktuell komplett durcheinander wegen des neuen Systems.
+Kannst du mal gucken ob mein Tracking sich aktualisiert hat?
+Die Frachtkosten sind dieses Jahr wieder explodiert, das wird teuer.
+Ich bekomme immer diese nervigen Benachrichtigungen obwohl alles längst da ist.
+Der Zoll hat die Sendung zurückgehalten weil der Warenwert falsch deklariert war.
+Wir brauchen dringend einen neuen Spediteur, der jetzige liefert nur zu spät.
+Mein Kollege hat das Paket im Büro vergessen und nun liegt es unsortiert rum.
+Die Expresszustellung ist zwar schnell aber definitiv nicht preislich attraktiv.
+Ich habe die Unterschrift verpasst und jetzt muss ich noch mal abholen.
+Der Versand aus Asien dauert leider länger als bei europäischen Händlern.
+Wir müssen die Lieferkette diversifizieren um unabhängiger von einzelnen Partnern zu sein.
+Das Paket war an der Ecke kaputt, glücklicherweise ist der Inhalt okay.
+Ich frage mich ob ich da doch nochmal reklamieren soll beim Anbieter.
+Die Retoure ist endlich angekommen und mein Geld kommt hopefully zurück.
+Bei uns im Lager fehlt ständig Überblick wegen der schlechten Kennzeichnung.
+Der Zollschwein hat wieder mal meinen Computer gestoppt ohne Grund.
+Kann jemand kurz die Pakete von der Tür holen? Ich bin gerade beschäftigt.
+Die Lieferadresse wurde falsch eingegeben und nun geht es an den Nachbar.
+Ich hasse diese Zeitfenster für die Lieferung die immer nicht halten.
+Mein letzter Import war total unkompliziert, alles lief reibungslos ab.
+Wir planen gerade die Umstellung auf eine nachhaltigere Verpackungsstrategie.
+Päckchen ist wieder im Paketshop gelandet statt direkt an die Tür.
+Die Sendungsverfolgung aktualisiert sich schon seit zwei Stunden nicht mehr.
+Ich muss morgen zum Postfach laufen um meine Ware abzuholen.
+Der Fahrer hat das Teil einfach auf dem Gehweg stehen lassen.
+Wir brauchen für den Export sofort eine gültige Zertifikatskopie.
+Die Lieferkette stockt aktuell wegen des Streiks am Hafen erheblich.
+Mein Onlinekauf kam beschädigt an, jetzt muss ich reklamieren.
+Das Zollamt verlangt zusätzliche Dokumente für meine Sendung aus Asien.
+Ich hab den Lieferschein vergessen, deshalb konnte er nicht einliefern.
+Die Spedition verspricht, dass die Palette bis Freitag dort ist.
+Warum dauert mein Paket so lange im Umschlagzentrum München?
+Wir müssen die Importsteuer noch vor der Auszollung begleichen.
+Der Nachbar soll das Paket entgegennehmen wenn ich nicht da bin.
+Meine Bestellung ist leider schon wieder storniert worden ohne Hinweis.
+Die Lagerbestände sind leer, weil die Lieferzeiten sich verlängert haben.
+Ich brauche eine Rücksendebriefmarke für diesen defekten Artikel dringend.
+Das Paket wurde fälschlicherweise als verloren markiert, Glück im Unglück.
+Könnt ihr den Versand auf DHL Express umstellen, ich eile es?
+Die Zollabfertigung dauert hier immer mindestens drei Werktage lang.
+Mein Sohn hat das große Geschenk wieder zur Postmitarbeiterin gegeben.
+Wir suchen einen zuverlässigen Partner für die Logistik in Osteuropa.
+Das Etikett ist abgefallen und jetzt weiß niemand wo es hingehört.
+Ich warte schon seit zwei Wochen auf meine neuen Schuhe aus Italien.
+Die Frachtkosten haben sich im letzten Quartal deutlich nach oben entwickelt.
+Bitte nehmt das Ding wieder mit, ich habe doch Storno gedrückt.
+Das Paket liegt schon seit gestern im Geschäft ohne Benachrichtigung.
+Ich muss heute noch zwei Päckchen für die Oma aufgeben.
+Die Sendung ist leider wieder von der Zustellung abgewichen.
+Mein Großauftrag kam pünktlich am Vormittag an der Tür an.
+Kannst du mal schauen ob dein Paket schon zugestellt wurde?
+Der Trackingcode funktioniert seit Stunden nicht mehr richtig.
+Bei Amazon Prime bekomme ich alles immer schnell und kostenlos.
+Das war wohl wieder eine verlorene Sendung beim DHL Depot.
+Ich brauche dringend ein Nachsendeauftrag für meine neue Adresse.
+Der Zoll hat mein Paket aus Italien nochmal kontrolliert.
+Wir suchen einen zuverlässigen Partner für den Gütertransport nach Polen.
+Die Lagerbestände müssen bis morgen abend komplett aktualisiert sein.
+Hat jemand Erfahrung mit dem Versenden von zerbrechlichen Waren?
+Mein Nachbar hat wieder mal das falsche Paket abgeholt.
+Die Rücksendung muss ich leider selbst wieder zum Shop bringen.
+Ich warte schon seit zwei Wochen auf meinen Online-Bestellstatus.
+Der LKW Fahrer hat die Ladung falsch platziert und beschädigt.
+Kann ich mein Paket auch an einem Samstag in der Filiale abholen?
+Die Frachtkosten sind im Vergleich zum letzten Quartal gestiegen.
+Ich habe das Geschenk verpackt aber die Schachtel ist zu groß.
+Warum steht bei meiner Lieferung immer wieder Zustellung ausgesetzt?
+Die Zolldokumente waren unvollständig und das verzögert alles enorm.
+Wir müssen die Lieferzeiten für die Weihnachtszeit nochmal überarbeiten.
+Mein Paket fehlt seit gestern trotz Bestätigung im System.
+Der Lieferant steht schon seit einer halben Stunde vor der Tür.
+Ich hasse es, wenn ich wegen eines Pakets extra zum Shop muss.
+Die Zollabfertigung hat länger gedauert als ursprünglich angekündigt.
+Kann jemand kurz meinen Brief aus dem Schacht holen?
+Das Lager war komplett überfüllt, weil die Weihnachtsgeschäftsspitze kommt.
+Meine Sendung wurde an die falsche Adresse zugestellt.
+Wir müssen die Ware dringend zurücksenden wegen eines Defekts.
+Hat schon jemand Erfahrung mit Zollgebühren für Kleinlieferungen?
+Der Spediteur hat versichert, dass der LKW heute noch kommt.
+Ich habe den Tracking Code verloren und kann nichts mehr finden.
+Warum dauert der Versand innerhalb Deutschlands plötzlich so lange?
+Das Paket wurde beschädigt geliefert, ich fordere eine Ersatzlieferung.
+Bitte gib die Rechnung als Anlage im System mit hoch.
+Der Abholschein ist leider abgelaufen, das war meine Schuld.
+Wir brauchen einen zuverlässigen Partner für den Export nach Polen.
+Mein Onlinekauf liegt schon seit zwei Wochen an der Grenze fest.
+Kann ich die Lieferung auf morgen Vormittag umplanen lassen?
+Die Frachtkosten sind bei so einem Gewicht richtig happig geworden.
+Ich war nicht zu Hause und hab die Zustellkarte übersehen.
+Das Lagermanagement ist bei uns leider noch sehr chaotisch organisiert.
+Hast du gesehen, wie viele Pakete heute schon angekommen sind?
+Der Zolldienst hat die Papiere angefordert, ich bin nervös.
+Wir suchen noch nach einem günstigen Anbieter für Palettenversand.
+Mein Kollege hat das falsche Etikett auf die Box geklebt.
+Das Paket hat mich am Wochenende gar nicht angerufen.
+Meine Sendung liegt seit gestern im Zustellcenter rum.
+Ich muss morgen wieder zum Paketshop rennen, blöd geregelt.
+Die Spedition liefert erst nächste Woche, obwohl es Express war.
+Zollfrankieren ist immer so ne nervige Sache beim Einkaufen.
+Das Teil wurde bei der Übergabe schon mal zerkratzt.
+Wer hat das Kiste eigentlich in den Hof gestellt?
+Ich hab die Rechnung für die Ware noch nicht bekommen.
+Die Lieferkette funktioniert aktuell leider gar nicht richtig.
+Mein Nachbar wollte das Paket einfach so entgegennehmen.
+Der LKW steht schon seit nebstunde vor dem Tor.
+Ich muss schnellstens den Versand per Einschreiben aufgeben.
+Die Ware ist laut Tracking endlich angekommen.
+Zollpapiere fehlen, jetzt geht alles noch langsamer voran.
+Hast du meinen Brief bereits an die Geschäftsstelle weitergegeben?
+Das Lager war komplett leer, wir warten auf Nachschub.
+Ich brauche den Abholschein dringend für die Filiale.
+Die Rücksendung kostet fast so viel wie der Artikel.
+Frachtversicherungen sind bei großen Sendungen einfach Pflicht.
+Mein Nachbar hat mir das Paket mal kurz ausgeliebt.
+Der Zusteller hat vergessen, dass er klingeln muss.
+Wir importieren diese Rohstoffe direkt aus Südostasien.
+Die Warensortierung im Lager läuft seitdem viel schneller.
+Ich such den Beleg für die Portoerstattung überall.
+Das Etikett ist beim Transport leider komplett abgeklebt.
+Da ist schon wieder so ein dämliches Paketlabel kleben, ich hasse das.
+Mein Sendungsstatus zeigt seit zwei Tagen nur noch in Bearbeitung an.
+Hast du die Rechnung für den Spediteur schon bezahlt oder mach ich das?
+Das Lager war voll überladen, da finden wir nichts mehr schnell.
+Ich muss dringend die Zollpapiere nachreichen sonst bleibt es hängen.
+Der Lieferwagen stand schon vorm Haus als ich noch unter der Dusche war.
+Wir haben gerade die Lieferroute für Norddeutschland komplett neu geplant.
+Kannst du mal schauen ob das Paket im Nachbarhaus abgegeben wurde?
+Die Frachtkosten sind bei diesem Gewicht wirklich ins Gewicht gefallen.
+Ich warte immer noch auf den Abholfahrer, der war gestern schon zu spät.
+Pack die Kartons doch besser mit Luftpolsterfolie ein, das sieht zerdrückt aus.
+Unsere Exportlieferung nach Japan muss erst noch durch die Zölle gehen.
+Der Trackcode wurde nicht aktualisiert seit Wochen, das ist echt nervig.
+Ich hab den Briefumschlag vergessen zu frankieren und bin dann spät dran.
+Die Kommissionierung im Lager lief heute reibungslos ab ohne Pannen.
+Warum kommt meine Bestellung immer per DHL anstatt bei Hermes oder DPD?
+Das Sendungsverfolgungssystem sagt zugestellt aber ich hab nix bekommen.
+Wir müssen die Lieferkette diversifizieren damit wir nicht vom Streik betroffen sind.
+Kannst du den Versand als Warensendung aufgeben, das ist doch günstiger?
+Der Zoll hat meine Sendung überprüft weil der Wert falsch deklariert war.
+Ich such schon seit einer Stunde nach dem Abholschein für die Paketstation.
+Die Paletten waren nicht richtig gesichert und sind im Transit umgekippt.
+Mein Paket wurde fälschlicherweise als verloren gemeldet obwohl es da ist.
+Bitte gebt das mit Priorität auf, der Kunde braucht es bis Donnerstagabend.
+Das Lagermanagement-Software stürzt ab wenn man zu viele Artikel einscannt.
+Mein Paket kam wieder unversehrt an, obwohl der Karton schon zugeknickt war.
+Die Lieferadresse hat nicht gestimmt, deshalb lag das Ding jetzt bei Nachbarn.
+Ich muss morgen früh zur Post, weil mein Päckchen dort abgeholt werden kann.
+Der Tracking-Code zeigt immer noch keine Bewegung, ich warte seit einer Woche.
+Beim Online-Shopping ist der Versandanbieter oft entscheidend für die Zufriedenheit.
+Die Spedition hat den LKW zu spät geladen, jetzt kommen alle Frachten verzögert an.
+Kannst du mal checken ob das Paket schon zugestellt wurde oder nicht?
+Mein Bruder arbeitet in einer Lagerhalle und schwört auf organisierte Palettenplazierung.
+Der Zoll hat meine Bestellung aus Italien zurückgehalten, weil ich die Nummer vergessen habe.
+Expressversand ist teuer, aber manchmal einfach unerlässlich wenn es schnell gehen muss.
+Ich bekomme immer diese kleinen Zettel in den Briefkasten statt mein Paket selbst.
+Die Lieferkette brach im Hafen zusammen, da waren alle Container monatelang gestapelt.
+Hast du schon gesehen dass dein Sendung wieder zum Absender zurückgesandt wurde?
+Wir müssen die Importzölle vorher berechnen, sonst kommen unerwartete Kosten dazu.
+Der Paketbote hat das Teil einfach auf den Rasen geworfen, das finde ich inakzeptabel.
+In unserem Logistikzentrum läuft alles digitalisiert ab, kein Papier mehr im Spiel.
+Mein Kollege muss gerade ein Zollformular ausfüllen und steht total unter Druck.
+Ich hab den Abholcode auf dem Handy und kann das jetzt selbst scannen.
+Der Lagerbestand ist endlich aktualisiert worden, die alte Datenbank war veraltet.
+Paketschreiber sind nervig, man wartet stundenlang im Regen ohne Ergebnis.
+Die Frachtversicherung hat glücklicherweise gedeckt, sonst hätten wir alles verloren.
+Kann ich meine Lieferung auf nächsten Dienstag umplanen oder nur abholen?
+Meine Oma bekommt ihre Medikamente per Post, das ist für sie wichtig.
+Der Exportzoll war komplizierter als gedacht, viele Papiere mussten geprüft werden.
+Endlich ist mein neues Buch angekommen, die Wartezeit hat sich gelohnt.

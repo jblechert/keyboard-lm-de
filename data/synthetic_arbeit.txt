@@ -894,7 +894,6 @@ Ich muss dringend mal wieder in urlaub fahren.
 Die deadline ist morgen früh, schlafe heute nacht kaum.
 Kannst du die datei mal per mail an alle schicken?
 Bin gerade im stau auf der arbeit, komme später.
-Die besprechung hätte wirklich eine email sein koennen.
 Ich brauche dringend einen neuen stuhl fuer den rucken.
 Hat jemand meine tasche gesehen? Ich finde sie nicht.
 Die telefonkonferenz heute war total sinnfrei und lang.
@@ -2530,30 +2529,6 @@ Ich vermiss die Kollegen doch irgendwie in der Homeoffice Phase.
 Bitte schick mir die Datei bis morgen früh per Mail.
 Das neue Bürokonzept ist viel zu laut für mich.
 Ich habe keine Lust mehr auf diese falschen Versprechen.
-Mein Laptop streikt gerade zum perfekten Zeitpunkt
-Ich kann heute nicht länger, mein Kopf ist voll
-Die Kaffeemaschine im Büro ist wieder kaputt
-Hast du schon die Antwort auf meine Bewerbung bekommen
-Überstunden werden hier leider als selbstverständlich angesehen
-Am liebsten würde ich meinen Bildschirm jetzt ausschalten
-Wir brauchen dringend neue Stühle, die alten sind müde
-Die Konferenz dauete ewig und brachte gar nichts
-Das Homeoffice fühlt sich irgendwie unangemessener an
-Mein Kollege hat heute wieder sein Handy laut gestellt
-Die Kündigung hab ich endlich auf dem Tisch liegen
-Ich schwöre, das Projekt wird niemals termingerecht fertig
-Der neue Praktikant ist total nett und sehr schnell
-Ich muss dringend noch eine Mail vor Feierabend absenden
-Warum müssen wir jeden Freitag noch eine Standup machen
-Das Gehalt ist okay, aber die Arbeit zu viel
-Ich traue mich nicht, meinen Boss um Urlaub zu fragen
-Das Druckerproblem nervt mich schon seit zwei Wochen
-Wir sollten mal ein Teambuilding ohne Alkoholdruck machen
-Meine Tastatur ist wirklich schon am Ende angelangt
-Die Bewerbungsschleife nervt mich langsam total kaputt
-Ich genieße die Stille zu Hause unglaublich sehr
-Der Vorgesetzte gibt null Feedback, nur Druck
-Hast du den Link für das Videogetränk geschickt
 Das Daily Meeting war heute wieder viel zu lang.
 Ich muss endlich mal die Urlaubstage anmachen.
 Mein Chef hat mich heute total unter Druck gesetzt.
@@ -3866,7 +3841,6 @@ Mein Homeoffice Setup sieht jetzt endlich ordentlich aus.
 Warum muss ich immer derjenige sein der druckt?
 Die Urlaubsgenehmigung kam heute noch per E-Mail an.
 Ich hasse es wenn man mich am Freitag unterbricht.
-Das Bonusgeld kommt wohl erst nächsten Monat wieder.
 Wir brauchen dringend einen neuen Beamer für den Saal.
 Mein Kollege ist krank, ich muss seinen Teil machen.
 Die Gehaltsverhandlung war ganz anders als erwartet wirklich.
@@ -3959,7 +3933,6 @@ Hast du schon gehört dass die Firma reorganisiert wird?
 Mein Schreibtisch sieht aus wie ein Sperrmüllberg heute Morgen.
 Die Pause war zu kurz, jetzt brauche ich unbedingt Kaffee.
 Ich bewerbe mich nur auf Stellen mit flexiblen Arbeitszeiten.
-Der neue Mitarbeiter hat den falschen Button gedrückt im System.
 Warum müssen wir eigentlich jeden Morgen um sieben da sein?
 Ich hab heute wieder Überstunden gemacht für dieses dumme Projekt.
 Mein Chef ist heute in keiner guten Laune gewesen.
@@ -7744,7 +7717,6 @@ Ich hasse diese endlos langen Standup Meetings am Montagmorgen.
 Hast du schon mal probiert einfach nach Hause zu gehen?
 Das Gehalt passt nicht mehr wirklich zu den jetzigen Aufgaben.
 Die Neue im Marketing Team wirkt auf mich ziemlich arrogant.
-Ich muss dringend noch eine Email vor Feierabend abschicken.
 Warum müssen wir jeden Freitag bis zwei Uhr überlegen.
 Hab heute morgen direkt meinen Kündigungsschreiben geschrieben und abgeschickt.
 Das Homeoffice ist super aber ich vermisse den Kaffee von nebenan.
@@ -9534,7 +9506,6 @@ Ich hoffe ich bekomme endlich mal einen eigenen Schreibtisch zugewiesen hier.
 Das Gehalt ist zwar okay aber die Arbeitsbedingungen könnten besser sein.
 Ich muss dringend noch das Projekt fertigstellen bis morgen Abend halt.
 Meine Kollegin hat mir heute super bei einer wichtigen Aufgabe geholfen danke.
-Der Chef fragt immer wieder nach dem Status obwohl ich ihm gesagt habe
 Der Chef will wieder um fünf Uhr nachmittags besprechen was morgen los ist.
 Ich schicke dir die Datei später, muss gerade noch eine Sache fixen.
 Hör auf mir zu sagen wie ich meine Arbeit machen soll.
@@ -10301,30 +10272,6 @@ Ich muss noch die Emails vom Wochenende durchackern.
 Schluss mit Überstunden, ab heute mache ich Feierabend pünktlich.
 Die Stellenanzeige klingt gut aber wahrscheinlich zu gut.
 Ich vermisse die Gespräche im Büro wirklich sehr.
-Könntest du mir mal kurz zeigen wie das neue System geht
-Mein Chef findet dass Homeoffice total ineffizient ist
-Die Überstunden haben sich dieses Monat wirklich nicht ausgezahlt
-Ich muss dringend meinen Termin im Kalender verschieben wegen des Staus
-Warum müssen wir eigentlich jeden Montag vormittags so früh dran sein
-Das Gehalt passt gerade nicht wirklich zu dem Arbeitsaufwand den ich bringe
-Hab heute schon wieder drei Mails ignoriert weil mir einfach die Energie fehlt
-Die neue Kollegin ist super nett und kommt gut mit allen klar
-Ich habe mich doch nicht auf diese Stelle bewerben wollen ehrlich gesagt
-Der Drucker im dritten Stock funktioniert schon seit Wochen überhaupt nicht
-Ich kann diesen Tonfall beim Kunden nicht mehr hören wirklich nicht
-Es gibt keine Pause für Kaffee weil das Meeting zu lange gedauert hat
-Die Kündigung muss bis Ende des Monats eingehen sonst wird es kompliziert
-Wir sollten mal darüber reden wie wir die Zusammenarbeit verbessern können
-Der Zug war heute zu und ich bin eine Stunde zu spät im Büro
-Ich freue mich eigentlich schon auf den Feierabend am heutigen Abend
-Das Team Building war wirklich nervig und hat gar keinen Spaß gemacht
-Kannst du bitte die Datei bis zum Mittag schicken damit wir weitermachen
-Die Gehaltserhöhung kam leider nicht wie erwartet dieses Jahr überhaupt nicht
-Ich muss heute abend noch einmal kurz in die Stadt für Dringliches
-Der neue Leiter ist sehr direkt und lässt wenig Raum für Diskussionen
-Ich vergesse immer wieder meine Zugangsdaten weil sie zu kompliziert sind
-Es war wirklich anstrengend den ganzen Tag vor dem Bildschirm zu sitzen
-Das Wochenende wird bestimmt ruhig sein weil alle noch im Urlaub sind
 Wir haben heute wieder drei Stunden gesessen ohne Ergebnis.
 Mein Chef ist heute Morgen schon früh schlecht gelaunt.
 Ich würde mir echt mal eine Pause gönnen wollen.
@@ -10387,7 +10334,6 @@ Warum müssen wir eigentlich jeden Freitag statusupdate machen.
 Ich arbeite heute von zu Hause weil ich krank bin.
 Der Druckschalter im Kopierer hat mich fast umgehauen echt.
 Mein Boss redet nur noch über Synergien und Ziele.
-Das Meeting könnte man komplett auf Email reduzieren finde ich.
 Habe wieder zu lange auf den Zug gewartet heute Morgen.
 Die Pausenregelung ist hier total streng, kaum Zeit dazu.
 Ich trinke drei Kaffees am Tag, sonst schaffe ich nichts.
@@ -12668,7 +12614,6 @@ Die neue Kollegin ist schon nach einer Woche komplett durchgebrannt.
 Kannst du bitte kurz schauen, ob der Drucker wieder offline ist.
 Ich muss endlich mal mit dem Boss über mehr Geld reden.
 Heute habe ich zum dritten Mal in Folge Überstunden gemacht.
-Das Video-Call war total langweilig und unnötig lange kéo
 Wir suchen schon seit Monaten nach einem neuen IT-Mitarbeiter.
 Mein Schreibtisch ist ein kompletter Chaos, da muss ich aufräumen.
 Ich frage mich ernsthaft, wozu wir diese täglichen Standups brauchen.
@@ -13616,3 +13561,2309 @@ Ich liebe es, wenn die Kollegen mir beim Projekt helfen wirklich toll.
 Die Bürotöpfe werden wieder mal nach dem Meeting vergessen auf den Tischen.
 Mein alter Job war zwar besser bezogen auf die Arbeitsatmosphäre insgesamt.
 Hoffentlich findet sich bald jemand neuer für die offene Position endlich.
+Das wöchentliche Meeting ist reine Zeitverschwendung für mich.
+Ich habe vorhin meine Kündigung offiziell eingereicht.
+Kannst du kurz checken, ob die Rechnung schon rausgegangen ist?
+Der Druck vom Chef wird langsam zur echten Belastung.
+Ich verhandle morgen mit meinem Vorgesetzten über mehr Geld.
+Homeoffice ist super, aber ich vermisse den Kaffeeklatsch.
+Am Freitagabend bleibt wieder keiner freiwillig bis 17 Uhr.
+Die neue Kollegin hat sich surprisingly gut eingearbeitet bisher.
+Mein Laptop stürzt beim Videoanruf immer zum Unglücksfall aus.
+Ich kann heute nicht kommen, weil ich krankgeschrieben bin.
+Die Gehaltstabelle ist bei uns komplett undurchsichtig und unfair.
+Wir müssen dringend den Projektplan für Q3 überarbeiten.
+Es nervt einfach, dass alle ständig ihre Lautsprecher nutzen.
+Ich habe das Vorstellungsgespräch bestanden, freue mich riesig.
+Überstunden ohne Zuschlag sind eigentlich nur ausgebeutete Zeitdiebstahl.
+Mein Schreibtisch ist ein absolutes Chaos an Papierbergen.
+Die Pausenschnacke macht den ganzen Tag irgendwie erträglicher.
+Ich versuche heute frühzeitig zu gehen wegen Termin beim Arzt.
+Das neue Bürokonzept mit Glasmalen finde ich total durchgeknallt.
+Wir brauchen endlich einen neuen Drucker, der alte stinkt nur noch.
+Mein Chef hat wieder mal seine launische Stimmung am Morgen.
+Die Gehaltsabrechnung war dieses Monat komplett falsch berechnet.
+Ich schreibe gerade an meiner Lebenslauf und verzweifle daran.
+Das Team-Event am Samstag war eine echte Folter für mich.
+Wir bekommen nächste Woche neue Computer, endlich wird es Zeit.
+Der Kaffeeautomat macht wieder mal nur noch Schlamm raus.
+Ich hasse es wenn die Besprechung über das Mittagessen geht.
+Mein Chef ruft erst um 18 Uhr an statt am Morgen.
+Die neue Kollegin ist super nett, aber leider etwas langsam.
+Ich drucke gerade die Unterlagen aus und bin schon genervt.
+Heute gibt es wieder diese nervige Powerpoint-Präsentation im großen Saal.
+Endlich kann ich heute früher gehen weil das Projekt fertig ist.
+Das Gehalt passt gar nicht zur Menge an Stress hier.
+Ich schreibe morgen meine Kündigung, die Luft macht sich einfach weg.
+Im Homeoffice vergesse ich manchmal direkt wieder zu arbeiten richtig.
+Die IT-Leute brauchen ewig für so einen simplen Passwort-Reset.
+Mir fällt kein einziger Grund ein warum ich da bleiben sollte.
+Wir müssen heute abend noch bis spät dranbleiben leider.
+Der neue Chef ist viel zu streng und kontrolliert jeden Schritt genau.
+Ich bewirb mich gerade online und hoffe auf baldige Rückmeldung.
+Das Meeting hätte wirklich eine kurze Nachricht genügt ehrlich gesagt.
+Mein Schreibtisch liegt immer voll mit Akten die ich schon längst bearbeiten wollte.
+Die Kaffeepause ist der einzige Lichtblick in diesem langen Tag.
+Ich bekomme ständig Anfragen obwohl ich eigentlich krank gemeldet bin.
+Endlich wieder Donnerstag, dann kann man wenigstens mal durchatmen.
+Die Gehaltserhöhung war ein Witz im Vergleich zur Inflation aktuell.
+Mein Kollege druckt privat immer Fotos aus dem Drucker hier.
+Ich muss dringend meine Bewerbung für die neue Stelle schreiben.
+Der Zug ist heute wieder mal zu spät, pünktlich werde ich nicht.
+Das Meeting hätte locker per Mail gekonnt, ehrlich gesagt.
+Mein Chef ruft an obwohl es Samstagabend ist.
+Im Homeoffice bin ich irgendwie viel fokussierter als im Büro.
+Die Bewerbung ist abgeschickt, jetzt kann ich nur noch hoffen.
+Ich kündige nächstes Jahr definitiv, die Luft ist aus mir raus.
+Überstunden wurden heute zum Glück nicht gemacht, endlich mal.
+Gehaltserhöhung kam dieses Jahr wieder nicht zustande, total doof.
+Der neue Kollege ist super nett und bringt frischen Wind rein.
+Die Kaffeemaschine im dritten Stock funktioniert seit Wochen nicht mehr.
+Ich schreibe gerade den Bericht für die Monatsübersicht, langweilig.
+Mein Arbeitsplatz ist total chaotisch, ich finde nichts mehr wieder.
+Das Telefon klingelt die ganze Zeit, man kommt nie zum Atmen.
+Wir müssen uns umstellen weil der Markt sich schnell ändert.
+Die Besprechung heute war wirklich unnötig und sehr zeitraubend.
+Ich freue mich schon auf den Urlaub, endlich mal abschalten.
+Der Vorgesetzte ist unfair und benimmt sich echt schlimm.
+Homeoffice ist super aber manchmal vermisst man den Zusammenhalt trotzdem.
+Ich bewerbe mich intern weil mir die Arbeit dort besser gefällt.
+Kündigung habe ich erst gar nicht erwartet, war ein Schockmoment.
+Überstunden werden hier leider als selbstverständlich angesehen von allen Seiten.
+Gehaltsgespräch steht an und ich habe keine Argumente parat.
+Die Technik streikt wieder mal zur falschen Zeit im Büro.
+Mein Chef lobt mich selten, das frisst mir die Motivation auf.
+Wir essen oft zusammen zu Mittag am selben Tisch jeden Tag.
+Das Projekt wird nicht fertig bis zum vereinbarten Termin dieses Mal.
+Ich muss heute noch drei E-Mails schreiben bevor ich nach Hause gehe.
+Die Kaffeemaschine ist seit Montag kaputt und niemand kümmert sich darum.
+Mein Kollege hat mich ganz schön verrückt gemacht mit seinem Lachen im Open Space.
+Endlich mal kein Meeting am Freitag, das nehme ich gerne an.
+Die Gehaltserhöhung war eher bescheiden für die Arbeit die wir leisten.
+Ich schreibe gleich meine Bewerbung auf diese neue Stelle und hoffe sehr darauf.
+Am Homeoffice merke ich erst wie laut meine Nachbarn eigentlich sind.
+Die Kündigung habe ich heute übergeben, jetzt zähle ich nur noch die Tage.
+Überstunden werden hier leider als Selbstverständlichkeit angesehen und nicht extra bezahlt.
+Wer muss nochmal den Bericht bis morgen fertig stellen? Ich hab keine Lust mehr.
+Der neue Mitarbeiter ist super nett aber er hat null Ahnung von dem System.
+Ich brauche dringend eine Woche Urlaub um wieder zur Besinnung zu kommen.
+Die Bürotöpfe sind total schmutzig, das kann doch nicht normal sein.
+Heute habe ich meinen ersten Tag im neuen Job und bin mega nervös.
+Kann jemand mal kurz den Drucker fixen? Das Teil stört mich schon ewig.
+Mein Vorgesetzter redet nur rum ohne dass man ihm richtig zuhören kann.
+Das Team hat die Deadline geschafft, alle sind jetzt froh und locker.
+Ich suche noch einen Job mit mehr Work-Life-Balance als bisher.
+Die Kantine schmeckt wieder nur mittelmäßig, ich esse lieber selbst mit.
+Das Video-Call war eine Katastrophe weil das Internet immer weggefallen ist.
+Ich hoffe dass die Besprechung nicht über den Mittagshunger hinausgeht heute.
+Die Arbeitsbedingungen haben sich leider wieder verschlechtert seit der Umstrukturierung.
+Mein Chef lobt mich selten aber wenn es passiert fühlt man sich wertgeschätzt.
+Der Kaffee in der Küche schmeckt wirklich nicht mehr.
+Ich habe das ganze Wochenende über diese Präsentation gearbeitet.
+Kannst du mal kurz die Jalousien im Konferenzraum runterlassen?
+Mein Chef findet meine Idee total genial, ehrlich gesagt auch ich.
+Wir müssen dringend mit dem Budget für das Marketing sprechen.
+Die Homeoffice-Ausstattung wird leider nicht komplett übernommen vom Arbeitgeber.
+Ich schreib grad eine Kündigung, weil ich mich ausgebrannt fühle.
+Hast du schon gehört dass die Abteilung neu strukturiert wird?
+Das Telefon klingelt permanent und ich kann gar nicht mehr arbeiten.
+Mein Kollege bringt immer seine eigenen Probleme in jedes Meeting ein.
+Ich würde gerne früher gehen aber der Chef ist noch da.
+Die Gehaltsverhandlung lief super, er hat sogar noch nachgebessert.
+Ich finde es nervig wenn man abends immer noch Mails checkt.
+Das neue Jobangebot klingt wirklich vielversprechend, auch die Kultur dort.
+Ich muss noch drei E-Mails beantworten dann bin ich heute fertig.
+Die Pausenschnacke war lustig aber jetzt kann ich wieder arbeiten.
+Mein Arbeitsplatz ist total chaotisch, ich finde nix mehr sofort.
+Wir haben wieder überarbeitet weil der Termin einfach nicht verschoben werden konnte.
+Ich bewarb mich spontan ohne großes Anschreiben, mal sehen was passiert.
+Der Neue in der Abteilung wirkt sehr einschüchternd und distanziert.
+Ich hasse es wenn Meetings erst fünfzehn Minuten zu spät starten.
+Mein Laptop ist langsam am Auscheiden, ich brauche dringend einen Neuen.
+Ich habe heute Vormittag nur noch an mein Wochenende gedacht.
+Die Besprechung heute Vormittag war völlig unnötig.
+Kannst du mal kurz den Drucker reparieren, bitte?
+Ich schreibe gerade meine Kündigung, brauche noch einen Beweisleser.
+Mein Boss redet immer nur Mist und versteht gar nichts.
+Das Gehalt passt nicht zur heutigen Miete in der Stadt.
+Wir haben wieder Überstunden gemacht ohne dass etwas extra kommt.
+Die Homeoffice Regelung ist super aber ich vermisse die Kollegen.
+Hast du schon das Dokument vom letzten Projekt gesendet?
+Ich bekomme Migräne wenn ich diese Konferenzsoftware anschauen muss.
+Die Neue im Team scheint total nett und kompetent zu sein.
+Morgen ist Feiertag, heute können wir eigentlich früher gehen.
+Mein Arbeitszimmer sieht aus wie ein Schlachtfeld gerade jetzt.
+Ich habe Angst dass ich den neuen Termin wieder verpasse.
+Das Büro ist heute so leer weil alle krank sind.
+Kannst du mir beim Excel Sheet helfen, ich schaffe das nicht.
+Die Gehaltsverhandlung war stressig aber ich habe trotzdem gewonnen.
+Ich hasse es wenn der Chef am Freitag Abend noch Mails sendet.
+Mein Platz im Büro ist voller Kaffeeschalen und alten Papieren.
+Wir müssen dringend einen neuen Drucker kaufen, der alte kaputt.
+Die Bewerbung war einfacher als ich mir das vorgestellt hatte.
+Ich freue mich schon auf den nächsten Urlaub vom Stress weg.
+Der Kollege neben mir schnarcht laut während des Telefonats gestern.
+Ich brauche dringend eine Pause weil mein Kopf raucht heute.
+Das Projekt läuft gut aber wir brauchen mehr Personal jetzt.
+Hast du gesehen wie spät der Chef heute wieder gekommen ist?
+Die Endloskonferenz war wirklich pure Zeitverschwendung.
+Ich hoffe mal dass die neue Software schneller läuft.
+Mein Chef findet das irgendwie nicht so lustig.
+Heute habe ich extra früh Feierabend gemacht.
+Das Gehalt passt mir leider überhaupt nicht mehr.
+Im Homeoffice vergesse ich ständig zu Mittag essen.
+Die Neue im Team ist super nett und hilfsbereit.
+Ich muss endlich mal wieder ins Büro gehen.
+Diese E-Mail Kette wird langsam wirklich zum Problem.
+Überstunden sind bei uns leider völlig normal geworden.
+Bist du auch morgen schon wieder früher da?
+Der Aufzug hat heute die ganze Zeit gestreikt.
+Ich überlege ernsthaft ob ich mich kündigen soll.
+Das Frühstück im Konferenzraum schmeckt immer so seltsam.
+Mein Arbeitsplatz ist ein komplettes Chaos geworden.
+Wir brauchen dringend neue Bildschirme für die Abteilung.
+Die Pausenzeiten werden hier streng beaufsichtigt.
+Ich habe Angst vor dem nächsten Performance Review.
+Der Drucker jammernde Geräusche machen mich nervös.
+Kannst du mal kurz das Licht im Flur ausmachen?
+Unsere Arbeitsmoral leidet unter der langen Leitung.
+Das neue Gehaltspaket hat mich doch überrascht.
+Ich trage heute wieder nur Jogginghose nach unten.
+Die Kaffeemaschine macht schon wieder seltsame Geräusche.
+Endlich mal keine Termine am Dienstagabend mehr.
+Ich hasse es wenn der Chef immer um vier Uhr nachmittags Meetings ansetzt.
+Kannst du mir mal kurz die Datei schicken bevor ich geh?
+Die Kaffeemaschine in der Pause ist wieder defekt wie üblich.
+Ich sitze schon seit drei Stunden vor diesem Excel Blatt und blicke nicht durch.
+Am liebsten würde ich heute einfach gar nicht zur Arbeit gehen.
+Hast du schon gehört dass die Abteilung reorganisiert wird?
+Die Überstunden dieses Monats waren wirklich zu viel des Guten für mich.
+Ich brauche dringend einen Kaffee sonst schaffe ich den restlichen Tag nicht.
+Mein Arbeitszimmer sieht aus wie eine Baustelle nach der Renovierung.
+Wir haben heute wieder kein Mittagessen weil die Küche gesperrt ist.
+Der neue Kollege kommt erst morgen anstatt heute wie angekündigt war.
+Ich frage mich ob ich mir die Gehaltserhöhung wirklich verdient habe.
+Die Bildschirmzeit heute war definitiv zu lang und meine Augen tun weh.
+Kannst du kurz abdecken wenn ich zur Zahnarzttermin muss?
+Ich vermisse eigentlich die ruhige Arbeitsatmosphäre von früher im Büro.
+Das Telefon klingelt ständig und ich kann mich einfach nicht konzentrieren.
+Meine Kollegin hat mir gesagt dass das Meeting verschoben wurde.
+Ich schreibe gerade meine Kündigung weil ich einen neuen Job gefunden habe.
+Die Druckerpatrone ist leer und niemand weiß wo die Ersatzteile liegen.
+Ich muss bis zwei Uhr bleiben um den Report fertigzustellen.
+Warum bekommen wir nie Pausen obwohl wir so viel arbeiten müssen?
+Das Homeoffice macht mir manchmal echt zu viel Angst vor Isolation.
+Ich habe vergessen mein Passwort zurückzusetzen und kann nicht mehr einloggen.
+Der Chef meinte ich soll mich mehr in das Team einbringen.
+Die Besprechung könnte echt mal schneller werden.
+Ich schick dir die Datei gleich per Mail rüber.
+Heute muss ich wieder bis spät abends hier bleiben.
+Mein Boss ist heute besonders schlecht gelaunt.
+Das neue Projekt hat eigentlich keinen Sinn für uns.
+Kannst du kurz den Drucker reparieren, der macht Probleme.
+Ich freue mich total auf meinen nächsten Urlaub.
+Die Kantine war gestern echt zum Kotzen wieder.
+Wir müssen das Ziel bis Freitag unbedingt erreichen.
+Mir reicht es langsam mit diesen endlosen Konferenzen.
+Hat jemand meinen Stift gesehen, ich suche schon ewig.
+Das Gehalt ist wirklich nicht mehr zeitgemäß hier.
+Ich arbeite morgen von zu Hause aus wegen Kinderkrankheit.
+Die Deadline war gestern schon überschritten worden leider.
+Unser Chef redet nur noch in komplizierten Begriffen heute.
+Ich habe meine Kündigung heute offiziell übergeben endlich.
+Das Vorstellungsgespräch lief gar nicht so schlecht eigentlich.
+Wir brauchen dringend einen neuen Laptop für die Abteilung.
+Die Homeoffice Regeln sind streng geworden in letzter Zeit.
+Kann ich am Freitag früh gehen, ich bin kaputt.
+Die Gehaltsverhandlung wird wohl wieder nichts bringen dieses Mal.
+Meine Kollegin hat mir heute ein tolles Geschenk gemacht.
+Das Büro ist heute merkwürdig ruhig ohne die meisten Leute.
+Ich muss meine Arbeitszeit noch im System erführen heute.
+Der neue Mitarbeiter passt total gut ins Team bisher.
+Wieder mal bis neun Uhr abends im Büro hängen geblieben.
+Kannst du mir bitte kurz die Datei von gestern zusenden?
+Das Mittagessen mit den Kollegen ist schon fast ein Ritual.
+Ich habe gerade die Kündigung geschrieben und schicke sie morgen.
+Hoffentlich kommt das Gehalt nächste Woche endlich auf mein Konto.
+Die Homeoffice-Zeiten sind mir jetzt doch irgendwie zu einsam.
+Wer ist eigentlich für das neue Projekt im Marketing zuständig?
+Mir fehlt einfach der persönliche Austausch mit meinem Team.
+Das Telefon läutet die ganze Zeit und ich finde keine Ruhe.
+Ich muss unbedingt mal wieder einen Urlaub beantragen und abschalten.
+Mein Chef hat heute wieder alle Besprechungen absichtlich zu spät begonnen.
+Im Büro riecht es irgendwie immer nach altem Kaffee und Kopiertoner.
+Ich freue mich riesig auf meine Beförderung zum nächsten Monat.
+Die neuen Mitarbeiter sind noch etwas unsicher bei ihren Aufgaben.
+Kannst du mir sagen, wann die Jahresfeier dieses Jahr stattfindet?
+Ich arbeite heute von zu Hause aus wegen der schlechten Wetterlage.
+Der Druck am Arbeitsplatz ist manchmal einfach viel zu hoch.
+Wir brauchen dringend einen neuen Drucker, denn der alte streikt ständig.
+Meine Kollegin hat sich so toll um das Event gekümmert und vorbereitet.
+Ich überlege mir gerade, ob ich wirklich kündigen soll oder bleibe.
+Die Meetings am Montagmorgen sind für mich einfach immer zu lang.
+Hoffentlich bekomme ich dieses Jahr endlich mal eine echte Prämie ausgezahlt.
+Ich vermisse die gemeinsame Pausenzeit mit meinen alten Arbeitskollegen sehr.
+Der Kaffee in der Maschine schmeckt heute wieder wie abgestanden.
+Wir müssen das Projekt bis Freitag irgendwie noch fertig kriegen.
+Mein Schreibtisch ist ein wahres Chaos, ich finde gar nichts mehr.
+Die Deadline steht vor der Tür und wir sind immer noch nicht fit.
+Kannst du mal kurz auf den Monitor schauen, da läuft was falsch.
+Ich habe heute wirklich keine Lust auf dieses sinnlose Statusmeeting.
+Im Homeoffice vergesse ich manchmal zu essen, weil ich so vertieft bin.
+Wir haben doch schon tausendmal über diesen Prozess gesprochen.
+Die neue Software bringt uns nur Probleme statt mehr Effizienz.
+Ich brauche dringend eine Gehaltserhöhung, die Miete steigt ja auch.
+Mein Kollege hat heute wieder sein Shirt von gestern angezogen.
+Bewerbung abgeschickt, jetzt heißt es nur noch nervös warten.
+Das Telefon klingelt nonstop, ich komme kaum zum Durchatmen.
+Wir sollten mal wieder ein Teamevent machen, das wäre super nett.
+Die Kündigung liegt auf meinem Tisch, ich bin morgen frei.
+Mein Chef redet immer zu viel und kommt nicht zur Sache.
+Ich hasse es, wenn Leute in Meetings nur ihren Laptop checken.
+Überstunden werden hier leider als selbstverständlich vorausgesetzt.
+Kann ich heute früh ausgehen, ich habe den ganzen Tag gelernt.
+Die neue Kollegin ist super freundlich und hilft gerne weiter.
+Ich vergesse ständig mein Passwort für das interne System einzugeben.
+Das Büro ist zu laut, da kann ich mich gar nicht konzentrieren.
+Wir müssen bald mal über meine berufliche Entwicklung sprechen.
+Endlich Freitag, heute Feierabend bin ich pünktlich weg.
+Habe heute schon wieder drei Stunden auf diesen einen Bericht gewartet.
+Kannste das bitte kurz in Teams schreiben, dann ist es schneller.
+Mein Chef redet nur rum aber macht eigentlich gar nichts Konkretes.
+Ich muss morgen früh um sieben da sein weil die Konferenz startet.
+Das Homeoffice hat mir wirklich geholfen meine work life balance zu finden.
+Wir sollen ab nächster Woche wieder zwei Tage im Büro sein.
+Hoffentlich klappt die Gehaltsgespräch dann auch wirklich noch diese Woche.
+Bin total genervt von den ständigen Unterbrechungen in den Meetings.
+Endlich Feierabend jetzt kann ich mich richtig vom Stress ablenken.
+Habe gerade meinen Zettel für die Kaffeemaschine vergessen verdammt noch mal.
+Der Vorgesetzte ist heute wieder einmal in schlechter Laune gewesen.
+Ich überlege ernsthaft ob ich mir eine neue Arbeit suchen sollte.
+Die Deadline war gestern und wir haben es trotzdem nicht geschafft.
+Wir machen nächste Woche einen Teamevent im Wald zum Austanken.
+Ich brauche dringend einen neuen Stuhl weil mein Rücken weh tut.
+Das Projekt läuft gerade gar nicht so gut wie geplant war.
+Habe meine Bewerbung gestern abgeschickt und warte jetzt nervös auf Antwort.
+Mein Arbeitsplatz ist ein Chaos aber ich finde alles trotzdem wieder.
+Die Kollegen machen immer nur Witze über die langen Stand ups.
+Ich muss heute noch den monatlichen Bericht fertig stellen bis 16 Uhr.
+Kannst du bitte das Licht ausmachen weil es so hell blendet hier.
+Wir haben wieder eine neue Richtlinie bekommen die niemand versteht wirklich.
+Die Konferenz heute Morgen war komplett verschwendete Zeit.
+Ich muss morgen früh wieder um sieben da sein.
+Mein Chef ist heute besonders schlecht gelaunt.
+Wer hat eigentlich meinen Kaffee getrunken?
+Das Homeoffice macht mir echt gut, ehrlich gesagt.
+Ich überlege schon lange, ob ich kündigen soll.
+Die neuen Kollegen sind wirklich nett und hilfsbereit.
+Wir haben gerade das Quartalsziel verfehlt, pech halt.
+Kannst du mal kurz mein Laptop fixen bitte?
+Das Gehalt passt eigentlich ganz gut im Moment.
+Ich habe keine Lust auf dieses Telefonat wirklich nicht.
+Mein Schreibtisch ist ein komplettes Chaos heute Morgen.
+Die Präsentation läuft glatt, phew, endlich vorbei.
+Ich brauche dringend einen Kaffee, sonst falle ich um.
+Warum müssen wir wieder am Freitagabend bleiben?
+Die Bewerbung war schwieriger als ich dachte eigentlich.
+Mein Vorgesetzter lobt mich kaum, das nervt mich.
+Im Büro ist es heute wieder zu warm drin.
+Ich habe den Bericht schon fertig geschrieben gestern.
+Das Meeting kann auch per Mail geklärt werden.
+Wer hat die Lampe ausgemacht im Flur?
+Ich freue mich riesig auf mein Wochenende jetzt.
+Die Gehaltverhandlung war angespannt, aber erfolgreich am Ende.
+Mein Kollege kommt heute krankgeschrieben zur Arbeit nicht.
+Das neue Projekt klingt spannend, aber stressig wahrscheinlich.
+Die Besprechung war langweilig und hätte schnell gehen können.
+Ich muss dringend mit dem Boss über mehr Lohn sprechen.
+Am Montag gehts wieder los und ich hab total keine Lust.
+Der neue Kollege ist super nett und hilfsbereit eigentlich.
+Homeoffice bedeutet für mich endlich Ruhe und weniger Stress.
+Die Kündigung habe ich gestern noch nicht ganz verarbeitet.
+Warum müssen wir immer mittags um elf im Konferenzraum sein.
+Mein Arbeitsplatz ist chaotisch aber irgendwie gewohnt und bequem.
+Die Überstunden werden leider nicht extra bezahlt in der Firma.
+Ich hoffe inständig dass die Bewerbung bald positiv beantwortet wird.
+Der Kaffee in der Pausenküche schmeckt heute wieder grauenvoll.
+Wir planen gerade das Firmenevent für den Sommerurlaub im Juli.
+Meine Aufgabe war gestern erledigt aber es kam noch dazu.
+Das Telefon klingelt nicht aufhören und ich kann endlich arbeiten.
+Der Vorgesetzte gibt immer seltsame Kommentare zu meinen Projekten ab.
+Ich suche aktiv nach einer neuen Stelle mit besserer Bezahlung.
+Die Deadline ist morgen und ich schaffe das wahrscheinlich nicht.
+Kannst du bitte meine E-Mails im Auge behalten während ich weg bin.
+Das Büro ist heute merkwürdig ruhig weil viele fern arbeiten dürfen.
+Die Gehaltsvorstellung war höher als erwartet aber sie wollen verhandeln.
+Wir sitzen schon seit einer Stunde im Kreis und reden nichts.
+Mein Schreibtisch liegt leider direkt neben der lauten Klimaanlage immer.
+Die Onboarding-Phase war anstrengend aber jetzt klappt alles super gut.
+Ich traue mich nicht einfach so zum Chef ins Büro reinzugehen.
+Kannst du mir kurz den Bericht zuschicken?
+Das war wohl nicht der richtige Zeitpunkt für diesen Witz.
+Ich muss echt mal wieder meinen Urlaub nehmen.
+Warum müssen wir eigentlich immer montags früh meeting halten?
+Die Kaffemaschine im Flur ist schon wieder kaputt.
+Mein Chef hat heute morgen direkt nach der Leistung gefragt.
+Ich hoffe wirklich, dass die Gehaltsverhandlung klappt.
+Hast du meinen Anruf gestern übersehen oder so?
+Die Überstunden schütteln wir uns erst am Wochenende aus.
+Eigentlich wollte ich nur noch kurz was abschließen und gehen.
+Das neue Laptop ist total langsam, kann man das ändern?
+Ich finde unsere Teamstruktur einfach irgendwie unnötig kompliziert.
+Kannst du bitte die Lichter ausmachen wenn du gehst?
+Die Bewerbung ging leider nicht durch, aber egal.
+Heute arbeite ich ganz normal von zu Hause aus.
+Mir fällt es schwer, nach Feierabend abzuschalten.
+Das Projekt wird sicher wieder mal verspätet übergeben.
+Wir sollten dringend mal den Drucker warten lassen.
+Ich hab heute frei und freue mich schon riesig.
+Deine Präsentation war wirklich super gemacht, herzlichen Glückwunsch.
+Können wir das Gespräch auf nächste Woche verschieben?
+Die neue Kollegin passt eigentlich ganz gut ins Team.
+Ich bekomme immer Stress wenn der Chef um die Ecke kommt.
+Schick mir bitte die Datei bis zum Mittag.
+Warum ist der Termin schon wieder verschoben worden?
+Die Zoom-Kamera bleibt wieder mal aus bei den Kollegen.
+Ich frag einfach meinen Boss um die Gehaltserhöhung.
+Endlich ist der Freitag da und die Arbeit steht still.
+Der Kaffee in der Kaffeemaschine schmeckt schon wieder bitter.
+Wir haben heute ein wichtiges Projektbesprechungsmeeting mit dem Kunden.
+Ich muss unbedingt mal durchatmen bei diesem Stress hier.
+Das Homeoffice macht mir doch gar so viel Spaß wie erwartet.
+Mein Chef ist heute morgen total genervt aufgestanden.
+Ich hab die Bewerbungsschreiben noch nicht richtig formuliert bekommen.
+Die neuen Kollegen sind zwar nett aber noch etwas schüchtern.
+Überstunden zahlt man uns leider immer nur als Freizeitpause aus.
+Ich sollte wirklich mal meine Arbeitszeit fairer einteilen lernen.
+Der Drucker im Büro kaputt geht schon wieder heute morgen.
+Wir haben einen sehr lockeren Umgangston untereinander am Arbeitsplatz.
+Mein Job ist stressig doch die Kollegen machen es erträglich.
+Ich brauche dringend mal ein paar Tage Urlaub zum Erholen.
+Die Gehaltsabrechnung kam heute pünktlich auf mein Konto herein.
+Der Chef will dass wir noch länger im Team bleiben.
+Homeoffice bedeutet für mich mehr Freiheit als das Büro jetzt.
+Ich habe meine Kündigung schriftlich eingereicht beim Personalchef gestern.
+Die Mittagspause ist die beste Zeit zum Durchatmen wirklich.
+Mein Arbeitsplatz hat gerade mal eine kleine Pflanze darauf stehen.
+Wir planen schon wieder ein Teamevent für nächsten Monat vorzubereiten.
+Der neue Mitarbeiter scheint sehr engagiert und motiviert zu sein.
+Endlich wieder frei von den ständigen Unterbrechungen im Büro.
+Ich schick dir die Unterlagen gleich mal per Mail rüber.
+Die letzten drei Projekte waren wirklich hart an die Nerven gegangen.
+Kannst du kurz prüfen ob der Drucker noch Papier hat?
+Mein Boss möchte das Ergebnis bis morgen Vormittag haben.
+Ich habe beschlossen mich nicht mehr auf diese Stelle zu bewerben.
+Das Homeoffice macht mir manchmal doch zu viel Angst vorm Telefonieren.
+Wir müssen dringend einen Termin für das Besprechung finden.
+Die Gehaltsfortzahlung im Krankheitsfall ist bei uns geregelt.
+Ich bin so froh dass das Meeting heute verkürzt wurde.
+Könntest du bitte den Kaffee nachfüllen wenn du ohnehin vorbeikommst?
+Die neue Kollegin kommt morgen erst mal nur zum Kennenlernen vorbei.
+Ich habe heute zwei Stunden Überstunden gemacht, das war blöd geplant.
+Der Vertrag läuft nächsten Monat aus und wird wahrscheinlich verlängert.
+Mir fehlt die direkte Kommunikation mit dem Team im Büroalltag.
+Ich brauche dringend einen Tag frei um meine Kopfweh zu vergessen.
+Die Gehaltserhöhung kam leider später als ich gehofft hatte ursprünglich.
+Wir sollten mal über eine bessere Work-Life-Balance reden hier.
+Ich habe den Termin versehentlich doppelt gebucht, mein Fehler halt.
+Das Bewerbungsgespräch verlief überraschend gut und sehr sympathisch overall.
+Kann jemand kurz abspringen weil ich pünktlich weg muss heute?
+Die Büroheizung ist wieder mal viel zu stark eingestellt heute.
+Ich suche aktuell einen Job mit flexibler Arbeitszeitmodelle eigentlich.
+Mein Chef hat gesagt dass wir abwechselnd im Homeoffice arbeiten dürfen.
+Die Gehaltsvorstellung war wohl doch etwas zu hoch angesetzt von mir.
+Ich freue mich auf den nächsten Urlaub nach der stressigen Projektphase.
+Ich muss wieder Überstunden machen weil der Chef nicht delegieren kann.
+Die Kaffeemaschine im Büro ist schon wieder kaputt gegangen.
+Kannst du mir mal die Unterlagen für das Projekt schicken?
+Mein Homeoffice Setup sieht langsam ganz ordentlich aus.
+Das Telefonat mit dem Kunden war heute echt anstrengend.
+Ich hoffe auf eine Beförderung bis zum Jahresende dieses Jahr.
+Die Mittagspause vergeht viel zu schnell wenn man Hunger hat.
+Wir haben wieder ein useless Meeting das niemand gebraucht hat.
+Mein Kollege ist immer pünktlich was mich irgendwie nervt.
+Ich überlege ob ich dem Boss mal die Kündigung gebe.
+Das Gehalt reicht gerade so für Miete und Lebenshaltungskosten.
+Die neue Kollegin wirkt auf mich erst mal etwas abschottend.
+Können wir den Termin auf nächste Woche verlegen bitte?
+Ich habe heute keine Lust mehr auf irgendwelche Aufgaben.
+Der Drucker streikt schon die ganze Vormittag lang nicht aufhören.
+Man merkt echt den Unterschied zwischen Büro und Remote Work.
+Ich muss dringend meinen Urlaub planen bevor alles ausgebucht ist.
+Die Besprechung hat sich eigentlich nur in Smalltalk aufgelöst.
+Mein Chef lobt mich nie wenn ich gute Arbeit geleistet habe.
+Wir brauchen endlich neue Stühle weil die alten quietschen.
+Ich schicke dir gerade noch die finale Version der Präsentation.
+Es ist schwer sich im Homeoffice abends abzuschalten wirklich.
+Die Gehaltsverhandlung war gestern total unangenehm für beide Seiten.
+Ich trinke zu viel Kaffee wegen der vielen Deadline stress.
+Kann jemand das Licht im Konferenzraum bitte ausschalten gehen?
+Der neue Job klingt gut aber die Bedingungen sind seltsam.
+Ich muss wieder mal extra bleiben weil die E-Mails nie aufhören.
+Die Besprechung war komplett unnötig und hat nur Zeit gestohlen.
+Mein Chef macht sich total rar in letzter Zeit im Büro.
+Im Homeoffice vergesse ich oft zu Mittag zu essen ehrlich gesagt.
+Die Gehaltsverhandlung ging heute glatt daneben leider.
+Ich bin so genervt von diesen ständigen Statusupdates.
+Kannst du mal kurz schauen ob das Meeting versetzt wird?
+Mein neuer Job ist stressiger als erwartet aber das Geld stimmt.
+Die Kaffeemaschine im Flur funktioniert seit Tagen einfach nicht mehr.
+Ich schreibe gerade meine Kündigung und zittere dabei echt leicht.
+Die Kollegen sind nett aber man kommt kaum zum arbeiten.
+Heute wieder drei Stunden Standbesprechung für absolut nichts.
+Ich hoffe die Gehaltserhöhung klappt endlich dieses Jahr mal.
+Das Homeoffice ist schön nur der Bildschirm stresst mich.
+Mein Chef hat heute wieder alle Pläne kurzfristig geändert.
+Ich muss dringend meine Bewerbungsunterlagen aktualisieren und formatieren.
+Die Überstunden zahlen sich bei uns kaum merklich aus.
+Wer hat bitte den Drucker wieder blockiert ohne Grund?
+Ich bin total erschöpft nach dieser langen Projektphase hier.
+Das Onboarding war komplett chaotisch und schlecht organisiert irgendwie.
+Mein Bürokollege spricht im Telefonat viel zu laut hier.
+Ich traue mich gar nicht anzusagen dass ich krank bin.
+Die neue Software ist komplizierter als die alte ehrlich gesagt.
+Wir sitzen wieder bis spät in die Nacht am Projekt.
+Ich würde lieber remote arbeiten statt jeden Tag zu pendeln.
+Die Pausenautomat ist wieder kaputt, wir alle sind genervt.
+Ich habe heute drei Stunden über die Deadline gearbeitet.
+Kannst du mal kurz reinschauen wie ich das Excelblatt mache?
+Der Chef war heute echt schlecht gelaunt auf der Besprechung.
+Ich verpasse morgen den Zug weil ich zu spät aufgestanden bin.
+Mein Platz am Schreibtisch ist total unübersichtlich, muss aufräumen.
+Wir haben heute keine Kundenanrufe bekommen, das war sehr ruhig.
+Die Gehaltsbesprechung findet nächste Woche Dienstag um zehn Uhr statt.
+Ich drucke gerade den Vertrag für die neue Mitarbeiterin aus.
+Das Homeoffice gefällt mir besser weil ich mich nicht konzentrieren muss.
+Hast du schon gesehen wer im Team neu dazukommt nächsten Monat?
+Ich schicke dir gleich die Datei mit den aktuellen Zahlen zu.
+Die Klimaanlage ist wieder ausgefallen, hier wird es richtig heiß.
+Wir sollten das Projekt vielleicht nochmal gemeinsam durchgehen und besprechen.
+Ich brauche dringend neue Kaffeetassen weil meine alle zerbrochen sind.
+Der Mitarbeiter hat heute wieder mal wieder mal seinen Urlaub genommen.
+Ich muss noch schnell die Rechnungen vom letzten Monat archivieren.
+Kannst du bitte die Tür hinter dir zumachen wenn du rausgehst?
+Die Präsentation sieht gut aus aber wir brauchen noch mehr Daten.
+Mein Kollege hat mir heute einen lustigen Witz erzählt im Flur.
+Wir müssen dringend das Budget für das nächste Quartal überprüfen.
+Ich sitze seit zwei Stunden vor diesem Bildschirm und starr an.
+Die Besprechung war zu lang geworden, wir hätten früher aufhören sollen.
+Hast du meine E-Mail gelesen? Ich brauche schnell eine Antwort.
+Ich habe heute meinen letzten Arbeitstag hier, morgen ist Feierabend.
+Ich muss noch drei Mails absenden, dann kann ich heute endlich loslegen.
+Die Besprechung um elf hat sich total überzogen, wie üblich.
+Mein Schreibtisch sieht aus, als wäre gerade ein Orkan durchgerauscht.
+Warum müssen wir jeden Montag wieder Statusupdates machen?
+Das Gehalt ist zwar okay, aber die Work-Life-Balance leidet enorm darunter.
+Ich hoffe wirklich, dass das Projekt nächste Woche endlich fertig ist.
+Kollege Thomas spricht so laut im Call, dass alle ihn hören.
+Die Bewerbung war abgeschickt und jetzt warte ich nur noch nervös darauf.
+Heute mal früher gehen, sonst werde ich bald den Nervenspur bekommen.
+Der neue Drucker druckt wieder nicht, der Support ist auch zu langsam.
+Ich brauche dringend einen Urlaub, bin absolut am Ende meiner Kräfte.
+Die Gehaltsverhandlung lief gar nicht so schlecht, zumindest habe ich Eindruck gemacht.
+Mein Homeoffice-Setup ist schick, aber das Sofa lockt mich trotzdem runter.
+Wir haben wieder Überstunden gemacht, obwohl der Chef davon abgeraten hat.
+Ich muss mit meiner Chefin reden, sie ignoriert mich seit Wochen total.
+Das neue Office ist modern, aber das Licht blendet mir die Augen aus.
+Bewerbungszeit ist Stress pur, man fragt sich ständig, ob man gut genug ist.
+Die Kollegin von der Abteilung nebenan schickt mir immer falsche Dateien.
+Ich würde gerne kündigen, traue mich aber nicht so richtig dazu.
+Das Team Meeting war kurz und knapp, das hat heute mal gut getan.
+Mein Laptop hängt seit zwei Stunden fest, ich kann gar nichts machen.
+Die Gehaltserhöhung kam pünktlich zum Monatsende, das war wenigstens sicher.
+Ich muss morgen früh wieder um sieben im Büro sein, scheiße Wetter dazu.
+Endlich Feierabend, morgen kann mich erstmal nichts bewegen.
+Die Jungs von der Produktion sind echt super nett.
+Ich muss dringend noch diese eine Datei absenden.
+Hat schon jemand das Update auf dem Server gemacht?
+Mein Schreibtisch sieht aus wie nach einem Bombenanschlag.
+Kaffee ist die einzige Sache, die mich heute am Leben hält.
+Wir können uns doch nicht mal fünf Minuten unterhalten.
+Die Kündigung hab ich ihm gestern persönlich übergeben.
+Homeoffice ist toll, aber das Sofa lockt zu stark.
+Dienstag steht wieder dieses ewige Statusmeeting an.
+Das Gehalt ist zwar okay, aber die Arbeit ist stressig.
+Kann jemand kurz mein Telefonate entgegennehmen?
+Die Bewerbung war eigentlich ganz einfach zu schreiben.
+Ich zähle nur noch die Tage bis zum Urlaub rum.
+Der Drucker macht wieder mal keine Lust auf mehr.
+Überstunden sind hier leider normal geworden, finde ich blöd.
+Wir müssen heute Abend um Punkt acht fertig sein.
+Die neue Kollegin ist wirklich schnell eingearbeitet worden.
+Mein Platz im Büro ist irgendwie zu klein geworden.
+Ich hätte gestern eigentlich früher gehen sollen.
+Die E-Mail vom Kunden war echt nicht nett formuliert.
+Virtuelle Meetings nerven mich nach einer Weile doch.
+Ich brauche dringend einen langen Wochenendtrip raus hier.
+Das neue Projekt klingt erst mal sehr vielversprechend.
+Die Pausenbesprechung hat wieder endlos gedauert.
+Ich schreibe gleich meine Kündigung ab.
+Mein Chef ist heute irgendwie sehr gut drauf.
+Wir müssen morgen früh das Projekt besprechen.
+Das Homeoffice gefällt mir doch besser als vor Ort.
+Ich brauche dringend eine Gehaltserhöhung dieses Jahr.
+Die Kaffeemaschine im Büro ist mal wieder kaputt.
+Kannst du mal kurz die E-Mails checken?
+Ich sitze schon seit drei Stunden an diesem Text.
+Der Neue vom Support ist wirklich super nett.
+Wir bekommen nächste Woche endlich Freitagnachmittag frei.
+Ich hasse es wenn man am Feierabend noch arbeiten muss.
+Die Jahresbonuszahlung kommt voraussichtlich Ende Monat an.
+Meine Kollegen lachen heute wieder über meinen Witz.
+Ich bewerbe mich auf die Leiterposition ab morgen.
+Das Video-Meeting hat total schlecht funktioniert gestern.
+Ich habe meinen Job gekündigt, weil ich gestresst war.
+Im Büro ist es mir heute zu warm zum Arbeiten.
+Wir machen heute Mittagspause gemeinsam in der Kantine.
+Ich bin froh dass das Projekt endlich abgeschlossen ist.
+Mein Arbeitszimmer wird langsam viel zu klein für mich.
+Die Überstunden wurden leider nicht extra bezahlt diesmal.
+Ich suche seit Wochen nach einem besseren Arbeitsplatz.
+Der Drucker hat mal wieder seinen Geist aufgegeben heute.
+Die Pausenmaschine ist schon wieder leer gefüllt worden.
+Endlich Feierabend, die ganzen Meetings waren zum Kotzen.
+Ich muss mal kurz mit dem Chef sprechen wegen Urlaub.
+Kannst du bitte meine Mails checken bis ich zurück bin?
+Das Gehalt stimmt zwar, aber die Arbeit stresst mich total.
+Mein Arbeitsstuhl hat sich verabschiedet und tut weh.
+Homeoffice ist super, nur manchmal fehlt mir der Austausch.
+Ich habe heute schon wieder drei Überstunden gemacht gottverdammtes.
+Die Bewerbung war abgeschickt, jetzt heißt es einfach warten.
+Kollegen sind nett, aber im Büro ist es so laut hier.
+Der neue Vorgesetzte kommt morgen vorbei zur Einweisung hier.
+Habe den Kündigungsschreiben gerade geschrieben und mich getraut zu senden.
+Das Teambuilding war eher peinlich als wirklich lustig eigentlich.
+Ich brauche dringend einen neuen Drucker für mein Zimmer.
+Gestern Abend habe ich bis spät gearbeitet aus Frust heraus.
+Der Termin heute Nachmittag wurde leider nochmal verschoben wieder.
+Mein Büro ist voller Papierkram und nichts geht schnell hier.
+Die Azubi macht super Fortschritte in der letzten Woche bisher.
+Ich sollte vielleicht doch mal den Beruf wechseln ernsthaft überlegen.
+Das Gehaltsgebot war zu hoch für meine aktuelle Position wohl.
+Kaffee wäre jetzt echt gut, ich bin total erledigt schon.
+Die Softwareaktierung hat wieder mal alles blockiert zum Glück nicht.
+Wir haben heute eine wichtige Präsentation vor dem Vorstandschaft hier.
+Ich mag meinen Chef, aber er redet viel zu laut manchmal.
+Das Homeoffice Setup sieht mittlerweile wirklich professionell aus endlich.
+Habe die Unterlagen fürs Arbeitsverhältnis schon online hochgeladen erfolgreich.
+Die Pufferzeit für das Lunchmeeting ist schon wieder weg.
+Mein Laptop streikt mal wieder an so einem wichtigen Tag.
+Kannst du kurz den Bericht durchschauen bevor ich ihn sende?
+Ich muss heute leider früher gehen weil die Kinder krank sind.
+Der neue Mitarbeiter scheint super nett und wirklich hilfsbereit zu sein.
+Warum müssen wir eigentlich noch immer jeden Montag um sieben da sein?
+Ich hab endlich die Gehaltserhöhung bekommen, bin total happy.
+Die Kaffeemaschine ist kaputt und der Kaffeeautomat auch.
+Mein Boss redet sich nur selbst im Kreis während das Meeting geht.
+Ich arbeite heute von zu Hause aus weil ich mich leicht erkälte habe.
+Die Bewerbung hat leider nicht geklappt, aber ich versuch es nochmal.
+Wir haben so viel Stress dass kaum jemand mittags isst.
+Meine Kollegin ist gerade im Urlaub und ich muss ihre Mail abdecken.
+Die Deadline war gestern schon vorbei, also drücken wir jetzt alle.
+Ich hab Angst dass die Firma bald Probleme mit den Zahlen bekommen könnte.
+Das neue Bürodesign finde ich wirklich unpraktisch und zu hell.
+Kannst du mir kurz helfen mit dieser Excel-Datei? Ich verstehe es nicht.
+Ich überlege schon lange ob ich einen neuen Job suchen soll.
+Die Überstunden zahlen sich irgendwie nie richtig aus bei uns.
+Mein Chef ist heute in gutem Laune, das ist selten.
+Wir brauchen dringend einen Terminplaner damit wir uns alle einig sind.
+Die IT-Support-Leute sind langsam mit der Fehlerbehebung endlich dran.
+Ich freu mich schon auf die Feierabend-Bierchen mit den Kollegen.
+Die Gehaltsverhandlung wird heute Nachmittag stattfinden, bin nervös.
+Mein Schreibtisch ist wieder total überladen von alten Akten und Papieren.
+Wir sollten mal überlegen ob wir flexiblere Arbeitszeiten einführen können.
+Die Kaffeemaschine im Büro macht seit Wochen keinen ordentlichen Kaffee mehr.
+Ich muss unbedingt noch meine Urlaubsanträge für den Sommer einreichen.
+Das wöchentliche Standup-Meeting sollte wirklich kürzer gehalten werden.
+Mein Vorgesetzter schickt Mails, kurz bevor er ins Homeoffice geht.
+Ich suche schon seit Monaten nach einem Job mit besseren Arbeitszeiten.
+Die Überstunden letzten Monats haben sich echt nicht gelohnt.
+Kannst du mal prüfen ob die Rechnung vom Kunden eingegangen ist?
+Ich finde es schwer mich hier zu Hause wirklich zu konzentrieren.
+Das Gehaltgespräch findet erst nächsten Monat statt, das nervt.
+Unser neuer Kollege wirkt etwas unsicher beim ersten Auftritt.
+Die Internetverbindung ist heute morgen leider total langsam und schlecht.
+Ich habe endlich Mut gefasst und die Kündigung eingereicht.
+Wer hat denn bitte wieder den Konferenzzimmer ohne mich gebucht?
+Der Drucker streikt schon wieder, wir brauchen dringend Ersatzteile.
+Am Telefon muss ich heute viel Geduld mit dem Support haben.
+Die Arbeitsatmosphäre ist seit der Umstrukturierung wirklich gestiegen.
+Ich hoffe dass die Gehaltserhöhung nächstes Jahr doch noch kommt.
+Meine Kollegin arbeitet so schnell, das motiviert mich total.
+Das Vorstellungsgespräch war okay, aber sie wollen noch warten.
+Ich packe gerade schon mal meine Sachen zusammen für morgen.
+Die Bildschirmzeit heute ist definitiv zu hoch gewesen, Kopfweh.
+Meine Pflanze im Büro ist längst eingegangen.
+Können wir das Meeting bitte auf nächste Woche verschieben?
+Ich habe keine Lust mehr auf diese ständigen Überstunden.
+Der Chef hat wieder mal seine schlechte Laune gezeigt.
+Homeoffice bedeutet für mich viel mehr Freiheit und Ruhe.
+Die neue Kollegin aus dem Marketing ist wirklich nett.
+Mein Gehalt entspricht längst nicht mehr dem Marktstandard.
+Ich muss dringend meinen Urlaub beantragen, ich bin fertig.
+Das Druckerproblem lässt sich einfach nicht lösen.
+Warum müssen wir jeden Montag vormittags zusammenkommen?
+Ich bewerbe mich heimlich auf eine bessere Position.
+Die Kaffeemaschine ist wieder mal defekt und leer.
+Ich verfluche meinen Wecker jeden Morgen aufs Neue.
+Das Gehaltsgespräch fand erst nach drei Monaten statt.
+Ich hasse es, wenn mich Kollegen am Freitag stören.
+Die neue Software ist so umständlich wie alles andere.
+Wir sollten mal richtig durchatmen und nicht stressen.
+Mein Arbeitsplatz ist ein absoluter Wirrwarr aus Papieren.
+Ich würde sofort kündigen, wenn ich die Chance hätte.
+Das Teamdinner letzte Woche war ganz okay eigentlich.
+Ich kann heute nicht arbeiten, weil mir übel ist.
+Die Besprechung zog sich viel zu lang hin echt.
+Mein Chef hat mir endlich eine Erhöhung bewilligt.
+Ich sitze schon seit Stunden an diesem Einen Dokument.
+Die Kaffeemaschine im Keller kaputt wieder einmal.
+Kannst du mir kurz die Unterlagen für das Meeting zuklicken?
+Ich habe heute Abend noch Überstunden wegen dem Projekt.
+Der Chef war heute Morgen wieder mal sehr schlecht gelaunt.
+Endlich Feierabend, ich brauch unbedingt mal einen Tag frei.
+Mein Homeoffice Setup ist jetzt endlich komplett eingerichtet worden.
+Die Besprechung zieht sich schon seit einer halben Stunde hin.
+Ich brauche dringend Gehaltserhöhung, die Inflation frisst alles weg.
+Hast du schon gehört wer eigentlich neu in der Abteilung kommt?
+Mein Platz im Büro ist total ungemütlich und zu laut.
+Ich schreibe gerade meine Kündigung auf, es wird Zeit für was Neues.
+Die IT Support Antwort kommt erst nächste Woche, das ist nervig.
+Wir sollen ab morgen wieder montags ins Büro kommen müssen.
+Meine Kollegin klaut ständig meine Ideen in den Meetings einfach weg.
+Das Gehalt stimmt nicht mehr wirklich mit der Arbeit überein heute.
+Ich habe keine Lust mehr auf diese endlosen Teamfindungsseminare zu gehen.
+Kannst du bitte das Licht im Flur ausschalten, danke dir schon mal.
+Der Drucker macht wieder Probleme und keiner weiß wie man ihn repariert.
+Die neue Software ist wirklich kompliziert und langsam in der Bedienung.
+Wir haben heute Pizzateilung gehabt zum Abschluss vom Quartalstraining zusammen.
+Mein Job stresst mich manchmal wirklich total aus und ich merke es.
+Ich bewerbe mich heimlich auf eine andere Stelle im Internet gerade.
+Der Kaffee von der Firma schmeckt eigentlich immer nur nach Wasser bitter.
+Wir müssen morgen früh wieder um sieben Uhr da sein leider irgendwie.
+Die Konferenzräume sind schon wieder voll besetzt für den ganzen Vormittag.
+Ich muss dringend mit meinem Boss über meine nächste Beförderung sprechen.
+Endlich hat die IT mein Problem gelöst nach stundenlangem Warten.
+Das Mittagessen in der Kantine schmeckt heute mal wieder zum Würgepunkt.
+Mein neuer Kollege ist super nett und hat sich schnell eingelebt.
+Ich hasse diese wochenlangen Videokonferenzen ohne jede echte Pause.
+Die Deadline rückt näher und ich habe den halben Bericht noch nicht fertig.
+Vor der Kündigungsschutzklage hab ich doch keine große Angst mehr.
+Mein Gehalt reicht kaum für die Miete in dieser teuren Stadt.
+Der Drucker ist ausgefallen genau als ich den Vertrag ausdrucken wollte.
+Die Büroklammern sind weg, wer hat sie alle genommen heute Morgen?
+Meine Chefin lobt mich selten, aber das Feedback war diesmal fair.
+Ich suche seit Monaten einen Job mit besserer Work-Life-Balance.
+Das neue Notebook ist wirklich langsam bei großen Excel-Dateien.
+Wir haben heute um drei Uhr eine Überraschungsinspektion durch die Führung.
+Die Kaffeemaschine im Flur macht wieder dieses seltsame Krachen Geräusch.
+Ich bin froh, dass ich morgen endlich frei habe und nicht arbeiten muss.
+Die Gehaltsverhandlung wurde auf nächsten Monat verschoben wegen der Jahresrechnung.
+Mein Schreibtisch ist ein complete Chaos von alten Akten und Post-it Notes.
+Der neue Mitarbeiter wirkt auf mich etwas arrogant und unzugänglich bisher.
+Ich versuche gerade, den Stau vor der Arbeit im Kopf zu umgehen.
+Die Pausensatzordnung ist streng, aber niemand hält sich eigentlich daran.
+Mein Vertrag läuft aus und ich überlege, ob ich verlängere oder gehe.
+Der Chef will das Ergebnis bis Mittag haben, was ja wieder unmöglich ist.
+Ich habe heute drei Stunden im Standby für ein Meeting verbracht.
+Kannst du mal kurz schauen ob der Drucker schon wieder streikt?
+Die Pausen am Laptop sind wirklich nicht erlaubt hier apparently.
+Mein Homeoffice Setup sieht besser aus als mein eigentliches Büro.
+Wir müssen nochmal über die Budgetkürzungen sprechen, das ist nicht fair.
+Ich schicke dir später mal die Unterlagen für die neue Stelle.
+Meine Kollegen haben gar nicht mitbekommen dass ich krankgeschrieben war.
+Der Vorstellungsgespräch Termin wurde auf nächste Woche verschoben.
+Ich muss dringend eine Gehaltserhöhung einfordern, so kann es nicht weitergehen.
+Das Telefon klingelt nur um mich zu stören während ich arbeite.
+Wir haben den Projektplan komplett über den Haufen geworfen gestern Abend.
+Ich hoffe dass die Kündigung heute noch bei der Personalabteilung landet.
+Die Büroklimate im Sommer sind einfach unerträglich ohne Klimaanlage.
+Mein Chef redet so viel Mist bei den wöchentlichen Updates.
+Ich habe versehentlich alle Mails von gestern wieder gelöscht, oh je.
+Die neue Kollegin ist echt nett und hilft gleich weiter.
+Wir können das Thema mit den Überstunden wirklich nicht ignorieren.
+Das Gehalt passt gerade nicht mehr angesichts der aktuellen Inflation.
+Ich muss mich heute vormittag abmelden weil ich zum Arzt gehe.
+Der Drucker hat meine wichtigen Vertragsunterlagen wieder verschluckt.
+Es gibt keine Aussicht auf Beförderung in meiner Abteilung aktuell.
+Ich bin so genervt von diesen ständigen Teams-Benachrichtigungen am Feierabend.
+Mein neuer Job klingt toll, aber das Gehalt ist zu niedrig.
+Wir haben heute extra früh Feierabend gemacht um das Büro leerzumachen.
+Die Deadline war einfach viel zu unrealistisch angesetzt.
+Warum müssen wir immer montags um acht Uhr Besprechungen haben?
+Ich schick dir die Unterlagen gleich noch per Mail.
+Mein Chef findet meine Ideen heute wieder super genial.
+Das neue Office ist schön modern, aber total laut.
+Endlich keine Überstunden mehr in dieser Woche gefeiert.
+Die Gehaltsverhandlung lief surprisingly gut gestern Abend.
+Ich kann echt nicht glauben dass das Projekt schon endet.
+Kannst du bitte mal kurz meinen Bildschirm übernehmen?
+Die Kaffeemaschine im Büro ist wieder defekt zum Glück.
+Ich suche aktiv nach einem neuen Job mit mehr Worklifebalance.
+Das Telefonat mit dem Kunden war richtig mühsam heute.
+Wir müssen unbedingt nochmal über die Projektstruktur sprechen.
+Meine Kollegin hat mir den ganzen Tag den Platz blockiert.
+Die Gehaltserhöhung kam leider wieder zu spät im Jahr.
+Ich habe heute schon drei mal gepausiert am Stück.
+Das Homeoffice Setup wird langsam echt zum Albtraum für mich.
+Könntest du bitte die Aktentasche vom Tisch räumen?
+Der neue Manager ist irgendwie noch schwieriger als der Alte.
+Ich freu mich schon auf den Freitag und das Wochenende.
+Die Büroklammern sind wieder alle weg seltsamerweise hier.
+Wir sollten dringend mal über die Arbeitszeiten reden zusammen.
+Mein Laptop streikt wieder genau dann wenn es wichtig ist.
+Die Bewerbung war schwer zu formulieren aber gut angekommen.
+Ich brauche echt einen Tag frei zur Erholung jetzt.
+Das Meeting hätte wirklich nur eine Mail sein müssen.
+Ich muss dringend mit meinem Boss über Geld sprechen.
+Heute ist wieder Freitag, aber ich arbeite bis acht Uhr.
+Die neuen Kollegen sind super nett, das hat mich überrascht.
+Endlich kann ich mal vom Sofa aus arbeiten.
+Mein Chef versteht einfach nicht, dass ich Grenzen brauche.
+Die Bewerbung war schwerer als gedacht, zittern beim Senden.
+Ich habe heute gekündigt, die Luft wird wieder klarer.
+Überstunden ohne Aufwandsentschädigung sind bei uns normal.
+Das Gehalt passt immer noch nicht zur Inflation leider.
+Wir müssen morgen früh um sieben in der Konferenz sein.
+Die Kaffeemaschine im Büro macht nur noch laute Geräusche.
+Mein Homeoffice Setup ist mittlerweile richtig gemütlich geworden.
+Der neue Manager redet zu viel und hört gar nicht zu.
+Ich brauche dringend eine Pause, sonst werde ich wahnsinnig.
+Die Gehaltsverhandlung morgen wird bestimmt peinlich werden.
+Endlich ist der Projektabschluss da, jetzt erst mal durchatmen.
+Kollegen im Homeoffice sind einfach etwas schwieriger zu erreichen.
+Ich vermisste das Büroleben gar nicht so sehr eigentlich.
+Die Kündigung hab ich erst mal nur per Mail geschickt.
+Heute gibt es wieder keine Verpflegung in der Pause leider.
+Mein Chef lobt mich nie, egal wie gut die Arbeit ist.
+Die neue Stelle zahlt deutlich besser als bisher halt.
+Ich habe Angst, dass ich nicht mehr ins Team passe.
+Das Daily Standup wird immer länger und nützt nichts.
+Endlich mal keine Alarmglocke im Handy nach Feierabend.
+Die Konferenz war wieder mal reine Zeitverschwendung.
+Kannst du mir kurz die Datei aus dem Drive schicken?
+Ich sitze schon seit drei Stunden an dieser Excel-Tabelle.
+Mein Boss will das Projekt bis morgen früh haben.
+Endlich Feierabend, ich bin heute total erschöpft.
+Das Homeoffice ist gemütlich, aber die Stille nervt manchmal.
+Wir müssen dringend noch einen Termin für die Besprechung finden.
+Hab gerade meine Kündigung eingereicht, fühlt sich gut an.
+Die Pause mit den Kollegen macht den Tag erträglich.
+Ich hoffe wirklich auf eine Gehaltserhöhung im nächsten Quartal.
+Warum muss ich wieder am Samstag für die Zahlen verantwortlich sein?
+Das neue Meeting-Raum-System funktioniert leider gar nicht richtig.
+Meine Kollegin hat mich beim Kunden perfekt vertreten heute.
+Ich kann heute früher gehen, weil ich gestern überstundet habe.
+Die Bewerbung wurde abgelehnt, das tut doch weh eigentlich.
+Der Drucker streikt schon wieder zum vierten Mal diese Woche.
+Ich vermisse die täglichen Kaffeepausen mit dem Team sehr.
+Die Deadline ist morgen, da drehen wir alle durch.
+Mein Chef hat heute eine wirklich gute Idee gehabt selten.
+Wir sollten mal über flexible Arbeitszeiten sprechen müssen bald.
+Das Gehalt passt nicht mehr zur aktuellen Inflation hier.
+Ich finde diese ständigen Statusupdates im Chat echt aufdringlich.
+Am Montag gibt es wieder eine Schulungsveranstaltung für alle.
+Die neue Kollegin hat sich schnell in das Team eingefügt.
+Die Pizzeria war heute schon zum dritten Mal dran.
+Mein Chef hat mal wieder einen totalen Ausflipper gehabt.
+Ich kann gar nicht glauben wie viel Zeit wir hier verschwenden.
+Heute habe ich meine Kündigung endlich übergeben und bin frei.
+Das Gehalt ist okay aber die Überstunden sind einfach zu viel.
+Kannst du mal kurz schauen ob der Drucker noch kaputt ist.
+Wir müssen dringend ein Meeting mit dem Kunden planen und organisieren.
+Die neue Kollegin ist super nett und hilft gleich beim Einstieg.
+Ich sitze schon seit zwei Stunden vor dem Computer und nichts geht.
+Warum müssen wir immer mittwochs um neun Uhr früh da sein?
+Mein Homeoffice Setup sieht aus wie eine Baustelle nach der Arbeit.
+Die Bewerbung ging leider nicht durch aber ich gebe nicht auf.
+Kaffee macht mich heute irgendwie gar nicht mehr so richtig wach.
+Ich hasse diese langen Besprechungen ohne jegliches Ergebnis am Ende.
+Heute ist wieder Freitagnachmittag und ich zähle die Stunden bis fünf.
+Die Bürotür war zu aber niemand hat hingeschaut wer hereinkommt.
+Ich brauche dringend einen Urlaub nach diesen stressigen Wochen hier.
+Das Projekt wird nie fertig werden wenn so weitergemacht wird einfach.
+Mein Kollege leiht sich ständig meine Tastatur aus ohne zu fragen.
+Wir sollten wirklich mal über eine Gehaltserhöhung sprechen im Ernst.
+Die Toilette im zweiten Stock ist wieder einmal komplett verrammelt heute.
+Ich schreibe gerade meine Selbstständigkeit auf und freue mich riesig darauf.
+Das WLAN im Büro fliegt jeden Tag mindestens einmal total ab.
+Kann ich heute früher gehen weil mein Hund zum Tierarzt muss?
+Die Akten sind immer noch nicht sortiert obwohl ich es schon dreimal gesagt habe.
+Endlich Feierabend geschafft, ich brauche dringend eine Pause.
+Das Telefon klingelt permanent, ich kann mich nicht konzentrieren.
+Hoffentlich genehmigt der Chef die zwei freien Tage nächste Woche.
+Ich hasse es so früh morgens den wecken zu hören.
+Heute muss ich diese Präsentation für den Kunden fertigstellen.
+Kannst du kurz meinen Mailposten prüfen, ich bin im Meeting.
+Der Kaffee in der Pausenmaschine schmeckt eigentlich nur nach Wasser.
+Mein Platz am Fenster ist der einzige gute Punkt hier.
+Warum müssen wir immer dienstags um neun Uhr zusammenkommen?
+Ich verpasse wieder mal den Bus wegen der überstunden.
+Die Gehaltsverhandlung lief irgendwie gar nicht so gut ab.
+Er hat mir gerade gesagt, dass ich doch recht hatte.
+Das Homeoffice ist toll, aber ich vermisse die Kollegen.
+Ich sollte vielleicht doch lieber kündigen und durchstarten.
+Die neuen Vorschriften von der Zentrale sind absolut sinnfrei.
+Hast du meinen Bericht schon gesehen, er liegt auf dem Tisch.
+Ich bin so müde, dass ich gleich einklapse.
+Der Meetingraum ist immer zu kalt im Winter wirklich schrecklich.
+Ich hoffe, dass die Projektübernahme nicht wieder verschoben wird.
+Kannst du mir beim Ausfüllen der Formulare kurz helfen?
+Die Bürotante erzählt wieder mal ihre ganzen Geheimnisse laut.
+Endlich hat das Gehalt auf meinem Konto eingetroffen heute Abend.
+Ich traue mich fast nicht anzusagen, dass ich krank bin.
+Das neue Software-Update bringt nur Ärger und keine Vorteile.
+Wir sollten vielleicht kurz über die Karrierechancen sprechen.
+Das ständige Herumgeeke im Büro nervt mich total.
+Ich hasse es wenn der Chef kurzfristige Meetings einberuft.
+Heute mal echt keine Lust auf diese Powerpoint Folien.
+Mein Gehalt deckt kaum noch die steigenden Mieten hier.
+Die neue Kollegin ist super nett aber ständig zu spät.
+Ich überlege ernsthaft ob ich nächstes Jahr kündige.
+Am besten wäre wenn wir gar nicht ins Büro müssten.
+Die Überstunden werden leider immer noch nicht bezahlt.
+Mein Schreibtisch ist ein Chaos das mich irgendwie beruhigt.
+Der Boss versteht nichts von modernen Arbeitsmethoden heute.
+Ich brauch dringend Urlaub weil ich komplett ausgebrennt bin.
+Diese E-Mail Kette könnte man wirklich einfach kürzen.
+Homeoffice bedeutet für mich auch weniger Stress auf dem Weg.
+Wir sitzen seit zwei Stunden in einer sinnlosen Besprechung.
+Die Gehaltsverhandlung verlief gestern überraschend gut und schnell.
+Mein Kollege stiehlt mir ständig Ideen ohne zu fragen.
+Ich kann nicht glauben dass wir wieder kein Budget bekommen.
+Der Druck im Team steigt mit jedem Projekt Ende an.
+Vielleicht sollte ich mich doch mal woanders umsehen hier.
+Das Kaffee Automat macht heute schon seit Stunden nur Lärm.
+Ich freu mich richtig auf das Wochenende und die Ruhe.
+Die neue Software ist umständlich aber wir müssen sie nutzen.
+Mein Chef lobt mich nie wenn ich etwas gut gemacht habe.
+Wir haben endlich ein Ergebnis gefunden nach ewigen Diskussionsrunden.
+Die Pausenregelung hier im Unternehmen ist einfach nur schlecht.
+Ich hoffe die Bewerbung wird wenigstens bis morgen bearbeitet.
+Die Besprechung um 8 Uhr war wirklich nicht nötig.
+Ich schreib dir morgen, wenn ich ins Büro komme.
+Hat jemand die Projektdatei schon gespeichert?
+Mein Chef ist heute irgendwie total in sich gekehrt.
+Ich muss dringend mal wieder ein Mittagessen kochen.
+Das Telefon läutet einfach nicht aufhören wollen.
+Kannst du mir kurz den Bericht per Mail schicken?
+Ich bin heute eigentlich schon frei abends.
+Die Heizung im Büro friert mich langsam tot.
+Wir haben heute gar nichts Produktives geschafft ehrlich gesagt.
+Mein neuer Job fühlt sich an wie Freiheit.
+Die Kantine macht nur noch kalten Salatabfall leider.
+Ich muss mich für diese Stelle endlich bewerben.
+Kannst du meinen Laptop mal zum Laden stellen?
+Ich habe keine Lust auf diese small talk Runden.
+Mein Gehalt deckt gerade so die Miete nur.
+Die Kollegen feiern heute Abend im Kneipen lokal.
+Ich bin völlig erschöpft von den Überstunden lately.
+Hast du schonmal mit dem HR über Urlaub gesprochen?
+Das Homeoffice Konzept funktioniert bei uns gar nicht.
+Ich drucke das Dokument gleich in der Küche aus.
+Der Drucker streikt wieder seit der letzten Woche.
+Mein Chef hat meine E-Mail einfach ignoriert heute.
+Ich brauche dringend einen Kaffee zum Überleben jetzt.
+Die Bewerbung war doch eigentlich schon erledigt oder?
+Endlich Feierabend nach der ganzen Wahnsinnswoche.
+Warum müssen wir immer um sieben Uhr morgens online sein?
+Meine Tastatur ist kaputt und die IT antwortet nicht.
+Hoffentlich klappt die Vorstellung beim Kunden heute gut.
+Ich muss dringend meine Urlaubsanträge für den Sommer einreichen.
+Der Drucker im Stockwerk darüber macht wieder nur Probleme.
+Hast du zufällig noch Kaffee, der mein ist leer gelaufen.
+Die Deadline rückt näher und ich habe nichts geschafft bisher.
+Mein Chef hat wieder eine neue Idee für uns alle.
+Ich arbeite heute von zu Hause aus wegen dem Regen.
+Die Gehaltsabrechnung kam leider später als erwartet bei mir an.
+Kannst du mal kurz diesen Bericht für mich Korrektur lesen?
+Das Teamdinner war diesmal echt gut organisiert, vielen Dank euch.
+Ich überlege ernsthaft einen Jobwechsel in Richtung IT.
+Mein Schreibtisch ist chaotisch und ich finde nichts mehr wieder.
+Die Konferenzverbindung bricht ständig ab, das nervt total sehr.
+Wir haben heute nur halbtags gearbeitet wegen dem Feiertag morgen.
+Meine Kollegin hat mir gerade super bei dem Projekt geholfen wirklich.
+Ich habe eine Kündigung bekommen, bin ziemlich geschockt davon.
+Das neue Office Design ist modern aber viel zu laut hier.
+Kann ich die Überstunden ausgleichen oder bekomme ich Geld dafür?
+Ich bin erschöpft von den endlosen Status-Updates jeden Morgen wirklich.
+Mein Boss lobt mich selten, aber er vertraut meiner Arbeit eigentlich.
+Das Homeoffice ist gemütlich, doch man vermisst die Leute dort.
+Ich brauche dringend einen neuen Laptop, mein alter stürzt oft ab.
+Kannst du mir kurz den Report zusenden? Ich brauche die Daten dringend.
+Mein Chef ist heute wieder in einer launischen Stimmung.
+Wir müssen wirklich mal über meine Gehaltsanpassung sprechen.
+Im Büro sind nur noch drei von uns, der Rest arbeitet von zu Hause.
+Das Standup Meeting könnte ich mir am Montag echt sparen.
+Ich hab keine Lust mehr auf diese ständigen Konferenzen.
+Die Kündigung habe ich jetzt offiziell eingereicht und warte auf die Antwort.
+Mein Arbeitsplatz ist so chaotisch, dass ich nichts finde.
+Wir haben wieder Überstunden gemacht und bekommen dafür kein Geld.
+Der neue Kollege wirkt irgendwie sehr überheblich im ersten Eindruck.
+Ich schreibe gerade meine Bewerbung für die Leiterstelle.
+Das Homeoffice Office Internet funktioniert seit Stunden nicht richtig.
+Meine Chefin hat mich wieder öffentlich kritisiert, das war unfair.
+Wir müssen das Projekt bis Freitag fertigstellen, da ist kein Weg dran vorbei.
+Die Kaffeemaschine im Flur ist schon wieder kaputt gegangen.
+Ich trage heute Homeoffice Kleidung unter dem Anzug, fühlt sich komisch an.
+Die Gehaltserhöhung von fünf Prozent reicht kaum für die Inflation.
+Mein Chef sagt immer alles ist wichtig und gleichzeitig dringlich.
+Wir suchen jemanden mit Erfahrung in der digitalen Marketingabteilung.
+Die Pausenregelung im Unternehmen wird seit Jahren nicht eingehalten.
+Ich habe Angst, dass mein Job aufgrund der Restrukturierung wegfällt.
+Das Büroklimate ist leider sehr giftig geworden seit der Umstrukturierung.
+Kannst du bitte die Rechnung für den Kunden überprüfen?
+Wir feiern heute Abend nach Feierabend im Restaurant um die Ecke.
+Die Pause war schon wieder viel zu kurz um runterzukommen.
+Mein Chef findet jede Idee genial die gerade in Mode ist.
+Ich schwöre dass ich heute Abend nicht noch mal an die Mails denke.
+Die neue Kollegin ist wirklich sympathisch aber leider total unausgeglichen.
+Wieder ein Tag voller Meetings ohne einen einzigen klaren Beschluss.
+Kann bitte jemand den Drucker reparieren bevor es hier brennt?
+Das Gehalt reicht knapp und wenn kommt man auch wieder an.
+Ich hab die Kündigung schon auf dem Tisch liegen seit zwei Tagen.
+Im Büro ist mir immer zu warm obwohl die Heizung aus ist.
+Mein Chef fragt nie wie es geht sondern nur wann das Projekt fertig ist.
+Die Homeoffice Tage sind mein absolutes Lieblingsfeature dieser Firma geworden.
+Bitte kein Telefonat ich bin gerade mitten in einer wichtigen Konzentrationseinheit.
+Wir müssen dringend über meine Gehaltsanpassung sprechen bevor ich gehe.
+Ich schreibe gerade meine Referenzen auf weil es bald losgeht.
+Die Teamdinner sind langweilig aber man muss schon ab und an dabei sein.
+Mein Vorgesetzter liest wahrscheinlich nicht mal die E-Mails die er schreibt.
+Endlich mal einen Tag ohne Störungen kann ich wirklich gebrauchen.
+Ich hab keine Lust mehr auf diese endlosen Besprechungsorgien hier.
+Die neue Software ist kompliziert aber vielleicht wird sie später einfacher sein.
+Kannst du bitte kurz meine Post überprüfen bevor das Büro schließt?
+Ich bin heute schon um sieben da weil ich Stress hatte.
+Das Bürogeräusch nervt mich nach so vielen Jahren immer noch irgendwie.
+Mein Chef ist heute ganz ruhig und das stört mich total.
+Die Arbeitszeitkonto steht wieder negativ und ich habe keinen Bock mehr.
+Mein Chef will unbedingt noch eine Präsentation bis morgen fertig haben.
+Die Kantine hat heute wieder nur kalten Reis serviert.
+Ich sitze schon den ganzen Tag vor dem Computer.
+Kannst du mal kurz schauen wer hier gerade anruft?
+Das Meeting war völlig sinnlos und könnte wegfallen.
+Wir müssen unbedingt bald mal über eine Gehaltserhöhung reden.
+Mein Schreibtisch ist ein komplettes Chaos ausPapier und Kaffeetassen.
+Ich habe heute drei Stunden Überstunden geschoben ohne Pause.
+Die neue Kollegin ist super freundlich und gut integriert.
+Homeoffice bedeutet für mich endlich keine Pendelzeit mehr.
+Ich hab meine Kündigung gestern afternoon noch eingereicht.
+Der Drucker streikt schon wieder zum zehnten Mal diese Woche.
+Mein Vorgesetzter nervt total mit seinen ständigen Kontrollen.
+Die Bewerbungsunterlagen sind endlich alle abgeschlossen und versendet.
+Das Gehalt ist okay aber die Arbeitsbelastung ist zu hoch.
+Ich würde gerne früher Feierabend machen heute Abend.
+Mein Nachbar hat auch Homeoffice und ruft ständig an.
+Der neue Boss ist ziemlich streng und wenig kommunikativer.
+Wir müssen das Projekt bis Freitag unbedingt abgeben können.
+Die Kaffeemaschine in der Küche ist immer kaputt eigentlich.
+Ich freu mich total auf die Sommerpause nächste Woche.
+Mein Team hat heute sehr gut zusammengearbeitet ehrlich gesagt.
+Die Gehaltsvorstellung war deutlich höher als mein aktueller Lohn.
+Ich habe keine Lust mehr auf diese endlosen Telefonkonferenzen.
+Der Chef sagt immer alles ist dringender als eigentlich.
+Die Pausenregelung wird hier immer noch total ignoriert.
+Ich kann heute nicht kommen, weil ich mir die Seele aus dem Leib schaffe.
+Warum müssen wir um sieben Uhr morgens schon wieder ein Standup haben?
+Mein Boss ist wirklich durchgeknallt, wenn er sonntags nachfragt.
+Die neuen Kollegen sind nett, aber sie reden viel zu laut.
+Ich habe heute endlich Feierabend gemacht und bin direkt nach Hause geradelt.
+Das Gehalt stimmt irgendwie gar nicht mehr mit der Inflation überein.
+Kann mal bitte jemand die Jalousien runterlassen? Das Licht blendet mich total.
+Ich schreibe gerade an meinem Anschreiben, weil der Job mir Spaß macht.
+Die Kaffeemaschine ist schon wieder kaputt und niemand kümmert sich darum.
+Homeoffice ist super, aber ich vermisse die kleinen Gespräche am Flur.
+Mein Chef hat mir heute gesagt, ich soll länger bleiben. Danke schön.
+Die Projektpräsentation lief gut, auch wenn ich vorher Panik hatte.
+Ich muss dringend eine Bewerbung schreiben, weil die Arbeit hier nervig ist.
+Wer hat denn bitte das Meeting verschoben ohne Bescheid zu sagen?
+Die Arbeitszeit wird immer unbefristeter und das macht mich wahnsinnig.
+Heute war endlich mal ein ruhiger Tag im Büro ohne Stress.
+Ich überlege ernsthaft, ob ich nicht einfach kündigen sollte.
+Die Gehaltsgespräche sind mir ehrlich gesagt zu unangenehm für die Seele.
+Mein Kollege ist wieder mal zu spät gekommen und hat alle genervt.
+Das neue Arbeitszimmer muss wirklich besser eingerichtet werden für die Gesundheit.
+Ich finde es total unfair, dass nur einige Leute Homeoffice haben dürfen.
+Die Kündigungsfrist beträgt drei Monate, was bedeutet ich muss noch warten.
+Heute war das Teammeeting total sinnlos, wir hätten auch per Mail geklärt.
+Kannst du mal kurz gucken ob das Meeting noch steht.
+Mein Chef findet immer alles viel zu langsam gemacht.
+Ich muss heute nochmal länger bleiben damit ich fertig werde.
+Die neue Software im Büro ist absoluter Mist ehrlich gesagt.
+Hab mir gerade eine Pause gemacht und einen Kaffee geholt.
+Warum müssen wir jeden Montag so früh das Standup haben?
+Mein Kollege hat wieder alles bis Freitag abgeschoben typical him.
+Ich traue mich nicht dem Chef zu sagen dass ich Überstunden mache.
+Das Gehalt passt eigentlich gar nicht zur Arbeitsbelastung hier.
+Homeoffice ist super aber man vermisst die Kollegen manchmal echt.
+Hoffentlich bekomme ich bald das Angebot für die neue Stelle.
+Der Druck auf der Arbeit wird mir langsam viel zu viel.
+Ich hasse es wenn Menschen während des Meetings nur telefonieren.
+Vielleicht sollte ich mich endlich auf eine andere Position bewerben.
+Die Kaffeemaschine im Flur funktioniert seit einer Woche nicht mehr.
+Am Freitag abend ist dann doch kein Feierabend mehr möglich hier.
+Ich bekomme von meiner Arbeitsgruppe kaum konstruktives Feedback dazu.
+Gibt es eigentlich eine Aussicht auf Gehaltserhöhung in diesem Jahr?
+Die Pausenregelung ist total unklar und nervig für uns alle.
+Ich würde morgen gerne krankmelden ich bin wirklich erschöpft davon.
+Endlich habe ich den Freitagnachmittag frei bekommen super freu mich.
+Warum muss eigentlich jedes E-Mail so förmlich formuliert sein heute?
+Mein neuer Vorgesetzter ist noch gar nicht so schlecht eigentlich.
+Die To-do Liste wächst schneller als ich sie abhaken kann leider.
+Ich hab die Kündigung eingereicht und warte jetzt nervös darauf.
+Der Chef ruft schon wieder mitten in der Woche an.
+Ich kann heute nicht länger, mein Akku ist leer.
+Die Bürokaffemaschine ist mal wieder defekt und nervig.
+Wir haben eine Gehaltserhöhung bekommen, endlich mal was.
+Das Video-Call hat ewig gedauert ohne richtigen Inhalt.
+Meine Kollegin deckt mich ab, wenn ich früher gehe.
+Die Bewerbung war einfach nur Glück, nichts Besonderes.
+Ich muss noch drei Mails beantworten, dann bin ich raus.
+Im Homeoffice vergesse ich manchmal, wie spät es ist.
+Der Neue im Team wirkt schon recht unsicher heute.
+Wir verschieben das Meeting auf nächste Woche besser.
+Mein Schreibtisch sieht aus wie ein komplettes Schlachtfeld gerade.
+Die Überstunden haben sich dieses Monat doch ausgezahlt.
+Ich brauche dringend einen richtigen Urlaub, ganz weg vom PC.
+Der Boss macht wieder sein typisches Anzug-Statement heute.
+Kannst du mal kurz den Drucker für mich warten?
+Die Pausenregelung wird hier doch kaum eingehalten ehrlich gesagt.
+Ich habe Angst, dass die Stelle gestrichen wird.
+Das Team-Dinner war okay, aber der Wein war billig.
+Wir bekommen neuen Laptop-Software, hoffentlich läuft es besser.
+Meine Chefin drückt mir den Rücken bei schwierigen Gesprächen.
+Die Büroklammern sind weg, wo hat sie nur alle hin?
+Ich muss mich noch heute um die Zulage kümmern.
+Das Homeoffice-Konzept funktioniert bei uns einfach nicht richtig.
+Wir haben das Projekt pünktlich und auch noch im Budget geschafft.
+Der Kollege neben mir schnarcht leise im Telefonat immer.
+Das war echt anstrengend, ich brauche dringend einen Kaffee.
+Mein Chef ist wieder mal launisch heute Morgen.
+Ich schick dir gleich die Datei per Mail.
+Die Besprechung hat ewig gedauert, total unnütz eigentlich.
+Kannst du kurz mein Team übernehmen, ich muss ran.
+Im Homeoffice vergesse ich manchmal die Zeit zu essen.
+Die Bewerbung war komplizierter als gedacht, viele Unterlagen.
+Ich habe gestern bis spät dran gearbeitet.
+Das Gehalt passt nicht wirklich zu der Arbeit.
+Mein Kollege kommt heute krank zur Arbeit.
+Das Meeting war wieder mal nur Gerede.
+Ich muss mich dringend einen neuen Job suchen.
+Die Arbeit im Büro ist mir schon zu viel.
+Meine Chefin möchte mehr Leistung von uns sehen.
+Heute habe ich endlich mal früher Feierabend gemacht.
+Der neue Praktikant ist echt lustig und fleißig.
+Wir brauchen unbedingt eine Pause, die war anstrengend.
+Ich schreibe gerade mein Anschreiben für die Stelle.
+Die Kündigung hat mich doch überrascht, eigentlich nicht.
+Überstunden zahlt das Unternehmen leider kaum richtig.
+Ein Gehaltsgespräch steht bald an, ich bin nervös.
+Das Homeoffice macht mir mehr Spaß als das Büro.
+Mein Vorgesetzter ist heute besonders streng unterwegs.
+Die E-Mails kommen einfach nur so rein, endlos.
+Ich freue mich auf den Feierabend heute Abend.
+Das ständige Videomeeting stresst mich wirklich schon am Morgen.
+Ich muss dringend mit dem Boss über meine Gehaltserhöhung reden.
+Heute ist mal wieder Homeoffice, was ich mega genieße.
+Der Neue ist schon weg nach nur drei Monaten hier.
+Kann bitte jemand die Klimaanlage ausschalten, mir ist so kalt.
+Die Präsentation war okay, aber die Fragen danach waren doof.
+Ich habe heute Abend keine Lust mehr auf Extraarbeit zu machen.
+Meine Kollegin hat mich bei der Projektplanung total ignoriert.
+Endlich ist Feierabend, ich leg das Handy direkt weg.
+Der Antrag für Urlaub wurde wieder ohne Begründung abgelehnt.
+Ich sitze schon die zweite Stunde im Wartezimmer des Chefs.
+Das Gehalt stimmt einfach nicht mit der Arbeitsmenge überein.
+Wir müssen morgen früh um sieben starten wegen der Deadline.
+Hat jemand den Link zur Besprechung per Chat geschickt?
+Ich überlege ernsthaft, mich woanders zu bewerben nächste Woche.
+Die Kaffeemaschine in der Küche ist wieder kaputt gegangen.
+Mein Chef lobt mich nie, auch wenn alles gut läuft.
+Das neue Büro ist schön, aber das Licht nervt total.
+Ich habe heute Pech gehabt und war krankgemeldet den ganzen Tag.
+Die Kündigung habe ich gestern endlich persönlich überreicht bekommen.
+Am Freitag abend gibt es immer ein gemeinsames Essen im Büro.
+Ich kann nicht verstehen, warum wir noch so altmodisch arbeiten.
+Der Kollege aus der IT ist super nett und hilfsbereit heute.
+Wir haben heute wieder nichts erreicht in der täglichen Standup.
+Meine Arbeitsplatte ist komplett voll mit unsortierten Aktenstapeln.
+Ich brauche dringend eine Pause vom endlosen Telefonieren hier.
+Kannst du mir kurz mal den neuen Bericht durchschauen?
+Ich sitze seit drei Stunden im Homeoffice ohne Pause.
+Die Jungs vom Marketing sind wieder mal viel zu laut.
+Mein Chef hat gesagt, dass wir heute früher gehen können.
+Hast du schon die Einladung zum Teamevent angenommen?
+Ich hasse es wenn mich der Vorgesetzte immer unterbricht.
+Wir müssen doch bitte das Projekt bis Freitag abschließen.
+Das Gehalt ist zwar okay aber die Arbeitszeit ist viel zu hoch.
+Ich habe gestern Abend noch Mails geschrieben und bin müde.
+Wer hat denn eigentlich den Drucker wieder kaputtgemacht?
+Die Besprechung war total unnötig und reine Zeitverschwendung.
+Ich überlege ob ich mich doch für dieses andere Unternehmen bewerben sollte.
+Meine Kollegin ist heute krank, also muss ich alles übernehmen.
+Wir haben gerade die Quoten nicht erreicht, das ist nervig.
+Ich brauche dringend einen Kaffee an der Theke da vorne.
+Der neue Mitarbeiter scheint wirklich nett und sehr kompetent zu sein.
+Kannst du mir bitte mal den Zugangscode für das WLAN schicken?
+Ich muss heute Nachmittag noch zum Zahnarzt wegen der Behandlung.
+Das Homeoffice ist super aber ich vermisse die Kollegen doch.
+Mein Boss hat mich wieder um die Uhrzeit angerufen, doof.
+Wir planen gerade eine kleine Feier für das erfolgreiche Jahr.
+Die Unterlagen sind leider nicht vollständig, bitte nachreichen.
+Ich fühle mich im Büro oft einsam und abgeschottet.
+Hast du schon mit Personal gesprochen wegen der Gehaltserhöhung?
+Das Meeting morgen fällt aus, wir machen das per Chat.
+Ich sollte eigentlich arbeiten aber scrolle nur durchs Handy.
+Habe grad drei Mails gelesen die alle dasselbe fragen.
+Die Besprechung war langweilig ich hätte schlafen können.
+Im Homeoffice vergesse ich manchmal die Zeit und esse zu spät.
+Bewerbung abgeschickt jetzt warte ich nervös auf eine Rückmeldung.
+Überstunden machen keinen Sinn wenn man ohnehin nichts weiter macht.
+Die neue Kollegin ist super nett aber auch etwas zu laut.
+Ich suche einen neuen Job weil das Gehalt einfach zu niedrig ist.
+Warum müssen wir jeden Montag früh um sieben Uhr treffen?
+Das Kaffeeautomat ist kaputt und niemand meldet sich beim Service.
+Meine Arbeitsstelle fühlt sich an wie ein Gefängnis manchmal.
+Habe mich krankgemeldet weil ich echt keine Lust mehr habe.
+Der Chef redet nur drüber wie wichtig Teamarbeit eigentlich ist.
+Bin froh dass das Video-Call endlich mal zu Ende gegangen ist.
+Muss noch schnell einen Bericht schreiben bevor ich nach Hause gehe.
+Die Gehaltsverhandlungen sind gelaufen und es gibt keine Änderung leider.
+Ich kann nicht verstehen warum mein Vorgesetzter so streng ist.
+Homeoffice bedeutet für mich mehr Freiheit aber auch mehr Einsamkeit.
+Habe gestern Abend bis zehn Uhr am Computer gesessen echt anstrengend.
+Kollegen lachen über meine Scherze aber ich weiß nie ob sie gemeint sind.
+Bewerbungsgespräch war okay aber ich hatte das Gefühl nichts zu zählen.
+Überstunden werden hier belohnt mit einem Lob vom Boss manchmal.
+Neue Aufgabe kommt hinzu obwohl ich schon genug zu tun habe.
+Ich will bald kündigen weil die Arbeitsbedingungen einfach schlecht sind.
+Meeting wurde abgesagt also kann ich früher nach Hause gehen hurra.
+Das war mal wieder ein richtig sinnfreies Brainstorming.
+Ich muss heute Abend noch eine Stunde Überstunden machen.
+Der Boss steht mir gerade ziemlich auf der Pelle.
+Kannst du kurz meinen Kaffee holen, bitte schön?
+Die neue Kollegin ist irgendwie ganz nett geworden.
+Ich traue mich nicht, nach mehr Geld zu fragen.
+Heute hab ich wirklich keinen Nerv für Smalltalk.
+Mein Schreibtisch sieht aus wie ein Wirrwarr aus Papieren.
+Die deadline ist in zwei Stunden, ich schwitz schon.
+Warum müssen wir immer donnerstags Videocalls machen?
+Ich sehne mich nach dem Feierabend richtig sehnsüchtig.
+Der Kaffeevollautomat macht seit Tagen nur noch Lärm.
+Meine Chefin hat heute wieder mal ein schlechtes Gewissen.
+Ich bewerbe mich heimlich auf eine andere Position hier.
+Die Büroklimaanlage ist im Sommer einfach unerträglich kalt.
+Hast du schon gesehen, wer heute den Kuchen gebracht hat?
+Ich vergesse permanent, dass ich am homeoffice bin.
+Das Gehalt reicht gerade so für die Miete und Essen.
+Wir haben wieder mal zu viele Meetings an einem Tag.
+Mein Laptop ist langsam, als würde er ewig booten.
+Ich hoffe, dass die Kündigung nächstes Monat durchgeht.
+Der Drucker streikt schon wieder zur ungünstigsten Zeit.
+Ich muss dringend meinen Kalender für nächste Woche planen.
+Die Arbeitsatmosphäre im Team hat sich deutlich verbessert.
+Kann ich heute früher gehen, ich bin ganz erschöpft.
+Der Chef will wieder um fünfzehn Uhr Besprechung.
+Im Homeoffice vergesse ich oft das Essen zu machen.
+Kannst du mir bitte die Datei bis morgen schicken.
+Die neuen Stühle sind zwar hübsch aber unbequem.
+Ich habe keine Lust mehr auf diese endlosen Meetings.
+Mein Gehalt reicht gerade so für die Miete hier.
+Wer von euch muss heute noch Überstunden machen?
+Der neue Kollege ist super nett und sehr hilfsbereit.
+Ich sende meine Kündigung am Montag ein definitiv.
+Das Licht im Büro blendet mich immer direkt morgens.
+Hast du schon mal mit deinem Boss geredet darüber.
+Die Kaffeemaschine ist kaputt gegangen zum dritten Mal.
+Heute muss ich unbedingt früher gehen wegen Termin.
+Mein Bildschirm ist viel zu klein für die Tabellen.
+Ich hoffe auf eine Gehaltserhöhung im nächsten Jahr.
+Das Telefon klingelt stündlich und unterbricht meine Arbeit.
+Wer hat den Drucker wieder verstopft mit alten Fotos.
+Ich traue mich nicht, mein Chef anzumachen heute.
+Die Pausenregelung wird dieses Quartal geändert werden müssen.
+Endlich ist das Projekt abgeschlossen und ich bin frei.
+Mein Laptop macht seltsame Geräusche beim Hochfahren.
+Kannst du meine Absenzen bei der Personalsache erklären.
+Die Klimaanlage im Büro ist entweder zu warm oder kalt.
+Ich bekomme immer Kopfschmerzen von dem hellen Licht.
+Wir müssen dringend über die Verteilung der Aufgaben sprechen.
+Der Kaffee in der Küche schmeckt immer nur nach altem Wasser.
+Wir müssen morgen früh wieder um sieben Uhr online sein.
+Mein Chef hat mich heute beim Telefonat überrascht und kritisiert.
+Die Präsentation sieht eigentlich ganz gut aus, hoffentlich auch für die Vorgesetzten.
+Ich drucke den Bericht noch einmal aus, weil das Original zerknittert ist.
+Das Homeoffice war gestern viel zu laut wegen der Baustelle draußen.
+Wer hat denn bitte wieder meinen Stuhl weggeschoben ohne zu sagen warum?
+Die Gehaltserhöhung kam leider nur als nette Zusage für nächstes Jahr.
+Ich muss heute noch drei E-Mails schreiben bevor ich nach Hause gehe.
+Das neue Projekt klingt spannender als es sich eigentlich anhört im Detail.
+Meine Kollegin ist schon wieder einmal zu spät in den Chat gekommen.
+Wir sollten das Meeting eigentlich schon vor einer halben Stunde begonnen haben.
+Die Kündigung habe ich gestern endlich abgeschickt und fühle mich erleichtert.
+Heute muss ich die Überstunden noch einsparen, sonst werde ich krank.
+Der neue Drucker funktioniert immer noch nicht richtig, obwohl er teuer war.
+Ich bewerbe mich gerade um eine Beförderung und hoffe auf positives Feedback.
+Das Büro ist heute leer, weil alle im Urlaub oder krank sind.
+Mein Vorgesetzter erwartet wieder mal dass wir am Abend noch bleiben.
+Die Gehaltsverhandlung war stressiger als gedacht, aber ich habe es geschafft.
+Ich muss den Rechner aktualisieren, weil er ständig abstürzt beim Arbeiten.
+Das Teammeeting war heute irgendwie unnötig lang und ohne klaren Abschluss.
+Wer kann mir bitte helfen diesen Excel-Tabellen-Würgegriff zu verstehen?
+Ich habe heute meinen letzten Arbeitstag hier, bin traurig aber erleichtert.
+Die neue Stelle zahlt zwar mehr, aber die Arbeitsbedingungen sind schlechter.
+Mein Chef lobt mich selten, obwohl ich immer pünktlich und engagiert bin.
+Das Homeoffice ist toll, aber man vermisst manchmal den direkten Austausch.
+Mein Bildschirm hat drei Fenster offen, alle nerven mich gerade.
+Kann ich eigentlich um vier schon Feierabend machen?
+Der Drucker streikt wieder zur großen Präsentation heute Vormittag.
+Ich hasse es, wenn Kollegen mein Büro ohne zu klopfen betreten.
+Die Kaffeemaschine ist kaputt, was für ein Morgen also.
+Wir müssen über die Projektförderung dringend reden, bitte melden.
+Mein Chef meint immer alles sei noch nicht gut genug.
+Die Gehaltsabrechnung hatte diesmal wieder einen seltsamen Fehler drin.
+Ich schreibe gerade meine Kündigung und schwitze dabei richtig.
+Im Homeoffice vergesse ich manchmal, dass ich doch arbeiten soll.
+Das Mittagessen esse ich heute wieder am Laptop stehend hin.
+Die neue Kollegin ist super nett, aber total chaotisch irgendwie.
+Ich brauche dringend mal einen richtigen Urlaub von hier.
+Warum müssen wir Montag Morgen so früh im Call sein?
+Meine Augen tun weh nach acht Stunden Bildschirmarbeit heute.
+Die Bonuszahlung ist ausgefallen, das ist echt ärgerlich halt.
+Ich muss mich bewerben, weil der Job einfach nervig ist.
+Der Drucker frisst wieder jedes zweite Blatt Papier komplett.
+Wir sitzen schon seit einer Stunde in dieser sinnlosen Besprechung.
+Kann jemand mal kurz meinen Laptop reparieren, er geht nicht an.
+Die Bewerbung war gesendet, jetzt heißt es nur noch abwarten mal.
+Das neue Bürokonzept mit den Hotdesks ist wirklich nervig für mich.
+Die täglichen Meetings quälen mich langsam richtig an.
+Ich muss dringend meine Arbeitszeit nachbessern heute Abend.
+Hat schon jemand die Präsentation für morgen fertig gemacht?
+Der Chef ist wieder mal in schlechter Stimmung heute.
+Mein Bildschirm brennt mir seit drei Stunden vor die Augen.
+Kannst du bitte kurz abdecken während ich zu Hause bin?
+Die Kaffeemaschine im Büro ist endlich wieder repariert worden.
+Ich traue mich einfach nicht, um mehr Gehalt zu fragen.
+Das neue Projekt wird sicher wieder alles durcheinander wirbeln.
+Wir haben heute glücklicherweise gar keine wichtigen Termine mehr.
+Mein Kollege hat seine Kündigung gerade übergeben und geht jetzt.
+Die Heizung im Büro friert einem förmlich die Knochen ein.
+Ich sehne mich schon so sehr auf den nächsten Urlaub weg.
+Das Telefon klingelt permanent und stört meine komplette Konzentration dabei.
+Kann man eigentlich mal in Ruhe arbeiten ohne diese Lärmkulisse?
+Die Gehaltserhöhung ist leider nur lächerlich gering ausgefallen dieses Jahr.
+Ich habe heute Pech gehabt und mein Zug hat Verspätung bekommen.
+Das Homeoffice nervt mich langsam doch etwas mehr als gedacht.
+Meine Kollegin klatscht immer zu laut in die Pause herein.
+Der neue Vorgesetzte stellt schon wieder völlig unnötige Forderungen an uns.
+Ich muss noch ein paar E-Mails abschicken bevor ich gehe.
+Die Büroküche ist heute Morgen wieder einmal komplett abgeschmiert worden.
+Kannst du mir bitte sagen, wann das Meeting eigentlich anfängt?
+Ich bin total gestresst weil die Deadline schon überschritten wurde.
+Das Gehalt reicht leider immer noch nicht für meine Miete hier.
+Wir sollten mal über eine bessere Work-Life-Balance sprechen im Team.
+Die Kaffeemaschine im Büro ist wieder kaputt gegangen.
+Wir müssen heute Abend noch an dem Projekt arbeiten.
+Mein Chef will unbedingt eine Gehaltserhöhung diskutieren.
+Ich bin froh dass ich morgen endlich frei habe.
+Das Telefon klingelt schon die ganze Zeit nicht auf.
+Kannst du mir mal kurz diese Datei zusenden bitte.
+Die Konferenz war völlig unnötig und zu lang.
+Ich packe gerade meine Sachen aus dem Büro zusammen.
+Es ist schwer im Homeoffice den Kopf freizu bekommen.
+Die Gehaltsabrechnung kommt nächste Woche endlich bei mir an.
+Mein Kollege hat heute wieder mal vergessen die Tür zuzumachen.
+Wir haben leider keine Zeit mehr für Mittagessen heute.
+Die Bewerbung war eigentlich gar nicht so schwer zu schreiben.
+Ich hoffe wirklich auf eine positive Rückmeldung von der Firma.
+Das Open Space Büro macht mich echt wahnsinnig langsam.
+Morgen ist wieder Montag und ich hab große Angst davor.
+Der neue Mitarbeiter scheint sehr kompetent und freundlich zu sein.
+Kannst du bitte das Licht hinter dir ausschalten gehen.
+Ich brauche dringend einen neuen Schreibtisch für zu Hause.
+Die Überstunden werden leider dieses Monat nicht bezahlt.
+Wir müssen uns schnell auf einen Termin einigen heute.
+Meine Kollegin hat mir gerade ein Kompliment gemacht dazu.
+Das Meeting wurde wieder einmal um eine Stunde verlängert.
+Ich überlege ernsthaft den Job komplett aufzugeben bald.
+Der Druck von oben wird manchmal einfach zu viel.
+Schon wieder kein Kaffee im Glas ich muss nachkaufen gehen.
+Die Konferenz am Montag war wieder völlig überflüssig.
+Ich schreibe meine Kündigung morgen früh per E-Mail los.
+Warum müssen wir immer so spät bleiben wenn alle fertig sind.
+Der neue Chef ist total nervig mit seinen ständigen Kontrollen.
+Hab heute schon drei Stunden an diesem einen Projekt verbracht.
+Mein Gehalt stimmt einfach nicht mit der Inflation überein.
+Kannst du mal kurz die Aktenkiste aus dem Flur holen bitte.
+Im Homeoffice vergesse ich manchmal komplett wann Mittag essen ist.
+Die Bewerbung hatte sich leider doch nicht wie erhofft entwickelt.
+Wir sollten das Thema vielleicht erst in der nächsten Woche ansprechen.
+Meine Tastatur ist kaputt und IT reagiert schon seit Tagen nicht.
+Ich habe keine Lust mehr auf diese ewigen Teambuilding Events.
+Der Kollege von nebenan isst ständig Pizza und stinkt rum.
+Kann ich heute früher gehen weil ich richtig krank werde gerade.
+Die Gehaltsverhandlungen ziehen sich jetzt schon den ganzen Monat hin.
+Hab mir extra Zeit genommen um diesen Bericht korrekt durchzulesen.
+Mein Büro ist ein komplettes Chaos aber irgendwie funktioniert alles.
+Warum bekommen wir nie pünktlich das Monatsgehalt auf dem Konto.
+Ich muss dringend Urlaub machen sonst gehe ich komplett unter.
+Die neue Software ist so umständlich dass ich mich immer verzahle.
+Kannst du bitte die Lichter im Flur ausschalten bevor du gehst.
+Der Chef war heute super gut gelaunt zum ersten Mal seit Wochen.
+Ich traue mich gar nicht zu fragen ob eine Beförderung drin ist.
+Wir haben heute wieder kein Mittagessen vom Catering bekommen leider.
+Die Präsentation muss bis Freitag fertig sein sonst kriegen wir Ärger.
+Die Kaffemaschine macht wieder diesen nervigen Lärm im Open Space.
+Ich muss dringend meinen Chef vom Gehaltsgespräch überzeugen.
+Heute habe ich drei Stunden in sinnlosen Meetings verbracht.
+Meine Kollegin hat mir den ganzen Tag mit ihren Lautsprechern auf die Nerven gegangen.
+Ich schreibe gerade meine Kündigung und mein Herz klopft wie wild.
+Das Homeoffice ist toll, aber ich vermisse den direkten Kontakt.
+Wir haben so viele Überstunden gemacht, dass wir uns kaum noch treffen.
+Die Bewerberausschreibung ist total unklar formuliert worden.
+Mein Vorgesetzter hat wieder einmal alle Termine ohne mich geplant.
+Ich kann diesen Stress im Büro einfach nicht mehr ertragen.
+Die neue Software ist so kompliziert, dass wir alle frustriert sind.
+Wir sollten endlich mal über eine bessere Work-Life-Balance sprechen.
+Der Chef möchte, dass ich bis morgen den Bericht fertiggestellt habe.
+Ich habe heute Pech gehabt und wurde krankgeschrieben.
+Unsere Abteilung arbeitet an einem wichtigen Projekt für die Zukunft.
+Die Gehaltserhöhung kam unerwartet spät im Jahr hinzu.
+Ich bin froh, dass ich heute nicht ins Büro fahren muss.
+Der neue Kollege ist sehr freundlich und hilfsbereit zugleich.
+Wir haben wieder zu wenig Personal in der Abteilung.
+Mein Job stresst mich manchmal so sehr, dass ich schlaflos werde.
+Die Besprechung dauerte viel länger als vorher geplant wurde.
+Ich suche nach einem neuen Job mit mehr Flexibilität.
+Der Druck am Arbeitsplatz ist oft einfach zu hoch für mich.
+Wir haben uns endlich auf einen Termin für das Gespräch geeinigt.
+Die Zusammenarbeit im Team hat sich in letzter Zeit verbessert.
+Ich schreibe grad an der Mail für den Chef.
+Die Kantine hat heute wieder nur kalten Reis serviert.
+Mein Drucker macht seit zwei Wochen keine Fotos mehr.
+Wir müssen morgen früh um sieben zur Besprechung da sein.
+Die neue Software ist absolut unbrauchbar und nervig.
+Ich habe heute drei Stunden in unnötigen Meetings verbracht.
+Der Kollege aus der IT hilft mir nie weiter.
+Mein Homeoffice Blick geht direkt auf die Mülltonne.
+Kannst du mal kurz diesen Bericht für mich checken?
+Die Gehaltsfortzahlung bei Krankheit ist hier leider schlecht geregelt.
+Ich trinke meinen vierten Kaffee und bin immer noch müde.
+Wir feiern heute Abend das Jubiläum von Frau Müller.
+Mein Schreibtisch ist ein totaler Wirrwarr aus Papierakten.
+Ich muss dringend meinen Urlaub buchen, sonst verfällt er.
+Die Klimaanlage im Büro flackert seit gestemmer abend.
+Kannst du bitte das Fenster schließen, es zieht hier.
+Ich habe gestern bis spät in die Nacht geschuften.
+Die Bewerbung hat leider keinen Erfolg gehabt dieses mal.
+Mein neuer Job bietet flexible Arbeitszeiten und Homeoffice.
+Der Drucker im zweiten Stock ist wieder einmal kaputt gegangen.
+Wir brauchen dringend einen neuen Projektleiter für diese Abteilung.
+Ich vergesse ständig mein Handy im Büro beim Ausgehen zu lassen.
+Die Kaffeemaschine macht seit gestern ein seltsames Geräusch von sich.
+Kannst du mir mal die Unterlagen für das Meeting schicken?
+Ich habe heute wieder um sieben Uhr den Wecker stellen müssen.
+Unser Chef redet sich zu Tode bei diesen wöchentlichen Stand-ups.
+Kannst du kurz gucken ob der Drucker überhaupt noch funktioniert?
+Die Gehaltserhöhung war zwar wenig aber immerhin was.
+Ich muss unbedingt mal zum Arzt wegen meinen Rückenschmerzen.
+Heute habe ich eigentlich nur noch auf den Feierabend gewartet.
+Die Kaffeemaschine im Büro ist wirklich ein echtes Desaster.
+Sie hat die Kündigung eingereicht und jetzt sind wir alle sauer.
+Das Homeoffice macht mir echt gut, ich hasse den Pendelverkehr.
+Ich bin so genervt von diesen ständigen Unterbrechungen am Tag.
+Wir sollten das Projekt dringend neu planen, der Zeitplan ist Mist.
+Meine Kollegin hat mich heute wieder vor dem Chef bloßgestellt.
+Die Bewerbung war erfolgreich und jetzt gehts richtig los.
+Ich schaffe es heute nicht mehr, muss einfach früh nach Hause.
+Der neue Mitarbeiter wirkt auf mich total arrogant und überheblich.
+Können wir das Meeting wirklich um zwei Stunden verlängern?
+Das Gehalt ist okay, aber die Arbeit zehrt extrem an mir.
+Ich habe den Termin im Kalender vergessen und jetzt bin ich spät.
+Die Pausenschlange am Kaffeeautomaten sieht heute echt lang aus.
+Wir müssen mal drüber reden dass hier einfach zu wenig Personal ist.
+Der Chef will wieder Überstunden, obwohl wir bereits genug geleistet haben.
+Ich packe gerade meine Sachen, morgen bin ich dann endlich frei.
+Diese E-Mail-Kette könnte man auch einfach nur ignorieren.
+Mir reicht es langsam mit den ständigen Deadline-Veränderungen von oben.
+Der Chef war heute wieder extrem schlecht gelaunt.
+Ich muss dringend diesen Bericht bis morgen Vormittag fertigstellen.
+Warum haben wir immer so viele Meetings am Freitag?
+Mein Homeoffice Setup ist endlich abgeschlossen.
+Die Gehaltserhöhung von zwei Prozent kommt mir vor wie eine Beleidigung.
+Ich packe meine Koffer, nächste Woche fang ich woanders an.
+Kannst du mal schnell die Kaffeemaschine ausschalten?
+Im Zug zum Büro bin ich immer todmüde.
+Die neue Kollegin im Marketing ist wirklich super nett.
+Mein Laptop stürzt beim Videocall ständig ab.
+Ich habe keine Lust auf diese endlosen Telefonkonferenzen.
+Endlich Freitag, morgen kann ich nochmal gut durchschlafen.
+Der Drucker geht seit drei Tagen wieder nicht mehr.
+Ich brauche dringend einen Tag Freistellung für den Zahnarzttermin.
+Die Überstunden werden hier leider auch immer schlecht bezahlt.
+Mein Chef hat sich heute nochmal bei mir entschuldigt.
+Ich schreibe gerade meine Kündigung, zittere ganz leicht.
+Das Open Space Büro ist wirklich total laut und nervig.
+Wir sollen ab nächstem Monat nur noch mobil arbeiten.
+Die Gehaltsverhandlung war irgendwie unangenehm ausgefallen.
+Ich hasse es, morgens um sieben Uhr aufzustehen.
+Mein Kollege leiht sich ständig meine Kopfhörer aus.
+Die Präsentation lief heute glasklar und ohne Zwischenfälle.
+Ich habe gerade die Zusage für den neuen Job bekommen.
+Warum muss ich immer als Erster im Meeting sprechen?
+Das Mittagessen mit den Kollegen ist meine einzige Pause.
+Wieder mal eine Stunde in Meetings verplants für gar nichts.
+Kannst du mir kurz die Excel-Datei per Mail schicken?
+Ich brauche dringend einen Kaffee, sonst schlafe ich ein.
+Heute arbeite ich von zu Hause aus, viel angenehmer.
+Hat schon jemand den Drucker repariert, der geht wieder nicht.
+Mein Stellvertreter fällt leider die ganze Woche krank aus.
+Wir müssen überstunden machen, weil der Termin sich verzögert.
+Die Gehaltsgespräche finden erst nächsten Monat statt, nervig.
+Ich habe mich gerade auf diese neue Stelle beworben.
+Der Kollege neben mir tippt den ganzen Tag so laut.
+Können wir das Telefonat auf nächstes Woche verschieben?
+Ich fände eine Kurzarbeit besser als ständige Überstunden.
+Die neue Software ist wirklich unübersichtlich und langsam.
+Wir haben endlich einen neuen Chef, der hört zu.
+Mein Pausenbrot war schon weg, als ich an den Tisch kam.
+Die Büroteilche hat gestern wieder mal über meine Haare gesprochen.
+Ich muss mich heute noch um die Kündigung kümmern.
+Das Teammeeting war irgendwie völlig sinnfrei und zu lang.
+Kann ich am Freitag früh abfahren, ich habe Arzttermin.
+Die Klimaanlage im Büro ist wieder kaputt, es stickt hier.
+Wir suchen dringend jemanden für die Buchhaltung, Bewerbungen bitte mailen.
+Ich hasse es, wenn mich der Chef nach Feierabend anruft.
+Die neue Kollegin scheint super nett zu sein bisher.
+Morgen ist Tag zwei Homeoffice, ich liebe diese Freiheit.
+Die Konferenz kam total ins Stocken weil der Internetausfall so nervig war.
+Im Homeoffice vergesse ich manchmal dass ich eigentlich arbeiten soll.
+Wir haben wieder Überstunden gemacht ohne dass dafür extra gezahlt wird.
+Das Teams-Morgenmeeting könnte man sich wirklich komplett sparen.
+Ich überlege ob ich mich doch mal woanders bewerben sollte.
+Mein Schreibtisch ist ein komplettes Chaos nach dieser langen Schicht.
+Der neue Kollege wirkt ziemlich arrogant im ersten Eindruck ehrlich gesagt.
+Wir diskutieren seit Stunden ohne dass wir zu einem Ergebnis kommen.
+Die Gehaltsverhandlung war super stressig, ich schwitze noch immer.
+Ich muss dringend meine Kündigung bei der Personalabgabe einreichen.
+Das Büro ist heute leer weil alle krankgeschrieben sind.
+Mein Chef ignoriert meine Vorschläge einfach komplett seit Wochen.
+Die Arbeit im Homeoffice bedeutet für mich mehr Freiheit und Zeit.
+Wir müssen das Projekt bis morgen Mittag definitiv abgeschlossen haben.
+Die Kollegin aus der Marketingabteilung ist wirklich super hilfsbereit.
+Ich habe heute frei genommen weil ich einfach keine Lust hatte.
+Das neue Gehalt ist zwar gut aber die Verantwortung ist auch riesig.
+Meeting-Overload plagt uns seit letzter Woche und es wird nicht besser.
+Ich freue mich schon darauf morgen endlich wieder ins Büro zu kommen.
+Die Kündigungsfrist beträgt drei Monate was mir gar nicht passt.
+Mein Schreibtischnachbar redet den ganzen Tag laut telefonierend.
+Das Gehalt stimmt nicht mit der Arbeitshöhe überein das merkt man.
+Wir sollten doch mal einen Firmenausflug planen um zusammenzukommen.
+Wir müssen unbedingt mal über meine Gehaltsanpassung sprechen.
+Das Telefon klingelt schon die ganze Zeit nonstop.
+Ich hasse diese sinnlosen Montagvormittagssitzungen wirklich total.
+Hast du schon meinen Entwurf für das Projekt gesehen?
+Mein Chef ist heute echt schlecht gelaunt anscheinend.
+Wir können doch nicht immer nur überlegen statt zu handeln.
+Die Druckerpatrone ist leer und niemand weiß wo die neue ist.
+Ich schicke dir mal schnell die Unterlagen per Mail.
+Warum müssen wir eigentlich jeden Freitag um vier Uhr treffen?
+Mein Arbeitszimmer sieht aktuell aus wie ein Sperrmüllcontainer.
+Hör auf so laut zu telefonieren, ich muss konzentrieren.
+Die Deadline war gestern und wir sind noch nicht fertig.
+Ich brauche dringend einen Kaffee, sonst falle ich um.
+Hat jemand gesehen wo der Kugelschreiber geblieben ist?
+Das neue Bürokonzept mit den Hotdesks bringt mich voll auf die Palme.
+Ich melde mich morgen wieder nach dem Urlaub bei dir.
+Kannst du bitte mal kurz auf meinen Computer schauen?
+Die Überstunden werden leider auch in diesem Monat nicht bezahlt.
+Wir haben heute wieder kein Internet im ganzen Stockwerk.
+Meine Kollegin arbeitet heimlich an ihrer Bewerbung für einen anderen Job.
+Ich habe vergessen das Passwort für den Drucker zu ändern.
+Komm doch mal rüber, dann zeige ich es dir live.
+Das Gehalt deckt zwar die Miete aber kaum noch mehr.
+Ich hoffe sehr dass dieses Projekt endlich abgeschlossen wird.
+Der neue Mitarbeiter ist ziemlich schüchtern im Umgang mit uns.
+Wir sollten doch einfach mal offen über unsere Probleme reden.
+Die Deadline war gestern und ich bin noch nicht fertig.
+Mein Chef hat mich wieder ohne Termin geladen.
+Ich hasse diese langen Videokonferenzen am Morgen wirklich.
+Kannst du mal schnell den Drucker fixieren, der hängt.
+Ich arbeite heute von zu Hause aus wegen Kopfschmerzen.
+Der Kollege neben mir klatscht immer so laut beim Essen.
+Wir haben die ganze Besprechung verpasst und nichts mitgekriegt.
+Ich schick dir gleich die Unterlagen für die Bewerbung raus.
+Endlich Feierabend nach diesen verrückten drei Tagen hier.
+Die neue Software ist noch schlimmer als das alte System.
+Ich muss über heute Abend noch ein paar Stunden nacharbeiten.
+Mein Vorgesetzter gibt mir überhaupt kein Feedback zur Arbeit.
+Hast du schon gesehen, dass der Kaffee wieder aus ist?
+Ich bewege mich gerade um, weil ich so viel sitze.
+Die Personalabteilung antwortet auf meine Mails einfach nicht.
+Es ist so unangenehm, wenn alle schweigen im Meeting.
+Ich habe heute meinen Kündigungstermin, atme erstmal durch.
+Der neue Praktikant macht wirklich einen super ersten Eindruck.
+Können wir das Thema vielleicht kurz bis morgen verschieben?
+Mein Lohnausweis kam an und die Zahlen sind korrekt.
+Ich sitze schon seit Stunden vor diesem Excel-Blatt hier.
+Die Homeoffice-Lösung klappt bei uns im Team eigentlich gut.
+Jemand hat meinen Stuhl verstellt, wer war das letzte Mal hier?
+Ich brauche dringend Urlaub, mir geht langsam die Puste aus.
+Die Standup Meetings dauern wirklich viel zu lang.
+Mein Chef hat die ganze Zeit nur geredet.
+Ich muss heute noch den Bericht für morgen fertig kriegen.
+Kannst du kurz gucken, ob ich da was übersehen habe?
+Das Homeoffice ist einfach besser als die Anfahrt.
+Wir müssen doch nicht jeden Freitag ins Büro kommen.
+Die Gehaltserhöhung war deutlich weniger als erwartet.
+Ich bin total gestresst wegen der Frist heute Abend.
+Meine Kollegin hat mir den ganzen Kaffee geklaut.
+Der Drucker funktioniert seit Wochen wieder mal nicht.
+Ich habe keine Lust auf diese endlosen Diskussionen.
+Brauchst du Hilfe beim Ausfüllen der Zeiterfassung?
+Die neue Software ist wirklich schlecht zu bedienen.
+Ich arbeite heute bis sechs, weil viel ansteht.
+Kann ich morgen kurz vormittags krankmelden?
+Das Projekt läuft irgendwie total aus dem Ruder.
+Mein Arbeitgeber zahlt keine Zuschüsse für den ÖPNV.
+Ich habe Angst, dass die Stelle gestrichen wird.
+Lass uns das schnell über WhatsApp klären, okay.
+Der neue Azubi ist echt lieb und motiviert.
+Ich vergesse immer wieder meine Zugangsdaten auf der Arbeit.
+Die Pausenregelung ist im neuen Handbuch anders.
+Kommst du auch zum Weihnachtsfeier am Freitag Abend?
+Ich brauche dringend einen neuen Schreibtischstuhl.
+Schreib mir einfach kurz, wenn du die Datei hast.
+Ich sitze schon den ganzen Vormittag vor Excel.
+Die Besprechung konnte eigentlich komplett entfallen.
+Mein Chef hat wieder mal keine Ahnung vom Projekt.
+Endlich Feierabend, ich bin heute absolut durchgerastet.
+Die Pausenküche ist seit zwei Tagen geschlossen.
+Kannst du mir bitte die Unterlagen bis Mittag schicken?
+Ich überlege ernsthaft, bald eine Kündigung zu schreiben.
+Das neue Homeoffice Setup war es einfach wert.
+Warum müssen wir immer um acht Uhr online sein?
+Mein Gehalt stimmt schlichtweg nicht mit der Arbeit überein.
+Die Kollegen im anderen Stockwerk sind viel freundlicher.
+Ich muss dringend ein neues Keyboard bestellen.
+Der Termin morgen ist leider komplett ausgefallen.
+Ich habe heute so viel zu tun, dass ich kaum Luft bekomme.
+Bitte keine Mails am Freitagabend mehr senden.
+Das Gehalt war dieses Jahr einfach enttäuschend niedrig.
+Wir brauchen endlich einen druckfähigen Beamer im Büro.
+Die Bewerbungssuche dauert schon viel zu lange an.
+Mein Vorgesetzter ist heute morgen besonders schlecht gelaunt.
+Ich schreibe gleich die monatliche Abrechnung für den Kunden.
+Endlich mal ein ruhiger Tag ohne stressige Anrufe.
+Das Meeting hätte wirklich nur eine Mail sein müssen.
+Ich verdiene zu wenig für diesen enormen Stress hier.
+Die Kaffeemaschine geht wieder einmal komplett nicht mehr.
+Hoffentlich klappt die Beförderung im nächsten Quartal endlich.
+Hast du schon gesehen dass das Ticket wieder offen ist?
+Mein Bildschirm flackert seit der Updateinstallation ständig nervig.
+Kannst du mir kurz die Akten vom dritten Regal reichen?
+Ich muss echt schnell zur Toilette bevor das Meeting startet.
+Die Kaffeemaschine in der Küche funktioniert mal wieder nicht.
+Ich hab mein Passwort vergessen und bin seit zwanzig Minuten blockiert.
+Der Drucker im Gang ist seit zwei Wochen defekt.
+Kannst du bitte kurz meinen Laptop mit zur Besprechung nehmen?
+Ich fühle mich total überfordert von der neuen Softwareeinführung hier.
+Mein Chef hat gesagt ich soll das bis Montag erledigen.
+Das Licht in meinem Schreibtischbereich blendet mich zum Kotzen.
+Hast du zufällig noch ein USB Kabel frei dass ich leihen darf?
+Ich muss dringend mit meinem Mitarbeiter sprechen wegen des Urlaubs.
+Die Heizung im Keller läuft seit Tagen voll auf Hochtouren.
+Kann mir jemand erklären wie man diese Excel Formel richtig anlegt?
+Ich bin erschöpft von den endlosen Video Konferenzen letzte Woche.
+Der neue Mitarbeiter wirkt ziemlich unfreundlich und distanziert in der Pause.
+Wir sollten mal überlegen ob wir ein Teamevent im Sommer planen wollen.
+Ich hab vergessen mein Lunchpaket heute Morgen einzupacken für heute.
+Kannst du kurz schauen ob das Fax wirklich angekommen ist?
+Mein Rücken schmerzt total seit ich den ganzen Tag sitze.
+Das Handy klingelt dauernd und stört mich beim Konzentrieren extrem.
+Ich muss noch zwei E Mails beantworten bevor ich gehe.
+Wer hat denn wieder meinen Stuhl weggeräumt ohne zu fragen?
+Die Überstunden vom letzten Monat sind immer noch nicht abgegolten.
+Ich muss dringend mit meiner Chefin über eine Gehaltserhöhung sprechen.
+Das Daily stand heute wieder zu früh auf der Tagesordnung.
+Mein Arbeitszimmer ist endlich komplett ausgestattet, jetzt kann ich arbeiten.
+Die Bewerbung wurde leider abgelehnt, obwohl die Unterlagen top waren.
+Ich finde es unfair dass wir an Feiertagen trotzdem erreichbar sein müssen.
+Der neue Kollege passt überhaupt nicht ins Team rein.
+Wir sollten uns ein Tool für bessere Zusammenarbeit im Homeoffice kaufen.
+Die Kündigung hab ich schon geschrieben, liegt nur noch auf dem Tisch.
+Heute ist wieder Montag und ich habe massive Anlaufschwierigkeiten am PC.
+Das Gehalt reicht kaum noch bis zum nächsten Monatsende.
+Mein Chef ruft mich während des Urlaubs ständig an, das nervt wirklich.
+Die Bürotemperatur ist heute wieder extrem hoch, man schwitzt einfach so.
+Ich würde gerne in die Teilzeit gehen, aber der Vorstand will nicht.
+Die Schulung war total uninteressant und viel zu lang gestrickt.
+Wir brauchen dringend einen neuen Drucker, der alte macht nur Ärger.
+Am Freitag bleibt mal bitte alle bis fünf Uhr, keine Ausnahmen mehr.
+Ich habe Angst vor dem Vorstellungsgespräch morgen Vormittag um neun.
+Die Kommunikation zwischen den Abteilungen funktioniert einfach gar nicht.
+Mein Schreibtisch ist ein Chaos aus Akten und alten Unterlagen.
+Das Bonus-Gehalt kommt vielleicht Ende des Jahres, mal sehen.
+Ich muss mich freinehmen weil der Zahnarzt kurzfristig einen Termin gibt.
+Die Kaffemaschine im Flur ist kaputt, alle sind genervt heute.
+Wir planen gerade die Weihnachtsparty und niemand weiß wer organisiert was.
+Es gibt wieder neue Regeln für das flexible Arbeiten ab nächsten Monat.
+Das Telefon klingelt einfach nicht mehr seit gestern Mittag.
+Warum müssen wir jeden Montag so früh dran sein?
+Der Kaffeeautomat macht schon wieder nur kalten Kaffee raus.
+Ich schreib dir mal später, hab gerade volle Hose.
+Das Projekt läuft total aus dem Ruder seit Wochen.
+Hast du schon die Präsentation für den Kunden fertig gemacht?
+Ich kann heute nicht länger arbeiten, bin einfach zu müde.
+Die neue Software ist doch völlig unübersichtlich und nervig.
+Wir haben wieder mal Stille Post im Team gehabt.
+Mein Boss redet nur noch von Synergien und Visionen.
+Ich hab meine Kündigung heute offiziell übergeben endlich.
+Das Gehalt reicht bei den aktuellen Mieten kaum mehr.
+Wer hat eigentlich das Licht ausgegangen, es ist stockdunkel?
+Die Pausenregelung hier wird doch einfach nicht eingehalten.
+Ich vermiss ehrlich gesagt die kleine Pause am Automaten.
+Mein Schreibtisch sieht aus wie nach einem Orkan geradezu.
+Hoffentlich klappt die Bewerbung, ich brauch wirklich das Geld.
+Die Konferenz war langweiliger als jede Folge von Bürokratie.
+Ich muss mich erst wieder an die Pendelei gewöhnen langsam.
+Kannst du kurz schauen ob der Drucker noch Tinte hat?
+Die Überstunden werden dieses Monat hoffentlich richtig vergütet diesmal.
+Ich hasse es wenn jemand so laut kauen tut neben mir.
+Wir brauchen dringend einen neuen Stuhl für den Aufenthaltsraum.
+Die Besprechung könnte eigentlich in einer Mail geklappt haben.
+Ich muss heute Abend noch bis acht arbeiten weil alles drängt.
+Kannst du mir kurz den Bericht fürs Projekt zukommen lassen?
+Mein Boss redet nur über Zahlen und hat kein Mitleid.
+Endlich habe ich eine Woche Urlaub, ich freue mich riesig.
+Das Homeoffice ist super aber ich vermisse die Kollegen schon.
+Ich brauche dringend eine Pause weil der Stress zu viel wird.
+Wer hat denn wieder mein Mittagessen aus dem Kühlschrank geklaut?
+Die neue Software macht nur Fehler und kostet uns ewig lange.
+Ich schreibe gerade meine Kündigung, es ist jetzt so weit.
+Am Montag beginnt die neue Stelle, bin schon richtig aufgeregt.
+Der Drucker geht schon wieder nicht und der Support hilft auch nicht.
+Wir müssen das Konzept bis Freitag fertig haben, da bleibt wenig Zeit.
+Mein Chef möchte dass ich samstags noch mal kurz reinschauen soll.
+Das Gehalt ist okay aber die Arbeit stimmt bei mir einfach nicht.
+Ich hoffe wirklich auf eine positive Rückmeldung aus dem Personalwesen.
+Die Kaffeemaschine im Büro ist endlich wieder repariert, super.
+Ich muss mich auf das Vorstellungsgespräch vorbereiten und bin nervös.
+Mein Kollege hat mir geholfen als ich überarbeitet war, danke.
+Es ist anstrengend immer von zu Hause aus arbeiten zu müssen.
+Die Bonuszahlung kommt vielleicht im nächsten Monat, wer weiß.
+Ich habe heute drei Stunden im Verkehr gesessen zum Büro fahren.
+Das Teammeeting war sehr produktiv und wir haben viel geschafft.
+Ich bewerbe mich mal auf diese Stelle weil es interessant klingt.
+Am Montag muss ich wieder um sieben im Büro sein.
+Die Kaffeemaschine ist schon wieder kaputt gegangen.
+Ich schwöre der nächste Meeting wird nur per Chat abgehalten.
+Mein Chef hat heute nochmal nachgedrückt wegen der Fristen.
+Eigentlich würde ich gerne kündigen, aber die Miete steht an.
+Im Homeoffice vergesse ich komplett dass es auch Mittagessen gibt.
+Die Bewerbung ist raus, jetzt warte ich nervös auf Antwort.
+Warum müssen wir immer sonntags um die Unterlagen kämpfen?
+Das Gehalt passt irgendwie nie zum Aufkommen in diesem Job.
+Ich habe heute meine letzten Überstunden gemacht und feiere.
+Die neuen Kollegen sind nett aber das Büro ist zu laut.
+Endlich mal einen Tag frei ohne schlechtes Gewissen gehabt.
+Die E-Mail vom Montag muss ich dringend noch erledigen.
+Wir haben wieder nichts Neues beschlossen sondern nur geplaudert.
+Mein Schreibtisch sieht aus wie nach einer Bombenexplosion heute.
+Ich bin froh dass das Projekt endlich abgeschlossen ist.
+Der neue Boss ist streng aber fair mit allen hier.
+Kann jemand meinen Bericht kurz durchschauen bevor ich ihn schicke?
+Die Pause war zu kurz um wirklich runterzukommen wieder.
+Wir sollten mal über eine Gehaltserhöhung sprechen nächstens.
+Ich hasse es wenn Termine ohne Vorankündigung verschoben werden.
+Das Homeoffice Büro muss ich morgen endlich wieder aufräumen.
+Mein Kollege ist krank, deshalb muss ich heute alles allein machen.
+Die Kündigung liegt schon auf dem Tisch seit gestern Abend.
+Endlich mal ein Projekt das Spaß macht und nicht nervt.
+Ich brauche dringend einen neuen Job weil das hier stressig ist.
+Die Kaffeemaschine im Büro geht wieder mal kaputt.
+Ich muss am Montag um sechs Uhr früh ins Office.
+Mein Boss findet meine Idee total genial und cool.
+Kannst du bitte kurz den Bericht für mich prüfen?
+Homeoffice ist halt doch viel entspannter als vor Ort.
+Wir sitzen schon die dritte Stunde im Video Call.
+Die neue Kollegin aus dem Marketing ist super nett.
+Ich hoffe wirklich auf eine Gehaltserhöhung nächstes Jahr.
+Das war es wohl, ich kriege heute meine Kündigung.
+Warum müssen wir eigentlich jeden Freitag noch ein Meeting haben?
+Mein Laptop macht beim Starten diese gruselige Festplatten Geräusche.
+Ich arbeite gerade von zu Hause aus wegen der Grippe.
+Der Chef hat uns überraschend eine Bonuszahlung versprochen.
+Die Überstunden dieses Monat waren einfach nur krass viel.
+Kann jemand kurz den Drucker fixen, er nimmt kein Papier.
+Ich finde das neue Bürodesign eigentlich ganz gelungen und frisch.
+Meine Chefin ist heute besonders schlecht gelaunt und mürrisch.
+Wir haben endlich das Projekt abgeschlossen, jetzt kann ich atmen.
+Die Mittagspause vergeht hier im Büro wie im Flug.
+Ich bewerbe mich gerade intern auf die Stelle als Manager.
+Das Telefon klingelt endlos, keiner scheint den Stilleknopf zu kennen.
+Ich bin so froh, dass der Urlaub endlich bald losgeht.
+Mein Kollege hat das gesamte Team mit seiner Geschichte belustigt.
+Die Arbeitsbelastung ist in letzter Zeit wirklich nicht mehr normal.
+Die Pause war eigentlich nur 15 Minuten lang.
+Warum muss man immer mittags eine Statusrunde halten?
+Ich drucke gerade die Unterlagen für das Gespräch aus.
+Mein Chef sagt ständig alles ist super wichtig.
+Das neue Büro hat zwar besseres Licht, aber schlechten Kaffee.
+Ich habe heute wieder zu spät angefangen zu arbeiten.
+Die Gehaltsvorstellung war vielleicht etwas zu hoch gegriffen.
+Am Montag will ich mich offiziell krankmelden müssen.
+Unser IT-Support ist leider ziemlich langsam und unfreundlich.
+Kannst du bitte die Projektdateien bis morgen nachmittags schicken?
+Ich überlege ernsthaft, ob ich doch kündigen sollte.
+Die Homeoffice-Regelung ist für uns alle sehr flexibel.
+Meine Kollegin hat heute wieder den ganzen Tag gefeiert.
+Das Gehalt reicht gerade so für die Miete und Lebensmittel.
+Wir planen morgen eine Teambuilding-Aktivität in der Stadt.
+Der Vorgesetzte drückt immer mehr Druck auf die Mitarbeiter.
+Ich habe meine Bewerbung gestern endlich abgeschickt und versendet.
+Die neuen Bürogeräte sind noch nicht richtig konfiguriert worden.
+Man merkt sofort, wenn jemand nur mitmacht im Meeting.
+Mein Arbeitsplatz ist total unruhig wegen der Baustelle daneben.
+Die Überstunden werden leider gar nicht extra vergütet bei uns.
+Ich schreibe gerade an meiner Lebenslauf-Aktualisierung für die Zukunft.
+Der neue Kollege kommt morgen zum ersten Mal ins Büro.
+Wir müssen dringend das Budget für dieses Quartal überprüfen.
+Mein Chef hat mich heute wieder ohne Grund gerügt bekommen.
+Der Chef ruft dauernd an obwohl er sagt wir sollen entspannen.
+Ich muss morgen wieder bis 18 Uhr bleiben wegen dem Report.
+Kannst du mal schauen ob die Datei auf dem Server ist?
+Das Mittagessen war heute echt schlecht im Mitarbeiterzimmer.
+Mein Platz am Fenster ist endlich frei geworden nach der Umstrukturierung.
+Wir haben heute nur ein kurzes Standup Meeting gemacht, gut so.
+Die neue Software ist komplizierter als uns versprochen wurde.
+Ich schreibe morgen meine Kündigung, ich kann nicht mehr.
+Hat schon jemand den Vorschlag von Thomas gelesen, total wirr.
+Ich brauche dringend einen neuen Monitor, der alte streikt.
+Am Montag fängt mein neues Projekt an, bin etwas aufgeregt.
+Die Weihnachtsfeier findet dieses Jahr leider nur im Office statt.
+Können wir das Thema für die nächste Woche verschieben?
+Mein Gehalt ist seit drei Jahren gleich geblieben, unfair.
+Ich habe heute homeoffice und genieße die Stille sehr.
+Der Drucker ist wieder mal kaputt gegangen zum Pech.
+Wir sollten vielleicht doch einen Teamtag machen um Stress abzubauen.
+Die Bewerbung ging gestern raus, jetzt heißt es nur noch warten.
+Meine Kollegin hat mir einen tollen Tipp für die Präsentation gegeben.
+Ich vergaß meine Schlüssel im Büro und musste wiederkommen.
+Das Budget wurde geschnitten, damit müssen wir nun leben.
+Hast du schon gesehen wer in der Abteilung neu ist?
+Die U-Bahn war heute wieder mal total überfüllt zur Arbeit.
+Ich habe heute endlich Feierabend gemacht um 16 Uhr scharf.
+Der Kaffee in der Pause schmeckt besser als mein eigener.
+Wir müssen die Zahlen für das Quartal bis Freitag haben.
+Die Kaffemaschine im Büro ist kaputt und alle sind genervt.
+Ich sitze schon seit drei Stunden in diesem endlosen Call.
+Mein Chef hat mir gerade eine Gehaltserhöhung versprochen, mal sehen.
+Homeoffice ist toll, aber ich vermisse die Kollegen richtig.
+Diese Präsentation muss bis morgen fertig sein, Stress pur.
+Der neue Kollege kommt erst am Montag, bis dahin bin ich allein.
+Ich hasse es, wenn man am Freitag noch Mails schreiben muss.
+Die Bewerbung war abgelehnt, das tut echt wein heute.
+Wir müssen wieder Überstunden machen, weil die Projekte hinterherhinken.
+Kann jemand kurz ins Büro kommen? Ich brauche dringend Hilfe.
+Das Meeting könnte auch eine kurze Nachricht gewesen sein ehrlich.
+Ich überlege mir ernsthaft, ob ich kündigen soll nächste Woche.
+Der Drucker streikt schon den ganzen Tag, typisch Dienstagnachmittag.
+Mein Vorgesetzter erwartet immer, dass ich sofort antworte.
+Die Gehaltsverhandlungen sind gelaufen wie sie waren, nicht gut.
+Ich habe heute frei und genieße die Ruhe endlich richtig.
+Der Kaffee schmeckt im Homeoffice irgendwie besser als vorher.
+Wir brauchen dringend einen neuen Projektleiter für das Team.
+Die Kündigung kam überraschend, ich wusste gar nicht, dass es so weit ist.
+Jeden Morgen um acht Uhr bin ich schon am Bildschirm dabei.
+Mein Schreibtisch ist ein totaler Chaos, da muss ich mal aufräumen.
+Die Kollegen laden alle zum Abschlussessen ein, wird sicher lustig.
+Ich habe keine Lust mehr auf diese ständigen Statusupdates.
+Das Gehalt passt nicht mehr zur aktuellen Inflation und Belastung.
+Endlich ist die Woche vorbei und ich kann abschalten heute.
+Das Mittagessen war wieder mal total langweilig im Büro.
+Kannst du mir kurz die Daten schicken bis gleich?
+Ich hab heute keine Lust auf das Telefonat mit dir.
+Die Präsentation hat super funktioniert, alle waren zufrieden.
+Mein Laptop geht nicht mehr und ich habe Deadline.
+Warum müssen wir immer so früh zum Standup Meeting sein?
+Die neue Kaffeemaschine schmeckt irgendwie nach Plastik nur schade.
+Ich drück mir gerade mal die Füße hoch am Schreibtisch.
+Der Boss war heute wieder in schlechter Stimmung wegen allem.
+Wir müssen dringend noch mal über das Gehalt sprechen können.
+Homeoffice ist einfach der Hammer weil man nicht anzieht muss.
+Hat schon jemand den Bericht fertig gemacht für morgen früh?
+Ich krieg hier echt Stress mit dem Kunden am Telefon.
+Die Überstunden wurden endlich dieses Monat ausgezahlt vom Unternehmen.
+Kannst du das Licht bitte etwas heller machen im Raum?
+Das Gehalt war wirklich fair für den Anfang gesagt sei es.
+Ich überlege mir ernsthaft ob ich kündigen soll bald.
+Die neue Kollegin ist sehr nett aber noch ziemlich schüchtern.
+Wir haben heute frei wegen Brückentag, endlich mal wieder.
+Der Drucker macht schon wieder Ärger und geht nicht mehr.
+Ich muss meine Steuererklärung nochmal komplett überarbeiten dieses Jahr.
+Das Gehalt stimmt einfach nicht mit dem Aufwand überein überhaupt nicht.
+Kommst du auch zur Feier am Freitag abend im Restaurant?
+Meine Augen tun weh vom ständigen Starren auf den Bildschirm.
+Das Meeting war komplett unnötig und hat nur Zeit verschwendet.
+Ich muss dringend mit dem Chef über meine Gehaltserhöhung sprechen.
+Mein Homeoffice Setup ist heute wieder kaputt gegangen zum Pech.
+Die Kündigung hab ich schon ausgedruckt und morgen wird es passiert sein.
+Warum müssen wir immer um fünf Uhr abends noch Besprechung machen?
+Ich bin total ausgebrannt von all diesen ständigen Überstunden hier.
+Der neue Kollege ist nett aber er redet einfach zu viel im Büro.
+Die Bewerbung war erledigt und jetzt warte ich nervös auf Antwort.
+Im Büro ist es so laut dass ich kaum konzentriert arbeiten kann.
+Ich würde gern mal richtig durchatmen ohne ständig erreichbar zu sein.
+Die Firma spart an allem außer bei teuren Beraterinnen und Beratern.
+Heute ist Feiertag aber mein Chef schickt mir trotzdem noch Mails.
+Ich hab genug von der toxischen Arbeitskultur in diesem Unternehmen.
+Das Gehalt passt eigentlich ganz gut für diese Position im Moment.
+Mein Teamleader macht mich fertig mit seinem mikromanagement jeden Tag.
+Die Kaffeemaschine geht nicht wieder und das ist echt nervig heute.
+Ich überlege mir seriös ob ich kündigen soll wegen dem Stress.
+Am Telefon war ich total unhöfisch weil ich genervt war vom Job.
+Die Kollegen reden nur schlecht über uns aber machen nichts besser.
+Es wird Zeit dass wir mal offen über unsere Probleme im Büro sprechen.
+Ich liebe meine Arbeit eigentlich doch der Druck ist einfach zu hoch.
+Der Antrag auf Homeoffice wurde endlich genehmigt zum Glück für mich.
+Mir fehlt die Struktur wenn ich nicht am festen Schreibtisch sitze.
+Die Gehaltsgabel in der Ausschreibung war wirklich sehr bescheiden ehrlich gesagt.
+Ich habe heute wieder zwei Stunden im Stau gestanden zum Pech.
+Am Montag muss ich wieder um sieben da sein, echt nervig.
+Wir haben die ganzen Zahlen doch schon letztes Jahr besprochen.
+Kannst du mir kurz den Link zur Datei nochmal schicken?
+Mein Chef ist heute in einer miesen Laune, besser wegbleiben.
+Ich brauche dringend einen Kaffee, sonst werde ich nicht wach.
+Die Deadline war gestern, aber wir liefern erst morgen.
+Im Homeoffice vergesse ich oft zu essen, das ist doof.
+Hoffentlich klappt die Gehaltverhandlung doch noch wie besprochen.
+Wer hat denn da gerade wieder den Drucker blockiert?
+Ich bin total burnoutgefährdet und brauche dringend Urlaub.
+Das neue Bürokonzept mit dem Hotelling nervt mich nur.
+Meine Chefin will ständig Statusupdates, alle fünf Minuten.
+Ich habe heute drei Stunden Überstunden gemacht ohne Zuschlag.
+Die Bewerbung kam abgelehnt an, trotz guter Referenzen.
+Wir treffen uns morgen früh zur wöchentlichen Teamsitzung.
+Können wir das Gespräch bitte auf nächste Woche verschieben?
+Der Kollege neben mir hat die Lautsprecher wieder vergessen.
+Ich erwäge ernsthaft, den Arbeitgeber zu wechseln nächstes Jahr.
+Die Gehaltserhöhung war lächerlich im Vergleich zur Inflation.
+Heute habe ich eigentlich nur Mails geschrieben und nichts sonst.
+Das Meeting hätte wirklich eine E-Mail sein können heute.
+Ich bin froh, dass die Firma jetzt Gleitzeit einführt.
+Mein neuer Job zahlt gut, aber der Stress ist groß.
+Wir müssen dringend das Projektziel noch einmal überdenken.
+Kann jemand mal kurz den Kaffeevollautomaten entkalken bitte?
+Das Daily dauert eigentlich schon ewig und bringt nichts.
+Ich muss mal dringen mit der Chefin über mein Gehalt reden.
+Schreib doch einfach eine Mail statt immer diesen Chat Ping.
+Die Homeoffice Regel ist jetzt wieder strikt ab Montag.
+Mein Kollege hat sich heute komplett in den Schlaf gelehnt.
+Die Präsentation war okay aber die Technik hat nicht funktioniert.
+Ich hab genug von dieser Endlosschleife aus Meetings am Nachmittag.
+Kannst du kurz decken weil ich früher gehen muss heute.
+Das neue Projekt klingt super viel versprechend für uns alle.
+Mein Laptop ist kaputt und IT antwortet erst nächste Woche.
+Die Bewerbung wurde abgelehnt obwohl ich perfekt war ehrlich.
+Wir essen wieder nur diesen miesen Pausenbrot von der Kantinenautomat.
+Der neue Mitarbeiter ist netter als man denkt am Anfang.
+Ich arbeite heute bis zehn weil die Deadline schon morgen ist.
+Hast du die Unterlagen für die Prüfung schon raus gesucht?
+Die Firmenfeier findet dieses Jahr leider gar nicht statt mehr.
+Ich überlege ernsthaft ob ich wirklich noch hier bleiben soll.
+Mein Chef lobt mich immer erst wenn alles längst erledigt ist.
+Das WLAN im Büro hängt ständig wenn viele online sind.
+Wir machen ab jetzt flexible Arbeitszeiten für alle Teams.
+Die Gehaltsspanne in der Anzeige war total irreführend finde ich.
+Ich brauche unbedingt eine kurze Pause bevor die Nervenschnappen.
+Der Vorgesetzte von dir ist eigentlich gar nicht so streng.
+Hast du schon gesehen wie viele Leute heute fern arbeiten?
+Die Kündigung kam überraschend als hätte niemand was geahnt.
+Ich muss echt mal wieder Urlaub machen, sonst knallts mir.
+Das Teams Meeting war heute total sinnlos ehrlich gesagt.
+Kannst du kurz meinen Anruf zurückgeben wenns dir passt.
+Die neue Kollegin ist super lieb aber sie redet zu viel.
+Ich hab die Bewerbung rausgeschickt und warte jetzt nervös.
+Mein Chef steht heute wieder schon um sieben an meinem Tisch.
+Warum müssen wir eigentlich jeden Freitag noch Statusupdate machen.
+Die Pausenkaffemaschine macht wieder diesen seltsamen Lärm da drüben.
+Ich bin froh dass ich morgen Homeoffice machen darf.
+Die Gehaltsgesprächstermine sind dieses Jahr echt schlecht verteilt worden.
+Mein Kollege vergisst immer die wichtigsten Punkte im meeting.
+Ich packe gerade meine Sachen aus weil es mir zu viel wird.
+Die Fahrt zur Arbeit dauert heute wieder ewig wegen der Baustelle.
+Kann ich morgen später kommen weil ich gestern überstunden machen musste.
+Das neue Projekt klingt spannend ist aber irgendwie auch Stress.
+Mein Laptop startet nicht mehr und ich hab kein Backup.
+Die Kaffeekanne in der Küche ist schon lange leer.
+Ich hoffe dass die Besprechung heute kurz bleibt wirklich.
+Wir müssen dringend noch mal mit dem Kunden telefonieren.
+Die Arbeitsatmosphäre hier ist zum Glück eher entspanter als früher.
+Ich brauche dringend mal einen Tag ohne Kalendertermin echt.
+Der neue Mitarbeiter bringt sich immer selbstständig schnell ein.
+Kannst du mir bitte die Unterlagen für das Dossier schicken.
+Ich finde es unfair dass immer nur ich das Meeting protokolliere.
+Mein Chef hat gesagt wir müssen ab sofort flexibler werden.
+Endlich ist die Woche fast vorbei und ich kann atmen.
+Endlich Freitag, ich kann gar nicht abwarten bis Feierabend ist.
+Mein Chef steht morgens immer wie ein Zombie im Büro rum.
+Kann mir bitte jemand erklären warum wir heute wieder um 9 treffen?
+Ich habe genug von diesen endlosen Videokonferenzen am Nachmittag.
+Das Gehalt stimmt einfach nicht mit der Arbeitsbelastung überein.
+Wir müssen dringend an unserer Teamkommunikation arbeiten sonst wirds brenzlig.
+Die Pausensnacks sind schon wieder weg, wer war das diesmal?
+Ich frage mich ob ich bald kündigen soll oder doch bleiben.
+Der Neue im Büro ist super freundlich, aber total uneffizient bei der Arbeit.
+Mein Schreibtisch ist so ein Chaos dass ich nichts mehr finde.
+Hoffentlich hat sich die Bewerbung bewährt, morgen kommt hopefully Bescheid.
+Wir sitzen hier nur rum und reden über Kaffeesorten statt zu arbeiten.
+Das neue Projekt wird bestimmt wieder bis ins Jahr hinausgezögert.
+Ich brauche echt dringend einen Urlaub von dem ganzen Stress.
+Kann bitte jemand den Drucker reparieren bevor ich durchdrehen?
+Die Überstunden zahlen sich finanziell kaum aus, ehrlich gesagt gar nicht.
+Mein Kollege kommt heute schon zum vierten Mal zu spät ins Büro.
+Wir sollten mal über eine Gehaltserhöhung sprechen, das ist längst überfällig.
+Das Meeting wurde abgesagt, nun habe ich endlich Zeit für mich.
+Ich hasse es wenn andere im Homeoffice permanent stören müssen.
+Die To-do Liste wird nur länger statt kürzer, echt nervig irgendwie.
+Hoffentlich vergisst niemand wieder die Unterlagen für die Besprechung mitzunehmen.
+Wir bekommen nächste Woche neue Stühle ins Büro geliefert endlich.
+Mein Chef ist heute in super Stimmung, das ist selten und schön.
+Ich muss dringend meinen Computer aktualisieren, er hängt sich ständig auf.
+Die Konferenzräume sind heute wieder komplett ausgebucht.
+Kannst du kurz meinen Bildschirm freischalten, der hängt sich auf.
+Ich muss dringend noch drei Mails beantworten bevor ich gehe.
+Warum haben wir das Projekt erst so spät besprochen?
+Mein Stuhl ist total kaputt, der wackelt schon wieder.
+Hast du die Unterlagen für das nächste Meeting gefunden?
+Ich würde jetzt gerne ins Wochenende starten statt hier zu sitzen.
+Die Kaffeemaschine im zweiten Stock macht mal wieder nur Schlamm.
+Können wir den Termin auf morgen verschieben, ich bin krank.
+Der neue Praktikant ist eigentlich gar nicht so schlecht dabei.
+Ich vermiss die kurzen Wege ins Büro total vermisst das ich.
+Gehaltverhandlung steht an und ich weiß gar nicht was ich will.
+Bitte mach doch endlich mal die Heizung im Flur auf.
+Die Deadline war gestern, aber wir liefern erst morgen ab.
+Mein Chef hat gesagt dass ich mehr Eigeninitiative zeigen soll.
+Ich sitze schon seit zwei Stunden fest in diesem Zoom-Call.
+Kann jemand bitte den Drucker reparieren, er spuckt nur noch raus.
+Die Mittagssuppe kocht heute wieder jemand aus der Marketingabteilung.
+Ich habe keine Lust mehr auf diese endlosen Besprechungen ohne Ziel.
+Wir müssen das Excel-Dokument bis Freitagabend fertig haben oder so.
+Meine Kollegin hat mich gerade total unterbrochen als ich sprach.
+Das Homeoffice ist toll aber ich vermiss den täglichen Smalltalk.
+Hast du schon die Einladung zur Weihnachtsfeier bekommen und gesehen?
+Ich brauch kurz einen Kaffee um nicht völlig abzukippen heute.
+Die Kündigung liegt auf dem Tisch seit zwei Wochen nun endgültig.
+Habe gerade wieder Überstunden gemacht weil der Kunde so blöd ist.
+Kann heute leider nicht kommen, bin echt krank.
+Das Gehalt ist wirklich unfair für die Menge an Arbeit.
+Mein Chef macht immer alles komplizierter als nötig.
+Endlich Montag vorbei, jetzt kann ich endlich durchatmen.
+Wer hat bitte das Druckerpapier wieder aufgebraucht?
+Ich brauche dringend einen Kaffee sonst schlafe ich ein.
+Die neue Software ist wirklich nicht benutzerfreundlich designed.
+Hab mich gerade für die Beförderung beworben, daumen drücken.
+Läuft bei dir alles gut oder hast du auch Stress?
+Das Meeting war komplett verschwendete Zeit ehrlich gesagt.
+Ich kündige ab nächsten Monat, die Stimmung ist scheiße.
+Im Homeoffice vermisse ich eigentlich nur das Kaffeeautomat.
+Meine Kollegin klaut mir ständig Ideen ohne zu nennen.
+Hast du schon gesehen wie hoch die Inflation ist?
+Wir müssen dringend mal wieder ein Team Event planen.
+Der neue Praktikant ist wirklich fleißig und nett.
+Ich habe heute keine Lust mehr auf Smalltalk.
+Warum muss ich immer am Freitag den Report schreiben?
+Die Gehaltserhöhung kommt erst im nächsten Quartal leider.
+Bin gerade im Zug und versuche zu arbeiten, nervt mich.
+Kannst du mal kurz einspringen während ich Mittagspause mache?
+Die Bürotemperatur ist heute wirklich viel zu kalt.
+Ich frag mich ob ich überhaupt noch auf der richtigen Stelle bin.
+Schluss mit den ständigen Unterbrechungen beim Telefonieren bitte.
+Mein Schreibtisch sieht aus wie nach einem Wirbelsturm.
+Die Kaffeemaschine ist wieder defekt, was für einen Stress.
+Ich muss dringend mit meinem Vorgesetzten über Urlaub sprechen.
+Draußen wird es dunkel, aber ich sitze noch hier.
+Das Projekt lief eigentlich gar nicht so schlecht overall.
+Kann jemand kurz die Tür abschließen bevor wir gehen?
+Ich hasse diese ewigen Statusupdates am Montagmorgen total.
+Mein Laptop braucht seit Tagen eine komplette Neuaufstellung.
+Wir haben heute Mittag im Garten gegessen, war schön.
+Die Deadline rückt näher und ich habe noch viel zu tun.
+Wer von euch hat die neuen Richtlinien schon gelesen?
+Ich brauche dringend einen Kaffee, sonst fall ich um.
+Der Meeting-Raum ist leider doch schon belegt heute Vormittag.
+Mein Chef möchte das Konzept bis Freitag auf dem Tisch haben.
+Homeoffice bedeutet bei mir eigentlich nur andere Arbeitszeiten.
+Ich überlege ernsthaft, ob ich bald kündigen soll.
+Die neue Kollegin kommt morgen an, wir freuen uns.
+Gehaltsgespräch steht an und ich habe riesigen Respekt davor.
+Mein Büro ist zu laut für konzentriertes Arbeiten heute.
+Ich schicke die Dateien gleich rüber, häng dich nicht auf.
+Warum müssen wir jeden Tag um acht Uhr starten?
+Das Jahr neigt sich dem Ende zu und ich bin burnout.
+Meine Unterlagen für die Bewerbung liegen schon bereit.
+Der Druck steigt, aber irgendwie klappt es trotzdem gut.
+Ich vermisste das Büroleben gar nicht so sehr ehrlich gesagt.
+Am Montag wieder früh aufstehen müssen ist wirklich grausam.
+Mein Boss hat nochmal kurzfristige Änderungen am Projekt verlangt.
+Können wir bitte das ständige Telefonieren im Büro einstellen?
+Ich schreibe gerade meinen Kündigungsschreiben und bin total gestresst.
+Die neuen Kollegen scheinen sehr nett zu sein bisher.
+Heute habe ich wieder drei Stunden mehr gearbeitet als nötig.
+Das Gehalt stimmt einfach nicht mit der Arbeitsbelastung überein.
+Ich vermisse das Büroteam wirklich, Homeoffice ist einsam.
+Mein Chef redet viel zu langsam in den Videokonferenzen.
+Wir müssen dringend einen neuen Drucker kaufen, der alte macht Ärger.
+Die Bewerbung war erledigt, jetzt warte ich nur noch auf Rückmeldung.
+Kaffeeautomat ist kaputt und wir sind alle launisch heute.
+Ich bekomme keine Gehaltserhöhung, trotz hervorragender Leistungen im letzten Jahr.
+Der Mitarbeiter neben mir tippt den ganzen Tag extrem laut.
+Wir haben heute Nachmittag frei wegen Feiertag nachgeholt.
+Mein Chef fragt stündlich ob der Report schon fertig ist.
+Die Reisekosten werden leider nicht erstattet, das war klar.
+Ich überlege mir ernsthaft einen Jobwechsel in einem Monat.
+Das Meeting könnte eine kurze E-Mail sein statt zwei Stunden.
+Meine Kollegin hat mir heute ein Kompliment gemacht, überraschend.
+Wir brauchen dringend mehr Personal in der Abteilung, sonst brennen wir aus.
+Der neue Chef ist viel direkter als sein Vorgänger im Unternehmen.
+Ich habe mich bei der Vorstellungsgespräch wirklich gut gefühlt gestern.
+Die Bildschirmarbeit macht meinen Augen heute schon zu schaffen wieder.
+Können wir bitte pünktlich mit dem Standup Meeting beginnen heute?
+Am Montag muss ich wieder früher als sonst aufstehen.
+Die Kaffemaschine im Erdgeschoss ist schon wieder kaputt gegangen.
+Ich schreib dir später wenn ich endlich von der Arbeit da bin.
+Mein Vorgesetzter redet immer nur über Synergien und so Kram.
+Hoffentlich hat das Meeting morgen wirklich ein Ende irgendwann heute noch.
+Kannst du mir kurz sagen wann die Rechnung bei euch eingeht?
+Ich finde es total unfair dass wir wieder überstunden machen müssen.
+Die Gehaltsverhandlung war nervig aber am Ende haben sie doch zugestimmt.
+Im Homeoffice vergesse ich manchmal dass ich eigentlich arbeiten soll heute.
+Mein Kollege ist schon wieder zu spät gekommen und entschuldigt sich nicht.
+Wir sollten uns endlich ein neues Büroprogramm anschauen das aktuelle ist langsam.
+Ich überlege ernsthaft ob ich dem Boss die Kündigung einreiche nächste Woche.
+Das Telefon klingelt nicht aufhören will einfach nur Ruhe haben für mal.
+Hoffentlich kommt der neue Praktikant morgen pünktlich ansonsten muss ich alles alleine machen.
+Die Präsentation lief super obwohl ich bis zur letzten Minute geschlampt habe echt.
+Mein Chef fragt nie ob mir die Arbeitsbelastung gerade zu viel ist blöd.
+Ich hasse es wie lang die Mittagspause in der Kantine immer dauert wirklich.
+Endlich kann ich diese Woche am Freitag um vier Uhr nach Hause gehen froh.
+Die E-Mail Kette wurde jetzt schon zwölftmal weitergeleitet das muss doch aufhören.
+Wer hat den Drucker wieder verstopft dass das Ding gar nicht mehr geht?
+Ich brauche dringend einen neuen Job weil mir hier die Luft ausgeht echt.
+Das Gehalt steigt zwar minimal aber dafür habe ich mehr Urlaubstage dieses Jahr.
+Meine Kollegin ist immer so laut am Telefon das stört mich total wirklich.
+Wir haben heute den letzten Tag im alten Büro bevor wir umziehen müssen.
+Ich habe gestern Abend bis spät dran an dem Projekt gearbeitet wahnsinnig.
+Die Pampa ist wieder voll, ich sitz schon seit drei Stunden hier.
+Mein Chef meckert rum, obwohl das Projekt top gelaufen ist.
+Ich schreib morgen die Kündigung, ich habs echt satt.
+Das Telefon klingelt nicht mehr, jetzt kann ich endlich durchatmen.
+Wir müssen heute wieder bis 18 Uhr bleiben, viel Spaß damit.
+Die neue Kollegin ist wirklich super nett und auch kompetent.
+Endlich Homeoffice Tag, das macht dem Wochenende schon mal Laune.
+Das Meeting war total unnötig, wir hätten es per Chat klären können.
+Ich brauch echt mal dringend Urlaub, ich bin völlig durchgebrannt.
+Der Neue im Team ist eigentlich gar nicht so schlecht, ehrlich.
+Wir haben wieder kein Budget für die Teambuilding Maßnahme.
+Mein Laptop ist langsam wie die Post, muss ihn austauschen lassen.
+Ich bewarb mich bei einer anderen Firma und habe schon Interesse.
+Die Kaffeemaschine in der Küche geht wieder nicht, ärgerlich eigentlich.
+Ich hab heute halbtags frei, genieß die Zeit mit der Familie.
+Der Boss hat nochmal was umgeworfen kurz vor Feierabend natürlich.
+Wir müssen das Report bis morgen früh fertig haben, Stress pur.
+Mein Platz im Büro ist zu klein, ich muss mich ständig ducken.
+Die Gehaltsverhandlungen waren echt angespannt aber am Ende fair.
+Ich kann nicht mal mehr ins Homeoffice gehen heute, total doof.
+Das neue Design der Homepage gefällt mir irgendwie gar nicht so.
+Wir laden nächste Woche auf dem Dach zum Grillen ein, kommt alle.
+Mein Kollege schwafelt wieder endlos rum und erzählt alles doppelt.
+Ich bin froh dass ich diesen Vertrag nicht verlängern muss.
+Das Mittagessen im Büro schmeckt mir wirklich nicht mehr.
+Ich muss morgen um fünf Uhr wieder an den Schreibtisch setzen.
+Die Präsentation lief gut aber der Kunde hatte trotzdem Bedenken.
+Kannst du kurz reinschauen ich hab ein Problem mit Excel.
+Endlich Wochenende und ich kann mal wieder abschalten.
+Mein Chef ist heute wieder total in schlechter Laune.
+Wir müssen über die neue Strategie nochmal drüber reden.
+Ich habe gerade meine Kündigung geschrieben, bin sehr nervös.
+Die Homeoffice Regeln sind uns eigentlich egal ehrlich gesagt.
+Wer hat denn schon Lust auf ein Meeting am Freitag?
+Ich brauche dringend eine Gehaltserhöhung, Miete steigt ja auch.
+Das Druckerpatronen Tauschen ist immer so anstrengend und nervig.
+Ich schwöre die Kaffeemaschine ist heute Morgen kaputt gegangen.
+Mein Kollege kommt wieder zu spät und entschuldigt sich nie.
+Ich muss meine Bewerbung noch einmal überarbeiten und verbessern.
+Die Überstunden werden leider nicht mehr richtig vergütet hier.
+Ich hasse es wenn jemand so laut telefonierte im Open Space.
+Könntest du mir die Dateien für das Projekt schicken?
+Ich glaube ich sollte bald mal wechseln, da bin ich unsicher.
+Der neue Boss ist ziemlich streng und kontrolliert alles genau.
+Wir haben wieder keine Pausen gemacht weil es einfach stressig war.
+Mein Laptop hängt sich ständig auf zum Glücklichsein fehlt was.
+Ich freue mich schon auf den Urlaub im nächsten Monat wirklich.
+Die Büroklammern sind wieder alle weg, wer nimmt sie immer mit.
+Ich habe heute gar keine Lust zu arbeiten, total ausgelaugt dabei.
+Mein Chef hat mir heute wieder die Luft abgekuppelt.
+Ich sitze schon seit einer Stunde in diesem sinnlosen Zoomcall.
+Kann jemand bitte das Licht im Besprechungsraum ausschalten?
+Die Bürokleidung ist eigentlich ganz schön unbequem ehrlich gesagt.
+Wir müssen dringend die Kündigungsfrist im Vertrag überprüfen.
+Heute muss ich bis zehn Uhr abends für den Projektabschluss arbeiten.
+Ich finde unseren neuen Kollegen irgendwie ziemlich unangenehm und distanziert.
+Das Gehalt passt nicht zur Arbeitsbelastung, da mache ich mir Sorgen.
+Homeoffice ist super, aber die Einsamkeit wird langsam zum Problem.
+Ich habe meine Bewerbungsunterlagen endlich fertiggeschrieben und abgeschickt.
+Der Drucker im zweiten Stock geht seit Wochen einfach nicht mehr.
+Wir brauchen unbedingt neue Stühle, die alten sind kaputt.
+Mein Vorgesetzter versteht nichts von meiner Idee für das Marketing.
+Die Mittagspause ist zu kurz für den Weg zur Bank.
+Ich überlege ernsthaft, meinen Job zu kündigen und durchzustarten.
+Der Kaffee in der Küche schmeckt heute irgendwie nach Asche.
+Warum muss aus jedem Briefing am Montag ein zweistündiges Meeting werden?
+Ich bekomme jeden Tag zig Mails von Leuten, die ich nicht kenne.
+Die Gehaltsverhandlung war angespannter als ich mir das vorgestellt habe.
+Mein Platz im Büro ist voll mit unsortierten Akten und Papieren.
+Ich freue mich schon riesig auf den nächsten Ferientag ohne Stress.
+Der IT-Support braucht ewig, bis er mein WLAN-Problem löst.
+Wir sollten mal offen darüber reden, wie es der Mitarbeiter stimmt geht.
+Die neuen Richtlinien sind für uns alle viel zu kompliziert erklärt worden.
+Ich habe heute Vormittag nur Pech gehabt mit den Kundenanrufen.
+Das tägliche Smalltalk Rituale im Büro sind mir schon lange egal geworden.
+Mein Chef war heute wieder besonders anspruchsvoll bei den Zielen.
+Ich sitze schon seit zwei Stunden in dieser sinnlosen Besprechung.
+Die Kaffeeautomat streikt heute wie jeden Dienstag Vormittag.
+Endlich mal ein Tag ohne dringende E-Mails vom Kunden.
+Ich muss dringend eine neue Tastatur kaufen, die alte brummt.
+Wer hat denn bitte das Licht im Flur wieder ausgemacht?
+Mein Gehalt reicht gerade so für die Miete und Essen.
+Die neuen Kollegen sind nett, aber sie reden nur Lärm.
+Ich würde liebend gerne heute schon Feierabend machen.
+Das Homeoffice ist super, solange man keinen Internetausfall hat.
+Meine Frau beschwert sich immer über meine späten Heimkommen.
+Die Bewerbung war schwer, aber ich habe Hoffnung geschöpft.
+Ich hasse diese langweiligen Präsentationen mit bunten Diagrammen.
+Kann jemand mein Mittagessen aus dem Kühlschrank holen?
+Das Büro ist heute irgendwie zu laut für mich.
+Mein Chef hat wieder mal seine Launen ausgebogen am Nachmittag.
+Die Überstunden werden leider nicht bezahlt, das ist ärgerlich.
+Ich freue mich auf den nächsten Urlaub im Krankenhaus.
+Der Drucker macht nur noch Probleme seit dem Update.
+Wir müssen endlich die Heizung regeln, es frißt uns alle.
+Mein Kollege hat heute sein neues Auto vorgestellt stolz.
+Die Pausen sind viel zu kurz für einen echten Kaffee.
+Ich bekomme Kopfschmerzen von den vielen Bildschirmen hier im Raum.
+Endlich Freitag, ich brauch das Wochenende dringend.
+Die neuen Vorschriften vom Chef sind echt nervig.
+Ich sitz seit zwei Stunden auf dem Stuhl.
+Homeoffice ist einfach zu schön um wieder ins Büro zu gehen.
+Wer hat denn schon Lust auf ein Morgenmeeting?
+Mein Gehalt deckt barely noch die Miete hier.
+Ich habe den ganzen Tag nur E-Mails beantwortet.
+Die Kaffeemaschine im Büro geht endlich wieder kaputt.
+Ich denke darüber nach mich woanders umzuschauen.
+Der Kollege macht ständig Witze, die nicht lustig sind.
+Wir müssen morgen bis drei Uhr arbeiten bleiben.
+Die Bewerbung ist raus, jetzt heißt es warten.
+Ich hasse es wenn der Chef über den Bildschirm schreit.
+Das neue Projekt klingt viel versprechend ehrlich gesagt.
+Mein Rücken wehrt sich nach acht Stunden sitzender Arbeit.
+Ich habe heute frei genommen und mich einfach hingesetzt.
+Die Gehaltserhöhung war dieses Jahr wieder mies.
+Wir brauchen dringend einen neuen Drucker im Büro.
+Ich finde den neuen Chef viel zu streng persönlich.
+Das Meeting hätte komplett entfallen können ehrlich gesagt.
+Die Pausen sind eigentlich die beste Zeit am Tag.
+Mein Chef hat mich gerade wieder für dumm verkauft.
+Ich hasse es wenn um acht Uhr schon Mails reinkommen.
+Das Homeoffice ist super aber ich vermisse die Kollegen.
+Wir haben heute ein zweistündiges Meeting über das Wetter geführt.
+Die Gehaltserhöhung war wirklich nur Lachnummer dieses Jahr.
+Ich würde morgen lieber bleiben und nicht zur Arbeit gehen.
+Der Drucker streikt wieder und wir brauchen ihn dringend.
+Meine Chefin macht immer alles selbst statt abzugeben.
+Die Überstunden wurden diesmal leider nicht bezahlt oder anerkannt.
+Ich schreibe heute meinen Kündigungsschreiben und werde das Ding abschicken.
+Im Büro ist es so laut dass ich kaum denkend kann.
+Der neue Kollege kommt wohl erst nächste Woche anfangen.
+Wir müssen bis Freitag den Bericht noch fertigstellen.
+Das Essen von der Cafeteria war echt nicht mehr genießbar.
+Ich nervt mich diese ständige Erreichbarkeit nach Feierabend total.
+Mein Schreibtisch sieht aus wie ein Schlachtfeld am Wochenende.
+Wir haben Pech gehabt weil das Projekt gestrichen wurde.
+Der Leiter findet meine Idee nicht gut genug für die Präsentation.
+Ich brauche dringend einen Kaffee sonst falle ich komplett um.
+Die Klimaanlage ist kaputt und es wird immer schwüler hier.
+Morgen früh fange ich endlich meinen neuen Job an.
+Die Kollegen haben mich heute überraschend zum Geburtstag eingeladen.
+Ich habe das Meeting verpasst weil mein Handy ausging.
+Der Drucker streikt wieder zum dritten Mal diese Woche.
+Ich muss dringend mit meinem Vorgesetzten sprechen wegen der Gehalt.
+Lass uns das kurz im Chat klären statt eine Runde zu mailen.
+Meine Kollegin hat mir gerade ihr Pausenessen geklaut, echt nervig.
+Die Überstunden fließen leider nicht als Freizeitausgleich gutgeschrieben werden.
+Kannst du bitte die Datei bis morgen Mittag auf dem Server ablegen?
+Das Telefon klingelt nur so vor sich hin und ich habe keine Zeit.
+Ich bin am Wochenende komplett unreachable für alle Arbeitsanfragen.
+Die Bewerbung war abgeschickt und jetzt warten wir einfach ab.
+Unser neuer Manager ist leider viel zu streng für unseren Teamgeist.
+Hast du schon mal versucht über das WLAN Problem mit IT zu reden?
+Mir reicht es langsam immer alles auf die Letzte Minute schieben zu müssen.
+Wir haben heute glücklicherweise nur ein kurzes Standup Meeting.
+Die Kaffeemaschine in der Küche ist wieder kaputt, wir sind alle schlecht gelaunt.
+Ich überlege ernsthaft meinen Job zu wechseln weil es hier langweilig ist.
+Das Gehalt passt eigentlich ganz gut aber die Arbeitszeit ist zu hoch.
+Mein Chef hat mich heute ohne Grund gemeckert und ich bin sauer.
+Im Büro riecht es heute wieder nach altem Fisch aus der Küche.
+Wir müssen endlich mal aufräumen weil der Schreibtisch voll mit Papier ist.
+Die Deadline nähert sich rasant und wir haben noch gar nichts gemacht.
+Ich würde gerne früher gehen aber die E-Mails kommen einfach nicht weg.
+Der Neue im Team ist wirklich sympathisch und sehr hilfsbereit auch.
+Wir bekommen nächste Woche keine Tage frei wegen der vielen Projekte.
+Mein Laptop hängt sich ständig auf und ich muss neu starten.
+Die Besprechung zog sich endlos hin und war völlig inhaltsleer ehrlich gesagt.
+Die Pausen werden langsam zur Folter in diesem Büro.
+Ich schicke die E-Mail erst morgen früh, sonst nervt es mich nachts noch.
+Mein Boss meint immer alles ist dringender als es tatsächlich ist.
+Homeoffice bedeutet für mich eigentlich nur mehr Schlaf am Morgen.
+Das Gehalt passt nicht mal mehr zum aktuellen Lebensmittelpreis.
+Wir hatten wieder so ein Meeting das keine Entscheidung gebracht hat.
+Die Bewerbung war schwer weil ich partout keinen Kontakt bekomme.
+Die Überstunden machen sich langsam auf meinem Bankkonto bemerkbar.
+Ich überlege ernsthaft zu kündigen weil die Luft hier weg ist.
+Kollegen sind nett aber im Büro wird kaum mal echt gelacht.
+Der neue Job klingt gut doch das Gehalt bleibt leider hinterher.
+Ich drucke den Vertrag aus damit ich alles nochmal genau lesen kann.
+Mein Chef lobt mich nie selbst wenn ich alles perfekt mache.
+Im Homeoffice vergesse ich fast wie stressig der Pendelverkehr ist.
+Die Gehaltserhöhung war lächerlich niedrig im Vergleich zur Inflation.
+Ich hasse es wenn Kollegen ihr Handy laut klingeln lassen.
+Bewerbungsgespräche sind nervenaufreibend weil man nie weiß ob man passt.
+Am Wochenende sollte ich endlich mal keine Arbeitsemails mehr sehen.
+Die Kündigung habe ich schon geschrieben nur noch nicht abgeschickt.
+Unser Büro ist grau und trist wie eine alte Haftanstalt.
+Ich brauche dringend Urlaub weil ich komplett am Ende bin.
+Die Kollegen machen lustige Sprüche aber hinter dem Rücken reden sie schlecht.
+Mein Chef hat heute wieder seinen kleinen Wutanfall gehabt.
+Geld allein motiviert mich nicht mehr wenn die Arbeit keine Sinn hat.
+Die Überstunden wurden dieses Monat schon wieder nicht gutgeschrieben.
+Warum muss aus jeder kurzen Mail gleich ein ganztägiges Meeting werden.
+Mein Chef hat heute Morgen mal wieder seinen schlechten Tag.
+Ich überlege ernsthaft, die Kündigung aufzusetzen und neu zu starten.
+Im Homeoffice kann ich wenigstens meinen Hund mit ins Büro nehmen.
+Die Gehaltsverhandlung war super angespannt, aber es hat am Ende geklappt.
+Mein Schreibtisch liegt direkt neben dem Drucker, das ist nervig.
+Ich habe mich gerade auf eine Position im Marketing beworben.
+Das neue Gehalt reicht kaum noch für die steigenden Mieten in der Stadt.
+Ich vermisse eigentlich die kurzen Pausen mit den Leuten von nebenan.
+Die Bewerbung wurde leider abgelehnt, trotzdem bin ich nicht enttäuscht.
+Mein Vorgesetzter drückt mir wieder mal seine privaten Sorgen auf.
+Kaffee im Büro schmeckt immer wie Abwasser aus dem Automaten.
+Ich bin so froh, dass das langwierige Projekt endlich abgeschlossen ist.
+Die Bildschirmzeit heute war wirklich zu viel für meine Augen.
+Wir bekommen dieses Jahr nur eine lächerliche Inflationausgleichssumme.
+Heute muss ich mich an einem Vorstellungsgespräch per Videocall versuchen.
+Das Open Space Büro macht mich wahnsinnig vor lauter Gereddel.
+Ich habe heute frei, weil der Feiertag da war, genussvoll ausgelebt.

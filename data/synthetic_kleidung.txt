@@ -1964,31 +1964,6 @@ Welches Oberteil passt besser zu den Hosen?
 Der Gürtel passt leider nicht in die Taille.
 Ich finde Neonfarben echt schwierig zu kombinieren.
 Kann ich deine Jacke kurz zum Probieren nehmen?
-Kannst du mal prüfen ob die Jacke noch in meiner Größe ist
-Ich hab das Shirt direkt gewaschen weil ich es sofort tragen wollte
-Mein Pullover fängt an zu fusseln obwohl er noch gar nicht alt ist
-Die Schuhe drücken schon nach einem halben Tag auf dem Weg zur Arbeit
-Wir müssen uns was schickes für die Hochzeit überlegen
-Hast du die neuen Kollektionen im Schaufenster schon gesehen
-Ich finde diese Farbe steht dir total gut
-Das Hemd hat nach dem Bügeln immer noch Falten
-Mein Lieblingspullover hat leider ein Loch in der Naht bekommen
-Sollten wir die Hose noch oder ist die zu eng
-Ich trage lieber Jeans weil sie einfach pflegeleicht sind
-Die Mütze ist aus meiner Kindheit und hält immer noch
-Hast du deinen Wintermantel schon mal gereinigt lassen
-Das ist nicht mein Stil aber die Qualität sieht gut aus
-Wir haben den ganzen Nachmittag in den Shopping Malls verbracht
-Kannst du mir den Gürtel einmal umschnallen ich komme nicht dran
-Mein neuer Rock ist viel zu kurz für den Kindergarten
-Die Jacke ist winddicht aber leider nicht atmungsaktiv
-Ich habe auf die Bestellung für die Sneakers gewartet
-Passt das zu meiner Hose oder ist das zu viel
-Die Knöpfe an der Bluse sind schon wackelig
-Das Material fühlt sich weich an aber sieht billig aus
-Meine Stiefel sind komplett durchgegossen beim Regen gestern
-Wir brauchen dringend neue Wäschesäcke für die empfindliche Kleidung
-Hast du einen Gutscheincode für den Online Shop
 Die Jeans ist super bequem, aber der Stoff sieht billig aus.
 Hast du schon mal bei diesem Online-Shop bestellt?
 Mein Lieblingspulli ist leider in der Waschmaschine verkocht.
@@ -2107,30 +2082,6 @@ Ich bin total zufrieden mit meinem Kauf gestern.
 Das Muster ist mir doch etwas zu laut für die Arbeit.
 Die Passform ist super, nur die Länge stört mich.
 Ich habe gestern eine echte Schnapperjagd gemacht.
-Hast du schon was für die Hochzeit gefunden
-Die Jeans sitzt einfach nicht richtig am Bund
-Ich hasse es wenn die Ärmel immer zu lang sind
-Mein Pullover ist total zottelig geworden
-Wir sollten mal zusammen shoppen gehen
-Der Rock ist zwar hübsch aber viel zu teuer
-Hast du das Shirt schon gewaschen
-Diese Schuhe tun nach einer Stunde weh
-Ich suche eigentlich nur nach einer schlichten Bluse
-Mein Mantel ist noch immer nicht aus dem Waschsalon
-Wir müssen dringend deine Jacken ausmessen
-Das Material fühlt sich irgendwie kratzig an
-Ich kann keine Marken mehr bezahlen
-Der Gürtel passt wieder perfekt
-Hast du einen Röcher oder lieber ein T-Shirt
-Die Strümpfe haben alle Löcher
-Ich ziehe im Winter immer dicke Socken an
-Die Hose ist viel zu eng geworden
-Wir brauchen dringend neue Sneaker für die Stadt
-Dein Outfit sieht heute richtig schick aus
-Die Perlen fallen ständig von der Kette ab
-Ich trage lieber Bequem als Modisch
-Der Schal ist zu schwer für den Sommer
-Hast du den Gutschein noch im Portemonnaie
 Habe grad ein cooles Oberteil gefunden, aber der Preis ist verrückt.
 Mein schwarzer Pullover ist nach drei Wäschen total ausgeblichen.
 Kannst du mir sagen, ob dieser Schnitt mich optisch vergrößert?
@@ -8057,7 +8008,6 @@ Komm, wir gucken uns mal die Angebote an.
 Das Material ist zu dünn für den Winter eigentlich.
 Ich trage lieber Bequemlichkeit als enge Mode.
 Welchen Schnick-Schnack hast du denn da gekauft?
-Die Farbe hat leider schnell nach dem Waschen
 Mein Pulli ist schon so unheimlich fusselig geworden.
 Hast du gesehen wie billig das Shirt am Ende war.
 Die Jeans sitzt vorne immer noch viel zu locker.
@@ -9696,7 +9646,6 @@ Der Mantel fällt total elegant am Körper aus.
 Wir haben den ganzen Samstag nur Shoppen gemacht.
 Diese Sneaker sind einfach viel zu unbequem für mich.
 Ich habe vergessen, die dunklen Wäschestücke getrennt zu waschen.
-Die Passform beim Online-Shopping ist immer ein Glücksspiel.
 Mein Hemd sitzt vorne wieder mal total komisch.
 Das Kleid war zwar teuer, aber super verarbeitet.
 Ich kann gar nicht glauben, wie schnell Kleider aus der Mode kommen.
@@ -13383,3 +13332,2274 @@ Meine Sneaker sehen aus wie nach fünf Jahren Tragen.
 Der Pullover ist super bequem zum Faulenzen auf der Couch.
 Hast du schon was Schönes für den Urlaub gekauft?
 Ich hab heute ein tolles Angebot im Sale gesehen.
+Hast du zufällig meinen Pullover gesehen?
+Meine Lieblingsjecke ist endlich wieder auf Lager.
+Das Material fühlt sich echt billig an.
+Ich sollte mal wieder zum Schneider gehen.
+Kannst du kurz reinsehen, ob das zu mir passt?
+Die Schuhe drücken schon nach fünf Minuten.
+Ich mag diesen Oversized Look total gerne.
+Mein Hemd hat leider einen Fleck davonbekommen.
+Lass uns morgen zusammen shoppen gehen.
+Diese Farbe steht dir viel besser als Rot.
+Ich finde diese Mode gar nicht so mein Stil.
+Hast du noch Wechselgeld für die Kassiererin?
+Der Pulli ist super weich und bequem.
+Ich trage das nur zu Hause rum.
+Komm schnell runter, wir müssen weg hier.
+Die Größenangaben online sind völlig falsch.
+Mir ist in diesem Shirt einfach zu warm.
+Ich hab doch schon drei solche Jeans.
+Das Design ist wirklich ganz clever gemacht.
+Wir suchen eigentlich nur einen schlichten Anzug.
+Mein Mantel hat beim Trocknen ein Loch bekommen.
+Ich liebe es, wenn man Schnäppchen findet.
+Diese Kette ist total in diesem Jahr.
+Brauchst du Hilfe beim Kombinieren der Farben?
+Der Preis ist mir ehrlich gesagt zu hoch.
+Kleidung aus alter Zeit trägt sich anders.
+Diese Jeans sitzt einfach nicht mehr richtig.
+Kannst du mir raten welches Shirt besser passt?
+Mein Lieblingspullover ist nach dem Waschen zerknittert.
+Ich finde deine neuen Schuhe total stylish.
+Wir sollten am Wochenende mal shoppen gehen.
+Das Hemd war leider zu teuer für mich.
+Hast du schon eine Winterjacke gekauft?
+Die Größe S ist bei mir immer zu eng.
+Ich mag keine Markenlogos auf meinen Klamotten.
+Kann ich diese Hose vielleicht umtauschen?
+Dein neuer Mantel steht dir richtig gut.
+Ich habe heute wieder nix zum Anziehen gefunden.
+Bitte nicht waschen das wird sonst kleiner.
+Die Qualität bei günstiger Kleidung ist oft schlecht.
+Ich trage lieber bequeme Schuhe im Alltag.
+Glaubst du mir diese Farbe wirklich zu?
+Mein Shirt hat gerade ein Loch bekommen.
+Wir sollten uns mal neu einkleiden.
+Dieser Schal sieht auf dir so edel aus.
+Ich kann nie richtig zwischen zwei Größen entscheiden.
+Hast du Lust mit zum Outlet zu fahren?
+Das Material fühlt sich irgendwie billig an.
+Diese Jeans sitzen einfach nicht mehr richtig.
+Hast du mal den Rabattcode für Zalando?
+Mein Pulli färbt leider im Waschen ab.
+Ich such noch was Schickes für die Hochzeit.
+Das Material fühlt sich total unangenehm an.
+Warum kosten solche Sneaker immer so viel Geld?
+Der Schnitt ist super, aber die Farbe ist doof.
+Kannst du mal nachsehen ob das auf Lager ist?
+Ich hasse es wenn die Nähte nach zwei Mal Waschen platzen.
+Meine Mütze ist leider schon ganz in Mitleidenschaft gezogen.
+Soll ich die Hose jetzt kaufen oder noch warten?
+Die Bluse steht dir viel besser als mir.
+Ich trage nur noch Kleidung aus Bio-Baumwolle eigentlich.
+Kann man das Teil auch ohne Bügeln tragen gehen?
+Der Stil ist zwar gut aber der Preis ist zu hoch.
+Meine Stiefel sind schon wieder durch die Sohle getreten.
+Suchst du nicht gerade ein neues Winterjacke Modell?
+Die Passform war leider doch nicht so wie beschrieben.
+Ich kaufe lieber Second Hand weil es billiger ist halt.
+Das Shirt ist nach dem Trocknen einfach zu klein geworden jetzt.
+Welche Marke hast du denn da an den Füßen?
+Ich habe gestern ein richtig cooles Shirt gefunden.
+Meine Lieblingsjeans hat leider schon Löcher am Knie.
+Lass uns zum Outlet fahren, da gibt es alles umsonst fast.
+Diese Marke wird mir gerade einfach zu teuer.
+Hast du das neue Model der Sneaker gesehen?
+Ich hasse es wenn die Ärmel so lange sind.
+Das Kleid ist viel schöner als auf dem Foto.
+Kann ich das mal anprobieren bevor ich es kaufe?
+Meine Strümpfe gehen immer sofort kaputt bei der Wäsche.
+Ich finde den Schnitt der Hose total schmeichelhaft.
+Wir müssen dringend deine Garderobe aufräumen und sortieren.
+Der Mantel ist zwar schön aber viel zu warm für jetzt.
+Ich traue mich nie in große Größentabellen reinzugehen.
+Das Accessoire macht das ganze Outfit einfach erst richtig komplett.
+Ich hab mir einen Gutschein gespart für den nächsten Einkauf.
+Die Stoffqualität fühlt sich total unangenehm auf der Haut an.
+Welche Farbe kommt dir im Moment am besten entgegen?
+Ich muss meine alten Schuhe endgültig entsorgen und wegwerfen.
+Das Oberteil steht mir leider gar nicht besonders gut zu Gesicht.
+Wir sollten mal gemeinsam shoppen gehen, das macht Spaß.
+Dein neues Outfit ist wirklich stylisch und gut abgestimmt.
+Ich verzichte lieber auf Fast Fashion und kaufe langlebig ein.
+Der Gürtel passt perfekt dazu und rundet alles ab.
+Hab schon lange keine neuen Socken mehr gekauft ehrlich gesagt.
+Mein neuer Pulli kratzt irgendwie auf der Haut.
+Das Shirt sitzt super bequem nach dem zweiten Waschen.
+Ich muss unbedingt neue Jeans kaufen, die alte ist durch.
+Finden wir den gleichen Hut im Sale nicht auch toll?
+Der Pullover ist leider etwas zu klein geraten für mich.
+Kannst du mal kurz überblicken, ob das passt?
+Meine Sneakers sind endlich wieder sauber nach der Reinigung.
+Ich trage lieber dunkle Farben, die sehen edler aus.
+Das Kleid ist viel zu teuer für den Anlass eigentlich.
+Die Hose hat hinten leider einen kleinen Riss bekommen.
+Wir sollten zusammen shoppen gehen, mir fehlt der Rat.
+Der Mantel schützt wirklich gut vor dem kalten Wind.
+Ich hasse es, wenn Knöpfe fehlen oder locker sind.
+Diese Schuhe machen meiner Füße total wund nach zwei Stunden.
+Hast du den Gutscheincode noch parat für die Kasse?
+Das Hemd muss dringend gebügelt werden, sieht sonst schlampig aus.
+Ich überlege mir, ob ich mir doch Leder zulege.
+Deine neue Brille bringt dir das Gesicht echt gut.
+Der Stoff fühlt sich viel hochwertiger an als erwartet.
+Wir müssen deine Sachen zur Reparatur bringen, der Zipper hakt.
+Ich hab heute drei Umkleidekabinen durchprobiert ohne Erfolg.
+Das T-Shirt ist ausgerechnet beim Waschen bunt gelaufen.
+Kannst du das Kleid mal kurz anprobieren für mich?
+Die Accessoires machen auf dem Foto den ganzen Unterschied aus.
+Hast du schon mal diese neuen Sneaker gesehen?
+Mein alter Pullover ist leider voll ausgeleiert.
+Lass uns doch morgen ins Einkaufszentrum gehen.
+Die Jeans sind mir irgendwie viel zu eng.
+Wie viele Pullover hast du denn jetzt gekauft?
+Das Material fühlt sich gar nicht so hochwertig an.
+Ich trage fast nur noch schwarze Klamotten lately.
+Der Preis ist echt happig für so ein Shirt.
+Passt der Rock wirklich um die Hüfte herum?
+Hab da einen Gutschein für den Outlet gefunden.
+Meine Schuhe drücken schon wieder in der Zehenpartie.
+Welche Farben kommen denn nächstes Jahr rein?
+Das Hemd ist schnell gewaschen und fast trocken.
+Ich mag deine neuen Sonnenbrille, die steht dir gut.
+Kannst du mal kurz in der Umkleide probieren?
+Die Nähte bei den Hosen lösen sich sofort.
+Wir sollten uns ein Outfit für die Party suchen.
+Findest du auch, dass die Hose zu lang ist?
+Ich hab wieder zu viel Geld ausgegeben beim Shoppen.
+Das Gestrick ist schön warm und nicht zu schwer.
+Meine Stiefel sind nach dem Regen ganz durchgeweicht.
+Hör auf, dich immer nur mit Markenkleidung vollzustopfen.
+Der Gürtel passt zwar, aber das Loch ist zu klein.
+Ich überlege mir schon den ganzen Tag, was ich anziehe.
+Hast du eigentlich schon mal diese neue Jeans getestet?
+Mein Pullover ist nach dem Waschen irgendwie ausgedehnt.
+Ich finde das Design total veraltet und uninspiriert.
+Kannst du mir mal kurz meine Jacke übergeben?
+Die Schuhe drücken vorne, obwohl die Größe stimmt.
+Ich habe heute den ganzen Tag nur shoppen gehen.
+Dein Mantel sieht im Foto viel besser aus als live.
+Wir sollten uns endlich neue Sneaker anschauen und kaufen.
+Das Shirt kratst total, ich trage das nie wieder.
+Hast du meinen Hooder gesehen, der lag auf dem Bett.
+Die Kosten für Markenklamotten werden immer unerträglicher hoch.
+Ich überlege noch, ob ich mir den Rock wirklich kaufe.
+Meine Socken haben wieder Löcher, echt zum Mäuse melken.
+Der Stoff fühlt sich billig und unangenehm rau an.
+Kannst du mal nachschauen, ob ich noch Hemden habe?
+Ich hasse es, wenn Kleidungsstücke sofort ausfransen oder reißen.
+Mein Partner hat mir zum Geburtstag einen Anzug geschenkt.
+Wir müssen unsere Winterkleider unbedingt aussortieren und aufräumen.
+Das Outfit wirkt zu dunkel für den Sommer geeignet.
+Hast du meine Schuhe irgendwo weggeworfen oder versteckt?
+Der Stoff saugt Schweiß auf wie ein Schwamm, doof.
+Ich traue mich nicht online zu kaufen wegen der Größe.
+Mein bester Freund trägt immer nur schwarze Kleidung.
+Die Bluse ist zu eng um die Schultern geworden.
+Mein neuer Pullover kratzt richtig am Hals.
+Hast du schon einen neuen Schal gekauft?
+Ich hasse es in engen Schnürsenkeln zu laufen.
+Das Outfit von gestern war eigentlich gar nicht so schlecht.
+Wir müssen dringend mal gemeinsam einkaufen gehen.
+Deine Jeans sieht super eng an der Hüfte aus.
+Kannst du mir kurz den Reißverschluss hochziehen?
+Ich finde diesen Schnitt einfach viel eleganter.
+Die neuen Sneaker sind leider wieder ausverkauft.
+Hör auf an dem Saum zu zupfen, es geht rein.
+Ich trag lieber bequeme Sachen zum Pendeln.
+Wo hast du denn diese coole Mütze her?
+Das Hemd ist nach drei Mal Waschen schon fusselig.
+Glaubst du wirklich, dass dir das Grün steht?
+Ich habe meine Winterjacke endlich aufgeräumt und weggelegt.
+Findest du dieses Muster nicht auch ein bisschen zu laut?
+Mein Koffer ist voll mit ungewaschener Wäsche.
+Lass uns doch einfach mal in diesem Laden vorbeischauen.
+Der Stoff fühlt sich irgendwie billig an, obwohl teuer.
+Ich trage keine Gürtel, weil sie mich immer reiben.
+Hast du noch die Quittung für dieses Shirt dabei?
+Die Schuhe machen meine Füße nach zwei Stunden kaputt.
+Ich muss dringend neue Socken kaufen, echt jetzt.
+Dieser Mantel ist zu kurz für den deutschen Winter.
+Hast du gesehen dass meine neue Jeans schon nach dem ersten Waschen gelblicht?
+Ich trage nur noch Schuhe die mich nicht am Fuß wund reiben.
+Das Outfit von gestern war doch total übertrieben für nen normalen Arbeitstag.
+Wir müssen mal schauen ob der Pullover in deiner Größe noch verfügbar ist.
+Mein Mantel riecht immer komisch wenn er zu lange im Schrank gelegen hat.
+Kannst du mir kurz den Knopf zuknöpfn der sitzt irgendwie total falsch.
+Die neuen Sneaker sind zwar cool aber echt nicht bequem für lange Spaziergänge.
+Das Material fühlt sich billig an obwohl der Preis eigentlich ganz ok war.
+Mein Sohn trägt nur noch Hoodies egal welche Jahreszeit gerade ist.
+Wir gehen heute Nachmittag shopping weil ich unbedingt neues Winterzeug brauche.
+Die Hose schneidet hinten total ein das kann doch nicht richtig passen.
+Ich hab vergessen wo ich meine Socken hingelegt habe such jetzt schon seit zehn Minuten.
+Magst du den neuen Schnitt oder ist der dir zu eng um die Taille?
+Mein Alter hat gesagt ich sollte weniger Mode und mehr Komfort prioritieren setzen.
+Die Strickjacke ist weich aber sie fuselt wahnsinnig stark auf meiner Couch.
+Ich überleg mir ob ich das alte Shirt noch reparieren soll oder entsorgen.
+Am besten kaufe ich solche Sachen wenn sie im Angebot sind sonst ist es mir zu teuer.
+Der Gürtel sitzt nicht richtig ich brauch dringend nen neues Loch gestanzt.
+Das Hemd war schön bis ich realize dass es auf der linken Seite durchgescheuert war.
+Ich mag keine engen Hosen weil sie mich einfach nur einengen und beklemmen.
+Mein Pullover färbt leider ab beim ersten Mal waschen.
+Hast du schon gesehen wie verrückt die Preise steigen?
+Ich liebe es wenn ich genau die richtige Jeans finde.
+Das Kleid ist viel zu eng um den Bund rum.
+Wir sollten heute mal durch die Auslagen gucken.
+Diese Sneaker sind total bequem für lange Spaziergänge.
+Kannst du mir kurz helfen den Reißverschluss wieder zuzumachen?
+Der Stoff fühlt sich irgendwie billig an obwohl er teuer war.
+Ich hab keine Lust mehr auf diese lächerlichen Modetrends.
+Hast du meinen Schweißwaschlappen schon weggeräumt von der Couch?
+Die Mütze sitzt perfekt und wärmt mich richtig gut heute.
+Meine Hose hat direkt nach dem Trocknen wieder Falten bekommen.
+Ich suche dringend einen neuen Mantel gegen die Kälte.
+Das Shirt hat schöne Farben aber der Schnitt ist mies.
+Lass uns doch am Samstag zum Flohmarkt gehen suchen.
+Dein neuer Rock steht dir echt gut ich finde das super.
+Die Waschmaschine hat mein rotes T-Shirt wieder verfälscht glaube ich.
+Ich mag keine Markenlogos die sich überall auf der Kleidung prahlen.
+Hilf mir mal bitte die Ärmel kurz zu rollen hier hinten.
+Diese Socken verlieren immer gleich ihre Form nach dem Waschen.
+Der Laden hatte eine riesige Auswahl an sommerlichen Kleidern heute.
+Ich trage nur noch Bequemes und keine engen Hosen mehr.
+Das Accessoire bringt das ganze Outfit direkt auf ein neues Level.
+Mein alter Blazer ist zwar abgenutzt aber immer noch schick.
+Hast du die neue Kollektion von diesem Brand schon gesehen?
+Mein Lieblingsshirt ist leider aus dem Keller verschwunden.
+Ich habe gestern ein tolles Kleid im Ausverkauf gefunden.
+Die Jeans drückt mir echt an den Oberschenkeln.
+Kannst du mal kurz mein neues Outfit beurteilen?
+Dieser Schal sieht so unangenehm und kratzig aus.
+Mir fehlen noch passende Socken zum neuen Anzug.
+Hast du schon mal bei diesem Onlineshop bestellt?
+Die Kapuze von der Jacke ist super praktisch im Regen.
+Ich mag keine Markenlogos die sofort auffallen sollen.
+Meine Schuhe haben leider schon wieder Löcher bekommen.
+Wir sollten zusammen einkaufen gehen am Wochenende.
+Das Material fühlt sich weich und hochwertig an.
+Ich habe meine alte Weste jetzt endlich verschenkt.
+Die Farben harmonieren gar nicht so gut miteinander.
+Hast du einen Gutschein für uns beiden übrig?
+Mein Mantel ist zu groß nach dem Abnehmen.
+Ich suche dringend eine neue Brieftasche aus Leder.
+Dieser Hut sieht auf dem Bild viel besser aus.
+Die Knöpfe am Hemd halten nicht lange bei mir.
+Mir gefällt der entspannte Streetwear-Stil sehr gut.
+Ich habe meine Sneaker gestern endlich gesäubert bekommen.
+Könntest du mir beim Einpacken der Koffer helfen?
+Diese Schuhe sehen schick aus aber weh tun echt.
+Hast du schon deinen Weihnachtsanzug gekauft oder warten?
+Hast du schon mal diese neuen Sneaker gesehen?
+Meine Jeans sitzt oben einfach immer noch zu weit.
+Ich trage eigentlich nur noch schwarze Klamotten.
+Lass uns morgen mal nach einem Geschenk schauen.
+Der Stoff fühlt sich wirklich teuer und wertig an.
+Das Kleid ist zwar schön, aber viel zu eng.
+Kann ich das Teil nochmal umtauschen?
+Mein Mantel ist mir irgendwie schon etwas zu eng geworden.
+Ich liebe diese vintage Jacke von meiner Oma so sehr.
+Schick mal ein Foto, wie es auf dir aussieht.
+Die Schuhe drücken unglaublich bei jedem Schritt.
+Wir müssen dringend neue Unterwäsche kaufen.
+Das Shirt hat einen schönen Schnitt und Farbe.
+Kommst du mit zur Probe vor dem Spiegel?
+Ich finde diesen Streifenmuster total überflüssig und altmodisch.
+Meine Socken haben alle so kleine Löcher bekommen.
+Soll ich das Jackett doch noch zurückgeben?
+Der Stoff kratzt wirklich sehr im Nacken.
+Ich suche nach einem schlichten Pullover für die Arbeit.
+Diese Farbe bringt meinen Teint einfach nicht zur Geltung.
+Kann man da auch was überlegen beim Preis?
+Mein Koffer ist voll, ich muss aussortieren.
+Die Gürtelschnalle ist leider schon abgefallen.
+Ich mag diese Lockeren Hosen einfach am besten.
+Hast du Lust auf einen spontanen Flohmarktbummel?
+Das Label von der Marke fehlt komplett wieder.
+Habe mir gerade einen Pulli gekauft.
+Der Stoff kratzt irgendwie ziemlich.
+Meine Jeans sind wieder zu eng geworden.
+Fällt dir diese Farbe nicht besser?
+Ich muss unbedingt meine Schuhe wechseln.
+Die Mütze sieht total cool aus.
+Hast du schon was für den Sommer?
+Das Outfit ist mir doch zu bunt.
+Wir sollten zusammen shoppen gehen.
+Der Anzug sitzt leider etwas knapp.
+Mein Lieblingshemd ist gerade ausverkauft.
+Kannst du mal kurz zueinander sehen?
+Die Socken sind nach dem Waschen zerschlissen.
+Ich trage nur noch nachhaltige Marken.
+Diese Schuhe machen meine Füße kaputt.
+Brauche dringend eine neue Winterjacke.
+Der Schal wärmt richtig gut im Wind.
+Ist das Leder echt oder Kunstleder?
+Mein Shirt hat einen kleinen Fettfleck.
+Wir haben zu viel Geld ausgegeben.
+Die Hose braucht nochmal den Schneider.
+Gefällt dir mein neuer Hut denn?
+Das Kleid ist zu lang für mich.
+Ich mag diese Art von Sneakern nicht.
+Hast du meinen Mantel gesehen?
+Ich muss unbedingt mal zur Umtauschstelle gehen.
+Diese Jeans hat einfach die perfekte Passform gefunden.
+Kannst du kurz nachsehen ob die Farbe ausläuft?
+Meine Sneakers sind schon wieder voll von Dreck.
+Ich finds super dass sie endlich wieder lieferbar ist.
+Das Shirt war schön aber leider total zu dünn.
+Hast du mal meinen neuen Schal gesehen gestern?
+Die Größe M war irgendwie viel zu eng an den Schultern.
+Meine Mütze sitzt jetzt deutlich fester als vorher.
+Ich kaufe lieber nur noch Marken wenn sie im Sale sind.
+Das Tuch ist mir beim Waschen leider total zerrissen.
+Findest du auch dass diese Farbe sehr gut zu dir passt?
+Ich brauch dringend neue Socken weil alle Löcher haben.
+Der Mantel sieht toll aus aber der Preis ist wild.
+Hast du noch was Beiges in meiner Größe im Schrank?
+Ich mag es wenn Kleidung nachhaltig und fair produziert wird.
+Die Schuhe scheuern leider immer noch an der Ferse.
+Welches Outfit trägst du denn heute Abend zur Party?
+Mein bester Pullover hat mich schon fünf Jahre begleitet.
+Das war wirklich ein Schnäppchen für nur zehn Euro.
+Ich hab keine Lust mehr auf diese ganzen Trends.
+Die Ärmel sind mir bei dem Blazer viel zu lang.
+Hör auf an meiner Jacke rumzuziehen du reißt sie aus.
+Wir brauchen definitiv noch was Warmes für den Winter.
+Meine Jeans sind total ausgefranst am Saum.
+Hast du schon eine passende Krawatte gefunden?
+Der Stoff fühlt sich irgendwie billig an.
+Ich mag den Look mit dem gestreiften Hemd sehr.
+Kann ich das Jackett nochmal umtauschen?
+Die Sneaker sind nach zwei Wochen kaputt gegangen.
+Findest du die Farbe zu hell für den Sommer?
+Ich such eine schlichte Uhr zum Anziehen.
+Das Outfit sieht im Bild viel besser aus als echt.
+Mein Pullover ist leider nicht maschinenwaschbar.
+Welches Modell von diesen Brillen steht dir denn?
+Die Weste ist zwar teuer aber sehr warm.
+Ich hab heute wieder nix zum Anziehen gefunden.
+Lässt sich der Knopf leicht abknöpfen?
+Der Rock ist mir doch etwas zu kurz geraten.
+Wir sollten mal gemeinsam Kleidung shoppen gehen.
+Diese Jeans haben super elastischen Stoff drin.
+Meine Mütze hat die Form leider verloren.
+Ist das eine aktuelle Marke oder schon alt?
+Die Schuhe reiben unglaublich stark an den Fersen.
+Ich trage lieber dunkle Farben im Büro.
+Das Kleid ist für den Anlass viel zu aufwendig.
+Kann man den Gürtel noch etwas enger machen?
+Mein Mantel ist schlicht zu klein geworden.
+Welche Jacke nimmst du denn zum Wandern?
+Mein neuer Pulli färbt leider direkt beim ersten Waschen ab.
+Hast du schon die neuen Sneaker von Nike gesehen?
+Die Jeans sitzt perfekt am Bund, aber zu lang an den Beinen.
+Ich finde diesen Rock einfach zu kurz für die Arbeit.
+Kannst du mir mal deinen Mantel ausleihen, der sieht super warm aus.
+Das Shirt ist zwar billig, aber nach dreimal Waschen voller Fusseln.
+Wir sollten morgen in das neue Outlet mall gehen.
+Dein Hut passt total gut zu deinem Sommerkleid.
+Ich habe endlich einen Hoodie gefunden, der nicht zu klein ist.
+Die Qualität bei dieser Marke hat sich echt verbessert.
+Soll ich dir diese Bluse kaufen oder ist sie zu auffällig?
+Meine Stiefel sind voll durchgenässt, obwohl es gar nicht geregnet hat.
+Ich hasse es, wenn die Naht sofort nach dem Tragen aufreißt.
+Das Kleid wurde gerade reduziert, das muss ich mir angucken.
+Findest du auch, dass dieser Schnitt eher pudelig wirkt?
+Ich habe gestern drei Pullover bestellt und nichts zurückgeschickt.
+Die Farbe ist online viel knalliger als am echten Produkt.
+Kannst du den Reißverschluss mal zuzippen, ich komme nicht ran.
+Dieser Stoff kratzt doch bestimmt am Hals, oder?
+Ich such eine schwarze Hose für die Beerdigung am Samstag.
+Dein Outfit heute sieht echt schick und durchdachter aus.
+Die Ärmel sind zu lang, muss sie jetzt gleich hochkrempeln.
+Hast du einen Gutscheincode, den ich noch nicht kenne?
+Ich trage im Sommer lieber Baumwolle als diese synthetischen Mischungen.
+Das Label war leider schon beim ersten Tragen komplett abgerissen.
+Ich hasse es immer wieder auf die Suche nach dem perfekten Schwarz zu gehen.
+Meine Jeans ist so eng geworden dass ich kaum noch sitze kann.
+Hast du gesehen wie verrückt der Pullover im Sale reduziert wurde?
+Das Material fühlt sich irgendwie seltsam kratzig an meiner Haut an.
+Wir sollten mal zusammen shoppen gehen um neue Outfits zu finden.
+Diese Sneakers sehen cool aus aber sie sind echt nicht bequem.
+Mein Hemd ist leider wieder zugeknöpft als hätte ich das Gewicht verloren.
+Kannst du mir kurz helfen die Größe zu finden die besser sitzt?
+Ich liebe es einfach alte Second Hand Shops durchwühlen zum Trödeln.
+Die Hose hat schon nach drei Mal waschen an der Naht gerissen.
+Findest du diese Farbe eher zu laut oder gerade passend dazu?
+Ich habe heute einen neuen Mantel gekauft der sieht echt toll aus.
+Meine Socken sind alle so ungematcht dass ich keine Paar mehr finde.
+Der Preis ist zwar hoch aber dafür hält das Material auch was aus.
+Ich trage eigentlich nur noch Bequemlichkeit und beides zusammen idealerweise.
+Hast du meinen blauen Pullover gesehen er liegt irgendwo in der Wohnung.
+Das T-Shirt war super bequem bis es nach dem Waschen komplett zugeknallt ist.
+Ich überlege mir schon ewig ob ich mir die neuen Boots kaufen soll.
+Wir haben den ganzen Nachmittag damit verbracht uns gegenseitig einzuwickeln und zu beraten.
+Diese Jacke ist zwar cool aber der Schnitt passt irgendwie gar nicht zu dir.
+Hast du schon gehört dass die neuen Kollektionen nächste Woche endlich online kommen?
+Mein Ärmel ist wieder mal zugeknöpft das macht echt keine Spaß beim Anziehen.
+Ich mag diese Marke nicht weil sie immer zu teuer und überteuert ist.
+Hab gerade im Sale super Schnäppchen gemacht.
+Die Jeans zieht so unglaublich am Bauch.
+Passt dir die neue Farbe eigentlich besser?
+Mein Pullover ist nach zweimal Waschen fusselig.
+Ich finde das Design einfach total überflüssig.
+Wir müssen dringend neue Schuhe für dich kaufen.
+Das Material fühlt sich irgendwie künstlich an.
+Kannst du kurz mal auf der Waage stehen?
+Hast du schon was Gemütes zum Geburtstag bekommen?
+Der Stoff saugt alles nur in sich auf.
+Ich mag diese Hose einfach nicht so gerne.
+Lass uns morgen mal durch die Stadt bummeln.
+Das Shirt sitzt vorne irgendwie viel zu weit.
+Welches Markenlogo tragt ihr denn am liebsten?
+Meine Socken haben überall wieder kleine Löcher.
+Die Jacke ist zwar teuer, aber top verarbeitet.
+Findest du das Outfit jetzt zu provokant?
+Ich bügle meine Hemden wirklich nur noch selten.
+Das Kleid hebt hinten total unheimlich an.
+Hast du deine Lieblingsfarbe schon gefunden heute?
+Wir sollten die Schränke mal richtig ausmisten.
+Die Sneaker sehen nach drei Tagen schon alt aus.
+Kannst du mir bei der Auswahl helfen bitte?
+Mein Mantel ist viel zu kurz für mich geworden.
+Das war wohl das letzte Mal online bestellt.
+Mein neues Shirt ist schon nach zweimal Waschen zerrissen.
+Kannst du kurz reinschauen, ob mir die Hose zu lang ist?
+Ich habe heute ein tolles Angebot im Outlet gefunden.
+Diese Jeans sind irgendwie immer schwer einzupassen.
+Hast du Lust, morgen mit mir shoppen zu gehen?
+Der Pulli kratzt total an meiner Haut, doof eigentlich.
+Wir sollten mal unsere Garderobe richtig durchputzen.
+Ich liebe dieses Muster, finde aber die Farbe hässlich.
+Dein Outfit sieht heute echt gut auf dir aus.
+Die Schuhe sind bequem, dafür ist das Design langweilig.
+Hilf mir bitte, ein Geschenk für meine Schwester zu finden.
+Diese Marke hat letztes Jahr richtig gute Qualität gehabt.
+Ich traue mich nicht mehr, online Kleider zu bestellen.
+Der Preis war okay, aber die Verarbeitung war schlecht.
+Findest du diese Farbe auch etwas zu hell für Herbst?
+Meine Mütze ist vom Wind immer sofort von den Haaren.
+Hast du noch deine alte Größe S oder jetzt schon M?
+Das Kleid ist zu eng am Bauch, ich brauche was Größeres.
+Ich kaufe lieber wenig aber dafür richtig gute Sachen.
+Die Mode im Fernsehen ist gar nicht für normale Leute.
+Wir müssen dringend neue Winterstiefel kaufen, meine sind kaputt.
+Dieser Mantel hat mir sofort gefallen, als ich ihn gesehen habe.
+Kannst du mal aufknöpfen, der Haken geht nicht mehr.
+Ich überlege mir, ob ich mir eine Lederjacke zulege.
+Deine neue Sonnenbrille passt perfekt zu deiner Frisur.
+Hast du schon eine neue Jacke für den Winter?
+Mein Lieblingsshirt ist nach dem Waschen leider ein bisschen kleiner geworden.
+Die Hose sitzt genau richtig und der Stoff fühlt sich super an.
+Kannst du mal schauen, ob es diese Bluse auch in größer gibt?
+Ich trage gerne Beige im Frühling, das wirkt einfach ganz frisch.
+Der Preis war zwar hoch, aber die Qualität stimmt einfach.
+Hast du schon gesehen, wie die Preise im Sale gerade gesunken sind?
+Meine Jeans ist am Hosenbund total ausgetreten, Zeit für Neues.
+Ich mag es nicht, wenn Kleidung nach dem ersten Waschen ihre Form verliert.
+Passt dir die Kapuze oder soll ich sie nochmal kürzen lassen?
+Die neuen Sneaker sind zwar teuer, aber sie sitzen wie angegossen.
+Ich hab schon ewig keine guten Socken mehr für den Winter.
+Findest du diese Farbe zu hell oder passt es genau zu mir?
+Der Stoff ist ziemlich kratzig, den trage ich eigentlich nicht gerne.
+Wir müssen mal zusammen shoppen gehen, ich brauch neue Kleider.
+Diese Marke hat letztes Jahr echt gute Schnitte und faire Löhne.
+Ich habe versehentlich mein weißes T-Shirt mit bunten Socken gewaschen.
+Könntest du dir die Jacke anprobieren? Die Größe ist unsicher.
+Mein Mantel ist schon ganz abgenutzt, ich brauch bald einen Ersatz.
+Die Schuhe sind super bequem, man könnte den ganzen Tag darin laufen.
+Ich kaufe lieber weniger, aber dafür wirklich hochwertige Kleidung von Marken.
+Das Outfit sieht toll aus, die Farben passen perfekt zueinander zusammen.
+Hast du Lust, heute Abend noch schnell in den Laden zu rennen?
+Mein Lieblingspullover ist leider schon fusslig geworden.
+Kannst du mal kurz drüber schauen ob das sitzt?
+Ich hasse es wenn die Nähte direkt aufreißen.
+Die neuen Sneakers sind super bequem für lange Spaziergänge.
+Hast du eigentlich gesehen wie verrückt die Preise gestiegen sind?
+Meine Jeans hat nach dem Waschen leider Farbe verloren.
+Wir müssen uns ein neues Hemd für die Hochzeit kaufen.
+Der Stoff fühlt sich total billig und rau an.
+Ich überlege mir grad eine neue Handtasche zu gönnen.
+Warum hast du dieses Shirt wieder in der Maschine gewaschen?
+Das Muster ist zwar lustig aber irgendwie auch hässlich.
+Meine Schuhe reiben hinten schon nach einer halben Stunde.
+Wir sollten mal zusammen shoppen gehen ich brauche Hilfe.
+Die Kapuze meines Hoodies ist total in die Jahre gekommen.
+Ich finde diese Brille steht dir einfach nicht so gut.
+Hast du die Größe S noch oder nur M übrig?
+Mein Mantel aus dem letzten Jahr sieht immer noch schick aus.
+Der Preis war eigentlich okay für so eine gute Qualität.
+Ich kann mit engen Röcken gar nichts anfangen echt.
+Wir müssen unbedingt mal zu diesem Outlet Plaza fahren.
+Dein neuer Anzug sieht verdammt elegant und teuer aus.
+Hast du meinen Pulli in der Schublade irgendwo versteckt?
+Die Jacke war mir einfach nur viel zu eng im Arm.
+Ich hab gestern drei Paar Socken gefunden die nicht passen.
+Das Material knittert so schnell das wird mich nerven.
+Mein Pullover färbt bei 30 Grad ab.
+Hast du schon mal diese neuen Sneaker gesehen?
+Ich trage nur noch Jeans aus Biobaumwolle.
+Die Bluse ist mir zu eng im Rücken.
+Wir müssen dringend zum Outlet fahren, oder?
+Mein Mantel stinkt nach feuchter Wolle.
+Dieses Shirt sieht auf dem Foto viel besser aus.
+Hilft es, wenn man Strumpfhosen kauft?
+Ich habe keine Lust mehr auf Hosenknöpfe.
+Dein neuer Hut steht dir gar nicht so gut.
+Kannst du mir deine Größe 38 Leihjacke geben?
+Die Ärmel bei dieser Weste sind viel zu lang.
+Ich hasse es, wenn Labels jucken direkt an der Haut.
+Hast du den Gutscheincode noch parat für mich?
+Meine Socken haben alle ein Loch im Zehe.
+Das Material fühlt sich billig und rau an.
+Ich such nur nach einem schlichten weißen T-Shirt.
+Die Farbe ist anders als auf dem Bild angezeigt.
+Muss ich dieses Kleid wirklich zur chemischen Reinigung geben?
+Mein neuer Anzug muss erst noch eingepasst werden.
+Hast du den Rabatt auch im Kassenbon gesehen?
+Ich finde, Jeans mit High Waist sehen besser aus.
+Deine Mütze ist total in Mode gerade diesen Winter.
+Sollten wir doch lieber online bestellen und sparen?
+Ich suche schon seit Monaten nach einer guten Jeans.
+Das Shirt kratst ganz furchtbar an meinem Hals.
+Mein Mantel ist einfach zu klein geworden.
+Hast du meinen Schwei auf dem Garderobenständer?
+Die Farbe des Pullovers sieht anders aus online.
+Diese Schuhe drücken echt stark an den Zehen.
+Kannst du mal kurz zusehn ob das passt?
+Meine Socken haben immer so hässliche Löcher.
+Der Rock ist mir doch zu lang geschnitten.
+Ich liebe es wenn die Stürme wieder kalt werden.
+Das Jackett sitzt irgendwie komisch über den Schultern.
+Wir sollten bald mal zusammen einkaufen gehen.
+Die Marke war zwar teuer aber die Qualität stimmt.
+Mein Hemd braucht dringend einen neuen Knopf oben.
+Fällt diese Bluse eher groß oder klein aus?
+Ich habe mir gerade neue Sneaker gegönnt weil ich es verdiene.
+Der Stoff fühlt sich total unangenehm auf der Haut an.
+Passiert dir auch das mit den eingelaufenen Socken?
+Mein neuer Gürtel ist schon nach zwei Tagen gerissen.
+Die Hose hat eine schöne Farbe aber sie sitzt nicht.
+Ich kann mir kein neues Outfit mehr leisten.
+Soll ich die Jacke doch wieder zurückgeben ins Geschäft?
+Das Accessoire macht das ganze Ensemble einfach erst richtig komplett.
+Mein Alter T-Shirt ist zwar löchrig aber super gemütlich.
+Mein neuer Pulli kratzt einfach nur höllisch an der Haut.
+Kannst du mal kurz angucken, ob das zu eng ist?
+Ich hasse es, wenn die Ärmel beim Waschen so lange werden.
+Diese Jeans hat wirklich eine tolle Stretch-Qualität für den Preis.
+Ich hab mir gestern ein schickes Kleid gekauft.
+Dein neuer Mantel sieht aber richtig warm und gemütlich aus.
+Soll ich dir das Shirt vor dem Kauf kurz anprobieren lassen?
+Die Schuhe sind zu klein, ich brauch mindestens eine Nummer mehr.
+Warum kaufst du eigentlich nur noch Online-Shopping Artikel?
+Das Muster ist mir irgendwie doch ein bisschen zu laut.
+Hat dir jemand gesagt, dass dir die Farbe super steht?
+Meine Lieblingsjeans hat leider bereits einen loch im Knie.
+Die Qualität bei dieser Marke wird ja immer schlechter.
+Ich finde, du solltest dir mal eine lässige Lederjacke zulegen.
+Kannst du bitte schnell nachschauen, ob wir noch weiße Socken haben?
+Das ist doch nicht mehr tragbar, der Saum ist komplett frisiert.
+Ich überlege schon die ganze Zeit, ob ich die Stiefel kaufen soll.
+Dein Hut passt irgendwie gar nicht zu dem Rest der Outfit.
+Wir sollten mal am Wochenende zusammen shoppen gehen.
+Die Ware ist zwar reduziert, aber dafür auch etwas zerschlissen.
+Mir gefällt diese Hose viel besser als die andere da drüben.
+Ich hasse es, wenn meine Kleidung nach dem Trocknen so knarrrt.
+Hast du eigentlich eine Ahnung, wo ich das gefunden habe?
+Die Jacke ist mir zwar zu teuer, aber sie sieht schick aus.
+Kannst du mal kurz dein Smartphone geben, ich mach ein Foto.
+Ich such eine Jeans, die nicht so eng sitzt.
+Kannst du mal kurz diese Bluse für mich halten?
+Die Farbe ist online anders als am actualen Teil.
+Mein Pullover hat nach dem Waschen leider stark gezwirbelt.
+Hast du noch Geld auf der Karte für den Shop?
+Ich finde, das Kleid steht dir total gut.
+Der Stoff fühlt sich irgendwie billig und kratzig an.
+Wo hast du eigentlich deine neuen Schuhe gekauft?
+Die Jacke ist zwar schön, aber viel zu teuer.
+Ich muss meine alten Klamotten endlich aussortieren.
+Passt die Größe M bei dem Hersteller richtig?
+Mir graut schon davor, in die Umkleidekabine zu gehen.
+Habe heute echt gute Rabatte im Sale gefunden.
+Die Ärmel sind mir wieder zu kurz geworden.
+Lass uns doch mal gemeinsam einkaufen gehen.
+Ich trage nur noch bequeme Sneaker zum Spazieren.
+Das Shirt hat sich leider nach zwei Wäschen gelöst.
+Findest du, ich sollte das Oberteil doch kaufen?
+Mein Schrank ist voll mit Sachen, die ich nie träge.
+Die Hose hat eine schöne Farbe für den Sommer.
+Ich brauche dringend einen neuen Mantel für drinnen.
+Wie soll man bloß dieses Knöpfchen wieder zugehen lassen?
+Der Schnitt dieser Bluse ist wirklich sehr schick.
+Hast du meine Strümpfe im Schrank gesehen, wo sind die?
+Ich kaufe diese Marke nie mehr wegen der Qualität.
+Meine Jeans werden langsam zu klein.
+Kannst du die Hose bitte für mich umtauschen?
+Ich finde den Schnitt an dem Shirt super.
+Lass uns am Samstag mal shoppen gehen.
+Die Schuhe drücken zwar, aber sie sehen gut aus.
+Wo hast du denn deinen Pullover gekauft?
+Das Material fühlt sich richtig angenehm an.
+Ich muss endlich mal aufräumen im Schrank.
+Geht es den Kleidern nach dem Waschen noch gut?
+Der Preis ist mir ehrlich gesagt viel zu hoch.
+Du siehst in dieser Farbe richtig gut aus.
+Hast du schon einen neuen Mantel für den Winter?
+Die Ärmel sind mir wieder ein bisschen zu lang.
+Soll ich dir beim Anprobieren helfen oder nicht?
+Diese Marke hat gerade eine geile Sale-Angebote.
+Meine Socken haben alle schon Löcher drin.
+Passiert es oft, dass die Farbe abfärbt?
+Ich kann mich nie festlegen auf einen Stil.
+Komm schnell rein und sieh dir das an.
+Der Stoff kratzt leider etwas am Hals.
+Wir sollten uns mal neue Sneaker zulegen.
+Die Weste ist perfekt für Übergangsjahre geeignet.
+Hast du keine Ersatzstrümpfe bei dir dabei?
+Das Outfit passt irgendwie nicht zusammen.
+Ich habe online eine geile Jeans gefunden.
+Mein neuer Pullover fängt schon an zu fuseln.
+Kannst du mal kurz die Größe checken?
+Der Schnitt ist einfach nicht so mein Ding.
+Wir sollten am Wochenende mal bummeln gehen.
+Das Hemd sitzt mir irgendwie viel zu eng.
+Ich mag keine Markenlogos auf meinen Sachen.
+Mein Lieblingsschuh hat sich endgültig verabschiedet.
+Hast du schon den Sale im Auge behalten?
+Die Farbe passt gar nicht zu meinem Gesicht.
+Ich wasche meine Jeans nur wirklich selten aus.
+Das Material fühlt sich total billig an.
+Wir müssen mal unsere Garderobe aufräumen.
+Findest du auch, dass ich abnehmen sollte?
+Der Gürtel ist einfach zu alt und rissig.
+Ich trage lieber Schwarz als bunte Farben.
+Die Schuhe drücken schon nach fünf Minuten.
+Kannst du mir beim Anprobieren helfen?
+Mein Mantel ist schon seit drei Jahren dabei.
+Die Kapuze geht leider nur schwer wieder hoch.
+Ich suche dringend einen neuen Wintermantel.
+Das Design kommt mir irgendwie bekannt vor.
+Wir haben den ganzen Tag im Kaufhaus verbracht.
+Deine Brille macht dich richtig schick.
+Ich mag diesen Stil einfach nicht so gerne.
+Ich such schon ewig nach einer passenden Jeans.
+Das Shirt ist mir irgendwie zu eng geworden.
+Meine Schuhe sind total bequem zum Spazierengehen.
+Kannst du mal zusehen, ob die Hose sitzt?
+Die Jacke sieht auf dem Bild besser aus.
+Ich habe gestern drei Pullover reduziert gekauft.
+Dieser Stoff juckt mich immer direkt am Hals.
+Wir sollten morgen mal zusammen einkaufen gehen.
+Mein alter Mantel ist echt noch brauchbar.
+Welche Farbe steht dir denn besser, rot oder blau?
+Die Größe Medium war leider schon ausverkauft.
+Ich wasche meine Wäsche nur bei dreißig Grad.
+Das Kleid hat einen kleinen Knopf locker sitzen.
+Findest du auch, dass der Schnitt gut ist?
+Meine Socken sind alle irgendwo im Schrank verschwunden.
+Der Schnürsenkel war kaputt, also hab ich neue geholt.
+Ich trage kaum noch Schuhe mit hohen Absätzen.
+Die Farbe des Hoodies ist etwas gewechselt beim Waschen.
+Hast du schon was für die Party angezogen?
+Diese Marke macht seit Jahren gute Qualitätswaren.
+Ich überlege mir, ob ich das Hemd überhaupt behalte.
+Der Kragen steht immer so blöd ab und weg.
+Wir brauchen definitiv neue Schuhe für den Regen.
+Die Größe ist zwar okay, aber der Stoff kratzt.
+Ich suche schon ewig nach einer passenden Winterjacke.
+Hast du gesehen wie billig diese Schuhe eigentlich sind?
+Mein Lieblingsshirt hat einen riesigen Fleck bekommen.
+Kannst du mir bei der Auswahl helfen bitte?
+Dieses Kleid ist leider zu eng im Bauchbereich.
+Ich trage nur noch Baumwolle weil sie atmungsaktiv ist.
+Das Outfit für die Party steht schon seit gestern.
+Wir sollten mal gemeinsam einkaufen gehen nächste Woche.
+Die Qualität von diesem Mantel war wirklich schlecht.
+Ich hasse es wenn sich der Saum gleich aufmacht.
+Findest du diese Farbe zu kräftig für den Alltag?
+Mein Bruder hat mir einen coolen Hoodie geschenkt.
+Die Größe S ist leider komplett ausverkauft hier.
+Ich wasche meine Jeans immer nur alle vier Wochen.
+Können wir die Hose mal anprobieren im Umkleidekabine?
+Der Stoff fühlt sich so billig und kratzig an.
+Ich bin heute schon in drei Geschäfte gegangen.
+Passt dir der Rock oder ist er zu kurz?
+Diese Sneaker sind jetzt genau mein Style geworden.
+Hast du meine rote Mütze irgendwo gesehen?
+Ich kaufe lieber nichts mehr über den Automaten.
+Der Gürtel passt nicht mehr mit meinen neuen Hosen.
+Wie oft hast du denn diesen Pullover schon gewaschen?
+Die Preise bei diesem Händler sind doch verrückt hoch.
+Ich mag diese Jacke aber sie hat keine Taschen.
+Ich habe mir gestern neue Jeans gekauft.
+Die Farbe ist doch irgendwie anders als auf dem Bild.
+Hast du schon mal diese Marke ausprobiert?
+Mein Lieblingsschuh macht leider immer Blasen am Fuß.
+Wir sollten unbedingt mal zusammen shoppen gehen.
+Das Material fühlt sich total billig und kratzig an.
+Ich finde, das Outfit passt perfekt zur Jahreszeit.
+Kannst du mir kurz die Größe 42 aufbewahren?
+Die Waschmaschine hat das Shirt leider komplett rosa gefärbt.
+Ich brauche dringend etwas Gemütliches für zu Hause.
+Der Rock ist mir irgendwie doch zu kurz geworden.
+Findest du, ich sollte den Pullover trotzdem mitnehmen?
+Meine Mütze ist schon ein bisschen abgenutzt jetzt.
+Das passt einfach nicht zusammen, finde ich ehrlich gesagt.
+Ich mag es, wenn Klamotten bequem und stylisch sind.
+Hast du einen Gutschein für diesen Laden gefunden?
+Die Ärmel an der Bluse waren viel zu eng geschnitten.
+Wir müssen die Schränke mal komplett aufräumen.
+Ich trage lieber neutrale Farben als grelle Muster.
+Der Stoff scheint wirklich hochwertig und langlebig zu sein.
+Kann ich dir diese Hose kurz zum Ausprobieren leihen?
+Mein alter Mantel ist mir einfach doch zu warm geworden.
+Die Schuhe waren leider nur in einer anderen Größe da.
+Ich suche seit Wochen nach einem guten Wintermantel.
+Das Hemd knittert irgendwie schon beim ersten Anprobieren.
+Hab heute zwei Pullis auf dem Weg nach Hause mitgenommen.
+Mein Lieblingsshirt hat schon wieder Löcher im Ärmel bekommen.
+Findest du diese Jeans auch viel zu eng geschnitten?
+Ich trage fast nur noch bequeme Stoffe am Wochenende.
+Die neuen Sneaker sehen zwar gut aus, tun aber weh.
+Muss mal dringend meine Garderobe für die kalte Jahreszeit aufräumen.
+Kannst du kurz schauen, ob dir dieser Rock gefällt?
+Im Sale war ich ganz zufrieden mit den Rabatten dieses Jahr.
+Meine Mütze ist nach dem Wäschengang irgendwie total verlaufen.
+Ich habe Angst, dass das blaue T-Shirt beim Waschen verfärbt.
+Welche Schuhe passt besser zu diesem langen dunklen Kleid?
+Der Stoff fühlt sich angenehm weich und hochwertig an.
+Ich mag die neuen Modetrends aus Berlin überhaupt nicht besonders.
+Hast du meine gestrige Frage zum Online-Shopping schon gesehen?
+Meine alten Jeans werden langsam Zeit für einen Austausch benötigt.
+Findest du meine neue Brille auch etwas zu groß im Gesicht?
+Ich kann gar nicht genug Schals im Winter kaufen und tragen.
+Das Outfit war perfekt für die Hochzeit gestern Abend da.
+Hast du denn schon gesehen, was in den Fenstern hängt?
+Meine Stiefel sind noch voll funktionsfähig trotz des Alters.
+Ich suche verzweifelt nach einer passenden Weste zu meinem Hemd.
+Die Qualität ist bei dieser Marke einfach immer wieder gut.
+Mir gefällt der Stil von diesem neuen Laden um die Ecke.
+Habe gestern Abend noch schnell ein Geschenk für dich gekauft.
+Mein neuer Pulli kratzt total an meiner Haut.
+Hast du meinen schwarzen Anorak schon gesehen?
+Ich hasse es, wenn die Nähte nach zwei Mal waschen aufreißen.
+Die Schuhe sind zu eng, ich muss eine Nummer größer nehmen.
+Kannst du mir kurz diesen Schal abgeben?
+Meine Jeans haben sich im Knie aufgerissen.
+Das Outfit ist perfekt für das Hochzeit am Sonntag.
+Ich finde deine neue Brille richtig cool und schick.
+Wir sollten zum Flohmarkt gehen, da gibt es Schnäppchen.
+Der Pullover ist zu dick für diesen schwülen Tag.
+Meine Sneakers sind ganz vollgestopft mit Matsch drin.
+Hast du schon gehört von der neuen Kollektion?
+Ich trag heute keine Krawatte, mir wird einfach zu warm.
+Das Kleid ist viel zu kurz für meine Mama geeignet.
+Wo hast du diesen tollen Gürtel eigentlich gekauft?
+Mein Mantel riecht noch nach Zigaretten aus dem Laden.
+Ich hab meine Socken nicht gefunden, doofes Geschäft also.
+Die Jacke sitzt an den Schultern einfach falsch überhaupt.
+Soll ich dir die Größe M oder besser L mitgeben?
+Meine Stiefel tropfen nur so vor Wasser heute morgen.
+Hilf mir mal bitte beim Knöpfen meiner Weste da.
+Ich mag diese neongelbe Farbe einfach gar nicht leiden.
+Die Hose ist nach dem Waschen wieder ein paar Zentimeter kürzer geworden.
+Kann ich deine Sonnenbrille kurz ausleihen für das Foto?
+Meine neuen Klamotten fühlen sich schon viel zu unangenehm an.
+Mein Lieblingspullover ist total fusselig geworden.
+Hast du schon nen neuen Pullover gekauft?
+Die Jeans hängen mir immer an den Hüften.
+Ich mag diese Art von Sneakern gar nicht.
+Der Mantel war zwar teuer, aber es lohnt sich.
+Kannst du mal kurz meine Taille abmessen?
+Das Shirt ist nach dem Waschen viel zu klein.
+Wir müssen doch mal zum Outlet Center fahren.
+Meine Schuhe drücken schon seit zwei Wochen furchtbar.
+Ich finde den Schnitt an dieser Bluse super.
+Welche Farben tragen wir dieses Jahr eigentlich am häufigsten?
+Die Jacke saß einfach nicht, also habe ich sie zurückgegeben.
+Ich hasse es, wenn mir das Hemd zu eng wird.
+Soll ich dir helfen, beim Aussortieren der Klamotten?
+Das Material fühlt sich irgendwie billig und kratzig an.
+Ich suche schon seit Monaten nach passenden Socken.
+Mein Kleid ist leider auf dem Weg zur Arbeit gerissen.
+Der Pullover ist gerade genau das Richtige für dich.
+Die Hose ist viel zu lang, die muss geschnürt werden.
+Ich liebe es, wenn man sich komplett neu anzieht.
+Das Accessoire sieht einfach gar nicht so toll aus.
+Kann ich deine Jeans zum Probieren kurz anprobieren?
+Der Stoff ist super weich und bequem zugleich.
+Ich habe heute wieder nichts zum Anziehen gefunden.
+Diese Jeans sitzt wirklich gut an den Hüften.
+Kannst du mir mal kurz den Zipper zuknöpfen?
+Meine alte Mütze ist leider total ausgedehnt.
+Wir sollten am Wochenende doch zusammen shoppen gehen.
+Das Material fühlt sich irgendwie billig und kratzig an.
+Ich mag diese Farben gar nicht so sehr.
+Hast du die neuen Sneaker schon gesehen, die sind mega cool.
+Der Pullover kratzt mir beim Tragen immer am Hals.
+Ich kaufe meine Socken nur noch in der XXL Packung.
+Die Taille ist viel zu eng für mich geworden.
+Wie wäscht du eigentlich deine Seidenbluse richtig?
+Ich finde, du siehst in Rot total gut aus.
+Mein Hemd hat nach drei Wäschen schon Farbe verloren.
+Wir müssen mal deine Garderobe zusammen decluttern.
+Dieser Stoff ist eigentlich super bequem im Alltag.
+Hast du deinen Gutscheincode für den Online-Shop noch?
+Die Nähte bei dem Shirt sind schon wieder offen.
+Ich trage im Sommer fast nur noch Leinenhosen.
+Welche Schuhe passt denn zu diesem Kleid am besten?
+Der Preis war wirklich ein absolutes Schnäppchen heute.
+Meine Jacke ist mir einfach zu kurz geraten.
+Du solltest dir mal diese neue Marke ansehen.
+Ich hasse es, wenn beim Waschen alles vermischt wird.
+Diese Stiefel sind mein absolutes Lieblingsstück dieses Jahres.
+Mein neuer Pullover kratzt einfach nur.
+Hast du schon mal diesen Shop im Netz gesehen?
+Die Jeans sind mir leider viel zu eng.
+Ich mag diese Farbe eigentlich gar nicht.
+Das Hemd sitzt perfekt, fast wie angefertigt.
+Wir sollten heute zum Flohmarkt gehen, oder?
+Mein Schuh ist an der Seite durchgelaufen.
+Kannst du mal zusehen, ob dir die Brille steht?
+Die Qualität wirkt irgendwie sehr minderwertig hier.
+Ich brauche dringend einen neuen Regenmantel.
+Findest du das Muster auch ein bisschen zu wild?
+Das Kleid ist leider ausverkauft in meiner Größe.
+Meine Mützen sind alle schon total ausgefressen jetzt.
+Hast du Lust, mit mir Shopping zu machen heute?
+Der Stoff fühlt sich echt schön weich an.
+Ich hasse es, wenn die Ärmel zu lang sind.
+Die Schuhe drücken leider schon nach einer Stunde.
+Kann ich kurz in deinen Jacke reinschauen?
+Das ist ja ein absurder Preis für so ein Shirt.
+Mein Gürtel passt nicht mehr um meine Taille.
+Wir haben beide keine passende Krawatte gefunden gestern.
+Hältst du das für eine gute Idee zum Datum?
+Die Farben sind auf dem Foto anders als in echt.
+Hat dir jemand gesagt, dass dir die Hose steht?
+Hast du zufällig eine Nummer größer?
+Mein Lieblingsschal ist leider ausgefressen.
+Ich trage nur noch bequeme Jogginghosen.
+Das Shirt sieht viel besser in Blau aus.
+Wir sollten mal zusammen shoppen gehen.
+Die Schuhe drücken leider an den Zehen.
+Kann ich das T-Shirt auch online bestellen?
+Mein Mantel ist endlich wieder trocken.
+Ich hasse es, wenn Ärmel zu lang sind.
+Dieser Look kommt im Herbst super zur Geltung.
+Hast du schon eine neue Hose gefunden?
+Die Jeans sind nach dem Waschen weicher geworden.
+Ich überlege mir noch einen neuen Rucksack.
+Das Kleid ist viel zu teuer für mich.
+Trägst du das eigentlich auch auf Arbeit?
+Mein Pulli hat einen kleinen Fadenlauf bekommen.
+Wir haben die passende Größe nicht mehr vorrätig.
+Die Farbe passt perfekt zu deinen Augen.
+Ich kaufe lieber etwas Gutes und Langlebiges.
+Dein neuer Stil gefällt mir wirklich sehr gut.
+Kann man das auch in einer anderen Größe bekommen?
+Die Jacke ist leider ausverkauft gewesen.
+Ich muss meine ganzen Kleider nochmal umpacken.
+Das Oberteil sitzt einfach nicht richtig.
+Mein Lieblingspulli ist leider schon ganz zerknittert.
+Hast du schon nen schicken Mantel für den Winter gefunden?
+Die Schuhe drücken echt furchtbar von der ersten Minute an.
+Ich trage nur noch schwarze Jeans, die halten ewig.
+Kannst du mir mal kurz das Bügelbrett holen bitte?
+Das Kleid war viel zu teuer im Schaufenster.
+Meine Socken haben alle schon kleine Löcher bekommen.
+Wir gehen morgen vielleicht mal shoppen in der City.
+Die Größe 42 war wieder komplett ausverkauft gestern.
+Ich mag den Schnitt von Hosen von dieser Marke gar nicht.
+Mein neues Hemd sieht super schick auf dem Foto aus.
+Hast du die Jacke im Schrank oder noch im Regal?
+Die Qualität der Jeans ist wirklich top bei uns hier.
+Ich muss dringend mal meine Kleiderschublade aufräumen heute.
+Der Hut sitzt irgendwie immer ein bisschen komisch auf mir.
+Können wir umtauschen, wenn die Hose zu kurz ist?
+Meine Sneaker sind schon wieder voll mit Dreck drauf.
+Das Shirt war nach drei Wäschen leider ganz verformt.
+Ich finde deine neuen Stiefel absolut mega toll heute.
+Hast du noch ein sauberes T-Shirt für das Fitnessstudio?
+Die Mütze ist im Winter einfach nicht wegzudenken halt.
+Mein Pullover knallt total nervig beim Radio gestern Abend.
+Kannst du mir den Reißverschluss nochmal kurz aufziehen bitte?
+Ich hab gestern online nen coolen Ring gefunden online.
+Die Weste war leider ein bisschen zu eng für mich.
+Mein Lieblingspulli ist leider schon ganz ausgedehnt.
+Hast du gesehen dass die Jeans nur zwanzig Euro kosten?
+Kannst du mir kurz deinen Spiegel zeigen für den Anprobeeffekt?
+Die neuen Sneaker sind zwar cool aber richtig unbequem.
+Ich muss mal wieder meine Schränke ausmisten und aufräumen.
+Der Stoff fühlt sich so schön weich und hochwertig an.
+Wir suchen eigentlich nach einer warmen Jacke für den Schnee.
+Das Muster gefällt mir gut nur die Länge ist zu kurz.
+Meine Mütze hat sich bei der Wäsche total verformt.
+Hör auf mich schon immer mit diesem altmodischen Pullover anzuschauen.
+Die Größe ist grenzwertig ich weiß gar nicht ob sie passt.
+Ich hab heute Mittag drei neue Hosen im Angebot gesichtet.
+Das Material kratst unglaublich viel am Hals und den Ohren.
+Schick mal ein Foto damit ich sehe wie das Kleid steht.
+Meine Strumpfhose geht immer direkt nach dem Anziehen kaputt.
+Ich trage eigentlich nur noch schwarze Sachen wenn es regnet.
+Die Qualität bei diesem günstigen Shirt ist doch echt mies.
+Welche Farbe passt besser zu meinen braunen Stiefeln dort?
+Ich kann den Kragen dieses Hemdes einfach nicht ausstehen.
+Hast du Lust mit mir zum nächsten Flohmarkt am Samstag zu gehen?
+Das Outfit sieht auf dem Bild viel besser aus als in echt.
+Ich vermisste meine alte Ledertasche weil sie so bequem war.
+Der Preis ist okay wenn man bedenkt dass es Markenware ist.
+Ich such ein einfaches weißes T-Shirt zum Unterziehen.
+Die Jeans ist leider zu eng in der Hüfte.
+Kannst du mir das Shirt mal zeigen?
+Ich hab den Pullover im Ausverkauf gesehen.
+Mein Mantel ist nach dem Regen voll schmutzig.
+Welche Farbe gefällt dir besser, Rot oder Blau?
+Die Schuhe drücken total an den Zehen.
+Ich trage keine Marken mehr, finde ich überbewertet.
+Das Kleid hat einen super flatternden Rockteil.
+Soll ich dir die Hose für dich aufheben?
+Mein Lieblingsoutfit ist einfach Hoodie und Jogginghose.
+Der Stoff riecht noch ganz stark nach Chemie.
+Ich hab gestern ein tolles Paar Stiefel gefunden.
+Das Shirt ist etwas zu kurz geschnitten.
+Wir sollten zusammen Einkaufen gehen, wenn Zeit ist.
+Deine neue Brille steht dir wirklich super gut.
+Ich wasche meine Wäsche nur bei 30 Grad.
+Die Weste wärmt im Winter überraschend gut.
+Hast du schon einen passenden Gürtel dabei?
+Das Oberteil ist durchsichtig, brauch noch einen Slip underneath.
+Mein alter Jeansstoff wird mit jeder Wäsche weicher.
+Ich finde den Schnitt dieser Hose einfach nicht schön.
+Kann ich das Teil ausprobiert anprobieren?
+Die Mütze hat bei der Hitze doch nichts gebracht.
+Dein Stil ist wirklich ein einzigartiges Statement geworden.
+Ich hab endlich mein Lieblingsoberteil im Sale gefunden.
+Die Jeans ist mir irgendwie doch zu eng an den Hüften.
+Soll ich das rote Kleid mitnehmen oder lieber warten?
+Meine Sneakers sehen aus wie neu, obwohl ich sie oft trage.
+Hast du schon mal bei diesem Onlineshop bestellt?
+Die Qualität dieser Mütze ist echt beschissen für den Preis.
+Ich muss dringend meine Garderobe für den Sommer aufräumen.
+Passt dir die Farbe besser oder doch eher das andere Modell?
+Mein neuer Mantel hat super viele Taschen, das ist praktisch.
+Diese Hose säubert sich leider nicht richtig von selbst.
+Wir sollten uns mal wieder gegenseitig Style-Tipps geben.
+Der Stoff kratzt total, den trag ich auf gar keinen Fall.
+Ich liebe es, wenn alte Jeanssachen wieder in Mode kommen.
+Kannst du mir kurz helfen, die Knöpfe an der Bluse zu schließen?
+Mein Pullover ist nach dem Waschen leider viel kleiner geworden.
+Ich suche schon lange nach einem schlichten weißen Hemd.
+Diese Schuhe sind zwar teuer, aber dafür halten sie ewig.
+Welche Hose passt besser zu meinem neuen Oberteil?
+Ich habe meine alte Ledertasche gestern endlich wieder ausgepackt.
+Der Schnitt bei diesem Kleid ist einfach genial gelungen.
+Ich trage keine Logos mehr auf meiner Kleidung, finde ich langweilig.
+Meine Socken haben überall Löcher, da muss ich was neues kaufen.
+Die Jacke steht dir richtig gut, sie zeigt deinen Stil.
+Hast du den Code für die Rabattaktion im Newsletter gesehen?
+Mein neuer Pullover juckt wie wahnsinnig.
+Ich hab endlich ein Jeans gefunden die passt.
+Kannst du mir den Preis noch rabatten?
+Diese Farbe steht dir gar nicht so gut.
+Die Schuhe drücken schon nach fünf Minuten.
+Ich mag keine Markenlogos auf meinen Klamotten.
+Hast du das Outfit schon bei uns gesehen?
+Der Mantel ist zu warm für diesen Frühling.
+Mein Stoff ist ausgerechnet an der Naht gerissen.
+Kaufst du die Jacke oder tust sie wieder weg?
+Die Hose ist mir irgendwie immer noch zu lang.
+Ich hasse es wenn alles nur online verfügbar ist.
+Dieser Gürtel passt leider nicht mehr um mich.
+Habe das T-Shirt vorsorglich direkt in der Maschine gewaschen.
+Mir gefällt die Passform an dem Shirt besser.
+Wir müssen bald mal zusammen shoppen gehen.
+Die Socken sind nach dreimal Waschen voll durch.
+Findest du auch, dass der Preis zu hoch ist?
+Meine Sneaker sehen aus wie neu geputzt.
+Ich trage eigentlich nur noch bequeme Sachen zum Arbeiten.
+Der Stoff fühlt sich echt billig an in der Hand.
+Hast du schon deine Winterkleider weggepackt?
+Die Weste ist perfekt für diese kühlen Abende.
+Ich such grad nach einem roten Rock für die Party.
+Kann man das Kleid auch online zurückschicken?
+Mein Hoodie ist wieder mal ausgefranst an der Kapuze.
+Kannst du mir kurz das Hemd aufknöpfen?
+Ich finde diesen Pulli sieht mega bequem aus.
+Das Shirt hat leider nach zweimal Waschen Farbe verloren.
+Wir sollten morgen unbedingt in den Stadtzentrum gehen.
+Meine Jeans sind schon etwas zu eng geworden.
+Hast du Lust, mit mir Klamotten anzuprobieren?
+Die Schuhe tun irgendwie komisch am rechten Fuß.
+Ich traue mich nicht, das teure Outfit anzuziehen.
+Mein Lieblingsshirt ist wieder mal in der Wäsche.
+Das Jackett war viel zu warm für diesen Tag.
+Kannst du mir sagen, ob dieser Rock zu kurz ist?
+Ich habe meine Mütze bei der Arbeit vergessen.
+Die Socken passen immer nur rechts oder links falsch.
+Mir gefällt dein neuer Stil im Winter gar nicht.
+Wir müssen uns dringend neue Schuhe kaufen gehen.
+Das Kleid war viel zu eng in der Taille.
+Ich hasse es, wenn Klamotten am Ende so faltig sind.
+Hast du meine Pullover gesehen? Die liegen nirgendwo.
+Mein Mantel ist endlich wieder trocken und warm.
+Wir brauchen einen Regenschutz für die neuen Sneaker.
+Das Oberteil war einfach viel zu teuer im Laden.
+Kann ich dein Jackett morgen kurz leihweise nehmen?
+Die Hosenbund sitzt mir irgendwie nie richtig gut.
+Ich mag keine Logos auf meinen T-Shirts sehen.
+Mein Lieblingssweater ist leider schon ganz ausgefranst.
+Ich hab heute Nachmittag ein tolles Kleid gefunden.
+Die Jeans sitzt irgendwie nie richtig am ersten Tag.
+Kannst du mir kurz helfen den Reißverschluss zu reparieren?
+Ich trage im Sommer nur noch luftige Baumwolle.
+Das war bestimmt nicht die richtige Waschmaschine für Wolle.
+Hast du schon mal die neuen Kollektionen von H&M gesehen?
+Mein Mantel ist jetzt doppelt so günstig im Sale.
+Ich mag diese engen Schuhe einfach überhaupt nicht leiden.
+Die Stickerei an dem Shirt sieht echt handgemacht aus.
+Wir müssen mal zusammen shoppen gehen, ich brauche Rat.
+Der Stoff fühlt sich irgendwie billig und kratzig an.
+Ich habe gestern drei Pullover im Outlet ergattert.
+Pass auf, dass du die Farben beim Waschen trennst.
+Die neuen Sneaker machen direkt alles im Look besser.
+Ich hab keine Lust mehr auf diese langweiligen Schnitte.
+Das Oberteil ist mir plötzlich viel zu eng geworden.
+Findest du dieses Grau auch zu dunkel für den Frühling?
+Meine Mütze hält den windigen Tagen endlich stand.
+Die Hose hat unten leider schon Löcher bekommen.
+Ich liebe es, wenn Stoffe sich super weich anfühlen.
+Das Shirt ist nach dem Trocknen total verkümmert.
+Wir sollten uns mal gegenseitig Tipps geben beim Styling.
+Die Gürtelschnalle passt irgendwie nicht zur restlichen Klamotte.
+Ich hab Angst, dass die Farben schnell ausbleichen.
+Mein neuer Pullover kratzt total an der Haut.
+Das Kleid hat mich nicht mal zwanzig Euro gekostet.
+Ich finde den Schnitt bei H&M wirklich gut gelungen.
+Kannst du kurz schauen, ob diese Jeans zu mir passt?
+Die Sneaker sind zwar schön, aber leider viel zu eng.
+Hab endlich ein Outfit für die Hochzeit gefunden.
+Meine Lieblingsjease ist am Knie richtig durchgerieben.
+Warum kosten die Shirts von Zara immer so viel Geld?
+Das Hemd sieht nach dem Bügeln wieder toll aus.
+Hast du schon was für die Party anprobiert?
+Die Mütze sitzt perfekt und wärmt auch bei Kälte.
+Ich traue mich nicht, dieses teure Kleid zu kaufen.
+Dein Stil ist mir immer noch ein totaler Gräuel.
+Wir sollten mal zusammen einkaufen gehen, hast Zeit?
+Die Farbe des Rockes entspricht gar nicht dem Bild online.
+Hoffentlich geht das Teil beim Waschen nicht ein.
+Ich hab den Gutschein endlich im Online-Shop eingelöst.
+Diese Hose macht mich viel schlanker als die anderen.
+Kann ich deine Jacke kurz ausleihen für heute Abend?
+Der Stoff fühlt sich irgendwie billig und rau an.
+Ich überlege, ob ich das Shirt doch noch zurückgebe.
+Mein Mantel ist schon wieder fleckig vom Regen.
+Findest du diese Kombination auch zu laut für die Arbeit?
+Die Schuhe haben leider schon nach zwei Malen gepiept.
+Hast du zufällig einen Kugelschreiber dabei um das Etikett abzuschneiden?
+Meine Jeans sind nach dem zweiten Waschen viel bequemer geworden.
+Ich mag diese Farbe gar nicht am Körper tragen.
+Kannst du mal kurz drüber schauen ob der Rock zu lang ist?
+Der Mantel hat richtig saubere Nähte und fühlt sich wertig an.
+Wir haben drei Stunden nach einem passenden Geschenk für sie gesucht.
+Das Outfit ist mir doch irgendwie zu viel für den Alltag.
+Hab gerade mein ganzes Kleidersortiment in Frage gestellt heute morgen.
+Die Schuhe drücken leider schon nach einer halben Stunde laufen.
+Ich liebe es wenn man genau das richtige Stück im Sale findet.
+Mein Pulli fädelt aus egal wie vorsichtig ich ihn wasche.
+Das ist nicht wirklich mein Style aber die Farbe sieht super aus.
+Hast du den Link zu dem Shirt nochmal gefunden?
+Die Qualität von Fast Fashion ist echt miserab geworden.
+Ich brauche dringend neue Socken weil die alle Löcher haben.
+Der Schnitt dieser Hose macht mich irgendwie breiter als ich bin.
+Wir müssen doch gar nicht einkaufen ich habe doch genug Stoff daheim.
+Das Accessoire bringt den ganzen Look erst so richtig zum Leben.
+Kann ich deine Jacke mal kurz ausleihen bis meine eingelaufen ist?
+Die Größe Medium war mir viel zu klein diesmal.
+Ich hasse es wenn sich Knöpfe im falschen Moment öffnen.
+Hast du schon mal bei diesem neuen Online Shop bestellt?
+Der Stoff riecht komisch obwohl er komplett neu verpackt war.
+Mein Schrank ist voll und ich habe trotzdem nichts zum anziehen.
+Das Kleid hat einen richtigen Hänger im Rücken bekommen.
+Hast du zufällig meine blaue Hose gesehen?
+Die Schuhe drücken schon nach fünf Minuten laufen.
+Ich finde den neuen Schnitt bei dir ganz gut.
+Das Shirt sieht aus wie von vor zehn Jahren.
+Kann ich die Jeans kurz anprobieren?
+Meine Jacke ist endlich wieder sauber nach der Wäscherei.
+Wir müssen dringend neue Alltagskleidung kaufen.
+Der Stoff fühlt sich wirklich hochwertig und angenehm an.
+Ich hasse es wenn das Label im Nacken kratzt.
+Hast du ein Geschenkidee für meine Schwester?
+Die Farben auf dem Bild waren total anders als live.
+Ich such eine robuste Weste für die Wanderung.
+Dein Outfit passt perfekt zu dem heutigen Wetter.
+Lass die dunklen Teile besser getrennt waschen.
+Der Rabattcode funktioniert leider überhaupt nicht mehr.
+Ich trage lieber etwas Bequemes statt High Heels.
+Woher hast du diese super coolen Sneaker?
+Die Größentabelle bei dem Shop war komplett falsch.
+Mir ist der Pullover in der Maschine verfilzt.
+Schick mir mal ein Foto von dem Kleid zu.
+Ich spare Geld für eine richtig gute Daunenjacke.
+Das Design ist zeitlos und wird nie outmodisch sein.
+Haben wir noch Zeit zum Stadtbummeln heute Abend?
+Die Knöpfe halten wahrscheinlich nicht die erste Wäsche.
+Mein Pulli hat nach dem Waschen doch wieder an Volumen verloren.
+Kannst du mal gucken ob die Jeans auch in Größe M da ist?
+Ich hab echt keine Lust auf diese ganzen Neukollektionen im Sommer.
+Der Stoff fühlt sich irgendwie komisch an, zu dünn für den Preis.
+Meine Schuhe drücken total am Zehenknochen obwohl sie neu sind.
+Lass uns morgen mal wieder durch die Auslegeböden laufen gehen.
+Diese Hose sitzt vorne irgendwie immer zu weit auf der Hüfte.
+Ich trage eigentlich nur noch Basics in Schwarz und Weiß.
+Das Mäntelchen ist zwar teuer aber hält bestimmt zehn Jahre lang.
+Hast du schon gesehen dass mein Lieblingspullover im Sale ist?
+Der Schnitt an diesem Kleid ist mir einfach zu unmodern geworden.
+Die Farbe wirkt auf dem Foto ganz anders als in echt leider.
+Ich suche nach einem bequemen Hoodie für die Arbeit zu Hause.
+Meine Socken haben alle Löcher im Absatz das muss ich ändern.
+Gefällt dir diese Kombination oder ist der Gürtel doch zu dick?
+Ich kaufe Jeans nur noch bei dieser einen Marke im Internet.
+Die Kapuze am Regenmantel zieht sich immer komisch zusammen beim Tragen.
+Hast du meinen Schal vielleicht versehentlich mit ins Bad gewaschen?
+Diese Stiefel sind super warm aber total schwer für lange Spaziergänge.
+Ich überlege ob ich mir diese vintage Jacke doch antun soll.
+Meine Hemden brauchen nach jedem Waschen unbedingt wieder gebügelt zu werden.
+Der Stoff des neuen Kleides knittert schon beim Einkaufen im Store.
+Kannst du mir helfen einen passenden Schal zu diesem Pullover zu finden?
+Ich habe gestern ein tolles Angebot auf Sportler in der Innenstadt gefunden.
+Meine Lieblingsjeans sitzt einfach perfekt am Körper.
+Kannst du mir mal diese Mütze übergeben?
+Ich finde, der Schnitt ist total modern.
+Das Shirt fühlt sich viel zu kratzig an.
+Wofür gibt es eigentlich immer so viele Sales?
+Hast du noch etwas in Größe 42?
+Die Farbe sieht online ganz anders aus.
+Ich hasse es, wenn die Ärmel zu lang sind.
+Diese Sneaker sind bequem wie keine anderen Schuhe.
+Soll ich die Hose direkt zur Umkleide tragen?
+Der Stoff scheint mir irgendwie nicht sehr robust.
+Ich überlege ernsthaft, mir einen Mantel zuzulegen.
+Dein Outfit sieht heute echt gut aus.
+Warum kosten die Markenklamotten immer so viel Geld?
+Das Hemd hat nach dem Waschen total gechillt.
+Kann ich das Teil mal zur Probe anprobieren?
+Ich brauche dringend neue Socken für den Winter.
+Die Jeans ist mir vorne doch zu eng geworden.
+Findest du auch, dass der Pulli zu dünn ist?
+Ich kaufe meine Hemden nur noch im Angebot.
+Dieser Gürtel passt genau zu meiner Tasche hier.
+Habe ich dir gesagt, dass ich abgenommen habe?
+Die Schweißnähte scheinen bei mir immer zu reiben.
+Welche Farbe gefällt dir denn besser von beiden?
+Ich such etwas Bequemes zum Relaxen am Wochenende.
+Meine neue Jeans kratst an den Knien.
+Hast du schon mal bei dem neuen Laden vorüber geschaut?
+Ich hasse es, wenn die Ärmel zu lang sind.
+Das Outfit ist perfekt für das Party am Samstagabend.
+Kannst du mir helfen, eine passende Farbe zu finden?
+Mein Mantel ist viel zu warm für dieses Wetter hier.
+Die Schuhe drücken schon nach zehn Minuten Laufen extrem.
+Ich würde dir diese Bluse überhaupt nicht ausleihen wollen.
+Hast du meinen Pullover in der Waschmaschine vergessen?
+Der Rock sitzt mir einfach viel besser als die Hose.
+Wir sollten morgen zusammen zum Second Hand Shop gehen.
+Diese Klamotten sehen super billig und absolut nichts wert aus.
+Mein alter Stoff ist nach drei Wäschen schon fusslig.
+Findest du meine neue Frisur auch zu dem Hemd?
+Ich muss dringend einen neuen Anzug für die Hochzeit kaufen.
+Die Passform ist hier leider immer wieder total unterschiedlich.
+Trägst du denn wirklich noch diese alten Turnschuhe von damals?
+Mein Shirt hat jetzt zwei Löcher im Saum bekommen.
+Lass uns doch mal die Garderobe gemeinsam neu aufteilen.
+Deine Tasche passt genau zu deinem neuen Mantel da.
+Hast du schon Ersatz gefunden, weil das kaputtgegangen ist?
+Die Qualität bei dieser Marke hält sich wirklich in Grenzen.
+Ich überlege mir seit Tagen, welches Kleid ich nehme.
+Wir sollten die Jacke eigentlich nochmal zur Reinigung bringen.
+Hast du schon die neuen Kollektionen gesehen?
+Mein Lieblingspulli ist leider komplett ausgefädelt.
+Die Jeans sitzt einfach viel besser als erwartet.
+Ich trage heute nur noch bequeme Sneaker.
+Kannst du mir mal kurz die Schnürsenel binden?
+Das Material fühlt sich auf der Haut ziemlich billig an.
+Wir haben stundenlang nach dem perfekten Geschenk gesucht.
+Du siehst in dieser Farbe wirklich super aus.
+Ich hasse es, wenn meine Socken Löcher bekommen.
+Die Größe fällt bei diesem Markenstück immer klein aus.
+Hast du noch deine alte Schuluniform irgendwo rumliegen?
+Mein Mantel ist nach dem Regen total durchgeweßt.
+Lass uns doch mal zusammen einkaufen gehen am Wochenende.
+Das Kleidchen ist zwar hübsch, aber viel zu teuer.
+Ich hab gestern Abend meine Schals neu zusammengeschnürt.
+Passt der Gürtel denn auch um deinen neuen Rock?
+Diese Jacke sieht nach viel zu viel Wind aus.
+Kann ich mir dein Jackett kurz für den Film ausleihen?
+Die Nähte an meinen Stiefeln sind schon wieder offen.
+Ich finde diese gestreiften Pullover einfach so gemütlich.
+Wo hast du denn die Sandalen eigentlich gekauft?
+Mein T-Shirt war leider eine Nummer zu klein geschnitten.
+Wir brauchen dringend mal neue Wintersachen für die Kinder.
+Das Outfit passt irgendwie nicht wirklich zusammen, findest du nicht auch?
+Ich muss meine Hemden alle wieder neu bügeln heute morgen.
+Bist du dir sicher, dass dir der Anzug nicht zu eng ist?
+Mein Lieblingsshirt hat leider ein Loch im Saum.
+Diese Jeans ist nach drei Wäschen total ausgefärbt.
+Findest du das Muster auf dem Kleid auch zu viel?
+Der Stoff fühlt sich echt angenehm an der Haut an.
+Wir haben die ganze Stadt abgeklappert, nichts Passendes.
+Ich träger lieber bequeme Klamotten als enge Mode.
+Die Schuhe drücken leider schon nach einer Stunde.
+Hast du gesehen, dass sie gerade SALE haben?
+Mein Mantel ist eigentlich schon viel zu dünn.
+Ich liebe es, alte Sachen neu zu kombinieren.
+Die Größe fällt bei dieser Marke etwas klein aus.
+Kannst du mir mal kurz diesen Pullover anprobieren lassen?
+Der Knopf ist abgefallen und ich hab keine Nadel.
+Echt gute Jeans findet man nur im Laden vor Ort.
+Ich habe Angst, dass die Farbe ins Rote läuft.
+Meine Sneaker sind langsam nicht mehr so sauber.
+Das Outfit wirkt heute irgendwie zu untermixt.
+Warte mal, ich hol dir meine Hose zum Vergleich.
+Billige Socken haben meistens nach zwei Wochen Löcher.
+Ich such eine neutrale Tasche für die Arbeit.
+Dein neuer Ring macht das ganzes Bild fertig.
+Können wir bitte erst später shoppen gehen?
+Der Gürtel passt genau ohne den ersten Riemen.
+Ich finde Schwarz einfach am vielseitigsten zu tragen.
+Hast du schon das neue Herbstkollektion gesehen?
+Meine Jeans sind mir seit letzter Woche viel zu eng geworden.
+Ich finde diesen Mantel von Zara gar nicht mal so übel.
+Kannst du kurz nachschauen ob die Hose auch in L da ist?
+Der Stoff fühlt sich wirklich hochwertig an, keine billige Chino.
+Ich traue mich ehrlich gesagt nicht mehr online Schuhe zu kaufen.
+Wirf das Shirt doch einfach raus es sieht echt ausgeleiert aus.
+Welche Farbe steht dir bei dieser Jacke besser grau oder blau?
+Meine Sneaker sehen nach fünfmal Waschen schon wieder neu aus.
+Ich habe gestern einen kompletten Wardrobe-Restyle gewagt und bereue nichts.
+Das Outfit für den Geburtstag muss noch her, ich hab keine Idee.
+Findest du nicht auch dass diese Ärmel viel zu lang sind?
+Ich spare mir das Geld lieber und kaufe weniger aber bessere Teile.
+Der Bund sitzt perfekt ohne dass man einen Gürtel braucht.
+Ich hasse es wenn meine Socken nach dem Trocknen zusammenkleben.
+Glaubst du dieser Pullover wird sich beim Waschen verziehen wie mein letzter?
+Wir sollten am Samstag mal gemeinsam durch die Geschäfte gehen.
+Diese Bluse ist zwar teuer aber dafür hält sie ewig lang.
+Ich weiß einfach nie welche Größe ich online bestellen soll.
+Mein neuer Rock macht leider komische Falten in der Gesäßpartie.
+Hast du noch das Muster vom Stoff für den neuen Kittel?
+Ich trage eigentlich nur noch Bequemlichkeit statt modischen Trends heute.
+Der Preis ist zwar happig aber die Verarbeitung ist top notch.
+Kann ich mal kurz deine Sonnenbrille auszahlen sie sieht cool aus.
+Mein Lieblingsschuh ist leider schon wieder durchgelaufen.
+Hast du das rote Kleid von Zara gesehen?
+Ich hasse es, wenn Pullis nach dem Waschen pelzig werden.
+Die Jeans sitzt perfekt an der Taille, echt toll.
+Kannst du mir kurz meinen Schal auslegen, bitte?
+Wir gehen morgen mal shoppen, ich brauche neue Socken.
+Das Shirt ist zu eng geraten, muss umgetauscht werden.
+Ich trage im Winter eigentlich immer nur schwarze Hosen.
+Die Sneaker sehen super aus, sind aber wahnsinnig teuer.
+Meine Mütze hat schon ganz schön gelitten in der Maschine.
+Hast du Lust, mit mir zur Klamottenbörse zu fahren?
+Der Stoff kratzt an der Haut, das kaufe ich nicht.
+Ich liebe den vintage Look meiner alten Lederjacke.
+Die Hose ist nach zwei Mal Waschen total verblichen.
+Wir sollten uns mal gegenseitig Styling-Tipps geben.
+Findest du, dass die Farbe zu blass für mich ist?
+Mein neues Oberteil war zwar teuer, aber der Schnitt sitzt.
+Ich kann den Knopf unten nicht mehr zugeknöpfen, jaja.
+Diese Strümpfe reißen sich bei jedem Anziehen wieder ein.
+Hast du schon mal bei dieser Online-Seite bestellt?
+Die Jacke ist zu kurz geraten, das sieht blöd aus.
+Ich suche seit Wochen nach einem passenden Gürtel.
+Meine Stöckelschuhe sind total unbequem, aber sie sehen chic aus.
+Kannst du prüfen, ob die Ärmel gleich lang geschnitten sind?
+Das Hemd riecht noch komisch vom Lager, ich wasche es erst.
+Hast du schon mal diese neuen Sneaker gesehen?
+Meine Jeans ist leider zu kurz geworden.
+Ich finde diesen Pulli sieht super aus.
+Kannst du mir mal deine Brille leihen?
+Der Stoff fühlt sich richtig angenehm an.
+Wir haben die ganze Suche vergeblich gemacht.
+Diese Marke macht doch eigentlich gute Sachen.
+Ich trage nur noch Bio-Baumwolle mittlerweile.
+Passt das Shirt vorne auch gut genug?
+Das Kleid ist viel zu teuer für mich.
+Meine Stiefel brauchen dringend eine neue Sohle.
+Hast du den Gutschein schon eingelöst gestern?
+Diese Farben passen gar nicht zusammen irgendwie.
+Ich suche ein schickes Geschenk für meinen Dad.
+Der Haken an der Bluse geht wieder raus.
+Wir sollten uns mal im Outlet treffen.
+Findest du auch, dass das zu eng ist?
+Meine Mütze ist beim Waschen leider verlaufen.
+Ich brauche dringend neue Socken für die Arbeit.
+Das Hemd sieht in dieser Farbe besser aus.
+Hast du Lust auf Shopping gehen heute Abend?
+Die Taille sitzt bei mir irgendwie immer falsch.
+Ich liebe es, wenn alles im Sale ist.
+Dieser Mantel hält echt gut den Wind ab.
+Ich hab heute ein cooles Shirt auf dem Flohmarkt gefunden.
+Meine Jeans ist an den Knien durch, ich muss sie wegwerfen.
+Hast du schon mal dieses neue Label aus Berlin gesehen?
+Das Material fühlt sich irgendwie unangenehm rau an meiner Haut an.
+Ich ziehe meine alten Turnschuhe wieder raus für den Sonntagsspaziergang.
+Die Größe M war leider schon ausverkauft im Laden.
+Mein Mann trägt nur noch T-Shirts und Jogginghosen zu Hause.
+Ich find diesen Hut total hübsch, passt er zu meiner Jacke?
+Der Preis ist okay, aber die Qualität scheint nicht so gut.
+Das Kleid war viel zu kurz für die Hochzeit nächste Woche.
+Wir sollten zusammen einkaufen gehen, mir fehlt einfach die Inspiration.
+Die Nähte sind schon nach zwei Mal waschen aufgesprungen.
+Ich trägere lieber neutrale Farben wie Schwarz, Grau oder Beige.
+Kannst du mal gucken, ob das Shirt zu meiner Hose passt?
+Meine Stöckelschmerzen tun weh, ich steige jetzt auf Sneakers um.
+Das Label war total in Mode letztes Jahr bei allen.
+Ich finde es nervig, wenn die Größenangabe nicht stimmt online.
+Diese Mütze kauft man sich besser im Outlet zum halben Preis.
+Mein Mantel ist noch ganz warm und schneidet gut am Körper.
+Ich habe keine Lust mehr auf diese engen Hosen zu tragen.
+Der Schnitt ist super modern, wirkt auf mir aber etwas altmodisch.
+Ich wasche alles bei 30 Grad, damit es haltbarer bleibt.
+Die Farben sind ein bisschen ausgeblasen nach dem ersten Waschen.
+Hast du einen Tipp für ein guter Laden in der Innenstadt?
+Ich muss dringend mein Winterkleidung sortieren.
+Diese Jeans ist mir total zu eng geworden.
+Wo kaufst du denn eigentlich so günstige Sneaker?
+Das Material fühlt sich leider etwas billig an.
+Mein neuer Pullover kratzt irgendwie sehr stark.
+Kannst du mal kurz über dieses Outfit drübersehen?
+Ich finde die Farben auf der Website täuschen.
+Die Schuhe brauchen noch dringend eine neue Sohle.
+Welches Shirt passt besser zu dieser Hose hier?
+Ich hab endlich meinen verlorenen Schal wieder gefunden.
+Das Kleid ist schön aber viel zu teuer für mich.
+Meine Jacke riecht immer noch nach Zigarettenqualm.
+Wir sollten mal zusammen in den Outlet Store gehen.
+Die Taille bei diesen Hosen sitzt einfach falsch.
+Ich trage im Sommer nur noch leichte Leinenkleider.
+Kommst du mit? Ich muss ein Paar neue Stöcksel suchen.
+Das Etikett juckt mich schon seit dem ersten Anprobieren.
+Ich habe Angst dass das Shirt nach dem Waschen schwindet.
+Dein neuer Mantel sieht total edel und teuer aus.
+Ich kaufe meine Socken immer im großen Packungspack.
+Die Nähte bei dieser Hose sind schon wieder aufgerissen.
+Findest du nicht auch dass diese Farbe super ist?
+Ich hab leider keine Zeit für Shopping heute Nachmittag.
+Meine alten Stiefel werden es dieses Jahr sicher nicht mehr schaffen.
+Habe gerade ein richtig cooles Shirt im Angebot gefunden.
+Findest du das auch etwas zu bunt für die Arbeit?
+Meine Jeans sind mir schon wieder zu eng geworden.
+Ich habe keine Lust mehr, jeden Montag neue Outfits zusammenzustellen.
+Kannst du mal kurz drüber schauen, ob mir die Farbe steht?
+Die Qualität bei H&M wird leider immer schlechter.
+Hast du eigentlich schon dein Weihnachtsgeschenk für mich?
+Der Preis ist okay, aber der Stoff fühlt sich total billig an.
+Trägst du das auch zum Sport oder nur zur Freizeit?
+Mein Mantel ist leider wieder mal schmutzig geworden.
+Ich hasse es, in großen Mengen einkaufen zu müssen.
+Diese Schuhe tun nach zwei Stunden schon am Fuß weh.
+Lass uns morgen Vormittag gerne mal shoppen gehen.
+Du siehst in dem Dress aber wirklich fantastisch aus.
+Ich habe vergessen, meine Unterwäsche in die Maschine zu werfen.
+Welchen Pullover soll ich besser mitnehmen für den Urlaub?
+Die Marke ist zwar teuer, hält dafür aber ewig lang.
+Mir fehlt einfach eine gute Jacke gegen den Wind.
+Soll ich die Hose kurz oder besser noch lassen?
+Deine Krawatte passt irgendwie gar nicht zum Rest.
+Ich muss unbedingt neue Socken kaufen, die alten sind durch.
+Hast du einen Gutscheincode für Onlineshopping parat?
+Der Schnitt ist einfach zu breit für meine Figur.
+Ich finde diese neuen Sneaker total in Ordnung.
+Ich such schon ewig nach einer passenden Jeans.
+Diese Pullis von Primark halten überhaupt nicht was sie versprechen.
+Hast du schon mal diese neue Kollektion gesehen?
+Mein Mantel ist mir einfach zu warm für diesen Herbst.
+Wir sollten zusammen shoppen gehen, ich brauche Tipps.
+Das Oberteil kratst so sehr an der Haut echt nervig.
+Kannst du kurz ausprobieren ob die Hose in der Taille sitzt?
+Ich kaufe nur noch Secondhand weil es besser für die Umwelt ist.
+Dein neuer Sneaker sieht eigentlich gar nicht schlecht aus.
+Der Preis war okay aber die Qualität ist echt mies.
+Ich hasse es wenn Ärmel nach zweimal Waschen sich verziehen.
+Welche Farbe steht dir von den beiden Shirts besser?
+Wir müssen mal unsere Garderobe komplett neu organisieren.
+Diese Jacke ist zwar teuer doch sie sitzt einfach perfekt.
+Ich finde rote Lippenstift passt gar nicht zu meinem Look.
+Hör auf mich nach einer passenden Weste fragen zu lassen.
+Meine Socken haben schon alle Löcher echt zum Mäusemelken.
+Der Schnitt dieser Jeans macht mein Hinterteil viel größer.
+Ich überlege mir ob ich den Anzug auswaschen oder reinigen lasse.
+Diese Stile fallen immer wieder raus und kommen dann zurück.
+Kannst du mir den Knopf flicken er ist wieder abgegangen?
+Mir ist in diesem Kleid einfach zu warm im Büro.
+Das Leder an der Handtasche fängt schon an zu blättern.
+Ich mag diese gemusterte Bluse überhaupt nicht mehr tragen.
+Hast du mal einen Pullover, den ich ausleihen darf?
+Diese Jeans ist mir einfach viel zu eng am Bauch.
+Ich hasse es, wenn Ärmel nach dem Waschen so kurz werden.
+Mein neuer Mantel ist leider schon nach zwei Malen flauschig.
+Kannst du kurz nachsehen, ob ich ein Fleck auf der Hose habe?
+Die Schuhe sind bequem, aber das Design finde ich total langweilig.
+Ich hab heute drei Anproben im Laden gemacht und nichts gefunden.
+Warum kosten die Jeans von dieser Marke so viel Geld eigentlich?
+Mein Hemd riecht immer noch nach dem Waschmittel vom letzten Mal.
+Ich trage diese Sneaker jetzt schon seit zwei Jahren ohne Probleme.
+Die Farbe des Kleides sieht auf dem Foto anders aus als in echt.
+Kannst du mir helfen, diesen Knoten am Band zu lösen?
+Mein Lieblingsshirt hat ein Loch im Ärmel bekommen und ist adé.
+Ich habe Angst, dass der Stoff bei 60 Grad komplett verformt wird.
+Diese Jacke sieht super aus, aber sie kratzt wahnsinnig am Hals.
+Hast du meine Mütze gesehen, ich finde sie auf einmal nicht mehr.
+Die Passform ist okay, aber die Nähte sehen schon etwas billig aus.
+Ich muss dringend neue Socken kaufen, denn alle haben Löcher.
+Der Stoff fühlt sich richtig gut an, fast wie Seide fast.
+Hast du Erfahrung mit dieser Marke, ob die Größen auch passen?
+Mein Mantel ist zu groß, aber ich mag den Schnitt einfach so.
+Kannst du mal kurz das Label anschauen, was da für eine Größe steht?
+Mein Lieblingspullover hat leider einen Runner.
+Hast du schon mal diese neue Marke probiert?
+Ich ziehe im Winter immer dicke Socken an.
+Die Jeans sitzt hinten einfach nicht richtig.
+Wir sollten mal zum Outlet Center fahren.
+Dieser Rock ist mir irgendwie zu eng.
+Kannst du kurz meine Schuhe für mich halten?
+Ich habe gestern einen tollen Mantel gefunden.
+Meine Sneaker sind wirklich super bequem im Alltag.
+Das Shirt muss ich dringend ins Waschmittel geben.
+Finden die neuen Kollektionen auch so gut wie sonst?
+Ich traue mich kaum, das Hemd zu bügeln.
+Der Stoff fühlt sich irgendwie künstlich an.
+Wir müssen uns für die Hochzeit noch was kaufen.
+Meine Strümpfe gehen immer wieder so schnell kaputt.
+Ich mag diese Farbe gar nicht auf dir.
+Die Schuhe drücken heute schon von Anfang an.
+Kann ich mir das Kleid mal kurz anprobieren?
+Das ist ja echt ein Schnäppchen geworden.
+Ich habe keine Lust mehr auf langweilige Basics.
+Dein neuer Hut sitzt wirklich gut auf dem Kopf.
+Die Ärmel sind mir da leider etwas zu weit.
+Sollten wir den Koffer noch einmal ausmessen?
+Meine alte Lederjacke hält schon ewig lange.
+Findest du, dass mir das Kleid eher steht?
+Mein Lieblingspulli ist leider schon ganz ausgetreten.
+Soll ich dir mal den Link zur Jeans schicken?
+Diese Schuhe drücken wirklich nur am Anfang ganz arg.
+Kannst du mir bitte kurz die Knöpfe zugehen lassen?
+Ich trage eigentlich nur noch schwarze Hosen im Büro.
+Das Shirt war zwar teuer aber es sitzt einfach super.
+Hast du schon gesehen wie verrückt sie den Mantel reduziert haben?
+Meine Socken sind nach der Wäsche alle verschwunden.
+Die neuen Sneakers sind zwar schwer aber bequem genug.
+Ich mag deine Mütze echt, wo hast du die gekauft?
+Schon wieder ein Knopf abgegangen bei diesem billigen Anzug.
+Wir sollten morgen vormittag ins Shopping Center gehen.
+Der Rock ist mir irgendwie doch zu kurz geworden.
+Findest du das Design von der neuen Kollektion auch hässlich?
+Ich bügeln meine Hemden lieber selbst statt sie auszugeben.
+Die Jacke ist zwar warm aber sieht ziemlich klobig aus.
+Hast du noch ein sauberes T-Shirt für heute Abend frei?
+Diese Hose muss ich unbedingt in der Länge anpassen lassen.
+Der Stoff fühlt sich auf der Haut irgendwie unangenehm an.
+Ich kaufe meine Unterwäsche nur noch im Zweierpack ein.
+Dein neuer Schal passt total gut zu deinem Mantel.
+Wir müssen uns dringend neue Schuhe für den Winter kaufen.
+Das Kleid hat leider nach zwei Tagen schon Löcher bekommen.
+Welche Farbe davon findest du schöner, das Blau oder Rot?
+Hast du meinen Pullover gesehen, den hatte ich doch hier liegen.
+Die neuen Schuhe drücken irgendwie schon nach fünf Minuten laufen.
+Meine Jeans sind leider in der Maschine zu hell geworden.
+Sollten wir wirklich jetzt noch einen Mantel für dreißig Euro kaufen?
+Das Shirt sitzt super gut, es ist nicht zu eng an den Achseln.
+Ich habe endlich eine passende Größe im Online-Shop gefunden.
+Dieser Stoff kratzt total, das trage ich auf gar keinen Fall.
+Kannst du mal kurz reinschauen, ob mir der Saum zu lang ist?
+Ich hasse es, wenn sich bei neuen Kleidern die Nähte öffnen.
+Mein Lieblingspullover hat leider ein Loch nach dem dritten Waschen bekommen.
+Wirst du das Kleid wirklich tragen oder lässt du es nochmal ändern?
+Die Sneaker sind zwar teuer, aber dafür halten sie auch Jahre.
+Ich traue mich nicht, dieses rote Oberteil vor der Arbeit zu tragen.
+Hat jemand Lust, morgen mit mir shoppen zu gehen?
+Der Gürtel passt irgendwie nie richtig zwischen die Löcher.
+Ich habe meine Sommerkleider endlich wieder rausgekramt, es wird ja warm.
+Das war wohl nichts, der Stoff fühlt sich billig an.
+Du siehst in dieser Farbe total frisch aus, mach das öfter.
+Meine Jacke ist schon nach zwei Monaten am Reißverschluss defekt gewesen.
+Ich suche dringend eine bequeme Hose für die lange Bahnfahrt.
+Warum kosten die Shirts bei diesem Laden immer das Doppelte?
+Ich muss dringend zum Schneider, der Rock wird mir zu kurz.
+Fandest du den Look von dem Modell auf der Laufsteg-Show auch seltsam?
+Mein neuer Regenmantel ist schon wieder schmutzig nach einer Woche tragen.
+Ich hasse es wenn die Jeans nach dem Waschen einlaufen.
+Hast du schonmal diese neue Marke aus Berlin gesehen?
+Mein Pullover ist total fluffig geworden, muss weg.
+Die Jacke sieht gut aus aber der Stoff kratzt furchtbar.
+Wir sollten mal zusammen shoppen gehen, ich brauche Tipps.
+Dieser Mantel ist zwar teuer, aber er hält ewig.
+Ich trage nur noch Bequemlichkeiten wie Leggings und Hoodies.
+Kannst du mir kurz deine Hose leiheln für die Party?
+Die Farbe ist online ganz anders als im Laden.
+Mein bester Freund kann überhaupt keine Krawatten binden.
+Ich muss dringend neue Schuhe kaufen, die Sohle löst sich.
+Das Kleid ist zu eng am Bund, leider gar nicht tragbar.
+Lass uns zum Flohmarkt gehen, da gibt es immer Schnäppchen.
+Meine Mütze ist total aus der Form geraten in der Tasche.
+Ich finde diese kurzen Hosen gar nicht mehr modern.
+Der Stoff wirkt sehr billig, ich kaufe das bestimmt nicht.
+Hast du den Gutscheincode für die Rabattaktion gefunden?
+Mein neuer Pullover hat bereits schon nach zwei Wochen Löcher.
+Ich stehe total auf diesen Vintage-Look mit alten Denims.
+Die Schuhe scheuern hinten, obwohl sie eigentlich passen sollten.
+Kann ich mir das Outfit noch einmal überlegen bis morgen?
+Meine Jacke ist zu kurz geworden nach dreimal Waschen.
+Dieser Rock sitzt perfekt an der Taille, absolute Liebe.
+Ich kaufe lieber nichts als billigen Müll für einen Tag.
+Findest du diese Strickjacke auch etwas zu dick für April?
+Ich hab endlich mein neues Lieblingsoberteil gefunden.
+Diese Jeans zieht sich wirklich nach jedem Waschen ein.
+Kannst du mir bitte helfen, den Knopf zuzukrümmen?
+Mein Pullover fängt schon wieder an zu fusseln.
+Das ist viel zu teuer für so eine billige Qualität.
+Ich such einen schwarzen Mantel, der nicht zu eng sitzt.
+Wir gehen heute Nachmittag mal Bummeln durch die Stadt.
+Die Schuhe drücken leider schon nach einer halben Stunde.
+Hast du noch das rote Kleid von letztem Jahr?
+Ich finde deinen neuen Look super elegant und frisch.
+Meine Sneaker sind voll zerfurcht, ich brauche neue.
+Dieser Stoff kratst unglaublich, da muss etwas kaputt sein.
+Ich trag lieber bequeme Klamotten als modische Trends.
+Wo hast du dir diese coole Tasche gekauft?
+Die Farben vom T-Shirt sind nach dem Waschen verlaufen.
+Ich überleg, ob ich mir endlich einen Anzug kaufe.
+Meine Mütze ist verloren gegangen bei diesem Wind.
+Kann man das Hemd im Trockner waschen oder besser hängen?
+Diese Markenklamotten halt einfach länger als No-Name Ware.
+Ich habe meine alten Jeans endlich aussortiert.
+Der Gürtel passt nicht mehr durch die oberste Öse.
+Wir müssen deine Jacke dringend zur Reinigung bringen.
+Ich seh in dir gut aus mit diesem Blau.
+Habe grade das perfekte Shirt online gefunden.
+Kannst du mal probieren ob dir der Pulli steht?
+Meine Jeans sind nach drei Wäschen schon ausgefressen.
+Ich mag diese neue Kollektion gar nicht wirklich.
+Brauche dringend Schuhe die im Regen nicht durchweichen.
+Der Blazer sitzt vorne irgendwie viel zu breit.
+Fällt deine Marke groß oder klein aus?
+Hab mir zum Geburtstag selbst eine Lederjacke gekauft.
+Das Material fühlt sich irgendwie billig und kratzig an.
+Ich traue mich nicht das rote Kleid anzuziehen.
+Mein Mantel ist leider im Waschgang etwas geschrumpft.
+Suche nach einer schlichten Uhr für jeden Tag.
+Die Hose hat vorne wirklich viel zu lange Knöpfe.
+Kannst du mir beim Anprobieren mal die Jacke zugehen?
+Ich kaufe meine Sneakers nur noch bei diesem Laden.
+Der Schal passt super dazu und wärmt auch gut.
+Hast du gesehen wie verrückt der Preis ist da?
+Meine Socken werden immer schnell unangenehm nach dem Laufen.
+Dieses Muster trage ich ehrlich gesagt überhaupt nicht gern.
+Ich muss meine Kleider alle wieder für den Sommer anpassen.
+Warum sind die Größentabellen bei jedem Shop anders?
+Die Qualität bei Billigkleidung ist einfach zum Weinen.
+Ich liebe es wenn alte Jeans neue Farben bekommen.
+Hast du schon die neuen Sneaker gesehen?
+Mein Pulli ist im Keller gelandet.
+Die Jeans sitzt irgendwie immer noch zu breit.
+Kannst du mir kurz diese Bluse anprobieren?
+Ich hab gestern einen ganzen Schrank ausgezogen.
+Dieser Schal kratzt wirklich ganz furchtbar am Hals.
+Wir sollten mal zusammen einkaufen gehen.
+Dein Mantel steht dir verdammt gut.
+Hast du meine grauen Socken weggeräumt?
+Die Größe ist leider ausverkauft online.
+Ich mag keine Logos auf meinen T-Shirts.
+Kann man das eigentlich im Hauswäscheschrank wickeln?
+Meine Schuhe sind total durchgelaufen beim Regen.
+Lass uns zum Flohmarkt fahren, okay?
+Dieser Rock ist einfach zu kurz für mich.
+Ich habe das ganze Wochenende mit Nähen verbracht.
+Trägt man Jeans wirklich noch zur Arbeit?
+Die Farbe sieht auf dem Foto ganz anders aus.
+Hilf mir bitte einen Anzug zusammenzustellen.
+Mein Pullover hat schon wieder ein Loch.
+Sollen wir den Rabattcode jetzt eingeben?
+Diese Hose hat wirklich einen tollen Schnitt.
+Ich muss dringend meine Schuhschachtel entrümpeln.
+Der Stoff fühlt sich ganz edel an.
+Kommst du mit ins Einkaufszentrum am Samstag?
+Meine Jeans sind schon total ausgeleiert am Bund.
+Hast du schon mal diese neue Kollektion gesehen?
+Das Kleid ist mir einfach viel zu eng am Busen.
+Ich hasse es so, wenn ich nach dem Waschen bügeln muss.
+Diese Schuhe sehen cool aus, tun aber auf der Sohle weh.
+Wir gehen morgen ins Outlet, da ist alles reduziert.
+Dein Mantel wirkt mit diesem Schal echt edel.
+Der Stoff kratzt direkt auf der Haut, echt nervig.
+Ich suche schon ewig nach passenden Socken dazu.
+Das Shirt hat super sitzen, aber der Saum ist zu lang.
+Ich trage nur noch Baumwolle, synthetische Fasern machen mich schwitzig.
+Hast du den Kupon für zwanzig Prozent Rabatt noch?
+Die Kapuze meiner Hoodie ist total ausgeformt geworden.
+Mir gefällt dieser Vintage-Look an deinem Jackett sehr gut.
+Wir müssen unsere Kleiderschränke aufräumen, da fehlt Platz.
+Das Paar Stiefeletten steht dir richtig gut im Profil.
+Ich kaufe keine Marken mehr, die Qualität stimmt eh nicht.
+Kann ich mal deine Hose zum Vergleich anziehen?
+Die Farben sind im Sommer immer so knallig und fröhlich.
+Mein Pullover hat ein Loch, nach dem zweiten Waschen.
+Suchst du was für eine Hochzeit oder eher Partylook?
+Der Gürtel passt nicht mehr, seitdem ich abgenommen habe.
+Ich finde Schwarz ist immer die sichere Wahl bei Anzügen.
+Dieser Hut ist zwar trendig, aber irgendwie zu groß für mich.
+Ich liebe dieses Shirt einfach total.
+Wo hast du diese Jeans gekauft?
+Das Material fühlt sich irgendwie billig an.
+Meine Lieblingsfarbe ist jetzt definitiv beige.
+Hast du schon mal von dieser Marke gehört?
+Der Preis ist eigentlich gar nicht so wild.
+Ich such immer noch nach dem perfekten Mantel.
+Diese Schuhe drücken leider ganz schön am Fuß.
+Kannst du mir diesen Pullover kurz anprobieren lassen?
+Am Ende habe ich doch alles zurückgebracht.
+Der Schnitt an der Hose ist wirklich super.
+Ich kaufe meine Basics nur noch bei H&M.
+Hast du keine anderen Farben mehr auf Lager?
+Mein Bruder schenkt mir oft lustige Socken.
+Ich hasse es, wenn Knöpfe beim Waschen abfallen.
+Die Passform ist bei Online-Shops wirklich tricky.
+Wir müssen dringend neue Unterwäsche kaufen.
+Dieser Rock macht mich irgendwie zu dick.
+Hast du schon die neuen Sneaker gesehen?
+Ich trag gerne Oversized-Mützen im Winter.
+Der Stoff scheint sehr strapazierfähig zu sein.
+Kann ich das Hemd vielleicht kurz umtauschen?
+Mir gefällt der Trend mit den breiten Hosen.
+Das Label hat mich gleich sofort angesprochen.
+Hast du schon die neuen Kollektionen gesehen?
+Meine Jeans hat wirklich super Farbe nach dem Waschen.
+Ich finde den Schnitt von dieser Marke viel besser.
+Das Shirt ist leider zu eng in der Brust.
+Wir gehen heute nur schauen, wir kaufen nichts.
+Kannst du kurz prüfen, ob die Größe noch da ist?
+Die Qualität davon ist für den Preis echt okay.
+Ich mag diese bunten Farben einfach nicht tragen.
+Meine Lieblingsjacke ist endlich wieder im Angebot.
+Hilf mir bitte beim Knoten von diesen Schnürsenkeln.
+Das Material fühlt sich auf der Haut wirklich gut an.
+Ich trage eigentlich immer nur bequeme Sneaker dazu.
+Die Hose war zwar teuer, aber sie sitzt perfekt.
+Musst du das gleich nochmal umtauschen gehen?
+Mein Bruder liebt es, Vintage-Kleidung zu schnüren.
+Diese Mütze zieht sich beim Waschen leider zusammen.
+Ich such einen Mantel, der nicht zu warm ist.
+Glaubst du, dieser Rock kommt mir zu lang vor?
+Die Labels stören mich oft an neuer Kleidung.
+Ich kaufe lieber online, weil es schneller geht.
+Dein Stil passt irgendwie immer perfekt zum Wetter.
+Warum haben alle großen Geschäfte heute schon geschlossen?
+Dieses Hemd braucht definitiv einen anderen Knopf jetzt.
+Ich habe meine alten Stiefel nochmal neu geölt.
+Kann ich mir die Bluse kurz im Spiegel angucken?
+Mein neuer Pullover kratzt einfach nur unglaublich stark.
+Hast du schon mal bei dem Online-Shop bestellt?
+Die Jeans sitzt irgendwie komisch im Hüftbereich.
+Ich hasse es, wenn Ärmel nach zweimal Waschen einlaufen.
+Kannst du mir deine Meinung zu diesen Sneakers geben?
+Das Hemd ist viel zu teuer für die Materialqualität.
+Wir brauchen dringend neue Schuhe, meine gehen kaputt.
+Mir gefällt der Schnitt an diesem Kleid super gut.
+Wo findest du eigentlich immer solche coolen Mützen?
+Ich traue mich nicht, das Teil ohne Beispiel anzuprobieren.
+Dein neuer Mantel sieht im Regen leider ganz flach aus.
+Hast du meinen alten Stoffbeutel irgendwo verstaut?
+Die Größe fällt bei dieser Marke wirklich sehr groß aus.
+Ich möchte nichts mehr kaufen, bis die Saison zu Ende ist.
+Passt dir die Länge oder soll ich sie kürzen lassen?
+Das Design ist nett, aber der Preis ist einfach absurd hoch.
+Meine Socken haben alle Löcher, da muss ich was neu kaufen.
+Findest du diesen Blazer zu formell für unseren Ausflug?
+Ich warte auf meine Bestellung, die Lieferfrist ist abgelaufen.
+Die Farbe sieht am Monitor anders aus als in Wirklichkeit.
+Könntest du mal kurz meinen Kragen richten, er steht schief.
+Dieser Stoff atmet nicht, ich schwitze sofort überall drin.
+Welche Schuhe würden zu dieser Hose besser passen?
+Ich habe noch einen Gutschein für den nächsten Monat übrig.
+Der Gürtel ist abgenutzt, man sieht die Risse klar.
+Lass uns doch gemeinsam in das neue Boutique rein schauen.
+Hast du schon die neuen Schnäppchen im Shop gesehen?
+Mein Lieblingsshirt ist leider ausgefressen am Kragen.
+Die Jeans sind super bequem, fast wie Schlafanzughose.
+Ich mag diesen Stil nicht, zu auffällig für mich.
+Kannst du mir kurz mal anziehen, ob es passt?
+Der Mantel wirkt auf dem Bild viel edler als in echt.
+Was für Schuhe trägst du eigentlich am liebsten?
+Ich hab die ganze Zeit nach einer guten Wollmütze gesucht.
+Das Material fühlt sich irgendwie künstlich an.
+Meine neuen Sneaker sind schon wieder schmutzig drinnen.
+Wir gehen heute Nachmittag vielleicht nochmal bummeln.
+Die Jacke ist mir zu kurz im Rückenbereich.
+Ich kaufe die Marke nur noch bei Ausver Kauf.
+Passt dir das rot dazu oder eher das blau?
+Der Bund sitzt einfach nicht, immer verrutscht er.
+Hast du zufällig eine Nadel bei dir für den Knopf?
+Die Schals sind dieses Jahr irgendwie alle zu dünn.
+Ich muss dringend mal meine Garderobe durchputzen.
+Finden die Hosen an dir nicht super gut aus?
+Der Preis ist doch wirklich viel Geld dafür.
+Mein Pullover färbt beim Waschen ganz gewaltig ab.
+Mein alter Jeansrock sitzt immer noch perfekt.
+Hast du schon mal die neue Kollektion gesehen?
+Das Material fühlt sich echt angenehm auf der Haut an.
+Wir müssen gleich in den Umkleidekabine rein schauen.
+Deine neuen Schuhe sehen richtig cool aus, wow.
+Ich hab wieder zu viel Geld für Klamotten ausgegeben.
+Pass auf, dass du nicht zu eng waschste.
+Die Marke ist teuer, aber dafür hält es ewig.
+Kannst du mir mal die andere Größe holen?
+Mein Mantel ist nach zwei Jahren schon fleckig.
+Ich liebe es, wenn man Schnäppchen findet online.
+Diese Bluse zieht sich total komisch an meiner Haut.
+Hast du Lust, am Wochenende zusammen einkaufen zu gehen?
+Der Pullover schwillt leider immer im Trockner an.
+Ich probiere gerade neue Streetwear Styles aus für dich.
+Meine Schuhe knien mich seit heute Morgen ins Bein.
+Die Jacke war genau das, wonach ich gesucht habe.
+Findest du auch, dass dieser Schnitt gut steht?
+Ich muss endlich mal meine Garderobe aufräumen und sortieren.
+Diese Hose hat einen richtig coolen Wascheffekt drauf.
+Komm mit, ich zeig dir mein neues Outfit hier.
+Der Preis ist zwar hoch, aber die Verarbeitung stimmt.
+Ich hab Angst, dass das Shirt im Wasser ausläuft.
+Dein Stil ist mir immer ein bisschen zu schlicht.
+Mein neuer Pullover kratzt wirklich schrecklich an der Haut.
+Hast du gesehen wie teuer Jeans heutzutage werden?
+Ich traue mich einfach nicht mehr online Schuhe zu kaufen.
+Die Farbe dieses Kleides war im Geschäft ganz anders.
+Kannst du mal kurz in den Keller gehen und meine Jacke holen?
+Lass die Jeans bitte nicht in die trockner sondern aufhängen.
+Mir steht diese Rösslänge überhaupt nicht, das sieht lustig aus.
+Wir sollten morgen Vormittag zusammen shoppen gehen, wenn Zeit ist.
+Die Nähte sind schon nach zwei Mal waschen aufgegangen.
+Schreib mir doch kurz, welche Größe ich für dich nehmen soll.
+Mein Lieblingsschal ist leider bei der Wäsche ausgeblaucht.
+Du siehst in diesem blauen Shirt deutlich besser aus.
+Die Stiefel sind schön aber viel zu eng an den Knöcheln.
+Ich habe meinen Pullover verlegt und trage ihn jetzt rücklings.
+Das Label hat total enttäuscht, die Stoffqualität ist mies.
+Muss ich diese Hemde unbedingt bügeln oder reicht dampfen?
+Findest du das Muster auf der Tasche auch ein bisschen laut?
+Wir müssen deine Klamotten mal aussortieren, da liegt alles rum.
+Ich suche eine schicke aber bezahlbare Partyrobe für Samstag.
+Diese Sneaker haben sich echt gut bewährt beim vielen Laufen.
+Der Stoff fühlt sich ganz schön billig und glitschig an.
+Mir ist der Gürtel zu eng geworden, seitdem ich mehr esse.
+Hast du das blaue Shirt auch gesehen?
+Meine Jeans haben nach zweimal Waschen ausgefranst.
+Ich finde den Schnitt dieses Mantels ganz toll.
+Kannst du kurz anprobieren ob es mir passt?
+Der Stoff fühlt sich irgendwie zu dünn an.
+Die Schuhe waren schön aber die Größenauswahl war bescheiden.
+Hast du einen Gutschein für uns im Laden gefunden?
+Mein Pullover hat eine große Lücke am Ärmel bekommen.
+Ich mag diesen Trend mit den weiten Hosen nicht so.
+Wird der Rock noch in meiner Größe reduziert werden?
+Der Preis ist halt immer ein bisschen hoch bei dir.
+Ich habe gestern online einen Fehler beim Bestellen gemacht.
+Kann ich das Hemd bitte gegen eine größere tauschen?
+Die Farbe sieht im Laden viel besser aus als auf dem Foto.
+Mein Bruder leiht sich ständig meine Jacken und gibt sie nicht zurück.
+Ich trage eigentlich nur noch schwarze Sachen zur Arbeit.
+Die Ärmel sind mir immer zu kurz wenn ich was kaufe.
+Hilft dir mein Rat bei der Farbwahl denn weiter?
+Ich hab das Geld für die Tasche einfach nicht übrig.
+Die Qualität ist leider gar nicht mehr so wie früher.
+Morgen geht es wieder einkaufen weil ich nichts zum Anziehen habe.
+Das Muster auf dem Kleid ist wirklich ganz mutig gewählt.
+Ich mag deine neue Brille mit den runden Gläsern sehr.
+Soll ich dir helfen die Klamotten für den Winter zusammenzusuchen?
+Mein geliebter Pullover hat schon wieder Fusseln.
+Kannst du mir mal kurz den Knopf zuknöpfen?
+Ich finds doof dass die Jeans immer einrenken.
+Hast du das neue Model der Sneaker gesehen?
+Die Bluse ist super weich aber leider sehr dünn.
+Wir sollten am Wochenende nochmal shoppen gehen.
+Mir fehlt eine ordentliche Anzughose für die Arbeit.
+Das Hemd ist nach dem Trocknen total verknickt.
+Ich hab auf Rabatt gewartet und nichts gefunden.
+Dein Mantel steht dir eigentlich wirklich sehr gut.
+Warum kosten solche T-Shirts hier immer so viel?
+Ich muss dringend mal meine Schränke aufräumen.
+Die Ärmel sind mir bei der Jacke etwas zu lang.
+Hast du eine Vorstellung für das Outfit heute Abend?
+Mein Schuhbild ist im Sommer wirklich sehr begrenzt.
+Die Qualität bei dieser Marke hat deutlich nachgelassen.
+Ich trage lieber bequeme Stoffhosen als Jeans.
+Kann ich dieses Kleid nochmal umtauschen wegen der Farbe?
+Der Schal ist eigentlich viel zu groß für meinen Hals.
+Ich suche nach einem guten Deal für Sommerkleidung.
+Die Nieten am Gürtel rutschen mir ständig aus den Augen.
+Mein alter Mantel sieht wirklich schon sehr abgegraut aus.
+Wir haben endlich einen Termin für die Maßanfertigung bekommen.
+Das Material kratzt ganz arg und ist unangenehm anzuprobieren.
+Ich würde diesen Hut unbedingt brauchen gegen die Sonne.
+Ich muss dringend einen Pullover kaufen.
+Meine Jeans hat wieder ein Loch am Knie.
+Hast du schon mal bei Zalando bestellt?
+Das Shirt ist mir irgendwie zu eng.
+Lass uns morgen in die Innenstadt gehen.
+Die Sneaker sehen eigentlich ganz gut aus.
+Ich hasse es, wenn Kleidung so schnell pillingt.
+Kannst du mal kurz anprobieren?
+Der Mantel kostet echt ein Vermögen.
+Mein T-Shirt ist nach dem Waschen grau.
+Wir brauchen dringend neue Schuhe für den Winter.
+Diese Hose sitz einfach nicht richtig.
+Findest du das Oberteil zu auffällig?
+Ich trage nur noch Sachen aus Bio-Baumwolle.
+Der Stoff fühlt sich total billig an.
+Hör auf, deine Klamotten überall hinzuwerfen.
+Welche Farbe hast du eigentlich am liebsten?
+Das Kleid ist leider ausgefallen in meiner Größe.
+Ich spare mir das Geld lieber für etwas Besseres.
+Dein neuer Rucksack sieht richtig stylisch aus.
+Können wir den Preis noch ein bisschen drücken?
+Die Ärmel sind mir viel zu lang geschnitten.
+Ich hab keine Lust mehr auf Schnäppchenjagd.
+Das Shirt hat einen richtigen Branding-Fehler dabei.
+Soll ich dir mal diese Hose leihen?
+Mein Lieblingsshirt ist leider schon total ausgefressen.
+Hast du eigentlich schon das neue Herbstlookbook gesehen?
+Ich hab gestern beim Flohmarkt einen ganzen Kram gefunden.
+Die Jeans sind zu eng, ich muss abnehmen oder tauschen.
+Kannst du kurz meinen neuen Pulli auf Bügelfalten checken?
+Ich traue mich nicht ins Geschäft, weil die Preise so hoch sind.
+Diese Schuhe sehen cool aus, aber sie drücken bestimmt.
+Mein Mann findet meine neuen Stiefel viel zu klobig.
+Der Rock ist schön, doch er sitzt total falsch an der Hüfte.
+Ich kaufe nur noch Bio-Baumwolle, das fühlt sich einfach besser an.
+Hast du meinen Schal schon gefunden, ich such ihn seit Tagen.
+Das Outfit passt perfekt zu meinem neuen Taschchenmodell.
+Am Montag trage ich wieder meine alten Arbeitshosen.
+Die Qualität bei dieser Marke ist echt leider schlechter geworden.
+Soll ich dir die Größentabelle für das Online-Shopping schicken?
+Meine Mütze verliert ständig Flusen, egal wie oft ich wasche.
+Ich überlege mir seit Wochen, ob ich diesen Mantel kauf.
+Dein Haarband passt super zu dem gestreiften Oberteil da.
+Wir sollten morgen mal zusammen durch die Läden flanieren.
+Die Farbe ist leider viel blasser als auf den Fotos online.
+Ich mag diese weiten Hosen gar nicht so besonders.
+Kann ich deine Lederjacke für den Abend kurz leihweise nutzen?
+Der Knopf an meinem Sakko ist schon wieder abgefallen.
+Hast du ein gutes Tipp für pflegeleichte Sommerkleidung?
+Hast du schon das neue Kollektion von Zara gesehen?
+Mein Lieblingsshirt ist leider nach dem Trocknen ein wenig zerrissen.
+Ich suche dringend einen bequemen Pullover für den Büroalltag.
+Die Jeans sitzt irgendwie komisch im Bereich der Hüften.
+Sollten wir mal gemeinsam zum Flohmarkt gehen, das macht Spaß.
+Diese Schuhe sind zwar schön, aber wirklich nicht bequem.
+Ich habe keine Lust auf allzu viele Trends zu folgen.
+Kannst du mir bitte helfen den Reißverschluss wieder zu öffnen?
+Die Farben passen einfach nicht so gut zusammen heute.
+Wir sollten uns mal einen Gutschein für den Geburtstag kaufen.
+Ich finde diese Sneakers zu auffällig für die Arbeit geeignet.
+Hast du meine Mütze gesehen, sie ist plötzlich verschwunden.
+Der Stoff fühlt sich echt günstig an wenn man ihn berührt.
+Ich trage lieber bequeme Kleidung statt modischer Klamotten heute.
+Die Größe Small war irgendwie viel zu klein für mich.
+Soll ich das Kleid behalten oder doch besser umtauschen?
+Meine Socken haben immer wieder Löcher bekommen nach dem Waschen.
+Ich mag es wenn meine Kleider locker und bequem sind.
+Kommst du mit zum Shopping Trip am Samstagvormittag?
+Das Jackett ist reduziert und sieht wirklich schick aus.
+Ich habe mein altes Hemd endlich entsorgt gestern Abend.
+Diese Strumpfhosen reißen sofort wenn man sie anzieht vorsichtig.
+Meine Freundin hat mir diesen tollen Ring geschenkt letztes Mal.
+Hast du mal was Bequemes für heute?
+Das Shirt ist mir irgendwie viel zu eng.
+Ich hab gestern Abend noch online shoppen müssen.
+Die Farbe sieht auf dem Foto ganz anders aus.
+Kann ich die Jeans bitte nochmal anprobieren?
+Meine alten Schuhe sind echt am Ende angekommen.
+Das Material fühlt sich super weich und gemütlich an.
+Ich traue mich gar nicht, das teure Kleid zu waschen.
+Wir müssen unbedingt mal zusammen einkaufen gehen.
+Die Größe L ist leider schon ausverkauft heute.
+Findest du auch, dass mir dieser Stil steht?
+Ich zieh im Sommer nur noch leichte Stoffe an.
+Der Schnitt der Jacke ist wirklich ziemlich modern.
+Ich hasse es, wenn die Knöpfe sofort abfallen.
+Die Hose sitzt genau richtig am Bund eigentlich.
+Ich brauch dringend neue Socken für die Arbeit.
+Das Outfit passt perfekt zum Wetter heute draußen.
+Kannst du mir beim Auspacken der Lieferung helfen?
+Ich kaufe nie mehr bei dieser bestimmten Marke ein.
+Dein neuer Mantel sieht auf dir wirklich klasse aus.
+Hast du eine Ahnung, wo man das kaufen kann?
+Die Ärmel sind mir bei dem Pullover viel zu lang.
+Wir sollten vielleicht mal die Garderobe aufräumen heute.
+Ich hab mich total in den Sale verlieben lassen.
+Meine Jeans sind echt bequem, die hab ich immer an.
+Ich suche nen schwarzen Pullover für die Arbeit.
+Hat jemand Erfahrung mit dieser neuen Online-Plattform?
+Das Shirt ist leider zu dünn für den Winter.
+Wir müssen mal zusammen shoppen gehen, hast Zeit?
+Die Schuhe drücken noch ein bisschen, aber sie werden sicher.
+Kannst du kurz die Jacke ausmessen, bitte?
+Mein Mantel ist schon fleckig, den muss ich neu kaufen.
+Diese Marke ist zwar teuer, aber hält ewig lang.
+Hast du einen Gutschein für uns, oder nur ich?
+Die Hose saß perfekt im Bund, echt gut geschnitten.
+Ich wasche alles auf 30 Grad, damit es nicht einzieht.
+Findest du das Kleid zu auffällig fürs Büro?
+Mein neuer Rucksack ist schon wieder undicht, mist.
+Lass uns die Klamotten erst nochmal überlegen bevor wir zahlen.
+Die Mütze gefällt mir besser als die andere da.
+Warum nimmst du immer nur eine Größe kleiner?
+Das Material fühlt sich grade total billig und kratzig an.
+Ich brauch dringend neue Socken, die alten sind voll ausgetreten.
+Kann man diese Bluse auch waschen oder nur chemisch reinigen?
+Mein Bruder hat mir diesen Pullover geschenkt, echt nett.
+Die Farben sind im Internet irgendwie ganz anders als live.
+Wir sollten uns mal wieder nen Anzug kaufen für Feiertage.
+Mein neuer Mantel ist total weich anfühlt sich gut.
+Die Jeans sitzt leider viel zu weit im Bund.
+Soll ich das Hemd in der Maschine waschen?
+Der Pullover ist nach dem Trocknen irgendwie kleiner geworden.
+Welche Farbe passt besser dazu rot oder blau?
+Ich hab beim Stöbern einen tollen Anzug gefunden.
+Meine Schuhe sind schon wieder durchgelaufen doof eigentlich.
+Lass uns doch morgen zusammen shoppen gehen zum Spaß.
+Die Qualität bei der Kette ist echt mies.
+Ich trage im Sommer immer nur kurze Ärmel lieber.
+Das Kleid hat leider ein kleines Loch bekommen.
+Findest du diesen Schnitt auch etwas zu breit?
+Ich spül meine Socken immer von Hand ab heute.
+Die Mütze kitzelt mich irgendwie total am Hals.
+Wir brauchen unbedingt neue Schuhe für den Wandertag.
+Der Stoff sieht aus wie billige Polyester Ware halt.
+Ich hab das Shirt im Outlet zum halben Preis gekauft.
+Passen die Brille und das Jackett gut zusammen?
+Mein Hoodie ist mein Lieblingsteil für kalte Tage definitiv.
+Die Knöpfe halten wahrscheinlich nicht lange so zu.
+Ich mag diese gemusterten Socken gar nicht mehr jetzt.
+Hast du schon gesehen wie die Jeansmode sich ändert?
+Der Gürtel kratzt leider immer an der Hose runter.
+Ich sortiere meine alte Garderobe nächste Woche mal durch.
+Meine Jeans sitzen einfach nicht mehr rund.
+Hast du schon gesehen wie billig der Stoff ist?
+Ich trage nur noch nachhaltige Marken seit letztem Jahr.
+Die Sneaker sind leider wieder ausvergriffen in meiner Größe.
+Kannst du kurz gucken ob mir das Shirt steht?
+Mein Mantel war nach drei Wäschen total fusselig.
+Ich hasse es wenn Hosen an den Knien durchgehen.
+Das Kleid ist zwar schön aber viel zu teuer.
+Tragst du den Pullover oder ist der schon alt?
+Die Gürtelschlaufe reißt immer beim zweiten Mal Anziehen.
+Ich such dringend etwas Bequemes für das Büro.
+Meine neue Hose hat total unangenehme Nahtstellen hinten.
+Wird die Farbe von dem Blazer nicht schnell ausbleichen?
+Ich liebe den Stil dieser neuen Kollektion einfach so sehr.
+Die Jacke ist zu eng in den Schultern geworden.
+Hast du einen Gutschein oder Rabattcode für Online Shopping?
+Meine Socken haben überall schon Löcher untenrum.
+Das Outfit passt irgendwie nicht zusammen finde ich ehrlich gesagt.
+Ich wechsle meine Schuhe gerne mal zwischendurch ab.
+Die Qualität bei diesen günstigen Läden ist echt mies.
+Welche Farbe würdest du zu meinen jeans empfehlen?
+Mein alter Rock wurde langsam Zeit zum Verabschieden.
+Die Mütze hält den Wind draußen aber sieht komisch aus.
+Ich kaufe lieber ein zweites mal als schlechte Ware.
+Hast du Lust mit mir Shopping machen dieses Wochenende?
+Hast du schon was Schickes für die Party gefunden?
+Diese Jeans sitzt mir einfach nicht so richtig.
+Ich hasse es online clothes zu kaufen weil die Größe oft falsch ist.
+Kannst du kurz meinen Pullover anprobieren damit ich sehe ob er passt?
+Das Material fühlt sich gar nicht nach Wolle an sondern eher synthetisch.
+Wir müssen unbedingt mal zusammen shoppen gehen das fehlt mir total.
+Mein neuer Mantel ist leider zu eng an den Schultern geschnitten.
+Hast du die Schuhe schon gewaschen oder sind sie noch schmutzig?
+Ich finde dein Style heute morgen richtig cool und inspirierend.
+Der Preis für diese Marke ist im Moment einfach viel zu hoch.
+Ich habe gerade ein richtiges Schnäppchen auf der Ausverkauf abgekratzt.
+Passt das Shirt zu meinen neuen Beinen oder wirkt es zu bunt?
+Bitte nimm die weiße Bluse nicht zusammen mit den dunklen Jeans waschen.
+Meine Socken haben alle Löcher ich brauche dringend einen neuen Vorrat.
+Ich überlege mir schon lange einen Schrankentrainer zu organisieren.
+Die Farben bei diesem Kleid sind auf dem Foto anders als in echt.
+Hast du meine Sonnenbrille gesehen die ich gestern mitgenommen habe?
+Diese Sneakers tragen sich wie Wolken aber sie sehen komisch aus.
+Ich muss meine alte Jacke endlich wieder nähen lassen bevor sie reißt.
+Welchen Hut würdest du zu diesem Outfit passen empfehlen?
+Der Stoff von diesem Shirt kratzt unglaublich auf der Haut.
+Ich habe heute drei Umkleidekabinen durchforstet und nichts gefunden.
+Kann ich mal dein Handytasche ausleihen weil meine kaputt gegangen ist?
+Wir sollten uns einen Kleidungs-Tauschabend veranstalten das macht Spaß.
+Mein neuer Pulli kratzt total am Hals.
+Hast du schon was für den nächsten Urlaub gekauft?
+Die Jeans sitzt heute einfach nicht richtig gut.
+Ich find diese neue Kollektion von Zara echt scheiße.
+Kannst du mir kurz meine Hose anfassen, bitte?
+Das Shirt ist nach dreimal Waschen schon ausgefressen.
+Wir müssen mal wieder gemeinsame Shopping Tour gehen.
+Die Schuhe sind schön, aber der Absatz ist zu hoch.
+Ich trage im Winter immer nur schwarze Strumpfhosen.
+Dein Mantel sieht aus meiner Sicht viel zu groß aus.
+Hast du die neue Adidas Sneaker schon gesehen?
+Ich wasche meine Wäsche nur bei 30 Grad.
+Der Stoff fühlt sich irgendwie billig und synthetisch an.
+Kann ich deine Jacke kurz zum Probieren haben?
+Mir gefällt dieser Vintage-Look eigentlich gar nicht so.
+Die Weste ist leider in meiner Größe ausverkauft.
+Ich sollte mir endlich mal neue Socken kaufen.
+Dein Kleidungsstil hat sich dieses Jahr stark verändert.
+Ich kaufe lieber etwas teureres, das hält dann länger.
+Das Hemd knittert sofort, sobald man es anfasst.
+Findest du auch diese weiten Hosen wieder in Mode?
+Meine Stiefel sind komplett durchgelaufen bei dem Regen.
+Kommst du mit zum Outlet-Shop am Wochenende?
+Ich hasse es, wenn Ärmel so eng sind.
+Wir haben gestern drei Pullover erstklassig reduziert gekauft.
+Hast du schon mal diese Jacke ausprobiert?
+Das Shirt ist leider nach dem Waschen zu klein geworden.
+Ich finde den Schnitt an dieser Hose total unflätig.
+Wo hast du denn dein neues Outfit gekauft?
+Die Qualität bei Fast Fashion wird wirklich immer schlechter.
+Meine Lieblingssneaker sind endlich wieder auf Lager angekommen.
+Passt dir das Blau oder siehst du besser in Rot aus?
+Ich muss unbedingt meine Garderobe für den Winter aufräumen.
+Der Preis ist hoch, aber die Verarbeitung stimmt einfach.
+Hast du Lust heute mit mir Einkaufen zu gehen?
+Diese Jeans kratzt mich leider total am Nacken.
+Ich mag es schlicht und halte mich an Basics.
+Kannst du mal gucken ob dir die Länge reicht?
+Mein Mantel ist schon ganz abgenutzt von den Knöpfen.
+Wir sollten uns mal wieder ein passendes Paar Schuhe holen.
+Diese Farbe wirkt auf meiner Haut irgendwie total matt.
+Ich liebe es einfach alte Secondhand-Funde zu entdecken.
+Der Stoff fühlt sich ziemlich billig und kratzig an.
+Hast du eine Idee wie ich das kombinieren könnte?
+Mein Kleiderrucksack ist voll und ich kann nichts finden.
+Die Größe fällt bei dieser Marke immer etwas klein aus.
+Ich überlege mir seit Wochen ob ich den Pullover nehme.
+Dein neuer Look sieht echt frisch und jungfräulich aus.
+Kann ich deine Jeans mal kurz zum Probieren leihen?
+Das Label am Hals macht mich schon beim Anziehen wahnsinnig.
+Mein neuer Pullover kratst mich total am Hals.
+Ich suche schon ewig nach passenden schwarzen Hosen.
+Das Shirt ist aus reiner Baumwolle, sehr angenehm.
+Wir gehen morgen shoppen, kommst du mit?
+Diese Jeans hat super viele Taschen praktisch finde ich.
+Der Rock ist zu kurz für die Arbeit hier.
+Ich trage nur noch Sneaker im Alltag einfach halt.
+Die Mütze ist aus Wolle und hält warm.
+Mein Mantel muss dringend zur Reinigung gebracht werden.
+Findest du das Design auf dem Hoodie toll?
+Ich habe diesen Schnürstiefel online bestellt und gewartet.
+Das Hemd wurde beim ersten Waschen zu klein leider.
+Welche Farbe passt besser zu meiner neuen Jacke?
+Ich spare Geld durch Angebote im Sale immer.
+Diese Brille macht mein Gesicht viel jünger aus.
+Die Lederhandschuhe sehen edel aus aber teuer sind.
+Mir gefällt der Vintage Look von alten Jeans sehr.
+Kannst du mir sagen ob dieser Gürtel breiter ist?
+Mein Pullover wurde beim Trocknen leider total fusselig.
+Ich mag es wenn Kleidung bequem ist und nicht kratzt.
+Der neue Store hat wirklich gute Angebote für Kinder.
+Diese Schuhe drücken ganz furchtbar an den Zehen leider.
+Ich wechsle meine Socken täglich aus hygienischen Gründen.
+Das Outfit wirkt zu provokant für das Büro meiner Meinung.
+Wir sollten unsere Garderobe mal gemeinsam durchgehen und aufräumen.
+Die Qualität bei dieser Marke ist wirklich durchweg hochwertig und haltbar.
+Mein Lieblingssweater ist leider im Waschgang zerfetzt.
+Hast du schon mal bei dem neuen Second Hand Shop vorbeigeschaut?
+Die Jeans sind viel bequemer als ich erwartet hatte.
+Ich finde, das Kleid steht dir einfach toll.
+Kannst du mir kurz zusehen, ob der Saum zu lang ist?
+Der Stoff kratzt irgendwie, da kaufe ich nichts.
+Ich muss dringend mal meine Garderobe aufräumen.
+Die Schuhe vom letzten Jahr sehen jetzt schon alt aus.
+Das Design ist hübsch, aber der Preis ist absurd hoch.
+Meine Mütze hat leider nach dem Waschen die Form verloren.
+Wir sollten heute Nachmittag noch schnell zum Markt gehen.
+Ich habe keine Lust mehr auf diese ganzen Schnüre an den Hosen.
+Der Blazer ist viel zu teuer für diesen billigen Stoff.
+Findest du nicht auch, dass dieser Hut einfach nur klobig aussieht?
+Ich trage immer das Gleiche, weil es mir so am besten gefällt.
+Die Jacke war zwar reduziert, doch die Farbe hat mir nicht gefallen.
+Hast du schon gesehen, wie verrückt meine Freundin heute gekleidet war?
+Ich brauche unbedingt neue Socken für die kälteren Tage im Winter.
+Der Mantel ist super warm und sieht dabei noch stylisch aus.
+Kannst du mal prüfen, ob dieser Gürtel noch gut passt?
+Ich hasse es, wenn beim Auspacken direkt ein Knopf fehlt.
+Das Shirt war zwar schön, doch die Naht riss sofort auf.
+Meine Stiefel sind endlich wieder sauber nach dem langen Regen.
+Ich habe endlich ein Hemd gefunden, das nicht kratzt.
+Diese Jeans ist mir leider doch zu eng im Bund.
+Wir gehen gleich einkaufen, ich brauche neue Schuhe.
+Mein Pulli ist so gemütlich zum Kuscheln auf dem Sofa.
+Hast du schon mal von dieser neuen Modemarke gehört?
+Die Farbe hat sich beim Waschen etwas verfärbt, ärgerlich.
+Ich trage lieber bequeme Sneaker als meine High Heels.
+Kannst du mir kurz die Reißverschlusssperre am Jackett zurechtmachen?
+Auf dem Flohmarkt waren super coole Vintage-Teile zu finden.
+Mein Mantel ist aus Wolle, daher muss ich aufpassen beim Waschen.
+Diese Hose sitzt perfekt und lässt sich auch noch gut bewegen.
+Ich überlege, ob ich mir den Pullover online oder im Laden hole.
+Der Stoff fühlt sich total billig an und scheint zu reißen.
+Meine Freundin hat mir einen tollen Stil-Tipp gegeben gestern.
+Ich mag diesen trendigen Look einfach nicht so recht.
+Die Stiefeletten waren reduziert, was für ein Schnäppchen das war.
+Können wir schnell in den Geschäftsbereich gehen? Ich braue Kaffee.
+Diese Bluse ist zu durchsichtig, ich brauch da noch ein Oberteil.
+Mein Sohn wächst aus allen seinen Hosen im Moment raus.
+Ich finde, du siehst toll in diesem Kleidungsstück wirklich gut.
+Die Jacke ist zwar teuer, aber die Qualität stimmt einfach.
+Hast du schon deine Wäsche getrennt nach Weiß und Bunt?
+Dieser Hut passt leider gar nicht zu meinem restlichen Outfit.
+Ich werde das Shirt sicherheitshalber nochmal in der Maschine prüfen.
+Ich hab grade einen genialen Pulli im Sale gefunden.
+Die Jeans sitzt irgendwie immer so knapp am Bauch.
+Kannst du mir mal den Reißverschluss aufmachen?
+Mein neuer Mantel ist leider schon nach dreimal Waschen fusselig.
+Trägst du eher Schwarz oder Weiß zu dem Outfit?
+Die Schuhe drücken zwar, aber sie sehen echt gut aus.
+Ich bin so gestresst wegen der neuen Kollektion.
+Hast du eigentlich meine blaue Schürze irgendwo gesehen?
+Der Stoff fühlt sich irgendwie billig und rau an.
+Wir sollten mal gemeinsam shoppen gehen am Wochenende.
+Diese Sneaker sind mein absolutes Lieblingspaar im Moment.
+Dein Hut steht dir total gut zu dem Kleid.
+Ich muss dringend mal in den Keller räumen.
+Die Größe M war aus, ich nehme jetzt L.
+Findest du auch, dass diese Farbe zu grell ist?
+Meine Strümpfe haben alle Löcher von der Katze.
+Das T-Shirt ist perfekt für die Arbeit geeignet.
+Kann man das Shirt in der Maschine bei 40 grad waschen?
+Die Marke ist mir zu teuer für den täglichen Gebrauch.
+Du siehst heute richtig schick aus mit dem Anzug.
+Ich hab mein altes Jackett endlich reparieren lassen können.
+Pass auf, dass du dich nicht an der Nadel stichst.
+Diese Stiefel sind zwar schön, aber total unpraktisch im Regen.
+Warte kurz, ich muss mir nur noch die Brille holen.
+Ich hasse es wenn Ärmel nach dem Waschen kraus werden.
+Hast du schon mal bei dieser neuen Marke gekauft?
+Mein Pullover ist leider ganz aus der Form geraten.
+Die Jeans sind super bequem aber etwas zu lang.
+Ich such eine schlichte Uhr zum schwarzen Anzug.
+Warum ist das Material so rau auf der Haut?
+Ich kaufe gerne Secondhand weil es besser für die Umwelt ist.
+Hast du meinen blauen Schal irgendwo abgelegt?
+Die Schuhe drücken vorne ganz furchtbar im Fuß.
+Kannst du mir mal den Knopf flicken bitte?
+Das Outfit war viel zu teuer für nur ein Mal.
+Ich mag diese weiten Hosen aus den Neunzigern.
+Der Gürtel passt nicht mehr um meinen Bauch.
+Hole bitte meine Mütze von der Stange runter.
+Die Farbe ist etwas abgeblasst nach vielen Wäschen.
+Welche Jacke soll ich anziehen heute Abend?
+Ich liebe diesen Vintage-Look bei dir, echt cool.
+Der Stoff reißt sofort wenn man nur leicht zieht.
+Hast du noch ein sauberes Hemd für morgen?
+Die Stiefel sind eigentlich zu warm für den Sommer.
+Ich muss unbedingt mal wieder neue Socken kaufen.
+Das Kleid ist zu enganliegend, es fühlt sich komisch an.
+Kannst du diesen Fleck vor der Wäsche entfernen?
+Mein Mantel ist zwar alt aber immer noch top.
+Ich habe heute total günstige Jeans gesehen.
+Kannst du mal anschauen ob die mir steht?
+Mein Lieblingspullover ist leider schon ausgeleuchtet.
+Wir sollten bald zusammen shoppen gehen oder?
+Die Schuhe drücken mich schon nach fünf Minuten.
+Ich mag diese neue Kollektion gar nicht so.
+Das Material fühlt sich richtig billig und kratzig an.
+Ich muss unbedingt mal meine alte Tasche aussortieren.
+Welche Farbe passt besser zu meinem Outfit?
+Die Passform ist wirklich scheiße bei dieser Marke.
+Ich hab gestern online einen super Schnäppchenfloh gefunden.
+Kann ich deinen Mantel für den Weg ausleihen?
+Das Shirt ist leider nach dem Waschen einfarbig geworden.
+Ich trage eigentlich nur noch bequeme Dinge im Alltag.
+Findest du auch dass dieser Rock zu kurz ist?
+Wir brauchen dringend neue Socken für die ganze Familie.
+Die Lieferung kam verzwickt an und war schon zerkratzelt.
+Ich kaufe lieber etwas teures das länger hält.
+Wie schaffst du es immer so gut gekleidet zu sein?
+Meine Sneaker sind total eingelaufen seit letzter Woche.
+Hast du gesehen wie teuer die Preise geworden sind?
+Der Schnitt ist super modern aber irgendwie nicht mein Ding.
+Ich vergesse immer meine Mütze auf dem Bus zur Arbeit.
+Lass uns mal tauschen du hast ja auch viel Zeug.
+Hast du das Shirt online oder im Laden gefunden?
+Meine Lieblingsjeans ist schon total abgenutz an der Naht.
+Lass uns doch morgen zusammen shoppen gehen.
+Die neue Kollektion sieht auf dem Blog echt gut aus.
+Ich hasse es, wenn sich die Wolle so schnell ausfranst.
+Passt dir der Pulli auch oder ist er zu eng?
+Hab gerade einen super Sale in meinem Lieblingsladen gesehen.
+Meine Schuhe scheuern immer hinten am Knöchel.
+Tragst du deine Farben gerne kombiniert oder eher neutral?
+Die Qualität bei dieser Marke hat richtig nachgelassen.
+Ich such noch ein schickes Outfit für die Party.
+Kannst du mal gucken, ob das auch in rot da ist?
+Nach dem Trockner sahen meine Socken aus wie Miniaturversionen.
+Der Schnitt dieses Kleides schmeichelt wirklich jeder Figur.
+Lass mich bitte in Ruhe, ich probiere grade Um.
+Ich kaufe meine Jacken nur noch bei der Second Hand.
+Das Material fühlt sich auf der Haut irgendwie unangenehm an.
+Hör auf zu zappeln, du machst das Hemd nur noch knitterig.
+Welche Schuhe würdest du dazu tragen, Sneaker oder Boots?
+Diese Jeansform war letzte Jahr total in Mode, gell?
+Ich muss dringend einen neuen Gürtel kaufen.
+Das Label sagt was, aber der Stoff täuscht leider.
+Findest du die Farbe auf mir zu blass für den Sommer?
+Mein Mantel riecht immer noch leicht nach Tabakrauch drin.
+Meine Jeans hat unten schon wieder Löcher.
+Hast du schon neue Sneaker gesehen im Internet?
+Die Farbe des Pullis ist leider etwas ausgebleicht.
+Ich mag diesen Hut nicht so gut ehrlich gesagt.
+Wir müssen mal zusammen einkaufen gehen am Wochenende.
+Der Rock ist viel zu kurz für die Arbeit.
+Findest du das Outfit auch ein bisschen zu provokant?
+Ich hab meine Winterjacke doch lieber gelassen.
+Die Größe M war irgendwie schon wieder zu klein.
+Mal sehen ob ich das Shirt wirklich brauche oder nicht.
+Das Material fühlt sich echt billig und kratzig an.
+Welche Schuhe passen besser zu diesem langen Mantel?
+Ich kann diesen Pullover heute definitiv nicht tragen.
+Die Jeans sind nach dem Waschen noch immer zu breit.
+Hast du den Rabattcode für die Shopapp bekommen?
+Mein neuer Sneaker hat schon nach zwei Tagen geplatzt.
+Die Mode heutzutage ist oft viel zu teuer geworden.
+Ich trage lieber bequeme Stoffhosen anstatt enge Jeans.
+Der Gürtel ist leider schon wieder kaputt gegangen.
+Hast du Lust auf Shopping morgen Nachmittag beim Mall?
+Das T-Shirt ist perfekt für meine nächste Reise.
+Meine alte Ledertasch sieht immer noch ziemlich gut aus.
+Kannst du mir mal kurz die Reißverschluss öffnen bitte?
+Hast du schon nen neuen Schal gekauft?
+Meine Jeans ist leider zu eng geworden.
+Ich hab gestern ein tolles Kleid gefunden.
+Die Jacke steht dir einfach super gut.
+Das Shirt kratzt mich irgendwie ständig.
+Wir sollten zusammen shoppen gehen am Samstag.
+Hast du die Schuhe schon ausprobiert?
+Der Pullover fühlt sich sehr angenehm an.
+Ich trage kaum noch Hosen im Sommer.
+Dein neuer Mantel sieht wirklich edel aus.
+Kann ich mir die Hose mal anprobieren?
+Die Farbe ist etwas heller als online.
+Ich muss meine Socken endlich aufhängen.
+Gefällt dir dieser gestreifte Blazer eigentlich?
+Die Größe M war leider nicht mehr da.
+Wir haben uns gegenseitig ein Outfit zusammengestellt.
+Mein neuer Sneaker ist richtig bequem geworden.
+Hast du die Rechnung schon bezahlt oder noch offen?
+Das Muster ist mir irgendwie zu laut.
+Ich liebe den Geruch von neuen Kleidungsstücken.
+Die Mütze hat beim Waschen total geformt.
+Kannst du mir helfen, das Hemd zu bügeln?
+Der Gürtel passt nicht mehr in die Taille.
+Ich suche dringend eine warme Wintermütze.

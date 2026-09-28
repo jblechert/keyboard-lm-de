@@ -3537,30 +3537,8 @@ Die Online-Vorlesungen sind oft schlecht aufzeichnen lassen.
 Meine Tochter findet den Physikunterricht total langweilig.
 Ich brauche dringend einen Nachschub an Kaffee und Noten.
 Die Bewerbungsfriste läuft am Montagabend abends aus.
-Die Abschlussprüfung kommt bestimmt gut für mich raus
-Ich muss morgen früh wieder um sieben aufstehen und hasse das
 Hat jemand die Formelsammlung für den Physiktest geliehen?
-Das Seminar war komplett überfüllt da haben wir nichts gelernt
-Ich brauche dringend neue Bafög papers weil ich kein Geld mehr habe
-Die Dissertation zieht sich hin wie ein alter Filmstrip in der Bibliothek
-Meine Tochter hat endlich das Abitur bestanden und ist erleichtert
-Kaffee ist mein einziger Freund während der Prüfungsphase im Wintersemester
-Ich verstehe nicht warum wir diese alten Bücher lesen müssen heutzutage
-Der Dozent hat gesagt dass die Klausur nächste Woche geschrieben wird
-Ausbildung macht mehr Sinn als ein langweiliges Studium in meinen Augen
-Hilfe ich habe den Termin für die Immatrikulation verpasst und panike jetzt
-Die Eltern wollen nicht dass ich Kunst studiere weil man damit kein Geld verdient
-Endlich mal Semesterferien zum ausspannen und gar nichts tun heute Nachmittag
-Mein Bruder hat seine Bachelorarbeit in einer Woche fertiggestellt wahnsinnig schnell
-Ich sitze schon seit drei Stunden an dieser Mathematikaufgabe und komm nicht weiter
-Schule war gestern echt doof weil der Lehrer so nervig im Unterricht war
-Das Praxissemester war viel interessanter als alle theoretischen Vorlesungen zusammen
 Kann mir jemand erklären wie man die Noten für das Zertifikat berechnet bekomme?
-Ich habe Angst vor dem Oral Exam weil ich so schlecht bin beim Sprechen
-Meine Schwester hat ihr Masterstudium begonnen und ist voller Freude darüber
-Die Hausaufgaben haben mich heute Abend wieder richtig genervt ehrlich gesagt
-Bafög wird langsam knapp also muss ich bald einen Job suchen im Nebenjob
-Das Abi war vorbei und jetzt weiß ich einfach nicht was weiter folgen soll
 Endlich Sommerferien, ich brauch dringend Pause von dem Lernstress.
 Die Klausur morgen ist doch gar nicht so schlimm wie sie aussieht.
 Hast du schon deinen Platz in der Vorlesung gesichert? Es wird voll.
@@ -3828,7 +3806,6 @@ Kannst du mir bitte die Lösungen zur Mathearbeit zeigen?
 Die Orientierungshilfe an der Uni hat mir echt geholfen.
 Mein Sohn ist stolz auf sein neues Zeugnis heute.
 Ich brauche dringend einen neuen Koffer für das Praktikum.
-Die Klausur morgen wird zum reinen Glücksspiel.
 Meine Tochter hat heute schon wieder die Hausaufgaben verpennt.
 Ich frage mich ob sich das Masterstudium wirklich lohnt.
 Der Dozent ist komplett durchgeknallt und hält den Faden nicht.
@@ -5180,29 +5157,7 @@ Dissertation schreiben bedeutet im Grunde nur endlos viel Lesen.
 Meine Frau arbeitet als Lehrerin und ist total ausgebrannt.
 Kannst du mir die Zusammenfassung für Geschichte mal schicken?
 Die Abschlussfeier in der Aula war echt schön organized.
-Mein Sohn muss endlich mal sein Zimmer aufräumen bevor die Kontrolle da ist
-Das Semester endet morgen endgültig, ich brauche dringend Urlaub
-Die Noten waren leider nicht ganz so gut wie erhofft worden war
-Ich sitze schon seit Wochen an meiner Masterarbeit und komme kaum voran
 Kannst du mir bitte kurz den Mathestoff erklären der so schwer war?
-Die Abi-Party wird wohl ausfallen wenn die Prüfung nicht klappt
-Meine Tochter hat wieder mal kein Buch dabei gehabt zum Unterricht
-Vorlesung um acht Uhr ist wirklich kein guter Start in den Tag
-Ich hoffe dass der Dozent noch Nachschreibungen erlaubt für mich
-Hausaufgaben waren heute mehr als ich überhaupt erledigen konnte
-Die Ausbildung an der Uni ist echt intensiv und stressig manchmal
-Hab meine Prüfungsaufgaben schon vergessen kurz nachdem ich rauskam
-Eltern wollen wissen wann das Zeugnis endlich da sein wird jetzt
-Semesterferien starten morgen abend endgültig mit dem ersten Feiertag
-Ich lerne für den Test aber es geht überhaupt nicht ins Hirn rein
-Dozent hat extra Material online gestellt das man dringend braucht
-Abiturzeugnis ist angekommen und ich bin echt stolz darauf geworden
-Mein Bruder muss wiederholt werden weil er zu viele Fünfer hatte
-Vorlesungsaufzeichnungen helfen enorm wenn man mal etwas verpasst hat
-Prüfungsangst macht mir richtig zu schaffen und ich schlaf schlecht
-Eltern haben extra einen Tutor engagiert damit die Noten steigen
-Ich frag mich ob ich wirklich das richtige Studium gewählt habe heute
-Schulweg ist lang und kalt im Winter aber man muss durch
 Ich hasse es morgens aufzustehen zur Schule.
 Meine Tochter hat heute wieder die Mathematik Hausaufgaben vergessen.
 Die Vorlesung an der Uni ist total langweilig.
@@ -6654,7 +6609,6 @@ Die Bibliothek schließt um zehn, wir müssen ran.
 Mein Zimmer ist komplett zugemüllt von Lernzetteln.
 Warum muss ich eigentlich noch so viele Bücher lesen?
 Die Abschlussfeier war ganz schön laut und wild.
-Ich hoffe, die Professorin liest meine Email überhaupt.
 Die Ferien fangen erst nächste Woche an zum Glück.
 Meine Kinder streiten sich schon wieder um den PC.
 Das Praktikum im Büro war eher langweilig ehrlich gesagt.
@@ -11820,7 +11774,6 @@ Die Dissertation wird mich noch komplett auf die Palme treiben.
 Schlechte Laune weil ich die Frist zur Anmeldung verpennt habe.
 Ich drück dir ganz fest die Daumen für die Prüfung.
 Die neuen Lehrbücher sind wahnsinnig teuer geworden.
-Endlich keine Schularbeiten mehr, die Freiheit schmeckt
 Die Klausur morgen wird mein Verderben sein, hab ich nicht gelernt.
 Kannst du mir bitte mal die Hausaufgaben zur Seite drehen?
 Mein Sohn steht vor dem Abi und ist total gestresst.
@@ -12498,31 +12451,7 @@ Die Elternabende sind immer so lang und nervig.
 Mein Bruder hat sein Examen endlich bestanden.
 Ich brauche unbedingt einen neuen Kuli für die Schule.
 Das Seminar scheint wirklich spannend zu werden.
-Ich hab schon wieder den Physiktest verschlafen
-Die Uni kostet ja auch noch Geld für das Semester
-Das Bafög wird mir wohl nur bis zum Master reichen
-Hoffentlich bekomme ich dieses Mal eine Eins in Englisch
-Die Semesterferien kommen gerade noch recht zur rechten Zeit
-Kannst du mal kurz aufpassen während ich die Matheaufgaben mache
-Ich sitze seit drei Nächten nicht mehr vernünftig
-Die Bewerbung für das Praktikum ist endlich abgeschickt worden
-Meine Tochter findet ihren neuen Klassenlehrer einfach doof
-Das Abi hat mir echt den Rest gegeben dieses Jahr
-Wir müssen uns dringend um die Studienplatzvergabe kümmern
-Die Klausur war deutlich schwerer als erwartet von allen Dozenten
-Ich frag mich ob ich noch ein Auslandsjahr machen soll
-Die Hausaufgaben waren heute wirklich zum Mäusemelken ehrlich gesagt
-Mein Studium läuft bisher besser als gedacht, freut mich riesig
-Das Bafög-Antrag ist mir total zu kompliziert und umständlich
-Ich muss mein Referat über Klimawandel bis Montag fertigstellen
-Die Eltern haben sich doch nicht um die Schule gekümmert
 Kannst du mir bitte deine Notizen von der Vorlesung schicken?
-Ich bin echt genervt vom ständigen Lernen für diese Prüfung
-Das Abiturzeugnis liegt seit zwei Wochen noch immer aus
-Mein Baby lernt gerade ABC und das macht großen Spaß
-Die Klausurnote kam heute endlich bei mir per E-Mail an
-Ich überlege ob ich das Fach wechseln soll oder nicht
-Die Schule war dieses Jahr wirklich viel stressiger als sonst
 Meine Tochter hat heute ihre Abschlusszeugnisse bekommen.
 Ich hab die Nacht durchgebrüllt wegen der Klausur.
 Das Semester ist schon wieder mal vorbei.
@@ -13362,7 +13291,6 @@ Schule ist doch nicht so schlecht wie früher.
 Ich brauche unbedingt eine Auszeit vom Lernen.
 Hat schon jemand den Raumwechsel im Gebäudeplan gesehen?
 Die Notenverteilung war dieses Mal ziemlich gnadenlos ehrlich.
-Wir haben wieder mal keine Pause in der Schule
 Die Hausaufgaben waren echt viel heute abend.
 Ich habe meine Klausur total vergessen mitzunehmen.
 Das Semester ist schon wieder fast rum wow.
@@ -13412,3 +13340,2249 @@ Das Referat morgen früh werde ich wohl nicht überleben.
 Ich frag mich immer noch ob der Master sich lohnt.
 Die Schulausflüge früher waren doch irgendwie cooler als heute.
 Meine Dissertation zieht sich seit zwei Jahren in die Länge.
+Die Klausur war viel leichter als erwartet.
+Ich muss morgen früh um sieben aufstehen für den Präsenztag.
+Mein Sohn hat endlich den Schulwechsel geschafft.
+Bafög ist immer so kompliziert zu beantragen, nervig.
+Hoffentlich bestehe ich die Prüfung ohne Nachsitzen.
+Warum muss ich eigentlich noch Hausaufgaben machen?
+Der Dozent war wieder total streng heute Vormittag.
+Ich brauche dringend neue Stifte für das nächste Halbjahr.
+Meine Tochter findet den Matheunterricht ziemlich langweilig.
+Das Abiturzeugnis ist endlich angekommen, ich bin erleichtert.
+Kannst du mir deine Mitschriften von der Vorlesung geben?
+Die Elternabende sind immer so unangenehm und nervig.
+Ich schreibe gerade meine Bachelorarbeit und hasse es.
+Welches Fach nehme ich im nächsten Semester wieder?
+Das Bafög kommt leider erst am Monatsletzten an.
+Mein Junge hat sich mit dem Klassenkameraden verprasselt.
+Die Prüfungsleistungen waren dieses Mal wirklich unfair bewertet.
+Ich überlege, ob ich doch noch ein Masterstudium anfange.
+Hausaufgaben machen ist einfach der worst ever Alltag.
+Der Lehrer hat mich heute nach vorne gerufen wegen einer Frage.
+Endlich sind die Semesterferien vorbei und ich bin frei.
+Meine Ausbildung läuft eigentlich ganz gut bis jetzt.
+Die Noten waren dieses Mal gar nicht so schlecht überraschenderweise.
+Ich muss meine Bachelorarbeit bis Freitag unbedingt einreichen.
+Ich sitz schon seit drei Stunden an dieser Hausaufgabe.
+Mein Sohn hat heute wieder mal Ärger im Mathematikunterricht bekommen.
+Die Prüfungsleistungen waren dieses Semester echt zum Kotzen.
+Hoffentlich bekomme ich mein Stipendium genehmigt.
+Ich kann nicht glauben, dass ich die Klausur bestanden hab.
+Das Seminarraumbuch ist wieder komplett zu geschrieben.
+Warum muss man immer am Freitag vor den Ferien etwas abgeben?
+Mein Papa meckert dauernd wegen meinen Noten im Deutschzeugnis.
+Die Vorlesung um acht Uhr morgens hat mich total fertig gemacht.
+Ich frag mich, ob ich mein Masterthesis noch rechtzeitig schaffe.
+Das Abi war der Hammer, jetzt kann ich endlich abschalten.
+Hast du schon deinen Platz für die mündliche Prüfung gefunden?
+Bafög-Antrag steht wieder ganz oben auf meiner TODO-Liste.
+Die Lehrerin findet meine Aufsätze immer zu chaotisch und unstrukturiert.
+Ich brauch unbedingt Urlaub von der Uni, ich brenn aus.
+Meine Tochter ist total stolz auf ihre erste Eins im Diktat.
+Die Gruppenarbeit mit Tom war eine absolute Katastrophe gestern Abend.
+Wann genau fangen die Semesterferien dieses Jahr wieder an?
+Ich muss noch ein Nachhilfe-Kurs für Englisch vor dem Abi machen.
+Das Studienangebot an der Uni München ist ziemlich begrenzt.
+Mein Arbeitgeber zahlt leider nichts für die Weiterbildungsmöglichkeiten.
+Die Klausurnote kam heute endlich per Post bei mir an.
+Ich hab panische Angst vorm Prüfungsgespräch morgen früh um neun.
+Welchen Fachrichtungen soll ich denn beim Studium wählen?
+Die Bibliothek ist während der Prüfungszeit immer überfüllt und laut.
+Endlich sind die Semesterferien da, ich kann endlich aufatmen.
+Die Hausaufgaben waren heute echt nervig und langwierig.
+Mein Sohn hat endlich seinen Fahrschultheorieerschein geschafft.
+Ich verstehe nicht, warum er die Mathediktatur immer scheitert.
+Das Seminar war völlig überfüllt, kaum Platz am Tisch.
+Bafög-Konto ist leer, jetzt muss ich mal was machen.
+Die Abschlussfeier war schön, aber irgendwie schon traurig.
+Professor Müller ist super streng, da darf man nix verpassen.
+Ich schreibe morgen meine erste Klausur im Hauptfach.
+Können wir das Thema bitte noch einmal kurz wiederholen?
+Die Projektarbeit mit Tom läuft irgendwie gar nicht gut.
+Mama hilft mir immer noch bei den Deutsch-Diktaten.
+Meine Tochter ist stolz auf ihre Eins in Englisch.
+Das Studium kostet echt viel Geld und Nerven gleich.
+Ich hab die Bewerbungsfrist für das Stipendium verpasst.
+Lernplan für Physik ist völlig realitätsfremd, das schafft keiner.
+Die Lehrerparente war eine große Enttäuschung für mich.
+Endlich habe ich meine Master-Thesis abgegeben, atemlos.
+Schulfreundin klagt ständig über zu wenig Schlaf und Zeit.
+Ich muss dringend zum Dozententermin, sonst gibts Ärger.
+Die Abschlusspräsentation lief überraschend gut und smooth.
+Die Klausurergebnisse kamen heute morgen im Portal online.
+Studienplatz sichern war dieses Jahr echt schwerer als gedacht.
+Ich vermiss die Pausen mit dem alten Freund schon.
+Die Klausur war echt schwer, ich hab fast nichts gewusst.
+Mama kann mir bitte das Zeugnis für die Schule unterschreiben?
+Mein Bafög-Antrag ist noch nicht genehmigt, das nervt mich total.
+Das Seminar findet morgen statt und ich bin schon so müde.
+Warum muss man immer Hausaufgaben machen, wenn man frei hat?
+Die Note im Abi war besser als befürchtet, Glück gehabt.
+Ich muss bis Freitag die Bachelorarbeit einreichen, Panik!
+Der Dozent ist total streng, niemand traut sich Fragen zu stellen.
+Können wir mal über die Förderstufe für mein Kind sprechen?
+Mein Platz an der Uni ist erst im zweiten Wahlgang vergeben worden.
+Die Ferien sind vorbei und jetzt kommt wieder Stress pur.
+Ich verstehe den Stoff einfach nicht, brauche dringend Nachhilfe.
+Das Praktikum war blöd, nichts zu tun nur Kaffee holen.
+Hast du schon deine Prüfungskarte für die Klausuren drucken lassen?
+Die Dissertation schreibe ich mich total rein, keine Auszeit mehr.
+Meine Tochter hat in Mathe eine Eins bekommen, super stolz.
+Der Schulweg ist lang und das Wetter auch noch furchtbar.
+Welches Studienfach soll ich wählen? Keine Ahnung eigentlich.
+Das Blockseminar war anstrengender als die eigentliche Prüfung.
+Ich hab mein Zeugnis verlegt, wo ist es bloß hin?
+Die Mensa essen ist immer so langweilig und teurer.
+Die Deadline für die Anmeldung ist schon wieder vorbei.
+Kaffee hilft bei den Lernmarathonen irgendwie Wunder gegen die Müdigkeit.
+Ich hoffe, dass das Ergebnis bald online steht endlich.
+Ich kann gar nicht glauben dass ich schon wieder versagt habe.
+Die Hausaufgaben bis morgen sind einfach viel zu viel für mich.
+Meine Tochter braucht echt Hilfe beim Englischvokabelnlernen.
+Das Seminar ist zwar klein aber super intensiv und anstrengend.
+Hoffentlich bekomme ich bald mal mein Bafög auf dem Konto.
+Warum muss das Abi immer so stressig sein verstanden ihr?
+Ich habe die Deadline für die Bewerbung wieder verschlafen.
+Der Dozent redet einfach nur zu schnell im Vorlesungssaal.
+Mein Sohn will unbedingt Ingenieur werden aber Mathe ist blöd.
+Die Klausur war echt gemein mit diesen trickfragen drin.
+Ich brauch dringend eine Pause vom stundenlangen Lernmarathon.
+Hat jemand die Aufgabenstellung von gestern noch aufgeschrieben?
+Die Schule hat uns extra lange Ferien gegeben wegen Corona.
+Meine Masterarbeit zieht sich schon ewig hin leider.
+Wir müssen doch wieder neue Schulbücher für das nächste Jahr kaufen.
+Ich bin total genervt vom ständigen Putzen und Lernen parallel.
+Das Praktikum war okay aber der Lohn ist echt schlecht.
+Ich freu mich schon riesig auf die Sommerferien endliche frei.
+Kann mir jemand den Link zur Lernplattform nochmal schicken?
+Die Note reicht gerade so für den Abschluss pfeif doch ab.
+Mein Bruder hat endlich geschafft und feiert das jetzt ordentlich.
+Die Elternabends waren dieses Jahr irgendwie alle sehr langatmig.
+Ich soll supposedly in ein Jahr meinen Master anfangen können.
+Das neue Lehrbuch ist leider wieder extrem teuer im Shop.
+Hilf mir bitte mit der Mathematik Hausaufgabe.
+Die Uni hat den Termin für die Klausur verschoben.
+Ich sitz schon seit drei Wochen an meiner Bachelorarbeit.
+Hat jemand noch Mitschriften vom gestrigen Wirtschaftskunde Unterricht?
+Das Bafög kommt immer zu spät auf mein Konto.
+Die Semesterferien beginnen nächsten Montag endglich.
+Ich kann nicht glauben dass ich die Prüfung bestanden habe.
+Die Lehrerin war heute wieder super nett und geduldig.
+Mein Sohn hat endlich verstanden wie man Bruchrechnen lernt.
+Das Abitur ist zwar vorbei aber der Stress bleibt.
+Kann mir jemand erklären was in der Physik Aufgabe gemeint ist?
+Ich muss morgen wieder früh aufstehen für die Vorlesung.
+Die Hausaufgaben waren heute zum Glück gar nicht so viel.
+Mein Sohn hat eine Eins in Mathe bekommen, super!
+Das Studium kostet zwar Geld aber es lohnt sich bestimmt.
+Ich frag mich ob ich wirklich Psychologie studieren soll.
+Die Abschlussprüfung ist nächste Woche und ich bin nervös.
+Hast du schon gesehen dass die Bibliothek um drei schließt?
+Mein Sohn will sein Zimmer nicht aufräumen vor den Eltern.
+Die Noten waren besser als erwartet, wir sind stolz auf ihn.
+Ich muss meine Masterarbeit bis Freitag einreichen, oh je.
+Kannst du mir bei der Deutsch Hausaufgabe helfen, bitte?
+Das Seminar war langweilig aber die Vorlesung war interessant.
+Mein Sohn hat seine Zeugnisnote verbessert, das freut mich sehr.
+Ich habe den ganzen Abend nur für die Klausur gelernt.
+Die Semesterferien kommen mir gerade so unglaublich lange vor.
+Mein Sohn hat wieder Malerzeugnisse in der Tasche vergessen.
+Kannst du mir mal deine Zusammenfassung schicken? Ich hab krankheitsbedingt nichts mitgeschrieben.
+Das Abi ist geschafft, jetzt kann ich endlich mal richtig ausatmen.
+Wie viel kostet denn das Fachsemester eigentlich genau an deiner Uni?
+Die Hausaufgaben waren heute wirklich zu viel des Guten.
+Ich frage mich ernsthaft, ob eine Ausbildung der richtige Weg ist.
+Der Dozent war total strenger als im letzten Semester.
+Meine Tochter hat überraschend eins plus in Deutsch geschrieben.
+Das Stipendium wurde leider abgelehnt, das war superfrustrierend.
+Wir müssen morgen früh um sieben aufstehen zum Sporttag.
+Hast du schon deine Immatrikulationsbescheinigung für dieses Jahr erhalten?
+Die Matheklausur hatte mir echt ins Gewissen geredet gestern.
+Ich bin so froh, dass die Schulsachen jetzt abgepackt sind.
+Mein Bruder muss wegen Noten nochmal den zweiten Termin wahrnehmen.
+Die Bibliothek ist zur Prüfungszeit voll belegt, man findet keinen Platz.
+Das Thema der Bachelorarbeit gefällt mir gar nicht so gut.
+Elternabend war wieder nervig, aber wenigstens gab es Kaffee dazu.
+Ich hoffe inständig, dass das Praktikum sich noch verlängern lässt.
+Warum muss man im Matheunterricht eigentlich immer Stifte tauschen?
+Mein Vater meckert ständig über meine unordentliche Schreibtischplatte zu Hause.
+Die Einschreibung lief glatt, aber der Wartezimmer war riesig.
+Hast du schon gehört, dass die Prüfungsaufgaben dieses Jahr schwerer sind?
+Ich brauche dringend neue Schreibutensilien für die kommende Woche.
+Die Hausaufgaben waren wieder mal viel zu viel für den Montagmorgen.
+Ich hab gestern bis drei Uhr nachts gelernt, was soll das bloß.
+Das Seminar war komplett langweilig, ich hab fast geschlafen.
+Bafög beantragen ist so ein bürokratischer Albtraum, echt nervig.
+Wir müssen uns noch für die Fachabi-Fächer entscheiden bis Freitag.
+Die Referendarin war total nett und hat gut erklärt gestern.
+Ich frag mich ob ich wirklich in den Master gehen soll oder nicht.
+Das Klausurergebnis kommt erst nächste Woche, der Nervenkrieg geht weiter.
+Meine Tochter hatte wieder mal Ärger mit einer Klassenkameradin daheim.
+Die Vorlesung war so überfüllt dass ich keinen Platz fand.
+Ich hab die Deadline für das Exposé verpasst, oh je.
+Abitur in vier Wochen, mein Kopf raucht schon jetzt komplett.
+Die Ausbilderschein-Zertifizierung kostet leider mehr als gedacht dieses Jahr.
+Wir warten gespannt auf die ersten Schulnoten vom neuen Lehrplan.
+Der Dozent war heute total unfair beim Benotungssystem im Seminar.
+Ich bräuchte dringend nen Job neben dem Studium für die Miete.
+Die Elternabende sind immer so anstrengend und dauern ewig lang.
+Mein Bruder hat sein Praxisjahr in der Klinik erfolgreich abgeschlossen gestern.
+Schulangst vor den großen Prüfungen kriegt mich gerade total runter.
+Das Thema für die Diplomarbeit war einfach zu komplex zu fassen.
+Ich hoffe mal dass das Semester jetzt schnell wieder zu Ende geht.
+Die Kita-Plätze sind leider weiterhin komplett ausgebucht in unserer Stadt.
+Nachts lernen bringt nichts weil man morgens eh nicht wach ist.
+Die Abschlussnote ist besser als erwartet, wir können schon mal atmen.
+Ich muss morgen früh um sechs aufstehen für den Chemiepraktikum.
+Mein Sohn findet die neuen Lehrbücher einfach viel zu kompliziert.
+Die Hausaufgaben machen mir wirklich immer mehr Stress als Spaß.
+Hast du schon deine Bachelorarbeit abgeschlossen oder bist du noch dran?
+Wir brauchen dringend neue Schulranzen für die nächste Klasse.
+Ich kann meinen Master einfach nicht in zwei Jahren fertig werden.
+Die Klausur war viel zu schwer, das hat keiner verstanden.
+Kannst du mir mal deine Unterlagen von der ersten Vorlesung schicken?
+Meine Tochter lernt seit drei Tagen nur noch für Mathe.
+Das Bafög-Konto ist schon wieder leer bevor die Ferien enden.
+Ich freu mich total auf die Semesterferien, das war anstrengend.
+Warum muss ich überhaupt Latein machen, ich brauch das doch nie?
+Der Dozent war heute super streng und hat mehrere Leute rausgeworfen.
+Ich hab die Bewerbungsfrist für die Ausbildung komplett übersehen.
+Die Prüfungsergebnisse kommen nächste Woche endlich zurück ins Sekretariat.
+Ich schlafe seit Tagen kaum weil ich so vor den Abis stehe.
+Hat jemand gute Tipps wie man sich am besten für die Uni anmeldet?
+Der neue Mathelhrer ist echt nervig, er gibt zu viel zu tun.
+Ich bin stolzer Papa als alles andere von dem Zeugnis heute.
+Mein Bruder hat es endlich geschafft und seine Diplomprüfung bestanden.
+Die Sommerferien stehen bevor und ich muss noch zehn Referate schreiben.
+Ich frag mich oft ob ich das Richtige studiert hab ehrlich gesagt.
+Mathe ist echt nicht mein Ding, ehrlich gesagt hasse ich das Fach.
+Mein Sohn will unbedingt Ingenieur werden, ob er den Stress aushält?
+Die Klausur war so schwer, ich hab gar nichts verstanden.
+Bafög beantragen ist immer wieder eine nervige Angelegenheit für mich.
+Wir müssen morgen um sieben aufstehen wegen dem Praktikum in der Firma.
+Ich hoffe, die Note reicht trotzdem für den Bachelorabschluss im Sommer.
+Die Hausaufgaben machen heute Abend echt keinen Spaß mehr.
+Meine Tochter hat endlich ihre Prüfung bestanden, das war sie ihr wert.
+Semesterferien sind vorbei und jetzt geht es wieder los mit dem Lernen.
+Kann mir bitte jemand den Stoff für morgen kurz zusammenfassen?
+Die Abi-Prüfung steht vor der Tür und ich bin total gestresst.
+Mein Kind lernt nur, wenn ich dauernd hinterher renne und drängle.
+Ich hab die ganze Nacht durchgearbeitet für die Prüfung morgen früh.
+Die Ausbildung an der Hochschule ist deutlich praktischer als erwartet.
+Mein Bruder hat sein Master endlich abgeschlossen, stolz bin ich auf ihn.
+Welchen Berufswunsch hat mein Sohn eigentlich wirklich für die Zukunft?
+Die Elternabende sind immer eine nervenaufreibende Angelegenheit für uns beide.
+Ich muss meine Bachelorarbeit nächste Woche einreichen, hoffe es klappt.
+Die Noten dieses Schuljahres waren enttäuschend für mich persönlich.
+Studieren ist teurer als ich gedacht habe, das Geld wird knapp.
+Mein Kind vergisst ständig seine Hausaufgaben, ich bin am Ende mit der Geduld.
+Die Semesterferien nutzen wir jetzt zum Aufholen und Ausspannen endlich mal.
+Ich traue mich nicht, den Professor nach dem Inhalt zu fragen direkt.
+Die Klausur hat mich komplett fertig gemacht.
+Ich verstehe einfach nicht wofür ich das Bafög brauche.
+Mein Sohn hat wieder Einsen in Deutsch geschrieben, stolz bin ich schon.
+Das Semester ist zu kurz für so viel Stoff wirklich.
+Kann mir jemand die Aufgabenstellung für die Statistik üben lassen?
+Die Referendarin ist echt nett aber leider immer noch unausgegoren.
+Ich muss endlich mal an meiner Masterthesis arbeiten anstatt rumgamen.
+Abitur in zwei Wochen und ich hab null Plan.
+Die Elternabende nerven mich irgendwie total ehrlich gesagt.
+Hoffentlich reicht das für die Zulassung zum nächsten Semester jetzt.
+Das Praxissemester war anstrengender als ich dachte ehrlich gesagt.
+Wo sind denn meine Notizen aus der Vorlesung geblieben?
+Der Dozent ist echt streng bei den Abgabefristen leider.
+Ich glaube ich versag total in diesem Prüfungsjahr einfach.
+Die Auszeiten zwischen den Semestern sind mir heilig und wichtig.
+Hilft euch eigentlich die Lerngruppe oder stresst sie nur noch mehr?
+Mein Sohn hat die Klausur nicht rechtzeitig abgegeben wegen Krankheit.
+Ich traue mich gar nicht erst in die Bibliothek zu gehen heute.
+Warum ist die Abschlussarbeit immer so kompliziert und langwierig gleichzeitig?
+Die Schulferien waren viel zu kurz um richtig abzuschalten eigentlich.
+Ich hoffe die Prüfungskommission sieht mein Bemühen wirklich an jetzt.
+Bafög beantragen war einfacher als ich befürchtet hatte ehrlich gesagt.
+Das Abi ist vorbei und nun weiß ich gar nicht weiter.
+Die Klausur am Dienstag war wirklich zum Ausflippen.
+Ich hab immer noch nicht gewusst wo die Uni überhaupt liegt.
+Das Semesterende rückt näher und mein Konto ist leer.
+Hast du schon eine Idee für dein Praxissemester im Sommer?
+Die Hausaufgaben waren heute Abend wieder total viel Stress.
+Ich muss morgen früh um sieben zur Vorlesung aufstehen.
+Bafög beantragen ist so ein bürokratischer Albtraum echt nervig.
+Meine Tochter hat ihren Abschluss gemacht und das feiern wir am Wochenende.
+Kann mir jemand die Lösungsaufgaben für Physik schicken bitte?
+Das Thema der Hausarbeit war mir völlig zu komplex.
+Ich habe Angst vor dem mündlichen Abitur nächste Woche.
+Die Ausbildung ist besser als ich vorher dachte ehrlich gesagt.
+Wir sind jetzt endlich in den Sommerferien geschafft!
+Die Note reicht für die Zulassung gerade so knapp hin.
+Ich kann mich nicht mehr konzentrieren wegen dem Lernstoff.
+Hast du schon Bewerbungen für das Betriebspraktikum geschrieben?
+Der Dozent war heute extrem streng und hat viel abgefragt.
+Mein Kind braucht dringend Nachhilfe in Englisch diese Woche.
+Die Bibliothek ist um acht Uhr dicht was ärgerlich ist.
+Ich freu mich auf die Weihnachtsferien nach dem Semester.
+Die Prüfungsanmeldung lief irgendwie nicht so wie geplant dort.
+Finanziell geht es gerade knapp zur Sache mit den Miete.
+Mein Bruder hat seinen Master abgeschlossen und ist stolz drauf.
+Schule war heute wirklich anstrengend ich brauche jetzt Pause.
+Die Hausaufgaben waren mir heute einfach zu viel.
+Meine Tochter will unbedingt Medizin studieren, ob das realistisch ist weiß ich nicht.
+Hoffentlich klappt die Klausur morgen endlich mal so wie geplant.
+Das Seminar war langweilig und der Dozent hat gar nichts erklärt.
+Ich brauche dringend mehr Zeit für meine Bachelorarbeit.
+Mein Sohn hat eine Eins im Mathetest geschrieben, stolz bin ich darauf.
+Die Prüfungsleistung hat mich total gestresst letzte Woche.
+Kann mir jemand den Mitschrieb von gestern mailen?
+Das Abi ist in Reichweite, aber die Nerven sind weg.
+Bafög-Antrag ausfüllen nervt mehr als alles andere zusammen.
+Ich hab die Facharbeit vergessen, panischer Moment am Morgen.
+Die Uni ist nicht billig, vor allem mit Wohnheim.
+Mein Kind lernt den ganzen Tag für die Physikprüfung.
+Die Dissertation scheint nie wirklich fertig zu werden irgendwie.
+Welche Note brauchst du noch für den Durchschnitt?
+Der Klassenlehrer war heute richtig streng in der Pause.
+Ich überlege ob ich das Masterstudium doch aussetze.
+Die Ausbildung war anstrengend aber ich lerne viel dabei.
+Hat jemand Lust zusammen zu lernen vor der Prüfung?
+Die Noten sind raus und ich bin erleichtert.
+Schulden beim Bafög nerven mich nachher im Job sicher.
+Meine Tochter beschwert sich ständig über den Hausaufgabenstress.
+Das Praktikum war langweilig und ich hab nichts gelernt.
+Abi-Stress liegt noch in der Luft, kaum zu glauben.
+Ich hasse Mathestunden total.
+Meine Tochter hat die Eins in Deutsch bekommen.
+Das Semester ist schon wieder vorbei?
+Können wir morgen zur Schule kommen?
+Der Dozent war super streik heute Vormittag.
+Ich muss meine Bachelorarbeit endlich abgeben.
+Bafög-Antrag läuft immer so langsam.
+Warum muss ich jeden Tag Hausaufgaben machen?
+Mein Sohn findet das Gymnasium echt anstrengend.
+Die Klausur am Dienstag war wirklich einfach.
+Studium kostet leider mehr als ich dachte.
+Ich brauch dringend die Semesterferien jetzt.
+Abitur im Juni ist kein Spaß wirklich.
+Die Lehrerin hat mich heute nach hinten gesetzt.
+Masterarbeit schreiben macht keinen Spaß ehrlich gesagt.
+Schulranzen reparieren geht gar nicht gut.
+Prüfungsausschluss droht wegen Fehlzeiten wohl bald.
+Elternabend war gestern total nervig für uns.
+Vorlesungsausfall wieder mal am Montag morgen.
+Notenspiegel kommt nächste Woche raus hoffentlich bald.
+Schulbus ist nochmal fünf Minuten zu spät.
+Meine Kinder haben beide die Abschlussprüfungen bestanden.
+Ausbildung als Fachkraft ist ganz nett eigentlich.
+Hausaufgabenheft wieder einmal komplett vergessen worden.
+Kann mir jemand die Zusammenfassung von Kapitel vier schicken?
+Meine Tochter hat endlich bestanden, wir sind so stolz.
+Das Seminar ist total langweilig, ich schlafe fast ein.
+Hoffentlich kommt heute kein neuer Diktand an.
+Ich muss für die Klausur noch drei Kapitel lernen.
+Der Dozent war gar nicht zufrieden mit meiner Präsentation.
+Hat jemand den Link zur Übungsaufgabe gefunden?
+Mein Sohn steht unter Druck wegen der Abschlussnoten.
+Die Bibliothek ist heute leider zu, Pech eben.
+Ich bekomme bald mein letztes Semester hinter mich gebracht.
+Können wir die Abgabefrist um eine Woche verlängern?
+Die Elternsprechstunde war wirklich angespannt und nervig.
+Bafög-Antrag ausfüllen nervt mich irgendwie total kaputt.
+Wir feiern heute Abend das bestandene Prüfungsamt.
+Ich brauche dringend einen ruhigen Ort zum Lernen.
+Die Hausaufgaben waren gestern echt zu viel des Guten.
+Hat jemand Lust auf eine Lerngruppe morgen früh?
+Meine Bachelorarbeit wird nie fertig, ich verzweifle.
+Der Lehrer hat wieder zu viel auf die Tafel geschrieben.
+Ich frage mich ob ich das Studium abbrechen soll.
+Das Praktikum war gar nicht so schlimm wie gedacht.
+Kannst du mir bei der Statistik aufgabe helfen?
+Die Schulbücher waren dieses Jahr wieder übermäßig teuer.
+Wir hatten letzte Woche glücklicherweise keine Kontrollarbeiten.
+Ich hoffe inständig dass die Note besser ausfällt.
+Ich hab die ganze Nacht für die Chemie Klausur gelernt und nichts verstanden.
+Die Semesterferien waren viel zu kurz, ich brauche echte Erholung.
+Kann mir jemand die Formel für den physikalischen Versuch erklären?
+Ich bin so froh, dass mein Master endlich abgeschlossen ist.
+Die Hausaufgaben für morgen sind einfach zu viel auf einmal.
+Meine Tochter hat sich zum ersten Mal ins Abiforum angemeldet, wie nervig.
+Das Stipendium wurde leider abgelehnt, jetzt muss ich mehr arbeiten.
+Ich kann nicht glauben, dass wir schon wieder eine Gruppenarbeit haben müssen.
+Der Dozent war total streng bei der mündlichen Prüfung gestern.
+Wir suchen noch jemanden für die Wohnung im dritten Semester.
+Mein Kind hat endlich seine erste Eins im Zeugnis bekommen, super stolz bin ich.
+Die Bibliothek ist heute überraschenderweise komplett leer gewesen.
+Ich muss meine Dissertation bis nächsten Monat einreichen oder droht ein Exmatrikulierung.
+Warum muss ich eigentlich jeden Abend noch extra Lernvideos schauen?
+Das Praktikum in der Firma war viel anstrengender als erwartet.
+Mein Vater versteht nicht, warum ich schon wieder umziehen muss für die Uni.
+Hast du den Link zur Vorlesungsende hochgeladen oder fehlt der noch?
+Die Zeugnisnote war besser als gedacht, da kann ich wenigstens aufatmen.
+Ich frag mich immer noch, ob meine Fachwahl überhaupt richtig war.
+Die Klausurenphase startet morgen und ich habe null Plan vom Stoff.
+Meine Tochter klagt ständig über zu viel Hausaufgaben im Kindergartenalter.
+Kann ich die Prüfungsaufgaben von letztem Jahr mal sehen zur Wiederholung?
+Das Bafög-Antragsformular ist so kompliziert, dass ich fast aufgegeben hab.
+Wir haben den Klassenausflug wegen des schlechten Wetters absagen müssen.
+Ich hoffe inständig, dass meine Bachelorarbeit akzeptiert wird nächstes Jahr.
+Die Hausaufgaben sind einfach zu viel für heute Abend.
+Ich muss morgen früh wieder um sechs aufstehen zum Unterricht.
+Mein Sohn will lieber Gaming machen als Mathe zu üben.
+Das Semester ist endlich vorbei, ich brauch dringend Pause.
+Hast du schon eine Stelle für das Praktikum gefunden?
+Die Klausur war echt schwer, ich hatte gar keine Zeit.
+Ich bezweifle stark, dass ich die Note schaffen werde.
+Bafög anrufen lohnt sich immer wieder, der Warteschleife ist ewig.
+Meine Tochter hat heute ihre erste Prüfung absolviert.
+Das Seminar ist total langweilig, der Dozent redet nur rum.
+Kann mir jemand den Link zur Vorlesung schicken?
+Ich schlafe schon seit drei Tagen um vier Uhr morgens ein.
+Die Abiturientenfeier war schön, aber es ging zu wild zu.
+Mein Masterstudium kostet mich langsam den Verstand wirklich.
+Wann wird eigentlich das Zeugnis fertiggestellt und versendet?
+Ich vergesse immer wieder mein Laptop zum Informatikunterricht.
+Die Lehrer an unserer Schule sind super hilfsbereit ehrlich gesagt.
+Studieren in Hamburg ist viel teurer als im Ruhrgebiet.
+Ich muss meine Bachelorarbeit bis Freitag abgeben leider.
+Mein Sohn hat die Eins im Mathetest endlich geschafft.
+Dissertation schreiben fühlt sich an wie endloses Warten auf nichts.
+Hast du den Termin für die Zulassungsprüfung schon vereinbart?
+Schulfahrrad reparieren kann ich mir finanziell gerade nicht leisten.
+Die Noten waren leider enttäuschend niedrig in diesem Semester wieder.
+Ich vermisste gestern eigentlich nur meine Schulbank richtig sehr.
+Welches Thema soll ich für meine Bachelorarbeit wählen?
+Die Klausur war echt hart, ich weiß gar nicht wie ich da durchkommen soll.
+Endlich Sommerferien, mal wieder Zeit zum durchatmen und entspannen.
+Das Studium kostet mich mehr Nerven als ich ursprünglich gedacht hatte.
+Kannst du mir bitte mal deine Notizen vom Biologiekurs schicken?
+Die Elternsprechtagsstermine sind immer so unübersichtlich im Kalender.
+Bafög beantragen ist immer eine Odyssee mit endlosen Formularen.
+Ich verstehe nichts von diesen Differentialgleichungen, das ist zu schwer.
+Meine Tochter ist stolz auf ihr bestandenes Praktikum beim Anwalt.
+Der Professor ist ganz schön streng bei den mündlichen Prüfungen heutzutage.
+Wir müssen uns entscheiden ob wir ins Internat oder zur Heimschule gehen.
+Mein Masterstudiengang startet im Oktober, hoffe dass es klappt.
+Hausaufgaben machen war früher viel einfacher als mit diesen Apps heute.
+Ich brauche dringend ein neues Lehrbuch für mein Wirtschaftsstudium nächsten Monat.
+Die Schulausflüge sind immer die besten Tage während der Schulzeit insgesamt.
+Kannst du mich mal abfragen vor dem Englischtest morgen früh?
+Mein Bruder schreibt gerade seine Dissertation und geht dabei kaputt langsam.
+Das neue Schuljahr startet schon wieder viel zu früh im August dieses Jahr.
+Ich liebe es wenn man endlich mal keine Prüfungen mehr schreiben muss.
+Die Notenverteilung in unserem Kurs war unglaublich unfair dieses Semester eigentlich.
+Mama ruft an ob ich die Unterlagen für die Ausbildung schon gesendet habe.
+Studieren macht nur Spaß wenn man auch wirklich was mit dem Stoff anfängt.
+Ich hab heute wieder zu lange geschlafen und verpasst den ersten Unterricht.
+Die Abschlussfeier war super, wir hatten alle einen schönen Tag gemeinsam.
+Mathe macht mir einfach keinen Spaß mehr.
+Wir haben morgen wieder eine Klausur in Geschichte.
+Mein Sohn hat heute sein Abi gemacht.
+Die Wohnung am Campus ist wirklich teuer geworden.
+Ich verstehe den Stoff von Herrn Müller nicht.
+Bafög kommt endlich nächste Woche auf dem Konto an.
+Kannst du mir mal die Übungsaufgaben schicken?
+Das Seminar ist total langweilig dieses Semester.
+Mein Kind lernt schon seit zwei Tagen für Physik.
+Die Note war leider viel schlechter als erwartet.
+Ich überlege, ob ich meinen Master mache.
+Die Hausaufgaben waren heute wirklich zu viel verlangt.
+Unser Professor hat den Termin für die Vorlesung verschoben.
+Endlich sind die Sommerferien hier.
+Die Zulassung zur Uni ist noch nicht da.
+Mein Bruder hat seine Abschlussprüfung bestanden.
+Strom im Wohnheim wurde wieder abgeschaltet.
+Ich brauche dringend Hilfe bei der Bachelorarbeit.
+Die Schule war heute voller als normal.
+Wir müssen bis Freitag das Referat vorbereiten.
+Die Notenverteilung in Chemie war ungerecht finde ich.
+Mein Kind kommt nie früher als zehn Uhr nach Hause.
+Das Praktikum war anstrengender als gedacht.
+Klar, ich kann dir beim Lernen helfen.
+Die Klausur war viel zu schwer dieses Mal.
+Die Klausur war echt nervig weil die Zeit nicht gereicht hat.
+Meine Tochter findet das Mathebuch total langweilig und kompliziert.
+Ich hoffe das Semester überstehe ich ohne zu versagen.
+Das Bafög kommt immer so spät und das stresst mich ganz schön.
+Wir müssen für morgen den Aufsatz endlich fertig bekommen.
+Der Dozent war heute wieder extrem streng und unhöflich.
+Mein Sohn hat die Klassenarbeit mit einer Eins bestanden.
+Ich kann mir die Masterstudiengänge finanziell einfach nicht leisten.
+Die Referendarin wird von den Kindern total gemocht und geliebt.
+Vor dem Abitur hatte ich richtig schlechte Laune wegen des Drucks.
+Kannst du mir deine Unterlagen für das Seminar kurz leihen?
+Die Schulaufsicht hat mir verboten Handy in der Pause zu nutzen.
+Ich muss noch drei Kapitel für die Soziologievorlesung lesen.
+Das Bafög-Formular ist so kompliziert dass ich fast aufgibe.
+Mein Kind lernt stundenlang trotzdem bleiben die Noten schlecht.
+Die Semesterferien waren viel zu kurz um richtig abzuschalten.
+Ich hab vergessen den Studienbeitrag zu überweisen und jetzt Stress.
+Die Lehrer erwarten immer noch mehr Engagement von uns Schülern.
+Meine Freundin hat die Abschlussprüfung glatt bestanden, super!
+Ich frag mich ob ich wirklich das richtige Fach studiere.
+Die Gruppenarbeit läuft nicht gut weil keiner was macht.
+Das Gymnasium war schwer aber es hat mir Spaß gemacht.
+Kann ich die Prüfung noch mal schreiben oder bin ich raus?
+Mein Bruder verdient als Azubi mehr als ich mit Bafög kriege.
+Die Hausaufgaben sind heute Abend wirklich viel zu aufwendig.
+Die Klausur ist morgen um acht, ich schlaf bestimmt nicht.
+Ich hab den Termin für die Prüfung total übersehen.
+Semesterferien sind endlich da, atemlos ehrlich gesagt.
+Das Seminar war langweilig wie immer in diesem Kurs.
+Wir müssen noch das Bafög Antragsformular ausfüllen heute Abend.
+Die Noten waren diesmal wirklich enttäuschend für sie beide.
+Kann mir jemand die Folien vom letzten Vortrag mailen?
+Ich sitze schon seit drei Tagen an meiner Masterarbeit.
+Die Schulaufsicht meckert wieder wegen zu lauter Gespräche.
+Abitur geschafft, jetzt erst mal richtig abschalten und chillen.
+Der Dozent ist total streng, ich hab ihn wirklich nicht gern.
+Hausaufgaben machen ist immer ein großer Kampf bei uns.
+Ich frag mich ob ich mein Studium nochmal wechseln soll.
+Die Lerngruppe trifft sich heute Abend in der Bibliothek.
+Meine Tochter hat ihre erste Eins mit Glanz erreicht.
+Das Praktikum war härter als ich mir vorgestellt habe.
+Wo finde ich eigentlich die aktuellen Prüfungsunterlagen online?
+Ich hoff sehr dass das Referat gut bei der Lehrerin ankommt.
+Stipendium beantragen macht doch wirklich nur Stress und Aufwand.
+Die Pausenzeit ist viel zu kurz für alle Kinder dort.
+Vielleicht mache ich im Sommer endlich mal den Fahrschuleingangstest.
+Mein Vater bezahlt immer noch die Miete fürs Wohnheim.
+Ich bin schon so nervös wegen der mündlichen Prüfung morgen.
+Die Schule fängt bei uns erst später an als früher.
+Die Klausur hatte gar nicht so schwer geklungen wie im Kopf.
+Ich muss morgen um fünf aufstehen für die Vorlesung.
+Kannst du mal schnell den Keks vom Pausentisch holen?
+Mein Sohn hat endlich seinen Führerschein gemacht und ist stolz.
+Das Semester war viel zu anstrengend, ich brauche Urlaub.
+Warum steht in der Aufgabenstellung keine Lösung dazu?
+Die Bibliothek ist zu voll, ich finde keinen Platz mehr.
+Ich hoffe inständig, dass das Ergebnis heute abend kommt.
+Der Dozent war wieder mal spät dran wie immer.
+Ich schaffe die Deadline wohl doch nicht rechtzeitig.
+Bafög beantragen ist so eine nervige Bürokratie-Falle eigentlich.
+Hast du den Link für die Vorlage im Portal gesehen?
+Mein Vater hat sich über das Zeugnis total gefreut heute.
+Die Prüfungsaufgabe war völlig unklar formuliert und irritierend.
+Ich versuche gerade, den Stoff noch schnell zu pauken.
+Die Ausländerbehörde ruft an, ich hab totale Panik jetzt.
+Welchen Berufswunsch soll ich im Formular überhaupt eintragen?
+Meine Schwester hat ihr Abitur endlich bestanden und partyt.
+Der Professor findet meine Argumentation irgendwie nicht schlüssig genug.
+Ich kann diesen Lärm in der Cafeteria einfach nicht ignorieren.
+Die Hausaufgaben waren heute mal wieder viel zu wenig verteilt.
+Mein Bruder verbringt seinen ganzen Sommer mit Lernen nur.
+Hoffentlich wird die Note mindestens eine Drei werden am Ende.
+Das Seminar war wirklich langweilig, ich hab fast geschlafen.
+Der Dozent hat wieder nichts erklärt nur gelesen.
+Mein Sohn findet das neue Mathebuch total langweilig.
+Kannst du mir bitte deine Unterlagen für die Klausur schicken?
+Die Semesterferien sind schon weg und ich hab nichts gelernt.
+Ich hoffe mal dass die Prüfungsausschreibung morgen kommt.
+Mama hat mich heute wieder wegen den Noten gerügt.
+Studieren ist teuer ohne Bafög komme ich nicht klar.
+Die Referendarin war super nett aber ganz nervös.
+Hast du schon deine Einschreibungsbescheinigung vom Studentenwerk?
+Ich schaffe die Bachelorarbeit bis zum Sommer vielleicht.
+Das Seminar zur Soziologie ist komplett überladen gelaufen.
+Wir müssen dringend mal über die Lernmethoden sprechen.
+Der Praktikumsplatz in der Firma ist endlich gesichert.
+Die Hausaufgaben waren heute wirklich eine Geduldsprobe für uns.
+Ich frage mich ob ich Master oder Job machen soll.
+Das Lerncafe am Campus war heute voll besetzt.
+Mein Freund hat seine Prüfungsanmeldung leider vergessen zu bestätigen.
+Die Noten aus der letzten Arbeit sind leider dürftig.
+Hoffentlich gibt es dieses Jahr keine Blockphase mehr.
+Ich muss meine Dissertation bis Ende Juni einreichen.
+Das Schulschloss ist wieder kaputt und niemand findet den Schlüssel.
+Vom Studium bleibt am Monatsende gar nichts übrig.
+Der Lehrer hat heute überraschend einen Test angekündigt.
+Mein Bruder bereitet sich intensiv auf die Fachhochschule vor.
+Die Klausur wurde leider wegen eines Streiks verschoben.
+Ich muss morgen wieder um sechs aufstehen für die Vorlesung.
+Die Hausaufgaben waren echt viel zu leicht heute.
+Mein Sohn hat seine Abschlussarbeit endlich abgegeben.
+Bafög ist kompliziert, aber ohne gehts gar nicht.
+Die Klausur am Freitag war total unzumutbar ehrlich gesagt.
+Wir planen schon die Semesterferien für nächsten Sommer.
+Das Studienfeldwechsel macht mir jetzt richtig große Sorgen.
+Die Noten sind leider wieder mal ganz schön durchwachsen.
+Ich kann nie rechtzeitig mit der Dissertation anfangen.
+Die Eltern haben extra Nachhilfe organisiert für Physik.
+Mein Zimmer ist voller Bücher seit dem Wintersemester.
+Der Dozent war heute wieder einmal sehr verschlafen.
+Abitur ist vorbei, jetzt kann ich endlich durchatmen.
+Die Prüfungsleistungen müssen bis Freitag eingereicht werden.
+Ich verstehe den Stoff in Mathematik einfach nicht.
+Die Schule ist dieses Jahr echt anstrengend gewesen.
+Mein Kind möchte unbedingt Medizin studieren nächstes Jahr.
+Das Geld für die Miete fehlt wieder komplett.
+Die Lerngruppe trifft sich morgen abend im Café.
+Ich habe Angst vor dem mündlichen Teil der Prüfung.
+Die Ausländerquote an unserer Uni ist gestiegen.
+Hausaufgaben machen bringt bei meinem Sohn nichts wirklich.
+Die Semesterferien nutzen wir für einen kleinen Roadtrip.
+Mein Abschluss wurde leider um ein Jahr verschoben.
+Stress pur, weil alle Termine auf einmal lagen.
+Mathe in der Mittelschule war wirklich nicht meins.
+Kann mir jemand die Lösungen für Physik schicken?
+Das Semester ist schon wieder vorbei, wow.
+Ich hab die Hausaufgaben auf den Tisch gelegt.
+Die Klausur hatte mehr Fragen als erwartet heute.
+Bafög kommt nächste Woche endlich auf dem Konto an.
+Wir müssen uns langsam um die Praktika kümmern.
+Der Dozent war wieder super nervig in der Vorlesung.
+Abiturnoten stehen morgen im Sekretariat online rum.
+Mein Sohn lernt nur in der letzten Nacht leider.
+Die Fachhochschule ist viel praktischer als die Uni.
+Hab vergessen mein Buch für Geschichte mitzunehmen heute.
+Wie siehts aus mit den Sommerferien dieses Jahr?
+Ich brauch dringend einen Mitschüler zum Lernen dringen.
+Die Dissertation macht mich langsam total fertig psychisch.
+Wann ist eigentlich die Deadline für die Bewerbung?
+Mein Junge hat eine Eins in Deutsch geschrieben super.
+Das Semesterende naht und ich habe gar nichts gelernt bisher.
+Studieren mit Kind ist echt hart aber es klappt doch.
+Ich muss dem Professor noch mailen wegen Terminverschiebung.
+Die Notenverteilung war dieses Jahr irgendwie unfair gemeint.
+Kannst du mir beim Hausaufgabenhelfen heute abend kurz?
+Mein Masterstudium kostet mich den letzten Nerv gerade echt.
+Wir freuen uns riesig auf die Sommerpause endlich mal.
+Hast du schon deine Prüfungskarte für nächste Woche bekommen?
+Ich hab den kompletten Montag in der Bibliothek verbracht.
+Die Klausur war eigentlich gar nicht so schwer wie erwartet.
+Das Bafög kommt immer zwei Tage zu spät aufs Konto.
+Hast du schon deine Zulassung für das Sommersemester bekommen?
+Die Dissertation verzehrt mich langsam aber sicher auf.
+Wir müssen die Schule wechseln, weil er sich nicht wohl fühlt.
+Der Dozent ist total streng und gibt kaum Feedback.
+Ich kann dieses Semester nicht wieder so viel trinken.
+Mein Kind hasst den neuen Mathelehrer wirklich bis zum Umfallen.
+Die Bewerbungsfrist für das Praktikum geht morgen aus.
+Hast du die Lösungsaufgabe für Physik schon erledigt?
+Das Abiturzeugnis lag gestern endlich im Briefkasten.
+Ich frag mich ernsthaft, ob der Master sich lohnt.
+Die Eltern haben keine Ahnung vom neuen Schulsystem.
+Mein Laptop ist kaputt gegangen kurz vor der Abgabe.
+Kannst du mir die Folien von der Vorlesung schicken?
+Der Azubi-Platz wurde leider nicht besetzt mit mir.
+Wir müssen dringend über seine Noten sprechen heute Abend.
+Die Semesterferien fangen erst nächste Woche an endlich.
+Ich hab die Matrikelgebühr schon online bezahlt gestern.
+Die Projektarbeit war Teamarbeit pur im wahrsten Sinne.
+Hast du deine Lernkarten für den Geschichtsquiz vorbereitet?
+Die Uni hat meinen Antrag auf Fristverlängerung abgelehnt.
+Mein Bruder hat sein Studium endlich in drei Jahren geschafft.
+Die Klausur ist morgen und ich hab keine Ahnung von Statistik.
+Muss den Sohn wieder zur Physiotherapie fahren nach dem Unterricht.
+Mein Stipendium wurde leider nicht genehmigt dieses Mal.
+Die Referendarin in Klasse 3b war super nett ehrlich gesagt.
+Hoffe der Master ist bald vorbei, ich bin ganz erschöpft.
+Warum müssen wir immer im Sommer so viel Hausaufgaben machen?
+Die Bibliothek ist heute wieder geschlossen wegen Baustelle drumherum.
+Ich glaube ich leg mich einfach aufs Abi hin und schwitze.
+Mama hat gefragt ob ich schon mal einen Praktikumsplatz gefunden habe.
+Das Seminar war langweilig, der Professor liest nur vor.
+Habe die Formel aufgeschrieben aber vergessenen sie wieder zu Hause.
+Der Stress mit der Bachelorarbeit wird mir langsam echt zu viel.
+Bafög Anträge ausfüllen ist immer so ein bürokratisches Chaos für mich.
+Die Prüfungsaufsicht war streng wie ein Adler beim Abiturprüfungen.
+Ich kann nicht glauben dass wir schon wieder in den Ferien sind.
+Der Dozent hat gesagt die Note sei grenzwertig, typisch Uni halt.
+Mein Junge bringt immer nur Einsen nach Hause zur Zeit.
+Die Schule macht mir mehr Angst als der eigentliche Job später.
+Hoffe ich schaffe es noch rechtzeitig vor dem Semesterende abzuliefern.
+Warum ist Mathe so schwer? Ich versteh einfach nichts davon heute.
+Die Eltern haben gesagt sie zahlen nicht für das zweite Jahr mehr.
+Mein Freund hat seine Dissertation endlich eingereicht gestern Abend.
+Das neue Schuljahr fängt wieder viel zu früh an im September.
+Ich muss dringend meine Notendurchschnitte nachrechnen wegen der Zulassung.
+Die Klausur morgen ist mein absolutes Worst Case Szenario.
+Ich muss dringend noch mal den Stoff für Biologie wiederholen.
+Meine Tochter bringt immer ihre Bücher von der Schule mit nach Hause.
+Bafög beantragen ist so ein komplizierter bürokratischer Irrweg.
+Hoffentlich kommt beim Abi kein Thema vor, das wir nicht geklärt haben.
+Der Prof liest gar keine Mails in den Semesterferien.
+Ich vermisste früher diese klare Struktur in der Schule eigentlich.
+Die Dissertation scheint mir ehrlich gesagt viel zu anstrengend.
+Kannst du mir mal die Zusammenfassung aus der Vorlesung schicken?
+Mein Sohn hat sein erstes Stipendium bekommen, das ist großartig.
+Am Montag geht es wieder los mit den unendlichen Vokabeln.
+Ich hab keine Lust mehr auf diese ewigen Gruppenarbeiten an der Uni.
+Die Noten im Zeugnis waren dieses Mal wirklich vielversprechend.
+Studieren heißt leider oft auch viel bürokratisches Papierkram.
+Ich bin total gestresst wegen der bevorstehenden Prüfungswoche.
+Warum muss ich eigentlich Chemie belegen, das interessiert mich gar nicht.
+Meine Nichte schreibt nächste Woche ihre Abschlussprüfung im Gymnasium.
+Das Seminar war total langweilig, der Dozent hat nur geredet.
+Ich brauche dringend einen Job neben dem Studium für die Miete.
+Die Hausaufgaben nehmen heute Abend einfach viel zu lange in Anspruch.
+Abitur gemacht und jetzt weiß ich noch immer nicht was werden soll.
+Der Bus zur Schule ist pünktlich mal wieder eine ganze Ewigkeit.
+Ich hoffe der Masterantrag wird bald endlich positiv beschieden.
+Schulangst ist echt nervig, besonders wenn der Vater drüber redet.
+Die Bibliothek ist in der Prüfungsphase leider immer komplett voll.
+Die Klausur zur VWL war echt nervenaufreibend gestern.
+Kann mir jemand die Aufgabenstellung von Mathe schicken?
+Ich hab heute Mittag schon mal wieder Hunger bekommen.
+Der Bafög-Bescheid ist immer noch nicht angekommen.
+Wir machen am Wochenende eine Lerngruppe mit drei Leuten.
+Die Hausaufgaben haben mir heute echt den ganzen Abend geraubt.
+Ich hoffe, dass die Noten im Abi ganz okay werden.
+Meine Tochter hat im Test nur eine vier geschrieben.
+Das Seminar in der dritten Reihe ist total langweilig.
+Ich muss noch bis morgen meine Bachelorarbeit überarbeiten.
+Warum hat die Lehrerin den Test nicht vorher angekündigt?
+Die Semesterferien waren viel zu kurz für mich.
+Ich hab keine Lust mehr auf diese ganze Uni-Bürokratie.
+Mein Nachbar arbeitet als Ausbilder in einer Firma.
+Die Abschlussfeier war dieses Jahr wirklich gut organisiert.
+Ich frage mich, ob ich den Master anfangen soll.
+Die Diss-Forschung zieht sich nun schon ewig hin.
+Kannst du mir bei der Chemieraufgabe nochmal helfen?
+Die Eltern haben gestern viel über das Studium geredet.
+Ich bin total gestresst wegen der anstehenden Prüfungen.
+Mein Kind kommt immer zu spät von der Schule nach Hause.
+Das Praktikum war eigentlich gar nicht so schlimm wie erwartet.
+Wir müssen am Freitag schon um acht Uhr da sein.
+Die Notenvergabe ist in diesem Kurs ziemlich willkürlich.
+Ich hab das Gefühl, ich lerne nur für die Prüfungen.
+Hoffentlich fällt die Klausur nicht zu schwer aus.
+Ich hab die ganzen Semesterferien nur zum Schlafen verbracht.
+Die Abschlussarbeit zermürbt mich langsam aber sicher total.
+Kann mir jemand die Vorlesungsunterlagen vom letzten Jahr zuschicken?
+Die Noten im Zeugnis waren dieses Mal echt enttäuschend.
+Ich muss übermorgen wieder um sechs aufstehen für den Praktikumsweg.
+Warum ist das Studium gerade so viel anstrengender als gedacht?
+Mein Kind hat endlich die Eins in Deutsch geschafft, super!
+Das Stipendium kam leider etwas später als erwartet bei mir an.
+Ich vermiss irgendwie die entspannten Pausen auf dem Schulhof.
+Der Dozent gibt uns jede Menge Hausaufgaben für nächste Woche.
+Habt ihr schon den Termin für das Erstgespräch festgemacht?
+Die Bibliothek ist immer so voll, dass man keine Stelle findet.
+Meine Tochter braucht einfach mehr Ruhe zum Lernen zu Hause.
+Ich frag mich ob ich wirklich in diesem Master bleibe.
+Die Prüfungsausschreibung ist total unklar formuliert, typisch.
+Wir feiern heute Abend das bestandene Abitur mit Freunden.
+Das Berufspraktikum war langweiliger als jede Vorlesung bisher.
+Kann ich meine Arbeit bis morgen Mittag noch einreichen?
+Mein Vater meckert wieder über die zu niedrigen Noten.
+Die Semesterferien beginnen endlich nächste Woche für uns alle.
+Ich brauche dringend Tipps zum effizienten Lernen vor Klausuren.
+Die Ausbildung dauert länger als ursprünglich geplant war.
+Hast du schon den Stundenplan für das neue Schuljahr?
+Meine Nichte ist so aufgeregt wegen der Schulausflüge.
+Mathe fällt mir echt schwer.
+Ich hoffe auf gut Glück eine Sechs beim Test.
+Die Hausaufgaben waren total langweilig heute.
+Meine Tochter vergisst immer ihre Bücher mit nach Hause.
+Bafög kommt wohl erst nächsten Monat wieder rein.
+Der Dozent ist extrem streng und ungeduldig.
+Prüfungsangst macht mir den gesamten Vormittag kaputt.
+Endlich Semesterferien, ich kann endlich mal schlafen.
+Die Referatsarbeit wird noch so ein Stress.
+Ich verstehe einfach nichts von dieser Statistik Vorlesung.
+Können wir bitte nicht schon wieder Matetest machen?
+Mein Sohn hat seine Noten leider verschlimmbessert.
+Die Bibliothek war komplett überfüllt zum Lernen.
+Abitur ist geschafft, jetzt erst einmal richtig feiern.
+Ich habe vergessen die Frist für die Anmeldung zu beachten.
+Das Semester startet viel zu früh dieses Jahr wieder.
+Welche Uni hast du dir eigentlich für den Master ausgesucht?
+Die Gruppenarbeit war eine absolute Katastrophe insgesamt.
+Lehrer rufen immer nur bei schlechten Nachrichten an.
+Doch ein Lob vom Professor würde mich glücklich machen.
+Ich muss dringend mein Zeitmanagement überdenken und verbessern.
+Die Klausur am Freitag macht mir schon Sorgen jetzt.
+Mein Kind lernt eigentlich ganz fleißig für die Schule.
+Ausbildung oder Studium? Ich weiß gar nicht so recht.
+Die Noten waren dieses Mal wirklich besser als erwartet.
+Meine Tochter hat im Matetest nur eine Drei bekommen.
+Ich sitz schon seit drei Tagen für die Klausur.
+Das Seminar war absolut langweilig und nutzlos.
+Hast du die Hausaufgaben für morgen schon gemacht?
+Der Dozent ist echt streng bei den Bewertungen.
+Ich brauche dringend ein neues Wörterbuch für Englisch.
+Die Semesterferien starten morgen endlich um elf.
+Mein Sohn findet die Schule total überfordert sein.
+Kannst mir mal schnell deine Notizen schicken bitte?
+Die Bibliothek war leider wieder komplett ausgebucht.
+Ich hab Angst, dass ich das Praktikum nicht besteh.
+Die Elternsprechtage sind immer so nervig für mich.
+Welches Modul soll ich im nächsten Semester belegen?
+Das Abifahrzeug ist schon lange reserviert und teuer.
+Ich muss meine Masterarbeit nächste Woche einreichen.
+Der Tutor war heute gar nicht erreichbar per Mail.
+Unsere Klasse hat einen neuen Klassenrat gewählt heute.
+Die Prüfungsleistungen waren dieses Jahr wirklich leicht.
+Ich verdienende Geld als Aushilfe neben dem Studium.
+Die Hausaufgaben machen meinem Kind richtig zu schaffen.
+Hast du den Link für die Vorlesung geschickt?
+Mein Papa zahlt immer noch meine Studiengebühren voll.
+Die Abschlussfeier war gestern abend super lustig.
+Ich verstehe einfach nichts von dieser Physikaufgabe.
+Das Stipendium wurde leider nicht genehmigt diesmal.
+Habe die ganze Nacht gelernt für die Physik Klausur.
+Das Seminar war total langweilig, der Professor schläft ein.
+Ich habe kein Bafög mehr und muss jetzt Jobben.
+Wann ist eigentlich der erste Schultag im neuen Jahr?
+Der Masterstudium kostet mich langsam den Verstand komplett.
+Kannst du mir mal deine Hausaufgaben zeigen Mama bitte?
+Die Abiturprüfung ging überraschend gut, bin erleichtert.
+Wir brauchen neue Schulhefte für das kommende Semester.
+Mein Sohn hat die Matheprüfung leider nicht bestanden.
+Die Uni ist viel teurer als ich es erwartet hatte.
+Hilfe, ich hab den Termin für die Anmeldung verpasst.
+Das Thema für meine Dissertation finde ich zu kompliziert.
+Endlich Ferien, kann endlich mal richtig durchschlafen heute.
+Der Lehrer hat wieder meine Hausaufgaben nicht geprüft doof.
+Ich überlege nochmal ob ich das Fach wechseln soll.
+Die Gruppenarbeit im Studium ist oft nur Zeitverschwendung.
+Mein Kind braucht dringend Nachhilfe in Englisch und Deutsch.
+Das Stipendium kam pünktlich, endlich mal etwas Positives.
+Prüfungsangst macht mich ganz nervös vor der nächsten Woche.
+Ich vermisste die Pausen auf dem Schulhof schon wieder.
+Die Ausbildung ist anstrengender als ein normales Studium.
+Hast du den Link für das Onlineportal gefunden schon?
+Meine Kinder haben heute Geburtstag und müssen trotzdem lernen.
+Das Bibliothekskatzenvideo hat mich vom Lernen abgelenkt total.
+Nächste Woche fängt die Klausurwoche wieder an bei uns.
+Endlich Sommerferien können die Kinder auch mal aus dem Lernstress.
+Meine Bachelorarbeit scheint sich in den Sand gesetzt zu haben.
+Kann mir bitte jemand die Formel für diese Physikaufgabe erklären?
+Die Klausur war echt schwerer als der letzte Test überhaupt.
+Wir suchen noch dringend eine Babysitterin während der Semesterferien.
+Hoffentlich klappt die Anmeldung für den Masterstudiengang dieses Jahr.
+Das Abi ist schon in vier Wochen und ich lerne immer noch nichts.
+Die Hausaufgaben dauern bei mir meistens bis weit in die Nacht.
+Ich hab heute wieder vergessen mein Bücher für den Unterricht mitzunehmen.
+Wir müssen nächste Woche schon wieder zum ersten Schultag pünktlich sein.
+Ich stress mich total wegen der Auswahl der Abiturfächer im Herbst.
+Der Lehrer hat heute nochmal extra lange für Fragen am Brett bleiben wollen.
+Meine Tochter wird von ihren Klassenkameraden leider ziemlich gemobbt an der Schule.
+Endlich kann ich mich mal richtig auf die Prüfungen vorbereiten ohne Job.
+Die Bafög-Zahlung kommt diesmal erst nächste Woche das nervt echt.
+Wir überlegen ob wir für den Nachschulschlusstag eine Party machen wollen.
+Die Referendarin in meinem Deutschkurs ist irgendwie total streng und langweilig.
+Ich muss am Wochenende noch drei Kapitel für die Wirtschaftsprüfung lesen.
+Mein Bruder hat gerade seine Gesellenprüfung bestanden ich bin so stolz auf ihn.
+Die Uni war dieses Semester viel anstrengender als das letzte Jahr auch.
+Kannst du mir bitte deine Notizen aus der Vorlesung zukommen lassen?
+Die Elternsprechtage sind immer so nervig weil man Angst vor Ärger hat.
+Die Hausaufgaben waren gestern echt viel zu anspruchsvoll.
+Meine Tochter meint immer, sie hat keine Zeit zum Lernen.
+Endlich ist Semesterferien, ich hab so großen Stress gehat.
+Das Studium kostet doch am Ende mehr als es bringt.
+Ich bin heute morgens fast noch ins Bett gefallen.
+Welche Uni nimmt eigentlich noch Nachrückbewerber auf?
+Mein Sohn hat endlich Bestnote in Englisch geschafft.
+Die Prüfungsangst wird mich dieses Jahr nicht loslassen.
+Bafög beantragen ist immer eine richtig nervige Sache.
+Hast du schon den Termin für deine Klausur reserviert?
+Das Abi war das schlimmste Wochenende meines Lebens bisher.
+Ich schreibe nächste Woche meine Masterthesis abgegeb, hoffentlich pünktlich.
+Die Lehrerin beschwert sich ständig über sein Rumspielen auf dem Handy.
+Können wir bitte endlich mal ins Praktikum starten?
+Meine Schwester studiert Medizin und hat fast kein Privatleben mehr.
+Das Zeugnis kam heute morgen unangemeldet bei mir im Briefkasten an.
+Ich brauche dringend einen neuen Platz im Vorlesungsgebäude.
+Die Hausaufgaben sind mir irgendwie total egal geworden jetzt.
+Warum muss man eigentlich so viel für die Schule lernen?
+Mein Kollege schreibt gerade an seiner Doktorarbeit rum.
+Das Semester war echt beschissen, ich war ständig überfordert.
+Hilfst du mir bitte beim Mathe-Übungskatalog morgen Nachmittag?
+Die Anmeldung für das nächste Jahr läuft noch immer nicht.
+Ich hab vergessen meine Unterlagen für die Aufnahmeprüfung einzuschicken.
+Endlich kann ich mich wieder um was Eigenes kümmern hier.
+Der Professor hat die Klausur nochmal verschoben.
+Ich muss dringend meinen Masterantrag einreichen.
+Meine Tochter findet den neuen Mathelehrer super stressig.
+Die Bücher für das nächste Semester sind viel zu teuer.
+Ich schlafe erst wieder richtig, wenn ich promoviert bin.
+Hast du schon mal über eine Ausbildung nachgedacht?
+Das Zeugnis sieht ganz schön düster aus heute.
+Wir brauchen dringend neue Schulhefte für den Anfang.
+Die Deadline für die Bachelorarbeit steht genau bevor.
+Ich frage mich, ob ich wirklich das richtige Fach gewählt habe.
+Elternabend war wieder mal eine riesige Katastrophe.
+Das Stipendium wurde leider abgelehnt, ärgerlich.
+Kann mir jemand die Physikaufgabe kurz erklären?
+Die Semesterferien waren viel zu kurz dieses Mal.
+Ich habe Angst vor der mündlichen Prüfung morgen.
+Mein Mann lernt schon die ganze Woche für den Führerschein.
+Die Noten im zweiten Halbjahr sind doch besser geworden.
+Studieren an einer Uni ist echt teuer im Endeffekt.
+Ich verstehe einfach nichts von diesem chemischen Prozess.
+Das Abiturzeugnis lag heute endlich im Briefkasten.
+Wir müssen uns bald um die Kita anmelden.
+Die Hausaufgaben haben heute Abend wieder ewig gedauert.
+Mein Bruder hat sich endlich für Jura entschieden.
+Kaffee und Panik sind meine besten Studienbegleiter jetzt.
+Die Hausaufgaben haben mich heute den ganzen Abend beschäftigt.
+Mein Sohn hat endlich seine erste Eins in Mathe geschrieben.
+Ich kann das Semester nicht mehr auskosten so viel stress ist.
+Bafög-Antrag kommt wohl erst nächste Woche bei der Behörde an.
+Die Abschlussarbeit zieht sich wie Kaugummi durch den Winter.
+Wir brauchen dringend einen Nachhilfelehrer für Physik und Chemie.
+Mein Bruder hat sein Praktikum heute erfolgreich abgeschlossen.
+Die Klausur war wirklich unfair formuliert, das ist kein Zufall.
+Ich freue mich schon auf die Semesterferien endlich mal ausschlafen.
+Das Abi war schwerer als erwartet aber ich habe bestanden.
+Welche Uni nehme ich besser für den Masterstudiengang?
+Die Hausaufgaben waren heute besonders umfangreich und nervig zugleich.
+Mein Kind hat seine Schularbeiten wieder verlegt ins Hausaufgabenheft.
+Ich schreibe nächste Woche die Prüfung zur Fachhochschulreife hoffentlich klar.
+Das Bafög reicht hinten und vorne nicht mal im Sommersemester.
+Die Lehrerin hat angerufen wegen des Verhaltens in der Pause.
+Welches Fach soll ich studieren? Ich bin so unentschlossen dabei.
+Das Abitur war stressiger als ich dachte besonders im Sommer.
+Ich muss dringend meine Referate für die nächste Woche vorbereiten.
+Mein Vater sagt immer dass Studium keine Garantie ist auf Erfolg.
+Die Bibliothek öffnet morgen erst um zehn was nervt mich tierisch.
+Ich habe meinen Bachelor endlich abgeschlossen und feiere heute Nacht.
+Das Praktikum war anstrengend aber lehrreich für die Zukunft wichtig.
+Welche Uni nehme ich besser für den Masterstudiengang überlegen mir.
+Die Klausur hatte echt nichts mit der Vorlesung zu tun.
+Mein Sohn hat endlich verstanden warum er lernen muss.
+Ich hab mein Bafög-Antragsformular wieder gefunden super.
+Die Hausaufgaben waren heute glücklicherweise nicht allzu schwer.
+Kann mir jemand die Lösungsaufgaben von letzter Woche schicken?
+Die Bibliothek ist in der Prüfungszeit komplett übervoll.
+Der Dozent war heute wieder total genervt über die Pünktlichkeit.
+Ich bin so froh dass die Semesterferien jetzt endlich losgehen.
+Die Abi-Prüfung in Deutsch hat mir richtig Stress gemacht.
+Wir müssen morgen unbedingt das Zeugnis unterschreiben lassen.
+Studieren ist doch viel stressiger als in der Schule war.
+Hat jemand die Mitschrift von dem Vorlesungsanfang für mich?
+Mein Bafög ist leider noch nicht auf dem Konto angekommen.
+Die Referendarin wird von den Kindern echt geliebt im Moment.
+Ich hoffe dass ich die Note fürs Abschneiden reicht.
+Wir diskutieren schon seit Monaten über das richtige Studium.
+Die Schule fängt nächstes Jahr doch um eine Uhr früher an?
+Mein Papa hat meine Prüfungsaufgaben nochmal Korrektur gelesen.
+Das Seminar war eigentlich ganz interessant obwohl es langweilig klang.
+Ich schreibe nächste Woche meine Bachelorarbeit fertig hoffe ich.
+Die Elternsprecher wollen morgen ein Treffen mit dem Schulleiter organisieren.
+Hast du schon mal überlegt ob du promovieren willst?
+Das Abiturzeugnis liegt endlich auf dem Tisch da ist Erleichterung.
+Wir müssen uns bald um den Kita-Platz für das nächste Jahr kümmern.
+Mathe ist mir einfach zu schwer geworden.
+Kannst du bitte mal beim Hausaufgaben helfen?
+Die Uni hat die Fristen nochmal verlängert.
+Mein Sohn braucht dringend einen neuen Rucksack.
+Ich schreib morgen meine Klausur in Volkswirt.
+Das Bafög kommt pünktlich auf dem Konto an.
+Wir haben dieses Semester wieder viel zu wenig Zeit.
+Die Noten sind leider ganz okay ausgefallen.
+Doku ist schon längst überfällig gewesen.
+Abitur war doch gar nicht so schlimm eigentlich.
+Ich muss am Wochenende wieder fleißig lernen.
+Warum gibt es heute keine Mathestunde?
+Das Studium kostet mich jeden einzelnen Cent.
+Mein Kind schwänzt immer die letzten Stunden.
+Die Professorin ist echt streng und unfreundlich.
+Hoffentlich reicht das für die Bestehensnote.
+Wir packen morgen alles in den Umzugswagen.
+Die Ausbildung endet bald mit der Prüfung.
+Ich brauch endlich mal wieder Urlaub von der Uni.
+Können wir die Hausaufgaben heute überspringen?
+Der Master läuft irgendwie nicht so wie geplant.
+Mein Mädchen ist heute sehr traurig nach Hause gekommen.
+Das Semester war doch gar nicht so anstrengend.
+Wo kann ich eigentlich meine Zeugnisse abholen?
+Ich frag lieber nochmal beim Sekretariat nach.
+Die Klausur morgen ist mein Todestag, glaub mir einfach.
+Ich muss endlich mal an meiner Masterarbeit schreiben, sonst wirds nix.
+Hat jemand die Lösungen für die Physikaufgabe? Ich verstehe null.
+Die Semesterferien sind zu kurz, das merkt man sofort.
+Das Stipendium wurde leider abgelehnt, da muss ich jetzt arbeiten.
+Könntest du mir mal deine Notizen vom Rechtswesen ausleihen?
+Die Prüfungsergebnisse kommen heute raus, bin ganz nervös.
+Ich hasse es so früh aufzustehen um zur Vorlesung zu gehen.
+Mama sagt immer wir sollen mehr ins Fachbuch reinschauen.
+Meine Abschlussnote war okay aber nicht unbedingt ein Traum.
+Das Bafög-Formular ist so kompliziert verfasst, wahnsinnig nervig.
+Wir haben die ganze Nacht vor dem Abitur geübt zusammen.
+Die Dozenten sind dieses Semester irgendwie gar nicht erreichbar.
+Ich überlege gerade ob ich das Studium wirklich abbrechen soll.
+Schüler sollten weniger Hausaufgaben bekommen, das ist doch klar.
+Meine Tochter hat endlich mal eine Eins in Mathe geschrieben.
+Die Bibliothek war wieder so voll dass man keinen Platz fand.
+Ich freu mich schon auf die nächste Pause in der Schule.
+Das Praktikum im Krankenhaus war anstrengend aber lehrreich.
+Kann mir jemand erklären warum wir das jetzt wieder lernen müssen?
+Die Zeugnisnote war besser als erwartet, das war eine Überraschung.
+Studieren kostet am Ende doch immer mehr Geld als gedacht.
+Ich muss meinen Fahrerschein endlich machen, die Prüfung naht.
+Die Projektgruppe macht mich wahnsinnig, alle tun nur nix.
+Mein Vater sagt ich soll lieber eine Ausbildung machen gehen.
+Die Klausur am Freitag hat mich völlig fertig gemacht.
+Ich hab das Seminar einfach verpennt, weil ich den Termin vergessen habe.
+Mama muss mir morgen wieder den Wecker stellen.
+Das Stipendium ist zwar klasse, aber der Antrag war eine Qual.
+Mein Sohn will plötzlich Medizin studieren, was soll ich dazu sagen?
+Die Hausaufgaben waren heute glücklicherweise gar nicht so schlimm.
+Ich schreib mich mal ins Wartezimmer für die Zulassung ein.
+Der Prof ist echt streng, man darf kein Wort verlieren.
+Meine Tochter hat endlich ihr Abi geschafft, wir feiern heute.
+Das Bachelorstudium hat länger gedauert als geplant, echt stressig.
+Kann mir jemand kurz die Formel zur Wiederholung schicken?
+Ich muss das Buch bis morgen zurückgeben, sonst kommt ein Pfand drauf.
+Die Prüfungsergebnisse stehen erst nächste Woche online, nervt total.
+Mein Arbeitgeber zahlt zwar mit, aber die Arbeit ist brutal.
+Ich bin so froh, dass die Semesterferien bald wieder da sind.
+Hat schon jemand den neuen Dozenten im ersten Block gesehen?
+Die Noten waren diesmal wirklich unfair verteilt, finde ich einfach.
+Ich übe jetzt erstmal für die mündliche Prüfung am Dienstag.
+Wir haben endlich einen Betreuer für die Abschlussarbeit gefunden.
+Schulden wegen Studiengebühren sind in meinem Land glücklicherweise verboten.
+Der Bus war mal wieder zu spät zur nächsten Stunde.
+Ich frag mal bei der Fakultät nach, ob man noch nachschreiben kann.
+Meine Kinder jammern schon wieder über den Wochenplan am Montag.
+Das Thema für die Präsentation hab ich mir leider selbst ausgesucht.
+Ich muss morgen schon um sechs aufstehen wegen der Klausur.
+Die Hausaufgaben waren endlich erledigt, ich bin kaputt.
+Wann kommt mein Bafög überhaupt wieder gutgeschrieben?
+Der Dozent war heute wieder komplett unverständlicherweise vortragend.
+Ich hoff really auf eine Eins in Englisch am Freitag.
+Das Seminarzimmer war wieder mal voll besetzt wie immer.
+Kannst du mir kurz erklären, was wir für Physik lernen?
+Die Prüfungsanmeldung lief gerade noch rechtzeitig vor der Deadline.
+Mein Sohn findet die neue Klassenlehrerin total lustig irgendwie.
+Ich stress mich unnötig wegen der mündlichen Abfrage morgen früh.
+Die Semesterferien sind viel zu kurz für richtige Erholung.
+Wir brauchen dringend neue Hefte und Stifte für den Schulstart.
+Die Bachelorarbeit frisst mir gerade richtig die Zeit weg.
+Ich hab meine Unterlagen fürs Studium komplett vergessen zu Hause.
+Welcher Professor gibt eigentlich am besten Noten bei der Uni?
+Die Abschlussfeier war schön, aber jetzt fängt der echte Stress an.
+Mein Kind lernt besser mit Musik im Hintergrund als leise.
+Das Praktikum war anstrengender als ich mir das vorgestellt hatte.
+Ich muss noch drei Literaturquellen für die Hausarbeit finden.
+Kommst du morgen zum Lernen in die Bibliothek mit?
+Die Note reicht genau so, aber mehr habe ich nicht erwartet.
+Mein Partner hat endlich seinen Master abgeschlossen, ich bin stolz.
+Wir sitzen wieder bis spät abends an den Schulaufgaben fest.
+Das Referat am Montag wird sicher schrecklich werden für mich.
+Ich frag einfach mal beim Sekretariat nach dem neuen Stundenplan.
+Die Hausaufgaben sind immer noch nicht erledigt zum Kotzen.
+Ich hab mir für die Klausur schon drei Skrieme ausgedruckt.
+Mama schreit wieder rum weil ich zu spät nach Hause komme.
+Mein Bafög kommt erst nächste Woche, das ist echt nervig.
+Wir haben morgen eine freie Stunde weil der Lehrer krank ist.
+Die Referatspräsentation vor der ganzen Klasse war mega peinlich.
+Kann mir jemand die Unterlagen für das Praxissemester schicken?
+Ich verstehe einfach nicht warum wir so viel Mathe üben müssen.
+Das Semester endet erst im August, ich brauch Urlaub jetzt schon.
+Mein Sohn hat endlich die Eins in Englisch geschafft, super!
+Die Bibliothek ist heute zu, wo soll ich jetzt lernen?
+Ich habe Angst dass ich mein Abitur nicht bestehe ehrlich gesagt.
+Die Seminararbeit wird immer länger als geplant leider sehr stressig.
+Hat jemand den Link zur Vorlesungsaufzeichnung von gestern Abend?
+Die Prüfungsnummer ist wieder falsch angegeben, wie oft schon eigentlich.
+Ich kann gar nicht glauben dass die Ferien schon vorbei sind.
+Der Dozent redet nur noch über seine eigenen Forschungsergebnisse langweilig.
+Wir müssen nächste Woche einen Test schreiben, bitte alle lernen also.
+Mein Bruder hat sein Bachelor mit Auszeichnung abgeschlossen, stolz darauf.
+Die Cafeteria an der Uni ist so teuer und schlecht wirklich.
+Ich habe keine Lust mehr auf diese endlosen Gruppenarbeiten honestly.
+Die Noten werden erst im Juli bekanntgegeben, das warte ich nicht ab.
+Kann ich meine Klausur vielleicht nachmachen wegen dem Unfall gestern?
+Kannst du mir kurz die Lösungsaufgabe schicken?
+Die Semesterferien waren viel zu schnell vorbei.
+Ich habe wieder mal bis Mitternacht gelernt und nichts behalten.
+Das Praktikum ist härter als ich dachte ehrlich gesagt.
+Wann fällt eigentlich die Benotung für das letzte Fach?
+Wir brauchen noch neue Hefter für die nächste Woche.
+Meine Freundin hat ihre Zulassung zur Doktorarbeit bekommen.
+Der Prof ist mega streng, man darf keine Fehler machen.
+Ich frag mich ob eine Lehre oder Abi besser wäre.
+Das Bafög kommt leider erst am Monatsende auf dem Konto an.
+Hat jemand Notizen von der heutigen Vorlesung im Kopf?
+Mein Kind nervt mit seiner Aufsatzkündigung seit Tagen.
+Die Klausur war überraschend einfach, ich bin erleichtert.
+Wir müssen die Gruppenarbeit bis morgen abgeben zwingend.
+Studienplatz sichern ist heutzutage ein echter Kampf.
+Meine Tante hat ihre Ausbildung zum Elektriker abgeschlossen.
+Ich schlafe nach der Prüfung erst wieder richtig aus.
+Die Mathe-Hausaufgabe macht mir echt Laune überhaupt nicht.
+Warum müssen wir im Deutschkurs immer so viel lesen?
+Das Master-Programm ist intensiv aber wirklich lohnenswert am Ende.
+Ich hoffe mein Lehrer hat den Fehler in meiner Bewertung bemerkt.
+Der Schulbus war wieder mal zu spät zur Hauptstunde.
+Kann ich morgen die Hausaufgaben nachreichen ohne Punkteabzug?
+Mein Bruder stresst wegen seiner mündlichen Prüfung im Biologie-Kurs.
+Die Uni-Bibliothek ist heute Mittag komplett überfüllt, Chaos pur.
+Ich muss morgen früh zum ersten Seminar und weiß garnicht was ich anziehen soll.
+Die Klausur war total unfair, da hat er Themen rausgenommen die wir nie durchgegangen sind.
+Endlich Sommerferien, das Haus wird jetzt bestimmt wieder zum Spielfeld werden.
+Ich habe Angst meine Bachelorarbeit nicht pünktlich abzugeben wegen der Blockaden.
+Das Zeugnis ist da und leider sind die Noten nicht so wie ich gehofft hatte.
+Wir brauchen dringend neues Geld für den Uni-Platz, Bafög ist längst verbraucht.
+Warum muss Mathe in der Schule immer so trocken erklärt werden?
+Ich lerne seit drei Stunden für das Referat und komme einfach nicht weiter.
+Die Praktikumssuche nervt total, jede Bewerbung bleibt ohne Antwort im Nirgendwo.
+Der Professor ist echt streng, er gibt garnix mit Durchschnittsleistungen durch.
+Ich hoffe meine Abschlussarbeit wird bald angenommen, der Stress ist enorm.
+Schulangst macht meinem Kind richtig zu schaffen, wir suchen schon Hilfe.
+Das Stipendium ist eine große Erleichterung für die finanzielle Lage hier.
+Ich vergesse nie wie nervig das Abi war, jeden Tag um fünf Uhr aufzustehen.
+Welchen Studiengang soll ich wählen? Ich habe überhaupt keine Idee.
+Die Hausaufgaben sind endlich fertig, jetzt kann ich endlich entspannen.
+Mein Ausbilder ist super nett und nimmt sich wirklich Zeit für mich.
+Die Semesterferien sind vorbei und wieder muss die Tortur beginnen.
+Ich bin so stolz auf meinen Sohn, er hat das Studium geschafft.
+Könnt ihr mal kurz nachschauen ob das Buch noch in der Bibliothek ist?
+Der Druck von oben wird immer größer, ich seh keinen Ausweg mehr.
+Schule war für mich immer eine Qual, bis zum Abi war es aus.
+Ich frage mich ob die neue Lehrerin auch so anspruchsvoll sein wird.
+Mein Sohn hat heute wieder seine Hausaufgaben vergessen.
+Die Klausur im Vorkurs war echt zum Kotzen.
+Ich hab endlich mein Abi geschafft, atme auf.
+Bafög-Antrag ausfüllen macht mir richtig viel Stress.
+Wann sind eigentlich wieder die Sommerferien?
+Meine Tochter findet ihre neuen Klassenkameraden toll.
+Die Dozentin gibt kaum Feedback auf die Hausaufgaben.
+Ich schwitz vor der mündlichen Prüfung in Deutsch.
+Ausbildung oder Studium, was ist besser für mich?
+Das Semesterticket kostet doch wirklich zu viel Geld.
+Die Nachhilfe in Mathe bringt gar nichts.
+Hoffentlich bekomme ich den Platz im Masterstudiengang.
+Die Elternabends waren immer eine Qual für uns.
+Schulfreier Tag ist das schönste Gefühl auf der Welt.
+Der Professor hat heute wieder vor sich hin gekramt.
+Mein Bruder hat sein Gesellenstück bestanden, stolz.
+Die Schulaufgabe in Englisch war diesmal ganz okay.
+Ich frag mich ob ich wirklich Jura studieren soll.
+Semesterferien sind vorbei und jetzt gehts weiter.
+Die Noten im Zeugnis haben meine Eltern schockiert.
+Prüfungsangst macht mir echt zu schaffen, hilfe.
+Ich brauche dringend neue Bücher für das nächste Fach.
+Das Praktikum war härter als erwartet.
+Schulwechsel in der Pubertät ist nicht einfach.
+Mathe ist einfach nicht mein Ding, ehrlich gesagt.
+Ich hab mir gerade die Klausuraufgaben durchgesehen, sieht gut aus.
+Mama, kann ich später zur Schule kommen? Ich bin müde.
+Die Semesterferien sind in zwei Wochen endlich mal vorbei.
+Mein Sohn braucht Hilfe beim Deutschreferat und weiß nicht wie er soll.
+Das Stipendium wird wahrscheinlich wieder abgelehnt werden, fürchte ich.
+Welche Bücher müssen wir für die nächste Woche mitbringen?
+Ich schreib heute Nacht meine Seminararbeit zu Ende, hoffentlich reicht das noch.
+Der Lehrer war echt streng bei der letzten Klassenarbeit gestern Abend.
+Wir haben das Thema Stromerzeugung jetzt schon drei Mal behandelt wirklich.
+Kannst du mir mal deine Unterlagen für die Prüfungslernphase ausleihen bitte?
+Die Uni Bibliothek ist zum Lernen total voll am Wochenende immer.
+Ich verstehe den Sinn von Hausaufgaben an Samstagen absolut nicht ehrlich.
+Das Abitur wird dieses Jahr bestimmt wieder viel schwerer sein als gedacht.
+Bafög Anträge sind der reinste Albtraum, das Formular hat mich verrückt gemacht.
+Meine Tochter hat heute ihren ersten Tag an der neuen Grundschule gehabt.
+Ich bräuchte dringend einen Nachteilsausgleich wegen meiner aktuellen Erkrankung leider.
+Die Gruppenarbeit läuft überhaupt nicht so wie wir uns vorgestellt haben wirklich.
+Kommst du morgen früh zur Übung mit oder hast du schon gelernt?
+Das Masterthesis Thema finde ich zwar interessant, aber die Recherche ist anstrengend.
+Ich habe vergessen mein Geheft für den Englischkurs mitzunehmen heute morgen.
+Der Dozent hat die Frist für die Abgabe um zwei Tage verkürzt plötzlich.
+Die Schule fängt erst wieder am Montag an, endlich mal durchschlafen können.
+Ich frag mich ob ich mein Studium wirklich noch durchhalten soll ehrlich gesagt.
+Ich muss unbedingt für das Physiktest lernen.
+Die Semesterferien sind viel zu kurz geworden heuer.
+Kannst du mir die Unterlagen vom letzten Vorlesungsthema schicken?
+Ich bin total gestresst wegen der anstehenden Klausurtermine.
+Der Masterstudiengang ist viel theoretischer als erwartet.
+Wir haben endlich das Abitur bestanden, PARTY!
+Mein Sohn hat in Deutsch eine Eins bekommen.
+Bafög-Antrag kommt wieder zu spät bei mir immer.
+Die Gruppenarbeit zieht mich nur unnötig vom Zeitplan weg.
+Ich hasse es, so früh zum Praktikum aufzustehen.
+Die Hausaufgaben sind heute echt viel zu umfangreich.
+Welche Uni bietet denn noch einen Platz für Psychologie?
+Dissertationsschrift muss ich bis nächsten Monat einreichen.
+Unser Lehrer ist heute krank ausgefallen wieder mal.
+Ich verstehe einfach diesen Matheaufgabentyp nicht wirklich.
+Das Studium kostet mich mehr Nerven als Geld eigentlich.
+Hat schon jemand das neue Skript hochgeladen irgendwo?
+Die Abschlussprüfung war deutlich schwerer als die Probe.
+Meine Kinder finden den neuen Lehrplan total unverständlich.
+Ich brauche dringend einen Stipendiumsschwerpunkt für mein Forschungsprojekt.
+Warum müssen wir eigentlich samstags noch Unterricht haben?
+Das Semesterende rückt schnell näher und ich habe noch null Zeit.
+Die Note im Zeugnis hat mich doch positiv überrascht heute.
+Ich hab gestern wieder bis drei Uhr gelernt.
+Das Seminar war ganz okay, eigentlich sogar interessant.
+Hoffentlich bekomme ich bald das Stipendium zugewiesen.
+Der Prof ist echt streng mit den Fristen.
+Wir haben morgen Physiktest und ich kann nichts.
+Die Bibliothek ist schon wieder komplett zu.
+Mein Sohn hat endlich sein Abi bestanden.
+Ich muss mich dringend für einen Praktikumsplatz bewerben.
+Die Gruppenarbeit läuft seit Wochen in die Hose.
+Hab vergessen meine Mappe mitzunehmen, doofe Situation.
+Das Thema der Hausarbeit finde ich total schwer.
+Bafög wird wohl erst am Monatsende überwiesen.
+Unsere Kinder haben heute schon Semesterferien.
+Der Dozent hat die Vorlesung abgesagt.
+Ich bin so nervös wegen dem mündlichen Teil.
+Die Noten sind bisher gar nicht soo schlecht.
+Wann genau ist eigentlich das Examen?
+Meine Nichte schreibt jetzt ihre Masterarbeit.
+Die Schule fängt nächste Woche wieder an, juchuu.
+Ich verfluche jeden Tag meine Wahlfächer damals.
+Kaffee ist mein einziger Lebensretter zur Klausur.
+Der Ausbildungsbetrieb will mich nicht verlängern.
+Hoffentlich reicht meine Punktzahl zum Bestehen.
+Die Uni-Emails werden kaum noch gelesen, ehrlich.
+Mein Papa zahlt immer noch für die Bücher.
+Die Seminararbeit muss bis morgen Abend abgegeben werden.
+Ich hab das komplette Wochenende für die Klausur gelernt.
+Mein Sohn findet den neuen Mathelehrer super nervig.
+Bafög kommt erst wieder im September, Geld weg.
+Warum ist der Stundenplan heute wieder so voll?
+Ich muss meine Bachelorarbeit endlich überarbeiten.
+Die Hausaufgaben waren gestern total aufwendig.
+Studieren ohne Elternsupport ist wirklich schwer manchmal.
+Welches Buch brauche ich eigentlich für die nächste Prüfung?
+Meine Tochter kann das Gedicht einfach nicht auswendig.
+Das Praktikum war viel anstrengender als erwartet.
+Ich frage mich, ob ich meinen Master noch schaffe.
+Die Noten wurden heute in der Schule bekannt gegeben.
+Vorlesung um acht Uhr ist echt grausam jeden Morgen.
+Kann mir jemand die Lösungen für die Physikaufgabe schicken?
+Die Semesterferien sind schon wieder zu Ende gelaufen.
+Ich muss dringend meinen Bibliotheksausweis verlängern lassen.
+Abiturstress macht mich echt ganz schön nervös heutzutage.
+Die Gruppenarbeit läuft momentan überhaupt nicht glatt bei uns.
+Mama, hast du die Unterschrift für das Klassenfahrtformular?
+Ich hoffe, dass ich den Dozenten noch erreiche heute.
+Meine Ausbildungsinhalte sind teilweise völlig veraltet und langweilig.
+Die Prüfungsleistungen dieser Woche waren wirklich zu viel des Guten.
+Die Hausaufgaben waren schon wieder nicht gemacht.
+Ich habe den Bus verpasst und komme zu spät zur Vorlesung.
+Mama meckert immer rum wegen meinen schlechten Noten.
+Kann mir jemand die Formel für den Test erklären?
+Das Semester ist endlich vorbei, ich muss nur noch schlafen.
+Die Klausur war einfacher als erwartet, hauptsache ich bestande sie.
+Woher soll ich das Geld für die Miete nehmen?
+Ich lerne schon seit drei Tagen und weiß immer noch nichts.
+Der Professor ist echt streng, besser pünktlich sein.
+Meine Tochter findet ihre neue Schule gar nicht toll.
+Die Ausbildung zahlt zwar wenig aber lernt man viel dazu.
+Bafög-Antrag steht an, hoffentlich klappt es dieses Mal.
+Ich kann einfach nicht motiviert werden zum Lernen.
+Das Referat war total langweilig, jeder hat geschlafen.
+Welches Buch muss ich denn für die nächste Sitzung kaufen?
+Der Dozent hat sich verschrieben und niemand weiß die Lösung.
+Mein Kind kommt mit so vielen Aufgaben kaum noch zurecht.
+Die Abschlussprüfung steht an und ich bin nervös wie der Teufel.
+Studieren ist doch viel schwerer als in der Schule war.
+Ich muss unbedingt mein Master-Topic finden, sonst ist es zu spät.
+Die Elternabends waren immer Stress pur für mich.
+Hat schon jemand die Zusammenfassung aus der letzten Vorlesung?
+Ich hoffe meine Note reicht fürs Überstehen des Kurses.
+Die Semesterferien beginnen morgen endliche kann ich wieder entspannen.
+Warum muss man am Montag wieder um sieben Uhr aufstehen?
+Meine Tochter braucht dringend neue Schreibutensilien für die Schule.
+Die Klausur wurde total unfair gestellt, ich bin wütend.
+Ich habe mein Stipendium bekommen, endlich ein wenig Geld mehr.
+Hör mal auf zu jammern und mach deine Hausaufgaben fertig.
+Das Semester ist vorbei und ich hab immer noch nichts gelernt.
+Die Uni Bibliothek war komplett zugemüllt, typisch vor Prüfungszeit.
+Kann mir jemand die Formel für Physik nochmal kurz erklären?
+Ich hasse es wie sehr ich meine Abschlussarbeit verzockt habe.
+Das Bafög kommt schon wieder zwei Wochen zu spät ins Konto.
+Wir müssen nächste Woche das Referat über den Ersten Weltkrieg halten.
+Meine Eltern drücken auf mich, doch Jura zu studieren statt Kunst.
+Die Ferien sind zu kurz für so viel versäumtes Lernen.
+Ich hab die Zulassung für den Master bekommen, bin erleichtert.
+Schlafenszeit ist vorbei, jetzt wird noch bis Mitternacht gelernt.
+Der Dozent ist total nervig, der macht nie Pausen bei der Vorlesung.
+Mein Kind kommt nicht mehr mit in der Matheklausur zurecht.
+Die Gruppenarbeit läuft echt schlecht, alle machen zu wenig mit.
+Ich überlege mir ob ich das Studium nochmal aussetzte wegen Burnout.
+Das Abi war der krönende Abschluss meiner jahrelangen Anstrengung.
+Welche Uni bietet eigentlich die beste Unterstützung für Auszubildende?
+Mein Zimmer ist ein Chaos weil ich überall Bücher liegen habe.
+Die Prüfung wurde leider nicht bestanden, nächstes Mal versuch ichs nochmal.
+Ich frag mich ob der Aufwand für die Promotion sich lohnt.
+Die Abschlussprüfung war echt anstrengend, hoffe mal das beste.
+Ich muss morgen um sieben aufstehen für den Sportunterricht.
+Mein Sohn hat endlich seine Zeugnisse bekommen, wir sind stolz.
+Das Thema für die Klausur war völlig falsch vorbereitet worden.
+Kannst du mir bitte deine Mitschriften von der Vorlesung schicken?
+Die Noten dieses Semesters waren leider eher mau, ich ärgere mich.
+Endlich Semesterferien, ich brauch diese Pause dringend jetzt.
+Bafög beantragen ist so eine nervige und lange Bürokratie-Odyssee.
+Ich weiß gar nicht mehr, was ich eigentlich später werden will.
+Die Hausaufgaben in Mathe machen überhaupt keinen Spaß mir heute.
+Meine Tochter hat wieder einmal die Schularbeiten komplett vergessen.
+Das Abi war zwar stressig, aber jetzt ist erstmal alles frei.
+Für die Masterarbeit finde ich einfach keine gute Struktur vor.
+Der Dozent war ganz nett bei der Besprechung heute Nachmittag.
+Ich habe Angst, dass ich das Fach Psychologie nicht schaffe.
+Die Schule fängt nächste Woche wieder an und ich hasse es.
+Mein Bruder hat seine Lehrabschlussprüfung glatt zum ersten Mal bestanden.
+Das Bafög kommt vielleicht nächsten Monat oder auch erst später.
+Ich lerne seit drei Stunden für die Englischklausur und verstehe nichts.
+Welches Studienfach ist denn am besten bezahlbar im Beruf später?
+Die Eltern haben heute Abend das Elterngespräch in der Schule besucht.
+Meine Dissertation geht voran, obwohl ich kaum Zeit finde dazu.
+Die Noten im Durchschnitt waren okay, reicht für den Schnitt hoffentlich.
+Ich bin froh, dass die Prüfungszeit jetzt endlich mal vorbei ist.
+Das Gymnasium war für meinen Sohn einfach zu viel Stoff pro Woche.
+Kann mir jemand sagen, wie man sich fürs Stipendium richtig bewirbt?
+Die Klausur war echt schwer, ich hab nichts verstanden.
+Mein Sohn will unbedingt Jura studieren, obwohl er haßt Zahlen.
+Bafög kommt nächste Woche endlich wieder auf meinem Konto an.
+Ich muss bis morgen die Hausaufgaben fertig kriegen, sonst gibts Ärger.
+Das Seminar war eine reine Zeitverschwendung, ehrlich gesagt.
+Viel Glück beim Abi, du rockst das bestimmt hin.
+Die Dozentin ist echt streng, keiner traut sich zu sprechen.
+Hast du schon deinen Platz für die Vorlesung gefunden?
+Ich bin komplett ausgebrannt nach diesen drei Klausuren.
+Die Elternabends waren langweiliger als meine eigenen Prüfungen.
+Meine Tochter hat endlich das Zeugnis mit guten Noten bekommen.
+Wann fangen eigentlich wieder die Sommerferien an hier?
+Ich brauch dringend Hilfe bei dieser Statistik Aufgabe.
+Das Studium ist stressiger als ich mir vorgestellt habe.
+Der Bus zur Schule ist heute wieder mal zu spät.
+Kannst du mir deine Notizen von der Vorlesung schicken?
+Meine Ausbildung läuft gut, ich lerne viel dabei.
+Die Masterarbeit zieht sich schon seit Monaten in die Länge.
+Ich hab vergessen das Buch für morgen mitzunehmen doof.
+Das Gymnasium war total überfüllt heute Morgen im Flur.
+Vom Elternbeitrag werde ich wahrscheinlich nicht profitieren können.
+Hast du Lust zusammen zu lernen am Wochenende?
+Die Projektpräsentation ging glatt, alle waren zufrieden.
+Ich vermisse die lockere Atmosphäre aus der Schulzeit.
+Doktorandendasein bedeutet leider viel Arbeit und wenig Geld.
+Die Klausur war schwerer als erwartet und ich hab so viel vergessen.
+Ich sitz schon drei Stunden am Essay und finde einfach keine richtige Struktur.
+Das Semesterferien waren viel zu kurz zum Durchatmen nach den Prüfungen.
+Hat jemand die Zusammenfassung vom letzten Vorlesungstermin für mich?
+Die Note im Zeugnis hat mich doch ein bisschen enttäuscht eigentlich.
+Meine Tochter nervt ständig mit ihren Hausaufgaben die ganze Familie kaputt.
+Bafög kommt immer zu spät und dann muss ich erstmal Geld leihen.
+Ich hoffe echt dass ich mein Abitur dieses Jahr endlich bestehen kann.
+Der Masterstudiengang ist viel intensiver als der Bachelor war ehrlich gesagt.
+Wir haben heute wieder über drei Stunden Mathe gepaukt ohne Pause.
+Kann mir jemand erklären wie man die Formel jetzt richtig anwendet?
+Die Dissertation zieht sich jetzt schon in die Länge und ich bin genervt.
+Mein Vater fragt immer wann ich fertig werde mit dem Studium endlich.
+Ich hab meine Unterlagen vergessen und muss morgen extra rüberschauen.
+Warum müssen wir eigentlich so früh aufstehen für den ersten Unterricht?
+Ich drücke die Daumen dass die Benotung heute positiv ausfällt.
+Die Semesterarbeit war viel Arbeit aber das Ergebnis stimmt mich zufrieden.
+Mein Kind bekommt immer Lob von der Lehrerin wegen seines Einsatzes.
+Ich überlege ernsthaft ob ich das Fach wechseln soll oder nicht.
+Schlafmangel ist bei Prüfungen echt ein großes Problem für meine Konzentration.
+Hast du schon deine Anmeldung für die Vorlesung abgeschlossen heute Vormittag?
+Die Elternabendsitzung war wieder mal ziemlich lang und wenig spannend.
+Ich freu mich riesig auf die Pause nach dieser stressigen Prüfungsdusche.
+Ich hab schon wieder mein Buch vergessen zu Hause.
+Die Klausur lief echt schlecht, bin total genervt.
+Bafög kommt bestimmt erst nächste Woche auf dem Konto.
+Mein Sohn muss dringend seine Hausaufgaben machen.
+Das Masterstudium wird schwerer als ich dachte.
+Kann jemand die Folien von der Vorlesung mailen?
+Die Ferien fangen endlich morgen, endlich mal Luft holen.
+Ich verstehe einfach nicht diesen Differentialrechnung Kram.
+Die Schule hat wegen Baustelle nur Halbtagsunterricht.
+Meine Tochter ist stolz auf ihre Eins in Deutsch.
+Der Dozent war heute echt streng und genervt.
+Wie viel Stunden muss man pro Woche arbeiten?
+Ich hab mein Laptop im Zug stehen lassen.
+Das Seminar ist absolut langweilig, totaler Mist.
+Mein Mann macht gerade seine Abschlussprüfung im Büro.
+Die Noten waren leider nicht so wie erhofft.
+Wir müssen uns überlegen ob wir Bafög beantragen.
+Die Prüfungsaufsicht hat mir das Handy abgenommen.
+Ich lerne seit drei Tagen für die Bio Klausur.
+Das Schulgeld ist wirklich unfair und zu hoch.
+Mein Bruder will nächstes Jahr wiederholen bleiben.
+Die Bibliothek war heute voll besetzt, kein Platz.
+Ich brauch dringend Pause vor dem Abitur Stress.
+Welche Uni hat das beste Ranking für Jura?
+Die Eltern sollten öfter nach den Schulaufgaben fragen.
+Könntest du mir mal die Matenoten von letzter Woche schicken?
+Mein Sohn hat wieder sein Geheft in der Schule vergessen.
+Die Bachelorarbeit frisst mir gerade das ganze Leben auf.
+Hast du schon den Termin für deine mündliche Prüfung?
+Ich hasse es, wenn ich um drei Uhr morgens noch lerne.
+Das Stipendium wurde leider abgelehnt nach zwei Jahren.
+Wir müssen dringend über die Lernzeiten mit ihm sprechen.
+Meine Nichte ist froh, dass die Semesterferien endlich losgehen.
+Die Vorlesung war total chaotisch und absolut unstrukturiert.
+Kannst du mir mal deine Mitschriften von Wirtschaftsnachweis leihen?
+Ich habe Angst, dass ich das Examen nicht bestanden habe.
+Die Elternsprechstunde verschiebt sich anscheinend auf nächste Woche.
+Mein Zimmer ist komplett zugemüllt mit alten Prüfungsunterlagen.
+Das Fach Deutsch fällt mir wirklich schwer in der Oberstufe.
+Hast du schon deinen Auszug aus dem Immatrikulationsbescheid gemacht?
+Die Hausaufgaben machen heute Abend einfach keinen Spaß mehr.
+Ich bin so erleichtert, dass die Klausuren endlich vorbei sind.
+Unser Kind will unbedingt eine Lehre statt einer Gymi-Prüfung.
+Die Bibliothek ist zu dieser Uhrzeit komplett überfüllt und laut.
+Hoffentlich bekomme ich meine Noten bis Freitag nach Hause geschickt.
+Das Studienplatzverfahren war dieses Jahr wirklich nervenaufreibend.
+Ich muss mich dringend für das nächste Praktikum bewerben.
+Meine Mutter meckert wieder wegen der zu hohen Lernkosten.
+Der Dozent ist extrem streng bei den Abgabeterminen.
+Hast du einen Platz auf der Bank in der Cafeteria frei?
+Hausaufgaben machen ist mein absolutes Lebensumfeld geworden.
+Ich muss dringend noch mal zur Wiederholung schreiben.
+Mein Sohn wollte einfach nicht aufstehen zum Unterricht.
+Die Semesterferien waren viel zu kurz für mich.
+Wir haben uns endlich für einen Studiengang entschieden.
+Das Referat morgen habe ich noch gar nicht vorbereitet.
+Kann mir jemand die Lösung von Aufgabe drei schicken?
+Ich bin total gestresst wegen den anstehenden Klausuren.
+Mein Kind hat zum ersten Mal eine Eins bekommen.
+Die Uni kostet mehr als man denkt, honestly.
+Hast du schon gehört wann das Abi genau ist?
+Ich verhasse diese ewigen Gruppenarbeiten in der Schule.
+Der Dozent war heute wieder mal ziemlich genervt.
+Wir sparen jeden Pfennig für die Bücher im Fachhandel.
+Meine Tochter findet den Physikunterricht total langweilig.
+Die Prüfungsleistungen waren heuer wirklich anspruchsvoll.
+Ich frag mich ob ich noch ein Jahr bleiben soll.
+Das Bafög-Antragsformular ist so verwirrend und kompliziert.
+Er hat die Nachmittagskurse heute ganz bewusst versäumt.
+Wir freuen uns schon auf die Sommerferien mit dem Kind.
+Die Abschlussfeier war richtig schön, obwohl es geregnet hat.
+Ich muss meine Masterarbeit bis Freitag einreichen, leider.
+Mein Mann arbeitet gerade hart an seiner Dissertation.
+Schule war für mich immer eine Qual, ehrlich gesagt.
+Das Stipendium wurde leider abgelehnt, ich bin geschockt.
+Die Hausaufgaben waren heute wirklich viel zu viel Aufwand.
+Ich hab die Klausur total im Kopf, aber wie soll das gehen?
+Mein Sohn meckert immer über den Schulaufgaben Berg am Wochenende.
+Das Stipendium kommt erst nächste Woche auf mein Konto.
+Wer hat eigentlich gesagt dass wir morgen einen Test schreiben?
+Die Bibliothek ist wieder geschlossen während der Semesterferien.
+Ich verstehe nicht warum meine Tochter so faul in der Schule ist.
+Der Professor war heute extrem streng bei seiner Vorlesung zur Wirtschaftswissenschaft.
+Bafög wird mir bald ausgehen und die Miete muss her.
+Meine Abschlussarbeit ist fast fertig nur die Formatierung nervt noch.
+Das Gymnasium macht meinen Kindern einfach zu viel Druck am Tag.
+Ich hoffe dass ich die Zulassung für mein Traumstudium kriege.
+Warum müssen wir immer so viele Seiten lesen bis zur Prüfung?
+Der Betreuer meiner Masterarbeit antwortet seit drei Wochen gar nicht.
+Mein Mädchen hat heute wieder eine Eins in Englisch geschrieben.
+Die Ausbildungsstelle war super stressig aber ich lerne echt viel dazu.
+Ich sitz schon seit zwei Stunden an dieser einen Matheaufgabe.
+Kann mir jemand die Folien von der Wirtschaftsinformatik Vorlesung schicken?
+Das Abitur ist endlich vorbei und ich kann durchatmen wieder mal.
+Mein Studentengeld reicht für Kaffee und Brötchen im Monat nur knapp.
+Die Lehrkraft hat mich heute wegen meines Fehlverhaltens kritisiert.
+Ich weiß gar nicht ob ich überhaupt weiter studieren soll ehrlich gesagt.
+Die Noten von der letzten Schularbeit sind echt enttäuschend gewesen für mich.
+Dissertation schreiben ist anstrengender als man sich das vorgestellt hätte vielleicht.
+Mein Sohn braucht endlich mehr Unterstützung bei seinen Schulproblemen im Moment.
+Ich muss morgen um sechs aufstehen für den Chemietest.
+Meine Tochter hat eine Eins im Deutsch-Diktat bekommen.
+Ohne Bafög wäre ich schon längst durchgefallen.
+Professor Müller ist wirklich doof mit seinen Vorlesungen.
+Ich hab die ganze Nacht geübt für die Klausur.
+Die Semesterferien fangen erst nächsten Dienstag an.
+Das Referat morgen habe ich leider noch nicht vorbereitet.
+Warum muss man eigentlich am Wochenende Hausaufgaben machen?
+Die Noten stehen endlich online, mal sehen wie es war.
+Ich strecke mein Budget bis zum Monatsende.
+Der Dozent hat die Deadline wieder verschoben.
+Mein Kind weint immer vorm Abiturschlussfest.
+Hast du schon einen Platz für den Studiengang?
+Die Praktikumsstelle war total anstrengend aber lehrreich.
+Ich kann mir das Masterstudium nicht leisten.
+Die Elternabende bei uns sind immer so langweilig.
+Schlussendlich ist die Diplomarbeit doch gar nicht schwer.
+Wer hat den Stift geliehen, ich finde ihn nicht.
+Der Klausurtermine steht leider am selben Tag wie der Arzt.
+Mein Bruder hat schon sein Dr. in Medizin.
+Die Schulkleidung finde ich total überteuert und hässlich.
+Ich muss mich noch für die Nebenfächer entscheiden.
+Das Lernen fällt mir gerade einfach so schwer.
+Hat jemand die Mitschriften von der letzten Vorlesung?
+Ich muss morgen früh zur Klausur aufwachen.
+Die Hausaufgaben waren heute echt anstrengend.
+Das Semester ist schon wieder rum gelaufen.
+Hoffentlich besteht er die mündliche Prüfung bald.
+Die Bibliothek war komplett überfüllt gestern Abend.
+Ich krieg das Geld vom Bafög erst später.
+Warum müssen wir immer so viel lernen?
+Meine Tochter braucht neue Schulbücher für die Klasse.
+Der Prof ist heute krank ausgefallen, yay.
+Abiturstress nervt mich schon im November wirklich.
+Kannst du mir mal die Notizen schicken bitte?
+Ich hab meine Präsentation doch wieder vergessen.
+Die Ausbildung zahlt besser als gedacht dieses Jahr.
+Mein Kind wird nachts nicht mehr aus dem Bett geschubst.
+Ich muss dringend meinen Bachelor anfangen.
+Das Praktikum war total langweilig und sinnlos.
+Hast du schon deine Semesterbeiträge gezahlt?
+Die Lehrerin findet meine Zeichnungen toll heute.
+Ich scheitere immer wieder bei der Chemieprüfung.
+Mein Bruder hat sein Master endlich geschafft.
+Die Ferien sind mir schon zu kurz dieses Mal.
+Welchen Dozent soll ich für die Vorlesung nehmen?
+Ich hab Angst vor der Klausur nächste Woche echt.
+Die Schulaufgabe war irgendwie unfair gestellt worden.
+Ich kann einfach nicht motivieren mich für die Klausur vorzubereiten.
+Die Semesterferien waren viel zu kurz für so einen Ausbruch.
+Hast du schon deinen Bafögantrag dieses Jahr bei der Agentur eingereicht?
+Dissertation schreiben nervt mich absolut total bis zum Ärgernis.
+Das Zeugnis kam heute an und die Noten sind wieder mies.
+Wir müssen dringend über die Schulauswahl für das nächste Jahr sprechen.
+Vorlesungsaufzeichnungen ansehen ist langweiliger als echte Vorlesungen zu besuchen.
+Ich hab mein Praktikum in der Firma gefunden, super glücklich!
+Die Abiturientscheidung fiel schwer zwischen Gymnasium und Fachoberschule.
+Mein Kind braucht unbedingt eine Lernpatin für Mathe oder Physik.
+Der Dozent hat die Deadline wieder um zwei Wochen verschoben.
+Ohne Stipendium könnte ich mir mein Studium gar nicht leisten.
+Ich schwöre, dass ich keine Hausaufgaben gemacht habe, es stimmt wirklich.
+Die Abschlussfeier war schön, aber wir haben schon getrauert.
+Welches Fach ist denn jetzt am besten für die Zukunft einsetzbar?
+Mein Vater wollte eigentlich Ingenieur machen, aber das kam anders.
+Die Prüfungsordnung hat sich geändert und ich weiß nicht woran ich bin.
+Ich brauche dringend einen neuen Platz in der Bibliothek zum Lernen.
+Die Elternkonferenz nächste Woche wird bestimmt wieder anstrengend sein.
+Kannst du mir kurz die Formel für die Wahrscheinlichkeit erklären bitte?
+Mein Bruder hat seinen Master abgeschlossen und ist jetzt arbeitslos.
+Ich habe mein Praktikum in der Firma nicht mehr gefunden, Mist!
+Das Abitur war stressiger als gedacht und ich bin fertig damit.
+Ich hab die ganze Nacht gelernt und immer noch nichts verstanden.
+Die Klausur morgen sieht echt nicht gut aus für mich.
+Das Seminar am Freitag ist eigentlich gar nicht so schlimm.
+Kannst du mir mal deine Mitschriften vom Physikkurs zeigen?
+Ich hab meine Bachelorarbeit endlich abgegeben, Gott sei Dank.
+Mein Tochter schimpft immer über die zu viel Hausaufgaben.
+Das Stipendium wurde leider abgelehnt, jetzt bin ich ratlos.
+Wir müssen uns noch um die Einschreibung an der Uni kümmern.
+Die Prüfungsleistung war viel einfacher als alle befürchtet haben.
+Ich vermisste die lockeren Sommerferien von meiner Schulzeit.
+Der Dozent ist total streng, man muss genau aufpassen.
+Hast du schon deinen Platz für die Vorlesung gesichert?
+Die Ausbildung dauert drei Jahre und das Gehalt steigt langsam.
+Mein Bruder hat sein Abitur mit einem sehr guten Schnitt geschafft.
+Ich sitze seit drei Stunden in der Bibliothek und nichts klappt.
+Kommst du auch zum Studienfahrt-Event am Wochenende nächster Monat?
+Ich muss bald meine Zertifikatsprüfung für die Meisterschaft machen.
+Das Fach Englisch fällt mir immer noch viel leichter als Latein.
+Meine Freundin studiert Medizin und hat kaum Zeit für sich.
+Die Schulleiterin wollte morgen ein kurzes Gespräch mit mir führen.
+Wir haben gerade die ersten Ergebnisse der Klausuren bekommen.
+Ich hoffe wirklich dass ich den Master nächstes Jahr schaffe.
+Die Klausur am Montag hat mich ganz schön unter Druck gesetzt.
+Ich muss morgen endlich mal loslegen mit der Vorlesungsfolien.
+Meine Tochter steht vor der Wahl zwischen Gymnasium und Realschule.
+Das Semester beginnt nächste Woche, ich freu mich schon wieder.
+Wer kann mir kurz die Formel für die Physik Hausaufgabe schicken?
+Der Dozent war heute echt langweilig beim Vortrag zur Wirtschaft.
+Ich hoffe das Ergebnis kommt gut, nach dem Stress vorhin.
+Bafög Geld ist leider schon mitten im Monat aufgebraucht.
+Die Prüfungsordnung hat sich geändert und ich hab davon nichts mitbekommen.
+Mein Sohn schreibt morgen sein Abi in Deutsch, viel Erfolg ihm.
+Ich sitze schon seit drei Stunden an meiner Masterthesis.
+Die Noten waren diesmal deutlich besser als im Vorjahr.
+Ausbildung bei der Bank klingt nach ner sicheren Zukunft für mich.
+Ich verfluche die Hausaufgaben am Wochenende, echt nervig das alles.
+Der Studienplatz war knapp, aber ich hab ihn geschafft.
+Semesterferien bedeuten endlich mal wieder ein bisschen Erholung.
+Die Elternversammlung war heute ziemlich lang und nicht super spannend.
+Meine Dissertation geht langsam in die zweite Runde, hoffentlich bald fertig.
+Ich brauche dringend neue Bücher für das kommende Wirtschaftsjahr.
+Der Unterricht lief heute viel ruhiger als sonst im Klassenzimmer.
+Prüfungsangst macht mir echt zu schaffen in dieser letzten Woche.
+Die Schule hat eine neue App eingeführt für die Hausaufgabenvergabe.
+Ich frag meinen Kommilitonen, ob er mir die Zusammenfassung schicken kann.
+Mein Sohn braucht unbedingt neuen Schulsachen zum Schuljahresbeginn jetzt.
+Das Referat am Freitag war doch gar nicht so schlecht eigentlich.
+Kannst du kurz gucken ob meine Anmeldung für das Fach durchging?
+Die Klausur heute war echt zum Kotzen.
+Hat jemand die Aufgaben für morgen? Ich hab sie wieder vergessen.
+Bafög kommt nächste Woche hopefully an, sonst wirds knapp mit dem Geld.
+Die Semesterferien starten endlich, ich bräuche den Auszeit dringen.
+Warum muss immer so viel in einem Semester geprüft werden?
+Meine Tochter hat ein Einser im Deutschtest gemacht, stolz wie Oskar.
+Die Hausaufgaben sind doch nur eine Verschwendung von Zeit und Nerven.
+Ich hoffe mal das Abi übersteht ohne große Nervenzusammenbrüche.
+Doktorand zu sein bedeutet meist viel Arbeit und wenig Lohn.
+Kann mir jemand die Formel erklären? Ich kapiere das nicht.
+Die Uni hat den Raum für die Vorlesung verschoben, super organisatorisch.
+Ich muss mein Praktikum bis Freitag anmelden, dringlichste Priorität.
+Mein Kind hat sich mit der Lehrerin gestritten, wieder mal.
+Das Masterstudium dauert länger als ich eigentlich geplant hatte.
+Ich schlafe heute Nacht nicht mehr wegen dem Lernerfolg.
+Die Note im Test war besser als erwartet, kleines Wunder.
+Hat wer einen Platz an der Tafel für mich frei? Bitte!
+Die Hausaufgaben sind einfach zu viel am Sonntagabend noch.
+Ich freu mich schon auf den ersten Vorlesungstag wieder.
+Mein Papa zahlt immer noch die Studienbeiträge, Gott sei Dank.
+Die Prüfungssituation ist dieses Jahr extrem streng geworden.
+Kann ich bei dir mitlernen? Ich brauche jeden Tipp dringend.
+Das Abschlusszeugnis kommt nächsten Monat, hoffentlich mit gutem Erfolg.
+Habe gestern bis vier Uhr Nachtwache gehalten für die Klausur.
+Mein Sohn möchte eigentlich Handwerker werden statt zu studieren.
+Die Semesterferien fangen endlich morgen an, ich bin fertig.
+Kann mir jemand die Lösung von Aufgabe drei zeigen?
+Die Dissertation zieht sich jetzt schon ins zweite Jahr.
+Wir müssen das Praktikum bis Ende Juni belegen.
+Der Dozent ist echt streng mit der Abgabefrist.
+Hoffentlich bekomme ich doch noch meinen Wunschplatz im Studium.
+Die Hausaufgaben sind schon wieder nicht gemacht worden.
+Ich hab Angst, dass ich meine Prüfung doch nicht schaffe.
+Bafög-Antrag kommt leider immer zu spät beim Amt an.
+Schule war heute mal wieder völlig stressig für uns alle.
+Mein Bruder hat sein Abitur im ersten Versuch geschafft.
+Welche Bücher brauche ich eigentlich für das neue Semester?
+Die Betreuerin möchte nächste Woche nochmal ein kurzes Gespräch.
+Studieren ist viel teurer als früher, das ist klar.
+Ich kann einfach nicht motiviert werden zum Lernen heute.
+Hat jemand Notizen von der Vorlesung am Dienstag?
+Die Note im Zeugnis hat mich echt enttäuscht irgendwie.
+Ausbildung oder Studium, ich weiß jetzt wirklich nicht weiter.
+Das Referat war total langweilig, ehrlich gesagt.
+Meine Tochter braucht Hilfe bei den Mathematik-Aufgaben.
+Schlussendlich zählt nur das bestandene Examen am Ende.
+Die Bibliothek ist heute leider schon wieder geschlossen.
+Ich freue mich riesig auf die erste freie Zeit.
+Ich schreibe morgen meine Klausur und habe gar keine Lust mehr.
+Die Semesterferien sind endlich da, ich atme auf.
+Das Seminar war total langweilig, der Dozent redet nur rum.
+Wir müssen bis Freitag den Aufsatz abgegeben haben.
+Ohne Bafög wäre ich nie so lange durchgekommen.
+Die Abschlussfeier nächste Woche wird bestimmt richtig schön.
+Hast du schon einen Praktikumsplatz für das Sommersemester?
+Meine Tochter hat wieder mal eine Eins im Mathe-Diktat.
+Ich verfluche mein Studium manchmal total innigst.
+Der Lehrer hat mich nach dem Unterricht noch zurückbehalten.
+Kann ich meine Bachelorarbeit erst Ende Juni einreichen?
+Die Schulausflüge waren definitiv der beste Teil meiner Zeit.
+Ich lerne seit drei Tagen durch für die Prüfung am Montag.
+Meine Freundin macht gerade eine Lehre als Bürokauffrau.
+Das Abi war stressiger als alle vorherigen Prüfungen zusammen.
+Wir brauchen dringend neues Schulmaterial für das nächste Jahr.
+Die Mensa an der Uni kocht eigentlich ganz okay heutzutage.
+Ich habe meine Note gerade im Portal nachgesehen, Glück gehabt.
+Die Hausaufgaben häufen sich seitdem die Ferien vorbei sind.
+Mein Mann hat sein Promotionsthema endlich vorgestellt und abgeklärt.
+Das erste Semester war viel anstrengender als ich dachte.
+Kannst du mir mal deine Formelsammlung zum Ausleihen geben?
+Der Klassenlehrer ist diesmal echt streng mit den Noten verteilt.
+Ich muss dringend meinen Studienplatz um eine Wartesemester verlängern lassen.
+Die Klausur ging total daneben, bin am Durchdrehen.
+Hab die ganze Nacht gelernt und nix im Kopf behalten.
+Wann fängt eigentlich das Sommersemester wieder an?
+Mein Sohn braucht endlich neue Bücher für die Schule.
+Das Seminar ist irgendwie völlig sinnfrei und langweilig.
+Ich muss unbedingt meine Abschlussarbeit einreichen, sonst flieg ich raus.
+Die Hausaufgaben waren heute echt zu viel des Guten.
+Hoffentlich reicht mein Notenchnitt fürs Medizinstudium dieses Jahr.
+Der Dozent war wieder mal komplett abwesend im Vorlesungssaal.
+Ich kann mit dem Bafög-Formular nicht klarkommen, ist so kompliziert.
+Das Praktikum hat mir gar nicht gefallen, werde da nix machen.
+Wir haben morgen schon wieder Mathekontrolle, ich hasse das Fach.
+Die Bibliothek war heute vollbesetzt wegen der Prüfungsphase.
+Mein Kind möchte lieber Handwerker werden als auf die Uni zu gehen.
+Die Referendarin ist viel sympathischer als der Hauptlehrer.
+Ich schreibe nächste Woche meinen Master im Fernstudium ab.
+Das Abi war ein Stressmonster, aber jetzt atme ich auf.
+Die Lerngruppe trifft sich morgen wieder in der Mensa zusammen.
+Kann mir jemand die Folien von gestern per Mail schicken?
+Die Ausarbeitung muss bis Freitagabend fertig sein, drückt es sich.
+Meine Tochter hat heute einen guten Elternsprechtermin gehabt.
+Ich frag mich ob ich das Fach wirklich wechseln soll.
+Die Klausurnoten kommen nächste Woche endlich raus, Nervensache pur.
+Wir haben im Deutschunterricht wieder nur rumgesprochen und nichts gelernt.
+Die Klausur in Englisch war total unfair formuliert.
+Ich muss morgen wieder um sechs aufstehen für die Uni.
+Hat schon jemand die Lösungsaufgaben vom letzten Dienstag?
+Das Stipendium kommt leider zwei Monate zu spät.
+Mein Kind lernt Tag und Nacht für das Abi.
+Die Vorlesung war langweilig, ich hab fast geschlafen.
+Kann mir jemand die Unterlagen von der Statistikvorausgabe schicken?
+Ich bin komplett durchgebrannt nach dieser Prüfungswoche.
+Die Schule hat uns keine Sommerferienpläne mitgeteilt.
+Mein Bachelor ist endlich abgeschlossen, Zeit zum Feiern.
+Der Dozent war unglaublich streng bei der Bewertung.
+Wir brauchen dringend neue Hefter für das neue Schuljahr.
+Das Praktikum war viel anstrengender als erwartet.
+Ich verzweifle langsam an dieser Seminararbeit.
+Die Noten sind noch nicht online sichtbar, super nervig.
+Meine Tochter hat heute ihr erstes Referat gehalten.
+Ohne Bafög würde ich nicht über die Runden kommen.
+Die Hausaufgaben waren heute Abend wirklich zu viel.
+Ich bewerbe mich nächste Woche auf den Masterstudiengang.
+Der Lehrer hat sich für seine Kritik entschuldigt.
+Studienplatz bekommen ist immer so eine Glückssache.
+Mein Bruder steht vor der Wahl zwischen FH und Uni.
+Die Lerngruppe trifft sich morgen wieder in der Bibliothek.
+Die Abschlussfeier war super lustig, obwohl wir müde waren.
+Ich habe meine Prüfung leider knapp verpasst.
+Die Klausur morgen nervt mich total schon im Vorfeld.
+Bafög-Antrag wieder abgeschickt, hoffentlich kommt das Geld bald.
+Das Seminar war langweilig und der Prof hats echt eilig.
+Ich kann einfach nicht aufhören zu lernen für die Prüfung.
+Die Noten waren heuer wirklich mies, da muss ich mich bessern.
+Semesterferien sind perfekt um endlich mal abzuschalten.
+Die Bachelorarbeit ist ein Alptraum aus endlosem Recherchieren.
+Hast du eigentlich schon dein Abi gemacht oder bist du noch in der Schule?
+Der Dozent hat die Vorlesung komplett abgesagt ohne Bescheid zu sagen.
+Meine Tochter steht kurz vor ihrem Realschulabschluss und hat Panik.
+Die Bibliothek ist voll besetzt, man findet keinen Platz mehr.
+Ich frag mich ernsthaft ob das Studium wirklich mein Ding ist.
+Hausaufgaben machen bringt doch gar nix wenn man nicht mitbekommt.
+Das Masterstudium kostet jetzt doch mehr als ich dachte.
+Mein Kind braucht echt viel Ruhe zum Lernen zu Hause.
+Die Klausurnote war besser als erwartet, da bin ich erleichtert.
+Wir überlegen ob wir uns für die gymnasiale Oberstufe anmelden.
+Die Dissertation dauert ewig und der Fortschritt ist minimal.
+Schulden wegen Studiengebühren ärgern mich wirklich sehr am Ende.
+Der Lehrer war total nett und hat alles nochmal erklärt.
+Ich brauch dringend einen Plan für meine Prüfungsvorbereitung.
+Abitur in einem Jahr, das ist gar nicht mehr so weit weg.
+Die Ausbilderin war heute wieder super genervt von den Azubis.
+Meine Tochter hatte Angst vor der Mathematik-Klausur gestern.
+Ich hab die ganze Nacht für die Klausur gelernt, aber klappt bestimmt nicht.
+Die Semesterferien sind endlich vorbei und ich bin schon wieder müde.
+Mein Sohn hat wieder einmal seine Bücher zu Hause vergessen.
+Das Bafög kommt dieses Monat wohl erst am letzten Werktag.
+Ich hoffe echt, dass mein Betreuer die Arbeit bald genehmigt.
+Warum muss Mathe immer das Hauptfach sein, verrecke es doch einfach.
+Die Uni ist viel stressiger als ich mir vorgestellt habe.
+Hab heute vormittag drei Vorlesungen und danach noch Seminar.
+Meine Tochter wird im Sommer endlich ihr Abitur machen können.
+Der Dozent war komplett unverständlich, ich hab nichts verstanden.
+Kann jemand seine Mitschrift von gestern hochladen, bitte dringend.
+Ich stehe vor der Wahl zwischen Master oder Auslandssemester.
+Die Hausaufgaben waren diesmal überraschend einfach und schnell fertig.
+Die Prüfungsergebnisse werden nächste Woche an die Mails geschickt.
+Ich schreib nächste Woche meine Dissertation ab, freu mich drauf.
+Das Lernmaterial war wirklich schlecht zusammengestellt und verwirrend.
+Mein Sohn braucht dringend einen Nachhilfelehrer für Englisch.
+Die Bibliothek ist zur Prüfungszeit immer voll belegt mit Leuten.
+Ich hab mein Stipendium leider nicht bekommen, das nervt total.
+Welchen Beruf soll ich denn machen, ich weiß es einfach nicht.
+Die Elternabends waren dieses Jahr irgendwie seltsam kurz und knapp.
+Mein Masterstudium zieht sich viel länger hin als geplant war.
+Kann ich morgen mal kurz ins Büro kommen wegen Zeugnis?
+Ich muss mein Praktikum bis Freitag noch anmelden.
+Die Klausur war echt nervig, ich weiß gar nix mehr.
+Hast du schon dein Bafög bekommen oder wartest du noch?
+Semesterferien sind bald da und ich freue mich riesig drauf.
+Die Hausaufgaben haben wieder so lange gedauert heute Abend.
+Meine Tochter hat endlich ihre Prüfung bestanden, ich bin stolz.
+Das Studienangebot an dieser Uni ist doch viel zu knapp.
+Wir müssen uns dringend um die Ausbildungskräfte kümmern hier.
+Der Masterstudium kostet echt viel Geld und Nerven gleichzeitig.
+Kann mir jemand helfen bei der Aufgabe aus dem Mathebuch?
+Ich hab Angst vor der mündlichen Prüfung morgen früh eigentlich.
+Die Semesterferien nutzen wir für eine kleine Auszeit zusammen.
+Das Abi war vorbei und jetzt ist erst mal Luft raus.
+Ich glaube, ich brauche mehr Motivation für die Dissertation endlich.
+Die Noten waren nicht so gut wie gehofft diesmal leider.
+Welchen Beruf soll mein Kind denn eigentlich überhaupt ergreifen?
+Das Studium hat mich wirklich ausgebrannt in den letzten Monaten.
+Wir haben einen neuen Klassenlehrer und er sieht nett aus.
+Ich kann das Thema für die Bachelorarbeit einfach nicht finden.
+Hast du deine Lernkarten schon fertig oder musst noch arbeiten?
+Mein Mann sitzt immer noch an seiner Doktorarbeit tagelang.
+Die Schulausflüge sind eine gute Erinnerung für unsere Kinder heute.
+Die Klausur war viel schwerer als die Übungsaufgaben.
+Ich muss dringend für Geschichte lernen, sonst bin ich geliefert.
+Das Stipendium kam leider erst nach der Semesterferien raus.
+Kann mir jemand die Aufgaben von letzter Woche schicken?
+Die Dozentin gibt fast nie Feedback auf die Entwurfsarbeiten.
+Ich hab die ganze Nacht auf den Prüfungsdruck gechillt.
+Das Abi steht vor der Tür und ich hab noch kein Thema.
+Meine Ausbildung ist eigentlich ganz okay, nur die Arbeitszeiten nerven.
+Bafög beantragen oder besser jobben? Da bin ich mir echt unsicher.
+Die Hausaufgaben sind heute Abend definitiv nicht mehr drin.
+Ich hoffe, dass mein Master endlich angenommen wird.
+Der Klassentreffen war lustig, aber man merkt den Altersunterschied.
+Meine Tochter hat einen sehr kritischen Lehrer für Deutsch.
+Das Seminar war total langweilig und absolut zeitraubend.
+Ich muss mich noch bis Freitag entscheiden, welches Fach ich nehme.
+Die Prüfungsleistungen aus dem ersten Semester waren knapp bestanden.
+Mein Sohn klagt immer über zu viel Stress in der Schule.
+Die Bibliothek war zum Glück noch offen, als ich kam.
+Ich frag meinen Vater, ob er mir beim Lernen hilft.
+Das Praktikum hat sich als sehr lehrreich für mich erwiesen.
+Wir haben heute nur zwei Stunden Physik und das ist gut so.
+Meine Dissertation dauert jetzt schon drei Jahre, unfassbar.
+Die Lehrer machen heutzutage zu hohe Anforderungen an die Schüler.
+Ich brauch dringend einen neuen Plan für das nächste Semester.
+Die Klausur ging total schief, weil ich den Stoff nicht kannte.
+Mein Sohn möchte Mechaniker werden statt auf die Uni zu gehen.
+Ich muss endlich diese Hausaufgaben machen, sonst gibt es Ärger.
+Das Semester ist vorbei und ich brauche dringend Pause.
+Die Noten sind da und ich bin echt zufrieden damit.
+Wann kommt das Zeugnis für das dritte Schuljahr?
+Meine Tochter findet den Lateinunterricht langweilig und anstrengend.
+Ich hoffe, dass die Prüfungsleistung gut genug für die Note ist.
+Das Studium kostet viel Geld und Nerven gleichermaßen.
+Kann mir jemand helfen, diesen Text für Deutsch zu verfassen?
+Die Abiturprüfung steht in zwei Wochen bevor und ich nervös.
+Mein Mann liest ständig Bücher über seine Masterarbeit.
+Die Schule fängt nächste Woche wieder an und ich freu mich nicht.
+Bafög kommt spät und die Miete muss trotzdem bezahlt werden.
+Ich verstehe einfach nichts von dieser Physikaufgabe im Moment.
+Die Lehrer sind dieses Jahr besonders streng mit den Noten.
+Mein Bruder hat seinen ersten Vorlesungstermin heute verpasst.
+Studium oder Ausbildung? Ich kann mich da nicht entscheiden.
+Die Projektarbeit war mehr Aufwand als erwartet, ehrlich gesagt.
+Ich habe meine Klausurunterlagen zu Hause vergessen und panisch.
+Das Abi ist geschafft und jetzt kann ich richtig feiern.
+Meine Frau schreibt gerade ihre Doktorarbeit und hat keinen Schlaf.
+Die Elternsprecher treffen sich morgen zur Besprechung im Gymnasium.
+Welche Hochschule nimmt mich mit solchen Noten überhaupt auf?
+Ich brauche unbedingt einen Tutor für meine Matheprobleme bald.
+Hilf mir mal beim Deutschreferat bitte dringend.
+Ich hab die Klausur so schlecht abgeben müssen.
+Die Sommerferien fangen nächstes Jahr viel früher an.
+Kannst du deine Notizen von der Vorlesung herzeigen?
+Das Bafög kommt leider erst am Monatsende drauf.
+Sie hat endlich ihr Abitur bestanden, alle freuen sich.
+Ich schreib morgen meine Diplomarbeit ab, bin nervös.
+Warum muss das Kind immer so lange mit Hausaufgaben sitzen?
+Der Dozent war heute extrem genervt von der Gruppe.
+Mein Bruder ist gerade in der zweiten Ausbildungsjahreshälfte.
+Die Uni macht mich komplett runter, ich brauch Pause.
+Ich hab keine Ahnung wo die Formel herkommt echt.
+Kommst du nach der Schule mal zum Eis essen?
+Meine Tochter hat sich für Zahnmedizin eingeschrieben super.
+Der Stress vor dem Abi war wirklich nicht zu leiden.
+Ich muss meine Bachelorarbeit noch bis Freitag überarbeiten.
+Die neuen Lehrbücher kosten uns richtig viel Geld dieses Jahr.
+Hab ich was Wichtiges verpasst während der Krankenzeit?
+Die Betreuerin war super nett bei der Mündlichen Prüfung.
+Ich verstehe einfach nicht wie man so schnell rechnen soll.
+Schreib mir bitte die Hausaufgaben aufs Handy wenn du kannst.
+Mein Sohn braucht unbedingt einen Nachhilfelehrer für Mathe jetzt.
+Das Seminar heute war wirklich ganz langweilig und zu trocken.
+Wir zahlen dieses Jahr wieder mehr für den Schulbus leider.
+Die Chemie Klausur ist echt doof für mich.
+Hab gestern bis drei Uhr nachts gelernt.
+Kannst du mir die Notizen von der Vorlesung schicken?
+Das Stipendium wurde leider abgelehnt.
+Ich hasse es wenn ich Hausaufgaben machen muss.
+Die Dozentin war total unverständlich heute Vormittag.
+Soll ich mein Praktikum an der Uni machen?
+Meine Tochter hat in Deutsch eine Eins bekommen.
+Der Bachelor Abschluss ist bald in Reichweite.
+Ich weiß gar nicht ob ich noch weiter studieren soll.
+Die Schulaufgabe war viel zu schwer diesmal.
+Wir müssen für den Elternabend um fünf sein.
+Bafög beantragen ist ein totaler Papierkrieg.
+Meine Dissertation bringt mich langsam zum Verrückten.
+Hast du schon deinen Studienplatz bekommen?
+Der Mathelehrer hat wieder Hausaufgaben aufgegeben.
+Ich brauch dringend einen Nachholtermin für die Prüfung.
+Die Uni Mensa kostet mir jeden Monat viel Geld.
+Warum muss ich so viele Seiten bis Freitag lesen?
+Mein Bruder ist jetzt im zweiten Ausbildungsjahr.
+Das Abi war das Beste und Schlimme zugleich.
+Ich schlafe heute Nacht garantiert nicht gut.
+Welches Fach ist denn in der Klausur dran?
+Hoffentlich bekomme ich bald mal ein bisschen Freiraum von dem Lernstress.
+Meine Tochter brüstet sich schon wieder mit ihrer Eins in Deutsch.
+Die Seminararbeit wird wahrscheinlich bis nächste Woche nicht fertig werden.
+Ich habe heute Vormittag im Mathe-Colloquium total versagt.
+Kannst du mir kurz die Klausurunterlagen ausleihen, ich war krank.
+Das Studium zehrt langsam aber sicher an meiner Geduld und Zeit.
+Mein Sohn findet seinen Berufswunsch erst gar nicht in der Realität wieder.
+Die Sommerferien sind vorbei und jetzt heißt es wieder hart auf die Fresse.
+Ich frag mich schon, ob sich der Master überhaupt lohnt oder nicht.
+Professor Müller ist bekannt dafür, dass er nur extrem strenge Abgaben hat.
+Wir müssen dringend über die Schulden von meinem Bruder sprechen und handeln.
+Die Prüfungsaufgaben waren dieses Jahr deutlich schwerer als im letzten Jahr.
+Ich kann gar nicht glauben, wie schnell das dritte Semester wieder rum ist.
+Hast du schon mal mit dem Dozenten über ein Nachholgespräch geredet?
+Die Hausaufgaben waren gestern abend wirklich zum Mäusemelken für uns beide.
+Bafög kommt immer zu spät und man muss sich noch einmal umsehen.
+Ich bin stolz auf mich, dass ich die Bachelorarbeit doch noch geschafft habe.
+Welche Uni in Deutschland hat denn eigentlich den besten Studiengang Informatik?
+Mein Vater sagt, er hätte damals auch gerne so lange Urlaub gehabt wie wir.
+Die Lerngruppe trifft sich morgen Abend wieder in der Bibliothek zum Plaudern.
+Ich weiß einfach nicht, ob ich mein Praktikum verlängern soll oder nicht.
+Die Notenvergabe an unserer Schule ist leider immer noch sehr willkürlich und unfair.
+Kann jemand mir kurz die Formeln für die Physik Klausur zusammenfassen?
+Meine Schwester hat ihr Abitur mit Bestnote abgeschlossen, wahnsinnig stolz bin ich.
+Die Klausur heute Vormittag war absoluter Mist.
+Mein Sohn hat endlich seinen Führerschein bestanden.
+Ich muss am Wochenende für die Chemiklausur pauken.
+Wir überlegen ob wir das Gymnasium wechseln sollen.
+Die Bibliothek ist voll und alle Plätze sind weg.
+Meine Tochter schreibt gerade ihre Realschulabschlussprüfung.
+Bafög beantragen ist immer eine nervige Sache.
+Der Dozent war wieder komplett unvorhersehbar heute.
+Ich vermiss schon die Semesterferien von früher.
+Hast du den Lösungsweg für Aufgabe drei verstanden?
+Das Abi wird heuer echt streng sein apparently.
+Mein Mann sitzt seit Stunden in der Uni Bibliothek.
+Die Hausaufgaben haben uns heute Abend beschäftigt.
+Welches Masterstudium macht eigentlich Sinn hier drin?
+Ich hab die Einschreibungsbestätigung vergessen zu holen.
+Die Notenverteilung war dieses Semester ungerecht finde ich.
+Ausbildung oder Abi, was ist besser für ihn?
+Die Dissertation dauert schon viel zu lange jetzt.
+Mein Kind lernt bis spät in die Nacht drücken.
+Das Wintersemester startet erst nächsten Monat wieder.
+Warum muss ich immer wieder Nachhilfe bezahlen?
+Der Tutor hat meine Bachelorarbeit kritisiert heftig.
+Semesterende und trotzdem keine Ferien in Sicht.
+Ich kann den Stress an der Uni kaum noch.
+Die Klausur morgen könnte eigentlich ganz gut werden.
+Mein Sohn sitzt schon wieder bis drei Uhr am Lernen.
+Das Semesterticket ist mir doch echt zu teuer geworden.
+Ich hab den Termin für die mündliche Prüfung verpasst.
+Warum muss ich überhaupt Informatik als Hauptfach wählen?
+Die Hausaufgaben waren dieses Wochenende mal wieder viel zu viel.
+Das Stipendium wurde leider abgelehnt, das war echt nervig.
+Wir brauchen dringend Hilfe bei den Mathehouse für die fünfte Klasse.
+Der Dozent ist immer pünktlich vorbei, wenn ich nicht da bin.
+Ich hoffe meine Bachelorarbeit wird dieses Semester noch angenommen.
+Das Bafög kam wieder mal zwei Wochen zu spät auf dem Konto.
+Mein Kind findet den Schullehrer einfach nur unglaublich streng.
+Die Prüfungsbücher sind schon wieder vergriffen im Uni-Verlag.
+Ich frag mich ob ich den Master wirklich anfangen soll.
+Das Abifoto war total schlecht geworden, wir müssen es neu machen.
+Mein Sohn beschwert sich ständig über das neue Englischlehrbuch.
+Die Semesterferien waren viel zu kurz um etwas zu erreichen.
+Ich muss morgen früh zur Vorlesung erscheinen und bin todmüde.
+Warum haben die Eltern nur keine Mitsprache bei der Note?
+Die Ausbildungsstätte hat meinen Antrag noch nicht bearbeitet.
+Mein Kind hat wieder alles in die Hose gemacht beim Diktat.
+Das Studium kostet mich mehr Nerven als ich dachte.
+Ich hab mein Zeugnis heute endlich per Post bekommen.
+Die Klausurergebnisse stehen morgen online, ich bin nervös.
+Ich hasse es wenn mein Kind wieder die Hausaufgaben nicht macht.
+Die Klausur am Montag hat mir echt den Schlaf geraubt.
+Hast du schon gesehen welche Note der in Englisch bekommen hat?
+Das Semester ist vorbei und ich hab nichts gelernt zum Thema.
+Bafög läuft wieder ab und die Bank macht auch nicht mit.
+Die Schule fängt erst morgen wieder an, ich freu mich schon.
+Ich sitz seit drei Stunden an der Bachelorarbeit und schreib nur Quatsch.
+Warum muss man im Matheunterricht immer diese unheimlichen Dreiecke rechnen?
+Der Professor redet nur rum, aber die Prüfung ist total schwer.
+Meine Ausbildung dauert noch ein Jahr, dann bin ich froh.
+Ich hab das Buch für die Literaturprüfung wieder nicht gekauft.
+Schule früher war doch viel einfacher als heute, oder etwa nicht?
+Könntest du mir kurz die Lösungsaufgaben von Physik zeigen? Danke.
+Das Examen bestand ich mit Bravour, obwohl ich kaum gelernt habe.
+Mein Bruder ist immer noch im Master und verdient kein Geld.
+Die Hausaufgaben waren wieder zu viel für meinen kleinen Sohn.
+Ich brauche dringend einen Job neben dem Studium um die Miete zu zahlen.
+Warum muss der Abi-Klausurtag immer in den Sommerferien sein?
+Ich hab meine Dissertation fast fertig, noch ein paar Fehler drin.
+Der Uni-Campus war heute voll wegen der Studentenfestlichkeiten gestern Abend.
+Meine Mutter hat wieder angerufen um nach meiner Ausbildung zu fragen.
+Die Hausaufgaben waren heute echt viel zu schwierig für mich.
+Ich hab keine Lust mehr auf dieses blöde Referat am Freitag.
+Das Semesterticket ist einfach zu teuer für uns Azubis geworden.
+Kannst du mir mal deine Mitschriften von Physik leihengeben?
+Die Klausur war einfacher als ich gedacht hatte, zum Glück.
+Wir müssen dringend die Bücher für das nächste Semester kaufen.
+Mein Sohn hat endlich sein Zeugnis bekommen, freu dich mit ihm.
+Die Uni ist dieses Jahr wieder überfüllt wie sonst nie.
+Ich schweife beim Onlinekurs immer wieder in Gedanken ab.
+Hat jemand den Link zur Vorlesung nochmal herumschicken können?
+Das Stipendium wurde leider abgelehnt, da bin ich traurig.
+Endlich Ferien nach monatelangem Lernen und Stress am Schreibtisch.
+Meine Freundin schreibt gerade ihre Masterarbeit in der Bibliothek.
+Die Lehrer fordern zu viel von uns Schülern heutzutage.
+Ich muss dringend mein Praktikum für die Ausbildung bestätigen lassen.
+Der Dozent redet einfach nur zu schnell, nichts ist klar.
+Abitur ist geschafft, jetzt erst mal richtig durchfeiern gehen.
+Kann mir jemand erklären, wie ich das Bafög beantrage?
+Die Klassenfahrt nach Berlin war das Highlight des ganzen Jahres.
+Ich hab meine Lernkarteien endlich sortiert und aktualisiert.
+Mama macht sich Sorgen wegen meiner schlechten Noten im Deutsch.
+Das Labormaterial war kaputt, deshalb musste der Versuch ausfallen.
+Wir sitzen schon seit zwei Stunden in der Mensa fest.
+Hoffentlich bekomme ich das Auslandssemester doch noch genehmigt.
+Die Klausur im letzten Semester war wirklich anstrengend.
+Ich hab meine Unterlagen für das Bafög vergessen.
+Kannst du mir kurz die Notizen vom Mathematikunterricht mailen?
+Mein Sohn wird wieder von der Schule nach Hause geschickt.
+Die Bibliothek ist voll, ich finde keinen freien Platz.
+Studieren ohne Nebenjob funktioniert bei mir einfach nicht.
+Welche Uni nimmst du denn für dein Masterstudium?
+Ich hab panische Angst vor dem Oraltermin morgen.
+Das Abi war zum Glück weniger schlimm als erwartet.
+Mein Baby wacht nachts auf und ich kann nicht schlafen.
+Die Hausaufgaben sind heute wirklich viel zu umfangreich ausgefallen.
+Wer hat den Link zur Vorlesung wieder gelöscht?
+Ich muss dringend meine Bachelorarbeit abgeben.
+Der Dozent erklärt das Thema leider ganz schlecht.
+Unsere Tochter bekommt nur schlechte Noten in Englisch.
+Die Semesterferien starten nächste Woche endlich wieder.
+Hast du schon deine Einschreibung für das Wintersemester erledigt?
+Praktika während des Studiums sind extrem schwer zu bekommen.
+Ich verstehe einfach die Formel auf der Tafel nicht.
+Mein Partner muss wegen der Prüfungen nachholen.
+Die Cafeteria an der Uni ist viel zu teuer geworden.
+Ich freue mich riesig auf mein erstes Praktikum bald.
+Schreib mir mal, wann dein Zeugnis kommt okay?
+Der Stress vor den Abiturprüfungen war einfach krass.
+Welche Hochschule hat die beste Bibliothek überhaupt?
+Ich muss morgen früh wieder um sieben aufstehen zum Unterricht.
+Meine Tochter hat endlich die Eins in Deutsch geschrieben.
+Das Seminar war langweilig und viel zu theoretisch.
+Hast du schon deine Bewerbung für das Praktikum abgeschickt?
+Die Abschlussprüfung steht an und ich hab noch gar nichts gelernt.
+Ich frage mich oft, ob ich das richtige Fach gewählt habe.
+Der Dozent ist echt streng mit den Abgabefristen da.
+Können wir bitte heute keine Matheaufgaben mehr bekommen, ich bin müde.
+Mein Bafög kommt nächsten Monat erst wieder gutgeschrieben.
+Die Hausaufgaben waren diesmal echt überschaubar und schnell gemacht.
+Ich muss meine Masterarbeit bis Freitag einreichen, oh mann.
+Das Abitur war kein Kinderspiel, besonders nicht im Deutsch.
+Wann fangen eigentlich wieder die Sommerferien an bei euch?
+Mein Sohn verbringt den ganzen Tag nur noch am Laptop.
+Die Prüfungshalle stank nur von Nervosität und altem Kaffee.
+Ich hab das Thema für meine Referatsarbeit immer noch nicht.
+Warum muss ich heute schon wieder so früh losfahren zur Schule?
+Das Studium ist teurer als ich ursprünglich gedacht habe ehrlich gesagt.
+Mein Kind braucht endlich mal eine Pause vom Lernen jetzt.
+Die Klausur war unfair, viele Aufgaben kamen gar nicht vor.
+Ich hoffe, dass mein Stipendium für dieses Jahr reicht aus.
+Dissertation schreiben ist echt hart, man sitzt ewig allein.
+Hast du das neue Lehrbuch schon gekauft oder noch nicht?
+Die Noten sind raus und ich bin ganz happy darüber heute.
+Die Klausur am Montag hat mich total gestresst.
+Ich muss morgen früh um sieben aufstehen für die Vorlesung.
+Hoffentlich reicht das Bafög dieses Semester auch wieder aus.
+Wir haben den Abifahr noch gar nicht richtig geplant.
+Die Hausaufgaben waren heute Abend einfach viel zu aufwendig.
+Ich sitze schon drei Tage in der Bibliothek und lerne nur noch.
+Der Professor war ziemlich streng bei der mündlichen Prüfung gestern.
+Meine Tochter hat eine Zwei im Diktat bekommen, das freut mich.
+Das Seminar ist leider ausgebucht, ich muss warten bis Winter.
+Kann mir jemand die Formel nochmal erklären, die verstehe ich nicht.
+Die Semesterferien beginnen erst nächsten Monat, unfassbar langweilig.
+Ich habe meine Bachelorarbeit endlich abgeschickt, Atmegaussatmung.
+Die Nachhilfe kostet einen ganzen Haufen Geld, ist aber nötig.
+Welchen Studiengang soll ich eigentlich wählen, ich weiß es nicht.
+Der Lehrer hat heute wieder eine Überaschklausur ohne Ankündigung geschrieben.
+Mein Bruder schreibt gerade seine Dissertation und ist komplett fertig damit.
+Das Praktikumszeugnis war überraschend positiv für die schlechte Leistung.
+Ich kann meine Konzentration beim Online-Lernen einfach nicht aufbringen.
+Die Schule hat uns mitgeteilt, dass es wegen Schnee frei bleibt.
+Welches Fach am Abitur wählt man denn sinnvollerweise als Profilfach?
+Meine Hausaufgaben liegen noch im Rucksack, ich habe keine Lust mehr.
+Die Prüfungsordnung ist so kompliziert, dass ich mich immer verhasple.
+Ich freu mich schon riesig auf das erste Semester an der Uni.
+Das Elternabend war total unangenehm wegen der Diskussion um die Noten.
+Die Klausur morgen ist mir echt ein Dorn im Auge.
+Warum muss man eigentlich so viel Hausaufgaben machen?
+Mein Sohn hat endlich den Führerschein geschrieben, stolz wie Ox.
+Das Semester kostet mich richtig ins Geld ohne Bafög.
+Ich verstehe einfach nicht, wozu ich das lernen soll.
+Die Abituraufgaben waren dieses Jahr ja wirklich unfair gestellt.
+Kannst du mir mal die Formel für Chemie erklären?
+Mein Papa zahlt wieder alles für die Uni Bücher.
+Die Prüfung war viel leichter als alle behauptet haben.
+Ich schaffe den Master nie, der Stress ist zu groß.
+Warum hat die Lehrerin meine Hausaufgaben nicht zurückgegeben?
+Das Studium fällt mir schwerer als die Schule damals.
+Ich habe endlich den ersten Platz auf meiner Abschlussliste.
+Die Semesterferien starten erst nächsten Monat, doof.
+Meine Tochter braucht dringend einen neuen Nachhilfelehrer für Mathe.
+Bafög beantragen ist so ein bürokratischer Albtraum eigentlich.
+Ich hoffe nur, dass ich meine Note gut schaffe.
+Das Abitur hinter mir zu haben war ein Riesengriff.
+Wer hat denn die Gruppe für das Referat gebildet?
+Mein Kind vergisst ständig seinen Schulranzen im Bus stehen.
+Die Dissertation schreibt sich nicht von allein, glaubt mir.
+Ich bin so müde nach der langen Lernnacht gestern.
+Kann ich heute nicht zur Schule gehen, ich hab Kopfweh.
+Das Praktikum war viel anstrengender als das theoretische Studium.
+Mein Bruder hat sein Examen knapp bestanden, Phew.
+Die Bibliothek ist geschlossen, wo soll ich jetzt noch lernen?
+Ich muss bis morgen Abend noch drei Kapitel lesen.
+Die Klausur im letzten Semester war einfach unfair gestellt.
+Mein Sohn wollte gestern gar nicht zur Schule gehen.
+Das Bafög kommt leider wieder zwei Monate zu spät.
+Welchen Studiengang soll ich denn eigentlich wählen?
+Wir haben die ganze Nacht für die Physikprüfung gelernt.
+Der Dozent ist total streng und gibt kaum Feedback.
+Die Hausaufgaben waren diese Woche wirklich viel zu aufwändig.
+Ich hab meinen Master endlich mit 1,3 bestanden.
+Können wir die Elternsprechstunde nicht noch einmal verschieben?
+Das Abiturzeugnis hat mir doch ganz gut gefallen.
+In der Pause habe ich mich total gestresst gefühlt.
+Meine Freundin steht morgen vor der Abschlussprüfung.
+Die Bibliothek ist während der Prüfungszeit immer voll belegt.
+Ich brauche dringend einen neuen Platz zum Lernen.
+Wir diskutieren schon die ganze Woche über das Referatsthema.
+Die Notenvergabe an dieser Uni ist irgendwie undurchsichtig.
+Meine Tochter macht gerade ihre Realschulabschlussprüfung.
+Ich muss heute Abend noch den Praktikumsbericht schreiben.
+Warum muss ich immer so viel für Mathe lernen?
+Das Semesterferienprogramm war dieses Jahr etwas langweilig.
+Der Betreuer meiner Arbeit antwortet gar nicht mehr auf Mails.
+Ich hoffentlich besteht die mündliche Prüfung doch noch.
+Die Schuluniform findet mein Sohn total unkomfortabel.
+Nächste Woche startet das Wintersemester an der Hochschule.
+Warum muss eigentlich immer Montag Mathe sein?
+Die Bibliothek ist zum Semesterende komplett zugemüllt.
+Ich hab die Deadline für das Referat verpasst, oje.
+Bafög-Antrag wurde wieder abgelehnt, was soll ich denn tun?
+Der Professor redet nur in Floskeln und sagt nie nichts Konkretes.
+Meine Tochter hat endlich ihre erste Eins bekommen!
+Die Lerngruppe trifft sich morgen im Café statt zu Hause.
+Ich schlafe schon seit drei Tagen wegen der Klausur nicht richtig.
+Warum ist das Studium so viel teurer als die Schule war?
+Das Praktikum endet nächsten Freitag und ich bin panisch.
+Die Abschlussprüfung lief glatt wie Öl, ehrlich gesagt.
+Ich verzweifle an dieser Statistik-Aufgabe, da versteht doch kein Mensch.
+Kann mir bitte jemand die Folien vom Vortag mailen?
+Die Semesterferien sind schon zu Ende gegangen?! Das kann nicht sein.
+Mein Sohn muss nochmal ein ganzes Jahr nachsitzen.
+Die Hausaufgaben waren heute wirklich unnötig viel Stoff.
+Der Dozent hat die Prüfrunde um zwei Wochen verschoben.
+Ich frag meine Eltern ob sie mir fürs Wohnen helfen können.
+Schlimmste Klausur meines Lebens war wohl die Lineare Algebra.
+Mein Mädchen ist stolz wie Fox auf ihren Schulabschluss.
+Ich sitz schon seit drei Stunden über dem Physiktest.
+Mein Sohn findet das Gymnasium total langweilig.
+Die Semesterferien waren viel zu kurz dieses Jahr.
+Kann mir jemand die Vorlesungsunterlagen von morgen schicken?
+Das Bafög ist immer noch nicht auf meinem Konto.
+Ich bin so fertig mit dieser ewigen Hausaufgabenflut.
+Meine Tochter hat endlich ihren Fahrerschein geschafft.
+Die Klausur am Freitag macht mich richtig nervös.
+Wir müssen uns bald für die Oberstufe entscheiden.
+Der Dozent spricht leider viel zu schnell vor sich hin.
+Hab gestern bis vier Uhr morgens gelernt wie verrückt.
+Ich hoffe mal, dass ich den Schnitt für die Aufnahme schaffe.
+Mein Vater zahlt mir immer noch die Schulbücher.
+Die Gruppenarbeit war ein kompletter Auslaufmodell aus Stress.
+Welches Fach hast du im letzten Semester belegt?
+Die Abiturnote ist da, aber sie kann besser sein.
+Ich verabscheue es, morgens um sieben Uhr aufzustehen.
+Mein Bruder hat sich endlich für die Lehre entschieden.
+Das Seminar war eigentlich ganz informativ und hilfreich.
+Können wir bitte mal über das Budget sprechen?
+Die Prüfung war deutlich schwerer als erwartet worden.
+Meine Kinder streiten sich wieder wegen der Plätze.
+Ich brauche dringend einen neuen Platz im Hörsaal.
+Die Elternabende sind mir irgendwie total egal.
+Studieren ist einfach viel aufwendiger als ich dachte.
+Klausur ist morgen und ich hab noch null gelernt.
+Die Semesterferien sind endlich mal wieder eine Wohltat.
+Das Seminar war langweiliger als jede Vorlesung dieses Halbjahres.
+Warum muss ich immer die kompliziertesten Matheaufgaben rechnen?
+Bafög-Antrag ist wieder mal ein kompletter Albtraum bei der Bürokratie.
+Ich hab gestern Nacht bis vier Uhr an meiner Masterthesis gesessen.
+Die Noten sind raus und ich bin ehrlich gesagt ziemlich enttäuscht.
+Kann mir jemand mal kurz die Chemieformel erklären, bitte?
+Die Uni hat den Raum plötzlich umgestellt ohne Ankündigung.
+Ich frage mich ernsthaft ob ich das Studium noch beenden soll.
+Hausaufgaben sind doch eigentlich veraltet in der modernen Welt.
+Die Abschlussprüfung war einfacher als alle vorherigen Klausuren zusammen.
+Wir müssen bis Freitag den Gruppenbericht fertig stellen, leider.
+Der Dozent ist total cool und erklärt alles super verständlich.
+Ich sehne mich schon nach dem nächsten Praktikumsemester im Büro.
+Mein Kind findet den Schultag einfach viel zu lang heute.
+Die Bibliothek war voll besetzt obwohl es noch Ferien sind.
+Ich hab mein Zeugnis erst gar nicht aufgemacht aus Angst.
+Studieren bedeutet vor allem richtig gut die Zeit einplanen.
+Die Ausbildung bei der Firma macht doch mehr Spaß als die Schule.
+Ich kann die Lerninhalte einfach nicht so schnell im Kopf behalten.
+Nächste Woche fängt das neue Semester wieder an, gruselig eigentlich.
+Meine Freundin hat ihr Abitur mit sehr guten Noten bestanden.
+Die Klausur hat mich total gestresst, besonders der Mateteil.
+Ich hab keine Lust mehr auf diese ewigen Hausaufgaben.
+Das Seminar war irgendwie komplett sinnlos und zu langweilig.
+Bald sind Semesterferien und ich kann endlich ausatmen.
+Der Dozent hat die Prüfungsaufgaben viel zu schwer gemacht.
+Ich muss mich nochmal für die Nebenfächer entscheiden.
+Abitur ist rum und jetzt weiß ich gar nicht weiter.
+Die Abschlussarbeit frisst mir den ganzen Lebenswillen.
+Kannst du mir mal deine Mitschriften vom Dienstag leihen?
+Ich hab heute Morgen das Vorlesungsverzeichnis vergessen.
+Die Noten waren diesmal gar nicht so schlecht für mich.
+Mein Sohn lernt wie wild für die Matheklausur morgen.
+Die Mensa an der Uni ist echt überteuert geworden.
+Ich freu mich schon auf die Sommerferien von der Schule.
+Die Berufsausbildung startet nächste Woche endlich mal.
+Warum muss ich wieder so viel für die Abituraufgaben büffeln?
+Das Masterstudium fordert gerade meine Nerven extrem aus.
+Ich hoffe, dass das Referat heute gut ankommt.
+Der Professor war heute wirklich ziemlich gemein in der Vorlesung.
+Hast du schon den Raumwechsel für die Physikvorlesung gesehen?
+Ich schlafe nach der Prüfung wohl direkt ein.
+Die Elternabende nerven mich irgendwie immer mehr.
+Meine Bachelorarbeit ist endlich akzeptiert, ich bin so froh.
+Die Klausur ist überstanden, jetzt erst einmal tief durchatmen.
+Ich muss mich für die Masterarbeit anmelden bis Ende der Woche.
+Mein Sohn hat wieder eine Eins in Mathe bekommen, stolz wie Oskar.
+Studieren ohne Bafög ist wirklich schwer zu stemmen.
+Die Hausaufgaben haben gestern ewig gedauert, ich war kaputt.
+Abi ist in Sichtweite und der Stress steigt.
+Die Uni Bibliothek war komplett überfüllt am Wochenende.
+Meine Tochter will später Medizin studieren, das wird teurer.
+Können wir bitte bald wieder in den Ferien sein?
+Die Klausurtermine sind noch nicht veröffentlicht worden.
+Ich schlafe nur noch drei Stunden pro Nacht wegen Lernen.
+Die Ausbildung macht eigentlich mehr Spaß als ich dachte.
+Welches Fach ist denn besser für die Karrierechancen später?
+Mein Papa zahlt mir immer noch die Miete in Berlin.
+Die Referendarin war super nett und hat gut erklärt.
+Ich brauche dringend einen Platz im Vorlesungsraum.
+Das Abiturzeugnis liegt schon lange auf dem Tisch unbeachtet.
+Studium macht nur Sinn wenn man wirklich Interesse hat.
+Meine Mutter nervt mich endlos mit ihren Tipps für die Uni.
+Die Abschlussfeier war richtig gut, alle waren dort dabei.
+Ich hab meine Bachelorarbeit leider nicht im ersten Versuch bestanden.
+Das Stipendium kam gerade erst genehmigt, da freue ich mich riesig.
+Schüler sind heute echt gestresst durch den Leistungsdruck dort.
+Ich packe morgen alles zusammen für den Uni Umzug nach München.
+Ich hab die Formel total vergessen beim Test.
+Mein Sohn braucht dringend eine neue Mathehilfe.
+Das Seminar war langweilig wie immer ehrlich gesagt.
+Wann gibt es endlich die Ergebnisse der Klausur?
+Ich kann den Stoff einfach nicht so schnell lernen.
+Die Dozentin ist mega streng mit den Abgabefristen.
+Bafög Geld kommt erst nächsten Monat auf mein Konto.
+Wir müssen morgen früh um sieben Uhr aufstehen.
+Die Hausaufgaben machen heute Abend wirklich keinen Spaß.
+Meine Tochter hat endlich ihre erste Eins geschrieben.
+Das Praxissemester war anstrengender als ich dachte.
+Ich sitz seit drei Tagen in der Bibliothek hier.
+Welche Bücher muss ich für die Prüfung eigentlich kaufen?
+Die Note ist leider nicht so gut geworden wie erhofft.
+Ich hoffe, dass mein Master jetzt angenommen wird.
+Mein Kind hat wieder mal sein Heft vergessen zu Hause.
+Der Stoff im Deutschunterricht war gestern wirklich schwer.
+Ich schreibe gerade an meiner Abschlussarbeit und nerv mich tierisch.
+Die Ferien beginnen nächste Woche endlich zum Glück.
+Kannst du mir bitte mal deine alten Mitschriften leihen?
+Das Duale Studium passt perfekt zu meinem Zeitplan eigentlich.
+Mein Papa hat sich über die schlechte Note geärgert.
+Ich muss das Skript bis Montagabend fertig durchlesen.
+Die Gruppenarbeit war total chaotisch und unproduktiv heute.
+Hast du schon deinen Platz für das Praktikum gesichert?
+Die Prüfungsleistungen sind dieses Semester wirklich anspruchsvoll geworden.
+Können wir morgen mal kurz wegen der Noten sprechen?
+Mein Sohn findet das neue Mathetutor wirklich super hilfreich.
+Die Abschlussprüfung hat mir echt viel Angst gemacht gestern Abend.
+Ohne Bafög wäre mein Studium wahrscheinlich gar nicht möglich gewesen.
+Ich muss endlich mit der Literaturarbeit anfangen, sonst bringe ich sie nicht mehr weg.
+Der Chemiepraktikum war dieses Semester wirklich anstrengend für alle Teilnehmer.
+Warum macht das Kind nie seine Hausaufgaben zur Mathestunde?
+Die Klausur in Englisch war diesmal echt einfach und schnell geschrieben.
+Ich bin so froh dass die Sommerferien jetzt endgültig beginnen.
+Meine Tochter überlegt noch ob sie Medizinstudium oder Pharmazie anstrebt.
+Das Referat zum Thema Klimawandel wurde von der Klasse gelobt.
+Hast du schon deine Bewerbungsunterlagen für das Praktikum fertig gemacht?
+Der Dozent war heute wieder super streng und hat alles kritisiert.
+Wir müssen nächste Woche die Elternsprechstunde unbedingt einhalten und gehen.
+Ich schlafe kaum mehr wegen dem Stress vor dem Abiturtermin.
+Die Ausbildung zum Kauffrau im Büromanagement startet endlich nächsten Monat.
+Kannst du mir bitte deine Notizen vom Biologieunterricht morgen zeigen?
+Mein Masterstudium läuft gut aber die Zeit wird knapp für alles andere.
+Die Notenverteilung in Physik war dieses Jahr wirklich ungerecht für uns alle.
+Ich habe gerade meine Zulassung zur Staatsprüfung erhalten und bin glücklich.
+Warum ist der Bus zur Schule heute wieder so verspätet gelaufen?
+Mein Bruder hat endlich seinen Fahrerschein geschafft nach drei Versuchen bereits.
+Die Gruppenarbeit im Seminar war ein kompletter Flop und total nervig einfach.
+Ich brauche dringend neue Stifte für das nächste Schuljahr überhaupt.
+Kommst du auch zur Abschlussfeier der Oberstufe am Freitag Abend?

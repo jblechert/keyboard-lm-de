@@ -5008,7 +5008,6 @@ Meine Frau macht immer die grobe Einkaufsliste auf.
 Wir haben versehentlich zweimal die gleiche Pasta gekauft.
 Der Verkäufer an der Kasse war echt freundlich heute.
 Ich versuche jeden Monat mal ohne Plan zu gehen.
-Die Lagerung von Avocados ist irgendwie immer ein Glücksspiel.
 Hast du schon mal den neuen Discounter in der Nähe ausprobiert?
 Die Preise für Milch und Butter sind wieder mal explodiert.
 Ich kaufe mein Gemüse lieber am Wochenende direkt beim Erzeuger.
@@ -5176,7 +5175,6 @@ Das new Product wurde leider wieder von der Strecke genommen.
 Wir kaufen unsere Kartoffeln direkt beim Landwirt ab.
 Hast du den Rabatt auf die Safttüten schon gesehen?
 Ich muss endlich mal weniger Impulskäufe machen.
-Der Scanner an der Selbstbedienungskasse wollte einfach nicht
 Hab mal wieder den falschen Zettel eingepackt.
 Die Bananen sind heute irgendwie viel teurer als letzte Woche.
 Soll ich beim Abholen noch Käse mitnehmen oder reicht das?
@@ -5202,31 +5200,11 @@ Wir kaufen unser Brot immer noch am besten beim Bäcker um die Ecke.
 Die Selbstbedienungskasse hat mich heute wieder komplett ausgebremst.
 Ich muss echt aufhören, hungrig in den Supermarkt zu gehen.
 Dort im Regal gibt es eine neue Sorte Avocados zum Probieren.
-Der Einkaufswagen hat wieder eine quietschende Rad
-Ich hab die Quittung für die Rückgabe verloren schade
 Kannst du mal schauen ob wir noch Butter haben?
-Die neuen Preise an der Kasse haben mich schockiert
-Beim Aldi ist aktuell alles deutlich günstiger hier
 Hast du die Liste aus dem Fridge abgehakt schon?
-Das Obst am Wochenmarkt schmeckt einfach besser ehrlich
-Ich finde es nervig wenn die Kassierer so langsam sind
-Wir sollten mal wieder gemeinsam einkaufen gehen vielleicht
-Die Bio-Abteilung ist jetzt endgültig zu teuer geworden
 Hast du meine Einkaufstüte für morgen schon eingepackt?
-Der Lieferservice hat diesmal leider die falsche Sorte gebracht
-Ich mag es nicht wenn mich andere anschieben müssen
-Das Angebot auf die Pasta war wirklich super günstigt
 Kann ich dir mal kurz mit den Beuteln helfen?
-Die Milchgutscheine habe ich in meiner Geldbörse stecken
-Wir kaufen lieber lokal weil das alles frischer schmeckt
 Hast du gesehen wie viel teurer die Käsesorten sind?
-Mein Handy ist voll geladen für die bargeldlose Bezahlung
-Ich werde nächstes Mal bestimmt eine eigene Tasche mitnehmen
-Die Schlangen an den Selbstkassen sind manchmal noch länger
-Wir haben vergessen Brot zu kaufen verdammt nochmal einfach
-Das Obst sieht heute irgendwie matschig und alt aus echt
-Ich muss gleich kurz zur Tankstelle zum schnellen Zapfen
-Kannst du bitte die Einkaufstaschen wieder nach Hause tragen
 Hast du schon gesehen wie teuer die Butter geworden ist.
 Ich brauch noch Eier Brot und ein wenig Käse.
 Am besten schaust du zuerst in den Angeboten vorbei.
@@ -7364,7 +7342,6 @@ Haben wir eigentlich schon Salz da oder nicht?
 Das neue Regal im Supermarkt ist total unübersichtlich.
 Ich mag es nicht wenn man mich an der Kasse anspricht.
 Die Bananen haben endlich mal wieder einen guten Preis.
-Soll ich die Lebensmittel per Click&Collect abholen?
 Beim Discounter steht oft nur noch das billige Zeug.
 Ich versuche immer öfter saisonal einzukaufen um Geld zu sparen.
 Die Tüten am Eingang sind leider nicht mehr kostenlos.
@@ -7493,7 +7470,6 @@ Wir kaufen jetzt lieber lose Obst um Plastik zu sparen.
 Die Klamotten im Supermarkt sind eigentlich gar nicht so schlecht.
 Kannst du prüfen ob wir noch Reis da haben?
 Das Gemüse muss wirklich sofort verbraucht werden sonst wird es schlecht.
-Ich vergesse ständig die Milch aus dem Kühlschrank
 Ich habe heute kein Kleingeld für den Obst- und Gemüsesack dabei.
 Kannst du bitte noch Milch und Butter mitnehmen?
 Die Preise sind letztes Jahr wirklich stark gestiegen.
@@ -7786,7 +7762,6 @@ Mir reicht es nicht mehr ständig zwischen drei Marken zu wählen.
 Wir versuchen seit letztem Monat weniger Fleisch einzukaufen.
 Das Angebot auf die Nudeln ist eigentlich echt verlockend.
 Vergiss nicht deine Einkaufstasche mitzunehmen wir wollen ja plastikfrei bleiben.
-Ich steh immer noch in der Schlange und du bist schon da
 Ich hab total vergessen die Einkaufsliste aufzuschreiben.
 Warum ist das Brot heute wieder teurer geworden?
 Lass uns doch mal zusammen einkaufen gehen.
@@ -12918,32 +12893,6 @@ Wir sollten wirklich aufhören so viel Convenience Food zu kaufen.
 Bei dem Wind ist es echt nervig mit den Beuteln nach Hause zu kommen.
 Hast du gesehen wie teuer die Milch jetzt gerade geworden ist?
 Ich nehme lieber losgelöstes Obst statt in diesen hässlichen Schalen verpackt.
-Hab schon wieder vergessen für das Brot zu bezahlen
-Die Avocados auf dem Markt waren wirklich perfekt reif
-Kannst du mal prüfen ob wir noch Salz da haben
-Super unpraktisch wie eng die Gänge heute waren
-Ich kaufe lieber teures Fleisch aber dafür mehr
-Warum ist der Kaffee plötzlich so viel teurer geworden
-Hast du den Code für die Treuekarte dabei
-Das Bio-Sortiment bei uns in der Nähe wächst
-Endlich mal wieder ordentliche Bananen gefunden hooray
-Die Kasse Nummer drei war ganz klar am schnellsten
-Soll ich heute noch Joghurt nachkaufen oder reicht das
-Der Wochenmarkt hat dieses Jahr richtig gut geöffnet
-Mir ist die Liste im Auto liegen geblieben schrott
-Ich mag diese großen Supermärkte einfach nicht mehr
-Hast du gesehen wie billig die Äpfel waren
-Beim Discounter habe ich heute richtig viel gespart
-Wir müssen dringend wieder Öl und Essig kaufen
-Das Fleisch war total mager und wirklich frisch
-Kannst du mal die Preise im Internet vergleichen bitte
-Die Obsttheke sah eigentlich gar nicht so schlecht aus
-Ich probiere immer neue Sorten von Nudeln aus
-Fehl mir doch noch Zucker für den Kaffee
-Warum sind die Preise auf einmal so hoch gestiegen
-Das Obst war leider schon etwas zu weich geworden
-Hast du die Einkaufstasche nicht wieder vergessen gehabt
-Supermarktbummel am Sonntag ist bei uns Tradition
 Ich hab wieder zu viel Schokolade gekauft.
 Kannst du mal gucken ob noch Brot da ist?
 Die Preise für Butter sind echt ins Kraut gewachsen.
@@ -13651,3 +13600,2294 @@ Eigentlich wollte ich nur Bier holen aber dann hab ich alles gekauft.
 Die frischen Kräuter am Markt sind unschlagbar gegenüber denen dort drin.
 Ich hasse es wenn die elektronische Kasse so langsam reagiert.
 Kannst du mir mal sagen ob Sahne in der Nähe ist?
+Ich hab die Einkaufsliste auf dem Handy gespeichert.
+Warum sind Avocados heute wieder so teuer geworden?
+Nimm doch einfach den Gutschein im App-Menü.
+Das Bio-Sortiment im Supermarkt ist echt dürftig.
+Hast du zufällig noch Eier übrig von gestern?
+Ich kaufe lieber online weil ich keine Schlange mag.
+Die Preise für Grundnahrungsmittel steigen leider ständig weiter.
+Beim Wochenmarkt kann man die Verkäufer direkt ansprechen.
+Falls wir Milch brauchen hol ich morgen welche.
+Ich vergesse immer wieder die Käsestange auf der Liste.
+Der Preisvergleich lohnt sich bei Markenprodukten selten wirklich.
+Kannst du bitte noch Tomaten mitnehmen von zu Hause?
+Die Angebote im Prospekt sind meist nur lockende Fallen.
+Ich mag es wenn frische Kräuter direkt am Weg liegen.
+Warum gibt es hier keine vegane Milch mehr?
+Das Obst in der Kiste sieht gar nicht frisch aus.
+Zahlst du bargeldlos oder mit Karte an der Kasse?
+Ich esse lieber saisonales Gemüse vom nahen Bauernmarkt.
+Die Einkaufstüte muss ich leider selbst mitbringen heute.
+Hast du schon den Rabattcode für die App eingegeben?
+Der Discounter hat heute Abend besonders viel los irgendwie.
+Ich finde die Plastikverpackungen bei Joghurt absolut unnötig.
+Wir kaufen unseren Kaffee immer noch im Fachladen.
+Die Preise dort sind einfach fairer als hier drüben.
+Hast du gesehen wie teuer Butter plötzlich geworden ist?
+Hast du schon den Prospekt für diese Woche gesehen?
+Meine Einkaufstüte ist wieder komplett kaputt gegangen.
+Kannst du bitte die Avocados richtig auswerten bevor wir sie kaufen?
+Die Preise für Eier sind echt ins Ausrutschen gekommen.
+Hast du zufällig noch zwei Euro für den Parkautomaten?
+Im Regal fehlten wieder alle Bio-Haferflocken die ich mag.
+Wir sparen immer wenn wir zu Hause kochen statt auswärts essen.
+Der Schlange am Selbstscanger war heute zum Glück sehr kurz.
+Kannst du mir sagen ob das Sahnehäubchen noch im Angebot ist?
+Ich kaufe lieber lokale Äpfel weil sie besser schmecken.
+Die Kassenboni sammeln sich immer nur in der Tasche an.
+Hast du die Milch schon vom Kühlschrank genommen oder nicht?
+Beim Nachbarn gibt es manchmal gute Angebote auf Restposten.
+Ich vergesse jedes Mal die Butter zu Hause im Schrank.
+Das Fleisch war heute verdächtig teuer für so wenig Stück.
+Wir machen uns immer am Sonntagabend unsere Wochenliste zusammen.
+Hör auf mich mit dem Impulskauf bei den Bonbons zu nerven.
+Der Discounter hatte heute wieder schrecklich lange Warteschlangen.
+Ich finde die neuen Verpackungen viel umständlicher zum Öffnen.
+Kannst du prüfen ob wir noch Kaffee im Vorratsschrank haben?
+Die Preise am Markt ändern sich fast täglich zur Abendszeit.
+Ich mag es wenn der Verkäufer freundlich und schnell abkassiert.
+Wir haben endlich alle Dinge von der Liste geschafft gut gemacht.
+Hast du schon mal beim neuen Bioladen in der Stadt getestet?
+Die Preise sind in letzter Zeit wirklich durch die Decke gegangen.
+Kannst du mir noch Butter mit nach Hause bringen?
+Ich habe total vergessen, das Brot im Laden zurückzugeben.
+Beim Wochenmarkt kann man richtig gut mit dem Verkäufer handeln.
+Hast du schon gesehen, wie teuer die Kartoffeln geworden sind?
+Meine Einkaufsliste wird immer länger, je mehr ich kaufe.
+Wir probieren mal wieder den neuen Discounter an der Ecke aus.
+Das Bio-Sortiment ist zwar teurer, schmeckt aber einfach besser.
+Kannst du kurz zugucken, ob wir noch Kaffee da haben?
+Die Angebote auf dem Flyer sind diesmal echt verlockend.
+Am Montag nachmittags ist der Supermarkt zum Glück leerer.
+Ich verzichte langsam immer öfter auf unnötige Plastikverpackungen.
+Der Bäcker vor der Tür hat gerade frische Brötchen rausgeholt.
+Hast du den Gutschein in der Tasche oder liegt er zu Hause?
+Wir müssen dringend neue Toilettenpapiervorräte anschaffen.
+Das Obst im Supermarkt sieht oft besser aus als es schmeckt.
+Ich finde, die Selbstbedienungskassen sind eine echte Erleichterung.
+Meine Mutter schwört auf ihre alten Einkaufstüten aus Stoff.
+Die Wursttheke ist heute leider komplett leergeräumt worden.
+Hast du schon mal den neuen Lieferservice getestet?
+Wir kaufen unsere Gemüse gerne lokal, um die Umwelt zu schonen.
+Der Regler in der Gefriertruhe funktioniert wohl nicht richtig mehr.
+Ich habe versehentlich das falsche Produkt mit nach Hause genommen.
+Die Kassenboni sammle ich gar nicht mehr extra für Treuepunkte.
+Ich hab die Milch schon ausgehen sehen.
+Mann, diese langen Schlangen am Samstag sind ja eine Folter.
+Kannst du bitte beim Bäcker noch Brot holen?
+Der neue Discounter um die Ecke ist echt gut.
+Hab vergessen, meine Einkaufstüte mitzunehmen, dämlich.
+Die Avocados da hinten sehen gar nicht einladend aus.
+Ich kaufe lieber etwas teureres Obst, das schmeckt einfach besser.
+Meine Liste hatte ich wieder nur im Kopf, typisch.
+Das Angebot auf Joghurt war wirklich unschlagbar günstig.
+Kann man denn eigentlich mal normal bezahlen ohne Wartezeit?
+Der Kassenbon ist bei mir immer sofort weggeflogen.
+Wir versuchen langsam mehr saisonales Gemüse zu kaufen.
+Hast du gesehen, wie teuer die Milch geworden ist?
+Ich mag diesen neuen Markt, die sind super freundlich.
+Meine Einkaufstasche ist schon wieder kaputtgegangen, nervig.
+Die Bio-Abteilung wird immer größer, finde ich gut.
+Soll ich auch gleich Wein für den Abend holen?
+Der Preisvergleich zwischen den Marken hat sich gelohnt.
+Ich hasse es, wenn die Waage an der Obsttheke nicht geht.
+Wir kaufen unseren Kaffee nur noch direkt beim Röster.
+Die Pfandmaschine hat meine Flasche wieder verschluckt, ärgerlich.
+Das Gemüse auf dem Markt wirkt einfach frischer.
+Ich hab versehentlich zwei Pakete Butter gekauft, doof.
+Die Tüte war fast voll, gut gemacht von uns beiden.
+Hast du zufällig noch Butter für den Kaffee?
+Ich hab heute Morgen drei Stunden an der Kasse gestanden.
+Die Preise sind wieder gesprungen, das ist echt nervig.
+Kannst du beim Bäcker noch ein Baguette für uns holen?
+Ich schaffe es nicht mehr bis zum Supermarkt später.
+Das Angebot auf die Nudeln war echt super günstig.
+Wir sollten wirklich mal gemeinsam einkaufen gehen.
+Hast du die Liste auf dem Tisch liegen lassen?
+Mein Einkaufswagen hatte einen kaputten Rad, pech gehabt.
+Ich kaufe lieber online, da spare ich mir den Weg.
+Die Obstauswahl im Supermarkt sieht heute nicht gut aus.
+Soll ich noch Wein kaufen oder hast du welchen da?
+Das Fleisch war leider schon wieder ausverkauft.
+Ich vergleiche immer die Preise pro Kilogramm vorher.
+Hast du gesehen wie teuer die Kartoffeln geworden sind?
+Wir gehen heute zum Wochenmarkt, dort ist es entspannter.
+Kannst du bitte auf die Milch achten, die geht bald ab.
+Ich hasse es, wenn mein Handy an der Kasse nicht scannt.
+Das Bio-Gemüse schmeckt einfach besser als das normale.
+Hast du schon deine Treuekarte gefunden und dabei?
+Die Schlangen bei Self-Service sind manchmal sogar länger.
+Ich nehme lieber meine eigenen Tüten für das Obst.
+Kannst du prüfen ob wir noch Salz da haben?
+Der neue Discounter um die Ecke hat nette Preise.
+Wir machen heute einfach nur einen kleinen Zwischenkauf.
+Ich hab die Liste wieder vergessen und kaufe jetzt nur improvisiert.
+Das Angebot auf das Joghurt endet heute Abend um sechs Uhr.
+Kannst du mal schauen ob wir noch Eier da haben?
+Im Supermarkt ist immer voll wenn ich endlich Zeit finde.
+Die Bananen sind hier leider schon etwas braun geworden.
+Ich zahle lieber mit Karte denn Bargeld nervt mich so.
+Wir müssen dringend Putzmittel kaufen weil die Kekse alle sind.
+Der Preis für Kaffeebohnen steigt wirklich zum Durchdrehen an.
+Hast du den Barcode vom Artikel da drüben gesehen?
+Ich esse doch nicht wieder nur diese industrielle Fertigmahlzeit.
+Beim Wochenmarkt riecht alles so frisch und einladend.
+Ich suche eigentlich nur nach einem günstigen Duschgel ohne Parfüm.
+Kann ich das mit dem Gutschein noch heute einlösen?
+Mir ist der Einkaufswagen abgebrochen während ich die Milch holte.
+Wir kaufen unser Obst jetzt lieber direkt beim Hofladen.
+Die Selbstkassen sind total langsam wenn die Scanner streiken.
+Ich habe versehentlich die falsche Größe vom Shampoo erwischt.
+Lass uns doch einfach online bestellen und uns liefern lassen.
+Der Joghurt ist zwar teurer aber dafür hat er bessere Zutaten.
+Ich vergesse immer die Zwiebeln obwohl sie auf der Liste stehen.
+Am Freitagabend quetscht sich das ganze Viertel in den Markt.
+Die Tüte vom Discounter reißt bei jeder zweiten Tasche wieder ein.
+Kannst du kurz den Kinderwagen anmachen während ich einkaufen gehe?
+Ich finde es gut dass wir jetzt regional einkaufen können.
+Ich steh schon wieder in der Schlange obwohl nur zwei Leute vor mir sind.
+Kannst du mal kurz schauen ob wir noch Brot haben?
+Das Obst vom Wochenmarkt schmeckt einfach besser als aus dem Supermarkt.
+Hast du den Gutschein für die Milch nicht vergessen?
+Die Preise für Äpfel sind dieses Jahr wieder explodiert.
+Ich habe keine Lust mehr auf diese riesigen Regale mit tausend Sorten Ketchup.
+Meine Einkaufstüte ist schon voll und ich hab noch nichts gekauft.
+Wir sollten mal gemeinsam einkaufen gehen dann sparen wir Zeit.
+Der Junge an der Kasse wirkt total genervt von den Kunden.
+Ich versuche immer auf die Bio-Qualität zu achten bei der Milch.
+Hab dir gerade deine Lieblingsmarke Joghurt mitgenommen weil du den liebst.
+Die Angebote am Samstag sind meist gar nicht so gut wie gedacht.
+Ich hasse es wenn meine Liste beim Suchen in der Tasche zerplatzt.
+Kann ich das vielleicht auch noch online bestellen und abholen lassen?
+Das Fleisch im Supermarkt sieht heute irgendwie nicht so frisch aus.
+Wir kaufen immer nur die Grundzutaten ein und kothen dann selbst zu.
+Vergiss bitte den Kaffee nicht denn der ist wieder leer.
+Die Preise beim Discounter sind halt einfach um einiges niedriger.
+Ich finde es super wenn man regional einkaufen kann ohne Umwege.
+Hast du schon gesehen wie teuer die Nudeln geworden sind?
+Meine Kinder wollen nur noch dieses bestimmte Müsli haben sonst nichts.
+Am besten kaufe ich immer montags ein wenn die Ware am frischesten ist.
+Ich hab meine Tasche vergessen und muss zurückgehen alles doof.
+Kannst du bitte den Einkaufswagen für mich zur Seite schieben?
+Die Abteilungen sind in diesem Markt so durcheinander organisiert nervig.
+Hast du auch bemerkt dass es kaum noch Bananen gibt?
+Machst du schon den Einkauf oder soll ich?
+Die Preise sind heutzutage echt ins Kraut gewachsen.
+Ich hab die Milch vergessen wie immer blöd.
+Kannst du bitte noch Brot vom Bäcker holen?
+Das Angebot auf Paprika ist heute super günstig.
+Wir brauchen noch etwas Gemüse für das Abendessen.
+Die Schlangen an der Kasse waren wahnsinnig lang.
+Ich kauf lieber lokal ein um was zu unterstützen.
+Hast du schon den Preisvergleich gemacht online?
+Meine Einkaufstasche hat sich wieder geöffnet ärgerlich.
+Das Bio-Angebot ist heute doch viel besser geworden.
+Ich hasse es wenn meine Karte nicht geht.
+Soll ich noch Wein mitnehmen zum Geburtstag später?
+Die neuen Produkte sehen gar nicht so schlecht aus.
+Am Markt kostet der Obststand fast doppelt so viel.
+Kannst du den Kassenbon für die Kosten übernehmen?
+Ich finde Plastikfrei einkaufen ist doch ganz einfach.
+Das Fleischregal war leider schon komplett leer heute.
+Wir müssen bald mal wieder Vorräte nachkaufen gehen.
+Die Sonderangebote locken mich immer in falsche Regale.
+Hast du gesehen wie teuer die Butter jetzt ist?
+Ich versuche immer pünktlich zu sein vor der Öffnung.
+Der Cashless-Bezahlautomat an der Kasse war kaputt.
+Wir kaufen unsere Kartoffeln nur noch auf dem Hof.
+Kannst du mal schauen ob wir noch Butter haben?
+Ich hasse diese langen Warteschichten an der Kasse.
+Das Angebot auf Milch war eigentlich echt super.
+Hab die Einkaufsliste wieder im Kopf vergessen.
+Beim Rewe ist das Obst heute deutlich teurer.
+Soll ich beim Weg zurück noch Joghurt holen?
+Ich kaufe nur noch Bio wenn es wirklich nötig ist.
+Die Preise für Fleisch sind mir einfach zu hoch geworden.
+Hast du schon gesehen wie teuer das Brot jetzt ist?
+Ich gehe lieber auf den Markt weil da frischer ist.
+Meine Liste war heute mal wieder viel zu lang.
+Der Kassenbon hat irgendwie immer keine Ahnung vom Preis.
+Wir sparen kräftig wenn wir discounter nutzen.
+Ich finde diese plastikverpackungen echt nervig und unnötig.
+Kannst du beim Bäcker noch eine Croissant mitnehmen?
+Die Rabattaktion war total nebensächlich für mich.
+Ich vergleiche immer die Preise pro kilogramm genau.
+Meine Mutter kauft alles direkt vom bauernhof ein.
+Das regellager ist heute mal wieder komplett durcheinander.
+Ich nehme lieber meine eigene tasche zum einkaufen.
+Warum kostet diese marke plötzlich so viel mehr?
+Der supermarkt in der nähe hat schlecht aufgestockt.
+Ich hab vergessen einkaufen zu gehen und nun hunger.
+Frisches gebäck schmeckt einfach besser als aus dem pack.
+Meine einkaufstour dauert heute ewig lange leider.
+Ich hab wieder nur Wasser gekauft weil ich die Liste vergessen hab.
+Die Preise für Brot sind bei uns wirklich explodiert in letzter Zeit.
+Soll ich beim Supermarkt oder lieber direkt am Wochenmarkt vorbeischauen?
+Das Angebot vom Bäcker heute morgen war echt lecker und frisch.
+Hast du schon gesehen wie teuer die Milch plötzlich geworden ist?
+Ich ziehe immer noch das Glas vor Plastik bei Joghurtprodukten.
+Meine Mutter schwört nur auf ihre selbstgemachte Einkaufsliste per Hand.
+Wir haben heute Abend einfach nur Nudeln mit Tomatensoße gegessen.
+Kannst du bitte noch Bananen mitnehmen die gehen mir langsam aus?
+Ich finde es stressig wenn alle gleichzeitig am Wochenende einkaufen gehen.
+Die Bioabteilung ist zwar teurer aber die Qualität stimmt einfach mehr.
+Habe gerade bemerkt dass meine Kreditkarte beim Bezahlen nicht geklappt hat.
+Wir sparen immer noch Restposten vom Vortag um Geld zu sparen.
+Der Kassi war heute besonders unfreundlich weil er so lange warten musste.
+Ich versuche mittlerweile öfter regional einzukaufen um etwas beizutragen.
+Die Einkaufstüte aus Papier ist zwar nachhaltiger aber leider weniger stabil.
+Hab ich dir gesagt dass der Käse im Angebot war diese Woche?
+Mein Mann kocht gerne aber das Einkaufen überlässt er komplett mir.
+Wir haben uns heute eine große Packung Reis geholt für die Vorratshaltung.
+Das Gemüse am Markt schmeckt einfach anders als aus dem Supermarktregal.
+Die Preise hier im Dorf sind wirklich unheimlich hoch für das was man kriegt.
+Soll ich die Obst- oder Gemüsetasche nehmen weil ich nur Beides brauch?
+Meine Oma kauft immer noch bei der alten Metzgerei in der Straße ein.
+Ich hab vergessen die Liste aufzunehmen und schau jetzt blind rum.
+Das Angebot für Kaffeebohnen lohnt sich echt, wenn du zwei Packungen nimmst.
+Warum kostet der Joghurt da hinten plötzlich das Doppelte?
+Meine Frau schwört auf den Bio-Lieferservice, ich finds zu teuer.
+An der Selbstbedienungskasse hat meine Karte wieder nicht funktioniert.
+Kannst du bitte noch Butter holen, die ist nämlich alle.
+Ich mag die kurzen Wege beim kleinen Lebensmittelladen in der Ecke.
+Die Preise für Eier sind in letzter Zeit wahnsinnig gestiegen.
+Wir haben den großen Supermarkt gemieden, weil es dort zu voll war.
+Hast du gesehen, dass sie gerade Marmelade im Angebot haben?
+Ich nehme lieber die Eigenmarke, der Geschmack ist genau so gut.
+Auf dem Markt habe ich super leckere Erdbeeren für wenig Geld gefunden.
+Vergiss nicht den Joghurt mitzunehmen, sonst sind wir morgen leer.
+Die Einkaufstüte hat sich gerissen und alles ist auf dem Boden verteilt.
+Der Mitarbeiter an der Kasse war heute echt unfreundlich zu mir.
+Wir versuchen uns nachhaltiger zu ernähren und kaufen regional ein.
+Hast du schon gesehen, wie teuer das Obst im Winter wird?
+Ich liebe den Geruch von frischem Brot direkt nach dem Bäcker.
+Die Flaschenmülltonne ist gerade voll, da muss man warten.
+Kann ich dir was für den Supermarkt sagen, ich fahre gleich hin.
+Mein Einkaufswagen hatte ein kaputtes Rad und schwankte ganz schlimm.
+Ich mag es nicht, wenn sie mir zu viele Tüten aufdrängen wollen.
+Das neue Regallayout verwirrt mich total, ich finde meine Marken nicht.
+Wir sparen richtig Geld, indem wir die Wochenendangebote nutzen.
+Hast du zufällig den Einkaufszettel auf dem Küchentisch liegen?
+Die Tomaten sehen heute echt besser aus als letzte Woche.
+Ich habe an der Self-Service-Kasse wieder total gestritten.
+Soll ich gleich noch ein paar Bananen mitnehmen für dich?
+Der Kaffee im Supermarkt ist einfach viel zu teuer geworden.
+Wir haben keine Eier mehr da, geh mal bitte einkaufen.
+Beim Baukau war alles deutlich günstiger als bei Aldi.
+Ich hasse es wenn die Kassenbande so langsam abläuft.
+Hast du das Angebot auf Milch gesehen? Das muss ich holen.
+Das Obst vom Wochenmarkt schmeckt einfach anders als im Regal.
+Kannst du bitte nachsehen ob noch Sahne im Kühlregal ist?
+Ich versuche mir abzustommen und kaufe daher weniger Fleisch.
+Die Preise für Butter sind wirklich ins Astronomische geschnellt.
+Wir kaufen unser Brot lieber direkt beim Bäcker nebenan.
+Hast du schon gesehen dass es ein Sonderangebot auf Wein gibt?
+Ich finde den neuen Supermarkt um die Ecke viel freundlicher.
+Meine Einkaufstasche war kaputt, also habe ich alles in zwei Hände getragen.
+Soll ich beim Fleischer noch Hähnchenbrust mitbestellen oder reicht das?
+Das Regal war leer, weil wohl alle panisch eingekauft haben.
+Ich mag es nicht wenn man ständig umstellen muss für die Coupons.
+Die Obststation im Markt ist heute ein richtiges Durcheinander.
+Hast du zufällig einen 50-Cent-Münze? Die Kasse gibt kein Kleingeld raus.
+Wir sollten bald mal wieder den Großeinkauf erledigen, der Vorrat wird knapp.
+Das Gemüse sieht zwar toll aus ist aber leider matschig drin.
+Ich hab die Einkaufsliste glücklicherweise nicht wieder vergessen.
+Super dass du Milch mitgenommen hast die war schon aus.
+Das Angebot auf Joghurt sieht echt verlockend aus heute.
+Warum ist der Kaffee beim Discountladen so viel günstiger?
+Wir sollten mal mehr auf die Haltbarkeitsdaten achten.
+Der Wochenmarkt hat doch diese fantastischen Erdbeeren im Angebot.
+Kannst du bitte auch noch Butter dazu packen für morgen.
+Ich hasse es wenn die Selbstbedienungskassen wieder streiken heute.
+Die Preise bei Obst sind leider immer noch zu hoch geworden.
+Hast du schon gesehen wie teuer der Lachs plötzlich ist?
+Meine Mami macht ihre Einkäufe ausschließlich im Bioladen dort.
+Wir sparen am meisten wenn wir selbst kochen anstatt fertig kaufen.
+Das Regal war komplett leer von den Keksen die ich mag.
+Soll ich noch schnell zur Tankstelle vorbeischauen für Benzin?
+Der Kassenbon wurde leider wieder zerknittert in der Tasche.
+Ich versuche dieses Jahr wirklich weniger Fleisch zu einkaufen insgesamt.
+Die neuen Plastikbecher sind einfach viel umständlicher als früher halt.
+Hast du eine Ahnung wie viele Euro das eigentlich geworden sind?
+Beim Bäcker nebenan gibt es immer super frisches Brötchen frisch.
+Ich finde den Gemüsesortiment im Supermarkt ist total überbewertet heute.
+Wir kaufen lieber in Großpackungen dann spart man wirklich was.
+Das Angebot auf Kartoffeln war leider schon wieder ausgebucht gestern.
+Kannst du die Milch einfach ins Regal stellen nach dem Einkaufen?
+Ich hab vergessen den Gutschein für das Fleisch mitzunehmen diesmal.
+Supermarktbummel am Samstag ist mir ehrlich gesagt zu stressig geworden.
+Ich habe total vergessen die Einkaufsliste zu schreiben.
+Kannst du bitte noch Brot beim Bäcker holen?
+Die Preise für Milch sind wieder mal gestiegen.
+Am Wochenmarkt kriege ich immer das beste Obst.
+Hast du gesehen wie teuer Eier geworden sind?
+Ich esse lieber Bio wenn es nicht mehr kostet.
+Die Schlangen an der Kasse sind heute ewig lang.
+Wir sparen Geld indem wir die Eigenmarke kaufen.
+Mein Kühlschrank ist schon wieder komplett leer.
+Soll ich für dich noch Joghurt mitnehmen?
+Das Angebot auf Nudeln läuft leider morgen aus.
+Ich hasse es wenn Produkte nur im hinteren Regal stehen.
+Kannst du mal schauen ob wir Salz da haben?
+Der Supermarkt um die Ecke schließt schon bald.
+Wir kaufen unseren Kaffee immer direkt bei den Bauern.
+Hast du noch Geld für den Rest der Rechnung?
+Die Bio-Abteilung ist viel schöner angelegt hier.
+Ich finde es schwierig gesunde Snacks zu finden.
+Morgen gehe ich einkaufen weil das Wochenende naht.
+Kannst du die schweren Kisten bitte tragen?
+Das Gemüse sieht heute wirklich frisch und gut aus.
+Wir versuchen weniger Fleisch zu kaufen jeden Monat.
+Hast du schon den Gutschein für den Supermarkt?
+Ich vergesse immer wieder das Brot mitzunehmen.
+Der Preisvergleich bei Online-Marktplätzen lohnt sich echt.
+Ich habe die Milch vergessen, dämlich von mir.
+Kannst du bitte noch Brot holen auf dem Heimweg?
+Die Preise sind in letzter Zeit echt hoch gestiegen.
+Im Angebot war das Obst günstiger als sonst üblich.
+Ich bevorzuge Produkte ohne viele künstliche Zusätze eigentlich.
+Hast du gesehen, wie voll der Supermarkt gerade ist?
+Meine Einkaufstasche hat sich gerade am Boden entleert.
+Wir kaufen unser Gemüse lieber direkt bei Bauern ab.
+Kann ich die Kassenbon durchstreichen oder nimmst du alles?
+Das Regal war komplett leer, obwohl es vormittags war.
+Ich finde die Bio-Produkte sind den Mehrpreis wert.
+Hast du schon mal beim neuen Discounter um die Ecke einkaufen?
+Die Bananen waren leider schon richtig braun und matschig.
+Mein Kühlschrank sieht aus wie eine Farbpalette aktuell.
+Vergiss nicht, die Coupons auszudrucken, bevor wir losfahren.
+Ich hasse es, wenn man sich durch volle Gänge schlängeln muss.
+Der Metzger unten hat immer das beste Fleisch im Angebot.
+Wir versuchen jetzt bewusst weniger Lebensmittel wegzewerfen.
+Kannst du mir sagen, wo die neue Marmorkäsesorte steht?
+Die Selbstbedienungskassen funktionieren bei mir immer mal wieder nicht richtig.
+Ich brauche dringend Sahne für den Kuchen morgen Abend.
+Beim Wochenmarkt riecht es so frisch und einladend dort.
+Hast du noch Eier da oder müssen wir welche kaufen?
+Die Verpackungsmüllberge im Supermarkt sind mir zu viel.
+Hast du zufällig schon das Ketchup gekauft?
+Die Preise für Kartoffeln sind ja wieder gesprungen.
+Ich such den längsten Weg zum kältesten Regal.
+Am besten nehmen wir die Bahn um die Miete zu sparen.
+Das Angebot auf Bananen lief gerade erst ab.
+Kannst du bitte noch zwei Brotdosen mitbringen?
+Im Supermarkt riecht es morgens immer nach Brötchen.
+Wir haben vergessen dass heute der letzte Tag ist.
+Hast du den neuen Rabattgutschein im Handy gespeichert?
+Die Wursttheke hat heute schrecklich lange Schlangen.
+Ich hasse es wenn mein Einkaufswagen klemmt.
+Soll ich für dich auch mal einkaufen gehen?
+Das Bio-Brot kostet zwar doppelt so viel aber es schmeckt besser.
+Meine Liste wird immer länger je länger ich überlege.
+Am Markt habe ich die frischesten Kräuter gefunden.
+Vergiss nicht die Milch und das Brot zu holen.
+Die Selbstbedienungskasse ist eigentlich ganz praktisch wenn sie läuft.
+Ich kaufe lieber lose Obst statt aus Plastikschalen.
+Hast du schon mal beim neuen Discounter rumgeschaut?
+Der Kaffee an der Kasse ist überteuert und ekelhaft.
+Wir versuchen plastikfrei einzukaufen aber das ist schwer.
+Hast du meine Kreditkarte oder hast du sie vergessen?
+Das Fleisch heute sieht echt nicht so frisch aus.
+Ich brauche dringend neues Shampoo und Zahnpasta.
+Kann ich deine Karte nutzen bis ich Geld habe?
+Die Joghurts waren heute wieder ganz schön teuer.
+Ich habe vergessen die Milch auf die Liste zu schreiben.
+Kannst du kurz in den Kühlschrank schauen ob wir Butter haben?
+Beim Aldi ist das Obst im Moment viel günstiger.
+Ich mag es nicht wenn die Kasse so lange dauert.
+Hast du schon gesehen wie hoch der Brotpreis gestiegen ist?
+Wir sollten vielleicht mal wieder auf den Wochenmarkt gehen.
+Die Bio-Tomaten schmecken einfach besser als die normalen.
+Ich kann nie entscheiden welche Nudelsauce ich nehmen soll.
+Meine Einkaufstüte ist gleich kaputt gegangen am Griff.
+Soll ich noch ein paar Bananen mitnehmen für dich?
+Der Supermarkt ist heute leider schon zu.
+Ich hasse es wenn meine Kreditkarte an der Kasse abgelehnt wird.
+Die Angebote auf dem Flyer waren total übertrieben.
+Ich kaufe lieber lokal statt bei diesen riesigen Ketten.
+Hast du die Quittung für mich behalten bitte?
+Das neue Regal im Milchgang ist total unübersichtlich.
+Wir müssen dringend mal wieder den Vorratsschrank leerräumen.
+Die Schlangesteherei am Samstagvormittag ist mir zu viel.
+Ich suche schon seit fünf Minuten nach der Paprika.
+Meine Oma kauft nur noch bei ihrem festen Gemüsehändler ein.
+Ich finde diese großen Tüten einfach unpraktisch im Auto.
+Haben wir noch genug Kaffee da oder müssen wir besorgen?
+Hast du zufällig die Einkaufsliste im Handy gespeichert?
+Die neuen Obstpreise haben mich wirklich ins Staunen versetzt.
+Im Regal war plötzlich wieder mein Lieblingsjoghurt verfügbar.
+Kannst du kurz halten, ich muss schnell noch Eier ergreifen.
+Beim Discounter um die Ecke ist alles deutlich günstiger.
+Ich finde es nervig, immer wieder nach dem Code zu scannen.
+Hast du schon mal die neue Bio-Marke ausprobiert?
+Meine Tasche war heute leider voll und schwer.
+Der Bäcker hat heute Abend noch frische Brötchen übrig.
+Wir sollten bald mal gemeinsam zum Wochenmarkt gehen.
+Die Werbung für Milchlocken hat mich wieder reingelogen.
+Ich vergesse immer das Taschengeld für die Kassenhelfer.
+Das Gemüse am Stand nebenan schmeckt einfach besser.
+Hast du den Gutschein für Kaffee noch in deiner Brieftasche?
+Der Regalplan war heute total unübersichtlich und verwirrend.
+Ich kaufe nur noch lose Ware, um Müll zu sparen.
+Die Kassiererin war heute unglaublich langsam bei der Abrechnung.
+Mein Kühlschrank ist wieder bis oben hin komplett voll.
+Wir suchen dringend einen zuverlässigen Lieferanten für frische Milch.
+Die Angebote dieser Woche sind wirklich nicht so überragend.
+Hast du den Becher schon leer gegessen oder aufbewahrt?
+Ich mag es, wenn man sich die Lebensmittel aussuchen darf.
+Der Preisunterschied zwischen Marken und Eigenmarke ist groß.
+Kann ich dir beim Tragen der schweren Kisten helfen?
+Hast du schon die Angebote für diese Woche gesehen?
+Die Milch war leider wieder abgelaufen auf dem Regal.
+Ich kauf am liebsten immer Bio wenn es der Geldbeutel hergibt.
+Kannst du bitte noch Brot und Butter mitnehmen beim nächsten Gang?
+Der Einkaufswagen hat eine klemmende Räder was nervt einfach total.
+Warum sind Eier eigentlich in letzter Zeit so teuer geworden?
+Ich hasse es die Tüten im Auto zu suchen wenn ich einkaufen gehe.
+Das Obst am Wochenmarkt schmeckt mir immer viel besser als das im Supermarkt.
+Haben wir noch genug Kaffee da oder muss ich wieder ran?
+Die Kassenbedienerin hat den Barcode einfach nicht gelesen und war genervt.
+Ich versuche bewusst Markenprodukte zu meiden um Geld zu sparen.
+Auf der Liste steht zwar nur fünf Punkte aber ich hab was vergessen.
+Das neue Regal beim Discounter ist wirklich viel übersichtlicher geworden.
+Meine Oma kauft noch alles in Glasschalen ein statt Plastikverpackungen.
+Der Preisvergleich bei Lebensmitteln lohnt sich gerade mal nicht mehr so oft.
+Ich würde lieber bar zahlen aber da steht immer die längste Schlange.
+Die Tomaten sahen gut aus schmeckten aber nach reinem Wasser halt.
+Kannst du kurz schauen ob wir noch Eier haben ich backe morgen.
+Immer wenn ich einkaufen gehe kaufe ich Sachen die ich gar nicht brauche.
+Ich finde den Supermarkt am Wochenende ist einfach viel zu voll und laut.
+Welche Marke Käse nimmst du eigentlich immer für die Pizza am Feierabend?
+Die selbstgemachte Einkaufsliste auf dem Handy hilft mir wirklich sehr weiter.
+Da muss ich nochmal umsteigen weil der erste Laden schon längst geschlossen hat.
+Leider war mein Lieblingsmarkenbrot wieder ausverkauft als ich vorbeigekommen bin.
+Kannst du die Boni behalten falls wir sie später noch einlösen wollen?
+Ich muss dringend Milch und Brot besorgen.
+Die Preise für Obst sind in letzter Zeit echt gestiegen.
+Hast du die Einkaufsliste oder soll ich sie schreiben?
+Beim Wochenmarkt ist das Gemüse einfach viel frischer.
+Ich hasse es, wenn vor mir nur zwei Leute stehen.
+Kannst du bitte auch noch Frischkäse mitnehmen?
+Das Angebot auf Butter läuft morgen wieder aus.
+Wir gehen heute abend schnell noch einkaufen.
+Der Supermarkt um die Ecke hat bis elf Uhr offen.
+Ich vergleiche immer den Preis pro Kilogramm genau.
+Meine Kinder wollen nur Chips und Kekse kaufen.
+Die Kassen sind am Wochenende leider immer total voll.
+Hast du schon gesehen, wie teuer der Kaffee ist?
+Ich kaufe lieber regionale Produkte wenn möglich.
+Das Regal mit den Nudeln war komplett leer.
+Soll ich für dich noch was aus dem Laden holen?
+Wir haben heute wieder zu viel eingekauft und gegessen.
+Der Discounter ist günstiger, aber die Auswahl klein.
+Ich vergesse immer die Bananen auf die Liste.
+Kann ich das mit der Tankkarte bezahlen gehen?
+Die Joghurts im Angebot sind fast alle abgelaufen.
+Ich esse lieber frisch gekocht als Fertiggerichte zu kaufen.
+Der Bäcker um die Ecke hat das beste Brötchen.
+Wir sparen jedes Mal ein paar Euro bei Eigenmarken.
+Hast du schon die Rechnung für den Einkauf bezahlt?
+Das Obstkorb-Angebot war gestern leider schon ausverkauft.
+Hast du die Milch schon gekauft oder warst du noch nicht da?
+Der Preis für Bananen ist dieses Woche irgendwie wieder gesunken.
+Kannst du mir bitte das Brot vom Wochenmarkt mitbringen?
+Die Aktionsflieger im Supermarkt sind total verwirrend gestaltet.
+Wir versuchen jetzt öfter regionale Produkte zu kaufen um die Umwelt zu schonen.
+Hast du zufällig noch Ingwer zu Hause oder muss ich welchen holen?
+Das Self-Checkout System geht wieder mal nicht und niemand hilft.
+Ich hasse es wenn meine Lieblingsmarke plötzlich vom Regal verschwindet.
+Am Freitagabend ist der Supermarkt immer wie verrückt überfüllt.
+Hast du die neue Einkaufstüte dabei oder nehmen wir doch welche?
+Der Obststand auf dem Markt hat diese Woche richtig leckere Äpfel.
+Kann man hier vielleicht auch mit Karte bezahlen an dieser Kasse?
+Die Bio-Abteilung ist zwar teurer aber die Qualität stimmt einfach.
+Wir machen immer sonntags den großen Wochenkauf für die ganzen Tage.
+Hast du gesehen wie teuer die Milch jetzt schon wieder geworden ist.
+Ich vergesse immer wieder die Batterie für das Handynetz mitzunehmen.
+Bei uns im Supermarkt steht heute Joghurt zur Hälfte vom Preis.
+Der Bäcker um die Ecke macht wirklich das beste Brötchen der Stadt.
+Hast du schon gesehen dass wir nur noch zweieinhalb Eier da haben?
+Ich kaufe lieber lose Ware damit weniger Plastikmüll entsteht.
+Die Preise in der Innenstadt sind echt überteuert im Vergleich dazu.
+Kannst du kurz zugucken wo der Essig steht ich finde ihn nicht.
+Meine Einkaufsliste ist immer viel länger als gedacht am Ende.
+Kannst du mal gucken ob wir noch Eier haben?
+Hast du das Angebot auf die Spaghetti gesehen?
+Ich hasse es wenn die Kasse so lange steht.
+Beim Aldi ist das Fleisch heute viel günstiger.
+Wir brauchen unbedingt neue Waschmittel und Geschirrspüler.
+Kann ich den Teller auch per Karte bezahlen?
+Die Avocados auf dem Markt waren super lecker.
+Ich finde Bio Lebensmittel sind einfach besser für die Gesundheit.
+Hast du meine Einkaufstüte mitgenommen oder habe ich sie vergessen?
+Der Bäcker hier um die Ecke hat das beste Brot.
+Zu Hause war doch noch genug Nudeln da glaub ich.
+Ich kaufe lieber lose Obst anstatt im Plastikbeutel.
+Die Preise für Käse sind wieder in die Höhe geschossen.
+Soll ich auf dem Weg nach Hause noch Wein holen?
+Mein Kühlschrank ist komplett leer seit dem Umzug.
+Wir sparen immer wenn wir selbst gekochte Suppe mitnehmen.
+Die Selbstbedienungskassen sind viel schneller als die normalen.
+Hast du schon mal bei Rewe nachschauen ob sie noch haben?
+Ich mag es nicht wenn mir jemand hinterher schaut beim Shoppen.
+Die Tomaten schmecken einfach besser vom eigenen Balkon.
+Wir haben zu viel Obst gekauft und es wird braun.
+Kannst du die Quittung bitte für mich aufheben?
+Am Montag ist Markttag da sind alle Produkte frischer.
+Hast du zufällig noch Eier oder muss ich woanders vorbei schauen?
+Die Preise für Kartoffeln sind wieder mal ins Gewicht gefallen.
+Ich hasse es, wenn mein Einkaufswagen so einen quietschenden Reifen hat.
+Kannst du bitte die Avocados prüfen ob sie schon reif genug sind?
+Beim Wochenmarkt kostet derSame Obst manchmal mehr als im Discounter.
+Ich vergesse immer den Wiedergabeschein für die Pfandflaschen.
+Hast du gesehen wie teuer das Brot beim Bäcker um die Ecke ist?
+Wir versuchen jetzt wieder genauer zu planen damit weniger weggeworfen wird.
+Der Scanner an der Kasse wollte einfach nicht richtig arbeiten heute.
+Meine Liste liegt wahrscheinlich noch auf dem Küchentisch vergessen.
+Ich finde die Auswahl an Bio-Produkten im kleinen Laden sehr begrenzt.
+Soll ich noch Wein mitnehmen oder hast du schon etwas da?
+Die Schlange an Kassenzehn war heute absurd lang und hat sich kaum bewegt.
+Immer diese versteckten Preiserhöhungen bei den Markenartikeln nerven mich.
+Hast du den Gutschein für die Bäckerei im Geldbeutel dabei?
+Ich kaufe lieber lose Äpfel statt aus dieser unnötigen Plastikschale.
+Das Fleischregal war komplett leer als ich vorbeigelaufen bin.
+Kannst du mir sagen ob das Milch heute noch ganz frisch ist?
+Wir machen heute keinen großen Einkauf weil die Vorräte noch reichen.
+Die neuen Regalaufstellungen im Supermarkt finden total verwirrend und zeitraubend.
+Ich habe zufällig einen guten Deal auf Reis gefunden.
+Warum kosten immer nur die Dinge mehr die man dringend braucht?
+Der Kassenbon ist wieder mal so lang wie ein Telefonbuch.
+Soll ich den Salat mitnehmen oder machst du ihn selbst aus Gemüse?
+Ich habe total vergessen die Milch für den Kaffee mitzunehmen.
+Am Wochenende ist der Supermarkt immer eine wahre Katastrophe.
+Hast du schon gesehen wie teuer die Äpfel jetzt sind?
+Ich ziehe es vor direkt beim Bauern zu kaufen.
+Die Rabattaktion auf Nudeln war leider schon abgelaufen.
+Meine Einkaufstasche hat gerade ganz schön ordentlich gerissen.
+Kannst du mir mal sagen ob wir noch Butter haben?
+Beim Wochenmarkt bekommt man wirklich das beste Fleisch.
+Ich hasse es wenn die Kasse ewig nicht mehr geht.
+Wir sollten mal wieder zusammen einkaufen gehen am Samstag.
+Das neue Regal im Supermarkt ist einfach unübersichtlich.
+Mein Handy hat gerade den Barcode nicht erkannt.
+Die Bananen sind heute besonders billig und auch noch reif.
+Ich muss dringend noch Brot kaufen bevor es ausläuft.
+Warum sind immer nur die besten Plätze weg?
+Ich finde Bio-Lebensmittel lohnt sich trotz des Preises.
+Hast du deine Treuekarte bei dir oder soll ich?
+Der Lieferdienst war heute wieder mal eine halbe Stunde zu spät.
+Wir sparen ganz viel indem wir eigene Marken kaufen.
+Die Frischetheke hatte heute leider schon alles ausverkauft.
+Ich habe versehentlich zwei mal die gleiche Sauce gekauft.
+Beim Großmarkt kauft man natürlich am günstigsten ein.
+Meine Liste ist wieder unleserlich geworden weil sie nass war.
+Ich vermisse die persönliche Beratung im kleinen Laden.
+Kann ich deine Rechnung abscannen damit wir geteilt zahlen?
+Die Angebote am Samstag sind meistens total ausverkauft.
+Ich schau immer erst die Preise auf dem Handy ab.
+Kannst du bitte noch Brot von der Bäckerei holen?
+Beim Rewe war heute ein super Angebot auf Olivenöl.
+Meine Einkaufstüte hat sich leider schon wieder geöffnet.
+Wir versuchen so oft wie möglich Bio zu kaufen.
+Der Lieferservice kostet leider jedes Mal extra viel.
+Hast du die Joghurts oder nur den Käserand genommen?
+Ich hasse es, wenn an der Kasse alles stockt.
+Auf dem Markt schmeckt die Äpfel einfach besser.
+Soll ich beim Discounter vorbeischauen oder lieber nicht?
+Die Preise für Milch sind wieder einmal gestiegen.
+Vergiss bitte nicht die Batterien mitzunehmen okay?
+Ich kauf immer nur noch nach Saison ein.
+Das Regal mit den Chips ist komplett leer heute.
+Kann ich dir helfen, die Taschen zu tragen?
+Beim Aldi war der Lachs wirklich ganz frisch.
+Ich zähle immer genau meine Restgeld Münzen.
+Die neuen Sorten von Cola schmecken mir gar nicht.
+Muss ich denn wirklich alles selbst ins Auto laden?
+Wir haben jetzt eine App für die Einkaufsliste.
+Der Wochenmarkt ist am besten vormittags besucht.
+Hast du schon mal probiert, Obst ohne Verpackung zu kaufen?
+Die Kassenkarte funktioniert heute einfach überhaupt nicht.
+Ich liebe es, wenn man auf dem Markt verhandeln kann.
+Supermärkte haben wirklich lange Warteschlangen samstags.
+Ich hasse es wenn meine Liste schon wieder voll ist.
+Das Brot beim Bäcker schmeckt einfach viel besser.
+Hast du auch gesehen wie teuer Eier geworden sind?
+Wir sparen immer gerne mit der App im Discounter.
+Die Kassen sind heute morgen komplett leer gewesen.
+Ich nehme lieber die Bio-Milch statt der Normalen.
+Am Wochenmarkt kaufe ich meistens nur Obst und Gemüse.
+Kannst du bitte auch noch Bananen für uns holen?
+Meine Mutter kocht noch immer alles aus frischen Zutaten.
+Die Preise im Supermarkt steigen einfach nur weiter an.
+Ich finde den neuen Lieferservice eigentlich ganz praktisch.
+Wir haben heute Abend keine Zeit mehr zum Einkaufen.
+Hast du schon mal beim großen Markt in der Stadt geguckt?
+Das Angebot auf Tomaten war wirklich nicht verkehrt.
+Ich vergesse immer den Beutel mitzunehmen und muss ihn kaufen.
+Die Fleischabteilung hat gerade erst neue Ware bekommen.
+Wir versuchen möglichst wenig Plastikmüll zu produzieren.
+Der Nachbarsladen ist zwar teurer aber sehr schnell.
+Hast du die Preise für Butter auch schon verglichen?
+Ich kaufe lieber im kleinen Laden als in der Kette.
+Mein Sohn will nur noch bestimmte Marken kaufen ärgerlich.
+Wir haben heute alles auf Vorrat eingekauft für den Urlaub.
+Die Schlangen an der Selbstkasse waren kurz und schmerzlos.
+Ich finde das Obst im Winter immer viel zu teuer.
+Kannst du kurz schauen ob wir noch Kaffee haben?
+Ich hab die Liste komplett vergessen und renne jetzt blind durchs Geschäft.
+Gib mir kurz Bescheid wenn du auf dem Weg bist um die Milch abzuholen.
+Das Obst am Stand dort nebenan schmeckt doch einfach viel besser.
+Kannst du bitte auch mal nachsehen ob wir noch Brot da haben?
+Die Preise für Fleisch sind mittlerweile wirklich aus den Füssen gekommen.
+Ich kauf immer nur die Eigenmarke weil der Unterschied minimal ist.
+Am Wochenende ist das Supermarktregal meistens schon leer geräumt.
+Hast du gesehen dass die Tomaten diese Woche im Angebot waren?
+Mir reicht es langsam mit dem unendlichen Schlängenstehen an der Kasse.
+Wir sollten uns mal wieder auf eine feste Einkaufswoche einigen.
+Die Bio-Alternative ist zwar teurer aber das Gewissen bleibt klar.
+Hast du zufällig einen Gutschein für den Discounter rumliegen?
+Beim Bäcker um die Ecke kriege ich immer das beste Brötchen.
+Ich hasse es wenn mein Lieblingssnack plötzlich nicht mehr da ist.
+Machst du beim Auschecken bitte selbstständig ohne mich zu fragen.
+Die Tüte muss man heute leider separat bezahlen was nervt total.
+Wir haben zu viel eingekauft und jetzt steht alles nur noch im Keller.
+Das Angebot auf die Pasta war wirklich unschlagbar diese Woche.
+Kann jemand bitte die Joghurtportionen prüfen bevor wir nach Hause kommen.
+Ich versuche bewusst weniger Fleisch zu kaufen um Geld zu sparen.
+Die Öffnungszeiten haben sich geändert und ich hab es wieder vergessen.
+Am Markt steht man viel länger aber das Ergebnis ist jeden Cent wert.
+Hast du schon gesehen wie weit der Sale auf die Konserven geht?
+Meine Einkaufstüte war zum Glück noch im Auto hinter dem Sitz.
+Wir müssen mal schauen ob der neue Lieferdienst bei uns anfährt.
+Kannst du bitte mal die Joghurts checken ob noch welche da sind?
+Der Preis für Kaffee ist seit letzter Woche wieder gestiegen.
+Ich kauf immer Bio weil es mir besser schmeckt.
+Hast du zufällig noch eine Einwegtasche dabei für den Einkauf?
+Die Angebote im Supermarkt sind diese Woche wirklich gut.
+Wir gehen lieber zum Wochenmarkt wenn das Wetter schön ist.
+Vergiss nicht beim Bäcker das Brötchen zu holen.
+Das Fleisch ist heute leider schon am Ende des Haltbarkeitsdatums.
+Ich kann gar nicht glauben wie teuer Bananen geworden sind.
+Meine Einkaufsliste besteht eigentlich nur aus Brot und Butter.
+Die Kassiererin war super nett trotz der langen Schlange.
+Hast du den neuen Rabattgutschein schon vom Drucker geholt?
+Beim Discounter steht immer alles irgendwie unordentlich in den Regalen.
+Ich probiere mal wieder weniger Markenprodukte zu kaufen.
+Die Obstauswahl im Laden ist gerade echt mies geworden.
+Können wir bitte an der zweiten Kasse einkaufen gehen?
+Der Preisunterschied zwischen Bio und Normalware ist minimal.
+Ich vergesse immer die Batterien dabei wenn ich einkaufe.
+Heute habe ich drei Stunden zum Einkaufen gebraucht.
+Die Promi-Aktion beim Joghurt war total überbewertet.
+Wir kaufen unser Gemüse jetzt direkt vom Bauern nebenan.
+Hast du gesehen dass die Molkereiprodukte gerade reduziert werden?
+Ich hasse es wenn mein Einkaufswagen nur ein Rad hat.
+Die Rechnung war am Ende viel höher als erwartet.
+Die Preise sind wieder krass gestiegen.
+Hast du gesehen wie teuer die Äpfel heute sind?
+Ich hab den Gutschein leider schon übersehen.
+Wir sollten mal einkaufen gehen vor der Woche.
+Das Bio-Obst ist echt gut aber halt teurer.
+Kannst du bitte noch Butter und Eier holen?
+An der Schnellkasse stand auch ewig Schlange.
+Beim Discountladen war alles etwas billiger.
+Ich hasse es wenn man den Zettel vergisst.
+Die Bananen waren leider schon braun drin.
+Hast du das Angebot auf Milch mitgekriegt?
+Wir kaufen unser Brot immer noch beim Bäcker.
+Die Tüte hat sich bei mir wieder zerrissen.
+Ich finde den neuen Laden einfach zu unübersichtlich.
+Meine Liste war komplett falsch abgehakt worden.
+Gibt es eigentlich noch frische Salate da oben?
+Das Regal ist schon wieder total leer geräumt.
+Ich zahl immer lieber bargeldlos am Terminal.
+Die Abwiegetasche hab ich zu Hause vergessen gehabt.
+Wir müssen dringend nochmal für die Party einkaufen.
+Der Scanner hat meinen Barcode nicht richtig gelesen.
+Ich kaufe eigentlich nur noch saisonales Gemüse ein.
+Die Rabattaktion läuft bis morgen Abend ab.
+Meine Einkaufstasche ist echt schwer geworden heute.
+Wir probieren mal die neue Eigenmarke aus.
+Ich hab die Einkaufsliste total vergessen.
+Am Freitagabend ist der Supermarkt immer voll.
+Kannst du bitte noch Joghurt mitnehmen?
+Die Preise für Kartoffeln sind wieder gestiegen.
+Beim Baukasten ist das Obst heute besonders frisch.
+Ich kaufe lieber lose Ware als verpackt.
+Hast du schon die Angebote im Prospekt gesehen?
+Der Kaffee an der Kasse ist einfach überteuert.
+Wir versuchen seit Monaten Plastik zu vermeiden.
+Meine Liste hat zwanzig Punkte, das wird lange dauern.
+Das Brot vom Bäcker schmeckt einfach besser.
+Ich hasse es in der Schlange zu stehen.
+Hast du Milch geholt oder soll ich noch einkaufen?
+Der Discounter hat oft die gleichen Marken günstiger.
+Am Wochenmarkt kann man direkt den Bauer fragen.
+Die Bonbons an der Kasse sind verlockend aber schlecht.
+Ich vergesse immer die Dinge, die ich wirklich brauche.
+Bioprodukte kosten leider fast doppelt so viel.
+Mein Kühlschrank ist leer, mal wieder alles aufgegessen.
+Kannst du beim Rückweg noch Eier abholen?
+Die Preise im Rewe sind gerade ganz okay.
+Ich mag es nicht, wenn mein Einkaufskorb verrutscht.
+Frühstück gibt es nur, wenn ich noch Käse kaufe.
+Am Sonntagvormittag ist der Markt am ruhigsten.
+Hast du das Rabattcoupons für die Waschmittel gesehen?
+Die Angebotsbroschüre ist wieder auf dem Tisch liegen geblieben.
+Kannst du kurz die Milch holen bis ich koch?
+Am Ende der Liste stand nur noch ein halbes Blatt Papier.
+Das Brot von nebenan schmeckt einfach besser als das hier.
+Ich hab versehentlich zu viel Butter gekauft, wer is sie?
+Die Preise sind bei Aldi aktuell wirklich unschlagbar für Grundnahrungsmittel.
+Morgen gehe ich lieber zum Bauernmarkt statt in den Supermarkt.
+Hast du schon mal probiert die eigenen Tüten mitzunehmen?
+Der Kassenbon war leider zu kurz geschnitten diesmal wieder.
+Wir machen heute abend einen schnellen Einkauf für die Woche.
+Die Bananen waren fast alle braun, echt nervig eigentlich.
+Ich vergleiche immer erst die Preise pro Kilogramm genau.
+Meine Oma kauft nur noch auf dem Wochenmarkt ein.
+Das Angebot auf das Fleisch war leider schon ausverkauft.
+Kann ich dir etwas mitbringen von der Tankstelle?
+Die Tüte ist wieder gerissen als ich sie hochgehoben hab.
+Ich achte jetzt öfter auf Bio-Produkte beim täglichen Einkauf.
+Der Kaffee kostet hier dreimal so viel wie online bestellt.
+Hast du die Liste gesehen oder soll ich neu schreiben?
+Am Samstag vormittag ist es im Supermarkt wirklich voll dort.
+Die Joghurts sind heute reduziert, die kann man ja essen.
+Ich vergesse immer wieder die Eier mitzunehmen wenn ich gehe.
+Der neue Discounter hat super leckeres Obst zurzeit überhaupt.
+Soll ich den Wein für den Abend auch gleich holen?
+Beim Bäcker um die Ecke gibt es frische Brötchen jeden Morgen.
+Ich such schon ewig nach der richtigen Marmelade.
+Die Preise für Käse sind wieder einmal ins Kraut gewachsen.
+Hast du schon gesehen wie teuer die Eier geworden sind?
+Meine Einkaufsliste ist irgendwie immer unvollständig am Ende.
+Beim Discounter um die Ecke gibt es oft gute Angebote.
+Ich kaufe nur noch saisonales Obst und Gemüse ein.
+Das Label Bio zahlt sich beim Geschmack wirklich aus.
+Kannst du bitte auch noch Brot mit vom Markt holen?
+Die Kassen sind heute Abend immer voll und langsam.
+Ich finde die neuen Plastikbecher einfach nicht recyclebar.
+Am Wochenende mache ich immer einen großen Vorratseinkauf.
+Der Verkäufer hat mir super beim Wurstauschnitt geholfen.
+Meine Liste im Handy ist viel praktischer als Papier.
+Hast du zufällig noch Sahne für den Kaffee da?
+Die Fruchtsäfte sind im Angebot nur mit vielen Kalorien.
+Ich esse lieber regionales Gemüse als importierte Ware.
+Die Tütengebühr nervt mich bei jedem Einkauf sehr.
+Wir müssen wirklich öfter kochen und weniger bestellen.
+Das neue Regal in der Mitte ist total verwirrend angeordnet.
+Kaufst du die Marke vom Discounter oder die Originalpackung?
+Meine Mutter schwört nur auf bestimmte Gewürzmarken.
+Der Wochenmarkt hat einfach eine bessere Atmosphäre als Supermärkte.
+Ich vergesse immer wieder die Milch trotz Reminder.
+Die Apfelsaftpreise variieren je nach Herkunft stark.
+Machst du schon den Online-Einkauf oder lieber selbst?
+Ich habe die Liste wieder vergessen.
+Kannst du bitte noch Joghurt mitnehmen?
+Das Angebot auf die Nudeln war super.
+Beim Bäcker nebenan gibt es frische Brötchen.
+Warum sind die Bananen so teuer geworden?
+Ich kaufe lieber direkt beim Bauer ein.
+Die Schlange an der Kasse ist endlos lang.
+Hast du schon gesehen, dass das Fleisch reduziert ist?
+Wir müssen endlich mal wieder einkaufen gehen.
+Der Supermarkt hat leider früh zugemacht.
+Ich versuche immer, Regionalprodukte zu kaufen.
+Die Preise sind im Moment echt absurd hoch.
+Kann ich an der Selbstkasse zahlen?
+Hast du die Einkaufstaschen nicht vergessen?
+Das Obst auf dem Markt sieht besser aus.
+Ich mag es nicht, wenn sie mich ansprechen.
+Wir holen nur das Nötigste mit nach Hause.
+Die Bio-Abteilung ist bei uns immer leer.
+Soll ich Milch oder Soja-Milch nehmen?
+Meine Liste ist schon komplett erledigt.
+Das Rabattangebot gilt nur heute noch.
+Ich hasse es, wenn die Klemms ausfallen.
+Hast du den Einkaufswagen wieder gefunden?
+Beim Discounter finde ich alles günstiger hier.
+Die Kassiererin war heute mega freundlich zu uns.
+Ich hab total vergessen Butter einzukaufen heute.
+Die Preise sind wieder mal völlig aus dem Ruder gelaufen.
+Kannst du bitte noch etwas Brot von der Bäckerei holen?
+Beim Aldi ist das Obst meist billiger als bei uns.
+Ich mag nicht, wenn die Kasse so langsam abläuft.
+Hast du schon gesehen, dass Joghurt im Angebot steht?
+Meine Einkaufstasche hat gerade beim Bezahlen gerissen.
+Wir versuchen eigentlich mehr regionale Produkte zu kaufen.
+Ich finde den Wochentausmarkt immer super gemütlich und frisch.
+Warum ist der Kaffee bei euch so teuer geworden?
+Hab keine Lust mehr auf diese ewigen Warteschlangen.
+Soll ich das Bio-Hähnchen nehmen oder das normale?
+Die Liste liegt noch auf dem Küchentisch daheim.
+Ich hasse es, wenn die Waage an der Kasse streikt.
+Heute holen wir nur das Nötigste und nichts anderes.
+Das Gemüse sieht auf dem Markt immer viel besser aus.
+Hast du einen Gutschein für den Supermarkt mit dabei?
+Ich muss unbedingt die Milch abholen, bevor sie weg ist.
+Die Plastiktüten kosten jetzt extra, das nervt mich wahnsinnig.
+Wir kaufen lieber in größeren Mengen ein um Zeit zu sparen.
+Ist der Rabatt wirklich auf alle Artikel anwendbar hier?
+Ich kann den Unterschied zwischen Marken und Eigenmarken gar nicht schmecken.
+Fehlt noch etwas auf der Liste oder sind wir fertig?
+Ich hab die Liste wieder vergessen und kaufe nur das Wichtigste.
+Kannst du mal checken ob wir noch Milch im Kühlschrank haben?
+Die Preise bei Aldi sind echt niedriger als beim Rewe.
+Ich mag den Wochenmarkt weil da alles so frisch riecht.
+Wir kaufen lieber lokale Äpfel statt die aus dem Ausland.
+Hast du schon gesehen dass die Bananen gerade im Angebot sind?
+Meine Mutter schwört auf ihre feste Einkaufsliste für die Woche.
+Der Bio-Baumarkt hat zwar teurere Preise aber bessere Qualität.
+Samstags morgens ist der Supermarkt leider viel zu voll mit Leuten.
+Wir haben uns entschieden den Fleischkonsum mal etwas zu reduzieren.
+Kann mir jemand sagen wo man die günstigsten Nudeln findet?
+Die Kasse an der Seite war gerade am schnellsten besetzt.
+Ich kaufe meine Brötchen nur noch beim Bäcker nebenan.
+Das Obst dort sieht wirklich viel besser aus als hier.
+Wir machen uns immer eine Liste bevor wir ins Geschäft gehen.
+Der Discounter reicht für Basisprodukte aber nicht für alles andere.
+Ich hab vergessen Butter zu kaufen und muss nochmal hin.
+Bei uns ist der Markt Samstagvormittag am schönsten besucht.
+Die neuen Preise für Eier haben mich echt geschockt ehrlich gesagt.
+Wir probieren jetzt mal aus mehr Gemüse selbst anzubauen.
+Kannst du die Joghurtmilch bitte auch noch mitnehmen wenn du gehst?
+Ich finde den Service an der Kasse hier deutlich freundlicher.
+Mein Partner meckert immer weil ich zu viel Kleingeld beim Bezahlen habe.
+Wir sparen jeden Monat etwas indem wir Marken durch Eigenmarken ersetzen.
+Die Auswahl an veganen Produkten wird da endlich größer und besser.
+Ich hab leider vergessen die Milch zu holen.
+Die Preise für Gemüse sind wieder gestiegen.
+Am liebsten kaufe ich beim Wochenmarkt ein.
+Hast du schon gesehen wie teuer Butter ist?
+Meine Einkaufsliste ist schon wieder voll.
+Der Discounter hat heute super Angebote.
+Ich versuche plastikfrei einzukaufen wenn möglich.
+Die Kasse war leider total überfüllt heute.
+Wir kaufen jetzt lieber Bio als gewöhnlich.
+Kannst du mal nachsehen ob wir Eier brauchen?
+Das Angebot auf Milch nur bis morgen gültig.
+Ich hasse es wenn meine Liste zu lang wird.
+Beim Supermarkt um die Ecke ist alles frisch.
+Die Preise im Ausland sind wirklich absurd hoch.
+Hast du den Einkaufswagen selbst zurückgestellt heute?
+Mir schmeckt das Obst vom Markt viel besser.
+Ich vergesse immer wieder meinen eigenen Namen an der Kasse.
+Das Brot ist leider schon etwas abgelaufen gewesen.
+Wir sparen Geld indem wir Markenartikel meiden.
+Die Schlangen am Sonntag sind einfach zu lang.
+Ich muss dringend mal Vorräte auftanken gehen.
+Hast du zufällig noch Joghurt im Kühlschrank?
+Der neue Supermarkt bietet deutlich weniger Auswahl.
+Ich finde den Einkauf am Wochenende ganz entspannt.
+Kannst du bitte noch Brot für uns mitbringen?
+Die Bananen sind zwar billig aber total grün.
+Ich hasse es wenn die Schlange an der Kasse steht.
+Hast du zufällig noch Eier im Kühlschrank?
+Das Angebot auf Joghurt war wirklich gut.
+Beim Rewe ist das Obst gerade viel zu teuer.
+Wir brauchen definitiv wieder mal Toilettenpapier.
+Kannst du mal schauen ob wir noch Kaffee haben?
+Die neuen Produkte stehen immer ganz hinten drin.
+Ich finde den Wochenmarkt einfach viel gemütlicher.
+Meine Liste war schon auf dem Boden gefallen.
+Soll ich die Tomaten in der Mitte nehmen oder links?
+Der Bäcker hat heute Morgen wieder super frisches Brot.
+Zahlt man an der Kasse noch mit Bar oder Karte?
+Die Preise für Milch steigen irgendwie jede Woche.
+Ich suche immer zuerst nach den günstigen Markennamen.
+Am Sonntagmorgen ist der Supermarkt zum Glück leerer.
+Wir kaufen unser Fleisch lieber direkt vom Metzger.
+Die Tüte muss ich leider extra bezahlen blöderweise.
+Meine Frau macht immer die Einkaufsliste für uns beide.
+Der Discounter hat gerade eine Aktion auf Weinflaschen.
+Ich vergesse total ob wir schon Nudeln da haben.
+Das Label sagt Bio aber der Preis wirkt überteuert.
+Am Ende waren die Preise doch ganz anders als auf dem Schild.
+Hab gerade festgestellt das wir wieder keine Toilettenpapier haben.
+Kannst du mal schauen ob die Milch noch im Angebot ist?
+Ich hasse es wenn meine Einkaufstüte mitten im Gang reißt.
+Das Brot von der Bäckerei nebenan schmeckt wirklich viel besser.
+Wir sollten vielleicht doch online bestellen um Zeit zu sparen.
+Die Kassenkarte wurde nicht akzeptiert weil sie abgelaufen ist.
+Ich probiere jetzt mal diese neue vegane Wurst aus dem Kühlregal.
+Beim Wochenmarkt kann man wenigstens die Äpfel selbst aussuchen.
+Der Einkaufswagen hat wieder nur ein kaputtes Rad heute morgen.
+Hast du den Gutschein für die zweite Flasche Wein noch im Handy?
+Ich kaufe lieber teurere Dinge weil sie dann länger haltbar sind.
+Die neuen Preise für Butter haben mich echt schockiert ehrlich gesagt.
+Wir müssen dringend Eis und Fleisch auftauen bevor wir weggehen.
+Am Sonntagvormittag ist der Supermarkt immer viel ruhiger als sonst.
+Hab versehentlich die falsche Packung Sahne vom Regal gepackt.
+Die Self-Scanner sind nervig wenn das Gerät ständig nicht scannt.
+Ich vergleiche immer zuerst den Preis pro Kilo bevor ich kaufe.
+Kann jemand mal kurz die Kinder im Auto hüten während ich einkaufen gehe?
+Das Obst in Plastikschalen finde ich persönlich total überflüssig und unnötig.
+Wir haben jetzt unsere eigenen Glasbehälter für die Unverpackt-Läden mitgenommen.
+Die Sonderangebote sind oft nicht viel günstiger als der Normalpreis.
+Ich hasse es wenn die Musik im Supermarkt so laut ist.
+Mein Mann findet immer das letzte Bier in der Tiefkühltruhe.
+Hast du zufällig einen Pfandbon für die Flaschen?
+Das Angebot auf Joghurt läuft morgen schon wieder ab.
+Ich finde den Preis für Bananen heute wirklich absurd hoch.
+Kannst du bitte mal nachschauen ob wir noch Brot haben.
+Beim Aldi ist das Fleisch aktuell deutlich günstiger als hier.
+Meine Einkaufstasche reißt immer wenn ich zu viel einkaufe.
+Wir sollten uns endlich mal eine feste Einkaufsliste machen.
+Die Kassenbelegschrift ist so winzig dass man sie kaum lesen kann.
+Ich mag es nicht wenn die Musik im Supermarkt so laut ist.
+Hast du schon gesehen wie teuer das Obst im Winter geworden ist?
+Mein Kühlschrank ist völlig leer also muss ich jetzt los.
+Der neue Bio-Discounter hat surprisingly gute Produkte für den Preis.
+Vergiss bitte nicht die Milch abzuholen bevor sie warm wird.
+Ich hasse es wenn jemand direkt vor mir an der Kasse steht.
+Das Angebot auf Toilettenpapier war ein absoluter Schnäppchenjäger-Magneten.
+Wir kaufen unsere Tomaten jetzt nur noch vom Wochenmarkt hier.
+Die Preise im Innenstadtsupermarkt sind wirklich zum Mäusemelken nicht geeignet.
+Hast du den Gutscheincode für die Online-Bestellung schon eingegeben?
+Ich versuche immer freitags einzukaufen weil dann weniger los ist.
+Das Brot aus der Vitrine schmeckt mir doch am besten wirklich.
+Soll ich noch Wein mitnehmen oder hast du schon welchen da?
+Die Schlangen an den Self-Scanning-Kassen werden langsam auch nervig ehrlich gesagt.
+Meine Oma kauft ihr Gemüse immer noch direkt beim Landwirt ab.
+Ich finde es ärgerlich wenn Angebote plötzlich nicht mehr gültig sind.
+Kannst du mal kurz reingucken ob wir noch Kaffee haben oder nicht?
+Ich hab den Joghurt wieder vergessen zu nehmen.
+Kannst du mir mal die Einkaufsliste aufs Handy schicken?
+Das Fleisch war irgendwie nicht mehr ganz frisch.
+Wir sparen immer noch mit dem Wochenmarktsack.
+Die Preise für Olivenöl sind total in die Höhe geschnellt.
+Hast du schon gesehen, dass die Butter im Angebot ist?
+Ich kaufe lieber Bio-Milch, auch wenn sie teurer ist.
+An der Selbstbedienungskasse hats heute ewig gedauert.
+Mein Ehemann steht immer in der falschen Schlange an.
+Das Obst beim Discounter sieht zwar gut aus, schmeckt aber blöd.
+Hast du noch Sahne da oder muss ich welche holen?
+Ich hasse es, wenn die Waage im Supermarkt streikt.
+Wir versuchen seit letztem Jahr weniger Fleisch zu kaufen.
+Die Tüten müssen wir jetzt extra bezahlen, ärgerlich eigentlich.
+Beim Bauernhofladen gibt es dieses super gute Sauerteigbrot.
+Ich vergesse immer den Rabattgutschein aus der App.
+Das Regal für die Pizza ist schon wieder leer geräumt.
+Kann ich dir etwas mitbringen vom Aldi heute Abend?
+Die Bioprodukte sind doch nicht so viel teurer, oder?
+Ich mag die Atmosphäre auf dem Markt am Sonntagmorgen.
+Warum gibt es hier nur noch dieses eine Schokomilch?
+Meine Liste ist immer viel länger als gedacht.
+Wir haben heute Abend nichts mehr zu Hause leider.
+Das Gemüse vom Wochenmarkt riecht einfach erdiger und besser.
+Hast du den Gutscheincode für die Online-Bestellung gefunden?
+Ich hab die Liste schon auf dem Handy gespeichert.
+Warum ist das Fleisch heute wieder so teuer?
+Lass uns doch mal beim Bio-Markt vorbeischauen.
+Die Sonderangebote locken mich immer vom Weg ab.
+Kannst du bitte auch noch Bananen mitnehmen?
+Im Discounter finde ich die Auswahl etwas dürftig.
+Meine Nachbarin kauft alles nur online ab jetzt.
+Das Brot war leider schon am Abend alt.
+Ich hasse es, wenn die Kasse so langsam geht.
+Wir müssen dringend mal wieder einkaufen gehen.
+Hast du gesehen wie billig die Milch da ist?
+Beim Wochenmarkt kaufe ich immer meine Kräuter.
+Die Schachtel hatte einen kleinen Knick an der Seite.
+Ich vergesse ständig die Toilettenpapierrolle zu kaufen.
+Bist du fertig mit dem Ladenbummel oder gehen wir?
+Hier gibt es gerade ein tolles Angebot auf Kaffee.
+Der Lieferdienst war pünktlich und freundlich zugleich.
+Ich achte beim Einkauf immer mehr aufs Bio-Siegel.
+Die Tüte ist leider nicht standfest genug dafür.
+Müssen wir eigentlich noch Butter mitnehmen von da?
+Die Preise im Center sind mir einfach zu hoch.
+Findest du das Obst dort auch reifer als hier?
+Ich suche schon seit Minuten nach dem Joghurt.
+Mein Ehemann findet den Supermarkt total entspannend.
+Wir sparen jeden Monat durch den Wochenplan ein bisschen.
+Ich hab die Liste wieder vergessen und kaufe nur noch das nötigste.
+Die Preise für Avocados sind mir einfach viel zu hoch.
+Kannst du mal schauen ob wir noch Brot im Haus haben?
+Beim Netto ist gerade Milch zum Sonderpreis angeboten.
+Ich hasse es wenn der Scanner an der Kasse ewig braucht.
+Wir machen heute Abend mal wieder Joghurt aus eigenem Anbau.
+Die Bio-Abteilung ist zwar teurer aber die Qualität stimmt.
+Hast du schon gesehen wie teuer Eier heutzutage sind?
+Ich gehe lieber zu Fuß zum Bäcker als ins große Center.
+Das Angebot auf der Rückseite des Fliegers war total super.
+Wir sollten mal wieder einkaufen gehen weil alles leer ist.
+Die Tomaten im Supermarkt schmecken mir ehrlich gesagt nichts.
+Ich versuche immer lokal einzukaufen um die Umwelt zu schonen.
+Mein Mann macht den Großeinkauf und ichhole nur das Notwendige.
+Die Kassen sind heute Abend wahrscheinlich wieder voll belegt.
+Hab gerade online bestellt und bekomme alles morgen geliefert.
+Das neue Getränk im Regal hatte ich noch nie probiert.
+Wir sparen echt viel indem wir die Eigenmarken kaufen.
+Am Markt stand noch super frischer Knoblauch zum Verkauf.
+Die Einkaufstasche war kaputt und ich musste eine neue kaufen.
+Komm mit in den Supermarkt dann holen wir was für das Grillen.
+Das Gemüse aus der Region schmeckt einfach deutlich besser.
+Ich habe vergessen Butter zu kaufen und jetzt wird es knappe.
+Die Werbung für Frischkäse hat mich wieder zum Kauf verleitet.
+Kannst du mal gucken ob wir noch Butter da haben?
+Im Regal steht plötzlich alles doppelt so teuer wie sonst.
+Ich hasse es immer wieder dass die Kassen schließen.
+Die Avocados waren leider alle schon matschig und weich.
+Hast du den Gutschein für die nächste Lieferung eingeknöpft?
+Beim Aldi ist gerade das Brot richtig im Angebot.
+Ich habe versehentlich zu viel Sahne mit nach Hause genommen.
+Der Mann vor uns zahlt immer noch mit barer Münze.
+Kann ich dir die schweren Kisten bis zur Tür tragen?
+Meine Liste war einfach viel zu lange für heute Abend.
+Die Bio-Tomaten schmecken einfach besser als die normalen Ware.
+Wir sollten uns einen gemeinsamen Einkaufsplan machen für die Woche.
+Warum muss der Kaffee immer nur auf der obersten Ebene sein?
+Ich habe vergessen Milch zu kaufen und nun brauche ich mehr.
+Das Fleisch war heute wirklich viel zu teuer geworden.
+Kannst du kurz den Zettel aus dem Handy vorhalten?
+Die Abteile sind heute Morgen schon wieder komplett leer geräumt.
+Ich versuche öfter mal ohne Einkaufswagen nur mit einer Tüte.
+Der Kassierer hat mir extra noch eine Tüte eingepackt gegeben.
+Bei Rewe ist der Service an der Kasse deutlich freundlicher.
+Ich muss dringend mein Handy aufladen bevor ich scanne gehe.
+Hast du schon gesehen dass das Joghurt jetzt günstiger ist?
+Mein Einkaufswagen hatte wieder ein kaputtes Rad ganz hinten.
+Ich kaufe lieber lokal einkaufen weil es frischer für mich ist.
+Ich hab den Zettel wieder nicht mitgenommen.
+Kannst du bitte noch Brot vom Bäcker holen?
+Die Avocados waren fast alle schon braun.
+Am Wochenmarkt schmeckt die Melone einfach besser.
+Warum ist der Joghurt so teurer geworden?
+Ich versuche immer über den Preis nachzudenken.
+Das Angebot auf Fleisch sieht doch richtig gut aus.
+Hast du gesehen dass die Preise im Super gesunken sind?
+Ich kaufe nur noch Produkte aus dem eigenen Land.
+Der Scanner an der Kasse hat wieder nicht funktioniert.
+Wir müssen dringend neue Handtücher kaufen gehen.
+Die Tüte hab ich diesmal ganz vergessen zu Hause.
+Mir fehlt immer das Geld für Bio-Lebensmittel.
+Das Gemüse in Plastik ist irgendwie weniger frisch.
+Ich compare die Preise vor dem Kauf im Kopf.
+Hast du schon mal den neuen Discounter ausprobiert?
+Die Wartezeit an der Self-Service-Kasse war kurz.
+Ich hasse es wenn die Kassen alle belegt sind.
+Meine Einkaufsliste ist heute wieder viel zu lang.
+Soll ich noch Kaffee mitnehmen oder reicht er dir?
+Der Preis für Butter steigt langsam aber sicher.
+Ich probiere immer neue Marken im Regal aus.
+Das Brot war schon gestern Abend weg beim Bäcker.
+Wir shoppen lieber abends wenn es leerer ist.
+Hast du den Gutschein für das erste Eis eingekipst?
+Ich such schon ewig nach dem Dürum Käse.
+Die Preise für Eier sind mir gerade zu hoch.
+Hast du zufällig noch Bananen übrig?
+Beim Aldi war heute alles viel günstiger.
+Meine Einkaufsliste ist wieder unleserlich geworden.
+Wir brauchen wirklich dringend Toilettenpapier daheim.
+Das Brot vom Bäcker schmeckt einfach besser.
+Ich hasse es, wenn die Kasse kaputt geht.
+Kannst du bitte noch Eier für uns holen?
+Der Wochenmarkt am Samstagvormittag ist total voll.
+Ich kaufe lieber Markenartikel statt Eigenmarken.
+Die Tomaten sehen im Supermarkt immer traurig aus.
+Habe schon drei Gänge abgelaufen, nichts gefunden.
+Wir sparen so viel durch den Online-Service.
+Das Angebot auf Joghurt ist nur noch heute gültig.
+Ich mag es nicht, wenn ich Schlange stehen muss.
+Hat jemand eine Idee, wo der Öl günstiger ist?
+Die Obstauswahl im Winter ist echt mies.
+Mir fehlt immer etwas auf dem Einkaufszettel.
+Ich nehme lieber die zweite Kasse zur Linken.
+Bioprodukte kosten mich einfach zu viel Geld.
+Der Trolley hat schon wieder nur drei Räder.
+Kann ich das mit der EC-Karte bezahlen?
+Das Angebot für Fleisch war heute echt locker.
+Ich vergess immer, wo ich die Liste hingelegt hab.
+Die Kassenstaus an Samstagen sind wirklich nervig.
+Hast du schon die Angebote für diese Woche gesehen?
+Mein Einkaufswagen hat leider immer noch das kaputte Rad.
+Ich hasse es, wenn man am Ende keine Tüte mehr hat.
+Das neue Regalplaner-App ist echt praktisch geworden.
+Wir müssen dringend mal wieder den Gefrierschrank ausmisten.
+Warum kostet die gleiche Marmelade beim Rewe so viel mehr?
+Die Bio-Eier waren leider bereits komplett ausverkauft.
+Ich versuche immer, auf der Schnellkasse zur stehen.
+Kannst du bitte auch noch frische Brotdinger holen?
+Das Schild mit dem Preis war total irreführend angebracht.
+Beim Wochenmarkt schmeckt das Obst einfach viel intensiver.
+Meine Liste ist schon wieder voller Striche durchgestrichen.
+Der Kassierer hat sich unglaublich schnell bedient heute.
+Ich kaufe lieber in loser Ware als im Plastikbehälter.
+Habt ihr den Gutschein für den Bäcker noch?
+Die Preise sind seit letzter Monat wieder deutlich gestiegen.
+Mir fehlt immer die Geduld an der Selbstbedienungskasse.
+Das neue Sortiment ist leider nicht so gut geworden.
+Wir sparen oft Geld durch das Einkaufen abends.
+Die Tüte vom letzten Mal kann ich wiederverwenden.
+Ich finde die Musik im Supermarkt extrem anstrengend.
+Soll ich noch einkaufstüten kaufen oder reicht der Rucksack?
+Das Fleisch war am Dienstag deutlich günstiger als heute.
+Ich hab echt keine Lust mehr auf diese ewigen Schlangen.
+Schaust du mal ob wir noch Eier daheim haben?
+Das Angebot auf die Kekse war total verlockend gestern.
+Am Wochenmarkt ist das Obst einfach viel aromatischer.
+Kannst du bitte den Reis nicht vergessen beim Einkaufen?
+Die Preise im Supermarkt sind mir mittlerweile zu hoch.
+Ich nehme lieber die Marke vom Discounter, reicht völlig.
+Hast du die Einkaufstüte mitgebracht oder muss ich welche kaufen?
+Die Kasse links war deutlich schneller als die anderen.
+Wir sollten endlich mal wieder frisches Brot backen.
+Das Fleisch dort hinten sah wirklich nicht besonders frisch aus.
+Ich hasse es wenn meine Bananen schon braun sind.
+Hast du gesehen wie teuer das Olivenöl jetzt ist?
+Ich kaufe lieber online, dann muss ich nicht raus.
+Der Bäcker gegenüber macht richtig leckere Brötchen am Morgen.
+Wir müssen dringend noch Toilettenpapier und Waschmittel nachkaufen.
+Die Sonderangebote locken mich immer wieder zum Impulskauf rein.
+Kannst du kurz aufpassen während ich das Geld herausnehme?
+Das Obst aus dem Ausland schmeckt mir ehrlich gesagt nie so gut.
+Hast du schon die Quittung aufgehoben für die Garantie falls nötig?
+Die Regale waren am Montagmorgen total leer sortiert von neuen Ware.
+Soll ich statt Kaffee lieber Tee holen, ist gesünder eigentlich.
+Die Joghurt waren wieder nicht im Angebot.
+Ich hab den Einkaufswagen in der falschen Ecke geparkt.
+Kannst du mal gucken ob wir noch Nudeln haben?
+Das Fleisch vom Markt schmeckt einfach besser.
+Warum ist das Brot heute wieder so teuer geworden?
+Ich versuche immer die billigste Marke zu kaufen.
+Die Tüte am Ende war total zerrissen.
+Hast du den Bon von der Kasse noch?
+Beim Nachbarn ist die Milch gerade reduziert.
+Wir müssen dringend Obst nachkaufen bevor es ausgeht.
+Ich finde diese neuen Einkaufstaschen viel praktischer.
+Der Supermarkt war heute Abend wieder voll wie ein Ei.
+Kann ich dir bei den schweren Getränken helfen?
+Das Bio-Sortiment wächst bei uns im Laden langsam.
+Ich mag es nicht wenn mir wer an die Kasse drängt.
+Hast du schon gesehen dass der Butterpreis gesunken ist?
+Meine Liste hatte ich leider auf dem Handy vergessen.
+Im Discounter steht heute wieder alles auf Sonderverkauf.
+Ich kaufe lieber lokal ein um etwas beizutragen.
+Die Obstauswahl im Winter ist immer recht eingeschränkt.
+Wir sparen richtig Geld wenn wir selbst kochen statt essen gehen.
+Hast du den Gutschein für die Bäckerei noch?
+Der Kassenbon passt gar nicht mehr in die Mappe.
+Beim großen Supermarkt muss man immer ewig Schlange stehen.
+Am liebsten kaufe ich nur noch regionale Produkte ein.
+Die Milch ist wieder mal abgelaufen bevor ich sie brauchte.
+Hast du gesehen wie viel Teurer alles geworden ist?
+Ich hasse es wenn das Regal leer steht kurz vor der Schließzeit.
+Kannst du bitte auch Bananen mitbringen die sind lecker.
+Das Angebot auf Käse war wirklich ein Schnäppchen heute.
+Ich vergesse immer die Eier wenn ich schon draußen bin.
+Beim Obsthändler da nebenan schmeckt alles viel besser.
+Warum muss man sich bei der Kasse immer so beeilen?
+Wir sparen Geld indem wir keine Fertigprodukte kaufen.
+Die Einkaufstüte hat gerissen und alles ist runtergefallen.
+Hast du das neue Logo vom Supermarkt schon gesehen?
+Das Fleisch war heute leider nicht besonders frisch.
+Kann ich bei dir was mitnehmen oder kommst du später?
+Die Preise beim Discounter sind einfach unschlagbar im Winter.
+Ich mag den Geruch von frischen Brötchen am Morgen.
+Hast du schon gesehen dass das Brot jetzt teurer ist?
+Am Wochenende gehe ich nur ungern einkaufen weil es voll ist.
+Meine Liste ist viel länger als gedacht heute Abend.
+Das Obst vom Markt sieht so gesund und bunt aus.
+Ich kaufe lieber mehr auf einmal um Zeit zu sparen.
+Die Kassenbelegrolle war wieder mal leer an der Maschine.
+Wir probieren immer wieder neue Getreidesorten zum Frühstück.
+Falls du noch Brot brauchst sag mir einfach kurz Bescheid.
+Hast du die Einkaufsliste oder muss ich sie neu schreiben?
+Das Angebot auf Avocados ist heute echt super günstig.
+Ich hasse es wenn die Kassen alle gleichzeitig schließen.
+Kannst du beim Bäcker noch Brötchen für morgen holen?
+Der Preis für Milch ist wieder gestiegen, wahnsinnig.
+Wir brauchen dringend Eier und Butter für den Kuchen.
+Beim Wochenmarkt riecht alles so frisch und herb.
+Hast du schon geprüft ob wir noch Kaffee da haben?
+Die Schere an der Kasse war heute glücklicherweise kurz.
+Ich kaufe lieber regional statt aus fernen Ländern.
+Das Bio-Angebot ist zwar teuer aber die Qualität stimmt.
+Vergiss nicht den Rabattgutschein für die nächste Woche.
+Meine Tante findet immer die besten Deals im Netz.
+Wir sollten mal wieder einen Großeinkauf am Samstag machen.
+Die Bananen sind hier schon etwas braun geworden.
+Kann ich dir bei den Taschen helfen, du hast viel.
+Ich vergleiche Preise lieber online bevor ich losfahre.
+Der neue Supermarkt im Stadtzentrum hat eine tolle Auswahl.
+Hast du den Pfandbehälter nicht wieder in der Wohnung vergessen?
+Frische Kräuter gibt es dort nur am späten Nachmittag.
+Wir sparen viel wenn wir eigene Beuteln mitnehmen.
+Das Joghurt war leider abgelaufen, schade eigentlich.
+Ich muss unbedingt noch Reis und Nudeln kaufen.
+Die Preise im Rewe sind gerade wirklich akzeptabel.
+Hast du gesehen wie viele Rabatte es diese Woche gibt?
+Ich vergesse immer die Einkaufsliste in der Küche.
+Das Brot ist gestern noch frisch gewesen.
+Kannst du bitte auch mal einkaufen gehen?
+Die Preise für Milch sind wieder gestiegen.
+Wir kaufen nur noch Bio-Käse von der Marke X.
+Der Supermarkt hat heute schon früh geschlossen.
+Hast du schon gesehen, dass Joghoni im Angebot ist?
+Ich hasse es, wenn die Waage nicht geht.
+Wir haben zu viel Obst gekauft und jetzt schimmelt es.
+Am Wochenende sind die Gänge total überfüllt.
+Soll ich das Discount-Marken oder die Eigenmarke nehmen?
+Die Kassenbeamte war heute besonders unfreundlich.
+Ich versuche, saisonales Gemüse zu kaufen, wenn möglich.
+Meine Oma kauft immer beim Straßenhändler ein.
+Das Fleisch hier sieht doch gar nicht so frisch aus.
+Wir sparen wirklich viel, indem wir selbst kochen.
+Hast du noch Kartoffeln da oder muss ich welche holen?
+Der Scanner am Regal erkennt die Artikel manchmal nicht.
+Ich finde den Wegweiser im Supermarkt immer verwirrend.
+Kann man das auch ohne Tüte abpacken lassen?
+Wir haben uns einen Gemeinschaftseinkauf mit Nachbarn organisiert.
+Das Frischhalteglas ist leider zerkratzt und undicht.
+Ich brauche dringend neue Batterien für die Funkuhr.
+Warum ist das Wasser aus der Maschine teurer?
+Hast du schon die Treuekarte für den Supermarkt registriert?
+Hast du schon gesehen welche Angebote diese Woche laufen?
+Das Obst am Markt schmeckt einfach viel intensiver.
+Ich hasse es wenn der Scanner an der Kasse streikt.
+Kannst du bitte noch Brot mitnehmen auf dem Heimweg.
+Die Preise für Milch sind wieder mal gestiegen.
+Meine Einkaufsliste ist immer länger als mein Geldbeutel.
+Ich nehme lieber die teurere Marke weil sie besser schmeckt.
+Der Kühlschrank ist leer also muss ich heute einkaufen gehen.
+Am Samstagvormittag ist der Supermarkt total voll und chaotisch.
+Hast du den Rabattgutschein für die Wurstwaren dabei?
+Die Bananen sind doch schon wieder braun vom liegen.
+Ich vergleiche immer erst die Preise online bevor ich kaufe.
+Beim Bauernhofladen gibt es so tolles frisches Obst.
+Warum kosten manche Produkte am Ende doppelt so viel?
+Ich hab versehentlich zwei Packungen Toilettenpapier mitgenommen.
+Die Kassenbelegung passt nicht mit meiner Liste überein.
+Soll ich beim Bäcker noch ein Brötchen bestellen für morgen?
+Das Angebot auf das Öl war heute wirklich unschlagbar gut.
+Ich finde den Wochenmarkt gemütlicher als die große Marktkette.
+Die Preise für Fleisch sind leider nicht mehr zu ignorieren.
+Ich kaufe lieber lokal um etwas für die Umwelt zu tun.
+Kannst du kurz checken ob wir noch Kaffee da haben?
+Der Discounter hat manchmal seltsame Öffnungszeiten am Feiertag.
+Die Einkaufsliste hab ich wieder nicht dabei.
+Supermärkte sind am Samstagabend immer so voll.
+Hast du den Gutschein für die Kasse dabei?
+Das Bio-Korn ist doch viel zu teuer geworden.
+Wir gehen lieber zum Wochenmarkt als zur Kette.
+Meine Tüte ist schon bis oben hin voll.
+Kannst du mal prüfen ob wir noch Butter haben?
+Die Obstsorten im Winter schmecken immer nur lauwarm.
+Ich hasse es wenn die Kassenschlange steht.
+Gibt es heute ein Sonderangebot auf Kaffee?
+Der Bäcker vor der Tür hat super Brötchen.
+Hast du schon mal mit dem Einkaufswagen gekämpft?
+Meine Liste war schon vorher völlig durchgestrichen.
+Wir sparen viel indem wir nur Markenprodukte kaufen.
+Das Obst im Discounter sieht oft etwas matschig aus.
+Kann ich hier gerne auch kontaktlos bezahlen?
+Die Preise für Milch steigen doch jeden Monat weiter.
+Ich kaufe lieber lose statt in Plastikverpackungen.
+Hast du vergessen dass wir kein Salz mehr haben?
+Beim Flohmarkt ist die Auswahl an Äpfeln riesig.
+Meine Tante schwört nur auf den Bioladen drum rum.
+Warum sind frische Eier plötzlich so teuer geworden?
+Ich suche immer nach der günstigsten Packungsgröße.
+Der Lieferdienst ist zwar bequem aber viel teurer.
+Hast du meinen Einkaufsbeutel zum Auspacken da?
+Hast du zufällig Bananen oder sollen wir welche holen?
+Ich habe heute Abend kein Gemüse mehr zu Hause.
+Kannst du auf dem Rückweg bitte noch Brot mitbringen?
+Das Angebot für Jogurt läuft morgen wieder ab.
+Warum ist das Fleisch heute so viel teurer geworden?
+Ich mag es gar nicht, wenn alle Regale leer sind.
+Hast du gesehen, dass die Preise wieder gestiegen sind?
+Meine Einkaufstüte war schon beim ersten Gang durchs Geschäft voll.
+Beim Wochenmarkt kostet ein Kilo Äpfel fast doppelt so viel.
+Ich versuche immer, die eigenen Produkte statt Markenware zu kaufen.
+Die Kasse mit der Scan&Go-App ist deutlich schneller gewesen.
+Soll ich dir von der Pizza einen Beleg mitnehmen?
+Das neue Bio-Sortiment im Supermarkt sieht ganz hübsch aus.
+Ich hasse es, wenn meine Liste an der falschen Ecke liegt.
+Hast du schon mal die frischen Kräuter vom Händler probiert?
+Mein Kühlschrank ist endlich wieder richtig gefüllt nach dem Einkauf.
+Die Promoschilder sind diesmal etwas zu weit weg aufgehängt worden.
+Kann ich dir das schwere Kartoffelsack auf der Schulter tragen?
+Ich finde den Geruch von frischem Brot immer noch am besten.
+Wir kaufen jetzt lieber online, weil wir weniger Zeit haben.
+Das Preisprofi hat mir heute Abend richtig viel Geld gespart.
+Hast du den Gutschein für die nächste Kasse schon parat?
+Mir fällt immer wieder was Wichtiges an der Tür ein.
+Ich nehme gerne Glas instead von Plastikflaschen zum Mitnehmen.
+Die Schlangen bei den Self-Checkout-Maschinen sind heute extrem lang.
+Kannst du kurz abwarten, bis ich noch etwas vergleiche?
+Echt gruselig wie schnell die Preise wieder steigen.
+Kannst du bitte Sahne mitnehmen, die ist schon wieder leer.
+Ich hasse es wenn das Band an der Kasse reißt.
+Das Angebot auf Joghurt war total verlockend diese Woche.
+Hast du gesehen wie teuer die Bananen mittlerweile sind?
+Meine Liste wird immer länger je älter ich werde.
+Immer dieser Stress mit den Rollern an den Feiertagen.
+Ich kaufe lieber beim Bäcker ums Eck trotz des Mehrpreises.
+Die Tomaten schmecken einfach besser wenn sie nicht aus Spanien kommen.
+Warum muss der Kaffee hier so absurd teuer sein?
+Ich hab total vergessen die Milch zu kaufen doof gemacht.
+Bei uns ist das Bio-Sortiment viel größer geworden.
+Die Schere an der Self-Checkout-Kasse geht wieder mal nicht.
+Diese neuen Verpackungen sind ja kompletter Plastikmüll im Endeffekt.
+Ich zähle jeden Cent bei den Grundnahrungsmitteln zusammen.
+Der Fisch dort sieht heute gar nicht so frisch aus.
+Machst du auch diesen Trick mit den Coupons für Rabatte?
+Die Musik im Supermarkt nervt mich langsam total an die Wand.
+Ich versuche gerade mehr saisonale Dinge zu kaufen wenn möglich.
+Die Kassenboni sollte man wirklich nicht überall rumliegen lassen.
+Hast du schon mal diesen neuen Discounter hier probiert?
+Das Brot vom Vortag schmeckt mir oft doch besser frisch.
+Die Milch ist schon wieder ausverkauft.
+Kannst du mir kurz den Einkaufswagen halten?
+Beim Aldi ist das Brot gerade im Angebot.
+Ich hasse es wenn die Kasse so langsam geht.
+Meine Liste hat sich komplett vollgeschrieben.
+Das Obst sieht heute nicht so frisch aus.
+Wir sollten mal wieder online bestellen.
+Die Preise sind echt ins Gewicht gefallen.
+Hast du die Quittung vom Supermarkt noch?
+Im Regal stand gar nichts mehr drin.
+Ich kauf nur noch regionale Produkte wannimmer möglich.
+Der Wochenmarkt hat heute einen super Ausblick.
+Meine Nachbarin empfiehlt diesen neuen Bio-Hofladen.
+Die Schere bei den Preisen ist riesig geworden.
+Ich vergesse immer die Bananen einzupacken.
+Hast du schon mal beim Lidl geguckt?
+Unser Kühlschrank braucht dringend neue Vorräte.
+Die Tüte war gleich wieder durchgerissen.
+Ich vergleiche die Preise jetzt online vorher.
+Kann jemand die Joghurtportionen überprüfen bitte?
+Das Gemüse vom Bauern ist einfach besser.
+Mir fehlt die Geduld für lange Wartezeiten.
+Haben wir noch genug Reis im Vorratsschrank?
+Hast du zufällig noch Bananen für meinen Smoothie?
+Das Angebot auf Joghurt sieht gerade echt verlockend aus.
+Warum sind Eier eigentlich überall unterschiedlich teuer?
+Ich habe vergessen den Einkaufswagen zurückzustellen, blöder Fehler.
+Kannst du mir schnell die Milch vom Regal reichen?
+Beim Bio-Markt kosten die Äpfel wirklich das Doppelte.
+Meine Liste hat wieder zu viele Punkte als erwartet.
+Die Schlange an der Kasse scheint schon ewig lang.
+Hast du schon mal mit dem neuen Rabattapp gewohnt?
+Ich finde es nervig wenn meine Lieblingsmarke fehlt.
+Am Wochenmarkt kann man beim Verkäufer direkt fragen.
+Der Discounter hat heute nur noch abgelaufene Ware.
+Wir sollten vielleicht öfter einkaufen gehen, der Kühlschrank ist leer.
+Hast du gesehen dass die Butter gerade im Angebot ist?
+Ich hasse es wenn an der Kasse die Zahlungsausfallt.
+Die Tüte wurde extra berechnet obwohl sie wiederverwendbar war.
+Das Fleisch vom Metzger schmeckt einfach viel besser frischer.
+Kannst du prüfen ob wir noch Kaffeepulver zu Hause haben?
+Supermärkte öffnen samstags oft viel zu früh für mich.
+Die Preise für Milchprodukte steigen wieder, das nervt echt.
+Ich vergesse immer die Haarbürste wenn ich nur Lebensmittel kaufe.
+Beim Supermarkt nebenan ist die Auswahl an Salatblättern besser.
+Hast du schon mal online bestellt und sich abholen lassen?
+Die Pfandautomaten sind manchmal so langsam und sturen.
+Wir sparen richtig Geld wenn wir keine Impulskäufe machen.
+Ich hab keine Bohnen mehr daheim, ich muss gleich ranfahren.
+Die Preise für Fleisch sind in letzter Zeit richtig ins Rollen gekommen.
+Kannst du bitte auch noch mal Butter kaufen?
+Ich hasse es, wenn die Kasse ewig lange wartet.
+Beim Aldi ist das Brot viel günstiger als bei Edeka.
+Wir versuchen uns wieder mehr auf regionale Produkte umzustellen.
+Hast du gesehen wie teuer die Äpfel diese Woche waren?
+Meine Einkaufstüte hab ich zu Hause vergessen, Argh.
+Ich kaufe nur noch Obst wenn es gerade Saison hat.
+Der Verkäufer an der Kasse war heute mega nett.
+Soll ich den Rabattschein mitnehmen oder nicht?
+Die Tiefkühlpizza schmeckt mir ehrlich gesagt immer besser als gedacht.
+Wir haben uns vorgenommen weniger Fleisch zu essen und mehr Gemüse.
+Am Wochenende ist im Supermarkt einfach immer viel zu voll.
+Ich finde die neuen Verpackungen der Chips total unpraktisch.
+Hast du schon mal bei dem neuen Asia-Mart geschnascht?
+Ich mag es gar nicht wenn jemand mir auf der Kasse dicht hinten steht.
+Wir kaufen unser Gemüse lieber direkt vom Bauernhof ab.
+Die Angebote im Prospekt haben mich heute wieder überzeugt.
+Kannst du kurz checken ob wir noch Spaghetti zu Hause haben?
+Ich finde Bio-Lebensmittel sind oft deutlich zu überteuert.
+Am Monatsende ist das Budget fast immer komplett leer.
+Hast du die Treuekarte dabei oder liegt sie im Auto?
+Der Discounter hat heute super Angebote auf Getränke gemacht.
+Kannst du bitte auch mal die Milch abholen?
+Der Apfel schmeckt immer besser vom Bauernstand.
+Ich hasse es, wenn mein Gutschein schon abgelaufen ist.
+Hast du gesehen wie viel das Obst jetzt kostet?
+Meine Liste war komplett falsch und ich hab alles doppelt gekauft.
+Im Supermarkt steht die Schlange bis zur Tür raus.
+Ich kaufe lieber auf Vorrat wenn der Rabatt stimmt.
+Die Bio-Milch schmeckt echt anders als die normale.
+Kannst du kurz vor mir bezahlen ich habe nur Karte.
+Am Wochenmarkt ist das Fleisch oft frischer und günstiger.
+Ich vergesse immer den Einkaufswagen beim Ausparken.
+Das Brot vom Bäcker nebenan ist einfach viel besser.
+Wir haben zu Hause noch Kartoffeln da brauchst du keine holen.
+Die Preise sind letztes Jahr wirklich ins Kraut gewachsen.
+Hast du zufällig noch Butter übrig oder muss ich kaufen?
+Ich mag es nicht im vollen Supermarkt einkaufen zu gehen.
+Der Discounter hat heute ein tolles Angebot auf Getränke.
+Mir ist gerade aufgefallen dass die Preise wieder gestiegen sind.
+Kann ich dir beim Tragen helfen das sieht schwer aus.
+Am Sonntagmorgen ist der Markt am wenigsten voll.
+Ich achte darauf weniger Verpackungen mit nach Hause zu nehmen.
+Das neue Lagerregal im Supermarkt findet man nichts mehr.
+Hast du die Rechnung oder brauchst du keine dafür?
+Wir versuchen lokal einzukaufen damit wir die Region unterstützen.
+Die Apfelsorten sind diesem Jahr leider etwas kleiner als sonst.
+Die Preise sind heute echt ins Kraut geschossen.
+Ich hab vergessen die Einkaufsliste in der Tasche zu haben.
+Kannst du beim Bäcker noch ein Baguette holen?
+Beim Discounter war das Angebot auf Joghurt wirklich gut.
+Mir ist schwindlig von den langen Schlangen an der Kasse.
+Wir sollten mal wieder mehr saisonales Obst essen.
+Der Cashless Check Out ist zwar schnell aber ungewohnt.
+Hast du schon gesehen wie teuer die Milch geworden ist?
+Ich kaufe meine Kräuter lieber direkt auf dem Markt.
+Die Tüte war zu dünn und sofort gerissen doof.
+Kann ich die Karte oder das Handy benutzen fürs Bezahlen?
+Heute regne es daher gehen wir nur rein einkaufen.
+Das Bio-Regal ist heute wieder so leer wie immer.
+Ich versuche jetzt bewusster auf Plastikverpackungen zu verzichten.
+Die Einkaufsapp hilft mir echt den Überblick zu behalten.
+Sollen wir zusammen einen Großeinkauf machen oder lieber getrennt?
+Der Kassierer war ganz nett und hat schnell gescannt.
+Ich hab doch die Rabattpunkte vergessen einzugeben blöd.
+Beim Wochenmarkt riecht alles nach Sommer und frischem Gemüse.
+Kannst du mal nachsehen ob wir noch Eier da haben?
+Die neuen Tiefkühlpizza sehen eigentlich gar nicht so schlecht aus.
+Ich mag es nicht wenn meine Koffer an der Kasse warten.
+Lass uns morgen früh zusammen auf den Markt gehen.
+Der Preis für Fleisch ist mir irgendwie zu hoch geworden.
+Hast du die Quittung noch oder hast du sie weggeworfen?
+Kannst du mal nachschauen ob wir noch Eier haben?
+Der Preisvergleich hat sich echt gelohnt heute.
+Ich hasse es wenn die Kasse so langsam läuft.
+Hab vergessen das Handy zu laden am Marktstand.
+Die Frischhalteboxen aus Glas sind teurer aber besser.
+Soll ich den Rabattcode beim Bezahlen nutzen?
+Meine Einkaufstasche war schon wieder total leer.
+Beim Bäcker um die Ecke gibt es bessere Brötchen.
+Die Obstauswahl im Supermarkt sieht heute mies aus.
+Hast du das Rezept für den Kuchen schon gekauft?
+Ich kaufe immer nur noch lose Äpfel ohne Netz.
+Die Angebote in der Flyer-App sind oft veraltet.
+Wir müssen dringend Öl und Essig nachkaufen.
+Das Gewürzregal ist im Baumarkt günstiger hier.
+Hast du die Einkaufsliste auch ins Handy geschrieben?
+Die Schlangesteherin hat wieder ihren Gutschein vergessen.
+Ich probiere mal die Eigenmarke statt der teuren Marke.
+Beim Wochenmarkt kann man über den Preis verhandeln.
+Meine Tüte zum Einkaufen ist schon kaputt gegangen.
+Wir kaufen das Fleisch jetzt nur noch vom Schlachter.
+Die Bananen sind leider schon etwas zu weich.
+Hast du auch die Reinigungsmittel mit in den Wagen genommen?
+Der Kassierer war heute echt freundlich und schnell.
+Die Bio-Abteilung ist bei uns immer überfüllt.
+Ich hab den Zettel für die Einkaufsliste wieder vergessen.
+Die Preise sind seit letzter Woche nochmal deutlich gestiegen.
+Kannst du bitte noch Eier mitnehmen auf dem Weg nach Hause?
+Im Angebot war zwar Milch aber kein Joghurt dabei.
+Ich mag diese langen Warteschlangen an der Selbstbedienungskasse nicht.
+Das Obst vom Bauern nebenan schmeckt einfach viel besser.
+Wir müssen unbedingt weniger Fleisch kaufen und mehr Gemüse.
+Hast du schon gesehen wie teuer die Kartoffeln geworden sind?
+Meine Frau bevorzugt Bioprodukte obwohl sie teurer sind.
+Ich suche immer nach dem günstigsten Preis pro Kilogramm.
+Der Regelfehler beim Scannen nervt mich wirklich jeden Tag.
+Wir haben heute spontan beschlossen alles auf Vorrat zu kaufen.
+Das neue Produkt von der Eigenmarke war überraschend lecker.
+Kannst du die Kassenzettel digital speichern statt papierbasiert?
+Ich kaufe meine Brotwaren lieber beim lokalen Bäcker als im Supermarkt.
+Die Öffnungszeiten ändern sich wieder und das finde ich blöd.
+Wir versuchen so gut wie möglich Plastikmüll zu vermeiden.
+Das Angebotsheft lag schon die ganze Woche auf dem Tisch.
+Ich hasse es wenn man vor der Kasse noch bezahlen muss.
+Hast du eigentlich schon den Neupreis für Bananen gesehen?
+Der Discounter hat zwar bessere Preise aber weniger Auswahl.
+Meine Nachbarin organisiert immer ihre Einkäufe am Wochenende.
+Wir sparen viel Geld indem wir selbst einkaufen gehen.
+Das Bio-Sortiment ist in diesem Markt leider sehr begrenzt.
+Ich vergesse ständig die Einkaufstaschen zu Hause anzulegen.
+Hast du zufällig die Kassenbon vom letzten Mal?
+Die Preise für Kaffee sind wieder in die Höhe geschossen.
+Ich hab keine Lust mehr auf diesen Lärm im Supermarkt.
+Kannst du bitte mal Joghurt von der Liste abhaken?
+Das Bio-Erdbeeren waren gestern noch so teuer hier.
+Wir sollten doch einfach mal beim Wochenmarkt einkaufen gehen.
+Hast du schon gesehen wie günstig die Olivenöl ist?
+Die Abteilungen sind total durcheinander gebracht worden heute.
+Mir fehlt immer das Geld für teure Markenprodukte.
+Kannst du mal prüfen ob wir noch Brot da haben?
+Die Tüte war wieder so dünn dass sie gerissen ist.
+Wir kaufen jetzt lieber online um Zeit zu sparen.
+Das Angebot auf Nudeln war wirklich verlockend für mich.
+Ich hasse es wenn meine Lieblingsmarke ausverkauft ist.
+Hast du den Gutscheincode schon in die App eingetragen?
+Die Gemüseauswahl im Sommer ist einfach viel besser.
+Wir versuchen bewusst weniger Fleisch zu kaufen jetzt.
+Kann ich bei dir mit der Karte bezahlen heute?
+Die Schlange an Kasse vier bewegt sich gar nicht.
+Ich vergess immer wieder die Milch für meinen Kaffee.
+Das Obst hier sieht deutlich frischer aus als dort.
+Hast du schon mal den neuen Bio-Supermarkt probiert?
+Mir ist total peinlich weil ich nichts mehr brauche.
+Die Preise im Supermarkt sind wirklich nicht zumutbar mehr.
+Machst du heute einkaufen oder soll ich?
+Das Brot vom Bäcker schmeckt echt viel besser.
+Ich hab das Angebot für die Nudeln verpasst.
+Kannst du kurz nachschauen ob wir noch Käse haben?
+Die Preise bei uns sind letztes Jahr stark gestiegen.
+Ich kaufe lieber beim Rewe weil der nah dran ist.
+Hast du schon gesehen dass die Tomaten reduziert wurden?
+Meine Liste hatte ich eigentlich in der Hosentasche.
+Der Aldi hat heute ganz schön lange Schlänge.
+Wir sollten mal wieder den Einkauf zusammen planen.
+Das Obst sieht aus wie aus dem Bilderbuch da.
+Ich vergesse immer den Tütenbeutel zum Mitnehmen.
+Kannst du statt Vollmilch einfach Malzkaffee holen?
+Beim Discounter ist das Fleisch oft viel günstiger.
+Die Kassiererin war heute echt nett und schnell.
+Ich versuche immer weniger Fertigprodukte zu kaufen.
+Hast du die Gutscheinapp schon auf dein Handy geladen?
+Wir brauchen dringend noch etwas zum Kochen für heute.
+Das Bio-Hähnchen ist zwar teuer aber dafür gesünder.
+Ich hasse es wenn alles am Ende der Gänge steht.
+Kannst du kurz die Preise vergleichen bevor wir kaufen?
+Die Obststände auf dem Markt sind jeden Morgen anders.
+Wir haben vergessen Brot zu kaufen und jetzt Hunger.
+Meine Mutter kauft noch gerne mit ihrem alten Korb.
+Das Angebot galt leider nur für Online-Bestellungen hier.
+Ich hasse es, wenn die Kassen alle belegt sind.
+Hast du gesehen wie teuer der Käfer geworden ist?
+Meine Liste war total chaotisch geschrieben heute morgen.
+Beim Aldi gibt es wieder ein super Angebot auf Kaffee.
+Ich nehme immer nur noch meine eigene Tasche mit.
+Das Obst vom Markt schmeckt einfach viel besser als im Supermarkt.
+Wir sollten bald mal wieder gemeinsam einkaufen gehen.
+Der Kassierer war echt unfreundlich und hat genervt gezuckt.
+Ich suche schon ewig nach der passenden Sauce hier drin.
+Kannst du mir sagen wo die Milch steht?
+Die Preise sind wirklich im Moment nicht mehr zum Aushalten.
+Ich versuche immer die lokalen Produkte zu unterstützen.
+Mein Kühlschrank ist komplett leer und ich hab keine Lust mehr.
+Die Aktionsware ist leider schon wieder ausverkauft.
+Hast du den Gutscheincode auch aktiviert in der App?
+Wir kaufen lieber öfter kleine Mengen statt alles auf einmal.
+Das Fleisch war irgendwie nicht richtig frisch ausscheinend.
+Ich mag es wenn die Regale gut sortiert und übersichtlich sind.
+Der Bäcker um die Ecke hat das beste Brot der Stadt.
+Soll ich den Wagen schieben oder gehst du vor?
+Die Werbung lockt immer mit Angeboten die man eh nicht braucht.
+Mir ist bei dem Stau an der Kasse so langweilig.
+Kann ich bitte auch mal eine Karte hier einlösen?
+Das Gemüse im Discountershop ist oft etwas welk und alt.
+Ich habe heute drei verschiedene Listen auf meinem Handy.
+Die Lieferung online kam leider zwei Tage zu spät an.
+Ich hab vergessen Milch einzukaufen ärgerlich.
+Kannst du mal gucken ob wir noch Nudeln haben.
+Das Angebot auf die Joghurt ist heute super.
+Am liebsten kaufe ich einkaufen wenn keine Schlange da ist.
+Die Preise für Obst sind dieses Jahr echt krass.
+Wir gehen meistens freitagabend einkaufen weil alles offen hat.
+Hast du schon gesehen dass die Butter jetzt doppelt so teuer ist.
+Ich mag den Wochenmarkt weil man da frische Ware kauft.
+Mein Handy ist voll von diesen Gutschein apps und rabatten.
+Der Supermarkt um die Ecke hat immer langweilige Musik an.
+Soll ich noch Brot holen oder nimmst du dein eigenes mit.
+Ich achte immer auf den Preis pro Kilo beim einkaufen.
+Meine Mama macht immer eine riesige liste auf papier.
+Wir sparen geld wenn wir markenartikel statt discounter kaufen.
+Der kassierer hat heute ganz schön lange gezählt echt nervig.
+Ich kaufe lieber bio obwohl es ein bisschen mehr kostet.
+Die Obsttheke sieht immer am besten aus mittags um zwölf.
+Hast du meinen gutschein gefunden der liegt irgendwo in der tasche.
+Wir müssen noch einkaufstüten besorgen die alten sind kaputt gegangen.
+Der neue supermarket hat endlich auch gute kaffeesorten im angebot.
+Ich hasse es wenn meine eingekauften dinge zerplatzen im keller.
+Kann man denn hier auch mit karte zahlen oder nur bar.
+Das fleisch war schon etwas ranzig ich habe es zurück gegeben.
+Wir versuchen weniger impulskaufs zu machen das ist schwer umzusetzen.
+Hab ich mal wieder vergessen, dass die Joghurts abgelaufen sind.
+Supermarkt heute war komplett voll, totaler Stress bei der Kasse.
+Kannst du bitte noch Milch und Brot mitnehmen auf dem Heimweg?
+Das Angebot auf die Nudeln sieht echt super aus diese Woche.
+Ich hasse es, wenn meine Einkaufsliste immer schon wieder durcheinander kommt.
+Beim Discounter ist zwar billiger aber die Auswahl ist begrenzt.
+Hast du gesehen wie teuer das Obst diesen Monat geworden ist?
+Mir reicht es langsam, jeden Sonntag stundenlang zu shoppen.
+Die Bananen sind noch grün, also lassen wir sie besser liegen.
+Kann ich dir beim Tragen der schweren Taschen helfen?
+Ich probiere gerade mal wieder aus, alles im Glas zu kaufen.
+Der Verkäufer an Kasse drei ist immer so unglaublich freundlich.
+Habe ich vergessen nachzusehen, ob die Coupons noch gültig sind.
+Am Wochenmarkt schmeckt das Gemüse einfach viel besser als drinnen.
+Wir sollten weniger Fertigprodukte kaufen und mehr selbst kochen.
+Die Preise für Fleisch steigen ja fast jeden Tag ein bisschen.
+Meine Mutter schwört darauf, immer an der längsten Schlange zu stehen.
+Ich kann nicht glauben, wie viel Geld wir für Snacks ausgeben.
+Das new Arrival Regal beim Bäcker lockt mich jedes Mal rein.
+Hast du die Quittung noch oder hast du sie schon weggeworfen?
+Wir machen heute Abend einen großen Einkauf für die ganze Woche.
+Die Plastikverpackungen nerven mich echt, da muss sich was ändern.
+Ich vergleiche gerne zuerst den Preis pro Kilogramm vor dem Kauf.
+Mein Freund findet das Laufen durch den Supermarkt super entspannend.
+Warum ist der Joghurt heute wieder so teuer geworden?
+Am liebsten würde ich jeden Sonntag zum Wochenmarkt gehen.
+Kannst du bitte noch mal Milch und Brot mitnehmen?
+Das Angebot auf die Nudeln habe ich sofort gesehen.
+Ich mag es nicht, wenn andere ihre Einkaufswagen blockieren.
+Bioprodukte kosten zwar mehr aber schmecken dafür auch besser.
+Hast du schon geguckt ob der Preis wirklich gesenkt wurde?
+Die Tüte vergessen zu Hause ist so eine nervige Sache.
+Meine Oma geht nur noch zum Bauern direkt vor Ort.
+Am Freitag abend ist im Supermarkt immer total voll.
+Ich finde die neuen Plastikbecher einfach nicht nachhaltig genug.
+Soll ich den Käse in der kleinen oder großen Packung nehmen?
+Die Kasse war heute zum Glück komplett leer.
+Man merkt echt wenn man auf lokale Produkte umsteigt.
+Der Preisvergleich zwischen den Discountern lohnt sich manchmal echt.
+Hast du schon mal bei dem neuen Markt da nebenan einkaufen?
+Ich sortiere meine Liste immer nach den Gängen im Geschäft.
+Die Früchte dort oben sehen einfach viel besser aus.
+Kannst du mir kurz die Kasse freihalten danke schön.
+Ich kaufe lieber etwas teurer ein damit ich weniger wegwerfe.
+Die Promotion auf die Toilettenpapierrolle hat mich echt gelockt.
+Woran erkennt man eigentlich ob das Obst schon reif ist?
+Mein Mann macht immer den ganzen Großeinkauf am Samstag.
+Ich hasse es, wenn meine Liste doppelt so lang wird wie gedacht.
+Ich hab die Liste auf meinem Handy abfotografiert.
+Das Angebot auf Tomaten ist wirklich super gerade.
+Wir müssen wieder Reis kaufen für die Woche.
+An welcher Kasse ist es am schnellsten heute?
+Kannst du bitte noch Butter mitbringen von dir.
+Die Preise sind hier im Norden echt hoch geworden.
+Ich nehme lieber das Eigenmarken-Produkt als Marke.
+Hast du schon gesehen dass der Joghurt reduziert wurde?
+Beim Metzger nebenan ist das Fleisch doch frischer.
+Mein Einkaufswagen hat immer dieses quietschende Rad dabei.
+Soll ich das Obst aus dem Ausland oder lokal nehmen?
+Die Abrechnung an der Selbstbedienungskasse funktioniert nie richtig.
+Wir sparen viel wenn wir abends kurz vor Ladenschluss einkaufen.
+Hab ich zufällig noch Kartoffeln im Keller liegen für dich?
+Der Supermarkt ist heute wegen Feiertag leider geschlossen.
+Ich finde die neuen Bio-Regale sind zu teuer angelegt.
+Kannst du mal nachschauen ob wir noch Kaffee haben?
+Die Tüte war vergessen also hab ich sie einfach offen gehalten.
+Am Wochenende ist der Laden immer vollgestopft mit Menschen.
+Ich esse lieber frisches Gemüse statt aus der Dose halt.
+Hast du die Karte dabei für die Treuepunkte sammeln?
+Der Preisvergleich hat sich wirklich gelohnt bei der Flasche.
+Wir holen uns unser Brot jetzt immer beim Bäcker nebenan.
+Das Angebot auf Reisnudeln ist morgen wieder gültig denk ich.
+Ich mag es nicht wenn mir jemand an der Kasse behindert.
+Ich habe die ganze Zeit nach dem Ketchup gesucht.
+Warum sind die Tomaten heute wieder so teuer geworden?
+Kannst du kurz auf das Baby aufpassen?
+Die Angebote im Prospekt sehen ganz gut aus.
+Ich hasse es, wenn die Waage nicht funktioniert.
+Hab ihr schon Joghurt für morgen gesehen?
+Beim Aldi war es heute echt voll inside.
+Mir reicht es ehrlich gesagt mit der App.
+Soll ich noch Brot holen oder hast du genug?
+Das Obst am Markt riecht so viel besser.
+Ich finde den Preis für Olivenöl unglaublich.
+Meine Einkaufstasche war fast durchgerissen beim Tragen.
+Hast du die Quittung schon zusammengelegt für mich?
+Wir kaufen immer nur noch Bio wenn wir können.
+Die Bananen sind leider doch schon ein bisschen matschig.
+Ich habe total vergessen Sahne mitzunehmen heute.
+Am liebsten würde ich gar nicht mehr einkaufen gehen.
+Der Kassierer war heute echt super freundlich zu uns.
+Hast du gesehen wie teuer die Butter geworden ist?
+Ich versuche immer einen Pfund weniger Fleisch zu kaufen.
+Die neuen Tüten kosten extra das finde ich blöd.
+Wir haben den Einkaufswagen fast nicht zurückgeschoben.
+Kannst du mal prüfen ob wir noch Eier da haben?
+Im Rewe war die Musik heute nervig laut leider.
+Ich mag es wenn alles schön sortiert im Regal steht.
+Die Einkaufsliste hab ich mir direkt in die Kamera gespeichert.
+Heute war der Wein so teuer dass ich nur einen gekauft habe.
+Kannst du mal sehen ob wir noch Kaffee da haben?
+Ich hasse es wenn die Kassen alle besetzt sind am Samstag.
+Wir sollten vielleicht öfter beim Wochenmarkt einkaufen gehen.
+Die Tomaten schmecken im Sommer einfach viel besser direkt vom Feld.
+Hast du den Gutschein schon auf dem Handy gespeichert für später?
+Ich find es nervig wenn die Preise anders als angekündigt sind.
+Kann ich dir helfen oder willst du lieber allein weiter shoppen?
+Der Bäcker hier um die Ecke macht das beste Brot in der Stadt.
+Wir brauchen eigentlich nur noch ein paar Basics fürs Abendessen.
+Ich vergess immer wieder Salz zu kaufen wenn ich einkaufen gehe.
+Die Plastiktüten kosten extra aber sie sind wenigstens stabiler.
+Ich mag es nicht wenn die Regale morgens schon leer geräumt sind.
+Kannst du mal checken ob wir noch Bier im Keller haben?
+Das Fleisch war deutlich teurer als letzte Woche beim selben Händler.
+Ich versuche immer Bio zu kaufen aber das Geld reicht nicht immer.
+Warum steht hier auf einmal so eine lange Schlange an der Kasse?
+Die Abgabe von Obst und Gemüse ist heute leider schon vorbei.
+Das Gemüse vom Bauernmarkt kostet zwar mehr aber es schmeckt besser.
+Kannst du mir sagen wo die Kartoffeln im Supermarkt stehen?
+Ich muss dringend Milch holen weil das Kind morgen früh was trinken will.
+Ich brauche dringend noch Brot und Butter.
+Die Preise für Olivenöl sind echt ins Rutschen gekommen.
+Hast du schon gesehen, dass Joghuri im Angebot ist?
+Ich hasse es, wenn die Kassen alle besetzt sind.
+Meine Einkaufstüte hat sich gerade am Rand gerissen.
+Wir kaufen eigentlich nur noch Obst ohne Folie.
+Der Regalmitarbeiter weiß immer alles über Lagerung.
+Kannst du bitte auf dem Weg heim Eier abholen?
+Ich liebe den Duft von frischem Brot am Morgen.
+Das Bio-Obst ist zwar teurer, aber leckerer.
+Hast du die Rechnung für das Online-Einkauf gespeichert?
+Am Wochenmarkt kann man besser mit dem Händler feilschen.
+Die Milchtüten machen im Karton so viel Platz weg.
+Ich suche schon seit einer Viertelstunde nach Quark.
+Unser Kühlschrank ist wieder komplett voller Gemüse geworden.
+Hast du den Rabattcoupon für die Getränke dabei?
+Der Discounter hat heute einen super Gutscheinaktion gestartet.
+Die Schere im Supermarkt ist zum Sterben langweilig.
+Wir versuchen momentan, regional einkaufen zu gehen.
+Das neue Regal im Backwarenbereich sieht viel ordentlicher aus.
+Hast du den Barcode für die Treuekarte griffbereit?
+Ich finde es stressig, wenn Kinder mit ins Geschäft kommen.
+Die Abteile sind heute Abend immer total überfüllt.
+Kannst du mal gucken ob wir noch Tomaten haben?
+Die Preise sind seit letzter Woche wieder gestiegen.
+Ich hasse es wenn die Kasse so lange dauert.
+Hast du das Angebot auf Avocados gesehen heute?
+Meine Liste ist immer viel länger als gedacht.
+Beim Bäcker nebenan ist das Brot wirklich besser.
+Das Regal war wieder komplett leer von Joghurt.
+Ich kaufe lieber nach Plan um Geld zu sparen.
+Warum kosten die eigenen Marken plötzlich mehr?
+Ich vergesse immer die Batterie für den Schlüssel.
+Die Schere an der Kasse war einfach zu lang.
+Kann man das auch ohne Plastiktüte verpacken lassen?
+Das Fleisch sieht heute gar nicht so frisch aus.
+Wir müssen unbedingt mal wieder einkaufen gehen.
+Ich finde den Weg durch den Supermarkt nervig.
+Die Beeren waren zwar günstig aber leider matschig.
+Soll ich bei der Tankstelle gleich Benzin tanken?
+Meine Frau macht immer die Einkaufsliste für uns.
+Das Gemüse vom Markt schmeckt einfach anders.
+Kannst du kurz vor dem Bezahlen die Liste checken?
+Ich hasse Staus im Supermarkt am Wochenende wirklich.
+Wir brauchen dringend noch Reis und Nudeln.
+Der Kassierer war heute super freundlich und schnell.
+Hast du schon die Einkaufsliste gemacht oder soll ich?
+Die Preise für Milch steigen wieder mal spürbar.
+Am besten geht man samstags Vormittag einkaufen.
+Im Discounter ist das Obst leider oft nicht reif.
+Wir sparen jede Woche viel Geld bei der Eigenmarke.
+Der Kassenbon war irgendwie zu lang für die Tasche.
+Ich hasse es, wenn mein Lieblingsjoghurt ausverkauft ist.
+Beim Wochenmarkt kann man richtig über den Tisch hacken.
+Hast du noch Eier im Kühlschrank oder muss ich welche holen?
+Die Angebote in dieser Woche sind echt garnix.
+Mein Mann vergisst immer den Ketchup auf der Liste.
+Ich kaufe lieber teureres Bio-Hähnchen für die Kinder.
+Die Schlange an der Selbstkasse war heute kürzer.
+Wir versuchen langsam mehr regionale Produkte zu kaufen.
+Warum ist Butter denn so wahnsinnig teuer geworden?
+Das frische Brot vom Bäcker schmeckt einfach besser.
+Ich muss schnell noch Zahnpasta und Shampoo besorgen.
+Die Tomaten aus dem Supermarkt haben keinen Geschmack mehr.
+Wir gehen jetzt abends shoppen, wenn es ruhiger ist.
+Hast du gesehen wie teuer die Kartoffeln geworden sind?
+Einkaufstaschen nicht vergessen, sonst zahle ich extra.
+Ich liebe es, im Freiluftmarkt nach Pilzen zu suchen.
+Die neuen Sorten Chips haben mir gar nicht geschmeckt.
+Kannst du beim nächsten Mal bitte auch Seife mitnehmen?
+Kannst du bitte mal die Milch nachschauen ob sie noch gut ist?
+Die Preise für Butter sind mir wirklich zu hoch geworden.
+Ich hasse es immer wieder neue Einkaufslisten erstellen zu müssen.
+Beim Netto war das Obst heute deutlich günstiger als bei Aldi.
+Hast du schon gesehen dass unser Lieblingstee fast ausverkauft ist?
+Am liebsten würde ich den Wochenmarkt meiden weil es so voll ist.
+Die Kassiererin hat mich ganz lieb gegrüßt und nach dem Befinden gefragt.
+Ich versuche immer die eigenen Beutel mitzunehmen um Plastik zu sparen.
+Warum kosten hier die Biobananen doppelt so viel wie beim Nebenbuden?
+Der Bäcker unten um die Ecke hat noch warme Brötchen.
+Ich finde es nervig wenn meine Kreditkarte an der Kasse nicht geht.
+Wir haben endlich mal wieder Zeit für einen gemütlichen Einkauf gefunden.
+Die Angebote auf dem Flyer sind meist doch nur Lockvogelartikel.
+Hast du den Rabattgutschein aus der Zeitung schon abgeheftet?
+Mein Kühlschrank sieht aktuell ziemlich traurig und leer aus.
+Ich mag es wenn man beim Markt noch mit den Bauern spricht.
+Die Schlangen an der Selbstbedienungskasse sind heute irgendwie besonders lang.
+Kannst du mal prüfen ob wir noch Salz für das Abendessen haben?
+Der Discounter hat endlich die Markengröße von Kaffee reduziert.
+Ich finde es wichtig lokal einzukaufen um kleine Unternehmen zu unterstützen.
+Warum ist bei uns immer alles teurer als in der Nachbarstadt?
+Die neuen Öffnungszeiten passen mir überhaupt nicht mehr ins Tagesgeschäft.
+Hast du bemerkt dass die Joghurtportionen immer kleiner werden?
+Am Ende des Einkaufs merke ich oft erst wie schwer meine Taschen sind.
+Ich muss doch noch schnell ran, ich hab keine Eier mehr.
+Hast du die Einkaufsliste schon gemacht oder soll ich?
+Das Angebot auf den Tomaten ist heute echt gut.
+Warum kaufst du immer die teure Markenmilch?
+Beim Wochenmarkt sind die Preise für Äpfel deutlich niedriger.
+Ich hasse es, wenn an der Kasse nur eine offene ist.
+Kannst du mal schauen ob wir noch Kaffee haben?
+Der Discounter hat endlich wieder frische Baguette.
+Meine Einkaufstasche ist schon ganz voll und schwer.
+Ich vergleiche die Preise immer nochmal vor dem Bezahlen.
+Haben wir eigentlich noch Milch oder soll ich welche holen?
+Die Avocados hier sind ja allesamt noch hart wie Stein.
+Ich kaufe lieber etwas teures aber dafür auch besseres Obst.
+Kann ich an der Selbstkasse auch mit Karte bezahlen?
+Der Supermarkt um die Ecke hat heute schon geschlossen.
+Wir sollten uns einen gemeinsamen Einkaufsplan machen für die Woche.
+Die neuen Bio-Produkte kosten ja jetzt doppelt so viel.
+Ich hab vergessen den Gutschein von letzter Woche zu nehmen.
+Frische Kräuter gibt es hier nur noch im Plastikbecher.
+Soll ich beim Bäcker gleich noch ein Brötchen mitnehmen?
+Der Preis für Fleisch ist in den letzten Monaten explodiert.
+Ich mag den Geruch vom frischen Brot aus dem Ofen.
+Hast du den Code für die Treuekarte parat oder nicht?
+Wir kaufen unser Gemüse lieber direkt bei der Erzeugerhof.
+Die Regale sind nach der Rabattaktion fast völlig leer.
+Einkaufsliste ist auf dem Handy vergessen worden.
+Warum ist das Joghurt so teuer geworden?
+Ich hol schnell noch Brot vom Bäcker nebenan.
+Der Rabattgutschein lief heute wieder ab leider.
+Kannst du mir die Tomaten aus der zweiten Reihe reichen?
+Im Supermarkt war heute echt viel los irgendwie.
+Wir kaufen lieber Bio obwohl es etwas mehr kostet.
+Hast du gesehen wie wenig Milch wir noch haben?
+Die Schere an der Kasse ist komplett leer gelaufen.
+Ich mag den Wochenmarkt weil man da direkt kaufen kann.
+Meine Tante schwört nur auf Produkte aus der Region.
+Der Preisvergleich hat mir heute echt viel Geld gespart.
+Verdammt, wieder vergessen dass wir kein Salz mehr haben.
+Kann ich hier auch mit der Girocard bezahlen?
+Das Angebot auf die Nudeln ist wirklich top gerade.
+Ich finde diese neuen Verpackungen total unpraktisch ehrlich gesagt.
+Hast du schon mal beim Online-Supermarkt bestellt zum Testen?
+Die Obsttheke sah heute deutlich frischer aus als letzte Woche.
+Wir haben extra gewartet bis der sale losging gestern.
+Mein Mann kocht doch eh nur wenn ich einkaufe für ihn.
+Ich achte seitdem mehr auf die Inhaltsstoffe bei Snacks.
+Der Discounter hat zwar weniger Auswahl dafür aber billigere Preise.
+Kannst du mal kurz den Koffer tragen bis zur Tür?
+Das neue Treueprogramm ist mir irgendwie zu kompliziert erschienen.
+Ich hasse es wenn die Lieblingsmarke ausverkauft ist einfach.
+Ich hab den Einkaufswagen wieder vergrault.
+Die Preise sind mir eigentlich egal wenn das Essen gut schmeckt.
+Hast du schon gesehen wie teuer Käse heute ist?
+Meine Liste liegt irgendwo in der Jackentasche.
+Wir nehmen immer die günstigste Markenmilch.
+Am liebsten würde ich nur online bestellen.
+Der Pfandautomat hat meine Flaschen wieder verschluckt.
+Kannst du mir kurz den Kirschgut-Wein reichen?
+Ich esse so oft wie möglich regional eingekauft.
+Die Angebote im Flyer sehen verlockend aus.
+Vergiss nicht die Butter für morgen früh.
+Beim Wochenmarkt kann man direkt mit dem Händler handeln.
+Mein Kühlschrank ist leer wie mein Geldbeutel.
+Ich hasse es wenn alles ausverkauft ist.
+Hast du die Rechnung nochmal geprüft?
+Wir sparen jede Woche fünf Euro beim Discounter.
+Das Bio-Gemüse kostet zwar mehr aber schmeckt besser.
+Kann ich hier mit Girocard bezahlen?
+Ich kaufe lieber unverpackt um Müll zu sparen.
+Die Schlangen am Wochenende sind einfach endlos lang.
+Hast du den Gutschein für die Backwaren?
+Meine Oma kauft noch immer alles auf dem Markt.
+Ich vergesse ständig den Reis in der Tüte.
+Der neue Supermarkt hat echt gute Öffnungszeiten.
+Sollen wir die Kartoffeln aus dem Angebot nehmen?
+Ich hab vergessen die Liste für den Supermarkt mitzunehmen.
+Die Angebote dieser Woche sehen wirklich ganz nett aus.
+Hast du schon mal beim neuen Discounter nebenan geschaut?
+Beim Wochenmarkt ist das Obst immer deutlich frischer.
+Der Preisunterschied bei Milchprodukten ist echt krass.
+Ich kaufe lieber Bio wenn ich es mir leisten kann.
+Kannst du mal checken ob wir noch Brot haben?
+Das Gemüse vom Hofladen schmeckt einfach besser als sonst.
+Ich vergesse immer wieder den Joghurt auf die Liste zu schreiben.
+Die langen Schlangen am Samstag Abend sind echt lästig.
+Wir versuchen im Moment bewusst weniger Fleisch zu kaufen.
+Hast du schon gesehen was für Rabatte es gibt?
+Der Supermarkt um die Ecke hat schon zu gemacht.
+Ich finde die Preise bei uns im Vergleich absurd hoch.
+Meine Mutter macht ihre Einkäufe noch immer am Wochenmarkt.
+Wir haben versehentlich zu viel Käuse mit nach Hause genommen.
+Kannst du bitte die Einkaufstasche aus dem Auto holen?
+Die Qualität beim Discounter hat in letzter Zeit gelitten.
+Ich suche schon seit Tagen nach einem guten Kaffee.
+Hast du zufällig noch ein Ei übrig für den Kuchen?
+Der neue Regalaufbau im Supermarkt verwirrt mich komplett.
+Wir sparen viel wenn wir uns die Angebote anschauen.
+Das Brot vom Bäcker schmeckt einfach anders als das Pack.
+Ich muss dringend mal wieder die Vorratskammer aufräumen.
+Die Preise sind in letzter Zeit wirklich explodiert.
+Am besten gleich nach der Arbeit schnell einkaufen gehen.
+Dieses Obst sieht nicht mehr besonders frisch aus.
+Kannst du bitte noch Brot auf dem Weg mitnehmen?
+Die Kassen sind heute Abend immer wahnsinnig überfüllt.
+Ich suche einen besseren Preis für das Toilettenpapier.
+Das Angebot auf die Pasta war gar nicht so schlecht.
+Meine Einkaufstüte ist leider schon wieder durchgerissen.
+Wir probieren mal eine neue Bio-Marke aus.
+Der Kassierer war heute extrem ungeduldig und unhöflich.
+Hast du gesehen wie teuer der Kaffee geworden ist?
+Ich gehe lieber zu Fuß zum Bäcker nebenan.
+Die Regale waren nachts noch nicht neu befüllt.
+Wir sparen jetzt bewusster mit Lebensmitteln und Planen besser.
+Das Fleisch muss morgen unbedingt gegessen werden.
+Am Wochenmarkt kann man richtig schön feilschen.
+Ich hasse es immer wieder dass Produkte vergriffen sind.
+Die Tüte kostet jetzt schon drei Cent mehr.
+Soll ich noch Milch holen oder reicht die alte?
+Der Supermarkt hat heute früh geöffnet und leer war.
+Ich versuche pflanzliche Alternativen öfter zu kaufen.
+Diese Markierung im Angebot stimmt einfach nicht überein.
+Wir haben wieder zu viel Obst eingekauft das welkt.
+Kannst du mal nachschauen ob wir noch Eier haben?
+Ich habe die Liste für den Einkauf schon mal geschrieben.
+Der Preis auf dem Regal stimmte leider nicht mit dem an der Kasse überein.
+Wir brauchen dringend Brot und Butter für morgen früh.
+Hast du zufällig noch ein Ei übrig? Mein Vorrat ist leer.
+Am Wochenmarkt kaufen wir immer die frischen Tomaten vom Bauern.
+Die Angebote bei Aldi sehen diese Woche wirklich gut aus.
+Ich achte beim Kauf von Obst besonders auf die Herkunft.
+Kannst du mal kurz zum Netto vorbeischauen? Wir haben keine Milch mehr.
+Der Schalter an der Kasse wartete ewig lang auf einen Kassierer.
+Bio-Produkte kosten zwar mehr, sind aber meiner Meinung nach besser.
+Ich mag es nicht, wenn meine Äpfel in Plastik verpackt sind.
+Die Einkaufstüte vergessen zu Hause ist immer so nervig.
+Wir sparen viel Geld, indem wir auf die Eigenmarke zurückgreifen.
+Das Fleisch vom Metzger schmeckt einfach anders als aus dem Supermarkt.
+Hast du schon gesehen, dass der Käfer gerade reduziert wird?
+Ich zähle meine Coins jedes Mal nach, bevor ich zur Kasse gehe.
+Der neue Discounter im Stadtzentrum hat eine riesige Auswahl an Gemüse.
+Wir versuchen, so wenig wie möglich Fertigprodukte zu kaufen.
+Die Bananen waren leider schon komplett überreif, als ich sie gekauft habe.
+Mein Einkaufswagen hatte von Anfang an ein quietschendes Rad.
+Soll ich noch schnell den Joghurt nachkaufen oder ist genug da?
+Ich finde die langen Schlengen am Samstagabend einfach nur anstrengend.
+Die Preisunterschiede zwischen den verschiedenen Märkten sind wirklich absurd.
+Wir haben uns heute wieder für den lokalen Wochenmarkt entschieden.
+Die Bananen waren schon total überreif als wir sie kaufen wollten.
+Ich habe keine Ahnung wo ich am besten einkaufen kann.
+Lass uns doch mal wieder auf dem Wochenmarkt shoppen.
+Der Preis für Eier ist in letzter Zeit wirklich explodiert.
+Kannst du bitte noch ein paar Tomaten mitbringen?
+Ich hasse es wenn die Kassenwarteschlange ewig dauert.
+Wir sollten mehr saisonales Gemüse kaufen um Geld zu sparen.
+Das Angebot vom Supermarkt nebenan sieht gerade ganz gut aus.
+Hast du schon gesehen dass Milch wieder günstiger geworden ist?
+Ich mag es nicht wenn mir wer bei der Kasse dazwischenredet.
+Meine Frau macht immer die detaillierte Einkaufsliste für uns.
+Beim Discounter finde ich oft bessere Preise für Markenartikel.
+Wir haben vergessen Brot zu kaufen und jetzt haben wir Hunger.
+Die Bio-Abteilung wird immer größer was mich echt freut.
+Ich versuche Plastikmüll zu vermeiden indem ich Glas kaufe.
+Hast du schon mal beim Bauern direkt Obst bestellt?
+Der Supermarkt ist heute Abend bis neun Uhr geöffnet.
+Mir fehlt immer der richtige Rucksack für den Wochenmarkt.
+Wir kaufen lieber lokal ein um die Umwelt zu schonen.
+Die Preise im Vergleich zum letzten Monat sind wieder gestiegen.
+Kannst du prüfen ob wir noch Kaffee da haben?
+Ich finde den neuen Aufbau im Supermarkt total verwirrend.
+Lass uns heute Abend einfach was schnelles aus dem Kühlregal holen.
+Mein Partner ist immer derjenige der an der Kasse zahlt.
+Kannst du bitte mal nachsehen ob wir noch Brot haben?
+Die Avocados in der Ecke sehen heute echt grässlich aus.
+Ich hab den Gutschein für das Obst schon abgescannt.
+Warum ist das Fleisch wieder so unheimlich teuer geworden?
+Wir sollten uns eine neue Einkaufstasche zulegen, die alte reißt immer.
+Beim Discounter war alles halb so wild, da gibts Angebote.
+Hast du beim Joghurt auf das Haltbarkeitsdatum geachtet?
+Das Bio-Brot schmeckt einfach besser als das normale.
+Ich kann nicht mit den Kindern zum Rewe gehen, die sind verrückt.
+Meine Liste liegt sicher noch in der Küche auf dem Tisch.
+Die Kassenmitarbeiterin war super nett und hat schnell geknallt.
+Wir kaufen immer unseren Kaffee nach, wenn er im Sale ist.
+Der Wochenmarkt am Samstagvormittag ist leider viel zu voll.
+Ich hasse es, wenn die Waage an der Obsttheke nicht funktioniert.
+Hast du zufällig Sahne mitgenommen, ich brauche sie zum Kuchen.
+Das Gemüse aus dem Glas schmeckt nie so gut wie frisches.
+Wir haben vergessen die Eier zu kaufen und wollen wieder los.
+Die Preise bei Aldi sind dieses Monat irgendwie wieder gesunken.
+Ich versuche immer die eigene Tasche mitzunehmen, um Plastik zu sparen.
+Kannst du das Regal oben rechts erreichen, ich komme nicht hoch.
+Der Fisch hier in der Stadt ist leider oft nicht frisch genug.
+Wir machen uns heute Abend etwas Einfaches aus dem Vorratsschrank.
+Hast du gesehen wie teuer die Butter jetzt geworden ist?
+Mein Einkaufswagen hat eines dieser Räder, die komisch klappern.
+Ich suche dringend einen Ersatz für mein Lieblingsschokomilchgetränk.
+Kaffee ohne Filtertüten gibt es hier glücklicherweise immer noch.
+Ich hab total die Lust am Preisvergleichen verloren.
+Die Abholbox war heute schon wieder komplett leer.
+Möchtest du, dass ich beim Zurückfahren auch Brot hole?
+Bio-Äpfel kosten echt das Doppelte von normalen Äpfeln.
+Vorsicht, die Promo-Latte ist nur noch bis morgen gültig.
+Wir haben uns die Reste der Suppe halt einfach geteilt.
+Der Scanner an der Selbstkasse funktioniert bei mir nie.
+Ich kaufe eher weniger Markenkaffee und nehme den Eigenen.
+Kannst du beim Einkaufen mal auf die Eier achten?
+Meine Einkaufstüte ist heute wieder reißfest genug ausgefallen.
+Am Montag wird wieder neu geliefert, da lohnt sich der Gang.
+Hast du gesehen, wie viel Teuerungen es bei Butter gab?
+Ich bevorzuge immer noch den Markt direkt um die Ecke.
+Die Kassenbelege sammel ich gar nicht mehr extra auf.
+Wir haben versehentlich zwei Mal dieselbe Packung Pasta gekauft.
+Bio-Milch ist jetzt plötzlich auch im Angebot, wow.
+Der Mann vor mir hat ewig nach seiner Karte gesucht.
+Ich vergesse ständig den Pfandbon aus dem Automaten zu holen.
+Soll ich am Abend noch kurz in die Apotheke rennen?
+Die neuen Obstsorten schmecken mir irgendwie alle nicht.
+Klar, ich nehm die günstigere Variante vom Discounter gerne.
+Meine Liste war komplett durcheinandergekommen in der Jackentasche.
+Ich hasse es, wenn das Regal mitten im Weg steht.
+Hast du zufällig schon die Joghurt-Preise verglichen?
+Ich steh vor dem Regal und weiß einfach nicht was ich nehmen soll.
+Die Preise für Avocados sind dieses Jahr echt zum Mäusemelken.
+Kannst du kurz halten damit ich den Einkaufswagen holen kann?
+Hab gerade die beste Angebote im Flieger gesehen, wir müssen ran.
+Meine Liste ist schon längst vollgekratzelt, was fehlt denn noch?
+Schau mal ob wir bei Aldi oder Lidl mehr sparen würden.
+Das Brot vom Bäcker schmeckt doch viel besser als das Supermarktzeug.
+Wir brauchen dringend neues Spülmittel, alles ist leer.
+Die Kassiererin war heute super schnell und freundlich, da bleib ich gern stehen.
+Ich kaufe lieber auf dem Markt ein weil die Sachen so frisch aussehen.
+Hast du gesehen wie teuer der Joghurt jetzt wieder geworden ist?
+Ich vergess immer das Handy und muss dann umdrehen.
+Die Tiefkühltruhe ist komplett leer, da muss was rein.
+Kann ich hier noch mit Karte zahlen oder nur bar?
+Ich mag es nicht wenn mir jemand so nah auf den Hals sitzt.
+Wir sollten vielleicht mal einen Gemeinschaftseinkauf machen um Sprit zu sparen.
+Das Angebot auf Käse gilt nur bis heute Abend, beeil dich.
+Hast du schon gesehen dass es jetzt Bio-Eier zum halben Preis gibt?
+Meine Frau macht die Liste und ich geh einfach einkaufen nach Plan.
+Der Supermarkt ist immer so voll am Samstagnachmittag, echt stressig.
+Ich nehme nur noch Glasverpackungen weil Plastik mich nervt.
+Wir haben zu viel gekauft und jetzt passt gar nichts mehr ins Regal.
+Ich hab die Liste in der Tasche vergessen.
+Die Bananen sehen heute echt gut aus.
+Kannst du mal kurz die Kasse freihalten?
+Das Angebot auf die Joghurt ist vorbei.
+Ich kaufe lieber beim Metzger vor Ort.
+Wo hast du denn so günstiges Brot her?
+Die Schlangen am Samstag sind endlos lang.
+Muss ich noch Milch oder Sahne mitnehmen?
+Der Preis für Butter ist wieder gestiegen.
+Hast du das Rezept für den Kuchen parat?
+Beim Discounter war alles schon ausverkauft.
+Ich versuche jetzt öfter regional zu kaufen.
+Die Obstsorten im Winter sind doch teuer.
+Kannst du die Rechnung noch mal kontrollieren?
+Meine Einkaufstüte ist heute wieder zerrissen.
+Wir haben kein Geld mehr für Alkohol.
+Das Bio-Hähnchen kostet echt viel Geld.
+Ich hab vergessen das Brötchen abzuholen.
+Der Wochenmarkt hat heute bis vier Uhr.
+Soll ich noch Wein oder nur Wasser holen?
+Die Preise beim Obsthändler sind fairer.
+Hast du die Liste auf dem Handy gesehen?
+Ich mag es wenn alles frisch aussieht.
+Kasse links ist heute viel schneller als rechts.
+Wir brauchen dringend neue Spaghetti zu Hause.
+Der Rabatt auf die Pasta ist super gelaufen.
+Merkwürdig wie teuer das Bio-Brot geworden ist.
+Ich hab die Liste im Kopf verloren völlig.
+Kannst du kurz an der Kasse stehen bleiben?
+Das Angebot auf Joghurt hat mich echt reingezogen.
+Warum sind immer nur die vorderen Regale voll?
+Ich kaufe lieber beim Bäcker um die Ecke.
+Die Preise für Olivenöl sind wieder gesprungen.
+Hast du schon den neuen Gutschein ausgedruckt?
+Meine Einkaufstasche ist schon zum Bersten voll.
+Wir sollten mal wieder einkaufen gehen heute Abend.
+Das Fleisch war seltsam weich und roch komisch.
+Ich hasse es wenn die Scanger nicht funktionieren wollen.
+Gibt es noch frische Erdbeeren auf dem Markt?
+Der Discounter hat doch gerade einen Super-Sale.
+Ich vergleiche immer zuerst den Preis pro Kilogramm.
+Kann ich hier auch mit Karte bezahlen bitte?
+Die Tomaten sehen gar nicht so schlecht aus.
+Wir sparen viel wenn wir auf Marken verzichten.
+Warum hat der Supermarkt nur noch schlechte Musik?
+Ich brauche unbedingt neue Kaffeekapseln für morgen.
+Das Obst am Wochenmarkt schmeckt einfach besser.
+Hab vergessen das Geldbörse mitzunehmen oh je.
+Die Kassenmitarbeiterin war heute super freundlich.
+Suchst du auch nach dem günstigen Reisangebot?
+Hab dir mal Milch und Brot auf die Liste geschrieben.
+Die Obstabteilung sieht heute echt traurig aus.
+Soll ich an der Schnellkasse oder in der Schlange warten?
+Das Angebot auf der Startseite war leider schon weg.
+Beim Aldi ist das Obst gerade viel günstiger als sonst.
+Hast du den Gutschein schon in die App hochgeladen?
+Die Bio-Eier kosten hier immer einen ganzen Euro mehr.
+Wir sparen am besten wenn wir gemeinsam einkaufen gehen.
+Der Kassierer hat meine Karte leider nicht gleich gelesen.
+Ich suche dringend eine pflanzliche Alternative zur Sahne.
+Am Wochenmarkt kann man echt schön mit dem Verkäufer plaudern.
+Diese neuen Packungsgrößen sind total verwirrend für mich.
+Meine Tasche reißt immer wenn ich zu viel einkaufe.
+Sind die Bananen bereits im Angebot oder nur so?
+Ich hasse es wenn meine Chips zerknittert ankommen.
+Lass uns lieber online bestellen damit wir früher Feierabend haben.
+Die Preise für Kaffee sind jetzt wirklich nicht mehr drin.
+Hast du gesehen wie viel der Joghurt gestern noch gekostet hat?
+Im Regal steht immer genau das falsche Marmeladengeschmack da.
+Ich nehme nur noch den Einkaufswagen weil er stabiler ist.
+Kannst du kurz schauen ob wir noch Kaffeebohnen da haben?
+Die Fleischtheke hatte heute Morgen schon fast alles weg.
+Wir versuchen seitdem weniger Fertigprodukte aus dem Kühlregal zu kaufen.
+Hast du zufällig noch Joghurt für mich mitgebracht?
+Die Preise bei uns im Supermarkt sind echt in die Höhe geschossen.
+Ich muss erst noch eine Einkaufsliste machen bevor ich losfahre.
+Am Wochenende ist der Supermarkt immer so voll, total nervig.
+Wir nehmen lieber den Nahversorfer weil der um die Ecke liegt.
+Das Angebot für Bananen war diese Woche wirklich unschlagbar gut.
+Hast du schon gesehen wie teuer die Eier mittlerweile sind?
+Ich vergesse jedes Mal den Kugelschreiber für den Einkaufszettel.
+Beim Wochenmarkt kaufe ich immer meine frischen Kräuter und Blumen.
+Kannst du kurz nachschauen ob wir noch Salz oder Pfeffer haben?
+Die Bio-Abteilung ist zwar teurer aber die Qualität stimmt einfach.
+Mir reicht ehrlich gesagt der Discounter für den Standardbedarf völlig.
+Wir versuchen seit letztem Monat bewusster einzukaufen und weniger zu werfen.
+Hast du die neue Rabattmarke auf dem Regal gefunden oder fehlt sie?
+Der Kassierer hat heute extrem lange gebraucht, da war Geduld gefragt.
+Ich hasse es wenn das Lieblingsprodukt gerade ausverkauft ist.
+Für den Abendbrot kaufe ich eigentlich immer beim Bäcker um die Ecke.
+Die Preise im Online-Supermarkt sind manchmal wirklich ein günstiger Trick.
+Hast du schon überlegt ob wir diesen neuen Joghurt mal probieren sollen?
+Mein Einkaufswagen hatte wieder nur einen kaputten Rad, zum Glück lief es.
+Ich packe meine Tüten selbst ein damit alles besser verteilt ist.
+Das Obst vom Markt schmeckt immer deutlich aromatischer als das aus dem Netzbeutel.
+Wir haben heute spontan die Pizza im Supermarkt gekauft statt selbst zu kochen.
+Hast du den Gutschein für deine nächste Bestellung schon eingelöst?
+Ich hab die Liste auf dem Handy gespeichert.
+Die Preise sind diese Woche wirklich gesunken.
+Wir brauchen definitiv mehr Toilettenpapier daheim.
+Das Angebot für Butter ist gerade super günstig.
+Ich hasse es, wenn man vor der Kasse warten muss.
+Hast du schon mal beim neuen Markt geschaut?
+Meine Frau macht immer die Einkaufsliste auf.
+Das Brot vom Bäcker schmeckt einfach besser.
+Kannst du mal kurz nach Sahne sehen?
+Wir sparen viel Geld mit Eigenmarken statt Markenprodukten.
+Die Tomaten waren diesmal gar nicht so frisch.
+Ich kaufe lieber einkaufsfertig um Zeit zu sparen.
+Der Kassenbon passt kaum noch in die Tasche.
+Welchen Joghurt nimmst du immer am liebsten?
+Das Regal war komplett leer von meinem Kaffee.
+Wir versuchen seit dem Monat weniger Fleisch zu kaufen.
+Die Einkaufstasche hat leider schon wieder ein Loch.
+Hast du den Gutschein für die nächste Woche noch?
+Ich finde den neuen Laden doch irgendwie unübersichtlich.
+Sollen wir nicht einfach nur schnell Milch holen?
+Das Obst im Supermarkt ist oft zu überreif.
+Kann ich an der Self-Checkout Kasse zahlen?
+Wir haben zu viel eingekauft und nichts gekocht.
+Die Preise bei den Grundnahrungsmitteln steigen weiter.
+Ich such schon ewig nach dem neuen Müslimarken.
+Kannst du mir mal die Liste für den Supermarkt mailen?
+Die Bananen sind hier gerade im Angebot super günstig.
+Mist ich habe wieder keine Taschen dabei vergessenen.
+Beim Biohändler ist alles teurer aber es schmeckt besser.
+Soll ich noch Milch mitnehmen oder reicht das abgelaufene?
+Die Schlange an der Selbstbedienungskasse war heute kurz.
+Ich hasse es wenn meine Kreditkarte nicht durchgeht.
+Hast du gesehen wie teuer die Käsescheiben geworden sind?
+Wir machen immer einen Großeinkauf am Samstagvormittag.
+Das Gemüse vom Markt riecht einfach viel intensiver frischer.
+Ich finde die neuen Preisschilder echt unleserlich und klein.
+Mein Mann kauft nur noch Online weil es schneller geht.
+Die Promowaren sind oft von schlechter Qualität leider.
+Kann ich dir den Gutschein für das Brot abgeben?
+Am Wochenmarkt kann man sich mit dem Verkäufer unterhalten.
+Ich vergesse immer die Eier wenn ich schon vor der Tür stehe.
+Die Tüten im Supermarkt kosten jetzt extra blödes Zeug.
+Wir versuchen plastikfrei zu shoppen aber das ist schwer.
+Der Pfandautomat hat meine Flasche nicht erkannt Mist.
+Ich finde den Duft von frischem Brot einfach genial.
+Kannst du checken ob wir noch Kaffee daheim haben?
+Die Preise für Milch steigen wohl wieder nächste Woche.
+Ich kaufe lieber zu Hause wenn ich hungrig bin sonst iss ich alles auf.
+Das Angebot auf die Tiefkühlpizza war heute wirklich locker.
+Mach mal ein Foto von der Einkaufsliste am Handy.
+Ich kaufe lieber die Eigenmarke, ist ja fast das gleiche.
+Die Preise für Butter sind wieder in die Höhe geschnellt.
+Hast du gesehen, dass die Avocados heute im Angebot waren?
+Beim Metzger nebenan ist das Fleisch deutlich teurer geworden.
+Ich hasse es, wenn meine Tüte an der Kasse platzt.
+Kannst du mir mal sagen, wo man Joghurt herbekommt?
+Die Abrechnung auf dem Bon war diesmal komplett falsch berechnet.
+Wir haben beim Bauernmarkt frische Erdbeeren für zwei Euro gekauft.
+Meine Frau macht immer die Liste und ich besorge alles.
+Ich finde diese neuen Pfandautomaten super unübersichtlich und kompliziert.
+Das Regal mit den Chips war zum Glück schon wieder voll.
+Soll ich gleich noch einen Kasten Wasser nachkaufen?
+Die Bio-Apfel schmecken einfach anders als die aus dem Supermarkt.
+Hoffentlich gibt es am Samstag keine ewigen Schlangen an der Kasse.
+Ich habe vergessen, dass wir kein Salz mehr daheim haben.
+Der Discounter um die Ecke hat heute bis neun Uhr zu.
+Kann ich meine Treuepunkte vielleicht doch noch einlösen?
+Die Milch war leider schon abgelaufen als ich sie gekauft hab.
+Wir versuchen uns bewusst gegen den Fast Food zu entscheiden.
+Hast du einen Gutschein für das Restaurant oder nur für den Markt?
+Das Obst im Winter kommt meistens immer noch aus Übersee.
+Ich kaufe mein Brot am liebsten direkt vom Bäcker vor Ort.
+Die neuen Preisschilder an der Kasse sind gar nicht so schlimm.
+Mach bitte nicht so ein Lärm mit dem Einkaufswagen hier.
+Wir haben uns vorgenommen, weniger Fertigprodukte zu konsumieren.
+Ich hab echt keine Lust heute einzukaufen.
+Kannst du mir bitte noch Milch mitbringen?
+Der Preis für Butter ist wieder explodiert.
+Beim Aldi ist gerade ein Superangebot auf Reis.
+Ich bevorzuge wirklich frisches Obst vom Markt.
+Meine Einkaufsliste besteht nur aus drei Punkten.
+Warum kosten die Eigenmarken manchmal mehr Geld?
+Ich hasse diese langen Schlangen an der Kasse.
+Hast du schon mal beim Bäcker um die Ecke gekauft?
+Die Tomaten sehen hier gar nicht frisch aus.
+Ich kann mich einfach nicht entscheiden welches Brot.
+Das Angebot auf Joghurt ist echt unschlagbar gerade.
+Mir fehlt immer wieder was für das Abendessen.
+Kann ich an der Schnellkasse vorbeigehen?
+Die Bio-Abteilung ist leider ganz leer heute.
+Ich vergesse immer die Toilettenpapierrolle zu kaufen.
+Warum hat der Lidl kein Avocado mehr?
+Ich kaufe gerne meine Kartoffeln auf dem Bauernhof.
+Der Einkaufswagen hatte ein wackeliges Rad dabei.
+Soll ich den Gutschein für zehn Prozent Rabatt nutzen?
+Meine Oma kauft noch alles nach Gewicht ab.
+Die Preise im Supermarkt sind einfach zu hoch geworden.
+Ich finde die neuen Verpackungen super umweltschädlich ehrlich gesagt.
+Hast du schon das Angebot auf Fisch gesehen?
+Ich kaufe nur noch saisonales Obst und Gemüse.
+Hast du zufällig noch eine Einkaufstüte da für mich?
+Das Angebot auf die Nudeln sah echt verlockend aus.
+Ich kann nicht glauben wie teuer Eier heute sind.
+Meine Liste ist schon voll ich brauche mehr Platz.
+Im Supermarkt war es wieder mal wahnsinnig voll drin.
+Kannst du beim Bäcker noch Brötchen für uns mitnehmen?
+Die Preise an der Kasse passen irgendwie nie genau hin.
+Ich kaufe immer nur dann ein wenn ich wirklich Hunger habe.
+Beim Wochenmarkt kostet die Gurke das Doppelte von sonst.
+Hast du den Gutschein aus der Mail schon eingelöst?
+Das Bio-Regal ist bei uns fast komplett leer geräumt.
+Ich finde es stressig am Wochenende noch einkaufen zu gehen.
+Die Schere für die Verpackungen lag irgendwo im Chaos.
+Wir sollten mal wieder Joghurt in größerer Packung holen.
+Der Verkäufer an Kasse drei war heute besonders unfreundlich.
+Mein Handy hat mir gerade einen Rabattcode geschickt wow.
+Ich habe versehentlich zu viel vom falschen Käse gekauft.
+Beim Discounter drum herum ist die Auswahl doch deutlich besser.
+Wir sparen bewusst Geld indem wir selbst kochen und kaufen.
+Die Tüte ist leider schon wieder gerissen beim Tragen.
+Kann jemand kurz schauen ob wir noch Salz da haben?
+Ich hasse es wenn meine Lebensmittel immer woanders liegen.
+Der neue Markt um die Ecke hat echt gute Öffnungszeiten.
+Hab vergessen den Beutel mitzunehmen ich zahl ihn extra.
+Die Preise für Fleisch sind in letzter Zeit explodiert.
+Lass uns zusammen gehen und dann teilen wir uns die Kosten.

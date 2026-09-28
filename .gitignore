@@ -8,3 +8,7 @@ __pycache__/
 *.pyo
 *.safetensors
 .claude/
+models/
+release/
+.cache/
+resume*.sh

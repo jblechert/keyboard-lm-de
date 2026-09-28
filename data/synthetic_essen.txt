@@ -1679,31 +1679,6 @@ Wir sollten mal wieder einen Kochabend mit Freunden planen.
 Das Brot vom Bauernmarkt schmeckt einfach unvergleichlich besser.
 Ich koche heute nur, weil ich zu müde zum Ausgehen bin.
 Die Gewürzmischung macht den echten Unterschied bei dem Döner.
-Ich hab vergessen den Ofen vorzuheizen
-Das Pastaotto war gestern echt klasse
-Kannst du mir das Rezept für die Dippa schicken
-Wir essen heute nur noch Fleisch aus der Region
-Mein Kollege hat diese super knusprigen Brötchen mitgebracht
-Ich kann gar nicht mehr so viel Fleisch essen
-Die Suppe vom Imbiss direkt neben der Uni ist Hammer
-Hast du schon mal Probieren ob es Salz braucht
-Ich muss unbedingt wieder mal Sushi bestellen
-Wir haben beim Italiener am Sonntag reserviert
-Meine Oma macht immer noch die besten Apfelpfannkuchen
-Ich versuche gerade auf Zucker komplett zu verzichten
-Das Curry aus der Flasche schmeckt doch auch nicht schlecht
-Kennst du einen guten Lieferdienst für vegetarische Gerichte
-Wir grillen am Wochenende wieder die ganzen Fleischstücke
-Die Tomaten aus dem eigenen Garten schmecken am besten
-Ich hab die Sauce zu scharf gemacht leider
-Möchtest du mir beim Zubereiten der Nudeln helfen
-Das Frühstück war heute mal wieder zu eilig
-Ich suche ein neues Rezept für meine Abendbrote
-Die Käsespätzle haben mir echt gut bekommen
-Wir gehen heute abend zum chinesischen Essen
-Mein Kaffee ist heute irgendwie ganz anders
-Die Beeren sind in diesem Jahr besonders süß
-Haben wir noch Sahne für die Nachtischsoße
 Die Lasagne schmeckt immer besser am nächsten Tag.
 Ich such ein Rezept für schnellen Nachtisch.
 Meine Oma hat den geheimen Gewürzmix vergessen.
@@ -13624,3 +13599,2305 @@ Das Dessert am Ende war wirklich der Hingucker des Abends.
 Ich esse nur noch Bio-Lebensmittel seit ich letztes Jahr angefangen habe.
 Kannst du mir verraten, wie lange man die Suppe kochen muss?
 Der Imbiss nebenan hat jetzt geöffnet und riecht verlockend.
+Der Duft vom frisch gebackenen Brot geht mir durch den Kopf.
+Meine Oma hat ihr Pflaumenkuchenrezept strengstens gehütet.
+Ich suche gerade nach einer Alternative zu Rindfleisch.
+Das Currywurstbier im Sommer ist einfach der Hammer.
+Kannst du mir das Geheimnis deiner perfekten Rouladen verraten?
+Wir essen ab jetzt mehr pflanzenbasiert wegen des Klimas.
+Die Dönerbude um die Ecke hat den besten Joghurtsoße.
+Ich hab versucht zu kochen und alles verschmort.
+Sag mal, isst du eigentlich schon mal Haxe gegessen?
+Mein neuer Kochtopf ist jeden Cent wert gewesen.
+Die Spargelzeit endet leider schon bald wieder.
+Ich kann ohne meinen Lieblingskäse einfach nicht überleben.
+Hast du Lust heute Abend zusammen Pizza zu backen?
+Das Essen im neuen Asiaten war echt übervoll würzig.
+Ich probiere gerade mal die Low Carb Diät aus.
+Mein Vater schwört nur auf seine Hausmannskost Rezepte.
+Die frischen Kräuter vom Balkon machen alles geschmacklich besser.
+Wir müssen dringend mal wieder einen Kochkurs besuchen.
+Ich hasse es wenn ich den Reis anbrenne lässt.
+Der beste Apfelkuchen kommt einfach aus der Region.
+Kann man das Rezept auch für vier Personen umrechnen?
+Meine Küche sieht nach dem Backtag ziemlich chaotisch aus.
+Ich vergesse immer die Gewürze beim Einkaufen einzuplanen.
+Das Sushi vom Imbiss ist wirklich frisch und lecker.
+Wir laden dieses Jahr wieder zum Grillabend ein.
+Meine Oma zaubert immer noch den besten Apfelsaft.
+Das Currywurst vom Imbiss ist einfach unschlagbar.
+Ich muss dringend wieder mal einen neuen Topf kaufen.
+Hast du schon mal selbst Pasta von Hand gemacht?
+Der Salat war total frisch, alles andere eher langweilig.
+Mein Freund kann kein Ei braten, echt zum Lachen.
+Wir bestellen heute Abend wieder bei dem Griechen um die Ecke.
+Die Pizza aus der Pizzeria am Markt schmeckt richtig gut.
+Ich verzichte seit Wochen komplett auf Weißbrot und Brötchen.
+Kannst du mir das Rezept für deine Suppe geben?
+Das Schweinebraten war zwar trocken, aber die Soße hat gepasst.
+Wir suchen ein Restaurant mit guter Weinauswahl.
+Morgen gibt es wieder nur Nudeln, hab keine Lust zu waschen.
+Die regionalen Äpfel aus dem Hofladen sind so aromatisch.
+Ich übe gerade meine Schnitzelhacks, bis jetzt mittelmäßig.
+Das Dessert war viel zu süß für meinen Geschmack.
+Habt ihr eigentlich schon mal den neuen Burger probiert?
+Meine Tochter isst nur noch, wenn es bunt auf dem Teller ist.
+Wir machen am Wochenende einen großen Fondue Abend.
+Mein Pasta-Wasser kocht schon seit Ewigkeiten.
+Hab beim Italiener den Pappardelle mit Ragu probiert.
+Das Brot vom Bäcker um die Ecke ist super frisch.
+Ich versuche gerade meine Zuckerzufuhr drastisch zu reduzieren.
+Kannst du mir das Rezept für deinen Chili con Carne schicken?
+Die Currywurst im Imbiss war leider etwas salzig.
+Wir grillen am Freitagabend Hähnchenschenkel und Pommes.
+Mein Vater kocht den besten Kartoffelsalat vom Westfälischen Stil.
+Ich hasse es, wenn jemand Salz auf mein Gericht streut.
+Hast du schon mal die neuen Burger vom Lidl probiert?
+Der Käsespätzle-Topf war zum Glück nicht ganz verbrannt.
+Ich kaufe meine Beeren immer direkt am Bauernmarkt ein.
+Das Sushi von der japanischen Kette ist wirklich okay.
+Wir planen heute Abend eine kleine Pasta-Party zu Hause.
+Meine Großmutter hat mir ihr geheimes Marillenknödel-Rezept gegeben.
+Laktosefrei kaufen ist im Supermarkt echt mühsam geworden.
+Der Kaffee nach dem Mittagessen schmeckt am besten.
+Ich kann einfach keine rohen Zwiebeln in der Soße leiden.
+Probier mal die neuen veganen Fleischpatties aus dem Regal.
+Das Abendessen beim Italiener war diesmal leider ganz schwach.
+Wir machen heute Abend wieder selbstgebratene Steaks zu Hause.
+Die frischen Kräuter vom Balkon verfeinern jedes Gericht richtig gut.
+Ich suche dringend nach einem guten Rezept für Kürbissuppe.
+Der Döner im Stadtzentrum ist immer noch der beste hier.
+Meine neue Diät besteht hauptsächlich aus Salat und Quark.
+Hast du schon mal echte Berliner Pfannkuchen probiert?
+Mein Freund kocht eigentlich nur Pasta und Pizza.
+Ich finde die neuen vegetarischen Burger total überzeugend.
+Das Risotto hat leider etwas zu lange gekocht.
+Können wir heute abends zusammen was einkaufen gehen?
+Der Döner am Markt ist immer noch der beste.
+Ich versuche gerade, weniger Fertigprodukte im Haus zu haben.
+Die Suppe schmeckt mir ohne Salz echt blöd.
+Wir bestellen morgen wieder Sushi, das ist unser Ding.
+Hast du das Rezept für den Quarkkuchen gespeichert?
+Meine Oma macht den besten Apfelstrudel der Welt.
+Ich mag keine grünen Oliven im Salat, sorry.
+Das Restaurant war total überladen und laut gestern.
+Kannst du mir mal deine Chili-Rezeptkarte schicken?
+Wir grillen heuteabend mal wieder nur Gemüsebratlingen.
+Der Kuchen ist leider ganz schön angebrannt drunter.
+Ich trinke zum Mittagessen fast immer nur Wasser.
+Findest du auch, dass das Fleisch zu zäh war?
+Meine Schwester backt am Wochenende immer frische Brötchen.
+Das Currywurstbrot hat mich richtig vorangetrieben.
+Die Erdbeerquarktorte ist im Sommer einfach perfekt.
+Wir probieren dieses neue japanische Restaurant aus.
+Kochst du lieber mit Gewürzen oder nur mit Salz?
+Der Pudding war mir irgendwie immer noch zu flüssig.
+Hast du das Pasta-Rezept schon mal probiert?
+Mein Curry ist heute wieder etwas zu scharf geworden.
+Wir gehen morgen Abend bestimmt wieder in dieses Italienische.
+Die Dampfnudeln schmecken nur, wenn man sie selbst macht.
+Ich verzichte seit zwei Wochen komplett auf Zucker.
+Kennst du einen guten Bäcker für frische Brötchen?
+Das Rote Grütze bei Oma ist immer das Beste.
+Ich habe keine Lust mehr zu kochen heute Abend.
+Probier mal die neuen Veggie-Burger vom Supermarkt.
+Mein Pesto wird immer ein bisschen zu salzig.
+Wir bestellen morgen wieder Pizza von der Ecke da.
+Hast du schon die neuen Menükarten gesehen?
+Ich muss dringend meine Rezepte digitalisieren und sortieren.
+Kannst du mir das Geheimnis für fluffiges Brot verraten?
+Ich esse am Montag immer nur Obst und Salat.
+Die Bratwurst mit Senf ist einfach mein Lieblingsessen.
+Wir haben gestern Abend zu viert gebraten und gelacht.
+Mein Cousin macht die besten Döner in der Gegend.
+Ich hab vergessen, dass wir Fleisch im Einkaufsplan hatten.
+Das Eis aus der Manufaktur schmeckt echt hervorragend.
+Soll ich das Rezept für den Kartoffelsalat schicken?
+Ich vertrage leider keinen Alkohol mehr richtig am Abend.
+Die Suppe von gestern war schon ein bisschen kalt.
+Hast du Lust, morgen zusammen zu kochen und zu grillen?
+Mein Cousin ist gerade in Italien für ein Kochstipendium.
+Ich hasse es wenn jemand Salz ins Glas gibt.
+Das Rote Grütze Rezept meiner Oma ist legendär.
+Wir suchen noch nach einem guten Grillplatz am See.
+Kann ich dir mal mein Pesto Rezept durchschicken?
+Der Kellner hat heute wieder sehr schlecht bedient.
+Ich kaufe nur noch regionales Obst auf dem Markt.
+Mein Mann backt jeden Sonntag frisches Brot selbst.
+Die Currywurst dort unten schmeckt einfach am besten.
+Hast du schon mal diese neue Smoothie Bar probiert?
+Mir fällt kein Rezept ein was ich heute kochen soll.
+Das Steak war total zart und perfekt medium rare.
+Wir versuchen gerade auf Zucker so wenig wie möglich zu verzichten.
+Die Pizza Margherita beim Italiener um die Ecke ist bombenfest.
+Ich mag es nicht wenn im Tee Zitronensaft drin ist.
+Kannst du mir bei der Zubereitung des Blätterteigs helfen?
+Das Abendessen war wirklich eine Katastrophe gestern Abend.
+Wir grillen heute abend mal wieder richtig gut Burger.
+Meine Tante macht den besten Apfelstrudel den ich kenne.
+Ich esse seit Wochen nur noch vegan und fühle mich fit.
+Die Suppe war viel zu salzig für meinen Geschmack finde ich.
+Hast du Lust später zusammen was Leckeres zu kochen?
+Das Restaurant hat leider sehr lange Lieferzeiten im Moment.
+Ich vermisste die heimische Küche auf meiner Reise total.
+Kannst du mir sagen wie man Spaghetti Carboni richtig macht?
+Mein Chili con Carne war dieses Mal super scharf.
+Hast du mal die Ramen aus dem neuen Asialaden probiert?
+Ich backe am Wochenende immer selbst frische Brötchen.
+Das vegetarische Menü im Gartencafé ist wirklich lecker.
+Kannst du mir dein Geheimrezept für den Apfelstrudel geben?
+Wir essen heute Abend nur Nudeln mit Tomatensoße.
+Der neue Bio-Markt hat endlich wieder gute Erdbeeren.
+Ich habe die Pizza von Dominos total verpasst.
+Mein Ochsengeschnetzeltes war leider ein bisschen zu salzig.
+Hast du Lust auf Sushi am Freitagabend?
+Das hausgemachte Eis schmeckt viel besser als gekauftes.
+Ich versuche gerade, weniger Zucker im Kuchen zu verwenden.
+Die Currywurst vom Imbiss an der Ecke ist legendär.
+Kann ich dir beim Aufräumen nach dem Kochen helfen?
+Mein Cousine macht die besten Baiser, die ich kenne.
+Wir haben gestern zum ersten Mal Seitan probiert.
+Das Restaurant am See hat eine tolle Karte.
+Ich vergesse immer wieder, Milch für den Kaffee zu kaufen.
+Die Döner-Soße ist heute besonders cremig und würzig.
+Hast du schon mal Wildbret gegessen? Ich finde es eigenartig.
+Mein Apfelkuchen ist ohne Mehleinführung total ausgefallen.
+Wir grillen am Samstagabend wieder Steaks im Garten.
+Das neue Smoothie-Rezept mit Beeren ist wirklich erfrischend.
+Ich kann den Geruch von frischem Brot nicht widerstehen.
+Hast du Tipps für schnelle Abendessen unter der Woche?
+Mama kocht heute wieder ihre berühmte Apfelstrudel.
+Ich suche ein Restaurant mit echten sizilianischen Pizzen.
+Mein Bruder macht am Wochenende selbstgemachte Nudeln.
+Das Currywurst-Spezial ist in Berlin unschlagbar lecker.
+Wir testen diese Woche eine ketogene Ernährungsform.
+Die Flammkuchen vom Bäcker schmecken immer himmlisch.
+Hast du schon mal schwäbische Maultaschen probiert?
+Ich koche gerne asiatische Gerichte mit viel Ingwer.
+Das neue Sushi-Restaurant in der Innenstadt ist super.
+Meine Freundin backt sonntags frisches Bauernbrot.
+Linsenbratlinge werden bei uns zum festen Bestandteil.
+Der Fischmarkt in Hamburg bietet frische Austern täglich.
+Ich lerne gerade italienisch kochen nach Omas Rezepten.
+Vegetarische Burger sind jetzt auch im Supermarkt erhältlich.
+Die Obatzda vom Oktoberfest war wirklich cremig und würzig.
+Wir grillen heute Abend mal wieder klassische Bratwürste.
+Das Vegan-Restaurant am Marktplatz hat tolle Gemüsegerichte.
+Ich probiere neue Gewürze für meine Tomatensoße aus.
+Bayerische Brezn sind einfach das beste Frühstück überhaupt.
+Mein Vater braut seit Jahren seinen eigenen Hefeteig selbst.
+Die regionale Küche im Schwarzwald ist unvergleichlich authentisch.
+Wir bestellen heute Abend mal wieder chinesische Lieferspeisen.
+Das hausgemachte Eis von der Eisdiele ist traumhaft lecker.
+Ich experimentiere gern mit verschiedenen Chilisorten beim Kochen.
+Der traditionelle Kartoffelsalat schmeckt bei uns immer anders.
+Ich hab die Soße ganz vergessen salzig zu machen.
+Kann mir jemand ein gutes Pasta Rezept empfehlen?
+Wir gehen morgen Abend wieder in diese neue Tapas Bar.
+Mein Papagei frisst eigentlich nur noch Nüsse und Obst.
+Der Bäcker um die Ecke hat so geile Croissants.
+Ich muss mal wieder meine Tofu Wurst testen.
+Warum ist Ramen immer so teuer im Restaurant?
+Die Pizza vom Italiener schmeckt wirklich nach Hause.
+Hab gestern Abend schnell Spaghetti mit Tomaten Soße gekocht.
+Kochst du auch gern experimentell oder bleibst du beim bewährten?
+Ich verzichte seit Wochen komplett auf Zucker und Weißmehl.
+Das Schnitzel war leider viel zu trocken und salzig.
+Wir machen am Wochenende ein großes Picknick im Park.
+Kennst du das neue vegetarische Menü bei uns in der Stadt?
+Meine Oma hat immer diesen speziellen Apfelkuchen gebacken.
+Ich finde es schwer gesunde Mahlzeiten vorzubereiten.
+Die Currywurst vom Straßenstand ist einfach die beste.
+Wir probieren heute Abend mal Fischsuppe aus dem Buch.
+Hast du schon mal japanische Street Food probiert?
+Der Salat war zwar frisch aber irgendwie ziemlich langweilig.
+Ich liebe es wenn man selbst Brot backen darf.
+Gibt es in deiner Nähe gute Burger mit pflanzlichem Fleisch?
+Die Desserts dort sind wirklich üppig und kalorienreich.
+Wir haben den ganzen Tag über gegrillt und gelacht.
+Mein Freund ist sehr wählerisch was Gemüse angeht.
+Die Nudeln waren wieder mal überkoch.
+Wo hast du das Rezept für diesen Tiramisu her?
+Ich mag es einfach nicht wenn meine Kinder Fleisch essen.
+Das neue griechische Essen ist eigentlich gar nicht so teuer.
+Kannst du mir die Zutatenliste nochmal schicken bitte?
+Mein Opa zaubert immer noch den besten Kartoffelsalat.
+Ich esse seit letzter Woche nur noch pflanzlich und fühle mich super.
+Der Kaffee in der Bäckerei um die Ecke schmeckt wirklich gut.
+Wir grillen am Wochenende Hähnchen mit Paprikamarinade im Garten.
+Hast du schon mal probiert wie lecker Linsensuppe sein kann?
+Meine Mutter kocht immer zu viel und wir werden satt bis zum Hals.
+Ich suche ein Rezept für schnelle Abendessen unter zwanzig Minuten.
+Die Pizza vom Italiener hat echt eine tolle Hefe im Teig.
+Kannst du mir sagen ob dieser Joghurt jetzt wieder ohne Gelatine ist?
+Wir sind heute Abend bei dem neuen Burgerladen in der Stadt eingeladen.
+Das Brot aus meinem eigenen Backofen wird leider immer zu dunkel.
+Ich vermisste meine italienische Nonna und ihre frischen Spaghetti.
+Hast du eine Idee was wir als Beilage zum Schweinebraten nehmen können?
+Der Döner vom Imbiss steht ungeschlagen bei mir in der Bewertung.
+Ich experimentiere gerade damit meinen Kaffee mit Kokosmilch zu trinken.
+Die Suppe hat perfekt gewürzt und ich habe sofort noch einen Löffel gegessen.
+Wir laden morgen meine Freunde zu einem gemeinsamen Kochabend ein.
+Ich kann den Duft von frisch gebackenem Brot wirklich nicht leiden.
+Das Essen im Flugzeug war diesmal überraschend ganz okay geschmeckt.
+Ich versuche gerade meinen Zuckerkonsum langsam aber sicher zu reduzieren.
+Meine Mama kocht immer noch wie vor dreißig Jahren.
+Hast du das Rezept für den Chili con Carne?
+Der neue Italiener hier ist total überteuert und schlecht.
+Ich esse seit einer Woche nur noch vegetarisch.
+Kannst du mal bitte die Zwiebeln für die Suppe schneiden?
+Das Dönerbrötchen hat mir heute echt gutgetan.
+Wir laden morgen paar Leute zu Pizzaabend ein.
+Mir schmeckt der Fisch heute irgendwie gar nicht so richtig.
+Ich such schon ewig nach einem guten Falafelbude.
+Die Nudeln waren leider wieder mal zu matschig gekocht.
+Hast du zufällig noch Butter im Kühlschrank übrig?
+Mein Freund findet mein Curry immer viel zu scharf gewürzt.
+Wir gehen abends ins neue Steakhaus in der Innenstadt.
+Ich hasse es so, wenn das Essen auf dem Teller ausläuft.
+Das Brot vom Bäcker um die Ecke ist super frisch.
+Die Soße war zwar lecker aber viel zu fettig für mich.
+Ich probiere gerade ein neues Smoothie Rezept für den Snack.
+Warum gibt es bei uns nie ordentliche regionale Gerichte?
+Das Eis aus der Tüte ist echt mies geworden im Sommer.
+Wir laden die Nachbarn zum Grillen am Samstagabend ein.
+Mein Opa kann den besten Bienenstich backen den ich kennengelernt habe.
+Ich vergesse immer das Salz in die Suppe reinzutun beim Kochen.
+Das Restaurant hat leider keine vegane Option auf der Speisekarte.
+Kannst du mir sagen wie man das Fleisch richtig anbrät?
+Der Kaffee im Café war viel zu bitter für meinen Geschmack.
+Ich hab das Pesto Rezept von meiner Oma endlich ausprobiert.
+Das Currywurst Stand in der Stadt hat wirklich super Geschmack.
+Mein Freund kann leider überhaupt nicht kochen ehrlich gesagt.
+Wir bestellen heute wieder Pizza, weil wir einfach keine Lust haben.
+Die neuen Pasta Sorten vom Bio Laden schmecken mir viel besser.
+Habst du schon mal die neuen Burger von da probiert?
+Ich versuche gerade weniger Fleisch zu essen und mehr Gemüse.
+Das Rezept war echt kompliziert, aber das Ergebnis hat gut geschmeckt.
+Meine Mutter macht immer noch den klassischen Kartoffelsalat mit Essig.
+Wir gehen morgen Abend zum Italiener in der Innenstadt.
+Ich habe mir gestern endlich einen neuen Kochtopf gekauft.
+Die Vorspeise im Restaurant war viel zu salzig für meinen Geschmack.
+Kannst du mir das Rezept für dein Brot schicken?
+Ich esse heute Abend nur Nudeln, weil ich keine Energie habe.
+Das neue Sushi Lokal hat wirklich frische Fische und gute Soße.
+Wir haben am Wochenende einen Kochkurs für Pasta besucht.
+Mein Bruder isst nur noch Smoothies seit seiner Umstellung.
+Die regionale Spezialität mit den Sauerkraut war einfach hervorragend.
+Ich suche ein Rezept für schnelle Abendessen unter dreißig Minuten.
+Das Essen in der Mensa ist heutzutage eigentlich ganz okay geworden.
+Wir Grillen heute Abend Steak, weil das Wetter so schön ist.
+Ich mag keine süßen Desserts, lieber was Salziges zum Nachtisch.
+Die neuen Bio Produkte im Supermarkt sind doch deutlich teurer.
+Hast du Lust auf ein spontanes Essen beim Griechen später?
+Mein Vater kocht am liebsten nur noch Einfrierprodukte aus der Tüte.
+Mach mal schnell den Reis fertig.
+Ich habe gestern das erste Mal Pasta selbst gemacht.
+Das neue italienische Restaurant ist wirklich lecker.
+Kannst du bitte die Milch aus dem Kühlschrank holen?
+Wir probieren heute Abend einen neuen Sushi-Lieferdienst aus.
+Meine Großmutter backt immer noch diese tollsten Kuchen.
+Ich versuche gerade, weniger Zucker in meinem Alltag zu verbrauchen.
+Der Braten war leider etwas zu trocken geworden.
+Hast du schon mal diesen neuen Smoothie-Bar besucht?
+Wir grillen am Wochenende wieder die klassischen Würstchen.
+Kochst du eigentlich öfter vegan oder nur manchmal?
+Das Rezept von YouTube hat perfekt funktioniert gestern.
+Ich mag es, wenn das Brot knusprig ist außen.
+Lass uns morgen früh gemeinsam Brötchen vom Bäcker holen.
+Die Sauce war viel zu süß für meinen Geschmack heute.
+Ich lerne gerade, wie man richtig Spaghetti kocht.
+Das Buffet im Hotel war echt abwechslungsreich und frisch.
+Kann ich dir helfen beim Schneiden der Zwiebeln jetzt?
+Wir bestellen am Freitagabend wieder Pizza von da um die Ecke.
+Mein Bruder ist totaler Fan von mexikanischen Gerichten.
+Die Suppe schmeckt noch etwas salzig, oder nicht?
+Ich habe einen neuen Kochtopf für mein Zimmer bekommen.
+Probieren wir mal ein thai-Style Curry dieses Mal aus.
+Der Kaffee in der Bäckerei nebenan ist super cremig.
+Wir sparen Geld, indem wir zu Hause kochen und einkaufen.
+Die Nudeln sind wieder mal etwas zu weich geworden.
+Hast du zufällig noch ein paar Eier übrig?
+Ich liebe den Duft von frisch gebackenem Brot.
+Das Curry aus der Dose schmeckt einfach nicht.
+Meine Oma hat mir ihr Secretrezept verraten.
+Wir bestellen heute lieber Pizza statt selbst zu kochen.
+Der neue Italiener um die Ecke ist total teuer.
+Ich versuche gerade, mein Mittagessen besser vorzubereiten.
+Kannst du den Teig mal kurz durchkneten?
+Die Suppe war viel zu salzig für meinen Geschmack.
+Am Wochenende mache ich gerne mal ein großes Grillfest.
+Hast du schon das neue Kochbuch gelesen?
+Ich mag keinen Ingwer in meiner Pasta Sauce.
+Das Steak muss unbedingt rosa sein, bitte!
+Wir suchen dringend ein Rezept für schnelle Abende.
+Der Kuchen hat leider komplett im Ofen gebacken.
+Ich habe heute Morgen wieder nur Kaffee getrunken.
+Probier mal die Soße mit einem Löffel ab.
+Mein Mann kocht eigentlich viel besser als ich.
+Die Avocado war bei Ankunft schon ganz braun.
+Wir haben vergessen, den Backofen vorzuheizen.
+Gibt es hier keine glutenfreie Alternative mehr?
+Ich habe zu viel Salz in die Brühe getan.
+Das Dessert war absolut das i-Tüpfelchen am Ende.
+Hör auf, ständig an das Essen zu denken.
+Soll ich noch etwas für den Tisch mitnehmen?
+Mein Opa kocht noch nach dem alten Familienrezept.
+Ich habe heute zufällig super leckere Pasta gefunden.
+Das neue Sushi Restaurant in der City ist top.
+Kannst du mir dein Lasagne Rezept mal schicken?
+Ich versuche gerade abzunehmen und esse nur Salat.
+Die Flammkuchen bei uns im Ort sind riesig.
+Mama macht jeden Sonntag ihre berühmte Apfelstrudel.
+Ich hasse es wenn da noch Zwiebeln drin sind.
+Hast du Lust auf ein gemeinsames Dinner am Freitag?
+Der Käse vom Bauernmarkt schmeckt einfach anders.
+Ich kann nicht glauben wie wenig Pfeffer ich reingetan habe.
+Wir bestellen heute Abend wieder chinesisch zum Mittagessen.
+Das Eis in der Ecke ist wirklich günstig und lecker.
+Ich probiere morgen mal diesen neuen Smoothie Bar aus.
+Mein Freund kocht besser als die meisten Köche hier.
+Die Currywurst im Kino war diesmal echt durchfallig.
+Ich vergesse immer wieder das Salz nachzrüchen beim Kochen.
+Hast du schon mal echte Schwarzwälder Kirschtorte probiert?
+Das Restaurant hat leider sehr lange Lieferzeiten aktuell.
+Ich esse seit Wochen nur noch pflanzliche Produkte bewusst.
+Die Bratkartoffeln waren heute außen knusprig und innen weich.
+Wir gehen samstags immer zum traditionellen Abendbrot essen.
+Der Barista dort macht den besten Cappuccino der Stadt.
+Ich brauche dringend ein neues Rezept für Nudeln am Feierabend.
+Die Tomaten aus dem eigenen Garten schmecken einfach am besten.
+Hast du einen Tipp für gutes Fleisch hier in Gelsenkirchen?
+Hast du das Rezept für die selbstgemachte Pizza gesehen?
+Meine Oma kocht immer noch diesen alten Schwarzwälder Dickkopf.
+Wir haben endlich eine vegane Burgerstelle in der Stadt gefunden.
+Kannst du mir bitte das Rezept für deine Nudeln schicken?
+Ich esse momentan nur noch Smoothies zum Frühstück.
+Der neue Italiener ums Eck hat supertolle Pasta al dente.
+Hör auf, mir vom Sushi zu erzählen, ich bin sauer.
+Ich hab versuche Chili con Carne nachzukochen und es war okay.
+Läuft bei euch auch immer der Kühlschrank voll mit Resten?
+Das Brot vom Bäcker um die Ecke schmeckt einfach am besten.
+Hast du schon mal diese neuen Tofus aus dem Supermarkt probiert?
+Mein Mann mag kein Knoblauch obwohl ich ihn in alles reinmache.
+Wir planen nächsten Monat eine kleine Kochwoche mit Freunden.
+Die Sauerkrautgabel ist eigentlich gar nicht so wild wenn man gewöhnt ist.
+Ich kaufe immer lieber frische Kräuter als diese getrockneten im Glas.
+Kann jemand ein gutes Rezept für fluffige Pfannkuchen empfehlen?
+Das Restaurant am See war überteuert aber das Essen lohnt sich.
+Ich versuche gerade weniger Zucker in meinen Kaffee zu geben.
+Eure Lasagne sah auf dem Foto wirklich mega lecker aus.
+Wir haben gestern Abend einfach mal Nudeln mit Tomatensoße gegessen.
+Der Kaffeeautomat im Büro macht doch diesen typischen Robotergeruch.
+Ich finde, Sushi ist eigentlich nur roher Fisch auf Reis.
+Hast du zufällig noch etwas von dem Pesto übrig?
+Ich finde Sushi halt immer so viel gesünder als Pizza.
+Meine Großmutter backt jeden Freitag ihr berühmtes Rührkuchenrezept nach.
+Sollten wir für heute Abend einfach nur was vom Döner holen?
+Der neue Burgerladen in der Fußgängerzone hat echt saftiges Fleisch.
+Ich versuche gerade, meine Zuckerzufuhr langsam aber sicher zu reduzieren.
+Hast du mal das neue Ramen-Rezept aus dem Magazin ausprobiert?
+Mein Bruder isst eigentlich nur noch Smoothie Bowls zum Frühstück.
+Das traditionale Schweinebraten vom Weihnachtsmarkt war dieses Jahr mega gut.
+Ich kann mir echt nicht vorstellen, auf Pizza zu verzichten.
+Wir grillen am Samstag wieder die klassischen Bratwurst mit Senf.
+Findest du es auch schwierig, gesunde Snacks für die Arbeit einzupacken?
+Die hausgemachte Lasagne meiner Freundin schmeckt einfach ungeschlagen gut.
+Ich trinke seit letzter Woche jeden Morgen nur noch grünen Tee.
+Kennst du da kein Restaurant, wo man auch glutenfrei essen kann?
+Das Panna Cotta von der letzten Party war wirklich eine Offenbarung.
+Mein Mann kocht sonntags immer seine spezielle Nudelsauce mit Lachs.
+Ich habe gerade angefangen, selbst Sauerteigbrot zu backen und es fällt schwerer als gedacht.
+Hast du eigentlich schon mal diese neue Currypaste aus dem Asialaden probiert?
+Das Rinderrouladen-Rezept meiner Oma ist wirklich ein Geheimtipp für Feiertage.
+Ich esse morgens meist nur eine Banane mit ein paar Nüssen zum Frühstück.
+Das neue Café in der Innenstadt hat die besten Latte Macchiatos der Stadt.
+Wir haben letzte Nacht einfach wieder nur Restekuchen aus dem Kühlschrank gegessen.
+Findest du das neue Salatdressingsortiment im Supermarkt nicht auch etwas übertrieben teuer?
+Ich probiere gerade, ohne Soja zu leben und merke eigentlich gar keinen Unterschied.
+Hast du das neue Rezept vom Tante Olga probiert?
+Ich koch heute Abend einfach nur schnelle Nudeln mit Tomatensoße.
+Das Currywurststand im Keller schmeckt immer noch am besten.
+Meine Oma hat diesen Apfelkuchen schon seit 40 Jahren im Repertoire.
+Wir grillen am Wochenende mal wieder Steaks auf dem Balkon.
+Kannst du mir die Zutat für den Salsa nachschicken?
+Der neue Italiener in der Altstadt hat super Pasta.
+Ich versuche gerade, meinen Konsum von rotem Fleisch zu reduzieren.
+Hast du schon mal Schweinshaxe mit Sauerkraut gegessen?
+Das Brot vom Bäcker um die Ecke ist wirklich frisch.
+Wir machen morgen einen gemeinsamen Kochabend für alle Freunde.
+Die veganen Burger hier sind eigentlich gar nicht schlecht.
+Ich mag den Duft von frischem Knoblauch beim Anbraten total.
+Kannst du mir deine Pasta-Risotto-Variante schicken, die schmeckt ja gut?
+Das regionale Weizenbier passt perfekt zu den Brezeln.
+Mein Bruder versucht gerade, seine Diabetes-Ernährung umzustellen.
+Der Sushi-Lieferservice hat heute echt lange gebraucht.
+Ich brauche dringend ein einfaches Rezept für Schnelles abends nach der Arbeit.
+Die Käsesuppe vom Festzelt war wirklich cremig und aromatisch.
+Hast du die neuen veganen Milchersatzprodukte schon getestet?
+Wir planen eine Weinprobe im nächsten Monat mit Freunden.
+Der Fischmarkt am Hafen bietet jeden Morgen frischen Thunfisch an.
+Kannst du mir deine Tipps für gesundes Kochen schicken?
+Das Schweinebraten-Rezept meiner Großmutter ist einfach ein Traum.
+Ich habe gestern zum ersten Mal selbstgemachte Pizza gebacken, super Erfolg!
+Meine Mama kocht den besten Kartoffelsalat der Welt.
+Ich hab heute Mittag wieder nur Nudeln gegessen.
+Kannst du mir das Rezept für deine Chili con Carne schicken?
+Das italienische Restaurant in der Altstadt ist super teuer.
+Wir grillen am Wochenende bestimmt wieder Würstchen im Garten.
+Die Pizza bei uns war leider etwas zu dick.
+Ich versuche gerade, mehr Gemüse in meinen Speiseplan einzubauen.
+Hast du schon mal die neuen Burger ausprobiert?
+Mein Mann kann echt gut Ravioli machen mit Handrührsauce.
+Der Kuchen von der Bäckerei Ecke Hauptstraße schmeckt genial.
+Wir haben uns heute abends einfach etwas Fertiges gegessen.
+Die Suppe war leider viel zu salzig für meinen Geschmack.
+Ich muss unbedingt mal den neuen Grillkasten ausprobieren.
+Essen im Ausland ist immer eine kulinarische Entdeckungsreise.
+Das Brot vom Bäcker um die Ecke wird täglich frisch gebacken.
+Kann ich dir beim Abwasch nach dem Kochen helfen?
+Die Beilagen dazu waren leider schon etwas ausgetrocknet.
+Wir planen für nächsten Sonntag einen großen Grillabend mit Freunden.
+Der Kaffee im Café nebenan schmeckt einfach am besten.
+Ich habe vergessen, den Ofen nach dem Backen auszuschalten.
+Die Pasta hat super viel Tomatengeschmack bekommen beim Kochen.
+Hast du Lust, morgen früh zusammen ein Brunch zu machen?
+Das Dessert war eine kleine Süßigkeit, die mir sehr gefallen hat.
+Wir haben uns entschieden, heute Abend vegan zu essen.
+Der Pizzateig hat heute richtig gut geklappt.
+Ich suche ein Rezept für schnelle Nudeln mit Sahnesoße.
+Hast du schon mal japanische Küche probiert?
+Meine Oma macht den besten Apfelstrudel der Welt.
+Wir bestellen abends immer gern Pizza vom Italiener.
+Der Duft aus der Küche ist heute einfach unwiderstehlich.
+Ich versuche mich gerade ernährungsbewusster zu ernähren.
+Kannst du mir deine Currywurst-Rezept weitergeben?
+Das neue Restaurant im Zentrum hat super Fischgerichte.
+Ich hasse es, wenn jemand in meiner Küche putzt.
+Die Sauerkraut-Beilage zum Schweinebraten war richtig sauer.
+Wir grillen morgen Abend wieder Hamburger mit Pommes Frites.
+Mein Vater kocht am liebsten deftige Fleischgerichte jeden Sonntag.
+Das vegetarische Menü im Hotel war überraschend lecker und frisch.
+Ich kann einfach keinen Kohl ohne Essig vertragen beim Essen.
+Hast du schon das neue Sushi-Restaurant in der Innenstadt getestet?
+Die Kinder wollen heute Abend nur Nudeln mit Tomatensoße essen.
+Wir haben uns fürs Grillen Fleisch von einem Bauernhof besorgt.
+Der Kuchen vom Geburtstag war leider etwas zu trocken für mich.
+Ich kaufe meine Gewürze nur noch auf dem Wochenmarkt ein.
+Kochst du lieber mit frischen Zutaten oder aus der Dose?
+Das Abendbrot besteht heute mal wieder nur aus Käse und Brot.
+Wir suchen eine gute Patisserie für unser Jubiläumstortenbestellen.
+Meine Frau hat diesen wunderbaren Rouladen-Rezept aus ihrer Heimat gefunden.
+Die Suppe schmeckt besser, wenn man sie am Vortag kocht.
+Mein Cousin hat mir sein Geheimrezept für Pizzateig gegeben.
+Wir essen heute Abend wieder nur Salate, weil es kalt ist.
+Die Pasta mit frischer Basilikumöl schmeckt einfach köstlich.
+Ich kaufe immer Bio-Gemüse, auch wenn es mehr kostet.
+Hast du schon mal das neue griechische Restaurant probiert?
+Mein Tofu-Bolognese war gestern echt ein voller Erfolg.
+Wir müssen dringend mal wieder chinesisch essen gehen.
+Das Brot vom Bauernmarkt ist einfach viel besser als Supermarktzeug.
+Ich kann ohne meinen Kaffee am Morgen gar nicht aufstehen.
+Versuchste mal den Dill-Dip dazu, der passt super.
+Wir machen dieses Wochenende einen großen Grillabend mit Freunden.
+Die neuen Burger vom Italiener sind leider etwas zu salzig.
+Ich versuche gerade, weniger Fleisch und mehr Gemüse zu essen.
+Meine Oma backt jeden Sonntag frisches Knödelteig zum Mittagessen.
+Das Sushi in der City ist wirklich sehr frisch und lecker.
+Wir haben selbstgemachte Marmelade aus Erdbeeren gekocht letztes Jahr.
+Kannst du mir sagen, wie man Spaghetti Bolognese richtig macht?
+Der neue Smoothie mit Beeren und Ingwer ist echt erfrischend.
+Wir essen heute Abend nur noch Pizza, weil wir faul sind.
+Die hausgemachte Currywurst vom Imbiss steht für mich an erster Stelle.
+Ich probiere gerade mal diese neuen Nudeln aus dem Asia-Markt.
+Mein Freund ist sehr wählerisch beim Essen, er isst fast nur vegane Sachen.
+Wir machen morgen einen Kuchen für die Geburtstagsfeier im Büro.
+Das Eis von der Eisdiele Ecke Hauptstraße ist echt cremig und lecker.
+Ich habe heute zum ersten Mal mal selbstgemachte Döner-Kebab gemacht.
+Mein neuer Lieblingsrestaurant ist das italienische Eckcafe.
+Hab gestern versucht Hummus selbst zu machen.
+Der Currywurststand um die Ecke hat immer lange Schlangen.
+Wir essen morgen wieder Pizza bei Familie Rossi.
+Kann mir jemand ein gutes Sushi Rezept empfehlen?
+Das Brot vom Bäcker direkt nebenan ist goldwert.
+Ich backe diesen Monat erstmal nur Dinkelkuchen.
+Die Sauerkrautrolle meiner Oma schmeckt einfach anders.
+Findest du auch dass Fastfood eigentlich zu teuer ist?
+Mein Freund macht am Wochenende immer sein Geheimrezept.
+Wir haben vor einer Diät doch erst mal gefrühstückt.
+Das newste Trendfood aus dem Ausland probiere ich nie.
+Kochbücher kaufen bringt nichts wenn man nicht nachkocht.
+Ich mag es wenn die Kartoffeln noch knusprig sind.
+Lass uns heute Abend einfach nur Nudeln essen gehen.
+Die vegane Option war überraschend lecker und sättigend.
+Mein Vater grillt sonntags immer seine legendären Bratwürste.
+Ich verzichte auf Zucker schon seit drei Monaten komplett.
+Welches Restaurant hat denn die besten Burger hier?
+Das Pesto aus meiner Region ist einfach unvergleichlich gut.
+Wir probieren heute abend mal thailändisches Essen zu Hause.
+Der Kaffee im neuen Cafe schmeckt etwas bitter für mich.
+Ich esse gerne mit den Händen wenn es Fingerfood ist.
+Meine Schwester ist absoluter Fan von japanischer Küche geworden.
+Das Rezept online hatte wirklich jede Menge positive Bewertungen erhalten.
+Die Pasta ist leider ein bisschen zu hart gekocht.
+Ich suche nach einem schnellen Rezept für den Abend.
+Darf ich dir beim Backen der Cupcakes helfen?
+Das neue italienische Restaurant in der City hat super Pizza.
+Mein Oma zaubert jedes Mal die besten Knödel her.
+Ich versuche momentan, weniger Zucker im Kaffee zu trinken.
+Hast du schon mal die regionalen Käsesorten probiert?
+Wir grillen heute Abend wieder Würstchen und Pommes.
+Das Dressing für den Salat schmeckt einfach nicht so richtig.
+Kannst du mir das Rezept für deinen Apfelstrudel schicken?
+Ich bin echt gespannt auf die neuen Burger am Stand.
+Morgen backe ich meinen ersten Versuch von Baguettes.
+Die Suppe vom Vorabend war immer noch super lecker.
+Findest du es auch nervig, ständig Bio-Lebensmittel zu kaufen?
+Das Steak sollte man wirklich nicht zu lange braten.
+Ich habe zufällig noch Sahne für die Soße übrig.
+Unser Nachbar kocht jeden Sonntag diese unglaubliche Borschtschsuppe.
+Soll ich für das BBQ auch etwas mitbringen?
+Die Knödel im Magen liegen heute echt schwer da.
+Ich probiere grade eine neue Art von Tiramisu aus.
+Warum kostet frischer Spargel hier immer so viel Geld?
+Das Eis bei dem neuen Markt ist leider zu süß.
+Kann man das Curry auch ohne Kokosmilch machen?
+Mir schmeckt der Kaffee in dieser Kiste einfach am besten.
+Ich muss unbedingt mal wieder selbst Ramen kochen lernen.
+Hast du zufällig noch ein paar Eier im Kühlschrank?
+Der Borscht schmeckt heute irgendwie etwas zu säuerlich.
+Ich lade mich gleich mal das Rezept für Spaghetti alla Carbonara runter.
+Meine Oma macht den besten Sauerkraut, den hab ich sonst nirgends probiert.
+Sollen wir heute abend lieber auswärts essen oder kochen?
+Die Dönerbude an der Ecke hat wirklich sauberes Fleisch.
+Ich versuche gerade, meinen Zuckerkonsum etwas zu reduzieren.
+Kennst du dich mit pflanzlichen Milchersatzprodukten gut aus?
+Wir haben uns heute einen veganen Burger gegönnt.
+Der neue Asiat um die Ecke liefert richtig schnellen Lieferservice.
+Ich habe gestern Abend wieder zu viel Pizza gegessen, Argh.
+Wie lange muss der Braten denn bei 180 Grad bleiben?
+Die selbstgemachte Nudelsuppe war einfach göttlich lecker.
+Wir suchen dringend ein Restaurant mit gutem Kindermenü.
+Mein Mann kann eigentlich gar nicht so richtig gut kochen.
+Ich hab das Rezept für den Schwarzwälder Kirschtorte ausprobiert und es ist gelukt.
+Das Sushi im japanischen Lokälchen war echt frisch.
+Lass uns doch mal gemeinsam einen Kuchen backen am Wochenende.
+Die regionale Weinprobe im Herbst war total entspannt und schön.
+Ich esse seit einer Woche nur noch vegane Gerichte.
+Der Käsefondue Abends hat den ganzen Abend gerissen.
+Hast du schon mal diesen neuen Smoothie Bar ausprobiert?
+Wir planen gerade unseren großen Grillabend für nächste Woche.
+Die hausgemachte Apfelmus von meiner Tante schmeckt einfach unschlagbar.
+Ich muss unbedingt mal die neuen Ramen-Boards testen.
+Meine Großmutter kocht den besten Apfelsaft.
+Wir haben gestern beim Italiener gegessen.
+Das Pesto selbst machen schmeckt einfach besser.
+Hast du schonmal von der veganen Curry-Wurst gehört?
+Ich versuche gerade, weniger Zucker zu essen.
+Die neuen Burger sind richtig lecker geworden.
+Mein Freund backt jeden Sonntag frisch Brot.
+Ich kann gar nicht mehr auf Olivenöl verzichten.
+Wir sollten mal gemeinsam Sushi kochen gehen.
+Das Dessert war etwas zu süß für mich.
+Ich liebe es, am Wochenende langsame Speisen zu machen.
+Die neuen Pasta-Sorten sehen super lecker aus.
+Kannst du mir das Geheimnis für knuspriges Hähnchen verraten?
+Wir haben uns auf ein veganes Menü festgelegt.
+Der neue Bäcker um die Ecke ist genial.
+Ich probiere gerade, ohne Konservierungsstoffe auszukommen.
+Mein Kochbuch von Oma ist mein Lieblingsschatz.
+Die Pizza vom neuen Lieferdienst war überraschend gut.
+Ich esse jetzt wieder öfter Fleisch am Wochenende.
+Das Rezept für den Flammkuchen war super einfach.
+Wir haben gestern einen langen Spaziergang gemacht, bevor wir gegessen haben.
+Die neuen Gewürze aus dem Ausland sind fantastisch.
+Ich suche nach einem guten Platz für Sushi in Berlin.
+Mein Cousine macht die besten Kartoffelklöße der Welt.
+Ich hab gerade Spaghetti Bolognese gekocht.
+Meine Oma backt jeden Sonntag selbstgemachte Marmorkuchen.
+Hast du ein gutes Rezept für schnellen Abendbrot?
+Der Döner im Eck ist wirklich nicht schlecht.
+Ich versuche mich gerade vegetarisch zu ernähren.
+Kannst du mir deine Pasta-Soße Formel geben?
+Beim Italiener um die Ecke ist die Pizza super.
+Ich habe vergessen den Ofen vorzuheizen doof.
+Mein Mann macht am Wochenende immer Grillabend.
+Hast du schon mal das neue Menü probiert?
+Die Sushi-Rolle war leider ziemlich durchgefallen.
+Wir bestellen heute Abend wieder von der Pizzeria.
+Kochst du lieber mit frischen oder tiefgekühltem Gemüse?
+Der Käse auf dem Brot ist einfach perfekt.
+Ich mag es wenn die Suppe etwas scharf schmeckt.
+Hast du einen Tipp gegen Sodbrennen nach dem Essen?
+Meine Nichte macht ihre eigenen Smoothies jeden Morgen.
+Das Steak war leider deutlich zu gut durchgedreht.
+Wir gehen samstags immer auf den Wochenmarkt einkaufen.
+Kann ich dir das Rezept für die Brownies schicken?
+Der Kaffee hier schmeckt irgendwie immer etwas anders.
+Ich habe heute Mittag nur einen Salat gegessen.
+Mein Freund kocht immer zu viel weil er unsicher ist.
+Das Eis in der Sonne hat schnell geschmolzen doof.
+Wir probieren morgen mal ein neues Sushi Restaurant aus.
+Ich hab endlich meine eigene Pasta Soße gekocht.
+Der neue Dönerladen um die Ecke ist super.
+Moin, hast du schon mal Brezen gegessen?
+Meine Oma macht immer diesen leckeren Apfelkuchen.
+Ich versuche jetzt mehr vegetarisch zu essen.
+Das Sushi in der Innenstadt kostet richtig viel.
+Kannst du mir das Rezept für deinen Hummus schicken?
+Wir grillen heute Abend wieder Steaks im Garten.
+Die Pizza von da nebenan ist echt schlecht.
+Ich liebe es, am Wochenende ausgiebig zu brunchen.
+Hast du schonmal Schwarzwälder Kirschtorte probiert?
+Mein Mann kocht nur noch Instant Suppen seitdem.
+Das Bratfischfest war letztes Jahr wieder super.
+Ich kaufe immer frische Kräuter auf dem Markt.
+Der Kaffee im Büro schmeckt wirklich mies heute.
+Wir bestellen morgen Abend wieder bei Lieferando.
+Kochst du lieber mit Öl oder mit Butter?
+Die Currywurst mit Ketchup ist mein Lieblingsessen.
+Ich habe keine Lust mehr auf schnelle Food.
+Probier mal diesen neuen Wein vom Weingut hier.
+Das Brot vom Bäcker ist noch warm und frisch.
+Morgen machen wir einen gemeinsamen Kochkurs online.
+Die Suppe war leider zu salzig für meinen Geschmack.
+Ich esse am liebsten nur noch Bio Produkte.
+Hast du schonmal den neuen Burgerladen getestet?
+Ich muss gleich noch schnell die Pommes fertig machen.
+Hast du zufällig ein gutes Rezept für veganen Rinderbraten?
+Die Spargelsuppe bei uns im Garten war einfach göttlich.
+Er kocht heute Abend wieder nur Nudeln mit Tomatensauce.
+Kannst du mir mal das Link zur Bolognese schicken?
+Wir waren gestern in diesem neuen asiatischen Laden downtown.
+Meine Oma macht die besten Kartoffelsalat aus der Pfanne.
+Ich versuche gerade, weniger Zucker im Kaffee zu trinken.
+Das Brot vom Bäcker um die Ecke schmeckt einfach am besten.
+Hast du schonmal Probieren ob das Curry gut gewürzt ist?
+Wir grillen am Wochenende mal wieder mit den Freunden hier.
+Die Pizza delivery hat diesmal leider eine halbe Stunde verzögert.
+Ich kaufe nur noch regionale Äpfel im Herbst und Winter.
+Der Ravioli vom Italiener in der Altstadt ist echt lecker.
+Kochst du gerne oder hast du eigentlich gar keine Zeit dafür?
+Ich habe mir gestern ein neues Kochbuch über asiatische Gerichte gekauft.
+Die Bratwurst mit Senf war nach dem Fußball einfach perfekt.
+Möchtest du mich bei meinem neuen veganen Burger Rezept unterstützen?
+Wir essen heute Abend mal wieder nur Salat und Obst.
+Das Essen im Flieger war leider nicht wirklich meins wert.
+Ich probiere gerne neue Gewürze beim Chai Tea aus.
+Die Maultaschen mit Soße waren am Sonntag echt gesättigend.
+Kannst du mir sagen wie man Ramen richtig macht?
+Wir haben gestern Abend einfach nur Pizza vom Nachbar geholt.
+Der Kuchen meiner Schwester ist immer so luftig und lecker.
+Ich muss heute Abend wieder etwas schnelles kochen.
+Hast du das neue italienische Restaurant schon getestet?
+Mein Papa ist ein absoluter Profi beim Grillen.
+Ich versuche gerade auf Fertigprodukte komplett zu verzichten.
+Die Currywurst an der Ecke schmeckt mir am besten.
+Kannst du mal deine Lasagne-Soße Rezept hochladen?
+Mir fehlt einfach Zeit für richtige Mahlzeiten.
+Das vegane Burger-Menü war wirklich überraschend lecker.
+Wir laden nächste Woche zum gemeinsamen Abendessen ein.
+Ich hasse es, wenn das Essen im Ofen verbrennt.
+Probiere mal diesen Dill-Dip zu deinen Fritten.
+Meine Oma macht den besten Apfelkuchen der Welt.
+Ich kaufe nur noch Bio-Gemüse vom Wochenmarkt.
+Das Sushi beim Asia-Express ist leider zu teuer.
+Haben wir noch Nudeln im Haus oder sollen wir einkaufen?
+Ich lerne gerade, wie man richtig Spaghetti kocht.
+Der Kaffee aus der Maschine schmeckt immer gleich blechern.
+Wir wollen am Wochenende einen Kochkurs besuchen.
+Magst du scharfes Essen oder eher mildes?
+Die Brotzeit mit Brezn und Obazda war toll.
+Ich esse morgens nur Haferflocken mit Banane.
+Das Fleisch im Supermarkt wirkt oft nicht frisch.
+Hast du schon mal gebrannte Mandeln selbst gemacht?
+Wir haben gestern Abend einfach Pizza bestellt.
+Der Geruch vom Braten hat sofort Hunger gemacht.
+Meine Oma hat das Bohnen Suppen Rezept geerbt.
+Wir gehen heute Abend unbedingt Italiener essen.
+Kannst du mir mal die Zutatenliste schicken?
+Der Spargel war leider etwas übergekocht.
+Ich versuche mich gerade ans Brot backen heranzutüfteln.
+Passt Currywurst eigentlich nicht zum Fischbrötchen?
+Mein Mann kann gar kein Pasta machen.
+Die neuen veganen Burger sind überraschend lecker geworden.
+Ich hasse es wenn jemand in meiner Küche kocht.
+Hast du schon mal Wildschweintauchen probiert?
+Das Rezept braucht ewig weil man alles warten muss.
+Wir laden Freunde zum Grillen ein nächstes Wochenende.
+Käsekuchen ist mein absolutes Lieblingsdessert seit Kindheit.
+Ich esse morgens nur noch Porridge zum Frühstück.
+Die Spieße waren perfekt gegrillt ohne Ankokeln.
+Hör auf mit diesen Diäten und iss normal Essen.
+Meine Nichte backt jeden Tag Cupcakes im Kindergartenalter.
+Das Gericht schmeckte einfach zu fade für meinen Geschmack.
+Wir bestellen Pizza weil niemand Lust zum Kochen hat.
+Ketchup gehört meiner Meinung nach nicht aufs Steak.
+Die Suppe vom Italiener war heute wirklich genial.
+Ich muss noch Sahne und Mehl für den Kuchen kaufen.
+Falsch geparkte Töpfe verderben jeden Kochspaß komplett.
+Das Brathähnchen ist so zart wie im Restaurant.
+Hast du zufällig noch Rezept für diesen Käsesud?
+Meine Nudelsoße ist wieder mal total ausgetrocknet.
+Wir gehen heute Abend bestimmt wieder essen.
+Der neue Lieferdienst hat leider schon wieder closed.
+Kannst du mir das Passwort vom WiFi schicken?
+Ich brauche dringend Inspiration für das Abendessen.
+Das Brot beim Bäcker gegenüber ist echt knusprig.
+Möchtest du mit zum Brunch gehen oder bleibst du da?
+Mein Cousin kocht immer dieses unglaubliche Risotto.
+Hast du schon mal selbst Kuchen gebacken oder so?
+Die Suppe schmeckt mir heute irgendwie gar nicht so.
+Ich versuche gerade, weniger Zucker in den Kaffee zu tun.
+Der Pizzaofen zu Hause ist eine richtig gute Investition.
+Ich hasse es, wenn das Gemüse im Ofen eingeht.
+Können wir vielleicht nur ein kleines Stück Cake teilen?
+Meine Oma hat mir das Senfsauce-Rezept endlich gegeben.
+Ich würde jetzt am liebsten nur noch Pizza essen wollen.
+Das Restaurant downtown hat wirklich eine super Terrasse.
+Hast du Lust, morgen zusammen Einkaufen zu gehen?
+Der Geschmack von der Currywurst ist einfach unschlagbar.
+Ich probiere dieses neue Smoothie-Rezept für den Morgen aus.
+Meine Katze guckt immer nur beim Kochen auf mich herab.
+Wir bestellen heute Abend mal wieder Sushi statt Pasta.
+Das Rezept im Blog hatte total wenige Bewertungen eigentlich.
+Meine Oma macht den besten Apfelstrudel.
+Ich habe heute wieder nur Smoothie gegessen.
+Können wir mal richtig italienisch essen gehen?
+Der Couscous war leider etwas zu trocken.
+Wir grillen am Sonntagabend Bratwurst im Garten.
+Hast du das Rezept für die Datteln?
+Ich verzichte gerade komplett auf Weißmehlprodukte.
+Das Steak war perfekt gebraten, wirklich super.
+Mein Freund kocht besser als ich.
+Sollen wir heute Abend Pasta essen?
+Die Currywurst ist mein absolutes Lieblingsessen.
+Ich habe mir eine neue Pfanne gekauft.
+Probier mal den Hummus dazu, der schmeckt gut.
+Wir gehen morgen Mittag in das neue asiatische Lokal.
+Mein Salat war total langweilig gestern.
+Kannst du mir dein Rezept für Bolognese geben?
+Ich esse seit einer Woche vegan aus Neugier.
+Der Kuchen ist leider etwas zu süß geworden.
+Essen wir heute Sushi oder lieber Pizza?
+Meine Schwester backt jeden Sonntag Brötchen selbst.
+Das Risotto braucht wirklich viel Geduld beim Kochen.
+Ich hasse es, wenn die Nudeln matschig sind.
+Wir haben gestern den ganzen Teller leer gegessen.
+Gibt es noch Zutaten für den Auflauf?
+Der Käsespitz ist das Beste an Schwabenküche.
+Ich suche ein tolles Rezept für schnelle Pasta.
+Mein Freund kocht am liebsten italienische Gerichte.
+Wir gehen heute Abend ins neue Asia-Thai-Restaurant.
+Kannst du mir deine Marmelade-Rezept weitergeben?
+Der Döner hier ist echt lecker und frisch.
+Ich versuche mich gerade an einem selbstgemachten Pizza-Teig.
+Hast du Lust auf ein gemeinsames Picknick diesen Sonntag?
+Die Baguette vom Bäcker um die Ecke schmeckt super.
+Wir haben gestern Abend vegan gezeichnet mit Freunden.
+Kannst du mir deinen Lieblings-Rezepte-Link schicken?
+Ich hab das erste Mal erfolgreich Bienenwaben gekocht!
+Meine Mama macht den besten Kartoffelsalat der Welt.
+Ich suche Inspiration für gesunde Mittagessen-Ideen.
+Der Grill am Wochenende war ein richtiges Highlight!
+Kannst du mir deine geheimen Gewürzmischung verraten?
+Wir planen eine Kochwerkstatt für nächste Woche.
+Hast du Tipps gegen Allergien beim Backen?
+Die Currywurst im Supermarkt ist doch auch okay.
+Ich muss unbedingt mein eigenes Brot backen lernen.
+Die Pizza vom Italiener um die Ecke ist fantastisch.
+Kannst du mir deine besten Dessert-Rezepte empfehlen?
+Wir haben einen gemeinsamen Kochabend mit Freunden geplant.
+Hast du schon mal selbstgemachtes Eis probiert?
+Meine Mami kocht den besten Kartoffelsalat.
+Ich hab das neue Pasta-Rezept ausprobiert.
+Lass uns doch mal wieder Pizza bestellen.
+Der Döner hier ist echt super frisch.
+Hab vergessen Salz zu kaufen, Ärger halt.
+Die neuen Burger sind einfach nur okay.
+Wir machen heute Abend asiatisch mit Tofu.
+Ich verzichte langsam auf Zucker im Kaffee.
+Das Eis vom Bäcker ist jeden Cent wert.
+Kannst du mir das Rezept für den Kuchen schicken?
+Mein Cousin grillt morgen, kommst du mit?
+Die Suppe war leider viel zu salzig.
+Ich mag keine scharfen Gewürze in der Currywurst.
+Hast du schonmal die neuen Smoothies probiert?
+Wir backen am Sonntag wieder Zimtbrötchen.
+Das Fleisch vom Metzger ist immer sehr gut.
+Ich ess jetzt öfter Gemüse statt Kartoffeln.
+Der Kuchen war leider etwas zu trocken geraten.
+Wir haben heute Sushi bestellt, schmeckt geil.
+Findest du auch die neuen Pommes so lecker?
+Ich lerne gerade, wie man richtig Spaghetti macht.
+Die Frühlingsrollen waren echt eine gute Idee.
+Machst du schonmal den Salat für später fertig?
+Das Steak war perfekt durchgegart, meine Liebe.
+Mein Opa kocht noch immer nach altem Familientradition.
+Ich hab endlich das Rezept für die perfekten Spätzle gefunden.
+Wir gehen am Wochenende wieder in unsere Lieblingssteakhouse.
+Kannst du mir sagen wo man gute Currywurst kriegt?
+Die neuen veganen Burger schmecken überraschend gut und frisch.
+Ich muss mal schauen ob ich heute noch Zeit zum Kochen hab.
+Eisbein mit Kraut ist einfach mein absolutes Winterlieblingsessen.
+Hast du schonmal diese neue Thai-Ecke in der Innenstadt probiert?
+Meine Freundin backt jeden Sonntag ihre selbstgemachten Zimtschnecken.
+Ich versuche gerade meine Kohlenhydratzufuhr ein bisschen zu reduzieren.
+Der Kuchen von Mama ist einfach unschlagbar lecker und fluffy.
+Wir haben letzte Nacht wieder zusammen Pasta mit Pesto gekocht.
+Findest du nicht auch dass deutsche Würste meist viel zu fettig sind?
+Ich suche nach einem guten Rezept für schnellen Mittagstisch.
+Das Rinderbraten vom Festzelt war leider etwas trocken geraten.
+Kann ich dir deine Ernährungsumstellung auf vegetarisch nur empfehlen.
+Die Kartoffelsuppe mit Croutons war richtig cremig und aromatisch.
+Ich hab vergessen den Käse für die Pizza einzukaufen doof.
+Probier unbedingt mal diese neuen regionalen Biobrote aus dem Laden.
+Mein Partner ist ein absoluter Genießer was Weine und Fleisch angeht.
+Wir haben den ganzen Tag über verschiedene lokale Spezialitäten probiert.
+Ich finde es super dass es wieder mehr vegane Optionen gibt.
+Die Pizza vom Italiener um die Ecke hat einen tollen Boden.
+Kannst du mir helfen dieses komplizierte französische Rezept zu verstehen?
+Mein Cousin kocht den besten Rinderrouladen.
+Wir haben heute Abend wieder Pizza gebacken.
+Kannst du mir das Rezept für deinen Chili con Carne schicken?
+Ich esse seit einer Woche nur noch vegan und fühle mich super.
+Das Sushi vom neuen Asia-Imbiss ist echt frisch.
+Hab vergessen Milch einzukaufen, jetzt kein Kaffee.
+Meine Oma macht den köstlichsten Apfelstrudel der Welt.
+Sollten wir heute Mittag zusammen ins Italiener gehen?
+Ich mag keine Pilze in meiner Pasta wirklich gar nicht.
+Der Schweinsbraten vom Festzelt war leider etwas trocken.
+Wir planen für Sonntag einen großen Grillabend mit Freunden.
+Mein Mann hat heute Abend Gnocchi gekocht und es schmeckt himmlisch.
+Ich versuche aktuell, weniger Zucker in meinen Tee zu geben.
+Das Buffet im Hotel war wirklich eine Enttäuschung.
+Hast du schon mal den neuen Burgerladen in der Innenstadt probiert?
+Wir backen morgen zusammen Lebkuchen für die Familie.
+Der Döner aus dem Kiosk um die Ecke ist mein Geheimtipp.
+Ich koche heute Abend schnell nur Nudeln mit Tomatensoße.
+Das Essen im Flieger war wie immer komplett essbar aber langweilig.
+Meine Tochter will unbedingt selbstständig Bagels backen lernen.
+Wir haben uns entschieden, ab nächster Woche vegetarisch zu essen.
+Der Kuchen von deiner Party war echt der Hammer, alles weg.
+Ich kann nicht mehr ohne meinen morgendlichen Kaffee aufwachen.
+Soll ich für den Grillabend die Marinade mitbringen oder machst du das?
+Der Duft von frischem Laib hat mich schon geweckt.
+Ich muss dringend mal wieder selbst Lasagne backen.
+Kennst du denn einen guten Burger Spot in der Innenstadt?
+Mein Opa macht immer den besten Apfelstrudel zur Tafel.
+Wir versuchen gerade, Fleisch zwei Mal pro Woche zu lassen.
+Die neue Pizzeria hier um die Ecke ist echt schick.
+Ich hab vergessen, Milch zu kaufen und bin schon genervt.
+Probier mal das Curry aus Thailand, es schmeckt genial.
+Ich liebe es, wenn der Ofen noch warm vom Brotschneiden riecht.
+Meine Freundin backt jeden Sonntag ihr berühmtes Rührkuchenrezept.
+Ich finde Sushi in der Stadt viel zu teuer für die Portion.
+Kannst du mir bitte das Rezept für deine Sauce schicken?
+Wir haben gestern Abend einfach nur Nudeln mit Tomaten gegessen.
+Der neue Grillmeister auf der Arbeit brät richtig leckere Steaks.
+Ich habe heute Morgen aus Versehen Salz statt Zucker genommen.
+Lass uns am Freitag gemeinsam ein italienisches Abendessen kochen.
+Die regionalen Käsesorten auf dem Bauernmarkt schmecken einfach besser.
+Ich probiere gerade eine neue Art von veganem Hackfleisch aus.
+Mein Vater insistiert darauf, dass wir traditionell kochen müssen.
+Das Buffet im Urlaub war leider eher enttäuschend und kalt.
+Ich vermisste die warmen Suppen in der kalten Jahreszeit.
+Wir laden nächste Woche einige Freunde zu einem Dinner ein.
+Die frischen Kräuter vom Balkon bringen dem Salat richtig Farbe.
+Ich hasse es, wenn andere mein Essen nach dem Kochen berühren.
+Findest du das Restaurant am See auch etwas zu überbewertet?
+Die Pizza hat im Ofen wirklich gut gebacken.
+Ich such ein Rezept für schnelle Pasta nach der Arbeit.
+Unser Lieblingsitaliener hat endlich wieder sonntags geöffnet.
+Das neue Sushi-Restaurant ist total überbewertet und teuer.
+Kannst du mir mal deine Chili-Recipe schicken?
+Am Wochenende dreh ich mein eigenes Pesto zu Hause.
+Die Käsespätzle mit Zwiebeln sind einfach der Hammer.
+Wir probieren mal das veganen Burger-Lieferservice aus.
+Mein Opa kocht den besten Gulaschsuppe im Sommer.
+Ich hab wieder zu viel Currywurst aufgegessen heute.
+Das Steak war perfekt rare und super saftig.
+Kennst du einen guten Imbiss in der Innenstadt?
+Die frischen Brötchen vom Bäcker schmecken am Morgen.
+Ich versuche gerade, weniger Zucker im Kaffee zu trinken.
+Das Fondue hat leider etwas anbrennen auf dem Boden.
+Wir laden Freunde ein und machen Selfmade-Nudeln zusammen.
+Die Döner-Kette um die Ecke ist jetzt weg.
+Meine Freundin backt jeden Sonntag den besten Apfelkuchen.
+Ich brauche dringend eine Idee für das Abendessen heute.
+Das Tapas-Menü im kleinen Spanier war riesengroß.
+Soll ich für die Party noch Salate mitbringen?
+Der Bäcker hat vergessen, meine Croissants zu packen.
+Ich koche gern asiatisch weil es so schnell geht.
+Die Suppe vom Vortag schmeckt am nächsten Tag besser.
+Wir haben gestern beim neuen Grillladen gestresst gegessen.
+Meine Mama backt am Wochenende immer frische Brötchen.
+Das neue griechische Restaurant in der Innenstadt ist super lecker.
+Ich esse seit kurzem viel mehr Gemüse und weniger Fleisch.
+Die Spaghetti Bolognese war heute abend leider etwas zu salzig.
+Kannst mir ein gutes Rezept für Kürbissuppe empfehlen?
+Wir haben gestern Abend zusammen Pasta gekocht und gegrillt.
+Der Apfelkuchen von Oma ist einfach unwiderstehlich gut.
+Ich versuche gerade, auf Fast Food komplett verzichten zu lernen.
+Die Bratwurst vom Imbiss stand echt gut zum Bier.
+Soll ich für die Party noch was mitbringen oder reicht das?
+Mein Freund kocht besser als ich, besonders Asiatisches.
+Das Sushi im japanischen Lokal war frisch und sehr hochwertig.
+Ich hasse es, wenn andere Leute mir sagen, wie ich esse soll.
+Hast du schon mal diesen neuen Smoothie-Trend ausprobiert?
+Die Kartoffelsuppe bei uns im Hof ist der Hammer.
+Wir planen für den Urlaub eine Kochreise nach Italien.
+Mein Magen verträgt aktuell keine schweren Mahlzeiten mehr.
+Das vegetarische Burger-Menu beim Dönerladen war überraschend gut.
+Kannst du mir sagen, wie man richtig Rührei macht?
+Ich kaufe meine Eier immer von der Bio-Landwirtschaft nearby.
+Der Fondue-Abend war ein voller Erfolg mit allen Freunden.
+Sollten wir heute Abend einfach nur eine Suppe essen?
+Die hausgemachte Nudelsuppe schmeckt nach Hause, absolut genial.
+Ich probiere gerne neue Gewürze aus, um Gerichte aufzupeppen.
+Ich such ein Rezept für eine schnelle Pasta.
+Hast du schon mal das neue griechische Restaurant probiert?
+Mein Pappa kocht immer den besten Gulaschsuppe.
+Wir essen heute Abend einfach nur Nudeln mit Tomatensoße.
+Das Burger Joint in der Innenstadt ist total überbewertet.
+Ich versuche gerade, weniger Fleisch im Supermarkt zu kaufen.
+Die Apfelstrudel vom Bäcker um die Ecke sind himmlisch.
+Kannst du mir dein geheimnisvolles Marinaden Rezept verraten?
+Ich hasse es, wenn Restaurants ihre Speisekarten ändern.
+Wir machen am Wochenende einen großen Grillabend mit Freunden.
+Sag mal, hast du das Buch über japanische Küche gelesen?
+Mein Tiramisu ist heute leider ganz schön flach geworden.
+Ich würde partout kein Sushi mehr im Büro essen wollen.
+Die Kartoffelsuppe meiner Oma schmeckt einfach unvergesslich gut.
+Hast du Lust auf einen Spaziergang zum Food Market?
+Wir müssen dringend mal wieder zusammen was ausprobieren.
+Der Duft von frischem Brot lockt mich immer an.
+Ich kaufe meine Pilze nur noch vom Bio-Hofladen.
+Dieser Currywurst Stand hat wirklich die beste Sauce.
+Kochst du lieber mit frischen oder gefrorenen Gemüsemischungen?
+Mein Versuch, Sauerteigbrot zu backen, ist misslungen.
+Wir planen eine kulinarische Reise nach Italien im Sommer.
+Die vegetarischen Optionen in diesem Bistro sind ziemlich limitiert.
+Ich liebe es, wenn man beim Kochen entspannte Musik hört.
+Hast du schon mal an einem Kochkurs teilgenommen?
+Hast du schonmal Ravioli selbst gemacht?
+Der Burger beim Italiener um die Ecke ist übel gut.
+Ich verzichte seit letztem Jahr komplett auf Zucker.
+Mutter macht immer noch das beste Sauerkraut.
+Wir grillen am Samstagabend wieder wie jeder Sonntag.
+Kannst du mir das Rezept für den Chili con Carne schicken?
+Die Pizza aus dem Ofen war leider zu trocken.
+Ich probiere gerne neue Gewürze beim Kochen aus.
+Unser Nachbar hat uns seine selbstgemachte Marmelade geschenkt.
+Das Sushi von gestern hatte echt frischen Fisch drin.
+Ich haue immer wieder in die Pfanne, wenn ich wütend bin.
+Hast du Milch im Kühlschrank für den Kaffee?
+Der Käse vom Bauernhof schmeckt einfach anders als Supermarktware.
+Wir bestellen heute Abend lieber etwas Asiatisches zu Hause.
+Das Brot war noch warm aus dem Ofen, lecker!
+Ich muss mir dringend einen neuen Topf kaufen.
+Die Suppe war eine echte Wohltat an dem kalten Tag.
+Kannst du beim Einkauf mal Joghurt mitnehmen, bitte?
+Essen macht einfach mehr Spaß als allein zu kochen.
+Das Rouladen-Rezept von Oma ist ein echter Klassiker hier.
+Wir versuchen uns gerade an einer Low-Carb-Ernährung.
+Der Kaffeeautomat im Büro geht schon wieder nicht.
+Ich mag keinen Ingwer in meinen Smoothies, finde ich bitter.
+Hast du Lust auf einen Spaghetti-Bolognese-Abend mit mir?
+Meine Mama macht den besten Apfelkuchen der Welt.
+Hast du schon mal probiert mit Soja zu kochen?
+Das neue italienische Restaurant in der Stadt sieht super aus.
+Ich esse jetzt seit zwei Wochen komplett vegetarisch.
+Kannst du mir das Rezept für deine Lasagne schicken?
+Der Bäcker um die Ecke hat frische Croissants im Angebot.
+Wir grillen heuteabend Bratwurst und Pommes im Garten.
+Mir fehlt einfach der Geschmack von echtem Parmesan Käse.
+Das Sushi aus dem Asiamarkt war tatsächlich ganz lecker.
+Ich versuche gerade mehr Gemüse in meine Mahlzeiten zu integrieren.
+Hast du Lust, dass wir zusammen einen Gulaschsuppe kochen?
+Die Dönerbude an der Ecke ist immer riesig voll.
+Ich hasse es, wenn jemand Zwiebeln in mein Essen hackt.
+Mein Kollege empfiehlt das neue Steakhouse in der Innenstadt.
+Wir haben gestern Abend Pizza von zu Hause aus gegessen.
+Kann man eigentlich Linsen ohne Ei und Milch garen?
+Das Eis vom Straßenhändler schmeckt nach echtem Vanille.
+Ich probiere nächste Woche mal japanische Küche im Restaurant.
+Die Kartoffelsuppe war leider etwas zu salzig für meinen Geschmack.
+Wir planen eine kleine Kochparty für dieses Wochenende.
+Mir geht es besser, wenn ich weniger Zucker esse.
+Hast du schonmal probiert, deinen eigenen Joghurt herzustellen?
+Der Kaffee am Morgen ist einfach nicht zu ersetzen.
+Ich kaufe meine Kartoffeln immer auf dem Wochenmarkt ein.
+Das Burgerrestaurant hat wirklich saftige Fleischbällchen im Angebot.
+Die Lasagne ist im Ofen und duhn so gut.
+Hast du das neue italienische Lokal in der Altstadt schon getestet?
+Ich versuche mich gerade an fermentiertem Gemüse für die Darmflora.
+Meine Oma hat den besten Kartoffelsalat mit Essig und Öl gemacht.
+Kann ich dir die Zutatenliste für das Chili con Carne schicken?
+Wir grillen am Wochenende wieder, bring doch mal dein Lieblingsbier mit.
+Der Döner vom Kiosk an der Ecke ist wirklich unschlagbar.
+Ich hab mir endlich eine richtige Spargelform zugelegt für diesen Sommer.
+Vegan kochen klingt kompliziert, aber Pasta mit Tomatensoße geht super einfach.
+Die Croissants beim Bäcker um die Ecke schmecken nach Frankreich.
+Ich muss aufpassen mit dem Salz bei den Nudeln sonst wirds zu salzig.
+Hast du einen guten Tipp für glutenfreie Backmischungen zum Geburtstagstortenbacken?
+Wir haben gestern wieder Pizza gemacht, jeder darf seinen Belag selbst wählen.
+Das Rinderbratenvielfalt im Supermarkt ist echt beeindruckend geworden letztes Jahr.
+Ich probiere gerade das Airfryer Rezept für Zucchini Chips aus und bin begeistert.
+Kannst du mir sagen wie man die Hähnchenbrust am besten marinieren muss?
+Die Kaffeehauskultur hier in Wien ist wirklich etwas ganz besonderes für mich.
+Wir bestellen heute Abend wieder Sushi weil ich keine Lust zum Kochen habe.
+Der Apfelkuchen meiner Mutter war immer das Highlight bei jedem Familientreffen.
+Ich achte darauf dass wir weniger Fleisch und mehr Hülsenfrüchte essen heutzutage.
+Hast du schonmal das neue Restaurant mit dem open kitchen Konzept besucht?
+Die Sauerkrautgerichte im Herbst sind einfach unverzichtbar für mich persönlich.
+Wir machen dieses Jahr wieder einen großen Grillabend mit Freunden im Garten.
+Der frische Lauch aus dem eigenen Gemüsegarten schmeckt wirklich unbeschreiblich gut.
+Ich suche noch nach einem guten Rezept für schnell zubereitete Mittagessen.
+Meine Oma zaubert immer die besten Kartoffelpüree.
+Ich muss dringend mal wieder Pizza bestellen.
+Der neue Sushi-Lieferant hat echt frischen Fisch.
+Wir kochen heute abend gemeinsam einen Eintopf.
+Vorsicht, das Curry ist ziemlich scharf gewürzt.
+Hab zufällig noch zwei Eier im Kühlschrank rumliegen.
+Das Steak war leider viel zu trocken für meinen Geschmack.
+Ich versuche grad eine vegane Variante vom Lasagne.
+Kaffee am Morgen ohne Milchschaum geht einfach nicht.
+Die Brötchen vom Bäcker um die Ecke sind top.
+Mein Freund kann leider gar nicht richtig Spaghetti machen.
+Wir planen nächsten Monat einen Kochkurs in München.
+Ich hasse es, wenn Gemüse zu weich gekocht wird.
+Hast du das Rezept für den Apfelstrudel nochmal?
+Der Döner im Stadtzentrum schmeckt mir am besten.
+Ich kaufe ab jetzt nur noch Bio-Gemüse vom Markt.
+Die Suppe war zwar warm, aber komplett ohne Geschmack.
+Wir grillen samstags definitiv wieder Burger mit Freunden.
+Meine Nichte isst endlich mal Brokkoli ohne zu murren.
+Schneller Kochlöffel gesucht, der alte ist kaputt gegangen.
+Das italienische Restaurant in der Altstadt ist super gemütlich.
+Ich probiere morgen mal selbst gebackenes Brot ausprobiert.
+Der Kaffeeautomat streikt schon wieder zum Frühstück.
+Wir suchen noch ein passendes Dessert zum Festessen.
+Mein Hund darf leider kein Schokolade zum Geburtstag bekommen.
+Hab mal wieder zu viel Gemüse gekauft, was kocht man denn daraus?
+Meine Oma hat ein geniales Rezept für Apfelkuchen.
+Ich kann ohne mein Abendbrot einfach nicht einschlafen.
+Hast du schon das neue italienische Lokal probiert?
+Der Döner um die Ecke ist immer noch der Beste.
+Wir machen heute Abend zusammen Pasta mit Pesto.
+Mein Freund versucht gerade, den perfekten Bratapfel zu backen.
+Ich hab mir für diese Woche Meal Prep vorbereitet.
+Das Essen war leider viel zu salzig für meinen Geschmack.
+Kennst du eine gute Alternative zu Sojamilch?
+Ich liebe es, wenn ich im Winter mal deftig schmoren kann.
+Die Kugeln bei dem Backkurs waren absoluter Wahnsinn.
+Hast du schon die neuen Bio-Käsesorten ausprobiert?
+Ich habe keine Lust mehr auf Instant-Nudeln zu essen.
+Unser Nachbarsrestaurant macht den besten Bolognese-Soße überhaupt.
+Kannst du mir mal deine Gewürzmischung für Curry geben?
+Wir haben gestern zum ersten Mal Sushi zu Hause gemacht.
+Der Kuchen war etwas trocken, vielleicht zu lang gebacken.
+Ich vermisse wirklich die street food vom Sommerfest.
+Falls wir heute nichts kochen wollen, bestellen wir einfach Pizza.
+Meine Schwester backt am Wochenende immer wieder ihre Marmorkuchen.
+Das neue Smoothie-Rezept mit Beeren und Ingwer ist super erfrischend.
+Ich achte seit Kurzem bewusst auf weniger Zucker im Haushalt.
+Hast du eine Empfehlung für einen guten Weinhändler in der Stadt?
+Wir grillen heute Abend mal wieder die klassischen Bratwürste.
+Meine Oma kocht den besten Apfelstrudel der Welt.
+Hast du schon mal probiert wie süß Spargel schmeckt?
+Ich kaufe immer Bio Gemüse weil es besser schmeckt.
+Das Currywurst Rezept meiner Tante ist einfach genial.
+Wir essen heute Abend wieder nur Nudeln mit Tomatensoße.
+Kannst du mir das Rezept für deinen Brownie schicken?
+Der neue Burgerladen am Markt bietet geile Angebote.
+Ich versuche mich gerade mehr pflanzlich zu ernähren.
+Sushi im Supermarkt ist leider meist ziemlich schlecht.
+Mein Mann kann kein Spaghetti bolognese richtig kochen.
+Hast du Lust auf einen gemeinsamen Kochabend morgen?
+Die Pizza vom Italiener in der Altstadt ist top.
+Ich habe zu viel Zucker in den Kuchen getan.
+Wir bestellen heute abend einfach nur wieder Currywurst.
+Ketchup oder Senf dazu das ist immer eine Frage.
+Meine Freundin backt am Sonntag immer frische Brötchen.
+Das vegetarische Menü im Restaurant war überraschend lecker.
+Ich hasse es wenn andere in meiner Küche kochen.
+Der Kaffee hier schmeckt wirklich nach Bohnen und nichts anderem.
+Hast du schon die neue Kreation der Konditorei probiert?
+Wir grillen heute Abend Steak vom Rind und Hühchen.
+Die Suppe vom Vorabend ist am nächsten Tag oft besser.
+Ich vermisse den Geschmack von frischen Erdbeeren im Sommer.
+Mein Bruder kocht immer nur Instantnudeln zum Abendessen.
+Das Essen auf der Party war wirklich üppig und lecker.
+Hast du zufällig noch Joghurt für mich?
+Die Currywurst beim Imbiss schmeckt immer gleich gut.
+Ich habe den Kuchen im Ofen vergessen und er ist verbrannt.
+Kannst du mir mal dein Nudelrezept schicken?
+Am Wochenende mache ich gerne einen großen Salat.
+Der Piznapfel mit Vanilleeis war ein Traum.
+Wir bestellen heute Abend wieder beim chinesischen Lieferservice.
+Mein Vater kocht die besten Bohnen mit Wurst.
+Ich versuche gerade, weniger Süßigkeiten zu essen.
+Das Schnitzel war leider viel zu trocken gebraten.
+Hast du schon mal Probieren vom neuen Burgerladen?
+Ich brauche dringend eine Idee für ein Abendessen.
+Die Spaghetti Bolognese schmeckt am zweiten Tag besser.
+Wir laden die Nachbarn zum grillen ein am Samstag.
+Meine Oma macht immer diesen leckeren Apfelstrudel.
+Ich esse heute nur noch Obst und Gemüse.
+Der Döner in der Altstadt ist wirklich empfehlenswert.
+Hast du Salz Pfeffer und Öl zu Hause?
+Ich koche heute Abend wieder nur Nudeln mit Tomate.
+Das Eis aus dem Kühlschrank war leider schon warm.
+Wir suchen ein Restaurant mit tollem Weinangebot.
+Meine Suppe war etwas salziger als geplant geworden.
+Kann ich dir beim Einkauf später noch helfen?
+Die Bratwürste waren am Grill perfekt gegrillt.
+Ich probiere gerne neue asiatische Gewürzmischungen aus.
+Meine Oma hat den besten Apfelstrudel der Welt gebacken.
+Ich muss unbedingt das Pasta-Rezept mal testen.
+Das neue asiatische Restaurant hier ist total empfehlenswert.
+Ich verzichte seit letztem Jahr komplett auf Fleisch.
+Die Kartoffelsuppe schmeckt immer so tröstlich im Winter.
+Wir haben letzte Woche wieder Sushi bestellt und genossen.
+Probier mal diese neue Sojasauce, die ist genial.
+Mein Freund kann leider gar nicht richtig Braten zubereiten.
+Ich hab heute Abend nur einen kleinen Joghurt gegessen.
+Der Bäcker nebenan macht super frische Croissants jeden Morgen.
+Hast du schonmal von fermentierten Lebensmitteln gehört?
+Ich such ein gutes Rezept für schnelle Pfannengerichte.
+Die Pizza in der Innenstadt ist echt üppig belegt.
+Mir fehlt die Zeit zum täglichen Essen kochen.
+Wir feiern Geburtstag mit selbstgemachten Spargelsticks und Sauce.
+Das Döner-Messer beim Schneiden war wirklich stumpf gestern.
+Ich versuche gerade mehr Gemüse in meinen Teller zu bekommen.
+Die Weinprobe im Weingut war ein tolles Erlebnis für uns.
+Kannst du mir sagen, woraus dein Hummus genau besteht?
+Ich hasse es, wenn das Essen im Ofen angebrannt ist.
+Das Café Ecke Hauptstraße hat hervorragenden Kaffee und Kuchen.
+Wir müssen mal wieder Grillabend machen, lange her.
+Ich mag keinen Fisch, aber die Garnelen waren okay.
+Die Rezepte aus dem Kochbuch sind oft zu kompliziert für mich.
+Hast du eigentlich das Rezept für den Lasagne-Topf?
+Mir schmeckt der Döner hier echt viel besser als anderswo.
+Ich versuche gerade, meine Zuckerzufuhr langsam zu reduzieren.
+Das Brot vom Bäcker um die Ecke ist goldbraun.
+Kannst du mir mal deine Ramen-Suppe-Rezept zuschicken?
+Wir essen heute Abend nur noch resteverwertungspasta.
+Die Currywurst mit Ketchup ist einfach mein Lieblingssnack.
+Hab zufällig ein tolles italienisches Lokal in Berlin entdeckt.
+Meine Oma kocht den besten Punschkrapfen der Welt.
+Ich mag es, wenn das Gemüse noch bissfest bleibt.
+Soll ich für das Buffet mal was Salatartiges mitbringen?
+Das Fleisch war leider etwas zäh und trocken geschnitten.
+Wir grillen am Wochenende wieder Bratwurst mit Senf dazu.
+Hast du schonmal von fermentierten Lebensmitteln gehört oder nicht?
+Die Pizza aus dem Ofen duftete die ganze Wohnung.
+Ich kaufe meine Lebensmittel lieber bio, wenn möglich.
+Der Tafelspitz im Schwarzwald war ein echtes Highlight.
+Kann ich dir beim Kochen der Soja-Joghurt helfen?
+Mein Mann bereitet immer das Frühstück am Sonntag vor.
+Das Eis aus dem Gewerbegebiet schmeckt wie chemisch.
+Wir planen für den Sommer eine Fastenwoche zusammen.
+Die Spargelzeit ist hier bei uns einfach zu genießen.
+Hast du noch einen guten Tipp für vegane Burgerbuns?
+Ich koche heute mal etwas Exotisches, vielleicht Currysuppe.
+Das Restaurant unten war total voll und laut gestern.
+Mir fehlen einfach die Zeit zum gesunden Kochen.
+Ich muss echt öfter mal einkaufen gehen.
+Mein Cousin hat diese unglaubliche Currywurst gemacht.
+Kannst du mir das Rezept für den Auflauf schicken?
+Am Ende waren die Nudeln doch etwas zu weich.
+Wir bestellen heute Abend lieber wieder aus dem griechischen Laden.
+Die neuen Smoothie-Mixer sind total praktisch im Alltag.
+Ich vermisste einfach meine Großmutters Sauerkraut.
+Hast du schon mal richtig guten Hummus probiert?
+Das Brötchen war leider viel zu trocken geworden.
+Wir überlegen uns gerade, was wir zum Grillen machen sollen.
+Mein Freund kann überhaupt nicht wirklich gut kochen.
+Die Beilage passte irgendwie gar nicht zum Fleisch.
+Ich esse heute nur noch Salat und Obst dazu.
+Hast du zufällig noch etwas von dem Pestosauce?
+Das Restaurant in der Altstadt hat super Ambiente.
+Wir backen diesen Sonntag zusammen wieder frische Brötchen.
+Der Käse auf dem Brot war einfach himmlisch.
+Kann ich dir bei der Vorbereitung des Abends helfen?
+Ich hasse es, wenn Zwiebeln meine Augen tränen lassen.
+Die Suppe schmeckte nach viel Liebe und Geduld.
+Hast du eine Alternative zu Sojamilch für den Kaffee?
+Wir haben gestern Abend Pizza aus dem Ofen gegessen.
+Das Fleisch war außen knusprig und innen rosa.
+Ich probiere nächste Woche dieses neue japanische Menü aus.
+Die Kartoffeln waren total salzig und gut gewürzt.
+Kannst du mal das Curry mit Reis anmachen?
+Das neue Asia-Restaurant ist total überbewertet.
+Meine Oma gibt mir immer ihre Riesenkartoffel-Rezept.
+Wir grillen heute abend einfach nur Bratwurst.
+Hast du schon mal selbst gemacht Marmelade probiert?
+Der Bäcker um die Ecke hat super Frischkäsebrötchen.
+Ich versuche gerade, mehr pflanzliche Proteine zu essen.
+Die Lasagne ist noch im Ofen, riecht mega gut.
+Möchtest du mir beim Schneiden der Zwiebeln helfen?
+Wir bestellen heute wieder bei unserem Lieblings-Lieferservice.
+Das Dessert war leider etwas zu süß für meinen Geschmack.
+Ich hasse es, wenn das Ei am Topf kleben bleibt.
+Gibts in deiner Stadt auch so gute Döner-Imbisse?
+Mein Mann kocht nur noch Pasta, ist aber fein.
+Wir haben gestern Abend zum ersten Mal gejoint gekocht.
+Die Pilze waren schon etwas welk im Supermarkt.
+Ich mag keine Knoblauch, sonst schmeckt mans Tage.
+Hör auf mit dem Stochern im Essen, wir essen doch.
+Das Café hat wirklich den besten Kuchen der Stadt.
+Kann ich dir das Rezept für die Soße schicken?
+Wir sparen Zeit, indem wir am Sonntag viel kochen.
+Der Kellner war super freundlich und sehr aufmerksame.
+Ich vermisste so sehr meine Mamas Apfelstrudel daheim.
+Probier mal das neue Menü im Hotel nebenan.
+Ich brate gerade Spaghetti Bolognese für die Familie.
+Hast du zufällig noch etwas Tomatenmark da?
+Das Currywurst-Imbiss am Bahnhof schmeckt immer super.
+Wir gehen heute Abend auf Pizza, ich bin so hungrig.
+Meine Nudeln sind wieder zu weich geworden, doof.
+Soll ich für den Grill die Würstchen besorgen?
+Die veganen Burger bei der neuen Kette sind okay.
+Ich habe die Zutatenliste im Bild gespeichert.
+Kannst du mir das Rezept vom Apfelkuchen schicken?
+Lachs passt super dazu, denke ich mal.
+Wir machen ab Montag wieder Low Carb Essen.
+Das Eis vom Aldi ist eigentlich ganz nicht schlecht.
+Hast du schon mal von dieser neuen Kneife gehört?
+Ich mag es, wenn die Kartoffelsuppe wirklich pikant ist.
+Der Bäcker macht seit Jahren beste Croissants für uns.
+Wir müssen endlich mal zusammen kochen und trinken.
+Mein Opa zaubert am Wochenende immer deftigen Gulasch.
+Käsespätzle sind mein absolutes Lieblingsgericht zum Abendessen.
+Die Pizza hat leider etwas zu lange im Ofen gelegen.
+Ich suche ein gutes Rezept für schnelle Pfannengerichte.
+Sollen wir morgen mal gemeinsam einen Bratlauch probieren?
+Das Gericht war zwar einfach, aber wirklich sehr lecker.
+Wir haben uns vorgenommen, weniger Fleisch zu essen.
+Die Soße braucht noch mindestens zehn Minuten Siedezeit.
+Hast du schon den Kuchen aus dem Backofen geholt?
+Ich kann nicht ohne meinen morgendlichen Kaffee starten.
+Mein Cousin kocht das beste Rouladenrezept von Oma.
+Ich hab gestern Pizza mit Ziegenkäse gebacken.
+Wir gehen morgen Abend auf jeden Fall Sushi essen.
+Kannst du mir das Rezept für den Apfelkuchen schicken?
+Das Currywurstbrot war echt saftig und lecker.
+Ich versuche seit einer Woche nur noch zuhause zu kochen.
+Hast du schon mal frischen Spargel mit Hollandaise probiert?
+Der Döner hier in der Ecke ist überbewertet.
+Wir machen am Wochenende zusammen einen Chinesischnitzel-Abend.
+Ich kann einfach kein Hühnchen mehr leiden nachts.
+Das Tiramisu im Café um die Ecke schmeckt himmlisch.
+Hast du einen Tipp für schnelles Abendessen heute?
+Mein Vater grillt sonntags immer dicke Bratwürste.
+Die neuen veganen Burger sind gar nicht so schlecht.
+Ich hab zu viel Salz in den Kartoffelsalat getan.
+Lass uns doch mal japanisch essen gehen am Freitag.
+Der Kuchen hat im Ofen leider etwas angekokelt.
+Kann ich dir helfen, die Zwiebeln für das Rezept zu schälen?
+Wir trinken zum Essen immer nur Wasser mit Zitronensaft.
+Das Gericht war total gewürzt und richtig scharf.
+Hast du Milch oder Joghurt noch im Kühlschrank?
+Meine Freundin backt jeden Sonntag frisches Brot selbst.
+Ich würde jetzt am liebsten einen großen Teller Spaghetti essen.
+Der Fisch vom Markt war heute wirklich super frisch.
+Hast du zufällig eine gute Rezeptseite für Rouladen?
+Meine Bolognese braucht einfach länger als gedacht heute.
+Das neue italienische Restaurant unten um die Ecke ist super.
+Ich muss dringend mal wieder meine Gewürze checken.
+Kannst du mir den Link zu dem Curryrezept nochmal schicken?
+Wir machen am Wochenende zusammen einen großen Auflauf.
+Der Käse vom Bergbauern hat wirklich ein tolles Aroma.
+Hab heute zum ersten Mal gebratene Gurken ausprobiert, wow.
+Suche eine Alternative für Sojasoja in der Bolognese eigentlich.
+Das Brot vom Bäcker schmeckt viel besser als das aus dem Supermarkt.
+Die Pasta muss echt schön al dente sein im Endeffekt.
+Hast du schonmal selbst Pizzateig gebacken oder nur gekauft?
+Mein Vater kocht die besten Gulaschsuppen die es gibt.
+Ich verzichte seit letztem Monat komplett auf rotes Fleisch jetzt.
+Das Eis vom Spätkauf war überraschend lecker gestern Abend.
+Welches Öl nimmst du denn für dein Brot zum Bestreichen?
+Wir haben zu viel Gemüse eingekauft, was kochen wir da?
+Der Geruch von frischem Koriander geht mir echt auf den Schlau.
+Kann ich bei dir vorbeikommen wenn du wieder Chili machst?
+Das Dessert war einfach nur der Hammer ehrlich gesagt.
+Ich hasse es eigentlich wenn die Zwiebeln in der Pfanne kleben.
+Hast du eine Idee was man mit übrig gebliebenem Reis macht?
+Die Nudeln waren leider total matschig nach dem Abtropfen echt schade.
+Meine Großmutter hat immer nur nach ihrem alten Rezept gekocht streng.
+Ich hab den ganzen Tag über diesen Duft von frischem Brot gewebt.
+Meine Oma zaubert immer die besten Knödel aus lauter Semmelbröseln.
+Hast du schonmal probiert, wie gut selbstgemachte Pizza schmeckt?
+Wir gehen heute Abend mal wieder in dieses neue Asia Restaurant.
+Der Rouladenrezept von meiner Mama ist einfach unvergleichlich und lecker.
+Ich versuche gerade mich bewusster zu ernähren und esse mehr Gemüse.
+Die Currywurst im Imbiss vor der Uni schmeckt nach wie vor am besten.
+Hilft es eigentlich, wenn man Fleisch über Nacht in Rotwein einlegt?
+Mein Mann kann zwar nicht kochen, aber er röstet perfekte Brötchen.
+Ich finde diesen Trend mit Superfoods total übertrieben und unnötig teuer.
+Gestern Abend haben wir einfach nur Nudeln mit Tomatensauce gegessen.
+Kannst du mir mal die Zutatenliste für dein Zucchinibrot schicken?
+Das Steak war leider viel zu roh für meinen Geschmack gebraten worden.
+Wir planen für Samstag einen kleinen Grillabend im Garten vorzubereiten.
+Ich hasse es, wenn Joghurt schon nach zwei Tagen in der Milch sauer wird.
+Die Flammkuchen von diesem französischen Bistro sind wirklich eine Empfehlung wert.
+Heute muss ich wieder einkaufen gehen, denn mir geht alles aus.
+Hast du eine Idee, was man mit übrig gebliebenem Hähnchenfleisch machen kann?
+Meine Schwester backt jeden Sonntag Muffins und bringt sie uns mit vorbei.
+Der Kaffeeautomat im Büro liefert endlich mal wieder ordentlichen Espresso heute.
+Ich liebe es, abends einfach nur Popcorn vor dem Fernsehen zu essen.
+Diese veganen Burger sehen zwar nett aus, schmecken aber halt nach nichts.
+Wir haben gestern Abend probiert, Sushi ganz selbstständig zusammenzustellen.
+Frische Krümmel zum Streuen machen den Unterschied bei jedem Kuchen definitiv.
+Ich vermisste echt die frischen Erdbeeren im Winter hierzulande sehr stark.
+Die Pizza vom Italiener rund um die Ecke schmeckt immer super.
+Ich muss dringend mal wieder properen gehen, der Kühlschrank ist leer.
+Mein Opa kann den besten Kartoffelsalat kochen, das Rezept ist legendär.
+Hast du schon probiert, ob die neuen Veggie Burger gut sind?
+Ich esse heute nur noch Salat und trinke viel Wasser dazu.
+Das Fleisch im Restaurant war leider ziemlich zäh, wirklich schade.
+Wir grillen am Wochenende vielleicht mal wieder Bratwürste auf dem Balkon.
+Die Dönerbude nebenan hat jetzt auch Falafel auf der Karte.
+Ich finde italienisches Eis einfach unbändig besser als das hier.
+Kannst du mir das Rezept für deine Kuchen nochmal schicken?
+Gestern Abend hatten wir einfach nur Nudeln mit Tomatensoße.
+Das Sushi im neuen Laden kostet zwar viel, aber es lohnt sich.
+Ich versuche mich gerade vegetarisch zu ernähren, ist ganz schön anstrengend.
+Die Apfeltaschen bei Oma sind immer noch mein absolutes Lieblingsgebäck.
+Hast du schon mal Thailändisch probiert? Ich finde die Aromen genial.
+Wir machen heute Abend einfach nur schnell Spaghetti Bolognese.
+Der Kaffee hier ist richtig kräftig, genau wie ich ihn mag.
+Ich hasse es, wenn die Pasta zu weich gekocht wird.
+Das neue Burger-Restaurant im Zentrum hat echt gutes Fleisch.
+Mir steht ganz schön nach einer Schüssel warmen Chili.
+Die selbstgemachte Marmelade schmeckt einfach viel besser als die vom Supermarkt.
+Ich esse morgens immer nur ein paar Kekse und Kaffee.
+Das Essen im Flieger war dieses Mal wirklich gar nicht so schlecht.
+Probiert mal die frischen Beeren bei der Wochenendreise, sie sind süß.
+Ich hab mir gestern ein paar Spaghetti gekocht.
+Der neue Italiener ums Eck hat richtig gutes Essen.
+Meine Oma ist die Beste beim Kuchen backen.
+Das Brot vom Bäcker um die Ecke riecht immer so gut.
+Ich mag eigentlich keine Fisch, aber der Lachs war lecker.
+Hast du das Rezept für den Apfelstrudel noch?
+Wir haben letzte Woche vegan gegessen, war nicht schlecht.
+Der Currywurst Stand in Berlin ist total überbewertet.
+Ich koche am Wochenende immer was Großes für die Familie.
+Die Pizza vom Italiener um die Ecke ist einfach der Hammer.
+Kannst du mir empfehlen, wie man gutes Risotto macht?
+Ich esse eigentlich nur noch vegane Produkte seit letztem Jahr.
+Der Weihnachtsmarkt in München hat das beste Bratwurst.
+Mein Mann kann gar nicht kochen, er brennt alles an.
+Wir haben heute Abend Currywings mit Pommes gegessen.
+Das Café auf dem Marktplatz macht den besten Kaffee.
+Ich versuche gerade, weniger Zucker in meine Ernährung zu integrieren.
+Die Maultaschen von der Großmutter schmecken nach Hause.
+Hast du schon mal probiert, selbst Brot zu backen?
+Das Restaurant am See hat eine tolle Aussicht und gutes Essen.
+Ich mag es nicht, wenn das Fleisch im Restaurant trocken ist.
+Wir haben gestern abend Sushi bestellt und waren sehr zufrieden.
+Der Kuchen vom Fest war wirklich lecker, vielen Dank dafür.
+Ich suche nach einem guten Rezept für glutenfreie Kekse.
+Koch mal diese Bolognese nach, die ist mega gut.
+Ich hab keine Lust mehr auf Instant-Nudeln jeden Abend.
+Das neue griechische Restaurant in der Altstadt ist top.
+Mein Freund kann eigentlich nicht mal einen Salat schneiden.
+Wir machen am Wochenende ein großes Grillfest mit Freunden.
+Die Dönerbude an der Ecke hat den besten Flammenkäs.
+Ich lerne gerade erst, wie man Ravioli richtig formt.
+Essen gehen ist teuer, aber heute geb ich mir das mal.
+Meine Oma macht immer noch die besten Apfelstrudeln von Hand.
+Wir haben gestern zum ersten Mal Sushi selbst zubereitet.
+Kannst du mir deine Rezeptkarte für den Lasagne schicken?
+Ich versuche gerade, pflanzliche Burger zu Hause nachzumachen.
+Das Café in der Bahnhofstraße hat wirklich guten Kaffee.
+Mir schmeckt dieser Käse einfach nicht, er ist zu scharf.
+Wir bestellen heute Abend wieder von unserer Lieblings-Thai-Küche.
+Hab den Ofen eingeschaltet, die Pizza wird gleich fertig.
+Diese regionale Suppe mit Würstchen muss ich unbedingt probieren.
+Ich kaufe immer mein Obst direkt vom Markt an der Ecke.
+Der Nachtisch war leider etwas zu süß für meinen Geschmack.
+Kochst du auch gerne asiatische Gerichte oder eher italienisch?
+Mein neuer Smoothie aus Beeren und Spinat schmeckt überraschend gut.
+Wir haben den ganzen Tag über am Kuchen gebacken.
+Das Fleisch hier ist viel zarter als in der anderen Kette.
+Ich habe vergessen, das Brot zu kaufen, Mist wirklich.
+Probier mal diesen Senf dazu, er passt super zum Braten.
+Ich hab zufällig das beste Ramen Rezept gefunden.
+Meine Mama kocht immer noch so wie früher.
+Das new Burger Joint war leider überpreist.
+Ich versuche gerade auf Zucker zu verzichten.
+Die Spaghetti Bolognese schmeckt einfach besser aus der Dose.
+Wir haben die ganze Nacht Pizza gemacht.
+Kennst du einen guten Bäcker in deiner Gegend?
+Ich hasse es wenn jemand Salami mit Käse isst.
+Das Curry war viel zu scharf für mich.
+Mein neuer Freund kann gar nicht kochen wirklich.
+Wir bestellen heute Abend wieder vom Italiener um die Ecke.
+Ich muss dringend meine Ernährung umstellen weil ich müde bin.
+Hast du noch Reste von dem Kartoffelsalat da?
+Das Essen im Büro ist total langweilig geworden.
+Ich probiere morgen mal dieses neue Smoothie Rezept aus.
+Wir laden uns am Wochenende zum Kochen ein.
+Der Sushi Takeaway war leider schon kalt als wir kamen.
+Ich kann einfach nicht auf Schokolade verzichten abends.
+Meine Omi macht die besten Apfelstrudel der Welt.
+Soll ich mal wieder das Chili con Carne machen?
+Das Restaurant hatte einen unglaublichen Blick über die Stadt.
+Ich esse jetzt nur noch pflanzlich seit zwei Wochen.
+Der Kuchen war trocken aber der Kaffee hat gepasst.
+Wir haben das erste Mal selbst Spaghetti gemacht und es hat funktioniert.
+Der Döner hier ist echt der Hammer.
+Hast du schon mal japanisches Essen probiert?
+Ich backe dieses Wochenende wieder meinen Lieblingstkuchen.
+Das Currywurstbier im Biergarten schmeckt immer so gut.
+Meine Mama kocht die besten Kartoffelsuppen überhaupt.
+Wir essen heute Abend einfach nur Nudeln mit Butter.
+Kannst du mir das Rezept für den Auflauf schicken?
+Die Spaghetti Bolognese war leider wieder etwas zu salzig.
+Ich versuche gerade, mehr pflanzliche Proteine zu essen.
+Das neue griechische Restaurant hat super frischen Hummus.
+Fällt dir ein einfaches Abendessen mit wenig Aufwand ein?
+Der Käsespätzle ist bei uns ein absolutes Klassengericht.
+Wir laden nächsten Monat zum traditionellen Oktoberfest-Fest ein.
+Mein Freund kann den perfekten Rührei wirklich zubereiten.
+Die veganen Burger in der Stadt werden immer besser.
+Ich habe vergessen, das Brot für morgen zu kaufen.
+Das Eis aus dem Café gegenüber ist einfach himmlisch.
+Wir haben gestern abend gemeinsam Pizza im Ofen gebacken.
+Der Fischmarkt am Hafen bietet jeden Morgen frischen Fang.
+Kochst du gerne asiatisch oder eher italienisch zu Hause?
+Die Suppe des Tages war heute eine klare Hühnerbrühe.
+Ich brauche dringend einen neuen Toaster für mein Brot.
+Das Restaurant hat uns leider wegen Überbelegung abgewiesen.
+Wir probieren diese Woche mal ein thai-rx Rezept aus.
+Der Kaffeeautomat in der Küche ist wieder kaputt gegangen.
+Hast du zufällig das Rezept für die Lasagne?
+Meine Pasta ist wieder mal übergar koch.
+Das new food truck am Bahnhof ist geil.
+Ich hab keine Lust mehr auf Fleischessen.
+Probier mal den Döner mit extra Knoblauchsoße.
+Der Kaffee dort schmeckt einfach nicht richtig.
+Wir laden nächste Woche italienisch zu Hause ein.
+Kannst du bitte das Salz in der Suppe prüfen?
+Mein Cousin backt die besten Donuts überhaupt.
+Ich hasse es, wenn Zwiebeln in der Sauce sind.
+Das Buffet im Hotel war wirklich enttäuschend heute.
+Hast du schon mal von dem neuen Sushi Spot gehört?
+Die Pommes waren leider total kalt und weich.
+Ich versuche jetzt durchgestartet mit mehr Gemüseeintopf.
+Lass uns doch einfach Burger von zuhause bestellen.
+Der Kuchen meiner Oma schmeckt unvergesslich gut bis heute.
+Ich mag keine Pilze auf meinem Steak bitte nicht.
+Das Curry ist mir einfach zu scharf geworden.
+Wir grillen samstags Abend bei uns im Garten zusammen.
+Kann ich dir die Tomatensuppe auch noch mitgeben?
+Das Eis vom Markt hat immer so ein seltsames Aroma.
+Ich koche heute nur noch schnelle Gerichte wie Pasta.
+Hast du eigentlich einen Tipp gegen den Restgeruch?
+Die Brötchen vom Bäcker um die Ecke sind frisch.
+Essen gehen ist zwar lustig aber auch teuer geworden.
+Hast du das Rezept für die Ravioli?
+Ich mag es, wenn der Bäcker noch früh öffnet.
+Meine Nudeln waren heute irgendwie zu weich.
+Wir gehen morgen Abend in dieses neue Thai Essen.
+Der Ofen braucht ewig zum vorheizen, nervt total.
+Kannst du mal Salz nachholen, bitte?
+Ich esse lieber zu Hause als im Restaurant.
+Die Bratäpfel mit Zimt schmecken einfach genial.
+Möchtest du heute Abend auch Spaghetti Bolognese?
+Ich habe versehentlich zu viel Pfeffer reingegeben.
+Das Essen vom Italiener gegenüber ist wirklich gut.
+Wir haben gestern zum ersten Mal Sushi probiert.
+Meine Großmutter kocht noch immer nach alten Rezepten.
+Ich bin schon wieder den ganzen Tag nicht essen gegangen.
+Soll ich das Gemüse in der Pfanne anbraten?
+Der Kuchen hat perfekt vom Blech gelöst, super!
+Ich trinke nur noch Wasser, kein Kaffee mehr.
+Hast du schon mal das neue Menü probiert?
+Mein Pesto ist etwas zu kräftig geworden heute.
+Wir bestellen morgen wieder Pizza von der Lieferstelle.
+Die Suppe war leider nicht warm genug serviert.
+Ich hasse es, wenn ich das Gemüse putzen muss.
+Kann jemand mir beim Abwasch heute Abend helfen?
+Das Fleisch war zarter als gedacht, wow!
+Wir feiern Geburtstag und backen einen Kuchen zusammen.
+Die Pizza vom Italiener um die Ecke ist immer noch die beste.
+Ich hab das Rezept für den Apfelstrudel aus der Großmutters Büchse genommen.
+Kannst du mir sagen wo ich frische Basilikumzweige herbekomme?
+Mein Freund findet alle asiatischen Gerichte extrem scharf und scharf.
+Wir gehen heute Abend wieder zum neuen Sushi Spot in der Innenstadt.
+Das Rindergulasch braucht wirklich mindestens drei Stunden Schmortzeit auf dem Herd.
+Ich versuche seit einer Woche komplett ohne Zucker auszukommen.
+Die Spargel mit Trüffeln war einfach nur ein Traum am Tisch.
+Hab vergessen dass ich für das Brötchen Sauerteig ansetzen muss.
+Kochst du lieber nach Rezept oder machst du alles intuitiv im Topf?
+Das veganen Burger Menü hier schmeckt eigentlich gar nicht pflanzlich.
+Der Kaffee in der Ecke war leider zu verbrennt und bitter.
+Wir haben heute Abend nur noch Nudeln mit Pesto übrig im Kühlschrank.
+Meine Oma macht den besten Sauerkraut mit Würstchen im Topf.
+Ich finde das neue Salatbuffet in der Firma total nervig lang.
+Das Curry paste war so intensiv dass mir die Tränen kamen.
+Kennst du jemanden der ein paar Knoblauchzehen abgeben könnte?
+Ich backe am Sonntag immer diese knusprigen Kürbiskuchen Muffins.
+Der Service im japanischen Restaurant war heute irgendwie langsam und unpersönlich.
+Wir probieren morgen Abend mal das neue Thai Lokal in der Altstadt.
+Das Eiweiß ist bei mir leider wieder nicht so richtig fest geworden.
+Ich hasse es wenn die Tomaten in der Suppe noch so hart sind.
+Die Bratwurst vom Grill stand einfach auf dem Programm heute Abend.
+Findest du den Dillgeschmack an dem Lachs auch etwas zu intensiv?
+Ich muss morgen wiederwas für das Bento kochen.
+Hast du das Rezept von der Kichererbsensuppe?
+Der Döner hier in der Bahnhofstraße ist super.
+Meine Oma macht den besten Apfelstrudel immer noch.
+Ich verzichte jetzt schon seit drei Wochen auf Zucker.
+Kannst du mal das Curry mit den Linsen machen?
+Wir gehen heute abend ins neue japanische Lokal.
+Die Sauerkrautvariante mit Wurst war gestern echt lecker.
+Ich hab keine Lust zu kochen und bestelle Pizza.
+Wie lang muss die Suppe eigentlich noch köcheln?
+Das Brot vom Bäcker um die Ecke ist fantastisch.
+Ich esse morgens nur noch Haferflocken mit Beeren dazu.
+Hast du zufällig noch Joghurt von dem neuen Marken?
+Wir haben gestern zum ersten Mal vegan gegessen hier.
+Die Pasta hat mir persönlich etwas zu trocken geschmeckt.
+Kann ich dir beim Abwasch nach dem Abendessen helfen?
+Ich suche gerade ein gutes Buch für schnelle Gerichte.
+Mein Freund kann leider kein Knoblauch in der Küche vertragen.
+Wir laden am Wochenende Freunde zum Grillen hier ein.
+Das Eis vom letzten Besuch war wirklich zu süß.
+Ich versuche mich langsam an das fermentieren von Gemüse.
+Hast du die Zutatenliste für den Kuchen schon geschrieben?
+Die Currywurst im Supermarkt ist doch nicht so gut.
+Mir schmeckt der Fisch nur wenn er frisch gekocht ist.
+Wir haben heute Abend mal wieder Nudeln mit Pesto.
+Mein Cousin hat das beste Dönerbrot der Stadt gebacken.
+Ich hasse es wenn ich vor dem Kochen erst shoppen muss.
+Hast du zufällig noch etwas Joghurt für den Müsli Overnight?
+Die Pizza vom Italiener um die Ecke ist immer super.
+Versuch grad meine Oma Apfelstrudel Rezept nachzukochen ohne Erfolg bisher.
+Wir essen heute Abend einfach nur Nudeln mit Tomatensoße.
+Kannst du mir deine Lieblings Pasta Marken nennen ich bin überfragt.
+Der Burger war leider etwas trocken aber das Eis war ok.
+Ich versuche weniger Zucker in meinen Kaffee zu geben langsam aber sicher.
+Hör auf zu zöbern und hol dir doch nen Teller Suppe raus.
+Meine Katze guckt immer gierig zu wenn ich Fisch filetiere.
+Das neue Menü im Stadtzentrum kostet echt lauter Kohle leider.
+Die Currywurst mit Soße ist mein absolute Notfallessen bei Regen.
+Kann man eigentlich selbstgemachte Pizza einfrieren ohne dass sie matschig wird?
+Mein Vater kocht den besten Bohneneintopf im ganzen Landkreis wirklich.
+Ich mag gar nicht wenn andere Leute meine Gewürze in der Küche anrühren.
+Der Kaffeeautomat in der Büro ist seit Wochen kaputt doof.
+Hast du schon mal das Buch von David Chang gelesen über street food?
+Die frischen Beeren vom Markt sehen wirklich super appetitlich aus heute.
+Deine Lasagne schmeckt viel besser als die vom Osterreicher im Zentrum.
+Wir müssen bald wieder mal einkaufen gehen der Kühlschrank ist leer.
+Meine Mamas Spaghetti Bolognese schmeckt einfach unschlagbar.
+Hab gestern wieder zu viel Pfeffer ins Risotto getan.
+Wollen wir beim Italiener um die Ecke essen?
+Der neue Burger Laden hat wirklich saftige Fleischbratlinge.
+Ich kaufe nur noch Bio Gemüse vom Wochenmarkt.
+Deine Lasagne sah auf dem Foto super lecker aus.
+Wir brauchen für die Party mehr Chips und Dips.
+Kannst du mir das Rezept für deine Apfeltarte schicken?
+Ich hasse es wenn jemand Zwiebeln ins Essen spuckt.
+Das Thai Restaurant hat die beste Tom Kha Suppe.
+Morgen mache ich mal wieder selbst Brot aus Sauerteig.
+Hast du schon mal den neuen Sushi Lieferdienst probiert?
+Mein Freund backt sonntags immer selbst Muffins für uns.
+Die Pasta war heute leider viel zu matschig gekocht.
+Ich versuche mich gerade mehr mit Avocados auseinanderzusetzen.
+Warum gibt es bei dem Caterer keine vegane Option?
+Wir haben die ganze Zeit über das perfekte Burger Brioche diskutiert.
+Die Knödel vom Bayern Hof sind echt knusprig außen.
+Ich koche gerne wenn ich nach Hause komme von der Arbeit.
+Hast du zufällig noch etwas Hummersauce übrig im Kühlschrank?
+Das Buffet im Hotel war total enttäuschend dieses Mal.
+Meine Schwester ist eine richtige Köchin geworden seit ihr Studium.
+Wir müssen bald mal wieder gemeinsam ein Dinner kochen.
+Die Currywurst am Messestand schmeckt mir immer noch am besten.
+Ich finde Olivenöl aus Italien hat einen anderen Geschmack als das spanische.
+Mein Opa zeigt mir das Geheimrezept für seine Saucen.
+Hast du schon mal die neue Currywurststube probiert?
+Ich versuche gerade, pflanzliche Milchalternativen zu testen.
+Die Pizza war leider etwas zu salzig und kalt.
+Wir grillen heute Abend einfach nur Fleisch und Gemüse.
+Kannst du mir das Rezept für deinen Apfelkuchen schicken?
+Ich hasse es, wenn die Soße wieder mal abbricht.
+Im Supermarkt ist wieder alles deutlich teurer geworden.
+Meine Mama kocht immer noch wie vor zwanzig Jahren.
+Das Tiramisu vom Café um die Ecke ist himmlisch.
+Ich esse nur noch bio und regional produzierte Ware.
+Hast du Salz da, ich hab meinen Kochlöffel verloren.
+Die Suppe schmeckt heute irgendwie etwas seltsam nach Kartoffeln.
+Wir bestellen morgen wieder bei dem neuen Griechischen Laden.
+Kichererbsen sind unglaublich vielseitig in der Küche zu verwenden.
+Ich vergesse immer, den Backofen vorher vorzuheizen.
+Das Fleisch war so zart, dass es im Mund zerging.
+Mein Freund kann definitiv besser kochen als ich selbst.
+Wir haben uns gestern Abend einfach nur Pizza gegönnt.
+Die Spargelzeit geht mir schon wieder langsam auf die Nerven.
+Hast du Lust, mit mir zusammen Kuchen zu backen?
+Ich trinke dazu lieber einen guten Rotwein vom Glas.
+Das Eis war geschmolzen, bevor wir es überhaupt probiert haben.
+Mir schmeckt das Essen in der Kantinenküche einfach nicht mehr.
+Kannst du mir mal zeigen, wie man richtig Spaghetti kocht?
+Ich muss heute Abend schnell was aus dem Kühlschrank zaubern.
+Die neuen Pasta-Sorten vom Italiener waren echt lecker.
+Mein Cousin kocht den besten Schweinebraten der Welt.
+Kannst du mir das Rezept für deine Chili con Carne schicken?
+Wir gehen samstags gerne in das kleine japanische Lokal.
+Ich versuche gerade mehr Gemüse in meinen Speiseplan zu integrieren.
+Der Kuchen ist leider etwas zu trocken geworden, ärgerlich.
+Hast du schon mal die neue Speisekarte im Bahnhof gesehen?
+Meine Oma hat immer noch ihren geheimen Gewürzmix dabei.
+Wir bestellen am Freitag wieder Sushi, das lieben wir beide.
+Das Curry von meiner Schwester schmeckt einfach unschlagbar gut.
+Ich kann gar nicht ohne mein morgendliches Toastbrot starten.
+Die Pizza aus dem Ofen war knuspriger als erwartet.
+Kennst du da einen guten Fleischer für frisches Hackfleisch?
+Wir probieren dieses neue Smoothie-Rezept morgen gleich mal aus.
+Der Geruch des frischen Brotes am Markt ist traumhaft.
+Ich esse seit Wochen nur noch vegane Ersatzprodukte, echt blöd.
+Das Rouladen-Rezept war komplizierter als gedacht, aber gelohnt.
+Gibt es hier in der Stadt gute Fischrestaurants?
+Mein Mann macht immer noch die besten Pancakes zum Frühstück.
+Die regionalen Kartoffelsorten schmecken im Sommer am besten.
+Ich hab heute Abend mal wieder zu viel gegessen, peinlich.
+Das neue Restaurant am Marktplatz hat tollen Service und Essen.
+Wir kochen sonntags immer gemeinsam, das macht einfach Spaß.
+Hab endlich das perfekte Spaghetti Bolognese Rezept gefunden.
+Der neue Burger Laden in der Innenstadt ist okay.
+Ich koch lieber selbst als zum Restaurant gehen.
+Kannst du mal dein Chili con Carne Rezept rausrücken?
+Mein Opa macht den besten Schwarzwälder Kirschtorte.
+Wir grillen morgen Abend einfach mal Würstchen im Garten.
+Hast du zufällig noch Sahne für mein Dessert übrig?
+Das Sushi beim Japaner um die Ecke ist echt frisch.
+Ich versuche mich gerade mehr an pflanzliche Ernährung heranzutasten.
+Die Pizza vom Italiener hat wieder mal super geschmeckt.
+Machst du auch immer so viel Aufhebens ums Abendessen kochen?
+Ich hasse es, wenn Gemüse im Ofen angebrannt wird.
+Lass uns doch mal zusammen Pad Thai machen, das klingt lustig.
+Der Käse vom Bauernmarkt ist deutlich besser als aus dem Supermarkt.
+Warum nimmst du immer nur die gleiche Vorspeise bestellt?
+Meine Mama secret sauce für die Bratwürste ist genial.
+Ich habe heute Mittag einfach nur schnell einen Salat gegessen.
+Kann man das Curry auch mit Joghurt statt Kokosmilch machen?
+Das Döner Fleisch war gestern leider etwas zu trocken.
+Wir testen morgen ein neues veganes Lasagne Rezept aus.
+Hast du schon mal den neuen Tacos Stand probiert?
+Ehrlich gesagt, finde ich Sushi überhaupt nicht so meins.
+Der Karpfen mit Kartoffelsalat schmeckt mir einfach nicht.
+Die Spaghetti waren wieder viel zu salzig heute abend.
+Hast du schon mal das neue italienische Restaurant probiert?
+Ich kaufe nur noch regionales Obst im Sommer.
+Mein Pizzateig wird einfach nie so knusprig wie beim Italiener.
+Wir essen in letzter Zeit viel zu wenig Gemüse wirklich.
+Das Rezept aus meiner Großmutter Notizbuch ist ein absoluter Klassiker.
+Kann mir jemand einen guten Tipp für Currywurst geben?
+Ich vermisse so sehr die süßen Asiapartys im Sommer.
+Die Tomatensoße hat heute mal wieder nicht ganz gepasst leider.
+Probiert ihr eigentlich auch mal fleischarme Tage unter der Woche?
+Mein Kaffee war heute Morgen viel zu bitter im Geschmack.
+Das Buffet im Hotel war echt üppig und lecker zugleich.
+Ich habe vergessen das Brot vor dem Backen aufzugehen lassen.
+Welche Gewürze würdest du für das Lammfilet empfehlen eigentlich?
+Wir gehen lieber in kleine Gasthäuser als in Kettenrestaurants.
+Mein Cousin macht immer die besten Bratäpfel im Herbst wirklich.
+Das Sushi vom Asiamarkt ist frisch und sehr empfehlenswert einfach.
+Ich brauche unbedingt ein neues Rezept für schnelle Suppe am Abend.
+Die Pasta hat heute mal wieder viel zu lange gekocht ehrlich gesagt.
+Hast du schon gehört wie teuer die Avocados jetzt geworden sind?
+Mein Vater kocht sein legendäres Rouladen immer nur sonntags abends.
+Das Dessert war zwar schön anzusehen aber geschmacklich einfach langweilig.
+Wir bestellen heute Abend lieber wieder Pizza als selbst zu kochen.
+Der Bäcker hier um die Ecke macht wirklich tolles Brötchenbrot.
+Ich versuche gerade mehr pflanzliche Proteine in meine Ernährung einzubauen.
+Mama kocht heute wieder ihre berühmte Bolognese für uns alle.
+Ich suche ein Rezept für schnellen Nachtisch ohne Backofen.
+Das Sushi von gestern war ehrlich gesagt total durchfallen.
+Wir haben den ganzen Tag über Pizza gegessen, was solls.
+Findest du auch, dass asiatisches Essen oft zu scharf ist?
+Ich versuche gerade, meine eigene Sojasauce selbst herzustellen.
+Der Bäcker um die Ecke macht das beste Croissant der Stadt.
+Hast du schon mal den neuen Burgerladen in der Innenstadt probiert?
+Mein Freund kann leider nicht viel kochen, außer Nudeln mit Öl.
+Wir planen für Sonntag einen gemeinsamen Grillabend im Garten.
+Das Essen im Zug ist immer überbewertet und schrecklich teuer.
+Ich hab mir endlich ein Thermomix zugelegt, freue mich total.
+Kannst du mir die Zutatliste für deinen Apfelstrudel schicken?
+Heute steht wieder mal nur Müsli auf dem Frühstückstisch.
+Die Currywurst vom Stand am Bahnhof ist eigentlich gar nicht schlecht.
+Ich verzichte seit einem Monat komplett auf Fleisch und Fisch.
+Wir müssen dringend wieder mal zum Italiener gehen, vermissen das.
+Dein Kochbuch sieht sehr spannend aus, kann ich es vorbeischaun?
+Die Suppe war leider zu salzig für meinen Geschmack geworden.
+Ich habe vorhin versehentlich zu viel Pfeffer ins Püree getan.
+Kennst du da einen guten Lieferdienst für vegetarische Gerichte?
+Meine Oma secret recipe ist die beste Marmelade der Welt.
+Wir haben beim Umzug alle Gläser kaputt gemacht, doof.
+Das Fleisch vom Metzger war frisch und roch super gut.
+Der Döner im Eckladen ist echt nicht mehr so frisch.
+Hab heute Abend wieder Nudeln mit Pesto gekocht.
+Meine Oma macht den besten Apfelkuchen der Welt.
+Wir haben uns das neue italienische Restaurant vorgenommen.
+Schaumwein zum Frühstück klingt gar nicht mal so schlecht.
+Kannst du mir das Rezept für deinen Dip schicken?
+Ich esse jetzt nur noch vegetarisch, fühlt sich gut an.
+Die Spaghetti Bolognese war wieder mal viel zu salzig.
+Hast du schon mal richtiges Schweinshaxe probiert?
+Wir grillen am Samstag Abend mit den Freunden.
+Der Kaffee vom Automaten schmeckt einfach immer gleich.
+Ich versuche gerade, mein Zucker-Konsum runterzuschrauben.
+Die Currywurst mit Soße ist der absolute Klassiker.
+Morgen backe ich selbstgemachte Pizza, mal sehen wie es wird.
+Finde die veganen Burger oft etwas langweilig im Geschmack.
+Das Rote Grüne Gulasch ist bei uns sehr beliebt.
+Ich hasse es, wenn das Brot in der Mitte so hart ist.
+Wir haben heute Abend asiatisch essen wollen, aber keine Lust mehr.
+Der Apfelsaft vom Bauernhof schmeckt einfach anders als Supermarktware.
+Kann man im Restaurant auch extra scharf bestellen?
+Mein Pasta-Experiment ist wieder einmal komplett misslungen.
+Die regionalen Weine zu den Steaks waren wirklich top.
+Ich suche noch eine Idee für das Buffet am Sonntag.
+Sind die Brötchen bei dir heute schon ausgegangen?
+Das Fondue war gestern Abend echt ein Volltreffer.
+Hab heute Abend wieder nur Nudeln gegessen.
+Das Currywurstfest am Samstag hat mich voll gereizt.
+Kannst du mir das Rezept für deine Brote schicken?
+Meine Oma kocht den besten Eintopf der Welt.
+Ich muss mal aufhören, so viel Fast Food zu essen.
+Wir haben beim Italiener um die Ecke reserviert.
+Der Käsespätzle war leider etwas zu matschig gestern.
+Probier doch mal dieses neue Restaurant in der Innenstadt.
+Ich backe am Wochenende immer meine eigenen Brötchen selbst.
+Das Fleisch vom Metzker vor der Tür ist super frisch.
+Hast du schon die neuen Süßigkeiten von Aldi probiert?
+Mein Mann kann kein Ei kochen, das ist echt lustig.
+Wir essen diese Woche nur noch vegetarisch zum Ausprobieren.
+Die Pizza mit Chili war einfach absolut genial.
+Ich brauche dringend ein neues Rezept für Hühnchenfilet.
+Das Restaurant hat leider sehr lange Lieferzeiten heute.
+Ich habe versehentlich zu viel Salz in die Suppe getan.
+Der Apfelkuchen meiner Mutter ist ungeschlagen im Geschmack.
+Wir gehen morgen Abend gemeinsam ins chinesische Lokal.
+Die vegetarischen Burger vom Supermarkt schmecken eigentlich okay.
+Ich versuche gerade, weniger Zucker in meinem Alltag zu reduzieren.
+Das Essen auf dem Festival war echt überpreist und schlecht.
+Hast du schon mal Sauerbraten mit Preiselbeeren probiert?
+Mein Kollege bringt immer wieder selbstgemachte Marmorkuchen mit.
+Hast du das Pasta-Rezept mal ausprobiert?
+Der Kaffee hier ist richtig bitter leider.
+Wir bestellen heute wieder Sushi, klang gut.
+Meine Oma macht die besten Apfelstrudel.
+Ich verzichte langsam auf Zucker, echt schwer.
+Sollen wir das Rezept einfach halbierten?
+Das Steak war total zart, musst du mal probieren.
+Hab extra glutenfreies Mehl für den Kuchen gekauft.
+Wir essen abends nur noch Salate.
+Kennst du da ne gute Pizza-Bäckerei?
+Der Duft von frischem Brot ist genial.
+Ich mag das Sushi nicht so warm.
+Probier mal die Currywurst mit Senfsoße.
+Mein Mann kocht jetzt auch gerne mit mir.
+Die Suppe war heute etwas zu salzig.
+Wir müssen bald mal again zusammen grillen.
+Das Eis vom Platzschalter ist einfach besser.
+Ich habe keine Lust mehr auf Fast Food.
+Findest du den Döner in der Ecke auch gut?
+Meine Niere mag Salz gar nicht mehr.
+Lass uns morgen wieder vegan probieren.
+Der Fisch war leider schon etwas alt.
+Kannst du mir das Rezept noch mal schicken?
+Wir haben heute Abend wieder Bolognese gegessen.
+Die Desserts im Hotel waren echt üppig.
+Ich trinke morgens nur noch grünen Tee.
+Meine Oma hat mir das original Bohneneintopf Rezept gegeben.
+Hast du schon mal den neuen Italiener in der Innenstadt probiert?
+Ich versuche gerade auf Zucker zu verzichten, ist schwer.
+Das Risotto braucht echt Geduld und ständiges Umrühren.
+Kann ich dir mein selbstgemachtes Pesto vom Basilikum geben?
+Wir haben heute Abend wieder Pizza aus dem Ofen gemacht.
+Der Bäcker hier dreht die Preise langsam an den Rand.
+Ich kann ohne Kaffee morgens einfach nicht aufstehen.
+Hast du Tipps für schnelle Gerichte wenn man faul ist?
+Die Currywurst beim Imbiss steht nochmal richtig gut da.
+Mein Freund kocht nur noch vegetarisch seit letztem Sommer.
+Ich habe versehentlich zu viel Salz in den Nudelsalat getan.
+Kommst du morgen zum gemeinsamen Grillen im Hinterhof vorbei?
+Das neue Buffet im Supermarkt ist leider ziemlich überteuert.
+Ich lerne gerade Bagels machen weil sie mir so gut schmecken.
+Was machst du eigentlich mit übrig gebliebenem Kartoffelpüree?
+Wir suchen immer noch das perfekte Rouladen Rezept zu Weihnachten.
+Die Sushi Bar um die Ecke hat echt frischen Fisch.
+Ich esse zurzeit nur noch Smoothie Bowls zum Frühstück.
+Meine Tante bringt jedes Mal ihren berühmten Apfelkuchen mit.
+Soll ich das Essen schon auftauen oder machst du es später?
+Das Brot aus der Bäckerei nebenan ist immer locker und warm.
+Ich habe kein Ahnung von Wein dazu passt am besten.
+Kannst du mir mal zeigen wie man richtige Spaghetti kocht?
+Der Döner war leider wieder zu fettig für meinen Magen.
+Wir planen eine kleine Kochwoche mit Freunden nächste Woche.
+Hast du schonmal das neue italienische Restaurant probiert?
+Mein Cousin bringt heute Abend selbstgemachte Pizza vorbei.
+Ich kaufe immer mein Obst direkt am Wochenmarkt.
+Das Curry hat leider etwas zu scharf geschmeckt.
+Wir wollen morgen einen großen Gemüseeintopf kochen.
+Kann ich dir meinen Lieblingssalat mit Bruschetta empfehlen?
+Die Suppe war einfach nur lauwarm und langweilig.
+Ich versuche gerade weniger Fleisch in meinem Alltag zu essen.
+Hast du zufällig noch ein bisschen Sahne für den Kuchen?
+Der Burger vom neuen Laden um die Ecke ist riesig.
+Mir fehlen irgendwie Ideen für das heutige Abendessen.
+Wir haben uns gestern Abend auf Pasta mit Pesto geeinigt.
+Das Dessert war viel zu süß für meinen Geschmack.
+Ich mag es, wenn mein Partner mir den Kaffee holt.
+Kannst du mir die Zutatenliste für diesen Auflauf schicken?
+Die frischen Erdbeeren aus dem Supermarkt schmecken super.
+Wir laden Freunde zum Grillen und Eisessen ein.
+Mein Opa kocht immer noch nach seiner eigenen Familie.
+Ich habe leider keinen Appetit auf so kalte Speisen.
+Das neue Menü im Restaurant klingt wirklich verlockend für mich.
+Hast du Zeit, uns beim Einlegen der Gurken zu helfen?
+Die Pasta war schön al dente und sehr lecker.
+Wir sparen oft Geld, indem wir selbst Kuchen backen.
+Mir schmeckt am liebsten die Tomatensoße vom italienischen Koch.
+Ich esse heute Abend nur einen einfachen Salat mit Hähnchen.
+Meine Oma schickt mir immer wieder alte Kochrezepte per Mail.
+Ich hab keine Lust mehr auf Instantnudeln zum Abendessen.
+Das neue italienische Restaurant downtown hat super Pizza.
+Kannst du mal das Rezept für dein Pasta Arrabiata schicken?
+Wir wollen endlich lernen wie man Brot wirklich gut bäckt.
+Die Currywurst am Hauptbahnhof ist echt ein Geheimtipp.
+Ich esse seit zwei Wochen nur noch pflanzliche Milchalternativen.
+Mein Mann macht den perfekten Rührei wenn er aufsteht.
+Hab gestern zufällig das beste Eis in der Stadt gefunden.
+Kochlöffel suchen ist immer die halbe Miete beim Kochen.
+Die Döner im Sommeressen waren total fettig und überladen.
+Ich probiere gerade meine Glück mit dem neuen Mixer aus.
+Sollten wir für den Grillabend mal vegane Burger kaufen?
+Mein Kollege kann nicht glauben dass ich so gerne Spinat esse.
+Das Buffet beim Betriebsausflug war leider ziemlich durchwachsen.
+Ich hasse es wenn Zwiebeln meinen Tränenstrom auslösen beim Schneiden.
+Habt ihr schonmal die neuen Snacksticks von Aldi getestet?
+Wir haben uns gestern Abend einfach nur Pasta gegessen.
+Der Koch im Restaurant war super freundlich und zuvorkommend.
+Ich suche dringend ein Rezept für glutenfreie Weihnachtsplätzchen.
+Meine Schwester backt immer den besten Kuchen für Familienfeiern.
+Das Wasser im Fonduegeschirr muss wirklich schön sprudelnd sein.
+Kannst du mir sagen wie man Tomatenmark richtig aufbewahrt?
+Die Fischbrötchen im Hafen sind immer noch mein absoluter Favorit.
+Ich esse am Wochenende gerne mal etwas Schweres ohne Reue.
+Hast du das Geheimrezept für deine Soße?
+Mein Papa kocht am besten Bolognese.
+Ich hab heute Mittag Pizza bestellt.
+Das Sushi im neuen Asiaten war okay.
+Kannst du mir ein Rezept für Brownies schicken?
+Wir essen heute Abend wieder nur Nudeln.
+Der Kuchen aus dem Ofen riecht herrlich.
+Ich probiere gerne neue Rezepte aus dem Internet.
+Meine Oma hat uns gelehrt Suppe zu kochen.
+Das Buffet im Hotel war wirklich üppig.
+Ich kaufe mein Gemüse lieber direkt beim Bauern.
+Warum nimmst du immer nur den gleichen Salat?
+Die Spaghetti Bolognese ist in zwanzig Minuten fertig.
+Ich hasse es, wenn das Fleisch zu trocken wird.
+Kann jemand mir mal zeigen wie man Ravioli macht?
+Das Eis bei dem Italiener um die Ecke ist genial.
+Wir haben gesternabend lange über Ernährung diskutiert.
+Mein Freund kann leider gar nicht kochen wirklich.
+Hast du schon mal mit Kokosjoghurt gebacken?
+Der Duft von frischem Brot wachtr mich auf.
+Ich versuche momentan weniger Zucker zu essen.
+Das Menü im japanischen Restaurant war eine Enttäuschung.
+Wir brauchen dringend mehr Gemüse in unserem Alltag.
+Kochst du öfter vegan als früher überhaupt?
+Hab wieder zu viel Soße gekocht, Argh.
+Das Currywurstbrot vom Imbiss ist einfach unschlagbar.
+Kannst du mir das Rezept für deinen Apfelpie schicken?
+Ich versuche gerade, weniger Fleisch im Supermarkt zu kaufen.
+Die Pizza aus dem Ofen schmeckt doch immer besser.
+Hab versehentlich Salz statt Zucker in den Kuchen getan.
+Mein Opa zaubert die besten Spaghetti Bolognese.
+Wir sollten doch mal wieder zusammen kochen gehen.
+Das neue asiatische Restaurant in der Altstadt ist top.
+Ich hasse es, wenn mir jemand bei meinen Rezepten hilft.
+Der Kartoffelsalat mit Essig gehört einfach zum Grillfest dazu.
+Hast du schon mal probiert, deinen eigenen Joghurt zu machen?
+Die Bratwurst war leider wieder etwas durchgefallen.
+Ich brauch dringend eine Idee für das Abendessen heute.
+Unser Lieblingsbistro hat leider vor zwei Wochen geschlossen.
+Das Dessert vom Kochenkurs hat echt gut geklappt.
+Ich esse am Wochenende nur noch Müsli zum Frühstück.
+Der Käsespätzle im Alpenhotel war einfach himmlisch.
+Kann jemand mir erklären, wie man Nudeln richtig kocht?
+Ich hab das neue Smoothie-Rezept direkt ausprobiert und es schmeckt gut.
+Wir haben heute Abend mal wieder Resteessen gegessen.
+Das Flammkuchen-Tutorial auf TikTok war echt hilfreich für mich.
+Ich vermisse die hausgemachten Suppen von meiner Oma sehr.
+Die Veggie-Burger in der Stadt sind mittlerweile ganz okay.
+Hast du Lust, mit mir diesen Kuchen vom Blog nachzubacken?
+Das Basilikum in unserer Küche wird langsam ganz welk.
+Hast du mal diesen neuen Imbiss bei uns am Markt ausprobiert?
+Meine Pasta hat total verklebt, ich war einfach zu lange weg.
+Wir bestellen heute wieder Sushi, das ist halt die schnellste Lösung.
+Der Rouladen Geschmack erinnerte mich stark an meine Großmutter.
+Ich versuche gerade, weniger Fleisch zu essen und mehr Gemüse zu kochen.
+Die Pizza vom Italiener um die Ecke schmeckt immer noch am besten.
+Kannst du mir bitte dein Rezept für den perfekten Bolognese Soße schicken?
+Ich hab versehentlich Salz statt Zucker in den Kuchen getan doof.
+Die regionalen Kartoffelsorten auf dem Bauernmarkt sehen wirklich lecker aus.
+Wir haben letzten Abend gemeinsam einen Riesling zum Fisch gegessen.
+Mir ist der Braten ein bisschen zu trocken geraten, mein Fehler halt.
+Kennst du da eine gute Stelle für vegetarische Burger in der Innenstadt?
+Ich muss heute unbedingt noch Brot kaufen, wir sind nämlich leer.
+Die hausgemachte Marmelade aus dem letzten Sommer schmeckt einfach super.
+Ich koche eigentlich nie gerne allein, das macht mir wenig Spaß.
+Unser Nachbar bringt uns immer wieder selbst gebrannten Senf vorbei.
+Das Dessert war viel zu süß für meinen Geschmack persönlich.
+Ich überlege, ob ich mir einen Food Processor zulegen soll.
+Die frischen Kräuter vom Balkon holen dem Gericht echt die richtige Note.
+Hast du Lust auf ein gemeinsames Abendessen bei uns am Samstag?
+Der Kaffee im Café gegenüber ist zwar teuer, aber richtig gut.
+Ich muss dringend meine Tomatensuppe aufwärmen.
+Das neue asiatische Restaurant ist super lecker.
+Kannst du mir das Rezept für die Käsespätzle schicken?
+Wir grillen am Wochenende wieder Würstchen im Garten.
+Die Pizza aus dem Ofen war heute wirklich gut.
+Ich ess immer noch gern die Currywurst vom Stand.
+Meine Omas Apfelkuchen schmeckt einfach unvergesslich.
+Soll ich für das Dinnerparty was mitbringen oder bist du schon fertig?
+Die regionalen Gerichte hier sind wirklich eine Bereicherung.
+Hab vergessen Salz zu kaufen, daher war es blöd.
+Das Steak von der Metzgerei war zart und saftig.
+Ich probier mal wieder vegane Burger aus Neugier.
+Kaffee trinken wir morgens nur als Filterkaffee zusammen.
+Die Suppe vom Lidl ist heute Abend drin bestimmt.
+Wir haben gestern wieder beim Italiener gegessen dort.
+Dein Ratatouille sah auf dem Foto echt lecker aus.
+Ich hasse eigentlich noch immer grüne Bohnen sehr stark.
+Das Brot vom Bäcker nebenan ist frischer als gewohnt.
+Möchtest du nachher auch Eis essen gehen mit mir?
+Die Spaghetti Bolognese wird bei uns immer zum Standardgericht.
+Ich vermisste die street food Stände auf dem Markt.
+Kannst du mal schnell noch Milch beim Einkaufen holen?
+Der Kuchen aus der Bäckerei ist heute schon verkauft.
+Wir machen am Freitag wieder selbstgemachte Burger zu Hause.
+Die Marillenknödel von Oma schmeckten mir immer besonders gut.
+Schnell noch den Ofen anheizen bevor das Essen kalt wird.
+Ich hab das Ramen-Rezept endlich gemeistert.
+Der Neue Italiener in der Innenstadt ist super.
+Mein Papa kocht den besten Bratkartoffel-Salat.
+Ich versuche seit zwei Wochen kein Fleisch mehr.
+Hast du schon mal die Flammkuchen probiert?
+Das Pesto im Glas schmeckt einfach besser als selbstgemacht.
+Wir grillen heute Abend Wurst und Pommes.
+Die Currywurst am Kiosk ist meine absolute Liebe.
+Kannst du mir ein Rezept für schnellen Kuchen schicken?
+Ich hasse es, wenn das Steak zu rare kommt.
+Meine Oma macht diesen tollen Apfelpie immer sonntags.
+Das neue Sushi-Restaurant hat wirklich frischen Fisch.
+Ich esse morgens nur noch Haferflocken mit Beeren.
+Die Brezeln aus dem Ofen duften einfach himmlisch.
+Hast du Lust, heute Abend zusammen zu kochen?
+Der Ravioli im Restaurant war leider ganz matschig.
+Ich probiere mal die vegane Burger-Alternative aus.
+Das Fondue bei uns am See ist unvergesslich.
+Mein Freund kann Spaghetti Bolognese wie eine Maschine machen.
+Die Obsttorte vom Bäcker ist heute noch frisch.
+Wir machen ab jetzt Low-Carb zum Abendessen.
+Der Döner in meiner Nähe ist echt fair im Preis.
+Ich kann nicht ohne Salz und Pfeffer kochen.
+Das Dessert war süßer als erwartet, aber lecker.
+Meine Tante hat mir ihr geheimen Gewürzmix gegeben.
+Mama kocht am Sonntag immer riesige Bratäpfel mit Zimt.
+Wir haben uns gestern Abend Sushi bestellt und geteilt.
+Mein neuer Airfryer hat das Hähnchen richtig knusprig gebacken.
+Ich such ein Rezept für schnellen Nachtisch ohne Backofen.
+Die Currywurst im Kiosk schmeckt einfach am besten.
+Kannst du mir deine Liste mit dem Quinoa-Salat schicken?
+Wir probieren heute abend eine neue Pasta-Variante aus.
+Der Bäcker nebenan macht das beste Brot der Stadt.
+Ich vermisse wirklich die deutschen Brezeln hier im Ausland.
+Mein Vater brät jeden Freitag sein Lieblingssteak vom Grill.
+Hast du schon mal die neuen Burger in der Innenstadt probiert?
+Die Soße ist leider etwas zu scharf geworden, sorry.
+Wir planen für den Geburtstag eine kleine Fondue-Party.
+Ich lerne gerade erst richtig mit frischen Kräutern zu kochen.
+Das Eis vom Markt war wirklich cremig und nicht zu süß.
+Meine Freundin kocht immer nach Rezepten aus ihrem Heimatland.
+Kann man in diesem Restaurant auch allergienfrei bestellen?
+Der Duft vom frisch gebackenen Kuchen kam direkt die Treppe runter.
+Wir haben das Fleisch einfach zu lange im Ofen liegen lassen.
+Ich trinke nur noch Matcha statt meines normalen Morgenkaffees.
+Die Suppe vom Nachbarn schmeckt nach Hause und ist warmherzig.
+Hast du schon mal mit fermentiertem Gemüse experimentiert?
+Unser Kochkurs war zwar anstrengend, aber total lustig und lehrreich.
+Der Ketchup auf dem Pommes war einfach nur industriell süß.
+Hast du schon mal Bohnen auf Rheinisch probiert?
+Ich suche dringend ein Rezept für schnellen Abendbrot.
+Die Pizza im neuen Laden schmeckt echt gut.
+Mein Opa kocht den besten Kartoffelsalat aus Essig und Öl.
+Findest du das Essen im Supermarkt auch immer so teuer?
+Ich hab mir gestern ein neues Kochbuch gekauft.
+Das Pesto selbstgemacht ist einfach eine andre Welt.
+Hast du Tipps gegen Sodbrennen nach dem Essen?
+Mein Freund kann leider gar nicht richtig Braten würzen.
+Wir gehen morgen auf den Wochenmarkt für frisches Obst.
+Die Spaghetti haben mir diesmal wirklich super geschmeckt.
+Ich versuche gerade, weniger Zucker in meinen Kaffee zu tun.
+Kannst du mir das Rezept für deine Marmorkuchen schicken?
+Das Currywurststandchen um die Ecke hat immer Lange Schlangen.
+Mir schmeckt der neue Joghurt von Aldi echt gut.
+Wir machen heute abend mal wieder Nudeln mit Tomatensoße.
+Hast du Lust, dass wir zusammen einen Kuchen backen?
+Die Fleischpreise sind mir ehrlich gesagt einfach zu hoch.
+Ich koche gerne asiatisch, weil es so schnell geht.
+Das Bier ist hier leider total warm serviert worden.
+Mir fehlt irgendwie der richtige Impuls für das Abendessen.
+Probiert ihr auch immer diese neuen Snacktrends im Netz?
+Der Kuchen ist noch warm aus dem Ofen und riecht himmlisch.
+Ich hasse es, wenn ich hungrig in den Supermarkt gehe.
+Ich sehne mich gerade total nach richtigem Spaghetti Bolognese.
+Meine Nudeln sind immer wieder zu al dente gar nicht.
+Hast du schon mal probiert wie gut dieser Hummus schmeckt?
+Wir grillen heute Abend einfach nur Wurst und Pommes.
+Der neue Italiener um die Ecke hat super Pizzen.
+Ich versuche mich gerade an selbstgemachtem Joghurt.
+Vergiss nicht den Deckel abzulösen beim Kochen.
+Mein Vater kocht sonntags immer sein Lieblingsgericht Sauerbraten.
+Das Rezept war irgendwie zu kompliziert für mich heute.
+Wir haben letzte Woche super viel übrig gehabt und gefroren.
+Kannst du mir mal dein Secret Recipe verraten?
+Ich hasse es wenn die Zwiebeln meine Augen reizen.
+Die Currywurst an der Ecke ist eigentlich ganz okay.
+Wir bestellen wieder Pita weil uns nichts einfällt.
+Hab heute mal aus Versehen zu viel Salz drin getan.
+Das Brot vom Bäcker unten ist wirklich frisch und knusprig.
+Ich mag es wenn die Soße richtig dick wird.
+Möchtest du auch ein Stück von meinem Apfelkuchen probieren?
+Wir sparen Geld indem wir nur noch selbst kochen.
+Der Duft vom frischen Kuchen geht mir durch den Kopf.
+Meine Mama macht den besten Kartoffelsalat mit Essig.
+Hast du eigentlich schon mal echte Ramen aus Asien probiert?
+Das war die beste Pizza die ich je gegessen habe.
+Wir müssen dringend noch Obst und Gemüse einkaufen gehen.
+Hab da einen super Rezepttipp für dich gefunden.
+Mein Chili Con Carne schmeckt immer noch nicht so richtig.
+Wir gehen dieses Wochenende mal wieder essen.
+Kannst du mir das Salz auf dem Tisch rüberreichen?
+Ich versuche gerade, mehr Gemüse in meine Rezepte zu integrieren.
+Die Pizza vom Italiener um die Ecke ist legendär.
+Hast du schon mal selbst Spaghetti Bolognese gekocht?
+Mein Mann kocht am liebsten immer nur Nudeln mit Tomatensoße.
+Das neue Menü im Hotelrestaurant war wirklich beeindruckend.
+Möchtest du heute Abend gemeinsam etwas einfaches zusammen kochen?
+Der Apfelkuchen meiner Oma ist einfach unschlagbar gut.
+Wir sollten mal wieder einen Fondueabend bei uns veranstalten.
+Ich hasse es, wenn das Fleisch im Ofen zu trocken wird.
+Kennst du jemanden, der gute asiatische Restaurants empfiehlt?
+Mein Smoothie aus Beeren und Joghurt war heute super lecker.
+Ich überlege ernsthaft, in einem Kochkurs teilzunehmen.
+Das Brot vom Bäckerladen hier ist wirklich frisch gebacken.
+Hast du schon gehört, dass sie jetzt vegetarische Optionen anbieten?
+Ich muss aufpassen, nicht zu viel Zucker in den Kuchen zu geben.
+Unser Picknick im Park war trotz des Regens ganz toll.
+Die Suppe war heute etwas zu salzig für meinen Geschmack.
+Ich würde gerne lernen, wie man authentischen Ramen macht.
+Das Steak war perfekt medium gebraten und sehr zart.
+Wir haben nach dem Laufen einen großen Hunger bekommen.
+Mama kocht heute wieder ihre berühmte Apfelflaschen Suppe.
+Ich hab das Rezept online gefunden und es war super einfach.
+Hast du schonmal die Currywurst von dem Stand am Hauptbahnhof probiert?
+Mein Cousine backt jeden Sonntag ihr eigenes Brot.
+Wir waren letzte Woche im neuen Sushi Restaurant downtown.
+Die Pizza hier ist wirklich nicht mehraus wie bei uns zu Hause.
+Ich versuche gerade, mehr Gemüse in meine Ernährung einzubauen.
+Kannst du mir das Rezept für deine Schokoladencupcakes schicken?
+Das Rindergulasch war etwas zu hart gekocht gestern Abend.
+Wir machen am Wochenende mal Grillen mit Freunden.
+Die Döner Bude an der Ecke hat echt guten Falafel.
+Ich mag keine sauren Beeren, besonders keine Heidelbeeren.
+Hat jemand eine Idee für ein schnelles Abendessen heute?
+Das Dessert im Restaurant war leider etwas zu süß.
+Mein Vater kocht am liebsten seine klassische Wiener Schnitzel.
+Wir haben gestern Abend Pasta mit Pesto und Tomaten gemacht.
+Die Burger hier sind wirklich riesig und sehr fleischig.
+Ich esse gern vegan, aber Fleisch schmeckt mir auch gut.
+Das Eiscafé um die Ecke hat leckere Erdbeer Eismilch.
+Wir laden nächste Woche zum Essen ein, bring etwas mit.
+Die Nudelsuppe ist immer mein Lieblingsessen an kalten Tagen.
+Ich hab vergessen, Salz in den Reis zu geben.
+Das Restaurant war voll, wir mussten draußen warten.
+Meine Oma macht die besten Kartoffelpuffer, echt genial.
+Hast du das Rezept für die Kartoffelgratin nochmal?
+Meine Oma kocht den besten Borschtsch der Welt.
+Wir essen heute einfach nur mal wieder Pizza.
+Das neue italienische Bistro hat super frische Pasta.
+Ich versuche gerade, weniger Fleisch zu verzehren.
+Die selbstgemachte Tomatensauce schmeckt wirklich am besten.
+Kannst du mir den Link zur Döner-Imbissliste schicken?
+Mein Freund backt immer freitags seine Lieblingsspeise.
+Wir müssen unbedingt mal wieder zusammen grillen gehen.
+Das vegane Burger-Menü war überraschend lecker und satt.
+Hab zufällig zu viel Mehl gekauft, was mach ich jetzt?
+Die Currywurst in Köln ist ein absolutes Muss für mich.
+Ich lerne gerade Italienisch kochen, weil es Spaß macht.
+Meine Mutter strengt sich echt an mit den diätischen Gerichten.
+Wir suchen noch einen Tisch für morgen Abend.
+Der Kuchen vom Bäcker nebenan ist einfach nur göttlich.
+Ich hasse es, wenn Gäste ihre eigenen Snacks mitbringen.
+Das Sushi-Set reicht locker für drei Personen aus.
+Probiere mal das neue Smoothie-Café im Zentrum.
+Mein Kochkurs war super teuer aber richtig lehrreich.
+Wir kochen heute zusammen Pasta und trinken Wein dazu.
+Die regionalen Produkte schmecken einfach besser als Importe.
+Ich vergesse immer wieder, den Reis vorher zu waschen.
+Das Dessert war etwas süß für meinen Geschmacksgeschmack.
+Hast du schon mal probiert, mit Airfryer zu garen?
+Ich hab extra die Sauerkrautdosen leer gegessen.
+Mein Chili con Carne war leider total ausgedehnt.
+Wir gehen morgen Abend auf jeden Fall Italiener essen.
+Hast du das Rezept für die Döner Soße?
+Das Currywurst mit Pommes ist einfach mein Favorit.
+Ich kaufe nur noch Bio Eier vom Bauernhof.
+Die Suppe war zwar warm aber echt langweilig.
+Kannst du mir mal deine Nudelsoße Zubereitung zeigen?
+Der Karpfen im Teich sieht echt hungrig aus.
+Ich mag es nicht wenn mein Reis klebt.
+Wir haben selbst Kuchen gebacken und alle waren begeistert.
+Hast du schon mal japanisches Essen probiert oder so?
+Das Schweinshaxen war perfekt weich und super gewürzt.
+Ich versuche gerade weniger Zucker in den Kaffee zu geben.
+Die Kartoffelbrötchen beim Bäcker schmecken halt am besten.
+Wir haben das Steak etwas zu kurz gegrillt leider.
+Findest du auch Limonaden mit echtem Zitronensaft besser?
+Meine Großmutter kocht immer noch nach altem Rezept.
+Das Pesto aus der Tube schmeckt irgendwie immer gleich.
+Ich trage immer meine eigene Brotdose zur Arbeit mit.
+Die Spargelzeit ist für mich jedes Jahr ein Highlight.
+Hast du eigentlich schon mal gebratene Insekten probiert?
+Das Flammkuchen vom Imbiss ist einfach unschlagbar gut.
+Habe gerade den perfekten Döner für drei Euro gefunden.
+Mein Pappa kocht jeden Sonntag Abend seine Spezialität.
+Kannst du mal das Rezept für die Bohnen schicken?
+Die Pasta war leider wieder zu al dente gegart.
+Ich mag diese neuen veganen Burger echt überraschend gut.
+Hast du schonmal probiert mit Ingwer zu kochen?
+Das Restaurant am Hauptbahnhof ist total überbewertet ehrlich.
+Wir grillen morgen Abend mal wieder Steaks im Garten.
+Meine Oma hat ein tolles Rezept für Apfelmus.
+Ich versuche gerade mich ausgewogener und gesünder zu ernähren.
+Die Brötchen aus der Bäckerie um die Ecke sind legendär.
+Warum ist bei dir der Reis immer so perfekt?
+Habe gestern Abend nur eine Banane als Snack gegessen.
+Das Sushi im japanischen Laden untenrum ist wirklich frisch.
+Kann jemand mir ein gutes Buch zum Backen empfehlen?
+Ich esse am liebsten abends meine Lieblingssuppe mit Brot.
+Die Gewürze in dem Curry waren einfach zu scharf.
+Mein neuer Freund kann leider gar nicht richtig kochen im Ernst.
+Die Kaffeebohnen die ich neulich bestellt habe riechen super.
+Wir haben das Rezept für den Kuchen ausprobiert und es war okay.
+Ich vermisse so sehr meine Mamas selbstgemachte Strudel Torten.
+Das neue Foodtruck Konzept in der Innenstadt ist echt interessant.
+Soll ich noch Fleisch oder nur Gemüse für den Salat kaufen?
+Hast du eigentlich das Rezept für die Borschtsch?
+Mein Cousin kocht immer den besten Paella auf der Terrasse.
+Ich hab mir gestern Abend einfach nur Rammen geholt.
+Kannst du mir mal die Zutatenliste für die Kuchen schicken?
+Wir gehen nächsten Friday definitiv wieder zu diesem Griechen.
+Die neuen Smoothies aus der Apotheke schmecken echt gruselig.
+Mama macht jeden Sonntag ihren speziellen Kürbisbrei mit Ingwer.
+Ich suche schon ewig nach nem guten Bäcker hier runter.
+Hast du Lust, morgen zusammen Pizza von Grund auf zu backen?
+Das Tiramisu war leider viel zu süß für meinen Geschmack.
+Er probiert seit Monaten das ketogene Diätprogramm aus.
+Wir bestellen beim Italiener um die Ecke fast jeden Abend.
+Die Bratwurst vom Imbiss stand immer noch nicht im Ofen.
+Ich mag keinen Knoblauch, auch wenn er gesund sein soll.
+Meine Schwester hat endlich ihre eigene Foodblog gestartet.
+Sollen wir diese Woche mal wieder den Kochkurs besuchen?
+Der Kaffee aus der neuen Rösterei ist wirklich überragend gut.
+Ich vergesse immer, die Milch für den Kaffee einzukaufen.
+Die Maultaschen haben mich an meine Oma in Schwaben erinnert.
+Kann ich dir das Restgericht vom Mittag mit nach Hause nehmen?
+Wir testen gerade ein neues Rezept für glutenfreies Brot aus.
+Das Fleisch war so zart, dass es im Mund zerging.
+Ich hasse es, wenn jemand seine Speisen mit zu viel Salz überlädt.
+Die veganen Burger in der Stadtmitte sind eigentlich gar nicht mal schlecht.
+Hast du das neue Menü im Restaurant gesehen?
+Ich such noch eine gute Alternative für Sojasahne.
+Das Curry von gestern war echt zu scharf.
+Wirst du heute wieder auswärts essen oder kochen?
+Mein Vater macht immer noch den klassischen Kartoffelsalat.
+Kannst du mir die Zutatenliste nochmal schicken bitte.
+Wir haben am Wochenende eine riesige Grillparty geplant.
+Der neue Italiener in der Altstadt ist total überbewertet.
+Ich versuche gerade, meine Zuckerzufuhr etwas zu reduzieren.
+Das Risotto mit Steinpilzen hat einfach fantastisch geschmeckt.
+Hast du schon mal selbst Sauerteig angesetzt?
+Ich habe mir eine neue Standmixer gekauft.
+Meine Oma kocht immer noch alles von Hand.
+Wir bestellen heute Abend wieder Pizza von Mario.
+Kannst du pflanzliche Milch in die Soße geben?
+Das Gericht war leider etwas untergewürzt und salzig.
+Ich überlege, ob ich einen Kochkurs buche.
+Die Bratwürste auf dem Wochenmarkt sind immer frisch.
+Mir fehlt einfach die Zeit zum gesunden Kochen.
+Wir testen heute Abend ein neues veganeres Rezept.
+Der Kaffee nach dem Essen war wirklich erstklassig.
+Ich hasse es, wenn das Gemüse matschig wird.
+Hast du einen Tipp für schnelle Wochentagsgerichte?
+Die Desserts dort sind leider viel zu süß.
+Ich liebe den Geruch von frisch gebackenem Brot.
+Ich muss mal wieder ins Supermarktrennen rennen.
+Hast du das neue Rezept vom YouTube Channel gesehen?
+Mein Cousin backt die besten Brötchen der Stadt.
+Wir gehen heute Abend auf Pizza, ich hab Hunger.
+Die Dönerbude um die Ecke hat wirklich guten Fleisch.
+Ich versuche gerade meine Rezepte etwas gesünder zu gestalten.
+Kannst du mir dein Geheimnis für fluffiges Rührteig verraten?
+Der Kaffee hier schmeckt irgendwie immer nur nach Wasser.
+Hab heute zum ersten Mal Sushi selbst gemacht und es war lustig.
+Die regionalen Kartoffeln im Winter sind einfach ungeschlagen.
+Ich finde das Restaurant am Marktplatz total überbewertet.
+Meine Oma hat mir ihr altes Buch mit Apfelkuchenrezepten geschenkt.
+Wir haben ab jetzt nur noch Bio-Produkte im Haus.
+Soll ich für das Picknick heute was Süßes mitbringen?
+Die Spargelsuppe war wirklich cremig und nicht zu salzig.
+Ich hasse es, wenn die Wurst im Supermarkt abgelaufen ist.
+Probiert mal diese neue Marke für pflanzlichen Joghurt aus.
+Das Currywurst-Bier-Fest am Wochenende war richtig krass.
+Ich mag italienisch kochen weil es immer schnell geht.
+Die frischen Kräuter aus dem Garten machen alles besser.
+Möchtest du das restliche Eis oder soll ich es wegmachen?
+Der neue Burgerladen hat eigentlich echt guten Service.
+Ich suche verzweifelt nach einem Rezept ohne Sojaanteil.
+Das Fondue war zwar kalt aber trotzdem lecker warm.
+Wir grillen morgen Abend wieder Hähnchen und Paprika ringsrum.
+Meine Pasta hat total überkocht, ich bin schuld.
+Kannst du mir das Rezept für die Bratwurst schicken?
+Ich esse lieber selbstgekocht als aus der Dose.
+Das neue Restaurant ums Eck macht super Tacos.
+Hab gestern drei Stunden an meinem Brot geübt.
+Wir brauchen dringend mehr frische Kräuter im Garten.
+Die Currywurst war leider etwas zu salzig heute.
+Probier mal diese japanischen Suppen aus, sind genial.
+Ich versuche gerade, weniger Fleisch auf den Tisch zu bringen.
+Mein Cousin kocht besser als jeder Michelin-Koch.
+Das Eis vom Markt schmeckt nach billigem Zucker.
+Wir grillen am Wochenende Hähnchen und veganes Burgerpatty.
+Hast du schon mal das Kochbuch von Nigella gelesen?
+Ich mag keine Lebensmittel, die in Plastik verpackt sind.
+Der Kaffeebeutel war gestern leider schon leer geworden.
+Lass uns morgen zusammen einen großen Bratapfel backen.
+Die Tomaten vom Bauernmarkt schmecken einfach am besten.
+Ich hasse es, wenn Zwiebeln mir immer die Augen reizen.
+Kann ich dir bei deiner Diät ein paar Tipps geben?
+Das Fondue ist leider etwas zu fest geworden gestern.
+Meine Oma macht den besten Apfelkuchen der Welt.
+Wir haben heute Abend wieder nur Nudeln gegessen.
+Findest du auch, dass Sushi oft zu teuer ist?

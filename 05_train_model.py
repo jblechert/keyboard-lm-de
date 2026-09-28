@@ -43,6 +43,7 @@ from transformers import (
     TrainingArguments,
     DataCollatorForLanguageModeling,
 )
+from transformers.trainer_utils import get_last_checkpoint
 from datasets import IterableDataset
 
 def gpu_stats() -> str:
@@ -106,7 +107,7 @@ LR                 = 3e-4
 LR_WARMUP_STEPS    = 1000
 WEIGHT_DECAY       = 0.1
 MAX_GRAD_NORM      = 1.0
-SAVE_STEPS         = 5_000
+SAVE_STEPS         = 2_500
 LOGGING_STEPS      = 200
 SNAPSHOT_DIR       = Path("data/snapshots")
 
@@ -268,7 +269,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--no-synthetic", action="store_true")
     parser.add_argument("--steps",  type=int, default=200_000)
-    parser.add_argument("--milestones", default=",".join(str(s) for s in range(50_000, 200_001, 10_000)))
+    parser.add_argument("--milestones", default=",".join(str(s) for s in range(5_000, 200_001, 5_000)))
     parser.add_argument("--version", default="v0.5.1")
     parser.add_argument("--resume", action="store_true")
     args = parser.parse_args()
@@ -356,7 +357,13 @@ def main():
             print(f"  [Warte auf Compile... {time.time()-t0:.0f}s] {gpu_stats()}", flush=True)
     threading.Thread(target=_monitor, daemon=True).start()
 
-    resume_from = str(OUTPUT_DIR) if args.resume else None
+    resume_from = None
+    if args.resume:
+        resume_from = get_last_checkpoint(str(OUTPUT_DIR))
+        if resume_from:
+            print(f"  → Resuming from {resume_from}")
+        else:
+            print("  [warn] Kein Checkpoint gefunden, starte neu")
     trainer.train(resume_from_checkpoint=resume_from)
     _compile_done.set()
 
